@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De zus van mijn man is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "خواهرِ همسر، «schoonzus» (خواهرشوهر/خواهرزن) نامیده می‌شود.",
+    "grammar_rule_fa": "schoonzus=خواهرِ همسر (از طریق ازدواج).",
+    "extra_example_nl": "Mijn schoonzus komt op bezoek.",
+    "extra_example_fa": "خواهرشوهرم به دیدار می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "schoonzus",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خواهرِ همسر."
+      },
+      {
+        "key": "B",
+        "text_nl": "schoonmoeder",
+        "is_correct": false,
+        "feedback_fa": "این مادرِ همسر است، نه خواهر."
+      },
+      {
+        "key": "C",
+        "text_nl": "nicht",
+        "is_correct": false,
+        "feedback_fa": "این دخترخاله/دخترعمو است، نه خواهرِ همسر."
+      },
+      {
+        "key": "D",
+        "text_nl": "tante",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De moeder van mijn vrouw is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "مادرِ همسر، «schoonmoeder» (مادرزن/مادرشوهر) نامیده می‌شود.",
+    "grammar_rule_fa": "schoonmoeder=مادرِ همسر.",
+    "extra_example_nl": "Mijn schoonmoeder woont dichtbij.",
+    "extra_example_fa": "مادرزنم نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "schoonzus",
+        "is_correct": false,
+        "feedback_fa": "این خواهرِ همسر است، نه مادر."
+      },
+      {
+        "key": "B",
+        "text_nl": "oma",
+        "is_correct": false,
+        "feedback_fa": "این عنوانِ مادربزرگ است، نه مادرِ همسر."
+      },
+      {
+        "key": "C",
+        "text_nl": "tante",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "schoonmoeder",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مادرِ همسر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De broer van mijn vader is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برادرِ پدر، «oom» (عمو) نامیده می‌شود.",
+    "grammar_rule_fa": "oom=برادرِ پدر یا مادر.",
+    "extra_example_nl": "Mijn oom werkt in Rotterdam.",
+    "extra_example_fa": "عمویم در روتردام کار می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "schoonvader",
+        "is_correct": false,
+        "feedback_fa": "این پدرِ همسر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "opa",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "oom",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برادرِ پدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "neef",
+        "is_correct": false,
+        "feedback_fa": "این پسرعمو/پسردایی است، نه برادرِ پدر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De dochter van mijn oom is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دخترِ عمو/دایی، «nicht» (دخترعمو/دخترخاله) نامیده می‌شود.",
+    "grammar_rule_fa": "nicht=دخترِ عمو/دایی/عمه/خاله.",
+    "extra_example_nl": "Mijn nicht is even oud als ik.",
+    "extra_example_fa": "دخترعمویم هم‌سنِ من است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "schoonzus",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "nicht",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دخترِ عمو."
+      },
+      {
+        "key": "C",
+        "text_nl": "zus",
+        "is_correct": false,
+        "feedback_fa": "این خواهرِ خودم است، نه دخترِ عمو."
+      },
+      {
+        "key": "D",
+        "text_nl": "tante",
+        "is_correct": false,
+        "feedback_fa": "تانته یک نسل بالاتر است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De zoon van mijn zus is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پسرِ خواهر، «neef» (خواهرزاده/برادرزاده) نامیده می‌شود.",
+    "grammar_rule_fa": "neef=پسرِ برادر/خواهر (یا پسرعمو/پسردایی).",
+    "extra_example_nl": "Mijn neef is nog een baby.",
+    "extra_example_fa": "خواهرزاده‌ام هنوز نوزاد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "neef",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پسرِ خواهر."
+      },
+      {
+        "key": "B",
+        "text_nl": "broer",
+        "is_correct": false,
+        "feedback_fa": "این پسرِ پدرومادرِ خودم است، نه پسرِ خواهرم."
+      },
+      {
+        "key": "C",
+        "text_nl": "kleinzoon",
+        "is_correct": false,
+        "feedback_fa": "این پسرِ فرزندِ خودم است، نسلِ متفاوت."
+      },
+      {
+        "key": "D",
+        "text_nl": "schoonbroer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We zijn niet getrouwd, maar wonen al vijf jaar samen en hebben samen een huis gekocht. Ik noem hem mijn ___, niet mijn man.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون ازدواج نکرده‌اند، عنوانِ رسمیِ فردی که با او زندگی مشترک دارید «partner» است، نه «man».",
+    "grammar_rule_fa": "partner=همراهِ زندگی (بدونِ ازدواجِ رسمی).",
+    "extra_example_nl": "Zij noemt hem haar partner, ze zijn niet getrouwd.",
+    "extra_example_fa": "او او را «پارتنر» می‌نامد، ازدواج نکرده‌اند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "man",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet mijn man»."
+      },
+      {
+        "key": "B",
+        "text_nl": "schoonvader",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "neef",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "partner",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ عنوانِ درست برای همراهِ بدونِ ازدواجِ رسمی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We gaan volgende maand trouwen, maar nu zijn we nog geen man en vrouw. Op dit moment is hij mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کسی که نامزد کرده اما هنوز ازدواج نکرده، «verloofde» (نامزد) نامیده می‌شود.",
+    "grammar_rule_fa": "verloofde=نامزد (قبل از ازدواجِ رسمی).",
+    "extra_example_nl": "Zij draagt al een ring van haar verloofde.",
+    "extra_example_fa": "او از قبل حلقه‌ی نامزدی‌اش را دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vriend",
+        "is_correct": false,
+        "feedback_fa": "با ازدواجِ ماهِ بعد، «verloofde» دقیق‌تر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "schoonzoon",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "verloofde",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ قبل از ازدواج، عنوانِ درست «verloofde» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "man",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید هنوز ازدواج نکرده‌اند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn vader is opnieuw getrouwd. Zijn nieuwe vrouw is mijn ___, niet mijn moeder.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "همسرِ جدیدِ پدر (که مادرِ واقعی نیست) «stiefmoeder» (نامادری) نامیده می‌شود.",
+    "grammar_rule_fa": "stiefmoeder=همسرِ جدیدِ پدر (نامادری).",
+    "extra_example_nl": "Mijn stiefmoeder is aardig voor me.",
+    "extra_example_fa": "نامادری‌ام با من مهربان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "oma",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "stiefmoeder",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همسرِ جدیدِ پدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "schoonmoeder",
+        "is_correct": false,
+        "feedback_fa": "این مادرِ همسر است، نه همسرِ پدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "tante",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De zoon van mijn stiefmoeder, uit haar vorige huwelijk, is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پسرِ نامادری از ازدواجِ قبلی‌اش، «stiefbroer» (ناتنی) نامیده می‌شود.",
+    "grammar_rule_fa": "stiefbroer=برادرِ ناتنی.",
+    "extra_example_nl": "Mijn stiefbroer woont bij zijn moeder.",
+    "extra_example_fa": "برادرِ ناتنی‌ام با مادرش زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "stiefbroer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پسرِ نامادری از ازدواجِ قبلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "broer",
+        "is_correct": false,
+        "feedback_fa": "برادرِ واقعی از خونِ یکسان است، این یکی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "neef",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "schoonbroer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De ouders van mijn vader zijn mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "والدینِ پدر، «grootouders» (پدربزرگ و مادربزرگ) نامیده می‌شوند.",
+    "grammar_rule_fa": "grootouders=پدربزرگ و مادربزرگ.",
+    "extra_example_nl": "Mijn grootouders wonen in Friesland.",
+    "extra_example_fa": "پدربزرگ و مادربزرگم در فریسلند زندگی می‌کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "ouders",
+        "is_correct": false,
+        "feedback_fa": "این خودِ پدر و مادر است، نسلِ اشتباه."
+      },
+      {
+        "key": "B",
+        "text_nl": "oom en tante",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "schoonouders",
+        "is_correct": false,
+        "feedback_fa": "این والدینِ همسر است."
+      },
+      {
+        "key": "D",
+        "text_nl": "grootouders",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ والدینِ پدر یا مادر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het kind van mijn kind is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "فرزندِ فرزند، «kleinkind» (نوه) نامیده می‌شود.",
+    "grammar_rule_fa": "kleinkind=نوه.",
+    "extra_example_nl": "Mijn kleinkind is drie jaar oud.",
+    "extra_example_fa": "نوه‌ام سه ساله است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "neefje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "achterneef",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "kleinkind",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فرزندِ فرزندِ من."
+      },
+      {
+        "key": "D",
+        "text_nl": "kind",
+        "is_correct": false,
+        "feedback_fa": "این خودِ فرزندِ من است، نسلِ اشتباه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn man en ik hebben geen kinderen, maar zijn broer heeft een dochter. Zij is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دخترِ برادرِ همسر، برای فرد، «nicht» (خواهرزاده/برادرزاده از طریق همسر) محسوب می‌شود.",
+    "grammar_rule_fa": "nicht=دخترِ برادر/خواهر (یا از طریقِ همسر).",
+    "extra_example_nl": "De dochter van zijn broer is onze nicht.",
+    "extra_example_fa": "دخترِ برادرش، خواهرزاده‌ی ماست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kleindochter",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "nicht",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دخترِ برادرِ همسر."
+      },
+      {
+        "key": "C",
+        "text_nl": "dochter",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید فرزندی ندارند."
+      },
+      {
+        "key": "D",
+        "text_nl": "schoonzus",
+        "is_correct": false,
+        "feedback_fa": "این خواهرِ همسر است، نه دخترِ برادرش."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De man van mijn zus is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "همسرِ خواهر، «schoonbroer» (باجناق/شوهرخواهر) نامیده می‌شود.",
+    "grammar_rule_fa": "schoonbroer=همسرِ خواهر یا برادرِ همسر.",
+    "extra_example_nl": "Mijn schoonbroer helpt me met verhuizen.",
+    "extra_example_fa": "شوهرخواهرم در جابه‌جایی کمکم می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "schoonbroer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همسرِ خواهر."
+      },
+      {
+        "key": "B",
+        "text_nl": "schoonvader",
+        "is_correct": false,
+        "feedback_fa": "این پدرِ همسر است، نه شوهرِ خواهر."
+      },
+      {
+        "key": "C",
+        "text_nl": "oom",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "neef",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ben de zus van je moeder. Voor jou ben ik je ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "خواهرِ مادر، «tante» (خاله) نامیده می‌شود.",
+    "grammar_rule_fa": "tante=خواهرِ مادر یا پدر.",
+    "extra_example_nl": "Mijn tante brengt altijd cadeautjes mee.",
+    "extra_example_fa": "خاله‌ام همیشه هدیه می‌آورد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "oma",
+        "is_correct": false,
+        "feedback_fa": "این یک نسل بالاتر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "nicht",
+        "is_correct": false,
+        "feedback_fa": "این دخترِ خاله است، نه خودِ خاله."
+      },
+      {
+        "key": "C",
+        "text_nl": "schoonzus",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "tante",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خواهرِ مادر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ben de broer van je vader. Voor jou ben ik je ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برادرِ پدر، «oom» (عمو) نامیده می‌شود.",
+    "grammar_rule_fa": "oom=برادرِ پدر یا مادر.",
+    "extra_example_nl": "Mijn oom vertelt altijd grappige verhalen.",
+    "extra_example_fa": "عمویم همیشه داستان‌های بامزه می‌گوید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "neef",
+        "is_correct": false,
+        "feedback_fa": "این پسرِ عمو است، نه خودِ عمو."
+      },
+      {
+        "key": "B",
+        "text_nl": "schoonvader",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "oom",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برادرِ پدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "opa",
+        "is_correct": false,
+        "feedback_fa": "این یک نسل بالاتر است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn dochter is getrouwd. Haar man is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "شوهرِ دختر، «schoonzoon» (داماد) نامیده می‌شود.",
+    "grammar_rule_fa": "schoonzoon=شوهرِ دختر (داماد).",
+    "extra_example_nl": "Mijn schoonzoon werkt als leraar.",
+    "extra_example_fa": "دامادم معلم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "schoonvader",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "schoonzoon",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شوهرِ دخترِ من."
+      },
+      {
+        "key": "C",
+        "text_nl": "zoon",
+        "is_correct": false,
+        "feedback_fa": "این پسرِ خودم است، نه دامادم."
+      },
+      {
+        "key": "D",
+        "text_nl": "neef",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn zoon is getrouwd. Zijn vrouw is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "همسرِ پسر، «schoondochter» (عروس) نامیده می‌شود.",
+    "grammar_rule_fa": "schoondochter=همسرِ پسر (عروس).",
+    "extra_example_nl": "Mijn schoondochter komt uit Spanje.",
+    "extra_example_fa": "عروسم اهلِ اسپانیاست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "schoondochter",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همسرِ پسرِ من."
+      },
+      {
+        "key": "B",
+        "text_nl": "dochter",
+        "is_correct": false,
+        "feedback_fa": "این دخترِ خودم است، نه عروسم."
+      },
+      {
+        "key": "C",
+        "text_nl": "schoonmoeder",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "nicht",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn moeder is voor de tweede keer getrouwd. De dochter van haar nieuwe man is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دخترِ همسرِ جدیدِ مادر (بدونِ خونِ مشترک)، «stiefzus» (ناتنی) نامیده می‌شود.",
+    "grammar_rule_fa": "stiefzus=خواهرِ ناتنی.",
+    "extra_example_nl": "Mijn stiefzus is ouder dan ik.",
+    "extra_example_fa": "خواهرِ ناتنی‌ام از من بزرگ‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zus",
+        "is_correct": false,
+        "feedback_fa": "خواهرِ واقعی از خونِ مشترک است، این یکی نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "nicht",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "schoonzus",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "stiefzus",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دخترِ همسرِ جدیدِ مادر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De vader van mijn opa is mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پدرِ پدربزرگ، «overgrootvader» (پدرِ پدربزرگ) نامیده می‌شود.",
+    "grammar_rule_fa": "overgrootvader=یک نسل بالاتر از پدربزرگ.",
+    "extra_example_nl": "Mijn overgrootvader leefde honderd jaar geleden.",
+    "extra_example_fa": "پدرِ پدربزرگم صد سال پیش زندگی می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "oom",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "schoonvader",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "overgrootvader",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پدرِ پدربزرگ."
+      },
+      {
+        "key": "D",
+        "text_nl": "opa",
+        "is_correct": false,
+        "feedback_fa": "این خودِ پدربزرگ است، نه پدرِ او."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik zorg soms voor de kinderen van mijn zus als zij werkt. Voor de kinderen ben ik hun ___, niet hun oppas.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون او خواهرِ مادرِ بچه‌هاست، از نظرِ خویشاوندی «tante» (خاله) است، نه صرفاً پرستارِ بچه.",
+    "grammar_rule_fa": "tante=خواهرِ مادر (رابطه‌ی خویشاوندی)، oppas=پرستارِ بچه (شغل، نه خویشاوندی).",
+    "extra_example_nl": "Voor mijn neefjes ben ik hun tante, niet hun oppas.",
+    "extra_example_fa": "برای خواهرزاده‌هایم خاله‌شان هستم، نه پرستارشان.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "oppas",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet hun oppas»."
+      },
+      {
+        "key": "B",
+        "text_nl": "tante",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رابطه‌ی خویشاوندی، نه شغل."
+      },
+      {
+        "key": "C",
+        "text_nl": "moeder",
+        "is_correct": false,
+        "feedback_fa": "او مادرِ آن‌ها نیست، خاله‌شان است."
+      },
+      {
+        "key": "D",
+        "text_nl": "oma",
+        "is_correct": false,
+        "feedback_fa": "این یک نسل بالاتر است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Zij is niet mijn moeder, maar de vrouw van mijn vader na de scheiding. Ik noem haar mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "همسرِ جدیدِ پدر بعد از طلاق، «stiefmoeder» (نامادری) نامیده می‌شود.",
+    "grammar_rule_fa": "stiefmoeder=همسرِ جدیدِ پدر.",
+    "extra_example_nl": "Zij is niet mijn vader, maar de man van mijn moeder. Ik noem hem mijn stiefvader.",
+    "extra_example_fa": "او پدرم نیست، همسرِ مادرم است؛ نام‌پدر می‌گویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "stiefmoeder",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همسرِ جدیدِ پدر بعد از طلاق."
+      },
+      {
+        "key": "B",
+        "text_nl": "moeder",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet mijn moeder»."
+      },
+      {
+        "key": "C",
+        "text_nl": "schoonmoeder",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "tante",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij is niet mijn broer, maar de zoon van mijn stiefmoeder. Ik noem hem mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پسرِ نامادری، «stiefbroer» (برادرِ ناتنی) نامیده می‌شود.",
+    "grammar_rule_fa": "stiefbroer=برادرِ ناتنی.",
+    "extra_example_nl": "Zij is niet mijn zus, maar de dochter van mijn stiefvader.",
+    "extra_example_fa": "او خواهرم نیست، دخترِ نام‌پدرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "broer",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet mijn broer»."
+      },
+      {
+        "key": "B",
+        "text_nl": "neef",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "schoonbroer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "stiefbroer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پسرِ نامادری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Zij is niet mijn tante, maar de dochter van mijn tante. Ik noem haar mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دخترِ خاله/عمه، «nicht» (دخترخاله/دخترعمه) نامیده می‌شود.",
+    "grammar_rule_fa": "nicht=دخترِ خاله/عمه/دایی/عمو.",
+    "extra_example_nl": "Hij is niet mijn oom, maar de zoon van mijn oom.",
+    "extra_example_fa": "او عمویم نیست، پسرِ عمویم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zus",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "schoonzus",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "nicht",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دخترِ خاله."
+      },
+      {
+        "key": "D",
+        "text_nl": "tante",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet mijn tante»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij is niet mijn oom, maar de zoon van mijn oom. Ik noem hem mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پسرِ عمو/دایی، «neef» (پسرعمو/پسردایی) نامیده می‌شود.",
+    "grammar_rule_fa": "neef=پسرِ عمو/دایی/عمه/خاله.",
+    "extra_example_nl": "Zij is niet mijn tante, maar de dochter van mijn oom.",
+    "extra_example_fa": "او عمه/خاله‌ام نیست، دخترِ عمویم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "schoonbroer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "neef",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پسرِ عمو."
+      },
+      {
+        "key": "C",
+        "text_nl": "oom",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet mijn oom»."
+      },
+      {
+        "key": "D",
+        "text_nl": "broer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Zij is niet mijn dochter, maar de dochter van mijn dochter. Ik noem haar mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دخترِ دختر، «kleindochter» (نوه‌ی دختر) نامیده می‌شود.",
+    "grammar_rule_fa": "kleindochter=دخترِ فرزند.",
+    "extra_example_nl": "Hij is niet mijn zoon, maar de zoon van mijn zoon: mijn kleinzoon.",
+    "extra_example_fa": "او پسرم نیست، پسرِ پسرم است: نوه‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kleindochter",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دخترِ فرزندِ من."
+      },
+      {
+        "key": "B",
+        "text_nl": "dochter",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet mijn dochter»."
+      },
+      {
+        "key": "C",
+        "text_nl": "nicht",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "zus",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij is niet mijn vader, maar de vader van mijn vader. Ik noem hem mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پدرِ پدر، «opa» (پدربزرگ) نامیده می‌شود.",
+    "grammar_rule_fa": "opa=پدرِ پدر یا مادر.",
+    "extra_example_nl": "Zij is niet mijn moeder, maar de moeder van mijn moeder: mijn oma.",
+    "extra_example_fa": "او مادرم نیست، مادرِ مادرم است: مادربزرگم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vader",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet mijn vader»."
+      },
+      {
+        "key": "B",
+        "text_nl": "oom",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "overgrootvader",
+        "is_correct": false,
+        "feedback_fa": "این یک نسل بالاتر از opa است."
+      },
+      {
+        "key": "D",
+        "text_nl": "opa",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پدرِ پدرِ من."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Zij is niet mijn schoonmoeder, maar de moeder van mijn schoonmoeder. Ik noem haar de ___ van mijn vrouw.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "مادرِ مادرزن، از دیدِ همسر، «oma» (مادربزرگ) است.",
+    "grammar_rule_fa": "oma=مادرِ مادر یا پدر.",
+    "extra_example_nl": "Hij is de opa van mijn man, de vader van zijn schoonvader.",
+    "extra_example_fa": "او پدربزرگِ شوهرم است، پدرِ پدرزنش.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "tante",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "moeder",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "oma",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مادرِ مادرزن، یعنی مادربزرگِ همسر."
+      },
+      {
+        "key": "D",
+        "text_nl": "schoonmoeder",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet mijn schoonmoeder»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De kinderen van mijn broer en mijn zus noem ik mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "فرزندانِ برادر و خواهر، در مجموع، «neven en nichten» (خواهرزاده‌ها و برادرزاده‌ها) نامیده می‌شوند.",
+    "grammar_rule_fa": "neven en nichten=فرزندانِ خواهر/برادر.",
+    "extra_example_nl": "Op het feest waren al mijn neven en nichten.",
+    "extra_example_fa": "در جشن همه‌ی خواهرزاده/برادرزاده‌هایم بودند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "ooms en tantes",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "neven en nichten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فرزندانِ خواهر و برادر."
+      },
+      {
+        "key": "C",
+        "text_nl": "kleinkinderen",
+        "is_correct": false,
+        "feedback_fa": "این فرزندانِ فرزندانِ خودم است، نسلِ اشتباه."
+      },
+      {
+        "key": "D",
+        "text_nl": "broers en zussen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb twee kinderen uit mijn eerste huwelijk. Mijn nieuwe man heeft ook een kind. Dat kind is mijn ___, niet mijn eigen kind.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "فرزندِ همسرِ جدید (که فرزندِ خودِ فرد نیست) «stiefkind» (فرزندخوانده/ناتنی) نامیده می‌شود.",
+    "grammar_rule_fa": "stiefkind=فرزندِ همسر (نه فرزندِ خونی خودِ فرد).",
+    "extra_example_nl": "Zij heeft een stiefkind uit het vorige huwelijk van haar man.",
+    "extra_example_fa": "او یک فرزندناتنی از ازدواجِ قبلیِ شوهرش دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "stiefkind",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فرزندِ همسرِ جدید، نه فرزندِ خودم."
+      },
+      {
+        "key": "B",
+        "text_nl": "kind",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet mijn eigen kind»."
+      },
+      {
+        "key": "C",
+        "text_nl": "kleinkind",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "neefje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "family",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn oma en opa van mijn moeders kant noem ik mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "مادربزرگ و پدربزرگ، در مجموع، «grootouders» (پدربزرگ و مادربزرگ) نامیده می‌شوند.",
+    "grammar_rule_fa": "grootouders=پدربزرگ و مادربزرگ.",
+    "extra_example_nl": "Mijn grootouders van vaders kant wonen in Turkije.",
+    "extra_example_fa": "پدربزرگ و مادربزرگِ طرفِ پدری‌ام در ترکیه زندگی می‌کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "ouders",
+        "is_correct": false,
+        "feedback_fa": "این یک نسل پایین‌تر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "schoonouders",
+        "is_correct": false,
+        "feedback_fa": "این والدینِ همسر است، نه خودِ فرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "overgrootouders",
+        "is_correct": false,
+        "feedback_fa": "این یک نسل بالاتر از grootouders است."
+      },
+      {
+        "key": "D",
+        "text_nl": "grootouders",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پدربزرگ و مادربزرگ."
+      }
+    ]
+  }
+]

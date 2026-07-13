@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Hoi! We spreken om 18:00 uur af bij de bioscoop, niet bij het station. Neem je Tom mee? Bel me niet, stuur liever een appje.»",
+    "question_text_fa": "طبق پیام، محل قرار کجاست؟",
+    "explanation_fa": "متن می‌گوید قرار کنار سینما است، نه کنار ایستگاه؛ ایستگاه فقط برای رد کردن آمده.",
+    "grammar_rule_fa": "وقتی متن چند مکان را نام می‌برد، فقط مکانی که با «niet» رد نشده درست است.",
+    "extra_example_nl": "We spreken af bij de kerk, niet bij de school.",
+    "extra_example_fa": "کنار کلیسا قرار می‌گذاریم، نه مدرسه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij de bioscoop",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij Tom thuis",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij school",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bij het station",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet bij het station»؛ این مکان رد شده."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Ik ben er niet om 19:00 uur, maar om 19:30 uur. Sara komt ook, maar Tom kan niet komen. Hij is ziek.»",
+    "question_text_fa": "طبق پیام، چه کسی نمی‌آید؟",
+    "explanation_fa": "متن می‌گوید سارا می‌آید، اما تام به‌خاطر مریضی نمی‌آید.",
+    "grammar_rule_fa": "وقتی چند اسم در متن است، فقط به شخصی که واقعاً منظور سؤال است توجه کن.",
+    "extra_example_nl": "Lisa komt wel, maar Mark kan niet komen.",
+    "extra_example_fa": "لیزا می‌آید، اما مارک نمی‌تواند بیاید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sara",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید سارا هم می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tom",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید تام مریض است و نمی‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Allebei",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niemand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Kun je brood, melk en kaas kopen? We hebben geen brood meer. De melk en de kaas zijn nog genoeg.»",
+    "question_text_fa": "طبق پیام، واقعاً چه چیزی باید خریداری شود؟",
+    "explanation_fa": "با اینکه ابتدا سه چیز نام برده شده، متن می‌گوید فقط نان تمام شده؛ شیر و پنیر هنوز کافی است.",
+    "grammar_rule_fa": "به جزئیات بعد از جمله‌ی اول توجه کن، نه فقط خط اول.",
+    "extra_example_nl": "We hebben geen eieren meer, boter is nog genoeg.",
+    "extra_example_fa": "تخم‌مرغ تمام شده، کره هنوز کافی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kaas",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید پنیر هنوز کافی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Brood, melk en kaas",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید فقط نان لازم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Brood",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط نان تمام شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Melk",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید شیر هنوز کافی است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De kinderen moeten om 15:00 uur worden opgehaald, niet om 16:00 uur zoals normaal. Ik ben zelf laat vandaag, dus kun jij gaan?»",
+    "question_text_fa": "طبق پیام، امروز فرزندان چه ساعتی باید تحویل گرفته شوند؟",
+    "explanation_fa": "متن می‌گوید امروز استثنا ساعت ۱۵:۰۰ است؛ ۱۶:۰۰ فقط زمان معمول است.",
+    "grammar_rule_fa": "به دنبال زمان امروز باش، نه زمان همیشگی که به‌عنوان مقایسه آمده.",
+    "extra_example_nl": "Vandaag begint de les om 9:00 uur, niet om 10:00 uur zoals normaal.",
+    "extra_example_fa": "امروز کلاس ساعت ۹:۰۰ شروع می‌شود، نه ۱۰:۰۰ که معمول است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "16:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این زمان معمول است، نه امروز."
+      },
+      {
+        "key": "B",
+        "text_nl": "17:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "14:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "15:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید امروز ساعت 15:00."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «We eten vanavond niet thuis. Eerst gaan we naar de bioscoop om 19:00 uur. Daarna eten we bij het restaurant naast de bioscoop.»",
+    "question_text_fa": "طبق پیام، اول چه کاری انجام می‌شود؟",
+    "explanation_fa": "متن ترتیب را می‌گوید: اول سینما، بعد رستوران.",
+    "grammar_rule_fa": "کلمات «eerst» و «daarna» ترتیب کارها را نشان می‌دهند.",
+    "extra_example_nl": "Eerst doen we boodschappen, daarna koken we.",
+    "extra_example_fa": "اول خرید می‌کنیم، بعد آشپزی می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Naar de bioscoop gaan",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «eerst … bioscoop»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Naar huis gaan",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید امشب خانه غذا نمی‌خورند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Boodschappen doen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Eten bij het restaurant",
+        "is_correct": false,
+        "feedback_fa": "این کار دوم است، بعد از سینما."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Kun je mijn medicijnen ophalen bij de apotheek? Let op: de apotheek in de Kerkstraat is dicht. Ga naar de apotheek bij het station.»",
+    "question_text_fa": "طبق پیام، باید به کدام داروخانه رفت؟",
+    "explanation_fa": "متن می‌گوید داروخانه‌ی خیابان کرک بسته است؛ باید به داروخانه‌ی کنار ایستگاه رفت.",
+    "grammar_rule_fa": "وقتی دو مکان مشابه در متن است، به مکانی که واقعاً باز/درست معرفی شده توجه کن.",
+    "extra_example_nl": "De winkel in de Dorpsstraat is dicht. Ga naar de winkel bij de markt.",
+    "extra_example_fa": "فروشگاه خیابان دورپ بسته است. به فروشگاه کنار بازار برو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De apotheek in de Kerkstraat",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید این داروخانه بسته است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De apotheek bij het station",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De apotheek bij de supermarkt",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thuis blijven",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Vergeet niet: geef eerst de kat eten en daarna de planten water. Doe pas het licht uit als je de laatste bent.»",
+    "question_text_fa": "طبق پیام، چه کاری باید اول انجام شود؟",
+    "explanation_fa": "متن ترتیب را می‌گوید: اول غذا دادن به گربه، بعد آب دادن به گیاهان.",
+    "grammar_rule_fa": "کلمات «eerst» و «daarna» ترتیب کارها را نشان می‌دهند.",
+    "extra_example_nl": "Was eerst de afwas, daarna maak je het schoon.",
+    "extra_example_fa": "اول ظرف‌ها را بشور، بعد تمیز کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Weggaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De planten water geven",
+        "is_correct": false,
+        "feedback_fa": "این کار دوم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kat eten geven",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «eerst … kat eten»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het licht uitdoen",
+        "is_correct": false,
+        "feedback_fa": "این کار فقط اگر آخرین نفر باشی است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De trein van 9:00 uur heeft vertraging. De volgende trein vertrekt om 9:20 uur. Neem die trein, want de trein van 9:40 uur stopt niet in Utrecht.»",
+    "question_text_fa": "کدام قطار باید برای رفتن به اوترخت سوار شد؟",
+    "explanation_fa": "متن می‌گوید قطار ۹:۰۰ تأخیر دارد و قطار ۹:۴۰ در اوترخت توقف نمی‌کند؛ پس باید قطار ۹:۲۰ را گرفت.",
+    "grammar_rule_fa": "وقتی چند زمان در متن است، فقط زمانی که واقعاً پیشنهاد شده درست است.",
+    "extra_example_nl": "Neem de bus van 8:15 uur, want de bus van 8:00 uur is al weg.",
+    "extra_example_fa": "اتوبوس ۸:۱۵ رو بگیر، چون اتوبوس ۸:۰۰ رفته.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "9:40 uur",
+        "is_correct": false,
+        "feedback_fa": "این قطار در اوترخت توقف نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "10:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "9:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این قطار تأخیر دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "9:20 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن پیشنهاد می‌کند این قطار گرفته شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «We gaan dit weekend niet naar oma, want oma is ziek. We gaan wel naar het park met papa.»",
+    "question_text_fa": "طبق پیام، این آخر هفته کجا می‌روند؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر مریضی مادربزرگ، به آن‌جا نمی‌روند؛ به‌جایش به پارک می‌روند.",
+    "grammar_rule_fa": "به جمله‌ی بعد از «maar» یا «wel» توجه کن؛ آن‌جا کارِ واقعی گفته می‌شود.",
+    "extra_example_nl": "We gaan niet naar school, we gaan wel naar het zwembad.",
+    "extra_example_fa": "به مدرسه نمی‌رویم، به استخر می‌رویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Naar het park",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «we gaan wel naar het park»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Naar het ziekenhuis",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Naar school",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar oma",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید این هفته به آن‌جا نمی‌روند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Doe de deur op slot als je weggaat. Zet ook het licht uit, maar laat het raam even open voor de kat.»",
+    "question_text_fa": "طبق پیام، چه چیزی باید باز بماند؟",
+    "explanation_fa": "متن می‌گوید در و چراغ باید بسته شوند، اما پنجره برای گربه باید باز بماند.",
+    "grammar_rule_fa": "کلمه‌ی «maar» نشان می‌دهد این بخش با بقیه‌ی جمله فرق دارد.",
+    "extra_example_nl": "Doe de kast dicht, maar laat de la open.",
+    "extra_example_fa": "کمد را ببند، اما کشو را باز بگذار.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het licht",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید چراغ باید خاموش شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het raam",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید پنجره باید باز بماند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niets",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De deur",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید در باید قفل شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Ik voel me nog niet beter. Ik ga morgen niet werken, maar overmorgen wel weer.»",
+    "question_text_fa": "طبق پیام، فرستنده چه زمانی دوباره کار می‌کند؟",
+    "explanation_fa": "متن می‌گوید فردا کار نمی‌کند، اما پس‌فردا دوباره کار می‌کند.",
+    "grammar_rule_fa": "به زمانی که بعد از «maar … wel» می‌آید توجه کن؛ آن زمانِ درست است.",
+    "extra_example_nl": "Ik ga vandaag niet naar school, maar morgen wel weer.",
+    "extra_example_fa": "امروز به مدرسه نمی‌روم، اما فردا دوباره می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vandaag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید فردا کار نمی‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Overmorgen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «overmorgen wel weer»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volgende week",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De vergadering is niet op maandag, zoals eerst gepland. Hij is verzet naar woensdag om 14:00 uur.»",
+    "question_text_fa": "طبق پیام، جلسه اکنون چه روزی است؟",
+    "explanation_fa": "متن می‌گوید جلسه از دوشنبه به چهارشنبه منتقل شده.",
+    "grammar_rule_fa": "زمانِ اولیه فقط برای مقایسه آمده؛ زمان جدید درست است.",
+    "extra_example_nl": "De les is niet op dinsdag, zoals eerst gepland. Hij is verzet naar donderdag.",
+    "extra_example_fa": "کلاس دیگر سه‌شنبه نیست؛ به پنجشنبه منتقل شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Donderdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Maandag",
+        "is_correct": false,
+        "feedback_fa": "این روز قبلی است، الان دیگر معتبر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dinsdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Woensdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید verzet naar woensdag."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Ik sta niet bij de ingang. Ik sta bij de fietsenstalling, naast de bakker.»",
+    "question_text_fa": "طبق پیام، فرستنده الان کجا ایستاده است؟",
+    "explanation_fa": "متن ابتدا می‌گوید کنار ورودی نیست، سپس محل واقعی را می‌گوید: کنار پارکینگ دوچرخه.",
+    "grammar_rule_fa": "به جمله‌ای که بعد از رد کردن مکان اول می‌آید توجه کن.",
+    "extra_example_nl": "Ik ben niet bij de kassa. Ik ben bij de deur, naast de trap.",
+    "extra_example_fa": "کنار صندوق نیستم؛ کنار در، نزدیک پله‌ها هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij de fietsenstalling",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij de bakker",
+        "is_correct": false,
+        "feedback_fa": "بیکری فقط برای توضیح مکان آمده، نه محل ایستادن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij het station",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bij de ingang",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet bij de ingang»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Er ligt een pakket bij de buren, niet bij de portier. Kun je het vandaag ophalen? Morgen ben ik niet thuis.»",
+    "question_text_fa": "طبق پیام، بسته الان کجاست؟",
+    "explanation_fa": "متن می‌گوید بسته نزد نگهبان نیست، بلکه نزد همسایه است.",
+    "grammar_rule_fa": "به بخشی که مکان اشتباه را رد می‌کند و مکان درست را می‌گوید توجه کن.",
+    "extra_example_nl": "De sleutel ligt bij de buurvrouw, niet bij de conciërge.",
+    "extra_example_fa": "کلید نزد همسایه است، نه سرایدار.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij de portier",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet bij de portier»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij de buren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij de bakker",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thuis",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Zet het fornuis uit voordat je weggaat. Laat de verwarming wel aan, want het is koud vandaag.»",
+    "question_text_fa": "طبق پیام، چه چیزی باید روشن بماند؟",
+    "explanation_fa": "متن می‌گوید اجاق گاز باید خاموش شود، اما بخاری باید روشن بماند.",
+    "grammar_rule_fa": "«wel aan» یعنی این یکی باید روشن بماند، برخلاف مورد قبلی.",
+    "extra_example_nl": "Zet de tv uit, maar laat de lamp wel aan.",
+    "extra_example_fa": "تلویزیون رو خاموش کن، اما لامپ روشن بماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De tv",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het fornuis",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید اجاق باید خاموش شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De verwarming",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «verwarming wel aan»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het licht",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De ouderavond is niet om 19:00 uur. Hij begint om 19:30 uur en duurt tot 20:30 uur.»",
+    "question_text_fa": "طبق پیام، جلسه‌ی اولیا چه ساعتی تمام می‌شود؟",
+    "explanation_fa": "متن می‌گوید جلسه از ۱۹:۳۰ تا ۲۰:۳۰ است؛ ۱۹:۰۰ فقط زمانِ رد شده است.",
+    "grammar_rule_fa": "به دنبال کلمه‌ی «tot» باش؛ زمانِ پایان بعد از آن می‌آید.",
+    "extra_example_nl": "De les begint om 10:00 uur en duurt tot 11:00 uur.",
+    "extra_example_fa": "کلاس از ۱۰:۰۰ تا ۱۱:۰۰ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "19:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ رد شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "19:30 uur",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ شروع است، نه پایان."
+      },
+      {
+        "key": "C",
+        "text_nl": "20:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "20:30 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «tot 20:30 uur»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Neem je paspoort mee naar de afspraak, geen rijbewijs. De afspraak is om 10:00 uur, niet om 11:00 uur zoals eerst gepland.»",
+    "question_text_fa": "طبق پیام، باید چه چیزی به قرار آورده شود؟",
+    "explanation_fa": "متن می‌گوید پاسپورت باید آورده شود، نه گواهینامه.",
+    "grammar_rule_fa": "کلمه‌ی «geen» بعد از درخواست، چیزِ نادرست را نشان می‌دهد.",
+    "extra_example_nl": "Neem je identiteitskaart mee, geen paspoort.",
+    "extra_example_fa": "کارت شناسایی رو بیار، نه پاسپورت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Paspoort",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌خواهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geld",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een foto",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Rijbewijs",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «geen rijbewijs»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De film begint om 20:15 uur. Kom om 20:00 uur, want we moeten eerst nog popcorn kopen.»",
+    "question_text_fa": "طبق پیام، چه ساعتی باید رسید؟",
+    "explanation_fa": "متن می‌گوید فیلم ساعت ۲۰:۱۵ شروع می‌شود، اما باید ساعت ۲۰:۰۰ رسید چون اول باید پاپ‌کورن خرید.",
+    "grammar_rule_fa": "زمانِ رسیدن با زمانِ شروع فیلم فرق دارد؛ به دلیل ذکرشده توجه کن.",
+    "extra_example_nl": "De les begint om 9:00 uur. Kom om 8:45 uur, want we moeten eerst de boeken pakken.",
+    "extra_example_fa": "کلاس ساعت ۹:۰۰ شروع می‌شود. ساعت ۸:۴۵ بیا چون باید اول کتاب‌ها را برداریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "19:45 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "20:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «kom om 20:00 uur»."
+      },
+      {
+        "key": "C",
+        "text_nl": "20:15 uur",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ شروع فیلم است، نه زمانِ رسیدن."
+      },
+      {
+        "key": "D",
+        "text_nl": "20:30 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Ik ben vandaag thuis, morgen werk ik weer op kantoor. Bel me niet vandaag, ik rust uit.»",
+    "question_text_fa": "طبق پیام، فرستنده فردا کجاست؟",
+    "explanation_fa": "متن می‌گوید امروز خانه است اما فردا دوباره در دفتر کار می‌کند.",
+    "grammar_rule_fa": "به تفاوت زمانِ «vandaag» و «morgen» در متن دقت کن.",
+    "extra_example_nl": "Ik ben vandaag ziek, morgen ga ik weer naar school.",
+    "extra_example_fa": "امروز مریضم، فردا دوباره به مدرسه می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op vakantie",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Thuis",
+        "is_correct": false,
+        "feedback_fa": "این وضعیتِ امروز است، نه فردا."
+      },
+      {
+        "key": "C",
+        "text_nl": "Op kantoor",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «morgen werk ik weer op kantoor»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bij de dokter",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «We hebben geen suiker en geen boter meer. Melk hebben we nog genoeg. Kun je suiker en boter kopen?»",
+    "question_text_fa": "طبق پیام، چه چیزی باید خریداری شود؟",
+    "explanation_fa": "متن می‌گوید شکر و کره تمام شده، اما شیر هنوز کافی است.",
+    "grammar_rule_fa": "به جمله‌ای که «nog genoeg» دارد توجه کن؛ آن چیز لازم نیست خریداری شود.",
+    "extra_example_nl": "We hebben geen eieren meer. Kaas hebben we nog genoeg.",
+    "extra_example_fa": "تخم‌مرغ تمام شده. پنیر هنوز کافی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Melk en suiker",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Niets",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen melk",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید شیر کافی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Suiker en boter",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین دو را می‌خواهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Papa is niet thuis, hij is bij de dokter. Mama is er wel, maar ze is aan het koken.»",
+    "question_text_fa": "طبق پیام، پدر الان کجاست؟",
+    "explanation_fa": "متن می‌گوید پدر خانه نیست، نزد دکتر است؛ مادر خانه است و آشپزی می‌کند.",
+    "grammar_rule_fa": "دو نفر در متن است؛ فقط به شخصی که سؤال پرسیده شده توجه کن.",
+    "extra_example_nl": "Mama is niet thuis, ze is bij de tandarts. Papa is er wel.",
+    "extra_example_fa": "مادر خانه نیست، نزد دندانپزشک است. پدر خانه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij de dokter",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Aan het koken",
+        "is_correct": false,
+        "feedback_fa": "این کارِ مادر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij oma",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thuis",
+        "is_correct": false,
+        "feedback_fa": "این وضعیتِ مادر است، نه پدر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Anna kan niet komen om 14:00 uur, maar Sara komt wel. Tom komt later, om 15:00 uur.»",
+    "question_text_fa": "طبق پیام، چه کسی ساعت ۱۵:۰۰ می‌آید؟",
+    "explanation_fa": "متن می‌گوید آنا نمی‌آید، سارا ساعت ۱۴:۰۰ می‌آید و تام ساعت ۱۵:۰۰ می‌آید.",
+    "grammar_rule_fa": "به هر شخص و زمانِ او جداگانه توجه کن.",
+    "extra_example_nl": "Lisa komt om 10:00 uur, Mark komt later, om 11:00 uur.",
+    "extra_example_fa": "لیزا ساعت ۱۰:۰۰ می‌آید، مارک دیرتر، ساعت ۱۱:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sara",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید سارا ساعت 14:00 می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tom",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید تام ساعت 15:00 می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niemand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Anna",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید آنا نمی‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Bericht: «Het licht mag aan blijven, maar doe de deur wel op slot als je de laatste bent. Vergeet de sleutel niet.»",
+    "question_text_fa": "طبق پیام، اگر آخرین نفر باشی چه کاری باید انجام دهی؟",
+    "explanation_fa": "متن می‌گوید چراغ می‌تواند روشن بماند، اما در باید قفل شود.",
+    "grammar_rule_fa": "«mag aan blijven» یعنی لازم نیست خاموش شود؛ به تضاد آن با «wel» دقت کن.",
+    "extra_example_nl": "De tv mag aan blijven, maar zet het raam wel dicht.",
+    "extra_example_fa": "تلویزیون می‌تواند روشن بماند، اما پنجره را ببند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wachten op anderen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het licht uitdoen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید چراغ می‌تواند روشن بماند."
+      },
+      {
+        "key": "C",
+        "text_nl": "De deur op slot doen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sleutel weggooien",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Ik voel me beter, maar ik ga morgen nog niet werken. Overmorgen ga ik wel weer naar kantoor.»",
+    "question_text_fa": "طبق پیام، فرستنده چه زمانی دوباره به دفتر می‌رود؟",
+    "explanation_fa": "متن می‌گوید بهتر شده، اما فردا هنوز کار نمی‌کند؛ پس‌فردا دوباره می‌رود.",
+    "grammar_rule_fa": "به تفاوت «morgen» و «overmorgen» در متن دقت کن.",
+    "extra_example_nl": "Ik voel me beter, maar ik ga morgen nog niet sporten. Overmorgen wel weer.",
+    "extra_example_fa": "بهترم، اما فردا هنوز ورزش نمی‌کنم. پس‌فردا دوباره می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volgende maand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Morgen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید فردا هنوز نه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Overmorgen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «overmorgen wel weer»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Ik sta bij de ingang, niet bij de fietsenstalling. Kom maar snel, het is hier druk.»",
+    "question_text_fa": "طبق پیام، فرستنده کجا ایستاده است؟",
+    "explanation_fa": "متن می‌گوید کنار ورودی است، نه کنار پارکینگ دوچرخه.",
+    "grammar_rule_fa": "به مکانی که بعد از «niet» رد شده دقت کن؛ مکان قبل از آن درست است.",
+    "extra_example_nl": "Ik sta bij de kassa, niet bij de deur.",
+    "extra_example_fa": "کنار صندوق ایستادم، نه کنار در.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij de ingang",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij de fietsenstalling",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet bij de fietsenstalling»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij het station",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thuis",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Er ligt een pakket bij de buren. Haal het alsjeblieft vandaag op, want morgen zijn de buren niet thuis.»",
+    "question_text_fa": "طبق پیام، چرا بسته باید امروز گرفته شود؟",
+    "explanation_fa": "متن می‌گوید فردا همسایه‌ها خانه نیستند، پس باید امروز بسته را گرفت.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از «want» می‌آید.",
+    "extra_example_nl": "Bel vandaag terug, want morgen ben ik niet bereikbaar.",
+    "extra_example_fa": "امروز زنگ بزن، چون فردا در دسترس نیستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De buren komen vandaag langs",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De buren zijn morgen niet thuis",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین دلیل را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het pakket is kapot",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het pakket is duur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De wasmachine is kapot, niet de droger. Kun je een monteur bellen voor de wasmachine?»",
+    "question_text_fa": "طبق پیام، چه چیزی خراب است؟",
+    "explanation_fa": "متن می‌گوید ماشین لباسشویی خراب است، نه خشک‌کن.",
+    "grammar_rule_fa": "به دنبال کلمه‌ای باش که رد نشده؛ آن چیز درست است.",
+    "extra_example_nl": "De koelkast is kapot, niet de oven.",
+    "extra_example_fa": "یخچال خراب است، نه فر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De oven",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De droger",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet de droger»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De wasmachine",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De koelkast",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De reservering is niet om 19:00 uur. Hij is om 20:00 uur, voor vier personen.»",
+    "question_text_fa": "طبق پیام، رزرو برای چند نفر است؟",
+    "explanation_fa": "متن می‌گوید رزرو ساعت ۲۰:۰۰ برای چهار نفر است.",
+    "grammar_rule_fa": "به عددی که در انتهای جمله می‌آید دقت کن.",
+    "extra_example_nl": "De tafel is voor drie personen, niet voor twee.",
+    "extra_example_fa": "میز برای سه نفر است، نه دو نفر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vijf",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Twee",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Drie",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vier",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «voor vier personen»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Neem een paraplu mee, het regent vanmiddag. Vanochtend is het nog droog.»",
+    "question_text_fa": "طبق پیام، چه زمانی باران می‌بارد؟",
+    "explanation_fa": "متن می‌گوید صبح خشک است، اما بعدازظهر باران می‌بارد.",
+    "grammar_rule_fa": "به تضاد بین «vanochtend» و «vanmiddag» دقت کن.",
+    "extra_example_nl": "Het is vanochtend koud, maar vanmiddag wordt het warm.",
+    "extra_example_fa": "صبح سرد است، اما بعدازظهر گرم می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vanmiddag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vannacht",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nooit",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vanochtend",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید صبح خشک است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "whatsapp_message",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De kinderen worden vandaag niet om 15:00 uur opgehaald, maar om 16:00 uur, want ze hebben een extra les.»",
+    "question_text_fa": "طبق پیام، چرا فرزندان دیرتر تحویل گرفته می‌شوند؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر یک کلاس اضافه، امروز دیرتر تحویل داده می‌شوند.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از «want» می‌آید.",
+    "extra_example_nl": "De trein komt later aan, want er is vertraging.",
+    "extra_example_fa": "قطار دیرتر می‌رسد، چون تأخیر دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bus is laat",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ze hebben een extra les",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین دلیل را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De school is dicht",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  }
+]

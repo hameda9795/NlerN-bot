@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Als het morgen regent, ___ we thuis.",
+    "question_text_fa": "کدام فعل جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک شرطِ واقعی/ممکن است (حال+حال). فاعل «we» است، پس فعل به‌صورت «blijven» (جمع) می‌آید.",
+    "grammar_rule_fa": "شرطِ واقعی: als + حال، ... + حال. فعل باید با فاعل هماهنگ باشد.",
+    "extra_example_nl": "Als het koud is, blijven we binnen.",
+    "extra_example_fa": "اگر هوا سرد باشد، داخل می‌مانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "blijven",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع «we» + زمانِ حال."
+      },
+      {
+        "key": "B",
+        "text_nl": "blijft",
+        "is_correct": false,
+        "feedback_fa": "«blijft» برای فاعلِ مفرد سوم‌شخص است، نه برای «we»."
+      },
+      {
+        "key": "C",
+        "text_nl": "zouden blijven",
+        "is_correct": false,
+        "feedback_fa": "«zouden blijven» برای شرطِ غیرواقعی است، اما اینجا شرط واقعی/ممکن است (باران فردا واقعاً ممکن است)."
+      },
+      {
+        "key": "D",
+        "text_nl": "bleven",
+        "is_correct": false,
+        "feedback_fa": "«bleven» زمانِ گذشته است؛ شرطِ واقعی با زمانِ حال می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Als jij nu vertrekt, ___ je op tijd bij het station.",
+    "question_text_fa": "کدام فعل جمله را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «je/jij» است، صرفِ درستِ zijn برای jij (بدون واژگونی) «bent» است.",
+    "grammar_rule_fa": "صرفِ zijn: ik ben، jij bent، hij/zij/het is، wij/jullie/zij zijn.",
+    "extra_example_nl": "Als je snel loopt, ben je op tijd.",
+    "extra_example_fa": "اگر سریع راه بروی، سرِ وقت می‌رسی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "bent",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صرفِ zijn برای jij/je."
+      },
+      {
+        "key": "B",
+        "text_nl": "ben",
+        "is_correct": false,
+        "feedback_fa": "«ben» فقط با «ik» می‌آید؛ اینجا فاعل «jij/je» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» برای سوم‌شخصِ مفرد است، نه برای «jij/je»."
+      },
+      {
+        "key": "D",
+        "text_nl": "zijn",
+        "is_correct": false,
+        "feedback_fa": "«zijn» برای فاعلِ جمع است؛ اینجا فاعل مفرد است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Als hij vroeg opstaat, ___ hij het vliegtuig niet.",
+    "question_text_fa": "کدام فعل جمله را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «hij» سوم‌شخصِ مفرد است، پس فعل «missen» به‌صورت «mist» می‌آید.",
+    "grammar_rule_fa": "شرطِ واقعی: فعل باید با فاعل (سوم‌شخصِ مفرد) هماهنگ باشد.",
+    "extra_example_nl": "Als ze op tijd komt, mist ze de trein niet.",
+    "extra_example_fa": "اگر سرِ وقت بیاید، قطار را از دست نمی‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mis",
+        "is_correct": false,
+        "feedback_fa": "«mis» فقط با «ik» می‌آید؛ اینجا فاعل «hij» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "missen",
+        "is_correct": false,
+        "feedback_fa": "«missen» برای فاعلِ جمع است؛ «hij» مفرد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "mist",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد سوم‌شخص + زمانِ حال."
+      },
+      {
+        "key": "D",
+        "text_nl": "miste",
+        "is_correct": false,
+        "feedback_fa": "«miste» زمانِ گذشته است؛ شرطِ واقعی با زمانِ حال می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "sport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Als mijn zus hard traint, ___ zij de wedstrijd.",
+    "question_text_fa": "کدام فعل جمله را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «zij» (مفرد، به‌جای «mijn zus») است، پس فعل «winnen» به‌صورت «wint» می‌آید.",
+    "grammar_rule_fa": "شرطِ واقعی: فعل با فاعل هماهنگ می‌شود.",
+    "extra_example_nl": "Als hij goed speelt, wint hij vaak.",
+    "extra_example_fa": "اگر او خوب بازی کند، اغلب می‌برد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wint",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد سوم‌شخص + زمانِ حال."
+      },
+      {
+        "key": "B",
+        "text_nl": "winnen",
+        "is_correct": false,
+        "feedback_fa": "«winnen» برای فاعلِ جمع است؛ «zij» اینجا مفرد است (یک نفر)."
+      },
+      {
+        "key": "C",
+        "text_nl": "won",
+        "is_correct": false,
+        "feedback_fa": "«won» زمانِ گذشته است؛ شرطِ واقعی زمانِ حال می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "win",
+        "is_correct": false,
+        "feedback_fa": "«win» فقط با «ik» می‌آید؛ اینجا فاعل «zij» است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Als wij op tijd vertrekken, ___ wij de trein.",
+    "question_text_fa": "کدام فعل جمله را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «wij» جمع است، پس فعل «halen» بدونِ تغییر می‌ماند.",
+    "grammar_rule_fa": "شرطِ واقعی: فعل با فاعلِ جمع بدونِ -t/-en اضافه می‌آید (شکلِ مصدری).",
+    "extra_example_nl": "Als we snel lopen, halen we de bus.",
+    "extra_example_fa": "اگر سریع راه برویم، به اتوبوس می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "halen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ حال."
+      },
+      {
+        "key": "B",
+        "text_nl": "haalt",
+        "is_correct": false,
+        "feedback_fa": "«haalt» برای فاعلِ مفردِ سوم‌شخص است؛ «wij» جمع است."
+      },
+      {
+        "key": "C",
+        "text_nl": "haalde",
+        "is_correct": false,
+        "feedback_fa": "«haalde» زمانِ گذشته است؛ شرطِ واقعی زمانِ حال می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou halen",
+        "is_correct": false,
+        "feedback_fa": "«zou halen» برای شرطِ غیرواقعی است، اما اینجا شرط واقعی/ممکن است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als jullie morgen komen, ___ jullie het nieuwe huis zien.",
+    "question_text_fa": "کدام فعل جمله را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «jullie» است؛ فعلِ کمکیِ «kunnen» با jullie به‌صورت «kunnen» می‌آید، نه «kunt» (که مخصوصِ «u» است).",
+    "grammar_rule_fa": "kunnen با jullie: kunnen. با u: kunt/kan.",
+    "extra_example_nl": "Als jullie willen, kunnen jullie blijven eten.",
+    "extra_example_fa": "اگر بخواهید، می‌توانید برای شام بمانید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» فقط با «ik/hij/zij» می‌آید؛ اینجا فاعل «jullie» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "kunnen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل «jullie» + فعلِ کمکیِ «kunnen»."
+      },
+      {
+        "key": "C",
+        "text_nl": "kunt",
+        "is_correct": false,
+        "feedback_fa": "«kunt» مخصوصِ «u» (محترمانه) است، نه «jullie»."
+      },
+      {
+        "key": "D",
+        "text_nl": "konden",
+        "is_correct": false,
+        "feedback_fa": "«konden» زمانِ گذشته است؛ شرطِ واقعی زمانِ حال می‌خواهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als de kinderen hun huiswerk niet maken, ___ zij een probleem.",
+    "question_text_fa": "کدام فعل جمله را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «zij» (جمع، به‌جای «de kinderen») است و زمانِ حال لازم است، پس «krijgen» درست است.",
+    "grammar_rule_fa": "شرطِ واقعی: فعلِ جمع در زمانِ حال (بدونِ -t).",
+    "extra_example_nl": "Als je niet oefent, krijg je moeite met de toets.",
+    "extra_example_fa": "اگر تمرین نکنی، در امتحان مشکل پیدا می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "krijgt",
+        "is_correct": false,
+        "feedback_fa": "«krijgt» برای فاعلِ مفرد است؛ «zij» (بچه‌ها) جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "kregen",
+        "is_correct": false,
+        "feedback_fa": "«kregen» زمانِ گذشته است؛ شرطِ واقعی زمانِ حال می‌خواهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "krijgen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ حال."
+      },
+      {
+        "key": "D",
+        "text_nl": "kreeg",
+        "is_correct": false,
+        "feedback_fa": "«kreeg» هم زمانِ گذشته و هم مفرد است؛ هر دو با جمله جور نیست."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Als ik genoeg tijd heb, ___ ik je morgen.",
+    "question_text_fa": "کدام فعل جمله را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «ik» است، پس فعل «bellen» به‌صورت «bel» می‌آید.",
+    "grammar_rule_fa": "شرطِ واقعی: فعل با «ik» بدونِ پسوند می‌آید.",
+    "extra_example_nl": "Als ik tijd heb, help ik je graag.",
+    "extra_example_fa": "اگر وقت داشته باشم، با کمالِ میل کمکت می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "belde",
+        "is_correct": false,
+        "feedback_fa": "«belde» زمانِ گذشته است؛ شرطِ واقعی زمانِ حال می‌خواهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "bel",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل «ik» + زمانِ حال."
+      },
+      {
+        "key": "C",
+        "text_nl": "belt",
+        "is_correct": false,
+        "feedback_fa": "«belt» برای سوم‌شخصِ مفرد است؛ اینجا فاعل «ik» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou bellen",
+        "is_correct": false,
+        "feedback_fa": "«zou bellen» برای شرطِ غیرواقعی است؛ اینجا شرط کاملاً ممکن است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Als het weer goed is, ___ we buiten.",
+    "question_text_fa": "کدام فعل جمله را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «we» جمع است، پس فعل «eten» بدونِ تغییر می‌ماند.",
+    "grammar_rule_fa": "شرطِ واقعی: فعلِ جمع در زمانِ حال.",
+    "extra_example_nl": "Als het zonnig is, zitten we op het terras.",
+    "extra_example_fa": "اگر آفتابی باشد، در تراس می‌نشینیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "eet",
+        "is_correct": false,
+        "feedback_fa": "«eet» برای فاعلِ مفرد است؛ «we» جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "aten",
+        "is_correct": false,
+        "feedback_fa": "«aten» زمانِ گذشته است؛ شرطِ واقعی زمانِ حال می‌خواهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "eten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ حال."
+      },
+      {
+        "key": "D",
+        "text_nl": "zouden eten",
+        "is_correct": false,
+        "feedback_fa": "«zouden eten» برای شرطِ غیرواقعی است؛ اینجا شرط ممکن/واقعی است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Als de winkel dicht is, ___ we online.",
+    "question_text_fa": "کدام فعل جمله را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «we» جمع است، پس فعل «bestellen» بدونِ تغییر می‌ماند.",
+    "grammar_rule_fa": "شرطِ واقعی: فعلِ جمع در زمانِ حال.",
+    "extra_example_nl": "Als het regent, bestellen we eten thuis.",
+    "extra_example_fa": "اگر باران ببارد، غذا را در خانه سفارش می‌دهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "bestellen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ حال."
+      },
+      {
+        "key": "B",
+        "text_nl": "zouden bestellen",
+        "is_correct": false,
+        "feedback_fa": "«zouden bestellen» برای شرطِ غیرواقعی است؛ اینجا شرط ممکن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "bestelden",
+        "is_correct": false,
+        "feedback_fa": "«bestelden» زمانِ گذشته است؛ شرطِ واقعی زمانِ حال می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "bestelt",
+        "is_correct": false,
+        "feedback_fa": "«bestelt» برای فاعلِ مفرد است؛ «we» جمع است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als ik meer tijd had, ___ ik vaker sporten.",
+    "question_text_fa": "کدام کلمه گزاره‌ی غیرواقعی را درست می‌سازد؟",
+    "explanation_fa": "این شرط، غیرواقعی/فرضی است (had = گذشته‌ی فرضی)، پس در جمله‌ی نتیجه از «zou» (با ik) استفاده می‌کنیم.",
+    "grammar_rule_fa": "شرطِ غیرواقعی: als + گذشته، ... + zou/zouden + مصدر. با ik: zou.",
+    "extra_example_nl": "Als ik meer geld had, zou ik reizen.",
+    "extra_example_fa": "اگر پولِ بیشتری داشتم، سفر می‌کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zouden",
+        "is_correct": false,
+        "feedback_fa": "«zouden» برای فاعلِ جمع است؛ اینجا فاعل «ik» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل «ik» + شرطِ غیرواقعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "zal",
+        "is_correct": false,
+        "feedback_fa": "«zal» برای پیش‌بینیِ واقعی/آینده است، نه برای شرطِ غیرواقعی."
+      },
+      {
+        "key": "D",
+        "text_nl": "moest",
+        "is_correct": false,
+        "feedback_fa": "«moest» یعنی «مجبور بودم»؛ این فعلِ کمکیِ شرط نیست و معنیِ اجبار می‌سازد، نه نتیجه‌ی فرضی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als jij harder had gestudeerd, ___ je het examen gehaald.",
+    "question_text_fa": "کدام کلمه گزاره‌ی غیرواقعی را درست می‌سازد؟",
+    "explanation_fa": "شرطِ غیرواقعیِ گذشته است؛ فاعل «jij/je» با «zou» می‌آید.",
+    "grammar_rule_fa": "شرطِ غیرواقعیِ گذشته: als + had/was + قسمتِ سوم، ... + zou/zouden + قسمتِ سوم.",
+    "extra_example_nl": "Als je had geoefend, zou je het beter hebben gedaan.",
+    "extra_example_fa": "اگر تمرین کرده بودی، بهتر انجامش می‌دادی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zou",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + شرطِ غیرواقعیِ گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "zal",
+        "is_correct": false,
+        "feedback_fa": "«zal» زمانِ آینده‌ی واقعی است، نه شرطِ غیرواقعیِ گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "moest",
+        "is_correct": false,
+        "feedback_fa": "«moest» یعنی اجبار داشتی؛ اینجا نتیجه‌ی فرضی مطرح است، نه اجبار."
+      },
+      {
+        "key": "D",
+        "text_nl": "zouden",
+        "is_correct": false,
+        "feedback_fa": "«zouden» برای فاعلِ جمع است؛ اینجا فاعل «jij/je» است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als hij meer geld had, ___ hij een nieuwe auto kopen.",
+    "question_text_fa": "کدام کلمه گزاره‌ی غیرواقعی را درست می‌سازد؟",
+    "explanation_fa": "فاعل «hij» مفرد است، پس فعلِ کمکیِ شرطِ غیرواقعی «zou» درست است.",
+    "grammar_rule_fa": "شرطِ غیرواقعی: با فاعلِ مفرد از «zou» استفاده می‌کنیم.",
+    "extra_example_nl": "Als hij tijd had, zou hij komen.",
+    "extra_example_fa": "اگر او وقت داشت، می‌آمد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zouden",
+        "is_correct": false,
+        "feedback_fa": "«zouden» برای فاعلِ جمع است؛ «hij» مفرد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zal",
+        "is_correct": false,
+        "feedback_fa": "«zal» زمانِ آینده‌ی واقعی است، نه شرطِ غیرواقعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "mocht",
+        "is_correct": false,
+        "feedback_fa": "«mocht» یعنی «اجازه داشت»؛ معنیِ متفاوتی دارد و برای این ساختارِ شرطی مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + شرطِ غیرواقعی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als mijn zus niet ziek was, ___ zij naar het feest gaan.",
+    "question_text_fa": "کدام کلمه گزاره‌ی غیرواقعی را درست می‌سازد؟",
+    "explanation_fa": "فاعل «zij» مفرد است، پس فعلِ کمکیِ «zou» درست است.",
+    "grammar_rule_fa": "شرطِ غیرواقعی، فاعلِ مفرد: zou.",
+    "extra_example_nl": "Als ze niet moe was, zou ze meegaan.",
+    "extra_example_fa": "اگر او خسته نبود، همراه می‌آمد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zal",
+        "is_correct": false,
+        "feedback_fa": "«zal» زمانِ آینده‌ی واقعی است، نه شرطِ غیرواقعی."
+      },
+      {
+        "key": "B",
+        "text_nl": "moest",
+        "is_correct": false,
+        "feedback_fa": "«moest» معنیِ اجبار می‌دهد، نه نتیجه‌ی فرضی."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + شرطِ غیرواقعی."
+      },
+      {
+        "key": "D",
+        "text_nl": "zouden",
+        "is_correct": false,
+        "feedback_fa": "«zouden» برای فاعلِ جمع است؛ «zij» اینجا مفرد است (یک نفر)."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als wij eerder vertrokken waren, ___ wij de trein gehaald.",
+    "question_text_fa": "کدام کلمه گزاره‌ی غیرواقعی را درست می‌سازد؟",
+    "explanation_fa": "فاعل «wij» جمع است، پس فعلِ کمکیِ «zouden» درست است.",
+    "grammar_rule_fa": "شرطِ غیرواقعیِ گذشته، فاعلِ جمع: zouden.",
+    "extra_example_nl": "Als we sneller gelopen hadden, zouden we de bus gehaald hebben.",
+    "extra_example_fa": "اگر سریع‌تر راه رفته بودیم، به اتوبوس می‌رسیدیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zou",
+        "is_correct": false,
+        "feedback_fa": "«zou» برای فاعلِ مفرد است؛ «wij» جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zouden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + شرطِ غیرواقعیِ گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "zullen",
+        "is_correct": false,
+        "feedback_fa": "«zullen» زمانِ آینده‌ی واقعی است، نه شرطِ غیرواقعی."
+      },
+      {
+        "key": "D",
+        "text_nl": "moesten",
+        "is_correct": false,
+        "feedback_fa": "«moesten» معنیِ اجبار می‌دهد، نه نتیجه‌ی فرضی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als jullie het mij hadden gevraagd, ___ jullie de waarheid gehoord.",
+    "question_text_fa": "کدام کلمه گزاره‌ی غیرواقعی را درست می‌سازد؟",
+    "explanation_fa": "فاعل «jullie» جمع است، پس فعلِ کمکیِ «zouden» درست است.",
+    "grammar_rule_fa": "شرطِ غیرواقعیِ گذشته، فاعلِ جمع: zouden.",
+    "extra_example_nl": "Als jullie hadden gebeld, zouden jullie het weten.",
+    "extra_example_fa": "اگر زنگ زده بودید، آن را می‌دانستید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zou",
+        "is_correct": false,
+        "feedback_fa": "«zou» برای فاعلِ مفرد است؛ «jullie» جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zullen",
+        "is_correct": false,
+        "feedback_fa": "«zullen» زمانِ آینده‌ی واقعی است، نه شرطِ غیرواقعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "moesten",
+        "is_correct": false,
+        "feedback_fa": "«moesten» معنیِ اجبار می‌دهد، نه نتیجه‌ی فرضی."
+      },
+      {
+        "key": "D",
+        "text_nl": "zouden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + شرطِ غیرواقعیِ گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als de kinderen harder hadden geoefend, ___ zij gewonnen.",
+    "question_text_fa": "کدام کلمه گزاره‌ی غیرواقعی را درست می‌سازد؟",
+    "explanation_fa": "فاعل «zij» (بچه‌ها) جمع است، پس فعلِ کمکیِ «zouden» درست است.",
+    "grammar_rule_fa": "شرطِ غیرواقعیِ گذشته، فاعلِ جمع: zouden.",
+    "extra_example_nl": "Als ze beter hadden getraind, zouden ze gewonnen hebben.",
+    "extra_example_fa": "اگر بهتر تمرین کرده بودند، برنده می‌شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zouden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + شرطِ غیرواقعیِ گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou",
+        "is_correct": false,
+        "feedback_fa": "«zou» برای فاعلِ مفرد است؛ «zij» اینجا جمع است."
+      },
+      {
+        "key": "C",
+        "text_nl": "zullen",
+        "is_correct": false,
+        "feedback_fa": "«zullen» زمانِ آینده‌ی واقعی است، نه شرطِ غیرواقعی."
+      },
+      {
+        "key": "D",
+        "text_nl": "moesten",
+        "is_correct": false,
+        "feedback_fa": "«moesten» معنیِ اجبار می‌دهد، نه نتیجه‌ی فرضی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Als ik jou was, ___ ik dat niet doen.",
+    "question_text_fa": "کدام کلمه گزاره‌ی غیرواقعی را درست می‌سازد؟",
+    "explanation_fa": "«als ik jou was» یک عبارتِ ثابت برای دادنِ نصیحت است؛ فاعل «ik» با «zou» می‌آید.",
+    "grammar_rule_fa": "عبارتِ ثابتِ نصیحت: «als ik jou was, zou ik ...».",
+    "extra_example_nl": "Als ik jou was, zou ik dat contract goed lezen.",
+    "extra_example_fa": "اگر جای تو بودم، آن قرارداد را با دقت می‌خواندم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zal",
+        "is_correct": false,
+        "feedback_fa": "«zal» زمانِ آینده‌ی واقعی است، نه نصیحتِ فرضی."
+      },
+      {
+        "key": "B",
+        "text_nl": "moest",
+        "is_correct": false,
+        "feedback_fa": "«moest» معنیِ اجبار می‌دهد؛ اینجا فقط پیشنهاد/نصیحت مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "zouden",
+        "is_correct": false,
+        "feedback_fa": "«zouden» برای فاعلِ جمع است؛ اینجا فاعل «ik» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل «ik» + عبارتِ ثابتِ نصیحت."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als hij het probleem eerder had gemeld, ___ wij het kunnen oplossen.",
+    "question_text_fa": "کدام کلمه گزاره‌ی غیرواقعی را درست می‌سازد؟",
+    "explanation_fa": "فاعلِ جمله‌ی نتیجه «wij» است، پس فعلِ کمکیِ «zouden» درست است.",
+    "grammar_rule_fa": "شرطِ غیرواقعیِ گذشته، فاعلِ جمع: zouden.",
+    "extra_example_nl": "Als hij ons had gebeld, zouden we hebben geholpen.",
+    "extra_example_fa": "اگر او به ما زنگ زده بود، کمک می‌کردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zou",
+        "is_correct": false,
+        "feedback_fa": "«zou» برای فاعلِ مفرد است؛ فاعلِ جمله‌ی نتیجه «wij» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zullen",
+        "is_correct": false,
+        "feedback_fa": "«zullen» زمانِ آینده‌ی واقعی است، نه شرطِ غیرواقعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "zouden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع «wij» + شرطِ غیرواقعیِ گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "moesten",
+        "is_correct": false,
+        "feedback_fa": "«moesten» معنیِ اجبار می‌دهد، نه نتیجه‌ی فرضی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "official_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als u mij dat had verteld, ___ ik u kunnen helpen.",
+    "question_text_fa": "کدام کلمه گزاره‌ی غیرواقعی را درست می‌سازد؟",
+    "explanation_fa": "فاعلِ جمله‌ی نتیجه «ik» است، پس فعلِ کمکیِ «zou» درست است.",
+    "grammar_rule_fa": "شرطِ غیرواقعیِ گذشته، فاعلِ مفرد: zou.",
+    "extra_example_nl": "Als u dat eerder had gezegd, zou ik het hebben geregeld.",
+    "extra_example_fa": "اگر زودتر گفته بودید، آن را ترتیب می‌دادم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zouden",
+        "is_correct": false,
+        "feedback_fa": "«zouden» برای فاعلِ جمع است؛ اینجا فاعل «ik» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zullen",
+        "is_correct": false,
+        "feedback_fa": "«zullen» زمانِ آینده‌ی واقعی است، نه شرطِ غیرواقعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "moest",
+        "is_correct": false,
+        "feedback_fa": "«moest» معنیِ اجبار می‌دهد، نه نتیجه‌ی فرضی."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل «ik» + شرطِ غیرواقعیِ گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als hij harder ___, zou hij slagen voor het examen.",
+    "question_text_fa": "کدام فعل جمله‌ی شرطیِ فرضی را درست می‌کند؟",
+    "explanation_fa": "در جمله‌ی «als» برای شرطِ غیرواقعی از زمانِ گذشته (imperfectum) استفاده می‌شود.",
+    "grammar_rule_fa": "شرطِ غیرواقعی: als + گذشته (imperfectum), ... + zou + مصدر.",
+    "extra_example_nl": "Als ze harder studeerde, zou ze betere cijfers halen.",
+    "extra_example_fa": "اگر او سخت‌تر درس می‌خواند، نمره‌های بهتری می‌گرفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "studeert",
+        "is_correct": false,
+        "feedback_fa": "«studeert» زمانِ حال است؛ جمله‌ی «als» در شرطِ غیرواقعی به گذشته نیاز دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "studeerde",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ imperfectum برای شرطِ غیرواقعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "heeft gestudeerd",
+        "is_correct": false,
+        "feedback_fa": "«heeft gestudeerd» زمانِ حالِ کامل است؛ اینجا imperfectum ساده لازم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou studeren",
+        "is_correct": false,
+        "feedback_fa": "«zou» نباید در جمله‌ی «als» بیاید؛ آن فقط در جمله‌ی نتیجه می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als ik genoeg geld ___, zou ik een huis kopen.",
+    "question_text_fa": "کدام فعل جمله‌ی شرطیِ فرضی را درست می‌کند؟",
+    "explanation_fa": "در جمله‌ی «als» برای شرطِ غیرواقعی از imperfectumِ «hebben» یعنی «had» استفاده می‌شود.",
+    "grammar_rule_fa": "hebben در imperfectum: had/had/had/hadden.",
+    "extra_example_nl": "Als hij genoeg geld had, zou hij verhuizen.",
+    "extra_example_fa": "اگر او پولِ کافی داشت، اسباب‌کشی می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "heb",
+        "is_correct": false,
+        "feedback_fa": "«heb» زمانِ حال است؛ شرطِ غیرواقعی به imperfectum نیاز دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "had gehad",
+        "is_correct": false,
+        "feedback_fa": "«had gehad» زمانِ گذشته‌ی دور (voltooid verleden) است؛ اینجا imperfectumِ ساده کافی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "had",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ imperfectumِ hebben برای شرطِ غیرواقعی."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou hebben",
+        "is_correct": false,
+        "feedback_fa": "«zou» نباید در جمله‌ی «als» بیاید؛ فقط در جمله‌ی نتیجه می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als zij meer vrije tijd ___, zou zij een cursus volgen.",
+    "question_text_fa": "کدام فعل جمله‌ی شرطیِ فرضی را درست می‌کند؟",
+    "explanation_fa": "در جمله‌ی «als» برای شرطِ غیرواقعی از imperfectumِ «hebben» یعنی «had» استفاده می‌شود.",
+    "grammar_rule_fa": "hebben در imperfectum، مفرد: had.",
+    "extra_example_nl": "Als ze meer tijd had, zou ze meer lezen.",
+    "extra_example_fa": "اگر او وقتِ بیشتری داشت، بیشتر مطالعه می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "heeft",
+        "is_correct": false,
+        "feedback_fa": "«heeft» زمانِ حال است؛ شرطِ غیرواقعی به imperfectum نیاز دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "had gehad",
+        "is_correct": false,
+        "feedback_fa": "«had gehad» زمانِ گذشته‌ی دور است؛ اینجا imperfectumِ ساده کافی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou hebben",
+        "is_correct": false,
+        "feedback_fa": "«zou» نباید در جمله‌ی «als» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "had",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ imperfectumِ hebben برای شرطِ غیرواقعی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als we een auto ___, zouden we sneller reizen.",
+    "question_text_fa": "کدام فعل جمله‌ی شرطیِ فرضی را درست می‌کند؟",
+    "explanation_fa": "فاعل «we» جمع است، پس imperfectumِ hebben به‌صورت «hadden» می‌آید.",
+    "grammar_rule_fa": "hebben در imperfectum، جمع: hadden.",
+    "extra_example_nl": "Als we meer geld hadden, zouden we vaker uit eten gaan.",
+    "extra_example_fa": "اگر پولِ بیشتری داشتیم، بیشتر بیرون غذا می‌خوردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "hebben",
+        "is_correct": false,
+        "feedback_fa": "«hebben» زمانِ حال است؛ شرطِ غیرواقعی به imperfectum نیاز دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "hadden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ imperfectumِ hebben (جمع) برای شرطِ غیرواقعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "hadden gehad",
+        "is_correct": false,
+        "feedback_fa": "«hadden gehad» زمانِ گذشته‌ی دور است؛ اینجا imperfectumِ ساده کافی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zouden hebben",
+        "is_correct": false,
+        "feedback_fa": "«zouden» نباید در جمله‌ی «als» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als jullie het eerder ___, zouden jullie het kunnen voorkomen.",
+    "question_text_fa": "کدام فعل جمله‌ی شرطیِ فرضی را درست می‌کند؟",
+    "explanation_fa": "برای شرطِ غیرواقعی، imperfectumِ «weten» یعنی «wisten» درست است.",
+    "grammar_rule_fa": "weten در imperfectum: wist/wist/wist/wisten.",
+    "extra_example_nl": "Als ze het eerder wisten, zouden ze anders handelen.",
+    "extra_example_fa": "اگر زودتر می‌دانستند، طورِ دیگری عمل می‌کردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "weten",
+        "is_correct": false,
+        "feedback_fa": "«weten» زمانِ حال است؛ شرطِ غیرواقعی به imperfectum نیاز دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "hebben geweten",
+        "is_correct": false,
+        "feedback_fa": "«hebben geweten» زمانِ حالِ کامل است؛ اینجا imperfectumِ ساده لازم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wisten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ imperfectumِ weten برای شرطِ غیرواقعی."
+      },
+      {
+        "key": "D",
+        "text_nl": "zouden weten",
+        "is_correct": false,
+        "feedback_fa": "«zouden» نباید در جمله‌ی «als» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als hij niet zo druk ___, zou hij vaker sporten.",
+    "question_text_fa": "کدام فعل جمله‌ی شرطیِ فرضی را درست می‌کند؟",
+    "explanation_fa": "برای شرطِ غیرواقعی، imperfectumِ «zijn» یعنی «was» درست است.",
+    "grammar_rule_fa": "zijn در imperfectum، مفرد: was.",
+    "extra_example_nl": "Als ze niet zo moe was, zou ze meer bewegen.",
+    "extra_example_fa": "اگر او این‌قدر خسته نبود، بیشتر ورزش می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» زمانِ حال است؛ شرطِ غیرواقعی به imperfectum نیاز دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "is geweest",
+        "is_correct": false,
+        "feedback_fa": "«is geweest» زمانِ حالِ کامل است؛ اینجا imperfectumِ ساده لازم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou zijn",
+        "is_correct": false,
+        "feedback_fa": "«zou» نباید در جمله‌ی «als» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "was",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ imperfectumِ zijn برای شرطِ غیرواقعی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Als ik jou ___, zou ik anders reageren.",
+    "question_text_fa": "کدام فعل جمله‌ی شرطیِ فرضی را درست می‌کند؟",
+    "explanation_fa": "برای شرطِ غیرواقعیِ «als ik jou was»، imperfectumِ «zijn» یعنی «was» درست است.",
+    "grammar_rule_fa": "zijn در imperfectum، مفرد: was.",
+    "extra_example_nl": "Als ik jou was, zou ik het rustig uitleggen.",
+    "extra_example_fa": "اگر جای تو بودم، آن را با آرامش توضیح می‌دادم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "was",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ عبارتِ ثابتِ «als ik jou was»."
+      },
+      {
+        "key": "B",
+        "text_nl": "ben",
+        "is_correct": false,
+        "feedback_fa": "«ben» زمانِ حال است؛ شرطِ غیرواقعی به imperfectum نیاز دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "ben geweest",
+        "is_correct": false,
+        "feedback_fa": "«ben geweest» زمانِ حالِ کامل است؛ اینجا imperfectumِ ساده لازم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou zijn",
+        "is_correct": false,
+        "feedback_fa": "«zou» نباید در جمله‌ی «als» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als de winkel dichterbij ___, zouden we vaker gaan.",
+    "question_text_fa": "کدام فعل جمله‌ی شرطیِ فرضی را درست می‌کند؟",
+    "explanation_fa": "برای شرطِ غیرواقعی، imperfectumِ «zijn» یعنی «was» درست است.",
+    "grammar_rule_fa": "zijn در imperfectum، مفرد: was.",
+    "extra_example_nl": "Als het station dichterbij was, zouden we lopen.",
+    "extra_example_fa": "اگر ایستگاه نزدیک‌تر بود، پیاده می‌رفتیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "is geweest",
+        "is_correct": false,
+        "feedback_fa": "«is geweest» زمانِ حالِ کامل است؛ اینجا imperfectumِ ساده لازم است."
+      },
+      {
+        "key": "B",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» زمانِ حال است؛ شرطِ غیرواقعی به imperfectum نیاز دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "was",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ imperfectumِ zijn برای شرطِ غیرواقعی."
+      },
+      {
+        "key": "D",
+        "text_nl": "zouden zijn",
+        "is_correct": false,
+        "feedback_fa": "«zouden» نباید در جمله‌ی «als» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als hij meer geduld ___, zou hij minder fouten maken.",
+    "question_text_fa": "کدام فعل جمله‌ی شرطیِ فرضی را درست می‌کند؟",
+    "explanation_fa": "برای شرطِ غیرواقعی، imperfectumِ «hebben» یعنی «had» درست است.",
+    "grammar_rule_fa": "hebben در imperfectum، مفرد: had.",
+    "extra_example_nl": "Als ze meer geduld hadden, zouden ze beter luisteren.",
+    "extra_example_fa": "اگر صبرِ بیشتری داشتند، بهتر گوش می‌دادند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "heeft",
+        "is_correct": false,
+        "feedback_fa": "«heeft» زمانِ حال است؛ شرطِ غیرواقعی به imperfectum نیاز دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "had",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ imperfectumِ hebben برای شرطِ غیرواقعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "had gehad",
+        "is_correct": false,
+        "feedback_fa": "«had gehad» زمانِ گذشته‌ی دور است؛ اینجا imperfectumِ ساده کافی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou hebben",
+        "is_correct": false,
+        "feedback_fa": "«zou» نباید در جمله‌ی «als» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "conditional",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als mijn ouders rijker ___, zouden ze een groter huis kopen.",
+    "question_text_fa": "کدام فعل جمله‌ی شرطیِ فرضی را درست می‌کند؟",
+    "explanation_fa": "فاعل «ze» (والدینِ من) جمع است، پس imperfectumِ «zijn» به‌صورت «waren» می‌آید.",
+    "grammar_rule_fa": "zijn در imperfectum، جمع: waren.",
+    "extra_example_nl": "Als ze jonger waren, zouden ze meer reizen.",
+    "extra_example_fa": "اگر آن‌ها جوان‌تر بودند، بیشتر سفر می‌کردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zijn geweest",
+        "is_correct": false,
+        "feedback_fa": "«zijn geweest» زمانِ حالِ کامل است؛ اینجا imperfectumِ ساده لازم است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zouden zijn",
+        "is_correct": false,
+        "feedback_fa": "«zouden» نباید در جمله‌ی «als» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "zijn",
+        "is_correct": false,
+        "feedback_fa": "«zijn» زمانِ حال است؛ شرطِ غیرواقعی به imperfectum نیاز دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "waren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ imperfectumِ zijn (جمع) برای شرطِ غیرواقعی."
+      }
+    ]
+  }
+]

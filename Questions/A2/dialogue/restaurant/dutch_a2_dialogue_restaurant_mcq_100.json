@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "entering_restaurant",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt in de avond een restaurant binnen met je partner.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "شب با همراهت وارد رستوران می‌شوی. بهترین شروع مکالمه کدام است؟",
+    "explanation_fa": "در ورود شبانه، «Goedenavond» همراه با درخواست میز طبیعی و مؤدبانه است.",
+    "dialogue_rule_fa": "در شروع مکالمه در رستوران معمولاً سلام می‌کنی و کوتاه می‌گویی چه می‌خواهی.",
+    "extra_example_nl": "Goedenavond, we willen graag eten.",
+    "extra_example_fa": "شب بخیر، ما می‌خواهیم غذا بخوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenavond, heeft u een tafel voor twee?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه هنگام ورود به رستوران مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag de pasta.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کوچک غذا است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "entering_restaurant",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt rond de middag een café binnen.",
+    "question_text_nl": "Wat zeg je eerst?",
+    "question_text_fa": "ظهر وارد کافه می‌شوی. اول چه می‌گویی؟",
+    "explanation_fa": "برای شروع مکالمه در ظهر، «Goedemiddag» و سپس درخواست میز مناسب است.",
+    "dialogue_rule_fa": "در شروع مکالمه در رستوران معمولاً سلام می‌کنی و کوتاه می‌گویی چه می‌خواهی.",
+    "extra_example_nl": "Goedemiddag, we zijn met twee personen.",
+    "extra_example_fa": "ظهر بخیر، ما دو نفر هستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemiddag, heeft u een tafel vrij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه هنگام ورود به رستوران مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is dit gerecht pittig?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن جزئیات غذا است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik een vork?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "entering_restaurant",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt een tafel gereserveerd in een restaurant.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "در رستوران میز رزرو کرده‌ای. بهترین جمله چیست؟",
+    "explanation_fa": "وقتی رزرو داری، باید هنگام ورود بگویی که رزرو کرده‌ای.",
+    "dialogue_rule_fa": "در شروع مکالمه در رستوران معمولاً سلام می‌کنی و کوتاه می‌گویی چه می‌خواهی.",
+    "extra_example_nl": "Ik heb een reservering op naam van Hamed.",
+    "extra_example_fa": "من به نام حامد رزرو دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem thee.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik een servet, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hallo, we hebben gereserveerd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه هنگام ورود به رستوران مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تغییر ساده در غذا است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "entering_restaurant",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt binnen en de serveerster kijkt naar je.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "وارد رستوران می‌شوی و پیشخدمت به تو نگاه می‌کند. چه می‌گویی؟",
+    "explanation_fa": "برای شروع ساده، سلام و گفتن اینکه می‌خواهید غذا بخورید مناسب است.",
+    "dialogue_rule_fa": "در شروع مکالمه در رستوران معمولاً سلام می‌کنی و کوتاه می‌گویی چه می‌خواهی.",
+    "extra_example_nl": "Hallo, heeft u plek?",
+    "extra_example_fa": "سلام، جا دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is niet mijn bestelling.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اشتباه بودن سفارش است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u sinaasappelsap?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن نوشیدنی است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hallo, we willen graag eten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه هنگام ورود به رستوران مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "entering_restaurant",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt alleen een restaurant binnen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "تنهایی وارد رستوران می‌شوی. بهترین جمله چیست؟",
+    "explanation_fa": "وقتی تنها هستی، گفتن «voor één persoon» برای گرفتن میز واضح است.",
+    "dialogue_rule_fa": "در شروع مکالمه در رستوران معمولاً سلام می‌کنی و کوتاه می‌گویی چه می‌خواهی.",
+    "extra_example_nl": "Heeft u een tafel voor één persoon?",
+    "extra_example_fa": "برای یک نفر میز دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemiddag, heeft u een tafel voor één persoon?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه هنگام ورود به رستوران مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor mij de salade.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat is de soep van de dag?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن غذای روز است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت نقدی است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "entering_restaurant",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt binnen met drie vrienden.",
+    "question_text_nl": "Wat zeg je bij de ingang?",
+    "question_text_fa": "با سه دوست وارد رستوران می‌شوی. دم ورودی چه می‌گویی؟",
+    "explanation_fa": "در شروع، گفتن تعداد نفرات به گارسون کمک می‌کند میز مناسب بدهد.",
+    "dialogue_rule_fa": "در شروع مکالمه در رستوران معمولاً سلام می‌کنی و کوتاه می‌گویی چه می‌خواهی.",
+    "extra_example_nl": "We zijn met vier personen.",
+    "extra_example_fa": "ما چهار نفر هستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik weet het nog niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه هنوز تصمیم نگرفته‌ای است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedenavond, we zijn met vier personen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه هنگام ورود به رستوران مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کوچک غذا است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "entering_restaurant",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt binnen en wilt zeggen dat je een reservering hebt.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "وارد رستوران شده‌ای و می‌خواهی بگویی رزرو داری. کدام جمله بهتر است؟",
+    "explanation_fa": "برای رزرو، عبارت «op naam van ...» یعنی «به نامِ ...» استفاده می‌شود.",
+    "dialogue_rule_fa": "در شروع مکالمه در رستوران معمولاً سلام می‌کنی و کوتاه می‌گویی چه می‌خواهی.",
+    "extra_example_nl": "We hebben gereserveerd op naam van De Vries.",
+    "extra_example_fa": "ما به نام دِ فریس رزرو کرده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag friet erbij.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اضافه کردن غذا کنار سفارش است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u nog wat water brengen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست آب بیشتر است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een reservering op naam van Sara.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه هنگام ورود به رستوران مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "entering_restaurant",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt zonder reservering een restaurant binnen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "بدون رزرو وارد رستوران می‌شوی. چه می‌پرسی؟",
+    "explanation_fa": "اگر رزرو نداری، باید مؤدبانه بپرسی میز خالی هست یا نه.",
+    "dialogue_rule_fa": "در شروع مکالمه در رستوران معمولاً سلام می‌کنی و کوتاه می‌گویی چه می‌خواهی.",
+    "extra_example_nl": "Heeft u nog plek voor twee personen?",
+    "extra_example_fa": "هنوز برای دو نفر جا دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem de soep.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zit er kaas in?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مواد داخل غذا است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alles samen, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت همه با هم است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hallo, heeft u een tafel vrij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه هنگام ورود به رستوران مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "entering_restaurant",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt 's avonds binnen en wilt netjes beginnen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "شب وارد رستوران می‌شوی و می‌خواهی مؤدبانه شروع کنی. کدام جمله بهتر است؟",
+    "explanation_fa": "در شب، «Goedenavond» شروع مناسب و طبیعی است.",
+    "dialogue_rule_fa": "در شروع مکالمه در رستوران معمولاً سلام می‌کنی و کوتاه می‌گویی چه می‌خواهی.",
+    "extra_example_nl": "Goedenavond, heeft u plek?",
+    "extra_example_fa": "شب بخیر، جا دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenavond, we willen graag eten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه هنگام ورود به رستوران مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik een cola?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تغییر ساده در غذا است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit meenemen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست برداشتن چیزی از میز است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "entering_restaurant",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat bij de ingang en de ober vraagt: Heeft u gereserveerd?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دم ورودی هستی و گارسون می‌پرسد آیا رزرو کرده‌اید. بهترین پاسخ چیست؟",
+    "explanation_fa": "پاسخ باید مستقیم به سؤال رزرو مربوط باشد.",
+    "dialogue_rule_fa": "در شروع مکالمه در رستوران معمولاً سلام می‌کنی و کوتاه می‌گویی چه می‌خواهی.",
+    "extra_example_nl": "Ja, op naam van Akhgari.",
+    "extra_example_fa": "بله، به نام آخگاری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag kip met rijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, we hebben gereserveerd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه هنگام ورود به رستوران مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een lepel?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت نقدی است، نه شروع مکالمه هنگام ورود به رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_table",
+    "life_context": "table",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent met één vriend in een restaurant.",
+    "question_text_nl": "Hoe vraag je om een tafel?",
+    "question_text_fa": "با یک دوست در رستوران هستی. چگونه میز می‌خواهی؟",
+    "explanation_fa": "برای دو نفر باید بگویی «een tafel voor twee».",
+    "dialogue_rule_fa": "برای درخواست میز می‌گویی: Heeft u een tafel voor ...?",
+    "extra_example_nl": "Heeft u een tafel voor drie personen?",
+    "extra_example_fa": "برای سه نفر میز دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor mij een glas water, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u een tafel voor twee?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست میز مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه درخواست میز در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_table",
+    "life_context": "table",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent met drie personen bij de ingang.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "سه نفر هستید و دم ورودی رستوران ایستاده‌اید. چه می‌گویی؟",
+    "explanation_fa": "گفتن تعداد نفرات برای گرفتن میز مناسب مهم است.",
+    "dialogue_rule_fa": "برای درخواست میز می‌گویی: Heeft u een tafel voor ...?",
+    "extra_example_nl": "We zijn met vijf personen.",
+    "extra_example_fa": "ما پنج نفر هستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is dit gerecht pittig?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن جزئیات غذا است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem thee.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dit meenemen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست برداشتن چیزی از میز است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "We zijn met drie personen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست میز مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_table",
+    "life_context": "table",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet een lege tafel bij het raam.",
+    "question_text_nl": "Wat vraag je aan de ober?",
+    "question_text_fa": "یک میز خالی کنار پنجره می‌بینی. از گارسون چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن اجازه نشستن پشت یک میز، «Kunnen we hier zitten?» طبیعی است.",
+    "dialogue_rule_fa": "برای درخواست میز می‌گویی: Heeft u een tafel voor ...?",
+    "extra_example_nl": "Is deze tafel vrij?",
+    "extra_example_fa": "این میز خالی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunnen we hier zitten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست میز مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de soep.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u een kindermenu?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن منوی کودک است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه درخواست میز در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_table",
+    "life_context": "table",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt buiten op het terras zitten.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی بیرون روی تراس بنشینی. بهترین جمله چیست؟",
+    "explanation_fa": "برای درخواست نشستن بیرون از «buiten zitten» استفاده می‌شود.",
+    "dialogue_rule_fa": "برای درخواست میز می‌گویی: Heeft u een tafel voor ...?",
+    "extra_example_nl": "Kunnen we buiten zitten?",
+    "extra_example_fa": "می‌توانیم بیرون بنشینیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کوچک غذا است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "We willen graag buiten zitten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست میز مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor mij de salade.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست میز در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_table",
+    "life_context": "table",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt binnen zitten omdat het koud is.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "چون هوا سرد است، می‌خواهی داخل بنشینی. چه می‌گویی؟",
+    "explanation_fa": "برای درخواست نشستن داخل رستوران، «binnen zitten» مناسب است.",
+    "dialogue_rule_fa": "برای درخواست میز می‌گویی: Heeft u een tafel voor ...?",
+    "extra_example_nl": "Is er binnen een tafel vrij?",
+    "extra_example_fa": "داخل میز خالی هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تغییر ساده در غذا است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een koffie met melk, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "We willen graag binnen zitten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست میز مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه درخواست میز در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_table",
+    "life_context": "table",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent met vier personen en wilt weten of er plek is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "چهار نفر هستید و می‌خواهی بدانی جا هست یا نه. بهترین سؤال چیست؟",
+    "explanation_fa": "برای پرسیدن جا برای چهار نفر، «plek voor vier personen» روشن و طبیعی است.",
+    "dialogue_rule_fa": "برای درخواست میز می‌گویی: Heeft u een tafel voor ...?",
+    "extra_example_nl": "Heeft u een tafel voor vier?",
+    "extra_example_fa": "برای چهار نفر میز دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik een vork?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat raadt u aan?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن پیشنهاد غذا است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag de pasta.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u plek voor vier personen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست میز مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_table",
+    "life_context": "table",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat bij een tafel maar weet niet of die vrij is.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کنار یک میز ایستاده‌ای اما نمی‌دانی خالی است یا نه. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن خالی بودن یک میز، «Is deze tafel vrij?» مناسب است.",
+    "dialogue_rule_fa": "برای درخواست میز می‌گویی: Heeft u een tafel voor ...?",
+    "extra_example_nl": "Is deze plek vrij?",
+    "extra_example_fa": "این جا خالی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is deze tafel vrij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست میز مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت نقدی است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem hetzelfde.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش همان غذا است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat zit erin?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مواد داخل غذا است، نه درخواست میز در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_table",
+    "life_context": "table",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De ober vraagt: Met hoeveel personen bent u?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "گارسون می‌پرسد چند نفر هستید. بهترین پاسخ چیست؟",
+    "explanation_fa": "پاسخ باید تعداد نفرات را بگوید.",
+    "dialogue_rule_fa": "برای درخواست میز می‌گویی: Heeft u een tafel voor ...?",
+    "extra_example_nl": "We zijn met vier personen.",
+    "extra_example_fa": "ما چهار نفر هستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik een cola?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "We zijn met twee personen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست میز مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is niet mijn bestelling.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اشتباه بودن سفارش است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat is de soep van de dag?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن غذای روز است، نه درخواست میز در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_table",
+    "life_context": "table",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een rustige tafel in het restaurant.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی یک میز آرام‌تر در رستوران داشته باشی. چه می‌گویی؟",
+    "explanation_fa": "برای درخواست میز آرام‌تر، جمله کوتاه و مستقیم مناسب است.",
+    "dialogue_rule_fa": "برای درخواست میز می‌گویی: Heeft u een tafel voor ...?",
+    "extra_example_nl": "Kunnen we daar zitten?",
+    "extra_example_fa": "می‌توانیم آنجا بنشینیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag friet erbij.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اضافه کردن غذا کنار سفارش است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u een rustige tafel?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست میز مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik een servet, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه درخواست میز در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_table",
+    "life_context": "table",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je vraagt of je bij het raam kunt zitten.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌پرسی آیا می‌توانی کنار پنجره بنشینی. کدام جمله بهتر است؟",
+    "explanation_fa": "در رستوران برای درخواست جای خاص، «Kunnen we ... zitten?» طبیعی است.",
+    "dialogue_rule_fa": "برای درخواست میز می‌گویی: Heeft u een tafel voor ...?",
+    "extra_example_nl": "Heeft u een tafel bij het raam?",
+    "extra_example_fa": "کنار پنجره میز دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het was lekker.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای جواب درباره کیفیت غذا است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تغییر ساده در غذا است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor mij een glas water, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست میز در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunnen we bij het raam zitten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست میز مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_menu",
+    "life_context": "menu",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zit aan tafel en wilt de menukaart zien.",
+    "question_text_nl": "Wat zeg je tegen de ober?",
+    "question_text_fa": "سر میز نشسته‌ای و می‌خواهی منو را ببینی. به گارسون چه می‌گویی؟",
+    "explanation_fa": "برای درخواست منو، «Mag ik de menukaart?» مؤدبانه و ساده است.",
+    "dialogue_rule_fa": "برای درخواست منو می‌گویی: Mag ik de menukaart?",
+    "extra_example_nl": "Heeft u de menukaart, alstublieft?",
+    "extra_example_fa": "منو را دارید، لطفاً؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یا پرسیدن منو مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u een tafel voor twee?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag de pasta.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه درخواست یا پرسیدن منو در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_menu",
+    "life_context": "menu",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De menukaart ligt niet op tafel.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "منو روی میز نیست. بهترین سؤال چیست؟",
+    "explanation_fa": "اگر منو را نمی‌بینی، می‌توانی بپرسی «Heeft u de menukaart?»",
+    "dialogue_rule_fa": "برای درخواست منو می‌گویی: Mag ik de menukaart?",
+    "extra_example_nl": "Mag ik de menukaart zien?",
+    "extra_example_fa": "می‌توانم منو را ببینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کوچک غذا است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u de menukaart?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یا پرسیدن منو مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een vork?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik neem thee.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست یا پرسیدن منو در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_menu",
+    "life_context": "menu",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten welke gerechten er zijn.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی چه غذاهایی وجود دارد. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن غذاهای موجود، «Wat staat er op het menu?» مناسب است.",
+    "dialogue_rule_fa": "برای درخواست منو می‌گویی: Mag ik de menukaart?",
+    "extra_example_nl": "Wat heeft u vandaag?",
+    "extra_example_fa": "امروز چه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت نقدی است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "We zijn met drie personen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تعداد نفرات برای میز است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat staat er op het menu?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یا پرسیدن منو مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een koffie met melk, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست یا پرسیدن منو در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_menu",
+    "life_context": "menu",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent met een kind in het restaurant.",
+    "question_text_nl": "Hoe vraag je naar een kindermenu?",
+    "question_text_fa": "با یک کودک در رستوران هستی. چگونه درباره منوی کودک می‌پرسی؟",
+    "explanation_fa": "برای منوی کودک، سؤال مستقیم «Heeft u een kindermenu?» مناسب است.",
+    "dialogue_rule_fa": "برای درخواست منو می‌گویی: Mag ik de menukaart?",
+    "extra_example_nl": "Is er een menu voor kinderen?",
+    "extra_example_fa": "برای بچه‌ها منو هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag kip met rijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u nog wat water brengen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست آب بیشتر است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alles is goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای جواب درباره وضعیت غذا یا سرویس است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een kindermenu?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یا پرسیدن منو مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_menu",
+    "life_context": "menu",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je eet geen vlees en kijkt naar de menukaart.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "گوشت نمی‌خوری و به منو نگاه می‌کنی. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن غذای گیاهی، «vegetarische gerechten» استفاده می‌شود.",
+    "dialogue_rule_fa": "برای درخواست منو می‌گویی: Mag ik de menukaart?",
+    "extra_example_nl": "Heeft u iets vegetarisch?",
+    "extra_example_fa": "چیز گیاهی دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u vegetarische gerechten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یا پرسیدن منو مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik een lepel?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه درخواست یا پرسیدن منو در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_menu",
+    "life_context": "menu",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je weet niet wat je wilt eten.",
+    "question_text_nl": "Wat vraag je aan de ober?",
+    "question_text_fa": "نمی‌دانی چه غذایی انتخاب کنی. از گارسون چه می‌پرسی؟",
+    "explanation_fa": "برای گرفتن پیشنهاد، «Wat raadt u aan?» جمله کوتاه و طبیعی است.",
+    "dialogue_rule_fa": "برای درخواست منو می‌گویی: Mag ik de menukaart?",
+    "extra_example_nl": "Welke pasta raadt u aan?",
+    "extra_example_fa": "کدام پاستا را پیشنهاد می‌کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat raadt u aan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یا پرسیدن منو مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "We willen graag buiten zitten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست نشستن بیرون است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb geen mes.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نداشتن وسیله روی میز است، نه درخواست یا پرسیدن منو در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_menu",
+    "life_context": "menu",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten wat de soep van vandaag is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی سوپ امروز چیست. بهترین سؤال کدام است؟",
+    "explanation_fa": "در رستوران برای سوپ روز می‌گویند «de soep van de dag».",
+    "dialogue_rule_fa": "برای درخواست منو می‌گویی: Mag ik de menukaart?",
+    "extra_example_nl": "Heeft u soep vandaag?",
+    "extra_example_fa": "امروز سوپ دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem hetzelfde.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش همان غذا است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunnen we hier zitten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن درباره نشستن پشت میز است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat is de soep van de dag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یا پرسیدن منو مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه درخواست یا پرسیدن منو در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_menu",
+    "life_context": "menu",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet een gerecht op de menukaart en wilt weten of het pittig is.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "غذایی در منو می‌بینی و می‌خواهی بدانی تند است یا نه. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن تند بودن غذا، «Is dit gerecht pittig?» ساده و مناسب است.",
+    "dialogue_rule_fa": "برای درخواست منو می‌گویی: Mag ik de menukaart?",
+    "extra_example_nl": "Is de saus pittig?",
+    "extra_example_fa": "سس تند است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag de pizza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت نقدی است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is dit gerecht pittig?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یا پرسیدن منو مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_menu",
+    "life_context": "menu",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt de dessertkaart zien.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی منوی دسر را ببینی. چه می‌گویی؟",
+    "explanation_fa": "برای درخواست منوی دسر، «dessertkaart» کلمه مناسب است.",
+    "dialogue_rule_fa": "برای درخواست منو می‌گویی: Mag ik de menukaart?",
+    "extra_example_nl": "Heeft u een dessertkaart?",
+    "extra_example_fa": "منوی دسر دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de dessertkaart?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یا پرسیدن منو مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de soep.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "We zijn met twee personen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit meenemen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست برداشتن چیزی از میز است، نه درخواست یا پرسیدن منو در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_for_menu",
+    "life_context": "menu",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt rustig eerst naar het menu kijken.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی اول آرام به منو نگاه کنی. کدام جمله بهتر است؟",
+    "explanation_fa": "وقتی هنوز انتخاب نکرده‌ای، می‌توانی مؤدبانه بگویی اول نگاه می‌کنی.",
+    "dialogue_rule_fa": "برای درخواست منو می‌گویی: Mag ik de menukaart?",
+    "extra_example_nl": "We willen nog even naar de menukaart kijken.",
+    "extra_example_fa": "می‌خواهیم کمی دیگر به منو نگاه کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik eerst even kijken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یا پرسیدن منو مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen vork.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله یا گفتن مشکل کوچک است، نه درخواست یا پرسیدن منو در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "We willen graag binnen zitten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه درخواست یا پرسیدن منو در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_drinks",
+    "life_context": "drinks",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De ober vraagt: Wat wilt u drinken? Jij wilt water.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "گارسون می‌پرسد چه می‌نوشید و تو آب می‌خواهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای سفارش آب، «Voor mij een glas water» ساده و مؤدبانه است.",
+    "dialogue_rule_fa": "برای سفارش نوشیدنی می‌توانی بگویی: Voor mij ... alstublieft.",
+    "extra_example_nl": "Een glas water, graag.",
+    "extra_example_fa": "یک لیوان آب، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag de pasta.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor mij een glas water, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش نوشیدنی مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه سفارش نوشیدنی در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_drinks",
+    "life_context": "drinks",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt koffie bestellen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی قهوه سفارش بدهی. چه می‌گویی؟",
+    "explanation_fa": "برای سفارش قهوه، می‌توانی بگویی «Voor mij een koffie».",
+    "dialogue_rule_fa": "برای سفارش نوشیدنی می‌توانی بگویی: Voor mij ... alstublieft.",
+    "extra_example_nl": "Ik neem een koffie.",
+    "extra_example_fa": "من یک قهوه می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik een vork?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is het vegetarisch?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن جزئیات غذا است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "We zijn met drie personen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تعداد نفرات برای میز است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor mij een koffie, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش نوشیدنی مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_drinks",
+    "life_context": "drinks",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De serveerster vraagt wat je wilt drinken. Jij wilt thee.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "پیشخدمت می‌پرسد چه نوشیدنی می‌خواهی و تو چای می‌خواهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "«Ik neem thee» پاسخ کوتاه و طبیعی برای سفارش چای است.",
+    "dialogue_rule_fa": "برای سفارش نوشیدنی می‌توانی بگویی: Voor mij ... alstublieft.",
+    "extra_example_nl": "Voor mij een thee, alstublieft.",
+    "extra_example_fa": "برای من یک چای، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem thee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش نوشیدنی مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کوچک غذا است، نه سفارش نوشیدنی در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_drinks",
+    "life_context": "drinks",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een cola bestellen.",
+    "question_text_nl": "Wat zeg je tegen de ober?",
+    "question_text_fa": "می‌خواهی یک کولا سفارش بدهی. به گارسون چه می‌گویی؟",
+    "explanation_fa": "برای سفارش ساده، «Mag ik een cola?» مؤدبانه است.",
+    "dialogue_rule_fa": "برای سفارش نوشیدنی می‌توانی بگویی: Voor mij ... alstublieft.",
+    "extra_example_nl": "Een cola, alstublieft.",
+    "extra_example_fa": "یک کولا، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een tafel voor twee?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik een cola?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش نوشیدنی مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat zit erin?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مواد داخل غذا است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik neem de soep.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه سفارش نوشیدنی در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_drinks",
+    "life_context": "drinks",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten of er sinaasappelsap is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی آب‌پرتقال دارند یا نه. بهترین سؤال چیست؟",
+    "explanation_fa": "برای پرسیدن وجود یک نوشیدنی، «Heeft u ...?» مناسب است.",
+    "dialogue_rule_fa": "برای سفارش نوشیدنی می‌توانی بگویی: Voor mij ... alstublieft.",
+    "extra_example_nl": "Heeft u appelsap?",
+    "extra_example_fa": "آب‌سیب دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor mij de salade.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u sinaasappelsap?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش نوشیدنی مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit meenemen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست برداشتن چیزی از میز است، نه سفارش نوشیدنی در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_drinks",
+    "life_context": "drinks",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bestelt water zonder ijs.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "آب بدون یخ سفارش می‌دهی. چه می‌گویی؟",
+    "explanation_fa": "برای توضیح درباره نوشیدنی، «zonder ijs» یعنی بدون یخ.",
+    "dialogue_rule_fa": "برای سفارش نوشیدنی می‌توانی بگویی: Voor mij ... alstublieft.",
+    "extra_example_nl": "Zonder ijs, alstublieft.",
+    "extra_example_fa": "بدون یخ، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een kindermenu?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن منوی کودک است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag kip met rijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت نقدی است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een glas water zonder ijs, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش نوشیدنی مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_drinks",
+    "life_context": "drinks",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt koffie met melk.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "قهوه با شیر می‌خواهی. بهترین جمله چیست؟",
+    "explanation_fa": "برای قهوه با شیر، «met melk» جمله را کامل می‌کند.",
+    "dialogue_rule_fa": "برای سفارش نوشیدنی می‌توانی بگویی: Voor mij ... alstublieft.",
+    "extra_example_nl": "Voor mij koffie met melk.",
+    "extra_example_fa": "برای من قهوه با شیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een koffie met melk, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش نوشیدنی مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is deze tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن خالی بودن میز است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen mes.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نداشتن وسیله روی میز است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat is de soep van de dag?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن غذای روز است، نه سفارش نوشیدنی در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_drinks",
+    "life_context": "drinks",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De ober vraagt: Wilt u iets drinken? Jij wilt alleen water.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "گارسون می‌پرسد نوشیدنی می‌خواهید؟ فقط آب می‌خواهی. چه جواب می‌دهی؟",
+    "explanation_fa": "اول «Ja, graag» و بعد نام نوشیدنی پاسخ طبیعی است.",
+    "dialogue_rule_fa": "برای سفارش نوشیدنی می‌توانی بگویی: Voor mij ... alstublieft.",
+    "extra_example_nl": "Ja, graag. Water, alstublieft.",
+    "extra_example_fa": "بله، لطفاً. آب.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem de pizza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, graag. Een glas water.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش نوشیدنی مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een servet, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunnen we apart betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست پرداخت جداگانه است، نه سفارش نوشیدنی در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_drinks",
+    "life_context": "drinks",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt melk voor je kind bestellen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی برای کودکت شیر سفارش بدهی. چه می‌گویی؟",
+    "explanation_fa": "برای سفارش شیر، «een glas melk» مناسب است.",
+    "dialogue_rule_fa": "برای سفارش نوشیدنی می‌توانی بگویی: Voor mij ... alstublieft.",
+    "extra_example_nl": "Voor mijn kind een glas melk, alstublieft.",
+    "extra_example_fa": "برای کودکم یک لیوان شیر، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem hetzelfde.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش همان غذا است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تغییر ساده در غذا است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een glas melk?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش نوشیدنی مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u plek voor vier personen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست جا برای چند نفر است، نه سفارش نوشیدنی در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_drinks",
+    "life_context": "drinks",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt twee kopjes thee bestellen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی دو فنجان چای سفارش بدهی. بهترین جمله چیست؟",
+    "explanation_fa": "برای سفارش ساده دو چای، «Twee thee» در مکالمه روزمره قابل فهم است.",
+    "dialogue_rule_fa": "برای سفارش نوشیدنی می‌توانی بگویی: Voor mij ... alstublieft.",
+    "extra_example_nl": "Voor ons twee thee, graag.",
+    "extra_example_fa": "برای ما دو چای، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کوچک غذا است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat raadt u aan?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن پیشنهاد غذا است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alles samen, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت همه با هم است، نه سفارش نوشیدنی در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Twee thee, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش نوشیدنی مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_food",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De ober vraagt: Wat wilt u eten? Jij wilt pasta.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "گارسون می‌پرسد چه غذایی می‌خواهی و تو پاستا می‌خواهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای سفارش غذا، «Ik wil graag ...» ساده و مؤدبانه است.",
+    "dialogue_rule_fa": "برای سفارش غذا می‌گویی: Ik wil graag ... یا Ik neem ...",
+    "extra_example_nl": "Ik neem de pasta.",
+    "extra_example_fa": "من پاستا می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag de pasta.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش غذا مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor mij een glas water, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه سفارش غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_food",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt soep bestellen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی سوپ سفارش بدهی. چه می‌گویی؟",
+    "explanation_fa": "«Ik neem de soep» جمله طبیعی برای سفارش سوپ است.",
+    "dialogue_rule_fa": "برای سفارش غذا می‌گویی: Ik wil graag ... یا Ik neem ...",
+    "extra_example_nl": "Voor mij de soep, alstublieft.",
+    "extra_example_fa": "برای من سوپ، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de soep.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش غذا مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het pittig?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن جزئیات غذا است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik een servet, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه سفارش غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_food",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een salade bestellen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی سالاد سفارش بدهی. بهترین جمله چیست؟",
+    "explanation_fa": "برای سفارش سالاد، «Voor mij de salade» کوتاه و مناسب است.",
+    "dialogue_rule_fa": "برای سفارش غذا می‌گویی: Ik wil graag ... یا Ik neem ...",
+    "extra_example_nl": "Ik wil graag de salade.",
+    "extra_example_fa": "من سالاد می‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u sinaasappelsap?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن نوشیدنی است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor mij de salade.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش غذا مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunnen we hier zitten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن درباره نشستن پشت میز است، نه سفارش غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_food",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt pizza bestellen.",
+    "question_text_nl": "Wat zeg je tegen de ober?",
+    "question_text_fa": "می‌خواهی پیتزا سفارش بدهی. به گارسون چه می‌گویی؟",
+    "explanation_fa": "برای سفارش، «Mag ik de pizza?» مؤدبانه و قابل فهم است.",
+    "dialogue_rule_fa": "برای سفارش غذا می‌گویی: Ik wil graag ... یا Ik neem ...",
+    "extra_example_nl": "Ik neem de pizza.",
+    "extra_example_fa": "من پیتزا می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u nog wat water brengen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست آب بیشتر است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat staat er op het menu?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن درباره منو است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "We zijn met drie personen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تعداد نفرات برای میز است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de pizza?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش غذا مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_food",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt kip met rijst bestellen.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "می‌خواهی مرغ با برنج سفارش بدهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای سفارش یک غذا، جمله مستقیم با «Ik wil graag» مناسب است.",
+    "dialogue_rule_fa": "برای سفارش غذا می‌گویی: Ik wil graag ... یا Ik neem ...",
+    "extra_example_nl": "Voor mij kip met rijst.",
+    "extra_example_fa": "برای من مرغ با برنج.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag kip met rijst.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش غذا مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت نقدی است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een lepel?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat raadt u aan?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن پیشنهاد غذا است، نه سفارش غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_food",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt friet bij je eten.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی کنار غذایت سیب‌زمینی سرخ‌کرده داشته باشی. چه می‌گویی؟",
+    "explanation_fa": "«erbij» یعنی همراه یا کنار سفارش.",
+    "dialogue_rule_fa": "برای سفارش غذا می‌گویی: Ik wil graag ... یا Ik neem ...",
+    "extra_example_nl": "Mag ik friet erbij?",
+    "extra_example_fa": "می‌توانم کنارش سیب‌زمینی بگیرم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik weet het nog niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه هنوز تصمیم نگرفته‌ای است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag friet erbij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش غذا مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u een tafel voor twee?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه سفارش غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_food",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je vriend bestelt pasta en jij wilt hetzelfde.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "دوستت پاستا سفارش می‌دهد و تو هم همان را می‌خواهی. بهترین جمله چیست؟",
+    "explanation_fa": "وقتی همان سفارش را می‌خواهی، «Ik neem hetzelfde» طبیعی است.",
+    "dialogue_rule_fa": "برای سفارش غذا می‌گویی: Ik wil graag ... یا Ik neem ...",
+    "extra_example_nl": "Voor mij hetzelfde, alstublieft.",
+    "extra_example_fa": "برای من هم همان، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تغییر ساده در غذا است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem hetzelfde.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش غذا مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit meenemen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست برداشتن چیزی از میز است، نه سفارش غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_food",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet vis op de menukaart en wilt die bestellen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "ماهی را در منو می‌بینی و می‌خواهی سفارش بدهی. چه می‌گویی؟",
+    "explanation_fa": "برای سفارش غذا از منو، «Voor mij de ...» مناسب است.",
+    "dialogue_rule_fa": "برای سفارش غذا می‌گویی: Ik wil graag ... یا Ik neem ...",
+    "extra_example_nl": "Ik wil graag de vis.",
+    "extra_example_fa": "من ماهی می‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik een cola?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is deze tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن خالی بودن میز است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alles is goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای جواب درباره وضعیت غذا یا سرویس است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor mij de vis, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش غذا مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_food",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt brood bij de soep bestellen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی کنار سوپ نان سفارش بدهی. بهترین جمله چیست؟",
+    "explanation_fa": "برای اضافه کردن نان کنار غذا، «bij de soep» واضح است.",
+    "dialogue_rule_fa": "برای سفارش غذا می‌گویی: Ik wil graag ... یا Ik neem ...",
+    "extra_example_nl": "Ik wil graag brood erbij.",
+    "extra_example_fa": "من کنارش نان می‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik brood bij de soep?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش غذا مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u een kindermenu?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن منوی کودک است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کوچک غذا است، نه سفارش غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "ordering_food",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De ober vraagt: Heeft u gekozen? Jij wilt de pizza bestellen.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "گارسون می‌پرسد انتخاب کرده‌اید؟ تو می‌خواهی پیتزا سفارش بدهی. چه جواب می‌دهی؟",
+    "explanation_fa": "اول می‌گویی آماده‌ای و سپس سفارش را می‌گویی.",
+    "dialogue_rule_fa": "برای سفارش غذا می‌گویی: Ik wil graag ... یا Ik neem ...",
+    "extra_example_nl": "Ja, voor mij de pizza.",
+    "extra_example_fa": "بله، برای من پیتزا.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, dank u.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای جواب کوتاه منفی به گارسون است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, ik neem de pizza.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سفارش غذا مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een vork?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه سفارش غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تغییر ساده در غذا است، نه سفارش غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_food_details",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet een gerecht op de menukaart en wilt weten wat erin zit.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "غذایی را در منو می‌بینی و می‌خواهی بدانی داخلش چیست. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن مواد داخل غذا، «Wat zit erin?» ساده و مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات غذا از سؤال‌های کوتاه مثل Is het ...? یا Zit er ... in? استفاده کن.",
+    "extra_example_nl": "Wat zit er in de salade?",
+    "extra_example_fa": "داخل سالاد چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor mij een koffie, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat zit erin?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن جزئیات غذا مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه پرسیدن جزئیات غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_food_details",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of de soep vegetarisch is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی سوپ گیاهی است یا نه. بهترین سؤال چیست؟",
+    "explanation_fa": "برای پرسیدن گیاهی بودن غذا، «Is het vegetarisch?» مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات غذا از سؤال‌های کوتاه مثل Is het ...? یا Zit er ... in? استفاده کن.",
+    "extra_example_nl": "Is deze pasta vegetarisch?",
+    "extra_example_fa": "این پاستا گیاهی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem de soep.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een servet, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is het vegetarisch?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن جزئیات غذا مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_food_details",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of de saus pittig is.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی سس تند است یا نه. چه می‌پرسی؟",
+    "explanation_fa": "برای تند بودن غذا یا سس، «pittig» کلمه مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات غذا از سؤال‌های کوتاه مثل Is het ...? یا Zit er ... in? استفاده کن.",
+    "extra_example_nl": "Is dit gerecht pittig?",
+    "extra_example_fa": "این غذا تند است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is het pittig?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن جزئیات غذا مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "We zijn met twee personen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor mij de salade.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه پرسیدن جزئیات غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_food_details",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of er vlees in de salade zit.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی داخل سالاد گوشت هست یا نه. بهترین سؤال چیست؟",
+    "explanation_fa": "برای پرسیدن وجود گوشت در غذا، «Is er vlees in?» کوتاه و واضح است.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات غذا از سؤال‌های کوتاه مثل Is het ...? یا Zit er ... in? استفاده کن.",
+    "extra_example_nl": "Zit er vlees in de salade?",
+    "extra_example_fa": "داخل سالاد گوشت هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik een cola?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is er vlees in?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن جزئیات غذا مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen mes.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نداشتن وسیله روی میز است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunnen we hier zitten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن درباره نشستن پشت میز است، نه پرسیدن جزئیات غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_food_details",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of er kaas in de pasta zit.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی داخل پاستا پنیر هست یا نه. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن مواد داخل غذا از «Zit er ... in?» استفاده می‌شود.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات غذا از سؤال‌های کوتاه مثل Is het ...? یا Zit er ... in? استفاده کن.",
+    "extra_example_nl": "Zit er kaas in de soep?",
+    "extra_example_fa": "داخل سوپ پنیر هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت نقدی است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hallo, we hebben gereserveerd.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای جمله‌ای مربوط به رستوران است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zit er kaas in?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن جزئیات غذا مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik neem thee.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه پرسیدن جزئیات غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_food_details",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt de salade zonder saus.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی سالاد بدون سس باشد. بهترین سؤال چیست؟",
+    "explanation_fa": "برای درخواست حذف یک چیز از غذا، «zonder» استفاده می‌شود.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات غذا از سؤال‌های کوتاه مثل Is het ...? یا Zit er ... in? استفاده کن.",
+    "extra_example_nl": "Kan de salade zonder saus?",
+    "extra_example_fa": "سالاد می‌تواند بدون سس باشد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag de pizza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u plek voor vier personen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست جا برای چند نفر است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن جزئیات غذا مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_food_details",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt rijst in plaats van friet.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی به جای سیب‌زمینی، برنج بگیری. چه می‌پرسی؟",
+    "explanation_fa": "«in plaats van» یعنی «به جایِ». این جمله برای جایگزینی مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات غذا از سؤال‌های کوتاه مثل Is het ...? یا Zit er ... in? استفاده کن.",
+    "extra_example_nl": "Kan ik brood in plaats van friet krijgen?",
+    "extra_example_fa": "می‌توانم به جای سیب‌زمینی نان بگیرم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik rijst in plaats van friet krijgen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن جزئیات غذا مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik een lepel?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor mij een glas water, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het was lekker.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای جواب درباره کیفیت غذا است، نه پرسیدن جزئیات غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_food_details",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zoekt een gerecht zonder vlees.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "دنبال غذای بدون گوشت هستی. بهترین سؤال چیست؟",
+    "explanation_fa": "برای غذای بدون گوشت، «iets zonder vlees» ساده و قابل فهم است.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات غذا از سؤال‌های کوتاه مثل Is het ...? یا Zit er ... in? استفاده کن.",
+    "extra_example_nl": "Heeft u een gerecht zonder vlees?",
+    "extra_example_fa": "غذای بدون گوشت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag betalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اعلام آماده بودن برای پرداخت است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u iets zonder vlees?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن جزئیات غذا مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is deze tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن خالی بودن میز است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit meenemen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست برداشتن چیزی از میز است، نه پرسیدن جزئیات غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_food_details",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of de pizza groot is.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی پیتزا بزرگ است یا نه. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن اندازه غذا، سؤال ساده با «Is ... groot?» مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات غذا از سؤال‌های کوتاه مثل Is het ...? یا Zit er ... in? استفاده کن.",
+    "extra_example_nl": "Is de salade groot?",
+    "extra_example_fa": "سالاد بزرگ است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "We willen graag buiten zitten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست نشستن بیرون است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is de pizza groot?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن جزئیات غذا مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik neem thee.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه پرسیدن جزئیات غذا در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "asking_food_details",
+    "life_context": "food_order",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of de vis met rijst komt.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی ماهی با برنج سرو می‌شود یا نه. بهترین سؤال چیست؟",
+    "explanation_fa": "برای پرسیدن همراه غذا، «komt ... met ...?» طبیعی است.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات غذا از سؤال‌های کوتاه مثل Is het ...? یا Zit er ... in? استفاده کن.",
+    "extra_example_nl": "Komt de kip met friet?",
+    "extra_example_fa": "مرغ با سیب‌زمینی می‌آید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor mij de vis, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een vork?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه پرسیدن جزئیات غذا در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Komt de vis met rijst?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن جزئیات غذا مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "responding_to_waiter",
+    "life_context": "waiter",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De ober vraagt: Wilt u nog water? Jij wilt water.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "گارسون می‌پرسد آب بیشتری می‌خواهید و تو می‌خواهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای قبول کردن پیشنهاد گارسون، «Ja, graag» کوتاه و مؤدبانه است.",
+    "dialogue_rule_fa": "به سؤال گارسون کوتاه و واضح جواب بده: Ja, graag / Nee, dank u / Nog even wachten.",
+    "extra_example_nl": "Ja, graag. Dank u.",
+    "extra_example_fa": "بله، لطفاً. ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, graag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای جواب دادن به سؤال گارسون مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag de pasta.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "responding_to_waiter",
+    "life_context": "waiter",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De serveerster vraagt: Wilt u nog koffie? Jij wilt geen koffie.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "پیشخدمت می‌پرسد قهوه بیشتری می‌خواهید و تو نمی‌خواهی. چه جواب می‌دهی؟",
+    "explanation_fa": "برای رد کردن مؤدبانه، «Nee, dank u» مناسب است.",
+    "dialogue_rule_fa": "به سؤال گارسون کوتاه و واضح جواب بده: Ja, graag / Nee, dank u / Nog even wachten.",
+    "extra_example_nl": "Nee, bedankt.",
+    "extra_example_fa": "نه، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik een vork?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, dank u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای جواب دادن به سؤال گارسون مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat zit erin?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مواد داخل غذا است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor mij de salade.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "responding_to_waiter",
+    "life_context": "waiter",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De ober vraagt: Weet u al wat u wilt eten? Jij weet het nog niet.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "گارسون می‌پرسد می‌دانید چه غذایی می‌خواهید؟ هنوز نمی‌دانی. بهترین پاسخ چیست؟",
+    "explanation_fa": "وقتی هنوز تصمیم نگرفته‌ای، این جمله مستقیم و مؤدبانه است.",
+    "dialogue_rule_fa": "به سؤال گارسون کوتاه و واضح جواب بده: Ja, graag / Nee, dank u / Nog even wachten.",
+    "extra_example_nl": "We willen nog even kijken.",
+    "extra_example_fa": "می‌خواهیم کمی دیگر نگاه کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u een tafel voor twee?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik weet het nog niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای جواب دادن به سؤال گارسون مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کوچک غذا است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "responding_to_waiter",
+    "life_context": "waiter",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De ober komt om de bestelling op te nemen, maar jullie willen nog kijken.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "گارسون برای گرفتن سفارش می‌آید، اما هنوز می‌خواهید نگاه کنید. چه می‌گویی؟",
+    "explanation_fa": "برای درخواست زمان بیشتر، «nog even kijken» طبیعی است.",
+    "dialogue_rule_fa": "به سؤال گارسون کوتاه و واضح جواب بده: Ja, graag / Nee, dank u / Nog even wachten.",
+    "extra_example_nl": "Nog even wachten, alstublieft.",
+    "extra_example_fa": "لطفاً کمی صبر کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor mij een glas water, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is niet mijn bestelling.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اشتباه بودن سفارش است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "We willen nog even kijken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای جواب دادن به سؤال گارسون مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "responding_to_waiter",
+    "life_context": "waiter",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De serveerster vraagt: Was alles lekker? Het eten was lekker.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "پیشخدمت می‌پرسد همه چیز خوشمزه بود؟ غذا خوشمزه بود. بهترین پاسخ چیست؟",
+    "explanation_fa": "پاسخ باید درباره کیفیت غذا باشد.",
+    "dialogue_rule_fa": "به سؤال گارسون کوتاه و واضح جواب بده: Ja, graag / Nee, dank u / Nog even wachten.",
+    "extra_example_nl": "Ja, het was heel lekker.",
+    "extra_example_fa": "بله، خیلی خوشمزه بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het was lekker.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای جواب دادن به سؤال گارسون مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag friet erbij.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اضافه کردن غذا کنار سفارش است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u plek voor vier personen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست جا برای چند نفر است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "responding_to_waiter",
+    "life_context": "waiter",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De ober vraagt: Is alles goed? Alles is goed.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "گارسون می‌پرسد همه چیز خوب است؟ همه چیز خوب است. چه جواب می‌دهی؟",
+    "explanation_fa": "پاسخ کوتاه «Alles is goed» دقیقاً به سؤال وضعیت غذا جواب می‌دهد.",
+    "dialogue_rule_fa": "به سؤال گارسون کوتاه و واضح جواب بده: Ja, graag / Nee, dank u / Nog even wachten.",
+    "extra_example_nl": "Ja, alles is goed. Dank u.",
+    "extra_example_fa": "بله، همه چیز خوب است. ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تغییر ساده در غذا است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alles is goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای جواب دادن به سؤال گارسون مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik neem thee.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "responding_to_waiter",
+    "life_context": "waiter",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De ober vraagt: Bent u klaar om te bestellen? Jullie zijn klaar.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "گارسون می‌پرسد برای سفارش آماده‌اید؟ شما آماده‌اید. بهترین پاسخ چیست؟",
+    "explanation_fa": "وقتی آماده سفارش هستید، این جمله واضح و مناسب است.",
+    "dialogue_rule_fa": "به سؤال گارسون کوتاه و واضح جواب بده: Ja, graag / Nee, dank u / Nog even wachten.",
+    "extra_example_nl": "Ja, we willen bestellen.",
+    "extra_example_fa": "بله، می‌خواهیم سفارش بدهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We willen graag buiten zitten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست نشستن بیرون است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت نقدی است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, we zijn klaar om te bestellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای جواب دادن به سؤال گارسون مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit meenemen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست برداشتن چیزی از میز است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "responding_to_waiter",
+    "life_context": "waiter",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De ober vraagt om nu te bestellen, maar jij hebt meer tijd nodig.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "گارسون می‌خواهد الان سفارش بگیرد، اما تو زمان بیشتری لازم داری. چه می‌گویی؟",
+    "explanation_fa": "برای خواستن کمی زمان، «Nog even wachten» مؤدبانه است.",
+    "dialogue_rule_fa": "به سؤال گارسون کوتاه و واضح جواب بده: Ja, graag / Nee, dank u / Nog even wachten.",
+    "extra_example_nl": "Kunt u nog even wachten?",
+    "extra_example_fa": "می‌توانید کمی صبر کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem hetzelfde.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش همان غذا است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is deze tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن خالی بودن میز است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een cola?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nog even wachten, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای جواب دادن به سؤال گارسون مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "responding_to_waiter",
+    "life_context": "waiter",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De serveerster vraagt: Wilt u dessert? Jij wilt wel dessert.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "پیشخدمت می‌پرسد دسر می‌خواهید؟ تو می‌خواهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای قبول کردن پیشنهاد، «Ja, graag» کافی و طبیعی است.",
+    "dialogue_rule_fa": "به سؤال گارسون کوتاه و واضح جواب بده: Ja, graag / Nee, dank u / Nog even wachten.",
+    "extra_example_nl": "Ja, graag. Mag ik de dessertkaart?",
+    "extra_example_fa": "بله، لطفاً. منوی دسر را می‌توانم داشته باشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, graag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای جواب دادن به سؤال گارسون مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik een lepel?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "responding_to_waiter",
+    "life_context": "waiter",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De ober vraagt: Smaakt het? Jij vindt het goed.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "گارسون می‌پرسد غذا خوب است؟ تو غذا را خوب می‌دانی. چه جواب می‌دهی؟",
+    "explanation_fa": "پاسخ باید درباره مزه غذا باشد.",
+    "dialogue_rule_fa": "به سؤال گارسون کوتاه و واضح جواب بده: Ja, graag / Nee, dank u / Nog even wachten.",
+    "extra_example_nl": "Ja, het smaakt goed.",
+    "extra_example_fa": "بله، مزه‌اش خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat staat er op het menu?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن درباره منو است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, het is lekker.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای جواب دادن به سؤال گارسون مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag betalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اعلام آماده بودن برای پرداخت است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "We zijn met vier personen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه جواب دادن به سؤال گارسون در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "requests_and_problems",
+    "life_context": "problem",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt geen servet op tafel.",
+    "question_text_nl": "Wat vraag je aan de ober?",
+    "question_text_fa": "روی میز دستمال نداری. از گارسون چه می‌پرسی؟",
+    "explanation_fa": "برای درخواست دستمال، «Mag ik een servet?» مؤدبانه و ساده است.",
+    "dialogue_rule_fa": "برای درخواست وسیله یا گفتن مشکل کوچک، مؤدبانه و ساده صحبت کن.",
+    "extra_example_nl": "Mag ik nog een servet?",
+    "extra_example_fa": "می‌توانم یک دستمال دیگر داشته باشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag de pasta.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een servet, alstublieft?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست ساده یا گفتن مشکل کوچک مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "requests_and_problems",
+    "life_context": "problem",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt geen vork op tafel.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "روی میز چنگال نداری. بهترین جمله چیست؟",
+    "explanation_fa": "برای درخواست چنگال، «Mag ik een vork?» مناسب است.",
+    "dialogue_rule_fa": "برای درخواست وسیله یا گفتن مشکل کوچک، مؤدبانه و ساده صحبت کن.",
+    "extra_example_nl": "Ik heb geen vork.",
+    "extra_example_fa": "من چنگال ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor mij een glas water, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat raadt u aan?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن پیشنهاد غذا است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik een vork?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست ساده یا گفتن مشکل کوچک مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "requests_and_problems",
+    "life_context": "problem",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt soep eten, maar je hebt geen lepel.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی سوپ بخوری اما قاشق نداری. چه می‌گویی؟",
+    "explanation_fa": "برای سوپ به قاشق نیاز داری؛ «lepel» یعنی قاشق.",
+    "dialogue_rule_fa": "برای درخواست وسیله یا گفتن مشکل کوچک، مؤدبانه و ساده صحبت کن.",
+    "extra_example_nl": "Ik heb geen lepel.",
+    "extra_example_fa": "من قاشق ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik een lepel?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست ساده یا گفتن مشکل کوچک مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de soep.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت نقدی است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is deze tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن خالی بودن میز است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "requests_and_problems",
+    "life_context": "problem",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Het water op tafel is op.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "آب روی میز تمام شده. بهترین سؤال چیست؟",
+    "explanation_fa": "برای درخواست آب بیشتر، «nog wat water brengen» طبیعی است.",
+    "dialogue_rule_fa": "برای درخواست وسیله یا گفتن مشکل کوچک، مؤدبانه و ساده صحبت کن.",
+    "extra_example_nl": "Mag ik nog wat water?",
+    "extra_example_fa": "می‌توانم کمی آب بیشتر داشته باشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u nog wat water brengen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست ساده یا گفتن مشکل کوچک مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag de salade.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u plek voor vier personen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست جا برای چند نفر است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "requests_and_problems",
+    "life_context": "problem",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je eten is koud.",
+    "question_text_nl": "Wat zeg je beleefd tegen de ober?",
+    "question_text_fa": "غذایت سرد است. مؤدبانه به گارسون چه می‌گویی؟",
+    "explanation_fa": "برای گفتن مشکل کوچک، جمله کوتاه و بدون دعوا مناسب است.",
+    "dialogue_rule_fa": "برای درخواست وسیله یا گفتن مشکل کوچک، مؤدبانه و ساده صحبت کن.",
+    "extra_example_nl": "Sorry, mijn soep is koud.",
+    "extra_example_fa": "ببخشید، سوپ من سرد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor mij een koffie, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست ساده یا گفتن مشکل کوچک مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is het vegetarisch?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن جزئیات غذا است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "requests_and_problems",
+    "life_context": "problem",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De ober brengt pizza, maar jij hebt pasta besteld.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "گارسون پیتزا می‌آورد اما تو پاستا سفارش داده‌ای. بهترین جمله چیست؟",
+    "explanation_fa": "برای سفارش اشتباه، «Dit is niet mijn bestelling» واضح و مؤدبانه است.",
+    "dialogue_rule_fa": "برای درخواست وسیله یا گفتن مشکل کوچک، مؤدبانه و ساده صحبت کن.",
+    "extra_example_nl": "Sorry, ik heb pasta besteld.",
+    "extra_example_fa": "ببخشید، من پاستا سفارش داده‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem thee.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet mijn bestelling.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست ساده یا گفتن مشکل کوچک مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "requests_and_problems",
+    "life_context": "problem",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt een mes nodig, maar er ligt geen mes.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "چاقو لازم داری اما روی میز چاقو نیست. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن نداشتن چاقو، «Ik heb geen mes» ساده و مناسب است.",
+    "dialogue_rule_fa": "برای درخواست وسیله یا گفتن مشکل کوچک، مؤدبانه و ساده صحبت کن.",
+    "extra_example_nl": "Mag ik een mes, alstublieft?",
+    "extra_example_fa": "می‌توانم یک چاقو داشته باشم، لطفاً؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb geen mes.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست ساده یا گفتن مشکل کوچک مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat zit erin?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مواد داخل غذا است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "We willen graag buiten zitten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست نشستن بیرون است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "requests_and_problems",
+    "life_context": "problem",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bord is leeg en je wilt dat de ober het meeneemt.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "بشقابت خالی است و می‌خواهی گارسون آن را ببرد. بهترین سؤال چیست؟",
+    "explanation_fa": "برای برداشتن چیزی از میز، «Kunt u dit meenemen?» مؤدبانه است.",
+    "dialogue_rule_fa": "برای درخواست وسیله یا گفتن مشکل کوچک، مؤدبانه و ساده صحبت کن.",
+    "extra_example_nl": "Kunt u het bord meenemen?",
+    "extra_example_fa": "می‌توانید بشقاب را ببرید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor mij de salade.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dit meenemen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست ساده یا گفتن مشکل کوچک مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تغییر ساده در غذا است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik een cola?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "requests_and_problems",
+    "life_context": "problem",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt extra brood bij het eten.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کنار غذا نان اضافه می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "برای درخواست اضافه، «extra brood» واضح است.",
+    "dialogue_rule_fa": "برای درخواست وسیله یا گفتن مشکل کوچک، مؤدبانه و ساده صحبت کن.",
+    "extra_example_nl": "Kunt u extra brood brengen?",
+    "extra_example_fa": "می‌توانید نان اضافه بیاورید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag betalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اعلام آماده بودن برای پرداخت است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u een kindermenu?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن منوی کودک است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik wat extra brood?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست ساده یا گفتن مشکل کوچک مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alles is goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای جواب درباره وضعیت غذا یا سرویس است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "requests_and_problems",
+    "life_context": "problem",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je drank is verkeerd; je vroeg water maar kreeg cola.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "نوشیدنی اشتباه است؛ آب خواستی اما کولا آوردند. بهترین جمله چیست؟",
+    "explanation_fa": "برای اصلاح سفارش اشتباه، جمله مؤدبانه با «Sorry» مناسب است.",
+    "dialogue_rule_fa": "برای درخواست وسیله یا گفتن مشکل کوچک، مؤدبانه و ساده صحبت کن.",
+    "extra_example_nl": "Dit is niet mijn drinken.",
+    "extra_example_fa": "این نوشیدنی من نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem de soep.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست ساده یا گفتن مشکل کوچک در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry, ik had water besteld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست ساده یا گفتن مشکل کوچک مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "paying_bill",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent klaar met eten en wilt betalen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "غذایت تمام شده و می‌خواهی حساب کنی. چه می‌گویی؟",
+    "explanation_fa": "برای درخواست صورت‌حساب، «Mag ik de rekening?» طبیعی و مؤدبانه است.",
+    "dialogue_rule_fa": "برای پرداخت می‌گویی: Mag ik de rekening? یا Kan ik pinnen?",
+    "extra_example_nl": "De rekening, alstublieft.",
+    "extra_example_fa": "صورت‌حساب، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de rekening, alstublieft?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صورت‌حساب یا پرداخت مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik de menukaart, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag de pasta.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "paying_bill",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt kort en duidelijk om de rekening vragen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی کوتاه و واضح صورت‌حساب را بخواهی. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله کوتاه برای درخواست صورت‌حساب در رستوران بسیار رایج است.",
+    "dialogue_rule_fa": "برای پرداخت می‌گویی: Mag ik de rekening? یا Kan ik pinnen?",
+    "extra_example_nl": "Mag ik afrekenen?",
+    "extra_example_fa": "می‌توانم حساب کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کوچک غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صورت‌حساب یا پرداخت مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor mij een glas water, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat zit erin?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مواد داخل غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "paying_bill",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt met je pinpas betalen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی با کارت بانکی پرداخت کنی. چه می‌پرسی؟",
+    "explanation_fa": "در هلند برای پرداخت با کارت معمولاً می‌گویند «pinnen».",
+    "dialogue_rule_fa": "برای پرداخت می‌گویی: Mag ik de rekening? یا Kan ik pinnen?",
+    "extra_example_nl": "Kan ik met pin betalen?",
+    "extra_example_fa": "می‌توانم با کارت پرداخت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem de soep.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik een servet, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صورت‌حساب یا پرداخت مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een tafel voor twee?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "paying_bill",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt contant betalen.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی نقدی پرداخت کنی. بهترین سؤال چیست؟",
+    "explanation_fa": "«contant betalen» یعنی نقدی پرداخت کردن.",
+    "dialogue_rule_fa": "برای پرداخت می‌گویی: Mag ik de rekening? یا Kan ik pinnen?",
+    "extra_example_nl": "Mag ik contant betalen?",
+    "extra_example_fa": "می‌توانم نقدی پرداخت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u de menukaart?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست منو است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag de pizza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het pittig?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن جزئیات غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صورت‌حساب یا پرداخت مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "paying_bill",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De ober komt langs en jij wilt betalen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "گارسون رد می‌شود و تو می‌خواهی پرداخت کنی. چه می‌گویی؟",
+    "explanation_fa": "برای اعلام آماده بودن برای پرداخت، این جمله ساده و مناسب است.",
+    "dialogue_rule_fa": "برای پرداخت می‌گویی: Mag ik de rekening? یا Kan ik pinnen?",
+    "extra_example_nl": "We willen graag betalen.",
+    "extra_example_fa": "ما می‌خواهیم پرداخت کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag betalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صورت‌حساب یا پرداخت مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik een cola?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "We zijn met vier personen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u nog wat water brengen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست آب بیشتر است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "paying_bill",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Jij en je vriend willen ieder apart betalen.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "تو و دوستت می‌خواهید جداگانه پرداخت کنید. بهترین سؤال چیست؟",
+    "explanation_fa": "«apart betalen» یعنی جداگانه پرداخت کردن.",
+    "dialogue_rule_fa": "برای پرداخت می‌گویی: Mag ik de rekening? یا Kan ik pinnen?",
+    "extra_example_nl": "Kunnen we de rekening splitsen?",
+    "extra_example_fa": "می‌توانیم صورت‌حساب را تقسیم کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem hetzelfde.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش همان غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunnen we apart betalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صورت‌حساب یا پرداخت مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de dessertkaart?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست یا پرسیدن منو است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کوچک غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "paying_bill",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Jij wilt de hele rekening samen betalen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی کل صورت‌حساب یکجا پرداخت شود. چه می‌گویی؟",
+    "explanation_fa": "برای پرداخت همه با هم، «Alles samen» مناسب است.",
+    "dialogue_rule_fa": "برای پرداخت می‌گویی: Mag ik de rekening? یا Kan ik pinnen?",
+    "extra_example_nl": "We betalen alles samen.",
+    "extra_example_fa": "ما همه را با هم پرداخت می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan het zonder saus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تغییر ساده در غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alles samen, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صورت‌حساب یا پرداخت مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik een vork?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "paying_bill",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De serveerster geeft de rekening en het eten was lekker.",
+    "question_text_nl": "Kies de beste afsluiting.",
+    "question_text_fa": "پیشخدمت صورت‌حساب را می‌دهد و غذا خوشمزه بود. بهترین پایان مکالمه چیست؟",
+    "explanation_fa": "بعد از غذا، تشکر و گفتن اینکه غذا خوب بود طبیعی است.",
+    "dialogue_rule_fa": "برای پرداخت می‌گویی: Mag ik de rekening? یا Kan ik pinnen?",
+    "extra_example_nl": "Dank u, fijne avond.",
+    "extra_example_fa": "ممنون، شب خوبی داشته باشید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat staat er op het menu?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن درباره منو است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag kip met rijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunnen we hier zitten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن درباره نشستن پشت میز است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dank u, het was lekker.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صورت‌حساب یا پرداخت مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "paying_bill",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of betalen aan tafel kan.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی می‌توانی سر میز پرداخت کنی یا نه. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن محل پرداخت، «hier betalen» واضح است.",
+    "dialogue_rule_fa": "برای پرداخت می‌گویی: Mag ik de rekening? یا Kan ik pinnen?",
+    "extra_example_nl": "Moet ik bij de kassa betalen?",
+    "extra_example_fa": "باید کنار صندوق پرداخت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik hier betalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صورت‌حساب یا پرداخت مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik een lepel?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u sinaasappelsap?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن نوشیدنی است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is er vlees in?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن جزئیات غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "paying_bill",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt betalen bij de kassa.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی کنار صندوق پرداخت کنی. بهترین جمله چیست؟",
+    "explanation_fa": "برای پرداخت کنار صندوق، «bij de kassa betalen» مناسب است.",
+    "dialogue_rule_fa": "برای پرداخت می‌گویی: Mag ik de rekening? یا Kan ik pinnen?",
+    "extra_example_nl": "Kan ik bij de kassa betalen?",
+    "extra_example_fa": "می‌توانم کنار صندوق پرداخت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor mij de salade.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag bij de kassa betalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صورت‌حساب یا پرداخت مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "We willen graag buiten zitten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست نشستن بیرون است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit meenemen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست برداشتن چیزی از میز است، نه درخواست صورت‌حساب یا پرداخت در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "choosing_best_restaurant_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wilt u iets drinken? B: ___ Jij wilt water.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "در مکالمه، گارسون نوشیدنی می‌پرسد و تو آب می‌خواهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "پاسخ باید به سؤال نوشیدنی مربوط باشد و آب را سفارش دهد.",
+    "dialogue_rule_fa": "در مکالمه، پاسخ باید دقیقاً به سؤال گارسون و موقعیت همان لحظه بخورد.",
+    "extra_example_nl": "A: Wilt u koffie? B: Ja, graag.",
+    "extra_example_fa": "الف: قهوه می‌خواهید؟ ب: بله، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, graag. Mag ik de rekening?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت یا درخواست صورت‌حساب است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, graag. Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, graag. Een glas water, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب بهترین پاسخ در مکالمه رستوران مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, graag. Mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "choosing_best_restaurant_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Bent u klaar om te bestellen? B: ___ Jullie willen nog kijken.",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "گارسون می‌پرسد آماده سفارش هستید و شما هنوز می‌خواهید نگاه کنید. کدام جمله مناسب است؟",
+    "explanation_fa": "وقتی هنوز آماده نیستید، باید مؤدبانه زمان بیشتری بخواهید.",
+    "dialogue_rule_fa": "در مکالمه، پاسخ باید دقیقاً به سؤال گارسون و موقعیت همان لحظه بخورد.",
+    "extra_example_nl": "Nog even wachten, alstublieft.",
+    "extra_example_fa": "لطفاً کمی صبر کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, mag ik de rekening?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت یا درخواست صورت‌حساب است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, mijn eten is koud.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت یا درخواست صورت‌حساب است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, we willen nog even kijken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب بهترین پاسخ در مکالمه رستوران مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "choosing_best_restaurant_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wat wilt u eten? B: ___ Jij kiest de salade.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "گارسون می‌پرسد چه غذایی می‌خواهی و تو سالاد انتخاب می‌کنی. بهترین پاسخ چیست؟",
+    "explanation_fa": "پاسخ باید سفارش غذا باشد، نه نوشیدنی یا درخواست دیگر.",
+    "dialogue_rule_fa": "در مکالمه، پاسخ باید دقیقاً به سؤال گارسون و موقعیت همان لحظه بخورد.",
+    "extra_example_nl": "Ik neem de salade.",
+    "extra_example_fa": "من سالاد می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor mij de salade, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب بهترین پاسخ در مکالمه رستوران مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor mij een glas water, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een servet, alstublieft?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله ساده است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u plek voor vier personen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست جا برای چند نفر است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "choosing_best_restaurant_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Is alles naar wens? B: ___ Je eten is goed.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "گارسون می‌پرسد همه چیز خوب است و غذایت خوب است. چه جواب می‌دهی؟",
+    "explanation_fa": "وقتی همه چیز خوب است، جواب کوتاه و مثبت مناسب است.",
+    "dialogue_rule_fa": "در مکالمه، پاسخ باید دقیقاً به سؤال گارسون و موقعیت همان لحظه بخورد.",
+    "extra_example_nl": "Ja, het is lekker.",
+    "extra_example_fa": "بله، خوشمزه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, mag ik de menukaart?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست یا پرسیدن منو است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, alles is goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب بهترین پاسخ در مکالمه رستوران مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, ik heb geen mes.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله یا گفتن مشکل کوچک است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, kan ik contant betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت یا درخواست صورت‌حساب است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "choosing_best_restaurant_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Heeft u gereserveerd? B: ___ Je hebt gereserveerd op naam van Reza.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "گارسون می‌پرسد رزرو دارید و تو به نام رضا رزرو داری. بهترین پاسخ چیست؟",
+    "explanation_fa": "پاسخ باید درباره رزرو و نام رزرو باشد.",
+    "dialogue_rule_fa": "در مکالمه، پاسخ باید دقیقاً به سؤال گارسون و موقعیت همان لحظه بخورد.",
+    "extra_example_nl": "Ja, we hebben gereserveerd.",
+    "extra_example_fa": "بله، رزرو کرده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, voor mij de pizza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, mag ik een vork?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وسیله یا گفتن مشکل کوچک است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, op naam van Reza.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب بهترین پاسخ در مکالمه رستوران مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت یا درخواست صورت‌حساب است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "choosing_best_restaurant_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wilt u binnen of buiten zitten? B: ___ Jij wilt buiten zitten.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "گارسون می‌پرسد داخل یا بیرون می‌نشینید و تو بیرون می‌خواهی. کدام جمله مناسب است؟",
+    "explanation_fa": "پاسخ باید انتخاب جای نشستن باشد.",
+    "dialogue_rule_fa": "در مکالمه، پاسخ باید دقیقاً به سؤال گارسون و موقعیت همان لحظه بخورد.",
+    "extra_example_nl": "We willen graag buiten zitten.",
+    "extra_example_fa": "می‌خواهیم بیرون بنشینیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De rekening, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست صورت‌حساب است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag de soep.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het vegetarisch?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن جزئیات غذا است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Buiten, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب بهترین پاسخ در مکالمه رستوران مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "choosing_best_restaurant_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wilt u met pin betalen? B: ___ Jij wilt met pin betalen.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "گارسون می‌پرسد با کارت پرداخت می‌کنید و تو با کارت می‌خواهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای قبول پرداخت با کارت، «Ja, graag» کافی و دقیق است.",
+    "dialogue_rule_fa": "در مکالمه، پاسخ باید دقیقاً به سؤال گارسون و موقعیت همان لحظه بخورد.",
+    "extra_example_nl": "Ja, ik wil pinnen.",
+    "extra_example_fa": "بله، می‌خواهم با کارت پرداخت کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, graag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب بهترین پاسخ در مکالمه رستوران مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, ik neem thee.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش نوشیدنی است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, mag ik de menukaart?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست یا پرسیدن منو است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, we zijn met twee.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای جمله‌ای مربوط به رستوران است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "choosing_best_restaurant_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wat is er mis? B: ___ Je eten is koud.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "گارسون می‌پرسد مشکل چیست و غذایت سرد است. چه می‌گویی؟",
+    "explanation_fa": "پاسخ باید مشکل غذا را کوتاه و مؤدبانه بگوید.",
+    "dialogue_rule_fa": "در مکالمه، پاسخ باید دقیقاً به سؤال گارسون و موقعیت همان لحظه بخورد.",
+    "extra_example_nl": "Sorry, de soep is koud.",
+    "extra_example_fa": "ببخشید، سوپ سرد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag de pasta.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn eten is koud.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب بهترین پاسخ در مکالمه رستوران مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een tafel vrij?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "choosing_best_restaurant_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wilt u nog iets? B: ___ Jij wilt een servet.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "گارسون می‌پرسد چیز دیگری می‌خواهید و تو دستمال می‌خواهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "پاسخ باید درخواست همان چیزی باشد که لازم داری: دستمال.",
+    "dialogue_rule_fa": "در مکالمه، پاسخ باید دقیقاً به سؤال گارسون و موقعیت همان لحظه بخورد.",
+    "extra_example_nl": "Ja, mag ik een vork?",
+    "extra_example_fa": "بله، می‌توانم یک چنگال داشته باشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, ik neem de pizza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سفارش غذا است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, mag ik de rekening?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت یا درخواست صورت‌حساب است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, mag ik een servet?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب بهترین پاسخ در مکالمه رستوران مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, heeft u een tafel?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "restaurant",
+    "subtopic": "choosing_best_restaurant_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wilt u samen of apart betalen? B: ___ Jullie betalen apart.",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "گارسون می‌پرسد با هم یا جداگانه پرداخت می‌کنید و شما جدا پرداخت می‌کنید. کدام جمله مناسب است؟",
+    "explanation_fa": "پاسخ باید درباره روش پرداخت باشد: جداگانه.",
+    "dialogue_rule_fa": "در مکالمه، پاسخ باید دقیقاً به سؤال گارسون و موقعیت همان لحظه بخورد.",
+    "extra_example_nl": "We willen apart betalen.",
+    "extra_example_fa": "می‌خواهیم جداگانه پرداخت کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Samen een cola, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت یا درخواست صورت‌حساب است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Buiten, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست میز یا جای نشستن است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De menukaart, alstublieft.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست یا پرسیدن منو است، نه انتخاب بهترین پاسخ در مکالمه رستوران در این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Apart, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب بهترین پاسخ در مکالمه رستوران مناسب است."
+      }
+    ]
+  }
+]

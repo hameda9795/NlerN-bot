@@ -1,0 +1,512 @@
+[
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "informal_greeting_plan", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی به دوستت پیام بدهی و برای فردا عصر پیشنهاد قدم زدن بدهی.",
+    "question_text_nl": "Je wilt je vriend voorstellen om morgenavond samen te wandelen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "پیام واتساپ دوستانه باید کوتاه، ساده و غیررسمی باشد.",
+    "grammar_rule_fa": "از «Zullen we...?» برای پیشنهاد دادن استفاده کن.",
+    "extra_example_nl": "Hoi! Zullen we morgenavond samen wandelen?",
+    "extra_example_fa": "سلام! فردا عصر با هم قدم بزنیم؟",
+    "options": [
+      { "key": "A", "text_nl": "Hoi! Zullen we morgenavond samen wandelen?", "is_correct": true, "feedback_fa": "✅ درست؛ کوتاه، دوستانه و پیشنهاد روشن است." },
+      { "key": "B", "text_nl": "Geachte heer, ik wil graag een wandeling voorstellen.", "is_correct": false, "feedback_fa": "این جمله برای پیام واتساپ به دوست خیلی رسمی است." },
+      { "key": "C", "text_nl": "Wandelen is gezond.", "is_correct": false, "feedback_fa": "این جمله پیشنهاد نمی‌دهد." },
+      { "key": "D", "text_nl": "Ik wandel nooit.", "is_correct": false, "feedback_fa": "این جمله با هدف تو تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "checking_in", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "چند روز است از دوستت خبر نداری. می‌خواهی پیام بدهی و بپرسی حالش چطور است.",
+    "question_text_nl": "Je hebt al een paar dagen niets van je vriendin gehoord. Je wilt vragen hoe het gaat.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "پیام دوستانه و کوتاه برای احوال‌پرسی بنویس.",
+    "grammar_rule_fa": "از «Hoe gaat het met je?» استفاده کن.",
+    "extra_example_nl": "Hoi! Hoe gaat het met je? Ik heb lang niets gehoord.",
+    "extra_example_fa": "سلام! حالت چطوره؟ مدتی است خبری ازت ندارم.",
+    "options": [
+      { "key": "A", "text_nl": "Hoi! Hoe gaat het met je? Ik heb lang niets gehoord.", "is_correct": true, "feedback_fa": "✅ درست؛ دوستانه و روشن است." },
+      { "key": "B", "text_nl": "Ik heb het heel druk.", "is_correct": false, "feedback_fa": "این جمله درباره‌ی خودت است، احوال‌پرسی از دوست نیست." },
+      { "key": "C", "text_nl": "We spreken elkaar nooit meer.", "is_correct": false, "feedback_fa": "این جمله منفی و نامناسب است." },
+      { "key": "D", "text_nl": "Waarom bel je nooit?", "is_correct": false, "feedback_fa": "این جمله سرزنش‌آمیز است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "sharing_news", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی به خانواده‌ات خبر خوشی بدهی، مثلاً اینکه کار جدید پیدا کرده‌ای.",
+    "question_text_nl": "Je wilt je familie het goede nieuws vertellen dat je een nieuwe baan hebt gevonden.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "خبر خوب را کوتاه و با هیجان بنویس.",
+    "grammar_rule_fa": "از «Ik heb goed nieuws!» استفاده کن.",
+    "extra_example_nl": "Ik heb goed nieuws! Ik heb een nieuwe baan gevonden!",
+    "extra_example_fa": "خبر خوبی دارم! کار جدید پیدا کردم!",
+    "options": [
+      { "key": "A", "text_nl": "Ik heb goed nieuws! Ik heb een nieuwe baan gevonden!", "is_correct": true, "feedback_fa": "✅ درست؛ خبر روشن و با هیجان است." },
+      { "key": "B", "text_nl": "Werken is soms saai.", "is_correct": false, "feedback_fa": "این جمله خبر را نمی‌گوید." },
+      { "key": "C", "text_nl": "Ik heb geen tijd om te bellen.", "is_correct": false, "feedback_fa": "این جمله خبر خوب را به اشتراک نمی‌گذارد." },
+      { "key": "D", "text_nl": "Banen zijn moeilijk te vinden.", "is_correct": false, "feedback_fa": "این جمله با خبر خوب تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "asking_favor", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی از دوستت بخواهی فردا کمی برایت خرید کند چون خودت نمی‌توانی بروی.",
+    "question_text_nl": "Je wilt je vriend vragen om morgen wat boodschappen voor je te doen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "درخواست کوچک را مؤدبانه و کوتاه بنویس.",
+    "grammar_rule_fa": "از «Kun je misschien...?» استفاده کن.",
+    "extra_example_nl": "Hoi! Kun je morgen misschien wat boodschappen voor me doen?",
+    "extra_example_fa": "سلام! می‌شود فردا کمی خرید برایم انجام بدهی؟",
+    "options": [
+      { "key": "A", "text_nl": "Hoi! Kun je morgen misschien wat boodschappen voor me doen?", "is_correct": true, "feedback_fa": "✅ درست؛ درخواست مؤدبانه و روشن است." },
+      { "key": "B", "text_nl": "Boodschappen doen is saai.", "is_correct": false, "feedback_fa": "این جمله درخواست نمی‌کند." },
+      { "key": "C", "text_nl": "Ik ga nooit naar de supermarkt.", "is_correct": false, "feedback_fa": "این جمله درخواست کمک نیست." },
+      { "key": "D", "text_nl": "Je moet altijd boodschappen doen.", "is_correct": false, "feedback_fa": "این جمله دستوری و بی‌ادبانه است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "sending_location", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "در راه دیدار دوستت هستی و می‌خواهی بگویی الان کجا هستی.",
+    "question_text_nl": "Je bent op weg naar je vriend en wilt zeggen waar je nu bent.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "مکان فعلی‌ات را ساده بنویس.",
+    "grammar_rule_fa": "از «Ik ben nu bij...» استفاده کن.",
+    "extra_example_nl": "Ik ben nu bij het station, over 10 minuten ben ik er.",
+    "extra_example_fa": "الان کنار ایستگاه هستم، تا ۱۰ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben nu bij het station, over 10 minuten ben ik er.", "is_correct": true, "feedback_fa": "✅ درست؛ مکان و زمان تقریبی هر دو دارد." },
+      { "key": "B", "text_nl": "Ik hou van treinen.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Stations zijn druk.", "is_correct": false, "feedback_fa": "این جمله مکان یا زمان رسیدن را نمی‌دهد." },
+      { "key": "D", "text_nl": "Ik weet niet waar ik ben.", "is_correct": false, "feedback_fa": "این جمله کمکی نمی‌کند." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "confirming_plan", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دوستت پیام داده و پرسیده هنوز برای شنبه ساعت ۱۴ قرار داری. باید تأیید کنی.",
+    "question_text_nl": "Bericht van je vriend: \"Staat het nog steeds voor zaterdag om 14:00 uur?\"",
+    "question_text_fa": "کدام جواب مناسب است؟",
+    "explanation_fa": "برای تأیید یک قرار، پاسخ کوتاه و روشن بده.",
+    "grammar_rule_fa": "از «Ja, dat staat nog!» استفاده کن.",
+    "extra_example_nl": "Ja, dat staat nog! Tot zaterdag.",
+    "extra_example_fa": "بله، هنوز سر جاست! تا شنبه.",
+    "options": [
+      { "key": "A", "text_nl": "Ja, dat staat nog! Tot zaterdag.", "is_correct": true, "feedback_fa": "✅ درست؛ تأیید کوتاه و روشن است." },
+      { "key": "B", "text_nl": "Misschien, ik weet het niet.", "is_correct": false, "feedback_fa": "این جواب برای تأیید خیلی مبهم است." },
+      { "key": "C", "text_nl": "Zaterdag is een fijne dag.", "is_correct": false, "feedback_fa": "این جمله تأیید نمی‌کند." },
+      { "key": "D", "text_nl": "Ik heb geen agenda.", "is_correct": false, "feedback_fa": "این جمله تأیید نمی‌کند." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "confirming_plan", "life_context": "colleague",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "همکارت پرسیده آیا فردا هنوز جلسه‌ی ساعت ۱۰ برقرار است. باید تأیید کنی و مکان را هم یادآوری کنی.",
+    "question_text_nl": "Bericht van je collega: \"Staat de vergadering morgen om 10:00 uur nog?\"",
+    "question_text_fa": "کدام جواب مناسب است؟",
+    "explanation_fa": "تأیید کن و اطلاعات مهم مثل مکان را هم اضافه کن.",
+    "grammar_rule_fa": "از «Ja, in vergaderzaal 2» استفاده کن.",
+    "extra_example_nl": "Ja, dat klopt, in vergaderzaal 2.",
+    "extra_example_fa": "بله، درست است، در اتاق جلسه‌ی ۲.",
+    "options": [
+      { "key": "A", "text_nl": "Ja, dat klopt! We zitten in vergaderzaal 2.", "is_correct": true, "feedback_fa": "✅ درست؛ تأیید و اطلاعات اضافه هر دو دارد." },
+      { "key": "B", "text_nl": "Vergaderingen zijn belangrijk.", "is_correct": false, "feedback_fa": "این جمله تأیید نمی‌کند." },
+      { "key": "C", "text_nl": "Ik weet het niet zeker.", "is_correct": false, "feedback_fa": "این جمله تأیید روشنی نیست." },
+      { "key": "D", "text_nl": "Morgen ben ik ziek.", "is_correct": false, "feedback_fa": "این جمله معنای متفاوتی دارد و تأیید نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "canceling_plan", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "مریض شده‌ای و باید به دوستت بگویی قرار امروز را لغو کنی.",
+    "question_text_nl": "Je bent ziek en moet je vriendin vertellen dat je de afspraak van vandaag afzegt.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "دلیل کوتاه بگو و پیشنهاد بده وقت دیگری بگذارید.",
+    "grammar_rule_fa": "از «Ik ben ziek, kunnen we een andere dag afspreken?» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben ziek. Kunnen we een andere dag afspreken?",
+    "extra_example_fa": "ببخشید، مریضم. می‌شود روز دیگری قرار بگذاریم؟",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben ziek. Kunnen we een andere dag afspreken?", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و پیشنهاد وقت جدید هر دو دارد." },
+      { "key": "B", "text_nl": "Ik kom gewoon niet, doei.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است." },
+      { "key": "C", "text_nl": "Ziek zijn is niet leuk.", "is_correct": false, "feedback_fa": "این جمله لغو کردن را روشن نمی‌گوید." },
+      { "key": "D", "text_nl": "Ik voel me heel goed.", "is_correct": false, "feedback_fa": "این جمله با وضعیت مریضی‌ات تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "canceling_plan", "life_context": "colleague",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "به‌خاطر یک مشکل خانوادگی باید ملاقات امروز با همکارت را لغو کنی. باید مؤدبانه توضیح بدهی.",
+    "question_text_nl": "Door een familieprobleem moet je de afspraak van vandaag met je collega afzeggen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "دلیل کوتاه و مؤدبانه بگو و پیشنهاد وقت جدید بده.",
+    "grammar_rule_fa": "از «Ik moet helaas afzeggen, kunnen we een nieuwe afspraak maken?» استفاده کن.",
+    "extra_example_nl": "Ik moet helaas afzeggen vanwege een familieprobleem. Kunnen we een nieuwe afspraak maken?",
+    "extra_example_fa": "متأسفانه باید لغو کنم به‌خاطر مشکل خانوادگی. می‌شود وقت جدید بگذاریم؟",
+    "options": [
+      { "key": "A", "text_nl": "Ik moet helaas afzeggen vanwege een familieprobleem. Kunnen we een nieuwe afspraak maken?", "is_correct": true, "feedback_fa": "✅ درست؛ مؤدبانه، دلیل و پیشنهاد جدید هر سه دارد." },
+      { "key": "B", "text_nl": "Ik kom vandaag niet, dat is alles.", "is_correct": false, "feedback_fa": "این جمله خیلی خشک و بی‌ادبانه است." },
+      { "key": "C", "text_nl": "Familie is soms lastig.", "is_correct": false, "feedback_fa": "این جمله لغو کردن را روشن نمی‌گوید." },
+      { "key": "D", "text_nl": "De afspraak was niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه و نامناسب است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "sending_reminder", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی به خواهر/برادرت یادآوری کنی که فردا تولد مادرتان است.",
+    "question_text_nl": "Je wilt je broer of zus eraan herinneren dat het morgen de verjaardag van jullie moeder is.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "یادآوری کوتاه و ساده بنویس.",
+    "grammar_rule_fa": "از «Vergeet niet dat...» استفاده کن.",
+    "extra_example_nl": "Vergeet niet dat het morgen mama's verjaardag is!",
+    "extra_example_fa": "یادت نره فردا تولد مامانه!",
+    "options": [
+      { "key": "A", "text_nl": "Vergeet niet dat het morgen mama's verjaardag is!", "is_correct": true, "feedback_fa": "✅ درست؛ یادآوری روشن و ساده است." },
+      { "key": "B", "text_nl": "Verjaardagen zijn duur.", "is_correct": false, "feedback_fa": "این جمله یادآوری نمی‌کند." },
+      { "key": "C", "text_nl": "Ik hou van feestjes.", "is_correct": false, "feedback_fa": "این جمله یادآوری نمی‌کند." },
+      { "key": "D", "text_nl": "Mama is heel aardig.", "is_correct": false, "feedback_fa": "این جمله یادآوری تاریخ را نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "sending_reminder", "life_context": "colleague",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی به همکارت یادآوری کنی که فردا باید گزارش را تحویل بدهد.",
+    "question_text_nl": "Je wilt je collega eraan herinneren dat het rapport morgen af moet zijn.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "یادآوری کوتاه و دوستانه بنویس.",
+    "grammar_rule_fa": "از «Even een reminder: ...» استفاده کن.",
+    "extra_example_nl": "Even een reminder: het rapport moet morgen af zijn.",
+    "extra_example_fa": "فقط یادآوری کنم: گزارش باید فردا تمام شود.",
+    "options": [
+      { "key": "A", "text_nl": "Even een reminder: het rapport moet morgen af zijn.", "is_correct": true, "feedback_fa": "✅ درست؛ یادآوری روشن و دوستانه است." },
+      { "key": "B", "text_nl": "Rapporten zijn saai.", "is_correct": false, "feedback_fa": "این جمله یادآوری نمی‌کند." },
+      { "key": "C", "text_nl": "Ik ben te laat met alles.", "is_correct": false, "feedback_fa": "این جمله درباره‌ی خودت است، یادآوری همکار نیست." },
+      { "key": "D", "text_nl": "Werk je hard vandaag?", "is_correct": false, "feedback_fa": "این جمله یادآوری نمی‌کند." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "congratulating", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دوستت امروز تولدش است. باید پیام تبریک بدهی.",
+    "question_text_nl": "Het is vandaag de verjaardag van je vriend.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "پیام تبریک کوتاه و گرم بنویس.",
+    "grammar_rule_fa": "از «Gefeliciteerd met je verjaardag!» استفاده کن.",
+    "extra_example_nl": "Gefeliciteerd met je verjaardag! Fijne dag!",
+    "extra_example_fa": "تولدت مبارک! روز خوبی داشته باشی!",
+    "options": [
+      { "key": "A", "text_nl": "Gefeliciteerd met je verjaardag! Fijne dag!", "is_correct": true, "feedback_fa": "✅ درست؛ پیام تبریک گرم و مناسب است." },
+      { "key": "B", "text_nl": "Verjaardagen zijn niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب و بی‌ادبانه است." },
+      { "key": "C", "text_nl": "Ik ben morgen jarig.", "is_correct": false, "feedback_fa": "این جمله تبریک به دوست نیست." },
+      { "key": "D", "text_nl": "Hoe oud ben je nu?", "is_correct": false, "feedback_fa": "این جمله کمی بی‌ادبانه است و تبریک نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "congratulating", "life_context": "colleague",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "همکارت پروژه‌ی مهمی را با موفقیت تمام کرده. باید تبریک بگویی.",
+    "question_text_nl": "Je collega heeft een belangrijk project succesvol afgerond.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "برای تبریک حرفه‌ای، موفقیت را واضح بنویس.",
+    "grammar_rule_fa": "از «Goed gedaan met...» استفاده کن.",
+    "extra_example_nl": "Goed gedaan met het project! Heel knap gedaan.",
+    "extra_example_fa": "با پروژه خیلی خوب کار کردی! واقعاً عالی بود.",
+    "options": [
+      { "key": "A", "text_nl": "Goed gedaan met het project! Heel knap gedaan.", "is_correct": true, "feedback_fa": "✅ درست؛ تبریک روشن و حرفه‌ای است." },
+      { "key": "B", "text_nl": "Projecten zijn moeilijk.", "is_correct": false, "feedback_fa": "این جمله تبریک نمی‌گوید." },
+      { "key": "C", "text_nl": "Ik heb ook veel gewerkt.", "is_correct": false, "feedback_fa": "این جمله توجه را به خودت می‌برد، تبریک نیست." },
+      { "key": "D", "text_nl": "Volgende keer beter.", "is_correct": false, "feedback_fa": "این جمله منفی و نامناسب است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "quick_question", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی سریع از دوستت بپرسی که آیا امشب خانه است.",
+    "question_text_nl": "Je wilt snel je vriend vragen of hij vanavond thuis is.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "سؤال کوتاه و ساده بنویس.",
+    "grammar_rule_fa": "از «Ben je vanavond thuis?» استفاده کن.",
+    "extra_example_nl": "Hoi, ben je vanavond thuis?",
+    "extra_example_fa": "سلام، امشب خانه‌ای؟",
+    "options": [
+      { "key": "A", "text_nl": "Hoi, ben je vanavond thuis?", "is_correct": true, "feedback_fa": "✅ درست؛ سؤال کوتاه و روشن است." },
+      { "key": "B", "text_nl": "Thuis zijn is fijn.", "is_correct": false, "feedback_fa": "این جمله سؤال نمی‌پرسد." },
+      { "key": "C", "text_nl": "Ik ben morgen thuis.", "is_correct": false, "feedback_fa": "این جمله سؤال نمی‌پرسد و روز اشتباه است." },
+      { "key": "D", "text_nl": "Waar woon je?", "is_correct": false, "feedback_fa": "این سؤال اشتباهی است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "quick_question", "life_context": "colleague",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی سریع از همکارت بپرسی جلسه کجا برگزار می‌شود.",
+    "question_text_nl": "Je wilt snel je collega vragen waar de vergadering is.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "سؤال کوتاه و روشن بنویس.",
+    "grammar_rule_fa": "از «Waar is de vergadering?» استفاده کن.",
+    "extra_example_nl": "Hoi, waar is de vergadering vandaag?",
+    "extra_example_fa": "سلام، جلسه‌ی امروز کجاست؟",
+    "options": [
+      { "key": "A", "text_nl": "Hoi, waar is de vergadering vandaag?", "is_correct": true, "feedback_fa": "✅ درست؛ سؤال کوتاه و روشن است." },
+      { "key": "B", "text_nl": "Vergaderingen duren lang.", "is_correct": false, "feedback_fa": "این جمله سؤال نمی‌پرسد." },
+      { "key": "C", "text_nl": "Ik kom morgen naar de vergadering.", "is_correct": false, "feedback_fa": "این جمله روز اشتباه است و سؤال نمی‌پرسد." },
+      { "key": "D", "text_nl": "De vergadering was gisteren.", "is_correct": false, "feedback_fa": "این جمله اطلاعات اشتباه می‌دهد و سؤال نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "informal_greeting_plan", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی به مادرت پیام بدهی و پیشنهاد بدهی آخر هفته با هم ناهار بخورید.",
+    "question_text_nl": "Je wilt je moeder voorstellen om dit weekend samen te lunchen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "پیشنهاد ساده و گرم بنویس.",
+    "grammar_rule_fa": "از «Zullen we dit weekend samen lunchen?» استفاده کن.",
+    "extra_example_nl": "Hoi mama, zullen we dit weekend samen lunchen?",
+    "extra_example_fa": "سلام مامان، آخر هفته با هم ناهار بخوریم؟",
+    "options": [
+      { "key": "A", "text_nl": "Hoi mama, zullen we dit weekend samen lunchen?", "is_correct": true, "feedback_fa": "✅ درست؛ پیشنهاد گرم و روشن است." },
+      { "key": "B", "text_nl": "Lunchen is gezond.", "is_correct": false, "feedback_fa": "این جمله پیشنهاد نمی‌دهد." },
+      { "key": "C", "text_nl": "Ik heb geen tijd dit weekend, nooit.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه و با هدف تو تناقض دارد." },
+      { "key": "D", "text_nl": "Weekend is bijna voorbij.", "is_correct": false, "feedback_fa": "این جمله پیشنهاد نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "sharing_news", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "خبر خوبی داری: قبول شدی برای دوره‌ی زبان جدید. باید هیجان‌زده به دوستت بگویی.",
+    "question_text_nl": "Je hebt goed nieuws: je bent toegelaten tot een nieuwe taalcursus.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "خبر را با هیجان و وضوح بنویس.",
+    "grammar_rule_fa": "از «Ik ben toegelaten tot...» استفاده کن.",
+    "extra_example_nl": "Goed nieuws! Ik ben toegelaten tot de taalcursus!",
+    "extra_example_fa": "خبر خوب! برای دوره‌ی زبان قبول شدم!",
+    "options": [
+      { "key": "A", "text_nl": "Goed nieuws! Ik ben toegelaten tot de taalcursus!", "is_correct": true, "feedback_fa": "✅ درست؛ خبر با وضوح و هیجان بیان شده." },
+      { "key": "B", "text_nl": "Taalcursussen zijn moeilijk.", "is_correct": false, "feedback_fa": "این جمله خبر را درست منتقل نمی‌کند." },
+      { "key": "C", "text_nl": "Ik spreek al goed Nederlands.", "is_correct": false, "feedback_fa": "این جمله ربطی به خبر قبولی ندارد." },
+      { "key": "D", "text_nl": "Misschien doe ik een cursus.", "is_correct": false, "feedback_fa": "این جمله با واقعیت (قبول شدن قطعی) تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "asking_favor", "life_context": "neighbour",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "می‌خواهی از همسایه‌ات بخواهی وقتی نیستی به گل‌هایت آب بدهد.",
+    "question_text_nl": "Je wilt je buurvrouw vragen om je planten water te geven als je weg bent.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "درخواست را مؤدبانه و واضح بنویس.",
+    "grammar_rule_fa": "از «Zou je mijn planten water kunnen geven?» استفاده کن.",
+    "extra_example_nl": "Zou je mijn planten water kunnen geven als ik weg ben?",
+    "extra_example_fa": "می‌شود وقتی نیستم به گل‌هایم آب بدهی؟",
+    "options": [
+      { "key": "A", "text_nl": "Zou je mijn planten water kunnen geven als ik weg ben?", "is_correct": true, "feedback_fa": "✅ درست؛ درخواست مؤدبانه و واضح است." },
+      { "key": "B", "text_nl": "Planten hebben altijd water nodig.", "is_correct": false, "feedback_fa": "این جمله درخواست نمی‌کند." },
+      { "key": "C", "text_nl": "Ik ga volgende week op vakantie.", "is_correct": false, "feedback_fa": "این جمله فقط اطلاع می‌دهد، درخواست مستقیم نیست." },
+      { "key": "D", "text_nl": "Mijn planten zijn heel mooi.", "is_correct": false, "feedback_fa": "این جمله درخواست نمی‌کند." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "sending_location", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "به سمت خانه‌ی خانواده‌ات می‌روی و می‌خواهی بگویی نزدیک هستی.",
+    "question_text_nl": "Je bent op weg naar je familie en wilt zeggen dat je bijna er bent.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "مکان یا زمان تقریبی رسیدن را بنویس.",
+    "grammar_rule_fa": "از «Ik ben er bijna» استفاده کن.",
+    "extra_example_nl": "Ik ben er bijna, over 5 minuten!",
+    "extra_example_fa": "تقریباً رسیدم، تا ۵ دقیقه‌ی دیگر!",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben er bijna, over 5 minuten!", "is_correct": true, "feedback_fa": "✅ درست؛ زمان تقریبی رسیدن روشن است." },
+      { "key": "B", "text_nl": "Ik ben nog thuis.", "is_correct": false, "feedback_fa": "این جمله با در راه بودن تناقض دارد." },
+      { "key": "C", "text_nl": "Ik kom morgen langs.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "D", "text_nl": "Waar wonen jullie?", "is_correct": false, "feedback_fa": "این سؤال عجیب است، چون قبلاً می‌دانی." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "confirming_plan", "life_context": "partner",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "همسر/شریک زندگی‌ات پرسیده آیا هنوز برای شام امشب برنامه دارید. باید تأیید کنی.",
+    "question_text_nl": "Bericht van je partner: \"Staat het avondeten vanavond nog?\"",
+    "question_text_fa": "کدام جواب مناسب است؟",
+    "explanation_fa": "تأیید کوتاه و گرم بنویس.",
+    "grammar_rule_fa": "از «Ja, natuurlijk!» استفاده کن.",
+    "extra_example_nl": "Ja, natuurlijk! Ik kijk ernaar uit.",
+    "extra_example_fa": "بله، حتماً! منتظرشم.",
+    "options": [
+      { "key": "A", "text_nl": "Ja, natuurlijk! Ik kijk ernaar uit.", "is_correct": true, "feedback_fa": "✅ درست؛ تأیید گرم و روشن است." },
+      { "key": "B", "text_nl": "Misschien, ik weet het niet.", "is_correct": false, "feedback_fa": "این جواب برای تأیید خیلی مبهم است." },
+      { "key": "C", "text_nl": "Eten is niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله تأیید نمی‌کند." },
+      { "key": "D", "text_nl": "Ik heb geen honger ooit.", "is_correct": false, "feedback_fa": "این جمله عجیب است و تأیید نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "canceling_plan", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "باید برنامه‌ی دیدار آخر هفته با فامیل را لغو کنی چون کار پیش آمده. باید مؤدبانه بنویسی.",
+    "question_text_nl": "Je moet het weekendbezoek aan je familie afzeggen vanwege werk.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "دلیل و پیشنهاد وقت جدید را بنویس.",
+    "grammar_rule_fa": "از «Ik moet helaas afzeggen» استفاده کن.",
+    "extra_example_nl": "Ik moet helaas afzeggen dit weekend, ik moet werken. Zullen we een andere keer afspreken?",
+    "extra_example_fa": "متأسفانه باید این آخر هفته را لغو کنم، باید کار کنم. وقت دیگری قرار بگذاریم؟",
+    "options": [
+      { "key": "A", "text_nl": "Ik moet helaas afzeggen dit weekend, ik moet werken. Zullen we een andere keer afspreken?", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و پیشنهاد وقت جدید هر دو دارد." },
+      { "key": "B", "text_nl": "Ik kom niet meer, punt uit.", "is_correct": false, "feedback_fa": "این جمله خیلی خشک و بی‌ادبانه است." },
+      { "key": "C", "text_nl": "Familie zien is altijd leuk.", "is_correct": false, "feedback_fa": "این جمله لغو کردن را نمی‌گوید." },
+      { "key": "D", "text_nl": "Werk is soms vervelend.", "is_correct": false, "feedback_fa": "این جمله لغو کردن یا پیشنهاد جدید را نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "sending_reminder", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی به دوستت یادآوری کنی که کتابی که قرض داده بودی را برگرداند.",
+    "question_text_nl": "Je wilt je vriend eraan herinneren om het boek terug te brengen dat je hebt uitgeleend.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "یادآوری دوستانه و کوتاه بنویس.",
+    "grammar_rule_fa": "از «Vergeet niet mijn boek terug te brengen» استفاده کن.",
+    "extra_example_nl": "Hoi! Vergeet niet mijn boek terug te brengen.",
+    "extra_example_fa": "سلام! یادت نره کتابم را پس بیاوری.",
+    "options": [
+      { "key": "A", "text_nl": "Hoi! Vergeet niet mijn boek terug te brengen.", "is_correct": true, "feedback_fa": "✅ درست؛ یادآوری دوستانه و روشن است." },
+      { "key": "B", "text_nl": "Boeken zijn leuk om te lezen.", "is_correct": false, "feedback_fa": "این جمله یادآوری نمی‌کند." },
+      { "key": "C", "text_nl": "Ik lees nooit boeken.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Je hebt vast iets van mij.", "is_correct": false, "feedback_fa": "این جمله یادآوری روشنی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "congratulating", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "خواهرت نمره‌ی خیلی خوبی در امتحان گرفته. باید تبریک بگویی.",
+    "question_text_nl": "Je zus heeft een heel goed cijfer gehaald voor haar examen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "پیام تبریک کوتاه و گرم بنویس.",
+    "grammar_rule_fa": "از «Gefeliciteerd met je goede cijfer!» استفاده کن.",
+    "extra_example_nl": "Gefeliciteerd met je goede cijfer! Heel knap!",
+    "extra_example_fa": "نمره‌ی خوبت مبارک! خیلی عالیه!",
+    "options": [
+      { "key": "A", "text_nl": "Gefeliciteerd met je goede cijfer! Heel knap!", "is_correct": true, "feedback_fa": "✅ درست؛ تبریک گرم و روشن است." },
+      { "key": "B", "text_nl": "Examens zijn moeilijk.", "is_correct": false, "feedback_fa": "این جمله تبریک نمی‌گوید." },
+      { "key": "C", "text_nl": "Ik haal nooit goede cijfers.", "is_correct": false, "feedback_fa": "این جمله توجه را به خودت می‌برد." },
+      { "key": "D", "text_nl": "Volgende keer beter studeren.", "is_correct": false, "feedback_fa": "این جمله منفی و نامناسب است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "quick_question", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی سریع از پدرت بپرسی که آیا امروز وقت دارد کمکت کند.",
+    "question_text_nl": "Je wilt snel je vader vragen of hij vandaag tijd heeft om je te helpen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "سؤال کوتاه و ساده بنویس.",
+    "grammar_rule_fa": "از «Heb je vandaag tijd om te helpen?» استفاده کن.",
+    "extra_example_nl": "Hoi papa, heb je vandaag tijd om me te helpen?",
+    "extra_example_fa": "سلام بابا، امروز وقت داری کمکم کنی؟",
+    "options": [
+      { "key": "A", "text_nl": "Hoi papa, heb je vandaag tijd om me te helpen?", "is_correct": true, "feedback_fa": "✅ درست؛ سؤال کوتاه و روشن است." },
+      { "key": "B", "text_nl": "Helpen is fijn.", "is_correct": false, "feedback_fa": "این جمله سؤال نمی‌پرسد." },
+      { "key": "C", "text_nl": "Ik heb altijd hulp nodig.", "is_correct": false, "feedback_fa": "این جمله سؤال مستقیم نیست." },
+      { "key": "D", "text_nl": "Papa is heel druk.", "is_correct": false, "feedback_fa": "این جمله جمله‌ی خبری است، سؤال نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "informal_greeting_plan", "life_context": "colleague",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "می‌خواهی به همکارت پیام بدهی و پیشنهاد بدهی بعد از کار با هم قهوه بخورید.",
+    "question_text_nl": "Je wilt je collega voorstellen om na het werk samen koffie te drinken.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "پیشنهاد کوتاه و دوستانه بنویس.",
+    "grammar_rule_fa": "از «Zullen we na het werk koffie drinken?» استفاده کن.",
+    "extra_example_nl": "Hoi! Zullen we na het werk samen koffie drinken?",
+    "extra_example_fa": "سلام! بعد از کار با هم قهوه بخوریم؟",
+    "options": [
+      { "key": "A", "text_nl": "Hoi! Zullen we na het werk samen koffie drinken?", "is_correct": true, "feedback_fa": "✅ درست؛ پیشنهاد دوستانه و روشن است." },
+      { "key": "B", "text_nl": "Koffie is lekker.", "is_correct": false, "feedback_fa": "این جمله پیشنهاد نمی‌دهد." },
+      { "key": "C", "text_nl": "Ik drink nooit koffie.", "is_correct": false, "feedback_fa": "این جمله با هدف تو تناقض دارد." },
+      { "key": "D", "text_nl": "Werk is bijna klaar.", "is_correct": false, "feedback_fa": "این جمله پیشنهاد نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "sharing_news", "life_context": "colleague",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی به همکارت خبر بدهی که پروژه تمام شده.",
+    "question_text_nl": "Je wilt je collega vertellen dat het project klaar is.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "خبر را کوتاه و روشن بنویس.",
+    "grammar_rule_fa": "از «Het project is klaar!» استفاده کن.",
+    "extra_example_nl": "Goed nieuws! Het project is eindelijk klaar!",
+    "extra_example_fa": "خبر خوب! پروژه بالاخره تمام شد!",
+    "options": [
+      { "key": "A", "text_nl": "Goed nieuws! Het project is eindelijk klaar!", "is_correct": true, "feedback_fa": "✅ درست؛ خبر روشن و با هیجان است." },
+      { "key": "B", "text_nl": "Projecten duren lang.", "is_correct": false, "feedback_fa": "این جمله خبر تکمیل شدن را نمی‌گوید." },
+      { "key": "C", "text_nl": "Ik ben moe van het project.", "is_correct": false, "feedback_fa": "این جمله خبر تمام شدن را روشن نمی‌گوید." },
+      { "key": "D", "text_nl": "We beginnen morgen met het project.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "asking_favor", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی از برادرت بخواهی فردا تو را به فرودگاه ببرد.",
+    "question_text_nl": "Je wilt je broer vragen om je morgen naar het vliegveld te brengen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "درخواست کوتاه و مؤدبانه بنویس.",
+    "grammar_rule_fa": "از «Kun je me morgen naar het vliegveld brengen?» استفاده کن.",
+    "extra_example_nl": "Hoi, kun je me morgen naar het vliegveld brengen?",
+    "extra_example_fa": "سلام، می‌شود فردا مرا به فرودگاه ببری؟",
+    "options": [
+      { "key": "A", "text_nl": "Hoi, kun je me morgen naar het vliegveld brengen?", "is_correct": true, "feedback_fa": "✅ درست؛ درخواست کوتاه و روشن است." },
+      { "key": "B", "text_nl": "Vliegvelden zijn groot.", "is_correct": false, "feedback_fa": "این جمله درخواست نمی‌کند." },
+      { "key": "C", "text_nl": "Ik ga morgen op reis.", "is_correct": false, "feedback_fa": "این جمله فقط اطلاع می‌دهد و درخواست مستقیم نیست." },
+      { "key": "D", "text_nl": "Je hebt vast een auto.", "is_correct": false, "feedback_fa": "این جمله درخواست مستقیم نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "congratulating", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "دوستت خانه‌ی جدیدی خریده. باید تبریک بگویی و برایش آرزوی خوبی داشته باشی.",
+    "question_text_nl": "Je vriend heeft een nieuw huis gekocht.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "تبریک کامل با آرزوی خوب بنویس.",
+    "grammar_rule_fa": "از «Gefeliciteerd met je nieuwe huis!» استفاده کن.",
+    "extra_example_nl": "Gefeliciteerd met je nieuwe huis! Ik wens je veel geluk.",
+    "extra_example_fa": "خانه‌ی جدیدت مبارک! برایت آرزوی خوشبختی دارم.",
+    "options": [
+      { "key": "A", "text_nl": "Gefeliciteerd met je nieuwe huis! Ik wens je veel geluk.", "is_correct": true, "feedback_fa": "✅ درست؛ تبریک کامل و گرم است." },
+      { "key": "B", "text_nl": "Huizen zijn duur tegenwoordig.", "is_correct": false, "feedback_fa": "این جمله تبریک نمی‌گوید." },
+      { "key": "C", "text_nl": "Ik woon nog bij mijn ouders.", "is_correct": false, "feedback_fa": "این جمله توجه را به خودت می‌برد." },
+      { "key": "D", "text_nl": "Verhuizen is veel werk.", "is_correct": false, "feedback_fa": "این جمله تبریک نمی‌گوید." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "sending_reminder", "life_context": "partner",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "می‌خواهی به همسرت یادآوری کنی که فردا باید قبض‌ها را پرداخت کنید.",
+    "question_text_nl": "Je wilt je partner eraan herinneren dat jullie morgen de rekeningen moeten betalen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "یادآوری روشن و کوتاه بنویس.",
+    "grammar_rule_fa": "از «Vergeet niet dat we morgen...» استفاده کن.",
+    "extra_example_nl": "Vergeet niet dat we morgen de rekeningen moeten betalen.",
+    "extra_example_fa": "یادت نرود که فردا باید قبض‌ها را پرداخت کنیم.",
+    "options": [
+      { "key": "A", "text_nl": "Vergeet niet dat we morgen de rekeningen moeten betalen.", "is_correct": true, "feedback_fa": "✅ درست؛ یادآوری روشن و کوتاه است." },
+      { "key": "B", "text_nl": "Rekeningen zijn duur.", "is_correct": false, "feedback_fa": "این جمله یادآوری نمی‌کند." },
+      { "key": "C", "text_nl": "Geld is niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله یادآوری نیست و نامناسب است." },
+      { "key": "D", "text_nl": "Ik heb geen geld meer.", "is_correct": false, "feedback_fa": "این جمله معنای متفاوتی دارد و یادآوری روشنی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_whatsapp", "subtopic": "quick_question", "life_context": "neighbour",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی سریع از همسایه‌ات بپرسی که آیا می‌تواند فردا کلید خانه‌ات را نگه دارد.",
+    "question_text_nl": "Je wilt snel je buurvrouw vragen of ze morgen je sleutel kan bewaren.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "سؤال کوتاه و مؤدبانه بنویس.",
+    "grammar_rule_fa": "از «Kun je morgen mijn sleutel bewaren?» استفاده کن.",
+    "extra_example_nl": "Hoi, kun je morgen mijn sleutel even bewaren?",
+    "extra_example_fa": "سلام، می‌شود فردا کلیدم را نگه داری؟",
+    "options": [
+      { "key": "A", "text_nl": "Hoi, kun je morgen mijn sleutel even bewaren?", "is_correct": true, "feedback_fa": "✅ درست؛ سؤال کوتاه و مؤدبانه است." },
+      { "key": "B", "text_nl": "Sleutels zijn belangrijk.", "is_correct": false, "feedback_fa": "این جمله سؤال نمی‌پرسد." },
+      { "key": "C", "text_nl": "Ik verlies vaak mijn sleutel.", "is_correct": false, "feedback_fa": "این جمله سؤال مستقیم نیست." },
+      { "key": "D", "text_nl": "Morgen ben ik thuis.", "is_correct": false, "feedback_fa": "این جمله سؤال نمی‌پرسد و با نیاز به کمک تناقض دارد." }
+    ]
+  }
+]

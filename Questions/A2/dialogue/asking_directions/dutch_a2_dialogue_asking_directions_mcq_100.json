@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "polite_opening_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent op straat en je wilt iemand iets vragen.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "برای شروع مؤدبانه پرسیدن مسیر، کدام جمله بهتر است؟",
+    "explanation_fa": "برای شروع مؤدبانه پرسیدن مسیر در هلندی از «Excuseer» یا «Sorry» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در خیابان قبل از پرسیدن مسیر بهتر است مؤدبانه شروع کنی: Excuseer / Sorry.",
+    "extra_example_nl": "Excuseer, weet u waar het station is?",
+    "extra_example_fa": "ببخشید، می‌دانید ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Excuseer, mag ik iets vragen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این یک شروع مؤدبانه برای پرسیدن سؤال در خیابان است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و برای شروع پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag is maandag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است، نه شروع مؤدبانه برای پرسیدن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای موقعیت خیابان و پرسیدن مسیر مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "polite_opening_directions",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent in een nieuwe stad en je zoekt het station.",
+    "question_text_nl": "Welke zin is het meest beleefd?",
+    "question_text_fa": "در یک شهر جدید می‌خواهی مؤدبانه مسیر ایستگاه را بپرسی. کدام جمله بهتر است؟",
+    "explanation_fa": "برای شروع مؤدبانه پرسیدن مسیر در هلندی از «Excuseer» یا «Sorry» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در خیابان قبل از پرسیدن مسیر بهتر است مؤدبانه شروع کنی: Excuseer / Sorry.",
+    "extra_example_nl": "Excuseer, weet u waar het station is?",
+    "extra_example_fa": "ببخشید، می‌دانید ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و برای شروع پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, weet u waar het station is?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله هم مؤدبانه است و هم مستقیم درباره مکان ایستگاه می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag is maandag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است، نه شروع مؤدبانه برای پرسیدن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای موقعیت خیابان و پرسیدن مسیر مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "polite_opening_directions",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt het ziekenhuis en je wilt hulp vragen.",
+    "question_text_nl": "Wat zeg je eerst?",
+    "question_text_fa": "برای شروع مکالمه و گرفتن کمک، اول چه می‌گویی؟",
+    "explanation_fa": "برای شروع مؤدبانه پرسیدن مسیر در هلندی از «Excuseer» یا «Sorry» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در خیابان قبل از پرسیدن مسیر بهتر است مؤدبانه شروع کنی: Excuseer / Sorry.",
+    "extra_example_nl": "Excuseer, weet u waar het station is?",
+    "extra_example_fa": "ببخشید، می‌دانید ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و برای شروع پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag is maandag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است، نه شروع مؤدبانه برای پرسیدن مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله ساده و مؤدبانه برای درخواست کمک است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای موقعیت خیابان و پرسیدن مسیر مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "polite_opening_directions",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent bij een plein en je moet naar het ziekenhuis.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "برای پرسیدن مسیر بیمارستان، کدام جمله مناسب‌تر است؟",
+    "explanation_fa": "برای شروع مؤدبانه پرسیدن مسیر در هلندی از «Excuseer» یا «Sorry» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در خیابان قبل از پرسیدن مسیر بهتر است مؤدبانه شروع کنی: Excuseer / Sorry.",
+    "extra_example_nl": "Excuseer, weet u waar het station is?",
+    "extra_example_fa": "ببخشید، می‌دانید ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و برای شروع پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag is maandag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است، نه شروع مؤدبانه برای پرسیدن مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای موقعیت خیابان و پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Weet u de weg naar het ziekenhuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مستقیماً مسیر بیمارستان را می‌پرسد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "polite_opening_directions",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent in een buurt die je niet kent en je zoekt een supermarkt.",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "در محله‌ای ناآشنا دنبال سوپرمارکت هستی. کدام جمله مناسب‌تر است؟",
+    "explanation_fa": "برای شروع مؤدبانه پرسیدن مسیر در هلندی از «Excuseer» یا «Sorry» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در خیابان قبل از پرسیدن مسیر بهتر است مؤدبانه شروع کنی: Excuseer / Sorry.",
+    "extra_example_nl": "Excuseer, weet u waar het station is?",
+    "extra_example_fa": "ببخشید، می‌دانید ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zoek de supermarkt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله کوتاه و طبیعی است و نشان می‌دهد دنبال سوپرمارکت هستی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و برای شروع پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag is maandag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است، نه شروع مؤدبانه برای پرسیدن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای موقعیت خیابان و پرسیدن مسیر مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "polite_opening_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent bij het station en je zoekt de bushalte.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "برای شروع مؤدبانه و پرسیدن جای ایستگاه اتوبوس، کدام جمله بهتر است؟",
+    "explanation_fa": "برای شروع مؤدبانه پرسیدن مسیر در هلندی از «Excuseer» یا «Sorry» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در خیابان قبل از پرسیدن مسیر بهتر است مؤدبانه شروع کنی: Excuseer / Sorry.",
+    "extra_example_nl": "Excuseer, weet u waar het station is?",
+    "extra_example_fa": "ببخشید، می‌دانید ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و برای شروع پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Excuseer, ik zoek de bushalte.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با «Excuseer» شروع می‌شود و موضوع مسیر را واضح می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag is maandag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است، نه شروع مؤدبانه برای پرسیدن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای موقعیت خیابان و پرسیدن مسیر مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "polite_opening_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt dat iemand jou de route uitlegt.",
+    "question_text_nl": "Wat vraag je beleefd?",
+    "question_text_fa": "می‌خواهی کسی مسیر را به تو نشان دهد. کدام جمله مؤدبانه‌تر است؟",
+    "explanation_fa": "برای شروع مؤدبانه پرسیدن مسیر در هلندی از «Excuseer» یا «Sorry» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در خیابان قبل از پرسیدن مسیر بهتر است مؤدبانه شروع کنی: Excuseer / Sorry.",
+    "extra_example_nl": "Excuseer, weet u waar het station is?",
+    "extra_example_fa": "ببخشید، می‌دانید ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و برای شروع پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag is maandag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است، نه شروع مؤدبانه برای پرسیدن مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, kunt u mij de weg wijzen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست راهنمایی مسیر مناسب و مؤدبانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای موقعیت خیابان و پرسیدن مسیر مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "polite_opening_directions",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat voor een winkel en je zoekt de apotheek.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "برای پرسیدن مکان داروخانه، کدام جمله مؤدبانه‌تر است؟",
+    "explanation_fa": "برای شروع مؤدبانه پرسیدن مسیر در هلندی از «Excuseer» یا «Sorry» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در خیابان قبل از پرسیدن مسیر بهتر است مؤدبانه شروع کنی: Excuseer / Sorry.",
+    "extra_example_nl": "Excuseer, weet u waar het station is?",
+    "extra_example_fa": "ببخشید، می‌دانید ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و برای شروع پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag is maandag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است، نه شروع مؤدبانه برای پرسیدن مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای موقعیت خیابان و پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Excuseer, weet u waar de apotheek is?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با «Excuseer» شروع می‌شود و مکان داروخانه را می‌پرسد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "polite_opening_directions",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent in het centrum en je bent de weg kwijt.",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "در مرکز شهر راه را گم کرده‌ای. کدام جمله برای شروع بهتر است؟",
+    "explanation_fa": "برای شروع مؤدبانه پرسیدن مسیر در هلندی از «Excuseer» یا «Sorry» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در خیابان قبل از پرسیدن مسیر بهتر است مؤدبانه شروع کنی: Excuseer / Sorry.",
+    "extra_example_nl": "Excuseer, weet u waar het station is?",
+    "extra_example_fa": "ببخشید، می‌دانید ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u mij zeggen waar het centrum is?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه است و از طرف مقابل درخواست اطلاعات مسیر می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و برای شروع پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag is maandag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است، نه شروع مؤدبانه برای پرسیدن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای موقعیت خیابان و پرسیدن مسیر مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "polite_opening_directions",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een onbekende op straat aanspreken.",
+    "question_text_nl": "Wat is een goede eerste zin?",
+    "question_text_fa": "می‌خواهی در خیابان از یک نفر سؤال بپرسی. جمله اول مناسب چیست؟",
+    "explanation_fa": "برای شروع مؤدبانه پرسیدن مسیر در هلندی از «Excuseer» یا «Sorry» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در خیابان قبل از پرسیدن مسیر بهتر است مؤدبانه شروع کنی: Excuseer / Sorry.",
+    "extra_example_nl": "Excuseer, weet u waar het station is?",
+    "extra_example_fa": "ببخشید، می‌دانید ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و برای شروع پرسیدن مسیر مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, mag ik u iets vragen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این یک شروع کوتاه و مؤدبانه برای سؤال پرسیدن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag is maandag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است، نه شروع مؤدبانه برای پرسیدن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای موقعیت خیابان و پرسیدن مسیر مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_location_where_is",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent in een nieuwe stad en je zoekt het station.",
+    "question_text_nl": "Welke vraag past het best?",
+    "question_text_fa": "برای پرسیدن اینکه ایستگاه کجاست، کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن مکان از ساختار «Waar is ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مکان: Waar is + مکان?",
+    "extra_example_nl": "Waar is de dichtstbijzijnde bushalte?",
+    "extra_example_fa": "نزدیک‌ترین ایستگاه اتوبوس کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت است، نه مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گرسنگی است و مکان را نمی‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با «Waar is ...?» مکان ایستگاه را می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaal met pin.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه پرسیدن آدرس یا مکان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_location_where_is",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt een apotheek in de buurt.",
+    "question_text_nl": "Welke vraag past het best?",
+    "question_text_fa": "برای پرسیدن اینکه داروخانه کجاست، کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن مکان از ساختار «Waar is ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مکان: Waar is + مکان?",
+    "extra_example_nl": "Waar is het ziekenhuis?",
+    "extra_example_fa": "بیمارستان کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت است، نه مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گرسنگی است و مکان را نمی‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik betaal met pin.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه پرسیدن آدرس یا مکان."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مکان داروخانه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_location_where_is",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt boodschappen doen en zoekt een supermarkt.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "برای پرسیدن مکان سوپرمارکت چه می‌گویی؟",
+    "explanation_fa": "برای پرسیدن مکان از ساختار «Waar is ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مکان: Waar is + مکان?",
+    "extra_example_nl": "Waar is de winkel?",
+    "extra_example_fa": "فروشگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de supermarkt?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مکان سوپرمارکت را می‌پرسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت است، نه مکان."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گرسنگی است و مکان را نمی‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaal met pin.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه پرسیدن آدرس یا مکان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_location_where_is",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat op straat en zoekt de bushalte.",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "برای پرسیدن جای ایستگاه اتوبوس کدام جمله درست است؟",
+    "explanation_fa": "برای پرسیدن مکان از ساختار «Waar is ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مکان: Waar is + مکان?",
+    "extra_example_nl": "Waar is het station?",
+    "extra_example_fa": "ایستگاه قطار کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت است، نه مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de bushalte?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مکان ایستگاه اتوبوس مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گرسنگی است و مکان را نمی‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaal met pin.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه پرسیدن آدرس یا مکان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_location_where_is",
+    "life_context": "public_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je moet naar het gemeentehuis.",
+    "question_text_nl": "Welke vraag past het best?",
+    "question_text_fa": "برای پرسیدن اینکه شهرداری کجاست، کدام جمله مناسب‌تر است؟",
+    "explanation_fa": "برای پرسیدن مکان از ساختار «Waar is ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مکان: Waar is + مکان?",
+    "extra_example_nl": "Waar is de bibliotheek?",
+    "extra_example_fa": "کتابخانه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت است، نه مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گرسنگی است و مکان را نمی‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het gemeentehuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مکان شهرداری را واضح می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaal met pin.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه پرسیدن آدرس یا مکان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_location_where_is",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat voor een groot gebouw en zoekt de ingang.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "دنبال ورودی ساختمان هستی. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن مکان از ساختار «Waar is ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مکان: Waar is + مکان?",
+    "extra_example_nl": "Waar is de uitgang?",
+    "extra_example_fa": "خروجی کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت است، نه مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گرسنگی است و مکان را نمی‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik betaal met pin.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه پرسیدن آدرس یا مکان."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is de ingang?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مکان ورودی مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_location_where_is",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent nieuw op school en zoekt de bibliotheek.",
+    "question_text_nl": "Welke vraag past?",
+    "question_text_fa": "در مدرسه جدید دنبال کتابخانه هستی. کدام سؤال مناسب است؟",
+    "explanation_fa": "برای پرسیدن مکان از ساختار «Waar is ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مکان: Waar is + مکان?",
+    "extra_example_nl": "Waar is de school?",
+    "extra_example_fa": "مدرسه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de bibliotheek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مکان کتابخانه را می‌پرسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت است، نه مکان."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گرسنگی است و مکان را نمی‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaal met pin.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه پرسیدن آدرس یا مکان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_location_where_is",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt een afspraak en zoekt de huisarts.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "برای پرسیدن مکان پزشک عمومی، کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن مکان از ساختار «Waar is ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مکان: Waar is + مکان?",
+    "extra_example_nl": "Waar is de apotheek?",
+    "extra_example_fa": "داروخانه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت است، نه مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de huisarts?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مکان پزشک عمومی را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گرسنگی است و مکان را نمی‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaal met pin.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه پرسیدن آدرس یا مکان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_location_where_is",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je moet snel naar het ziekenhuis.",
+    "question_text_nl": "Wat vraag je aan iemand?",
+    "question_text_fa": "باید سریع به بیمارستان بروی. از یک نفر چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن مکان از ساختار «Waar is ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مکان: Waar is + مکان?",
+    "extra_example_nl": "Waar is het park?",
+    "extra_example_fa": "پارک کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت است، نه مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گرسنگی است و مکان را نمی‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het ziekenhuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مکان بیمارستان مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaal met pin.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه پرسیدن آدرس یا مکان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_location_where_is",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent in een winkelcentrum en zoekt de uitgang.",
+    "question_text_nl": "Welke vraag is goed?",
+    "question_text_fa": "در مرکز خرید دنبال خروجی هستی. کدام جمله درست است؟",
+    "explanation_fa": "برای پرسیدن مکان از ساختار «Waar is ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مکان: Waar is + مکان?",
+    "extra_example_nl": "Waar is de ingang?",
+    "extra_example_fa": "ورودی کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت است، نه مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گرسنگی است و مکان را نمی‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik betaal met pin.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه پرسیدن آدرس یا مکان."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is de uitgang?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مکان خروجی را می‌پرسد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_how_to_get_there",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent op straat en je wilt naar het station.",
+    "question_text_nl": "Welke vraag past het best?",
+    "question_text_fa": "برای پرسیدن اینکه چطور به ایستگاه برسی، کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن راه رسیدن به یک مکان از «Hoe kom ik bij ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر: Hoe kom ik bij + مکان?",
+    "extra_example_nl": "Hoe kom ik bij de bushalte?",
+    "extra_example_fa": "چطور به ایستگاه اتوبوس برسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe kom ik bij het station?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی «چطور به ایستگاه برسم؟» و برای مسیر مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar woon je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی طرف مقابل است، نه مسیر رفتن به یک مکان."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه پرسیدن راه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is vandaag druk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره شلوغ بودن امروز است، نه مسیر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_how_to_get_there",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt een afspraak bij de huisarts maar je weet de route niet.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "وقت پزشک عمومی داری اما مسیر را نمی‌دانی. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن راه رسیدن به یک مکان از «Hoe kom ik bij ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر: Hoe kom ik bij + مکان?",
+    "extra_example_nl": "Hoe kom ik bij de apotheek?",
+    "extra_example_fa": "چطور به داروخانه برسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar woon je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی طرف مقابل است، نه مسیر رفتن به یک مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe kom ik bij de huisarts?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این سؤال برای پرسیدن مسیر پزشک عمومی مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه پرسیدن راه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is vandaag druk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره شلوغ بودن امروز است، نه مسیر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_how_to_get_there",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt de bushalte en je weet niet hoe je daar komt.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "برای پرسیدن مسیر ایستگاه اتوبوس کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن راه رسیدن به یک مکان از «Hoe kom ik bij ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر: Hoe kom ik bij + مکان?",
+    "extra_example_nl": "Hoe kom ik bij het station?",
+    "extra_example_fa": "چطور به ایستگاه قطار برسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar woon je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی طرف مقابل است، نه مسیر رفتن به یک مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه پرسیدن راه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe kom ik bij de bushalte?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مسیر رفتن به ایستگاه اتوبوس را می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is vandaag druk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره شلوغ بودن امروز است، نه مسیر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_how_to_get_there",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand zegt dat de winkel dichtbij is. Je weet niet hoe je daar komt.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کسی می‌گوید فروشگاه نزدیک است، اما مسیر را نمی‌دانی. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن راه رسیدن به یک مکان از «Hoe kom ik bij ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر: Hoe kom ik bij + مکان?",
+    "extra_example_nl": "Hoe kom ik daar met de bus?",
+    "extra_example_fa": "چطور با اتوبوس به آنجا برسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar woon je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی طرف مقابل است، نه مسیر رفتن به یک مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه پرسیدن راه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het is vandaag druk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره شلوغ بودن امروز است، نه مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe kom ik daar?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله کوتاه یعنی «چطور به آنجا برسم؟» و در مکالمه طبیعی است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_how_to_get_there",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zoekt de bibliotheek en wilt duidelijke uitleg.",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "دنبال کتابخانه هستی و توضیح واضح می‌خواهی. کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن راه رسیدن به یک مکان از «Hoe kom ik bij ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر: Hoe kom ik bij + مکان?",
+    "extra_example_nl": "Kunt u mij helpen met de route?",
+    "extra_example_fa": "می‌توانید در مسیر به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u mij zeggen hoe ik daar kom?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه است و از طرف مقابل توضیح مسیر می‌خواهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar woon je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی طرف مقابل است، نه مسیر رفتن به یک مکان."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه پرسیدن راه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is vandaag druk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره شلوغ بودن امروز است، نه مسیر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_how_to_get_there",
+    "life_context": "public_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je moet naar het gemeentehuis en bent de weg kwijt.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "باید به شهرداری بروی و راه را گم کرده‌ای. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن راه رسیدن به یک مکان از «Hoe kom ik bij ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر: Hoe kom ik bij + مکان?",
+    "extra_example_nl": "Hoe kom ik bij het centrum?",
+    "extra_example_fa": "چطور به مرکز شهر برسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar woon je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی طرف مقابل است، نه مسیر رفتن به یک مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe kom ik bij het gemeentehuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مسیر رفتن به شهرداری را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه پرسیدن راه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is vandaag druk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره شلوغ بودن امروز است، نه مسیر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_how_to_get_there",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent nieuw in de buurt en zoekt de bibliotheek.",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "برای پرسیدن مسیر کتابخانه کدام جمله درست است؟",
+    "explanation_fa": "برای پرسیدن راه رسیدن به یک مکان از «Hoe kom ik bij ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر: Hoe kom ik bij + مکان?",
+    "extra_example_nl": "Hoe kom ik bij de school?",
+    "extra_example_fa": "چطور به مدرسه برسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar woon je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی طرف مقابل است، نه مسیر رفتن به یک مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه پرسیدن راه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe kom ik bij de bibliotheek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این سؤال برای مسیر کتابخانه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is vandaag druk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره شلوغ بودن امروز است، نه مسیر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_how_to_get_there",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt naar het park maar weet de route niet.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی به پارک بروی اما مسیر را نمی‌دانی. چه می‌گویی؟",
+    "explanation_fa": "برای پرسیدن راه رسیدن به یک مکان از «Hoe kom ik bij ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر: Hoe kom ik bij + مکان?",
+    "extra_example_nl": "Hoe kom ik bij de uitgang?",
+    "extra_example_fa": "چطور به خروجی برسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar woon je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی طرف مقابل است، نه مسیر رفتن به یک مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه پرسیدن راه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het is vandaag druk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره شلوغ بودن امروز است، نه مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe kom ik bij het park?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مسیر رفتن به پارک را می‌پرسد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_how_to_get_there",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent met de auto en zoekt de parkeerplaats.",
+    "question_text_nl": "Welke vraag past?",
+    "question_text_fa": "با ماشین هستی و دنبال پارکینگ می‌گردی. کدام سؤال مناسب است؟",
+    "explanation_fa": "برای پرسیدن راه رسیدن به یک مکان از «Hoe kom ik bij ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر: Hoe kom ik bij + مکان?",
+    "extra_example_nl": "Hoe kom ik bij de ingang?",
+    "extra_example_fa": "چطور به ورودی برسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe kom ik bij de parkeerplaats?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مسیر پارکینگ مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar woon je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی طرف مقابل است، نه مسیر رفتن به یک مکان."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه پرسیدن راه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is vandaag druk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره شلوغ بودن امروز است، نه مسیر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_how_to_get_there",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat bij het station en wilt naar het centrum.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "کنار ایستگاه هستی و می‌خواهی به مرکز شهر بروی. کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن راه رسیدن به یک مکان از «Hoe kom ik bij ...?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر: Hoe kom ik bij + مکان?",
+    "extra_example_nl": "Hoe kom ik bij de winkel?",
+    "extra_example_fa": "چطور به فروشگاه برسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar woon je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی طرف مقابل است، نه مسیر رفتن به یک مکان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe kom ik bij het centrum?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مسیر رفتن به مرکز شهر را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه پرسیدن راه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is vandaag druk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره شلوغ بودن امروز است، نه مسیر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "understanding_basic_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand legt de route uit: 'Ga rechtdoor.'",
+    "question_text_nl": "Wat moet je doen?",
+    "question_text_fa": "طبق این راهنمایی، باید چه کار کنی؟",
+    "explanation_fa": "در توضیح مسیر، «rechtdoor» یعنی مستقیم، «linksaf» یعنی چپ، و «rechtsaf» یعنی راست.",
+    "dialogue_rule_fa": "برای فهم مسیر به فعل‌ها و جهت‌ها توجه کن: ga, sla, loop, steek over.",
+    "extra_example_nl": "Ga rechtdoor en sla dan linksaf.",
+    "extra_example_fa": "مستقیم برو و بعد به چپ بپیچ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی درباره سوار شدن به اتوبوس چیزی گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je blijft hier wachten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je gaat rechtdoor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ معنی «مستقیم برو» را درست نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید به خانه بروی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "understanding_basic_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand zegt: 'Sla linksaf bij de winkel.'",
+    "question_text_nl": "Wat moet je doen?",
+    "question_text_fa": "وقتی می‌گوید کنار فروشگاه به چپ بپیچ، باید چه کار کنی؟",
+    "explanation_fa": "در توضیح مسیر، «rechtdoor» یعنی مستقیم، «linksaf» یعنی چپ، و «rechtsaf» یعنی راست.",
+    "dialogue_rule_fa": "برای فهم مسیر به فعل‌ها و جهت‌ها توجه کن: ga, sla, loop, steek over.",
+    "extra_example_nl": "Sla linksaf bij de supermarkt.",
+    "extra_example_fa": "کنار سوپرمارکت به چپ بپیچ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی درباره سوار شدن به اتوبوس چیزی گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je blijft hier wachten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je gaat naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید به خانه بروی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat bij de winkel naar links.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ نشان می‌دهد باید کنار فروشگاه به چپ بروی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "understanding_basic_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand zegt: 'Sla rechtsaf bij de apotheek.'",
+    "question_text_nl": "Wat betekent dit?",
+    "question_text_fa": "این راهنمایی یعنی چه کاری باید انجام دهی؟",
+    "explanation_fa": "در توضیح مسیر، «rechtdoor» یعنی مستقیم، «linksaf» یعنی چپ، و «rechtsaf» یعنی راست.",
+    "dialogue_rule_fa": "برای فهم مسیر به فعل‌ها و جهت‌ها توجه کن: ga, sla, loop, steek over.",
+    "extra_example_nl": "Sla rechtsaf bij het station.",
+    "extra_example_fa": "کنار ایستگاه به راست بپیچ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je gaat bij de apotheek naar rechts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ معنی «کنار داروخانه به راست بپیچ» را درست می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی درباره سوار شدن به اتوبوس چیزی گفته نشده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je blijft hier wachten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید به خانه بروی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "understanding_basic_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je loopt verkeerd. Iemand zegt: 'Loop terug en ga naar rechts.'",
+    "question_text_nl": "Wat moet je doen?",
+    "question_text_fa": "مسیر را اشتباه رفته‌ای. طبق جمله باید چه کار کنی؟",
+    "explanation_fa": "در توضیح مسیر، «rechtdoor» یعنی مستقیم، «linksaf» یعنی چپ، و «rechtsaf» یعنی راست.",
+    "dialogue_rule_fa": "برای فهم مسیر به فعل‌ها و جهت‌ها توجه کن: ga, sla, loop, steek over.",
+    "extra_example_nl": "Loop terug naar de bushalte.",
+    "extra_example_fa": "به سمت ایستگاه اتوبوس برگرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی درباره سوار شدن به اتوبوس چیزی گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je loopt terug en gaat daarna naar rechts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ هر دو بخش مسیر را درست نشان می‌دهد: برگرد و بعد به راست برو."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je blijft hier wachten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید به خانه بروی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "understanding_basic_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Bij een drukke straat zegt iemand: 'Steek de straat over.'",
+    "question_text_nl": "Wat moet je doen?",
+    "question_text_fa": "در خیابان شلوغ، این جمله یعنی چه کار کنی؟",
+    "explanation_fa": "در توضیح مسیر، «rechtdoor» یعنی مستقیم، «linksaf» یعنی چپ، و «rechtsaf» یعنی راست.",
+    "dialogue_rule_fa": "برای فهم مسیر به فعل‌ها و جهت‌ها توجه کن: ga, sla, loop, steek over.",
+    "extra_example_nl": "Steek de straat over bij het stoplicht.",
+    "extra_example_fa": "از خیابان کنار چراغ رد شو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی درباره سوار شدن به اتوبوس چیزی گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je blijft hier wachten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je gaat naar de andere kant van de straat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله معنی «از خیابان رد شو» را درست نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید به خانه بروی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "understanding_basic_directions",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand zegt: 'Ga naar links.'",
+    "question_text_nl": "Welke actie past?",
+    "question_text_fa": "وقتی کسی می‌گوید «به چپ برو»، کدام عمل مناسب است؟",
+    "explanation_fa": "در توضیح مسیر، «rechtdoor» یعنی مستقیم، «linksaf» یعنی چپ، و «rechtsaf» یعنی راست.",
+    "dialogue_rule_fa": "برای فهم مسیر به فعل‌ها و جهت‌ها توجه کن: ga, sla, loop, steek over.",
+    "extra_example_nl": "Ga naar links bij de kerk.",
+    "extra_example_fa": "کنار کلیسا به چپ برو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی درباره سوار شدن به اتوبوس چیزی گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je blijft hier wachten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je gaat naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید به خانه بروی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat naar links.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ دقیقاً همان جهت چپ را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "understanding_basic_directions",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand zegt: 'Ga naar rechts.'",
+    "question_text_nl": "Wat doe je?",
+    "question_text_fa": "طبق جمله، چه کار می‌کنی؟",
+    "explanation_fa": "در توضیح مسیر، «rechtdoor» یعنی مستقیم، «linksaf» یعنی چپ، و «rechtsaf» یعنی راست.",
+    "dialogue_rule_fa": "برای فهم مسیر به فعل‌ها و جهت‌ها توجه کن: ga, sla, loop, steek over.",
+    "extra_example_nl": "Ga naar rechts na de brug.",
+    "extra_example_fa": "بعد از پل به راست برو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je gaat naar rechts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ جهت راست را درست نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی درباره سوار شدن به اتوبوس چیزی گفته نشده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je blijft hier wachten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید به خانه بروی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "understanding_basic_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand zegt: 'Ga rechtdoor en sla dan rechtsaf.'",
+    "question_text_nl": "Wat moet je doen?",
+    "question_text_fa": "طبق مسیر گفته‌شده باید چه کار کنی؟",
+    "explanation_fa": "در توضیح مسیر، «rechtdoor» یعنی مستقیم، «linksaf» یعنی چپ، و «rechtsaf» یعنی راست.",
+    "dialogue_rule_fa": "برای فهم مسیر به فعل‌ها و جهت‌ها توجه کن: ga, sla, loop, steek over.",
+    "extra_example_nl": "Ga rechtdoor tot de supermarkt.",
+    "extra_example_fa": "تا سوپرمارکت مستقیم برو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی درباره سوار شدن به اتوبوس چیزی گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je gaat eerst rechtdoor en daarna naar rechts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ ترتیب مسیر را درست می‌گوید: اول مستقیم، بعد راست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je blijft hier wachten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید به خانه بروی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "understanding_basic_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand zegt: 'Sla linksaf en loop terug naar het station.'",
+    "question_text_nl": "Wat betekent de route?",
+    "question_text_fa": "این مسیر یعنی باید چه کار کنی؟",
+    "explanation_fa": "در توضیح مسیر، «rechtdoor» یعنی مستقیم، «linksaf» یعنی چپ، و «rechtsaf» یعنی راست.",
+    "dialogue_rule_fa": "برای فهم مسیر به فعل‌ها و جهت‌ها توجه کن: ga, sla, loop, steek over.",
+    "extra_example_nl": "Sla linksaf bij het station.",
+    "extra_example_fa": "کنار ایستگاه به چپ بپیچ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی درباره سوار شدن به اتوبوس چیزی گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je blijft hier wachten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je gaat naar links en loopt terug naar het station.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ هر دو کار را درست نشان می‌دهد: چپ و برگشت به ایستگاه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید به خانه بروی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "understanding_basic_directions",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je vraagt de weg. Iemand zegt: 'Ga rechtdoor, steek de straat over en sla linksaf.'",
+    "question_text_nl": "Wat moet je doen?",
+    "question_text_fa": "طبق این راهنمایی چند مرحله‌ای، باید چه کار کنی؟",
+    "explanation_fa": "در توضیح مسیر، «rechtdoor» یعنی مستقیم، «linksaf» یعنی چپ، و «rechtsaf» یعنی راست.",
+    "dialogue_rule_fa": "برای فهم مسیر به فعل‌ها و جهت‌ها توجه کن: ga, sla, loop, steek over.",
+    "extra_example_nl": "Steek de straat over en ga naar rechts.",
+    "extra_example_fa": "از خیابان رد شو و به راست برو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی درباره سوار شدن به اتوبوس چیزی گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je blijft hier wachten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je gaat naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در جمله گفته نشده که باید به خانه بروی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat rechtdoor, steekt over en gaat naar links.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ همه مراحل مسیر را به ترتیب درست نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "street_order_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand zegt: 'Neem de eerste straat rechts.'",
+    "question_text_nl": "Wat moet je doen?",
+    "question_text_fa": "وقتی می‌گوید اولین خیابان سمت راست را بگیر، باید چه کار کنی؟",
+    "explanation_fa": "در مسیرها، «eerste» یعنی اول، «tweede» یعنی دوم و باید به ترتیب جمله توجه کنی.",
+    "dialogue_rule_fa": "برای فهم آدرس، به نشانه‌ها مثل rotonde, stoplicht, brug, kerk و station توجه کن.",
+    "extra_example_nl": "Neem de tweede straat links.",
+    "extra_example_fa": "دومین خیابان سمت چپ را بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je gaat de eerste straat rechts in.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ معنی «اولین خیابان سمت راست» را درست نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je neemt de bus naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "در جمله درباره اتوبوس گفته نشده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je vraagt hoe laat het is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرسیدن ساعت است، نه دنبال کردن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je blijft bij de winkel wachten.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی گفته نشده که باید منتظر بمانی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "street_order_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand zegt: 'Neem de tweede straat links.'",
+    "question_text_nl": "Wat betekent dit?",
+    "question_text_fa": "این جمله یعنی چه کاری باید انجام دهی؟",
+    "explanation_fa": "در مسیرها، «eerste» یعنی اول، «tweede» یعنی دوم و باید به ترتیب جمله توجه کنی.",
+    "dialogue_rule_fa": "برای فهم آدرس، به نشانه‌ها مثل rotonde, stoplicht, brug, kerk و station توجه کن.",
+    "extra_example_nl": "Neem de eerste straat rechts.",
+    "extra_example_fa": "اولین خیابان سمت راست را بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "در جمله درباره اتوبوس گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je gaat bij de tweede straat naar links.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ ترتیب و جهت را درست می‌گوید: دومین خیابان، چپ."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je vraagt hoe laat het is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرسیدن ساعت است، نه دنبال کردن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je blijft bij de winkel wachten.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی گفته نشده که باید منتظر بمانی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "street_order_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je loopt naar het centrum. Iemand zegt: 'Ga bij de rotonde rechts.'",
+    "question_text_nl": "Wat moet je doen?",
+    "question_text_fa": "وقتی به میدان رسیدی، طبق جمله باید چه کار کنی؟",
+    "explanation_fa": "در مسیرها، «eerste» یعنی اول، «tweede» یعنی دوم و باید به ترتیب جمله توجه کنی.",
+    "dialogue_rule_fa": "برای فهم آدرس، به نشانه‌ها مثل rotonde, stoplicht, brug, kerk و station توجه کن.",
+    "extra_example_nl": "Ga bij het stoplicht links.",
+    "extra_example_fa": "کنار چراغ راهنمایی به چپ برو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "در جمله درباره اتوبوس گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je vraagt hoe laat het is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرسیدن ساعت است، نه دنبال کردن مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je gaat bij de rotonde naar rechts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ می‌گوید کنار میدان باید به راست بروی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je blijft bij de winkel wachten.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی گفته نشده که باید منتظر بمانی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "street_order_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand legt uit: 'Sla linksaf bij het stoplicht.'",
+    "question_text_nl": "Welke actie past?",
+    "question_text_fa": "طبق راهنمایی کنار چراغ راهنمایی باید چه کار کنی؟",
+    "explanation_fa": "در مسیرها، «eerste» یعنی اول، «tweede» یعنی دوم و باید به ترتیب جمله توجه کنی.",
+    "dialogue_rule_fa": "برای فهم آدرس، به نشانه‌ها مثل rotonde, stoplicht, brug, kerk و station توجه کن.",
+    "extra_example_nl": "Sla rechtsaf bij de rotonde.",
+    "extra_example_fa": "کنار میدان به راست بپیچ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "در جمله درباره اتوبوس گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je vraagt hoe laat het is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرسیدن ساعت است، نه دنبال کردن مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je blijft bij de winkel wachten.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gaat bij het stoplicht naar links.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ مکان و جهت را درست نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "street_order_directions",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Iemand zegt: 'Ga rechtdoor en sla na de brug rechtsaf.'",
+    "question_text_nl": "Wat moet je doen na de brug?",
+    "question_text_fa": "بعد از پل باید چه کار کنی؟",
+    "explanation_fa": "در مسیرها، «eerste» یعنی اول، «tweede» یعنی دوم و باید به ترتیب جمله توجه کنی.",
+    "dialogue_rule_fa": "برای فهم آدرس، به نشانه‌ها مثل rotonde, stoplicht, brug, kerk و station توجه کن.",
+    "extra_example_nl": "Ga voor de brug naar links.",
+    "extra_example_fa": "قبل از پل به چپ برو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je gaat na de brug naar rechts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ بخش مهم مسیر را درست می‌گوید: بعد از پل به راست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je neemt de bus naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "در جمله درباره اتوبوس گفته نشده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je vraagt hoe laat het is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرسیدن ساعت است، نه دنبال کردن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je blijft bij de winkel wachten.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی گفته نشده که باید منتظر بمانی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "street_order_directions",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zoekt de bibliotheek. Iemand zegt: 'De bibliotheek is voor de kerk.'",
+    "question_text_nl": "Waar is de bibliotheek?",
+    "question_text_fa": "طبق جمله، کتابخانه کجاست؟",
+    "explanation_fa": "در مسیرها، «eerste» یعنی اول، «tweede» یعنی دوم و باید به ترتیب جمله توجه کنی.",
+    "dialogue_rule_fa": "برای فهم آدرس، به نشانه‌ها مثل rotonde, stoplicht, brug, kerk و station توجه کن.",
+    "extra_example_nl": "De bibliotheek is achter het station.",
+    "extra_example_fa": "کتابخانه پشت ایستگاه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "در جمله درباره اتوبوس گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bibliotheek is voor de kerk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ مکان کتابخانه را طبق جمله درست نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je vraagt hoe laat het is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرسیدن ساعت است، نه دنبال کردن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je blijft bij de winkel wachten.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی گفته نشده که باید منتظر بمانی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "street_order_directions",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand zegt: 'De bushalte is achter het station.'",
+    "question_text_nl": "Waar is de bushalte?",
+    "question_text_fa": "طبق جمله، ایستگاه اتوبوس کجاست؟",
+    "explanation_fa": "در مسیرها، «eerste» یعنی اول، «tweede» یعنی دوم و باید به ترتیب جمله توجه کنی.",
+    "dialogue_rule_fa": "برای فهم آدرس، به نشانه‌ها مثل rotonde, stoplicht, brug, kerk و station توجه کن.",
+    "extra_example_nl": "De bushalte is voor de kerk.",
+    "extra_example_fa": "ایستگاه اتوبوس جلوی کلیسا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "در جمله درباره اتوبوس گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je vraagt hoe laat het is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرسیدن ساعت است، نه دنبال کردن مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bushalte is achter het station.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ مکان ایستگاه اتوبوس را درست نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je blijft bij de winkel wachten.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی گفته نشده که باید منتظر بمانی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "street_order_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Iemand zegt: 'Neem de eerste straat links en daarna de tweede straat rechts.'",
+    "question_text_nl": "Welke route is juist?",
+    "question_text_fa": "کدام مسیر با جمله گفته‌شده درست است؟",
+    "explanation_fa": "در مسیرها، «eerste» یعنی اول، «tweede» یعنی دوم و باید به ترتیب جمله توجه کنی.",
+    "dialogue_rule_fa": "برای فهم آدرس، به نشانه‌ها مثل rotonde, stoplicht, brug, kerk و station توجه کن.",
+    "extra_example_nl": "Eerst rechts, daarna de tweede straat links.",
+    "extra_example_fa": "اول راست، بعد دومین خیابان چپ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "در جمله درباره اتوبوس گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je vraagt hoe laat het is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرسیدن ساعت است، نه دنبال کردن مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je blijft bij de winkel wachten.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی گفته نشده که باید منتظر بمانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Eerst links, daarna de tweede straat rechts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ ترتیب مسیر را درست نگه می‌دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "street_order_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand zegt: 'Ga bij de rotonde rechtdoor.'",
+    "question_text_nl": "Wat moet je doen bij de rotonde?",
+    "question_text_fa": "کنار میدان باید چه کار کنی؟",
+    "explanation_fa": "در مسیرها، «eerste» یعنی اول، «tweede» یعنی دوم و باید به ترتیب جمله توجه کنی.",
+    "dialogue_rule_fa": "برای فهم آدرس، به نشانه‌ها مثل rotonde, stoplicht, brug, kerk و station توجه کن.",
+    "extra_example_nl": "Je slaat bij de rotonde linksaf.",
+    "extra_example_fa": "کنار میدان به چپ می‌پیچی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je gaat bij de rotonde rechtdoor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ می‌گوید در میدان مستقیم ادامه بدهی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je neemt de bus naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "در جمله درباره اتوبوس گفته نشده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je vraagt hoe laat het is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرسیدن ساعت است، نه دنبال کردن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je blijft bij de winkel wachten.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی گفته نشده که باید منتظر بمانی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "street_order_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Iemand zegt: 'Loop tot het stoplicht en neem dan de tweede straat links.'",
+    "question_text_nl": "Welke actie past?",
+    "question_text_fa": "طبق مسیر، بعد از رسیدن به چراغ باید چه کار کنی؟",
+    "explanation_fa": "در مسیرها، «eerste» یعنی اول، «tweede» یعنی دوم و باید به ترتیب جمله توجه کنی.",
+    "dialogue_rule_fa": "برای فهم آدرس، به نشانه‌ها مثل rotonde, stoplicht, brug, kerk و station توجه کن.",
+    "extra_example_nl": "Je neemt voor het stoplicht de eerste straat rechts.",
+    "extra_example_fa": "قبل از چراغ اولین خیابان راست را می‌گیری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je neemt de bus naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "در جمله درباره اتوبوس گفته نشده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je neemt na het stoplicht de tweede straat links.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ هم مکان و هم ترتیب خیابان را درست می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je vraagt hoe laat het is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرسیدن ساعت است، نه دنبال کردن مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je blijft bij de winkel wachten.",
+        "is_correct": false,
+        "feedback_fa": "در راهنمایی گفته نشده که باید منتظر بمانی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_distance_time",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten of het station ver is.",
+    "question_text_nl": "Welke vraag past het best?",
+    "question_text_fa": "برای پرسیدن اینکه ایستگاه دور است یا نه، کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن فاصله یا زمان مسیر از جمله‌هایی مثل «Is het ver?» و «Hoe lang duurt het lopen?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای فاصله: Hoe ver is het? / برای زمان: Hoe lang duurt het lopen?",
+    "extra_example_nl": "Hoe ver is het naar het station?",
+    "extra_example_fa": "تا ایستگاه چقدر راه است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه فاصله یا زمان مسیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is het lekker?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خوشمزه بودن است، نه مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het ver?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله کوتاه و طبیعی برای پرسیدن دور بودن مسیر است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Welke kleur is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ است، نه فاصله یا زمان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_distance_time",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt een supermarkt en wilt weten of die dichtbij is.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "دنبال سوپرمارکت هستی و می‌خواهی بدانی نزدیک است یا نه. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن فاصله یا زمان مسیر از جمله‌هایی مثل «Is het ver?» و «Hoe lang duurt het lopen?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای فاصله: Hoe ver is het? / برای زمان: Hoe lang duurt het lopen?",
+    "extra_example_nl": "Is de supermarkt dichtbij?",
+    "extra_example_fa": "آیا سوپرمارکت نزدیک است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه فاصله یا زمان مسیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is het lekker?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خوشمزه بودن است، نه مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Welke kleur is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ است، نه فاصله یا زمان."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is het dichtbij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن نزدیک بودن مکان مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_distance_time",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je gaat naar de bibliotheek en wilt de afstand weten.",
+    "question_text_nl": "Welke vraag past?",
+    "question_text_fa": "می‌خواهی فاصله تا کتابخانه را بدانی. کدام سؤال مناسب است؟",
+    "explanation_fa": "برای پرسیدن فاصله یا زمان مسیر از جمله‌هایی مثل «Is het ver?» و «Hoe lang duurt het lopen?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای فاصله: Hoe ver is het? / برای زمان: Hoe lang duurt het lopen?",
+    "extra_example_nl": "Hoe ver is het lopen?",
+    "extra_example_fa": "پیاده چقدر راه است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe ver is het?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن فاصله مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه فاصله یا زمان مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het lekker?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خوشمزه بودن است، نه مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Welke kleur is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ است، نه فاصله یا زمان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_distance_time",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt lopend naar het station gaan.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی پیاده به ایستگاه بروی. برای مدت زمان چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن فاصله یا زمان مسیر از جمله‌هایی مثل «Is het ver?» و «Hoe lang duurt het lopen?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای فاصله: Hoe ver is het? / برای زمان: Hoe lang duurt het lopen?",
+    "extra_example_nl": "Hoe lang duurt het met de bus?",
+    "extra_example_fa": "با اتوبوس چقدر طول می‌کشد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه فاصله یا زمان مسیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe lang duurt het lopen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله زمان پیاده رفتن را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het lekker?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خوشمزه بودن است، نه مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Welke kleur is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ است، نه فاصله یا زمان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_distance_time",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand zegt dat de apotheek vlakbij is. Je wilt controleren of het vijf minuten lopen is.",
+    "question_text_nl": "Welke vraag past?",
+    "question_text_fa": "کسی می‌گوید داروخانه نزدیک است. می‌خواهی بپرسی آیا پنج دقیقه پیاده است. کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن فاصله یا زمان مسیر از جمله‌هایی مثل «Is het ver?» و «Hoe lang duurt het lopen?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای فاصله: Hoe ver is het? / برای زمان: Hoe lang duurt het lopen?",
+    "extra_example_nl": "Is het tien minuten met de bus?",
+    "extra_example_fa": "آیا با اتوبوس ده دقیقه است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه فاصله یا زمان مسیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is het lekker?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خوشمزه بودن است، نه مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het vijf minuten lopen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مدت زمان پیاده‌روی مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Welke kleur is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ است، نه فاصله یا زمان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_distance_time",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of je naar het park kunt lopen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی می‌توانی پیاده به پارک بروی یا نه. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن فاصله یا زمان مسیر از جمله‌هایی مثل «Is het ver?» و «Hoe lang duurt het lopen?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای فاصله: Hoe ver is het? / برای زمان: Hoe lang duurt het lopen?",
+    "extra_example_nl": "Kan ik hier betalen?",
+    "extra_example_fa": "می‌توانم اینجا پرداخت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه فاصله یا زمان مسیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is het lekker?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خوشمزه بودن است، نه مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Welke kleur is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ است، نه فاصله یا زمان."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik er lopend heen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی «می‌توانم پیاده به آنجا بروم؟» و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_distance_time",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je moet naar de huisarts en wilt weten of het dichtbij is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "برای پرسیدن نزدیک بودن مطب پزشک عمومی، کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن فاصله یا زمان مسیر از جمله‌هایی مثل «Is het ver?» و «Hoe lang duurt het lopen?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای فاصله: Hoe ver is het? / برای زمان: Hoe lang duurt het lopen?",
+    "extra_example_nl": "Is de huisarts open?",
+    "extra_example_fa": "آیا پزشک عمومی باز است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is de huisarts dichtbij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن نزدیک بودن پزشک عمومی مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه فاصله یا زمان مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het lekker?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خوشمزه بودن است، نه مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Welke kleur is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ است، نه فاصله یا زمان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_distance_time",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent nieuw op school en wilt weten hoe lang lopen naar de bibliotheek duurt.",
+    "question_text_nl": "Welke vraag past?",
+    "question_text_fa": "در مدرسه جدید هستی و می‌خواهی بدانی پیاده تا کتابخانه چقدر طول می‌کشد. کدام سؤال مناسب است؟",
+    "explanation_fa": "برای پرسیدن فاصله یا زمان مسیر از جمله‌هایی مثل «Is het ver?» و «Hoe lang duurt het lopen?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای فاصله: Hoe ver is het? / برای زمان: Hoe lang duurt het lopen?",
+    "extra_example_nl": "Waar is de les?",
+    "extra_example_fa": "کلاس کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه فاصله یا زمان مسیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe lang is het lopen naar de bibliotheek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله زمان پیاده‌روی تا کتابخانه را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het lekker?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خوشمزه بودن است، نه مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Welke kleur is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ است، نه فاصله یا زمان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_distance_time",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zoekt het gemeentehuis en wilt de afstand weten.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "دنبال شهرداری هستی و می‌خواهی فاصله را بدانی. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن فاصله یا زمان مسیر از جمله‌هایی مثل «Is het ver?» و «Hoe lang duurt het lopen?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای فاصله: Hoe ver is het? / برای زمان: Hoe lang duurt het lopen?",
+    "extra_example_nl": "Hoe laat gaat het gemeentehuis open?",
+    "extra_example_fa": "شهرداری چه ساعتی باز می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه فاصله یا زمان مسیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is het lekker?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خوشمزه بودن است، نه مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe ver is het naar het gemeentehuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله فاصله تا شهرداری را می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Welke kleur is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ است، نه فاصله یا زمان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "asking_distance_time",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt naar de supermarkt lopen maar je bent moe.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "خسته‌ای و می‌خواهی بدانی سوپرمارکت دور است یا نه. کدام جمله بهتر است؟",
+    "explanation_fa": "برای پرسیدن فاصله یا زمان مسیر از جمله‌هایی مثل «Is het ver?» و «Hoe lang duurt het lopen?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای فاصله: Hoe ver is het? / برای زمان: Hoe lang duurt het lopen?",
+    "extra_example_nl": "Is de supermarkt duur?",
+    "extra_example_fa": "آیا سوپرمارکت گران است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرداخت است، نه فاصله یا زمان مسیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is het lekker?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خوشمزه بودن است، نه مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Welke kleur is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ است، نه فاصله یا زمان."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is de supermarkt ver lopen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن دور بودن مسیر پیاده تا سوپرمارکت مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "public_transport_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat bij een bushalte en wilt naar het centrum.",
+    "question_text_nl": "Welke vraag past het best?",
+    "question_text_fa": "کنار ایستگاه اتوبوس هستی و می‌خواهی به مرکز بروی. کدام سؤال بهتر است؟",
+    "explanation_fa": "برای مسیر با حمل‌ونقل عمومی از bus, halte, overstappen و uitstappen استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر اتوبوس: Welke bus moet ik nemen? / Waar moet ik uitstappen?",
+    "extra_example_nl": "Welke bus gaat naar het centrum?",
+    "extra_example_fa": "کدام اتوبوس به مرکز می‌رود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Welke bus moet ik nemen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن شماره یا نوع اتوبوس مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه حمل‌ونقل عمومی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله فقط درباره بیمارستان است و سؤال اتوبوس یا ایستگاه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره داشتن وقت ملاقات است، نه مسیر با اتوبوس یا ترام."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "public_transport_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent bij het station en zoekt de bushalte.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کنار ایستگاه قطار هستی و دنبال ایستگاه اتوبوس می‌گردی. چه می‌پرسی؟",
+    "explanation_fa": "برای مسیر با حمل‌ونقل عمومی از bus, halte, overstappen و uitstappen استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر اتوبوس: Welke bus moet ik nemen? / Waar moet ik uitstappen?",
+    "extra_example_nl": "Waar is de tramhalte?",
+    "extra_example_fa": "ایستگاه ترام کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه حمل‌ونقل عمومی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de bushalte?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مکان ایستگاه اتوبوس را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله فقط درباره بیمارستان است و سؤال اتوبوس یا ایستگاه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره داشتن وقت ملاقات است، نه مسیر با اتوبوس یا ترام."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "public_transport_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zit in de bus en wilt naar het centrum.",
+    "question_text_nl": "Welke vraag past?",
+    "question_text_fa": "در اتوبوس هستی و می‌خواهی بدانی این اتوبوس به مرکز می‌رود یا نه. کدام جمله مناسب است؟",
+    "explanation_fa": "برای مسیر با حمل‌ونقل عمومی از bus, halte, overstappen و uitstappen استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر اتوبوس: Welke bus moet ik nemen? / Waar moet ik uitstappen?",
+    "extra_example_nl": "Gaat deze trein naar Utrecht?",
+    "extra_example_fa": "آیا این قطار به اوترخت می‌رود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه حمل‌ونقل عمومی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله فقط درباره بیمارستان است و سؤال اتوبوس یا ایستگاه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gaat deze bus naar het centrum?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مسیر این اتوبوس مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره داشتن وقت ملاقات است، نه مسیر با اتوبوس یا ترام."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "public_transport_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je reist naar het ziekenhuis met de bus en weet niet of je moet wisselen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "با اتوبوس به بیمارستان می‌روی و نمی‌دانی باید عوض کنی یا نه. چه می‌پرسی؟",
+    "explanation_fa": "برای مسیر با حمل‌ونقل عمومی از bus, halte, overstappen و uitstappen استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر اتوبوس: Welke bus moet ik nemen? / Waar moet ik uitstappen?",
+    "extra_example_nl": "Moet ik betalen?",
+    "extra_example_fa": "باید پرداخت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه حمل‌ونقل عمومی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله فقط درباره بیمارستان است و سؤال اتوبوس یا ایستگاه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره داشتن وقت ملاقات است، نه مسیر با اتوبوس یا ترام."
+      },
+      {
+        "key": "D",
+        "text_nl": "Moet ik overstappen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی «باید خط/وسیله را عوض کنم؟» و برای حمل‌ونقل مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "public_transport_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent in de bus en weet niet waar je eruit moet.",
+    "question_text_nl": "Welke vraag past het best?",
+    "question_text_fa": "در اتوبوس هستی و نمی‌دانی کجا باید پیاده شوی. کدام سؤال بهتر است؟",
+    "explanation_fa": "برای مسیر با حمل‌ونقل عمومی از bus, halte, overstappen و uitstappen استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر اتوبوس: Welke bus moet ik nemen? / Waar moet ik uitstappen?",
+    "extra_example_nl": "Waar moet ik wachten?",
+    "extra_example_fa": "کجا باید منتظر بمانم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar moet ik uitstappen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن محل پیاده شدن مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه حمل‌ونقل عمومی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله فقط درباره بیمارستان است و سؤال اتوبوس یا ایستگاه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره داشتن وقت ملاقات است، نه مسیر با اتوبوس یا ترام."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "public_transport_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat naast een bus en wilt naar het station.",
+    "question_text_nl": "Wat vraag je aan de chauffeur?",
+    "question_text_fa": "کنار یک اتوبوس هستی و می‌خواهی به ایستگاه قطار بروی. از راننده چه می‌پرسی؟",
+    "explanation_fa": "برای مسیر با حمل‌ونقل عمومی از bus, halte, overstappen و uitstappen استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر اتوبوس: Welke bus moet ik nemen? / Waar moet ik uitstappen?",
+    "extra_example_nl": "Is dit de winkel naar het station?",
+    "extra_example_fa": "این جمله از نظر معنی طبیعی نیست؛ فروشگاه به ایستگاه نمی‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه حمل‌ونقل عمومی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is dit de bus naar het station?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن اینکه آیا این اتوبوس به ایستگاه می‌رود مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله فقط درباره بیمارستان است و سؤال اتوبوس یا ایستگاه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره داشتن وقت ملاقات است، نه مسیر با اتوبوس یا ترام."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "public_transport_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt met de bus naar de apotheek in het centrum.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی با اتوبوس به داروخانه مرکز شهر بروی. کدام سؤال بهتر است؟",
+    "explanation_fa": "برای مسیر با حمل‌ونقل عمومی از bus, halte, overstappen و uitstappen استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر اتوبوس: Welke bus moet ik nemen? / Waar moet ik uitstappen?",
+    "extra_example_nl": "Welke straat is duur?",
+    "extra_example_fa": "کدام خیابان گران است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه حمل‌ونقل عمومی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله فقط درباره بیمارستان است و سؤال اتوبوس یا ایستگاه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Welke bus gaat naar het centrum?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این سؤال برای پیدا کردن اتوبوس مناسب به سمت مرکز است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره داشتن وقت ملاقات است، نه مسیر با اتوبوس یا ترام."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "public_transport_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent bij de bushalte. De bus komt eraan en je twijfelt.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کنار ایستگاه اتوبوس هستی و شک داری اتوبوس درست است یا نه. چه می‌گویی؟",
+    "explanation_fa": "برای مسیر با حمل‌ونقل عمومی از bus, halte, overstappen و uitstappen استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر اتوبوس: Welke bus moet ik nemen? / Waar moet ik uitstappen?",
+    "extra_example_nl": "Is de bibliotheek vandaag gesloten?",
+    "extra_example_fa": "آیا کتابخانه امروز بسته است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه حمل‌ونقل عمومی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله فقط درباره بیمارستان است و سؤال اتوبوس یا ایستگاه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره داشتن وقت ملاقات است، نه مسیر با اتوبوس یا ترام."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gaat deze bus naar de bibliotheek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مسیر همین اتوبوس را به مقصد کتابخانه می‌پرسد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "public_transport_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je moet naar het ziekenhuis. Iemand zegt dat je bus 5 moet nemen en bij het station moet overstappen.",
+    "question_text_nl": "Welke vraag past om meer duidelijkheid te krijgen?",
+    "question_text_fa": "باید به بیمارستان بروی و گفته‌اند اتوبوس 5 بگیر و کنار ایستگاه عوض کنی. برای روشن‌تر شدن مسیر چه می‌پرسی؟",
+    "explanation_fa": "برای مسیر با حمل‌ونقل عمومی از bus, halte, overstappen و uitstappen استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر اتوبوس: Welke bus moet ik nemen? / Waar moet ik uitstappen?",
+    "extra_example_nl": "Waar kan ik koffie drinken?",
+    "extra_example_fa": "کجا می‌توانم قهوه بنوشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar moet ik overstappen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این سؤال دقیقاً محل تعویض اتوبوس را می‌پرسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه حمل‌ونقل عمومی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله فقط درباره بیمارستان است و سؤال اتوبوس یا ایستگاه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره داشتن وقت ملاقات است، نه مسیر با اتوبوس یا ترام."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "public_transport_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent in de tram en wilt bij het gemeentehuis uitstappen.",
+    "question_text_nl": "Welke vraag is goed?",
+    "question_text_fa": "در ترام هستی و می‌خواهی کنار شهرداری پیاده شوی. کدام سؤال درست است؟",
+    "explanation_fa": "برای مسیر با حمل‌ونقل عمومی از bus, halte, overstappen و uitstappen استفاده می‌کنیم.",
+    "dialogue_rule_fa": "برای پرسیدن مسیر اتوبوس: Welke bus moet ik nemen? / Waar moet ik uitstappen?",
+    "extra_example_nl": "Waar is mijn tas?",
+    "extra_example_fa": "کیف من کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است، نه حمل‌ونقل عمومی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar moet ik uitstappen voor het gemeentehuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله محل پیاده شدن برای شهرداری را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله فقط درباره بیمارستان است و سؤال اتوبوس یا ایستگاه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره داشتن وقت ملاقات است، نه مسیر با اتوبوس یا ترام."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "clarification_repeat_slowly",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand legt de route uit, maar je hoort het niet goed.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کسی مسیر را توضیح می‌دهد اما خوب نمی‌شنوی. چه می‌گویی؟",
+    "explanation_fa": "وقتی مسیر را نمی‌فهمی، مؤدبانه درخواست تکرار، آهسته‌تر گفتن یا توضیح دقیق‌تر کن.",
+    "dialogue_rule_fa": "برای درخواست تکرار: Kunt u dat herhalen? / برای آهسته‌تر: Kunt u langzamer praten?",
+    "extra_example_nl": "Kunt u dat alstublieft herhalen?",
+    "extra_example_fa": "می‌توانید لطفاً آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر است، نه درخواست تکرار یا توضیح بیشتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید اتوبوس می‌گیری، اما درخواست تکرار نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست تکرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره باز بودن سوپرمارکت است، نه اینکه مسیر را نفهمیده‌ای."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "clarification_repeat_slowly",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand praat snel en je begrijpt de route niet.",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "کسی سریع حرف می‌زند و مسیر را نمی‌فهمی. کدام جمله بهتر است؟",
+    "explanation_fa": "وقتی مسیر را نمی‌فهمی، مؤدبانه درخواست تکرار، آهسته‌تر گفتن یا توضیح دقیق‌تر کن.",
+    "dialogue_rule_fa": "برای درخواست تکرار: Kunt u dat herhalen? / برای آهسته‌تر: Kunt u langzamer praten?",
+    "extra_example_nl": "Kunt u iets langzamer praten?",
+    "extra_example_fa": "می‌توانید کمی آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر است، نه درخواست تکرار یا توضیح بیشتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید اتوبوس می‌گیری، اما درخواست تکرار نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره باز بودن سوپرمارکت است، نه اینکه مسیر را نفهمیده‌ای."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u langzamer praten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست آهسته‌تر صحبت کردن مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "clarification_repeat_slowly",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand zegt veel informatie over de route. Jij begrijpt het niet.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کسی اطلاعات زیادی درباره مسیر می‌دهد و تو متوجه نمی‌شوی. چه می‌گویی؟",
+    "explanation_fa": "وقتی مسیر را نمی‌فهمی، مؤدبانه درخواست تکرار، آهسته‌تر گفتن یا توضیح دقیق‌تر کن.",
+    "dialogue_rule_fa": "برای درخواست تکرار: Kunt u dat herhalen? / برای آهسته‌تر: Kunt u langzamer praten?",
+    "extra_example_nl": "Sorry, ik begrijp de route niet.",
+    "extra_example_fa": "ببخشید، مسیر را متوجه نمی‌شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik begrijp het niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله واضح می‌گوید که متوجه نشده‌ای."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر است، نه درخواست تکرار یا توضیح بیشتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید اتوبوس می‌گیری، اما درخواست تکرار نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره باز بودن سوپرمارکت است، نه اینکه مسیر را نفهمیده‌ای."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "clarification_repeat_slowly",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je moet een adres onthouden, maar het is moeilijk.",
+    "question_text_nl": "Welke vraag past?",
+    "question_text_fa": "باید یک آدرس را به خاطر بسپاری اما سخت است. کدام سؤال مناسب است؟",
+    "explanation_fa": "وقتی مسیر را نمی‌فهمی، مؤدبانه درخواست تکرار، آهسته‌تر گفتن یا توضیح دقیق‌تر کن.",
+    "dialogue_rule_fa": "برای درخواست تکرار: Kunt u dat herhalen? / برای آهسته‌تر: Kunt u langzamer praten?",
+    "extra_example_nl": "Kunt u het adres opschrijven?",
+    "extra_example_fa": "می‌توانید آدرس را بنویسید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر است، نه درخواست تکرار یا توضیح بیشتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u het opschrijven?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست نوشتن آدرس یا مسیر مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید اتوبوس می‌گیری، اما درخواست تکرار نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره باز بودن سوپرمارکت است، نه اینکه مسیر را نفهمیده‌ای."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "clarification_repeat_slowly",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand zegt snel: 'links... rechts...' Je twijfelt.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کسی سریع می‌گوید چپ و راست، و تو شک داری. چه می‌پرسی؟",
+    "explanation_fa": "وقتی مسیر را نمی‌فهمی، مؤدبانه درخواست تکرار، آهسته‌تر گفتن یا توضیح دقیق‌تر کن.",
+    "dialogue_rule_fa": "برای درخواست تکرار: Kunt u dat herhalen? / برای آهسته‌تر: Kunt u langzamer praten?",
+    "extra_example_nl": "Bedoelt u de eerste straat?",
+    "extra_example_fa": "منظورتان خیابان اول است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر است، نه درخواست تکرار یا توضیح بیشتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید اتوبوس می‌گیری، اما درخواست تکرار نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bedoelt u links of rechts?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای روشن کردن جهت چپ یا راست مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره باز بودن سوپرمارکت است، نه اینکه مسیر را نفهمیده‌ای."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "clarification_repeat_slowly",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Iemand zegt: 'Daarheen, voorbij de kerk.' Je weet niet precies waarheen.",
+    "question_text_nl": "Welke vraag past het best?",
+    "question_text_fa": "کسی می‌گوید «آن طرف، بعد از کلیسا» اما دقیق نمی‌دانی کجا. کدام سؤال بهتر است؟",
+    "explanation_fa": "وقتی مسیر را نمی‌فهمی، مؤدبانه درخواست تکرار، آهسته‌تر گفتن یا توضیح دقیق‌تر کن.",
+    "dialogue_rule_fa": "برای درخواست تکرار: Kunt u dat herhalen? / برای آهسته‌تر: Kunt u langzamer praten?",
+    "extra_example_nl": "Waar is het precies?",
+    "extra_example_fa": "دقیقاً کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر است، نه درخواست تکرار یا توضیح بیشتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید اتوبوس می‌گیری، اما درخواست تکرار نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره باز بودن سوپرمارکت است، نه اینکه مسیر را نفهمیده‌ای."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet ik precies heen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست توضیح دقیق‌تر مسیر مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "clarification_repeat_slowly",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hoort: 'Neem de tweede straat...' maar je weet de rest niet.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌شنوی «دومین خیابان را بگیر...» اما بقیه را نمی‌دانی. چه می‌گویی؟",
+    "explanation_fa": "وقتی مسیر را نمی‌فهمی، مؤدبانه درخواست تکرار، آهسته‌تر گفتن یا توضیح دقیق‌تر کن.",
+    "dialogue_rule_fa": "برای درخواست تکرار: Kunt u dat herhalen? / برای آهسته‌تر: Kunt u langzamer praten?",
+    "extra_example_nl": "Kunt u de route nog een keer zeggen?",
+    "extra_example_fa": "می‌توانید مسیر را یک بار دیگر بگویید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat nog een keer zeggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تکرار دوباره توضیح مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر است، نه درخواست تکرار یا توضیح بیشتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید اتوبوس می‌گیری، اما درخواست تکرار نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره باز بودن سوپرمارکت است، نه اینکه مسیر را نفهمیده‌ای."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "clarification_repeat_slowly",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De buschauffeur legt de route uit, maar je begrijpt het niet.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "راننده اتوبوس مسیر را توضیح می‌دهد اما متوجه نمی‌شوی. کدام جمله مناسب است؟",
+    "explanation_fa": "وقتی مسیر را نمی‌فهمی، مؤدبانه درخواست تکرار، آهسته‌تر گفتن یا توضیح دقیق‌تر کن.",
+    "dialogue_rule_fa": "برای درخواست تکرار: Kunt u dat herhalen? / برای آهسته‌تر: Kunt u langzamer praten?",
+    "extra_example_nl": "Waar moet ik precies uitstappen?",
+    "extra_example_fa": "دقیقاً کجا باید پیاده شوم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر است، نه درخواست تکرار یا توضیح بیشتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, waar moet ik uitstappen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در زمینه اتوبوس درخواست روشن شدن محل پیاده شدن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید اتوبوس می‌گیری، اما درخواست تکرار نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره باز بودن سوپرمارکت است، نه اینکه مسیر را نفهمیده‌ای."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "clarification_repeat_slowly",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Iemand zegt: 'Eerste straat rechts, dan links.' Jij wilt het zeker weten.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کسی می‌گوید اول راست، بعد چپ. می‌خواهی مطمئن شوی. چه می‌پرسی؟",
+    "explanation_fa": "وقتی مسیر را نمی‌فهمی، مؤدبانه درخواست تکرار، آهسته‌تر گفتن یا توضیح دقیق‌تر کن.",
+    "dialogue_rule_fa": "برای درخواست تکرار: Kunt u dat herhalen? / برای آهسته‌تر: Kunt u langzamer praten?",
+    "extra_example_nl": "Dus eerst rechtdoor en dan rechts?",
+    "extra_example_fa": "پس اول مستقیم و بعد راست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر است، نه درخواست تکرار یا توضیح بیشتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید اتوبوس می‌گیری، اما درخواست تکرار نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dus eerst rechts en dan links?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید فهم مسیر مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره باز بودن سوپرمارکت است، نه اینکه مسیر را نفهمیده‌ای."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "clarification_repeat_slowly",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begrijpt een woord in de route niet.",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "یک کلمه در توضیح مسیر را نمی‌فهمی. کدام جمله بهتر است؟",
+    "explanation_fa": "وقتی مسیر را نمی‌فهمی، مؤدبانه درخواست تکرار، آهسته‌تر گفتن یا توضیح دقیق‌تر کن.",
+    "dialogue_rule_fa": "برای درخواست تکرار: Kunt u dat herhalen? / برای آهسته‌تر: Kunt u langzamer praten?",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر است، نه درخواست تکرار یا توضیح بیشتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید اتوبوس می‌گیری، اما درخواست تکرار نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره باز بودن سوپرمارکت است، نه اینکه مسیر را نفهمیده‌ای."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat betekent dat?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن معنی یک کلمه در مکالمه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "thanking_closing_dialogue",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand heeft je de route naar het station uitgelegd.",
+    "question_text_nl": "Wat zeg je aan het einde?",
+    "question_text_fa": "کسی مسیر ایستگاه را توضیح داده است. در پایان چه می‌گویی؟",
+    "explanation_fa": "بعد از گرفتن کمک یا توضیح مسیر، با جمله‌هایی مثل «Dank u wel» یا «Bedankt voor uw hulp» تشکر می‌کنیم.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Dank u wel / Bedankt / Fijne dag nog.",
+    "extra_example_nl": "Dank u wel, fijne dag nog!",
+    "extra_example_fa": "خیلی ممنون، روز خوبی داشته باشید!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله تشکر ساده و مؤدبانه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان است، نه پایان مکالمه با تشکر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sla linksaf.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستور مسیر است، نه تشکر یا خداحافظی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست توضیح بیشتر است، نه پایان مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "thanking_closing_dialogue",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Iemand helpt je de apotheek te vinden.",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "کسی کمک می‌کند داروخانه را پیدا کنی. کدام جمله برای پایان بهتر است؟",
+    "explanation_fa": "بعد از گرفتن کمک یا توضیح مسیر، با جمله‌هایی مثل «Dank u wel» یا «Bedankt voor uw hulp» تشکر می‌کنیم.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Dank u wel / Bedankt / Fijne dag nog.",
+    "extra_example_nl": "Bedankt voor de uitleg.",
+    "extra_example_fa": "ممنون بابت توضیح.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان است، نه پایان مکالمه با تشکر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bedankt voor uw hulp.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تشکر از کمک طرف مقابل مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sla linksaf.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستور مسیر است، نه تشکر یا خداحافظی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست توضیح بیشتر است، نه پایان مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "thanking_closing_dialogue",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Een persoon vertelt waar de huisarts is.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کسی می‌گوید پزشک عمومی کجاست. چه می‌گویی؟",
+    "explanation_fa": "بعد از گرفتن کمک یا توضیح مسیر، با جمله‌هایی مثل «Dank u wel» یا «Bedankt voor uw hulp» تشکر می‌کنیم.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Dank u wel / Bedankt / Fijne dag nog.",
+    "extra_example_nl": "Heel erg bedankt voor uw hulp.",
+    "extra_example_fa": "خیلی ممنون بابت کمکتان.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان است، نه پایان مکالمه با تشکر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sla linksaf.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستور مسیر است، نه تشکر یا خداحافظی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heel erg bedankt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله تشکر گرم و طبیعی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست توضیح بیشتر است، نه پایان مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "thanking_closing_dialogue",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt de route begrepen en wilt het gesprek netjes afsluiten.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "مسیر را فهمیده‌ای و می‌خواهی مکالمه را محترمانه تمام کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "بعد از گرفتن کمک یا توضیح مسیر، با جمله‌هایی مثل «Dank u wel» یا «Bedankt voor uw hulp» تشکر می‌کنیم.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Dank u wel / Bedankt / Fijne dag nog.",
+    "extra_example_nl": "Nog een fijne dag!",
+    "extra_example_fa": "روز خوبی داشته باشید!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان است، نه پایان مکالمه با تشکر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sla linksaf.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستور مسیر است، نه تشکر یا خداحافظی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست توضیح بیشتر است، نه پایان مکالمه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijne dag nog.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پایان مؤدبانه مکالمه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "thanking_closing_dialogue",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand legt uit: 'Ga rechtdoor en sla linksaf.' Jij begrijpt het nu.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کسی مسیر را توضیح داده و الان فهمیده‌ای. چه می‌گویی؟",
+    "explanation_fa": "بعد از گرفتن کمک یا توضیح مسیر، با جمله‌هایی مثل «Dank u wel» یا «Bedankt voor uw hulp» تشکر می‌کنیم.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Dank u wel / Bedankt / Fijne dag nog.",
+    "extra_example_nl": "Dat begrijp ik, bedankt.",
+    "extra_example_fa": "متوجه شدم، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is duidelijk, dank u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله هم می‌گوید مسیر روشن است و هم تشکر می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان است، نه پایان مکالمه با تشکر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sla linksaf.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستور مسیر است، نه تشکر یا خداحافظی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست توضیح بیشتر است، نه پایان مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "thanking_closing_dialogue",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Jij helpt iemand anders met de route. De persoon zegt: 'Dank u wel.'",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "تو به کسی مسیر را گفته‌ای و او می‌گوید ممنون. چه جوابی می‌دهی؟",
+    "explanation_fa": "بعد از گرفتن کمک یا توضیح مسیر، با جمله‌هایی مثل «Dank u wel» یا «Bedankt voor uw hulp» تشکر می‌کنیم.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Dank u wel / Bedankt / Fijne dag nog.",
+    "extra_example_nl": "Graag gedaan.",
+    "extra_example_fa": "خواهش می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان است، نه پایان مکالمه با تشکر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geen probleem.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ طبیعی به تشکر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sla linksaf.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستور مسیر است، نه تشکر یا خداحافظی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست توضیح بیشتر است، نه پایان مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "thanking_closing_dialogue",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De chauffeur zegt waar je moet uitstappen. Je wilt bedanken.",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "راننده می‌گوید کجا باید پیاده شوی. برای تشکر چه می‌گویی؟",
+    "explanation_fa": "بعد از گرفتن کمک یا توضیح مسیر، با جمله‌هایی مثل «Dank u wel» یا «Bedankt voor uw hulp» تشکر می‌کنیم.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Dank u wel / Bedankt / Fijne dag nog.",
+    "extra_example_nl": "Bedankt, ik stap daar uit.",
+    "extra_example_fa": "ممنون، آنجا پیاده می‌شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان است، نه پایان مکالمه با تشکر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sla linksaf.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستور مسیر است، نه تشکر یا خداحافظی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bedankt, dat helpt mij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله تشکر می‌کند و می‌گوید توضیح کمک‌کننده بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست توضیح بیشتر است، نه پایان مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "thanking_closing_dialogue",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Een vrouw wijst je de weg naar de supermarkt.",
+    "question_text_nl": "Wat zeg je aan het einde?",
+    "question_text_fa": "یک خانم مسیر سوپرمارکت را نشان می‌دهد. در پایان چه می‌گویی؟",
+    "explanation_fa": "بعد از گرفتن کمک یا توضیح مسیر، با جمله‌هایی مثل «Dank u wel» یا «Bedankt voor uw hulp» تشکر می‌کنیم.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Dank u wel / Bedankt / Fijne dag nog.",
+    "extra_example_nl": "Dank u en tot ziens.",
+    "extra_example_fa": "ممنون و خداحافظ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان است، نه پایان مکالمه با تشکر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sla linksaf.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستور مسیر است، نه تشکر یا خداحافظی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست توضیح بیشتر است، نه پایان مکالمه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dank u, fijne dag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله هم تشکر است و هم پایان محترمانه مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "thanking_closing_dialogue",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand helpt je in het centrum. Je wilt vriendelijk afsluiten.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "کسی در مرکز شهر به تو کمک کرده است. برای پایان دوستانه چه می‌گویی؟",
+    "explanation_fa": "بعد از گرفتن کمک یا توضیح مسیر، با جمله‌هایی مثل «Dank u wel» یا «Bedankt voor uw hulp» تشکر می‌کنیم.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Dank u wel / Bedankt / Fijne dag nog.",
+    "extra_example_nl": "Bedankt, ik ga nu.",
+    "extra_example_fa": "ممنون، الان می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heel erg bedankt, fijne dag nog.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پایان دوستانه و مؤدبانه بسیار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان است، نه پایان مکالمه با تشکر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sla linksaf.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستور مسیر است، نه تشکر یا خداحافظی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست توضیح بیشتر است، نه پایان مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "thanking_closing_dialogue",
+    "life_context": "public_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Een medewerker vertelt waar de ingang van het gemeentehuis is.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک کارمند می‌گوید ورودی شهرداری کجاست. چه می‌گویی؟",
+    "explanation_fa": "بعد از گرفتن کمک یا توضیح مسیر، با جمله‌هایی مثل «Dank u wel» یا «Bedankt voor uw hulp» تشکر می‌کنیم.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Dank u wel / Bedankt / Fijne dag nog.",
+    "extra_example_nl": "Bedankt voor uw tijd.",
+    "extra_example_fa": "ممنون بابت وقتتان.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de apotheek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان است، نه پایان مکالمه با تشکر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dank u wel voor de uitleg.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تشکر از توضیح مسیر مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sla linksaf.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستور مسیر است، نه تشکر یا خداحافظی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست توضیح بیشتر است، نه پایان مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "choosing_best_dialogue_response",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Excuseer, weet u waar het station is?\nB: ___\nA: Dank u wel.",
+    "question_text_nl": "Kies het beste antwoord van B.",
+    "question_text_fa": "در این مکالمه، بهترین پاسخ B چیست؟",
+    "explanation_fa": "در مکالمه باید به سؤال قبل و بعد از جای خالی توجه کنی تا پاسخ طبیعی را انتخاب کنی.",
+    "dialogue_rule_fa": "در dialogue، پاسخ باید با سؤال هماهنگ باشد: مسیر، مکان، تشکر یا درخواست تکرار.",
+    "extra_example_nl": "A: Waar is de apotheek?\nB: Ga rechtdoor en sla rechtsaf.",
+    "extra_example_fa": "الف: داروخانه کجاست؟ ب: مستقیم برو و به راست بپیچ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و به مکالمه مسیر جواب نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag is het zondag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است و پاسخ مناسبی به سؤال مسیر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, ga rechtdoor en sla linksaf.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ مسیر ایستگاه را ساده و مناسب توضیح می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik woon in Amsterdam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی است، نه پاسخ مسیر یا ادامه مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "choosing_best_dialogue_response",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Sorry, waar is de apotheek?\nB: ___\nA: Bedankt.",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "در این مکالمه، کدام جمله برای B مناسب است؟",
+    "explanation_fa": "در مکالمه باید به سؤال قبل و بعد از جای خالی توجه کنی تا پاسخ طبیعی را انتخاب کنی.",
+    "dialogue_rule_fa": "در dialogue، پاسخ باید با سؤال هماهنگ باشد: مسیر، مکان، تشکر یا درخواست تکرار.",
+    "extra_example_nl": "A: Waar is de huisarts?\nB: De huisarts is achter het station.",
+    "extra_example_fa": "الف: پزشک عمومی کجاست؟ ب: پزشک عمومی پشت ایستگاه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و به مکالمه مسیر جواب نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag is het zondag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است و پاسخ مناسبی به سؤال مسیر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik woon in Amsterdam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی است، نه پاسخ مسیر یا ادامه مکالمه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De apotheek is naast de supermarkt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ مکان داروخانه را مشخص می‌کند و به سؤال جواب می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "choosing_best_dialogue_response",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Excuseer, hoe kom ik bij de supermarkt?\nB: ___\nA: Dank u.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "برای پاسخ به سؤال مسیر سوپرمارکت، کدام جمله بهتر است؟",
+    "explanation_fa": "در مکالمه باید به سؤال قبل و بعد از جای خالی توجه کنی تا پاسخ طبیعی را انتخاب کنی.",
+    "dialogue_rule_fa": "در dialogue، پاسخ باید با سؤال هماهنگ باشد: مسیر، مکان، تشکر یا درخواست تکرار.",
+    "extra_example_nl": "A: Hoe kom ik bij de winkel?\nB: Neem de tweede straat links.",
+    "extra_example_fa": "الف: چطور به فروشگاه برسم؟ ب: دومین خیابان چپ را بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ga rechtdoor en neem de eerste straat rechts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یک مسیر ساده و واضح به سوپرمارکت می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و به مکالمه مسیر جواب نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag is het zondag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است و پاسخ مناسبی به سؤال مسیر نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik woon in Amsterdam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی است، نه پاسخ مسیر یا ادامه مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "choosing_best_dialogue_response",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Gaat deze bus naar het centrum?\nB: ___\nA: Oké, bedankt.",
+    "question_text_nl": "Wat is het beste antwoord?",
+    "question_text_fa": "در این مکالمه حمل‌ونقل، بهترین پاسخ چیست؟",
+    "explanation_fa": "در مکالمه باید به سؤال قبل و بعد از جای خالی توجه کنی تا پاسخ طبیعی را انتخاب کنی.",
+    "dialogue_rule_fa": "در dialogue، پاسخ باید با سؤال هماهنگ باشد: مسیر، مکان، تشکر یا درخواست تکرار.",
+    "extra_example_nl": "A: Is dit de bus naar het station?\nB: Ja, stap hier in.",
+    "extra_example_fa": "الف: این اتوبوس به ایستگاه می‌رود؟ ب: بله، اینجا سوار شو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و به مکالمه مسیر جواب نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, deze bus gaat naar het centrum.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ دقیقاً به سؤال درباره مسیر اتوبوس جواب می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag is het zondag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است و پاسخ مناسبی به سؤال مسیر نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik woon in Amsterdam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی است، نه پاسخ مسیر یا ادامه مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "choosing_best_dialogue_response",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Excuseer, hoe kom ik bij de bibliotheek?\nB: Ga rechtdoor en neem de tweede straat links.\nA: ___",
+    "question_text_nl": "Kies de beste reactie van A.",
+    "question_text_fa": "A مسیر را شنیده اما می‌خواهد مؤدبانه واکنش نشان دهد. بهترین جمله چیست؟",
+    "explanation_fa": "در مکالمه باید به سؤال قبل و بعد از جای خالی توجه کنی تا پاسخ طبیعی را انتخاب کنی.",
+    "dialogue_rule_fa": "در dialogue، پاسخ باید با سؤال هماهنگ باشد: مسیر، مکان، تشکر یا درخواست تکرار.",
+    "extra_example_nl": "A: Bedankt voor de uitleg.\nB: Geen probleem.",
+    "extra_example_fa": "الف: ممنون بابت توضیح. ب: خواهش می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و به مکالمه مسیر جواب نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag is het zondag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است و پاسخ مناسبی به سؤال مسیر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dank u wel voor uw hulp.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پایان مناسب بعد از گرفتن مسیر است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik woon in Amsterdam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی است، نه پاسخ مسیر یا ادامه مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "choosing_best_dialogue_response",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Neem de eerste straat rechts en dan links.\nB: ___\nA: Ja, precies.",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "B می‌خواهد مطمئن شود مسیر را درست فهمیده است. کدام جمله بهتر است؟",
+    "explanation_fa": "در مکالمه باید به سؤال قبل و بعد از جای خالی توجه کنی تا پاسخ طبیعی را انتخاب کنی.",
+    "dialogue_rule_fa": "در dialogue، پاسخ باید با سؤال هماهنگ باشد: مسیر، مکان، تشکر یا درخواست تکرار.",
+    "extra_example_nl": "Dus eerst links en dan rechts?",
+    "extra_example_fa": "پس اول چپ و بعد راست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و به مکالمه مسیر جواب نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag is het zondag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است و پاسخ مناسبی به سؤال مسیر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik woon in Amsterdam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی است، نه پاسخ مسیر یا ادامه مکالمه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus eerst rechts en dan links?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید فهم مسیر مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "choosing_best_dialogue_response",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Waar moet ik uitstappen voor het ziekenhuis?\nB: ___\nA: Bedankt.",
+    "question_text_nl": "Kies het beste antwoord van B.",
+    "question_text_fa": "A می‌خواهد بداند برای بیمارستان کجا پیاده شود. پاسخ درست چیست؟",
+    "explanation_fa": "در مکالمه باید به سؤال قبل و بعد از جای خالی توجه کنی تا پاسخ طبیعی را انتخاب کنی.",
+    "dialogue_rule_fa": "در dialogue، پاسخ باید با سؤال هماهنگ باشد: مسیر، مکان، تشکر یا درخواست تکرار.",
+    "extra_example_nl": "Stap uit bij de halte ziekenhuis.",
+    "extra_example_fa": "کنار ایستگاه بیمارستان پیاده شوید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U moet bij de volgende halte uitstappen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ محل پیاده شدن را واضح می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و به مکالمه مسیر جواب نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag is het zondag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است و پاسخ مناسبی به سؤال مسیر نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik woon in Amsterdam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی است، نه پاسخ مسیر یا ادامه مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "choosing_best_dialogue_response",
+    "life_context": "city_center",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Is het ver naar het centrum?\nB: ___\nA: Mooi, dank u.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "A درباره دور بودن مسیر تا مرکز شهر می‌پرسد. کدام پاسخ مناسب است؟",
+    "explanation_fa": "در مکالمه باید به سؤال قبل و بعد از جای خالی توجه کنی تا پاسخ طبیعی را انتخاب کنی.",
+    "dialogue_rule_fa": "در dialogue، پاسخ باید با سؤال هماهنگ باشد: مسیر، مکان، تشکر یا درخواست تکرار.",
+    "extra_example_nl": "Ja, het is tien minuten met de bus.",
+    "extra_example_fa": "بله، با اتوبوس ده دقیقه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و به مکالمه مسیر جواب نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, het is vijf minuten lopen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ هم می‌گوید دور نیست و هم زمان پیاده‌روی را می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag is het zondag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است و پاسخ مناسبی به سؤال مسیر نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik woon in Amsterdam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی است، نه پاسخ مسیر یا ادامه مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "choosing_best_dialogue_response",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Ga rechtdoor, bij de kerk links en dan rechts.\nB: Sorry, ___.\nA: Natuurlijk.",
+    "question_text_nl": "Kies de beste zin voor B.",
+    "question_text_fa": "B مسیر را نفهمیده و باید چه بگوید؟",
+    "explanation_fa": "در مکالمه باید به سؤال قبل و بعد از جای خالی توجه کنی تا پاسخ طبیعی را انتخاب کنی.",
+    "dialogue_rule_fa": "در dialogue، پاسخ باید با سؤال هماهنگ باشد: مسیر، مکان، تشکر یا درخواست تکرار.",
+    "extra_example_nl": "Kunt u langzamer praten?",
+    "extra_example_fa": "می‌توانید آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و به مکالمه مسیر جواب نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag is het zondag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است و پاسخ مناسبی به سؤال مسیر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "kunt u dat herhalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست تکرار مسیر مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik woon in Amsterdam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی است، نه پاسخ مسیر یا ادامه مکالمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "asking_directions",
+    "subtopic": "choosing_best_dialogue_response",
+    "life_context": "public_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Excuseer, waar is de ingang van het gemeentehuis?\nB: ___\nA: Dank u wel.",
+    "question_text_nl": "Wat is het beste antwoord?",
+    "question_text_fa": "A دنبال ورودی شهرداری است. بهترین پاسخ B چیست؟",
+    "explanation_fa": "در مکالمه باید به سؤال قبل و بعد از جای خالی توجه کنی تا پاسخ طبیعی را انتخاب کنی.",
+    "dialogue_rule_fa": "در dialogue، پاسخ باید با سؤال هماهنگ باشد: مسیر، مکان، تشکر یا درخواست تکرار.",
+    "extra_example_nl": "De uitgang is links.",
+    "extra_example_fa": "خروجی سمت چپ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره قهوه است و به مکالمه مسیر جواب نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag is het zondag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره روز هفته است و پاسخ مناسبی به سؤال مسیر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik woon in Amsterdam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل زندگی است، نه پاسخ مسیر یا ادامه مکالمه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De ingang is aan de rechterkant.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ مکان ورودی را واضح می‌گوید."
+      }
+    ]
+  }
+]

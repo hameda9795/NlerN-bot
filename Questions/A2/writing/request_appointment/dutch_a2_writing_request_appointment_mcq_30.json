@@ -1,0 +1,512 @@
+[
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_time", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی برای معاینه‌ی سالانه با دکتر خانواده‌ات وقت بگیری. باید پیام کوتاهی بنویسی که وقت می‌خواهی.",
+    "question_text_nl": "Je wilt een afspraak maken bij de huisarts voor een jaarlijkse controle.",
+    "question_text_fa": "کدام جمله برای درخواست وقت ملاقات بهتر است؟",
+    "explanation_fa": "برای گرفتن وقت، باید دلیل و درخواست وقت را ساده و روشن بنویسی.",
+    "grammar_rule_fa": "از «Ik wil graag een afspraak maken voor...» استفاده کن.",
+    "extra_example_nl": "Ik wil graag een afspraak maken voor een controle.",
+    "extra_example_fa": "می‌خواهم برای معاینه وقت بگیرم.",
+    "options": [
+      { "key": "A", "text_nl": "Goedemiddag, ik wil graag een afspraak maken voor een jaarlijkse controle.", "is_correct": true, "feedback_fa": "✅ درست؛ مؤدبانه است و دلیل درخواست روشن است." },
+      { "key": "B", "text_nl": "Ik ben altijd gezond.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "C", "text_nl": "Wanneer bent u jarig?", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik kom wel een keer langs.", "is_correct": false, "feedback_fa": "این جمله خیلی مبهم است و درخواست روشنی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_time", "life_context": "dentist",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی برای وارسی دندان‌هایت وقت دندان‌پزشکی بگیری.",
+    "question_text_nl": "Je wilt een afspraak maken bij de tandarts voor controle.",
+    "question_text_fa": "کدام جمله برای درخواست وقت ملاقات بهتر است؟",
+    "explanation_fa": "برای گرفتن وقت دندان‌پزشکی، دلیل و درخواست را ساده بنویس.",
+    "grammar_rule_fa": "از «Ik wil graag een afspraak maken bij de tandarts» استفاده کن.",
+    "extra_example_nl": "Ik wil graag een afspraak maken bij de tandarts voor controle.",
+    "extra_example_fa": "می‌خواهم برای معاینه‌ی دندان وقت بگیرم.",
+    "options": [
+      { "key": "A", "text_nl": "Goedendag, ik wil graag een afspraak maken voor controle bij de tandarts.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن و مؤدبانه است." },
+      { "key": "B", "text_nl": "Mijn tanden zijn wit.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "C", "text_nl": "Tandartsen zijn eng.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik kom morgen misschien wel langs.", "is_correct": false, "feedback_fa": "این جمله مبهم است، درخواست روشن نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_time", "life_context": "physiotherapist",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "برای درد کمرت می‌خواهی وقت فیزیوتراپی بگیری. باید دلیل را هم بنویسی.",
+    "question_text_nl": "Je wilt een afspraak maken bij de fysiotherapeut vanwege rugpijn.",
+    "question_text_fa": "کدام جمله برای درخواست وقت مناسب است؟",
+    "explanation_fa": "وقتی دلیل پزشکی داری، بهتر است آن را هم در درخواست بنویسی.",
+    "grammar_rule_fa": "از «Ik wil graag een afspraak maken vanwege...» استفاده کن.",
+    "extra_example_nl": "Ik wil graag een afspraak maken vanwege pijn in mijn rug.",
+    "extra_example_fa": "می‌خواهم به‌خاطر درد کمرم وقت بگیرم.",
+    "options": [
+      { "key": "A", "text_nl": "Goedemorgen, ik wil graag een afspraak maken vanwege pijn in mijn rug.", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل پزشکی و درخواست هر دو هست." },
+      { "key": "B", "text_nl": "Ik sport graag elke dag.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Fysiotherapie is duur.", "is_correct": false, "feedback_fa": "این جمله شکایت است، نه درخواست وقت." },
+      { "key": "D", "text_nl": "Mijn rug is wel eens pijnlijk geweest.", "is_correct": false, "feedback_fa": "این جمله مبهم است و درخواست وقت نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_asap", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "خیلی درد داری و می‌خواهی همین امروز یا فردا وقت دکتر بگیری. باید بگویی فوری است.",
+    "question_text_nl": "Je hebt veel pijn en wilt zo snel mogelijk een afspraak bij de huisarts.",
+    "question_text_fa": "کدام جمله برای درخواست وقت فوری بهتر است؟",
+    "explanation_fa": "وقتی فوری است، باید عبارت «zo snel mogelijk» را استفاده کنی.",
+    "grammar_rule_fa": "از «Kan ik zo snel mogelijk een afspraak krijgen?» استفاده کن.",
+    "extra_example_nl": "Ik heb veel pijn. Kan ik vandaag nog een afspraak krijgen?",
+    "extra_example_fa": "درد زیادی دارم. می‌شود همین امروز وقت بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Ik heb veel pijn. Kan ik zo snel mogelijk een afspraak krijgen?", "is_correct": true, "feedback_fa": "✅ درست؛ فوریت و دلیل هر دو روشن است." },
+      { "key": "B", "text_nl": "Volgende maand heb ik wel tijd.", "is_correct": false, "feedback_fa": "این جمله با فوریت وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Ik voel me eigenlijk wel goed.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "D", "text_nl": "Dokters hebben het altijd druk.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_asap", "life_context": "garage",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "ماشینت خراب شده و باید سریع به تعمیرگاه بروی. باید وقت فوری بخواهی.",
+    "question_text_nl": "Je auto is kapot en je wilt zo snel mogelijk naar de garage.",
+    "question_text_fa": "کدام جمله برای درخواست وقت فوری مناسب است؟",
+    "explanation_fa": "برای درخواست فوری، بگو مشکل چیست و زود وقت بخواه.",
+    "grammar_rule_fa": "از «Mijn auto is kapot. Kan ik snel langskomen?» استفاده کن.",
+    "extra_example_nl": "Mijn auto is kapot. Kan ik vandaag nog langskomen?",
+    "extra_example_fa": "ماشینم خراب شده. می‌شود همین امروز بیایم؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn auto is kapot. Kan ik zo snel mogelijk langskomen?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و فوریت هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik hou van rijden.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Auto's zijn duur.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "D", "text_nl": "Volgende week kom ik misschien.", "is_correct": false, "feedback_fa": "این جمله با فوریت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_asap", "life_context": "dentist",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "دندانت خیلی درد می‌کند. باید وقت فوری دندان‌پزشکی بخواهی.",
+    "question_text_nl": "Je hebt veel kiespijn en wilt zo snel mogelijk naar de tandarts.",
+    "question_text_fa": "کدام جمله برای درخواست وقت فوری مناسب است؟",
+    "explanation_fa": "وقتی درد شدید داری، دلیل و فوریت را واضح بنویس.",
+    "grammar_rule_fa": "از «Ik heb veel kiespijn. Kan ik snel terecht?» استفاده کن.",
+    "extra_example_nl": "Ik heb veel kiespijn. Kan ik vandaag nog terecht?",
+    "extra_example_fa": "دندانم خیلی درد می‌کند. می‌شود همین امروز بیایم؟",
+    "options": [
+      { "key": "A", "text_nl": "Ik heb veel kiespijn. Kan ik zo snel mogelijk terecht?", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و فوریت هر دو دارد." },
+      { "key": "B", "text_nl": "Ik poets mijn tanden elke dag.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Volgende maand kom ik voor controle.", "is_correct": false, "feedback_fa": "این جمله با فوریت تناقض دارد." },
+      { "key": "D", "text_nl": "Tandartsen maken me nerveus.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_alternative_day", "life_context": "hairdresser",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی وقت آرایشگاه بگیری اما دوشنبه‌ها تعطیل هستند، پس روز دیگری پیشنهاد بده.",
+    "question_text_nl": "Je wilt een afspraak bij de kapper, maar op maandag is de kapper gesloten.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "وقتی روز اول ممکن نیست، روز جایگزین پیشنهاد بده.",
+    "grammar_rule_fa": "از «Kan het op woensdag?» استفاده کن.",
+    "extra_example_nl": "Kan het op woensdag in plaats van maandag?",
+    "extra_example_fa": "می‌شود چهارشنبه به‌جای دوشنبه باشد؟",
+    "options": [
+      { "key": "A", "text_nl": "Kan het op woensdag in plaats van maandag?", "is_correct": true, "feedback_fa": "✅ درست؛ روز جایگزین روشن پیشنهاد شده." },
+      { "key": "B", "text_nl": "Maandag is mijn lievelingsdag.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Ik knip mijn haar nooit.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "D", "text_nl": "De kapper is dicht, dat is jammer.", "is_correct": false, "feedback_fa": "این جمله روز جدید پیشنهاد نمی‌کند." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_alternative_day", "life_context": "optician",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی برای عینک جدید وقت بگیری، اما جمعه نمی‌توانی. باید روز دیگری پیشنهاد بدهی.",
+    "question_text_nl": "Je wilt een afspraak bij de opticien, maar vrijdag kun je niet.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "وقتی یک روز خوب نیست، روز دیگری پیشنهاد بده.",
+    "grammar_rule_fa": "از «Kan het op een andere dag?» استفاده کن.",
+    "extra_example_nl": "Vrijdag kan ik niet. Kan het op zaterdag?",
+    "extra_example_fa": "جمعه نمی‌توانم. می‌شود شنبه باشد؟",
+    "options": [
+      { "key": "A", "text_nl": "Vrijdag kan ik niet. Kan het op zaterdag?", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل کوتاه و روز جایگزین روشن است." },
+      { "key": "B", "text_nl": "Ik draag geen bril.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Vrijdag is een drukke dag voor mij.", "is_correct": false, "feedback_fa": "این جمله روز جدید پیشنهاد نمی‌کند." },
+      { "key": "D", "text_nl": "Opticiens zijn overal.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_alternative_day", "life_context": "gemeente",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "شهرداری برای مصاحبه‌ی اقامت وقت سه‌شنبه پیشنهاد داده اما تو باید کار کنی. باید روز دیگری بخواهی.",
+    "question_text_nl": "De gemeente stelt een afspraak voor op dinsdag, maar jij moet werken.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "در درخواست رسمی، دلیل بگو و روز جایگزین بخواه.",
+    "grammar_rule_fa": "از «Is het mogelijk om de afspraak te verzetten?» استفاده کن.",
+    "extra_example_nl": "Is het mogelijk om de afspraak naar donderdag te verzetten? Ik moet dinsdag werken.",
+    "extra_example_fa": "می‌شود قرار به پنجشنبه منتقل شود؟ سه‌شنبه باید کار کنم.",
+    "options": [
+      { "key": "A", "text_nl": "Geachte heer/mevrouw, is het mogelijk om de afspraak naar donderdag te verzetten? Ik moet dinsdag werken.", "is_correct": true, "feedback_fa": "✅ درست؛ رسمی است و روز جایگزین دارد." },
+      { "key": "B", "text_nl": "Ik kom gewoon dinsdag niet.", "is_correct": false, "feedback_fa": "این جواب بی‌ادبانه است." },
+      { "key": "C", "text_nl": "De gemeente is altijd druk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik heb geen tijd voor de gemeente.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه و مبهم است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_with_reason", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "چند روز است کمر درد داری. باید وقت دکتر بگیری و دلیل را بنویسی.",
+    "question_text_nl": "Je hebt al een paar dagen rugpijn.",
+    "question_text_fa": "کدام جمله برای درخواست وقت با دلیل مناسب است؟",
+    "explanation_fa": "وقتی درخواست وقت می‌کنی، دلیل کوتاه کمک می‌کند.",
+    "grammar_rule_fa": "از «Ik heb al een paar dagen last van...» استفاده کن.",
+    "extra_example_nl": "Ik heb al een paar dagen last van rugpijn. Kan ik een afspraak maken?",
+    "extra_example_fa": "چند روز است کمردرد دارم. می‌شود وقت بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Ik heb al een paar dagen last van rugpijn. Kan ik een afspraak maken?", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و درخواست هر دو دارد." },
+      { "key": "B", "text_nl": "Ik voel me goed vandaag.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Rugpijn is normaal.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "D", "text_nl": "Ik ga morgen sporten.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_with_reason", "life_context": "dentist",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دندانت درد می‌کند. باید وقت بگیری و دلیل را بنویسی.",
+    "question_text_nl": "Je hebt pijn aan een kies.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "دلیل درخواست را کوتاه و واضح بنویس.",
+    "grammar_rule_fa": "از «Ik heb pijn aan mijn kies» استفاده کن.",
+    "extra_example_nl": "Ik heb pijn aan mijn kies. Kan ik een afspraak maken?",
+    "extra_example_fa": "دندانم درد می‌کند. می‌شود وقت بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Ik heb pijn aan mijn kies. Kan ik een afspraak maken?", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و درخواست روشن است." },
+      { "key": "B", "text_nl": "Mijn kiezen zijn heel sterk.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Ik eet graag snoep.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Volgend jaar kom ik voor controle.", "is_correct": false, "feedback_fa": "این جمله فوریت درد را نشان نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_with_reason", "life_context": "kinderarts",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "فرزندت چند روز است تب دارد. باید برای او وقت پزشک اطفال بگیری و دلیل را بنویسی.",
+    "question_text_nl": "Je kind heeft al een paar dagen koorts.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "برای فرزندت باید دلیل پزشکی را واضح و کامل بنویسی.",
+    "grammar_rule_fa": "از «Mijn kind heeft al een paar dagen koorts» استفاده کن.",
+    "extra_example_nl": "Mijn kind heeft al een paar dagen koorts. Kan ik een afspraak maken bij de kinderarts?",
+    "extra_example_fa": "فرزندم چند روز است تب دارد. می‌شود وقت پزشک اطفال بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn kind heeft al een paar dagen koorts. Kan ik een afspraak maken bij de kinderarts?", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل پزشکی و درخواست هر دو دارد." },
+      { "key": "B", "text_nl": "Mijn kind is heel gezond.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Kinderen worden vaak ziek.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "D", "text_nl": "Ik ga volgende week op vakantie.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_online_form", "life_context": "gemeente",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "باید برای گرفتن پاسپورت جدید در شهرداری وقت بگیری. باید پیام کوتاه و رسمی بنویسی.",
+    "question_text_nl": "Je hebt een nieuw paspoort nodig en wilt een afspraak maken bij de gemeente.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "در درخواست رسمی، دلیل و درخواست وقت را واضح بنویس.",
+    "grammar_rule_fa": "از «Ik wil graag een afspraak maken voor een nieuw paspoort» استفاده کن.",
+    "extra_example_nl": "Ik wil graag een afspraak maken voor een nieuw paspoort.",
+    "extra_example_fa": "می‌خواهم برای پاسپورت جدید وقت بگیرم.",
+    "options": [
+      { "key": "A", "text_nl": "Geachte heer/mevrouw, ik wil graag een afspraak maken voor een nieuw paspoort.", "is_correct": true, "feedback_fa": "✅ درست؛ رسمی و روشن است." },
+      { "key": "B", "text_nl": "Mijn paspoort is oud.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "C", "text_nl": "Ik reis graag naar het buitenland.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Paspoorten zijn duur.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_online_form", "life_context": "belastingdienst",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "باید درباره‌ی مالیاتت با اداره‌ی مالیات صحبت کنی. باید وقت ملاقات بخواهی.",
+    "question_text_nl": "Je hebt vragen over je belasting en wilt een afspraak bij de Belastingdienst.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "برای وقت گرفتن رسمی، دلیل و درخواست را کوتاه بنویس.",
+    "grammar_rule_fa": "از «Ik heb vragen over mijn belasting. Kan ik een afspraak maken?» استفاده کن.",
+    "extra_example_nl": "Ik heb vragen over mijn belasting. Kan ik een afspraak maken?",
+    "extra_example_fa": "درباره‌ی مالیاتم سؤال دارم. می‌شود وقت بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Geachte heer/mevrouw, ik heb vragen over mijn belasting. Kan ik een afspraak maken?", "is_correct": true, "feedback_fa": "✅ درست؛ رسمی و روشن است." },
+      { "key": "B", "text_nl": "Belasting betalen vind ik niet leuk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Ik heb genoeg geld.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Volgend jaar bel ik wel.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت الان نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_child_appointment", "life_context": "kinderarts",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی برای معاینه‌ی سالانه‌ی فرزندت وقت پزشک اطفال بگیری.",
+    "question_text_nl": "Je wilt een afspraak maken bij de kinderarts voor de jaarlijkse controle van je kind.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "برای فرزندت، موضوع معاینه را ساده بنویس.",
+    "grammar_rule_fa": "از «Ik wil graag een afspraak maken voor mijn kind» استفاده کن.",
+    "extra_example_nl": "Ik wil graag een afspraak maken voor de controle van mijn kind.",
+    "extra_example_fa": "می‌خواهم برای معاینه‌ی فرزندم وقت بگیرم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik wil graag een afspraak maken voor de jaarlijkse controle van mijn kind.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن است و موضوع درست ذکر شده." },
+      { "key": "B", "text_nl": "Mijn kind is altijd gezond.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "C", "text_nl": "Kinderartsen zijn aardig.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "D", "text_nl": "Ik kom volgend jaar wel.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت الان نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_child_appointment", "life_context": "school",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی با معلم فرزندت درباره‌ی رفتار او در کلاس صحبت کنی. باید وقت بخواهی.",
+    "question_text_nl": "Je wilt met de leraar van je kind praten over het gedrag op school.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "برای گرفتن وقت با معلم، موضوع را کوتاه بنویس.",
+    "grammar_rule_fa": "از «Kan ik een afspraak maken om te praten over...» استفاده کن.",
+    "extra_example_nl": "Kan ik een afspraak maken om te praten over het gedrag van mijn kind?",
+    "extra_example_fa": "می‌شود وقت بگیرم تا درباره‌ی رفتار فرزندم صحبت کنیم؟",
+    "options": [
+      { "key": "A", "text_nl": "Kan ik een afspraak maken om te praten over het gedrag van mijn kind?", "is_correct": true, "feedback_fa": "✅ درست؛ موضوع روشن و درخواست مؤدبانه است." },
+      { "key": "B", "text_nl": "Mijn kind doet niets fout.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست و دفاعی است." },
+      { "key": "C", "text_nl": "Leraren hebben het altijd druk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik kom gewoon een keer langs.", "is_correct": false, "feedback_fa": "این جمله مبهم است و درخواست روشنی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_child_appointment", "life_context": "dentist",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی برای معاینه‌ی دندان‌های فرزندت وقت دندان‌پزشکی بگیری.",
+    "question_text_nl": "Je wilt een afspraak maken bij de tandarts voor de controle van je kind.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "برای فرزندت، موضوع را واضح بنویس.",
+    "grammar_rule_fa": "از «Ik wil een afspraak maken voor de controle van mijn kind» استفاده کن.",
+    "extra_example_nl": "Ik wil graag een afspraak maken voor de tandartscontrole van mijn kind.",
+    "extra_example_fa": "می‌خواهم برای معاینه‌ی دندان فرزندم وقت بگیرم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik wil graag een afspraak maken voor de tandartscontrole van mijn kind.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن و کامل است." },
+      { "key": "B", "text_nl": "Mijn kind poetst goed zijn tanden.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "C", "text_nl": "Tandartsen zijn duur.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik kom volgend jaar misschien.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت الان نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_follow_up", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "دکتر گفته بعد از دو هفته دوباره بیایی. باید وقت پیگیری بخواهی.",
+    "question_text_nl": "De dokter heeft gezegd dat u over twee weken terug moet komen.",
+    "question_text_fa": "کدام جمله برای درخواست وقت پیگیری مناسب است؟",
+    "explanation_fa": "برای وقت پیگیری، بگو دکتر خواسته دوباره بیایی.",
+    "grammar_rule_fa": "از «Ik wil een vervolgafspraak maken» استفاده کن.",
+    "extra_example_nl": "Ik wil graag een vervolgafspraak maken, zoals de dokter had gezegd.",
+    "extra_example_fa": "می‌خواهم طبق گفته‌ی دکتر وقت پیگیری بگیرم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik wil graag een vervolgafspraak maken, zoals de dokter had gezegd.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن و مرتبط با دستور دکتر است." },
+      { "key": "B", "text_nl": "Ik voel me nu heel goed.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "C", "text_nl": "Ik kom niet meer terug.", "is_correct": false, "feedback_fa": "این جمله با دستور دکتر تناقض دارد." },
+      { "key": "D", "text_nl": "Dokters zijn belangrijk.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_follow_up", "life_context": "physiotherapist",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "بعد از اولین جلسه‌ی فیزیوتراپی، باید وقت جلسه‌ی بعدی را بگیری.",
+    "question_text_nl": "Na je eerste afspraak wil je een nieuwe afspraak maken bij de fysiotherapeut.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "برای وقت بعدی، درخواست ساده و روشن بنویس.",
+    "grammar_rule_fa": "از «Kan ik een nieuwe afspraak maken?» استفاده کن.",
+    "extra_example_nl": "Kan ik een nieuwe afspraak maken voor volgende week?",
+    "extra_example_fa": "می‌شود برای هفته‌ی بعد وقت جدید بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Kan ik een nieuwe afspraak maken voor volgende week?", "is_correct": true, "feedback_fa": "✅ درست؛ درخواست روشن برای وقت بعدی است." },
+      { "key": "B", "text_nl": "De vorige afspraak was leuk.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "C", "text_nl": "Ik hoef niet meer te komen.", "is_correct": false, "feedback_fa": "این جمله با هدف درخواست تناقض دارد." },
+      { "key": "D", "text_nl": "Fysiotherapie helpt altijd.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_specific_person", "life_context": "hairdresser",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی وقت بگیری اما ترجیح می‌دهی همان آرایشگر قبلی کارت را انجام دهد.",
+    "question_text_nl": "Je wilt een afspraak maken bij de kapper, het liefst bij dezelfde kapper als de vorige keer.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "وقتی شخص خاصی را می‌خواهی، «dezelfde» را در درخواست بنویس.",
+    "grammar_rule_fa": "از «Kan het bij dezelfde kapper als vorige keer?» استفاده کن.",
+    "extra_example_nl": "Kan ik weer een afspraak maken bij dezelfde kapper als vorige keer?",
+    "extra_example_fa": "می‌شود دوباره با همان آرایشگر قبلی وقت بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Kan ik weer een afspraak maken bij dezelfde kapper als vorige keer?", "is_correct": true, "feedback_fa": "✅ درست؛ شخص مورد نظر مشخص است." },
+      { "key": "B", "text_nl": "Ik hou van korte haren.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "De kapper was gesloten.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik wil geen afspraak meer.", "is_correct": false, "feedback_fa": "این جمله با هدف تو تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_specific_person", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "می‌خواهی وقت بگیری اما ترجیح می‌دهی با پزشک خانواده‌ی همیشگی‌ات صحبت کنی.",
+    "question_text_nl": "Je wilt een afspraak maken, het liefst bij je eigen huisarts.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "وقتی پزشک خاصی می‌خواهی، «mijn eigen huisarts» را در درخواست بنویس.",
+    "grammar_rule_fa": "از «Kan ik een afspraak maken bij mijn eigen huisarts?» استفاده کن.",
+    "extra_example_nl": "Kan ik een afspraak maken bij mijn eigen huisarts, dokter Jansen?",
+    "extra_example_fa": "می‌شود با پزشک خودم، دکتر یانسن، وقت بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Kan ik een afspraak maken bij mijn eigen huisarts, dokter Jansen?", "is_correct": true, "feedback_fa": "✅ درست؛ اسم پزشک مورد نظر مشخص شده." },
+      { "key": "B", "text_nl": "Alle dokters zijn hetzelfde.", "is_correct": false, "feedback_fa": "این جمله با خواسته‌ی تو تناقض دارد." },
+      { "key": "C", "text_nl": "Ik ken geen dokters.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "D", "text_nl": "Ik wil geen dokter zien.", "is_correct": false, "feedback_fa": "این جمله با هدف تو تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_morning_afternoon", "life_context": "gemeente",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی برای وقت شهرداری، صبح‌ها را ترجیح بدهی چون بعدازظهرها کار داری.",
+    "question_text_nl": "Je wilt een afspraak bij de gemeente, het liefst in de ochtend.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "وقتی زمان روز خاصی را ترجیح می‌دهی، آن را در درخواست بنویس.",
+    "grammar_rule_fa": "از «Het liefst 's ochtends» استفاده کن.",
+    "extra_example_nl": "Ik wil graag een afspraak maken, het liefst 's ochtends.",
+    "extra_example_fa": "می‌خواهم وقت بگیرم، ترجیحاً صبح.",
+    "options": [
+      { "key": "A", "text_nl": "Ik wil graag een afspraak maken, het liefst 's ochtends, want 's middags werk ik.", "is_correct": true, "feedback_fa": "✅ درست؛ زمان ترجیحی و دلیل هر دو دارد." },
+      { "key": "B", "text_nl": "Ochtenden zijn koud.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Ik werk nooit 's ochtends.", "is_correct": false, "feedback_fa": "این جمله ترجیح صبح را درست بیان نمی‌کند." },
+      { "key": "D", "text_nl": "Ik kom wanneer het uitkomt.", "is_correct": false, "feedback_fa": "این جمله ترجیح زمانی را مشخص نمی‌کند." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_morning_afternoon", "life_context": "dentist",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی وقت دندان‌پزشکی بگیری و بعدازظهرها را ترجیح بدهی.",
+    "question_text_nl": "Je wilt een afspraak bij de tandarts, het liefst in de middag.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "زمان ترجیحی روز را واضح بنویس.",
+    "grammar_rule_fa": "از «Het liefst 's middags» استفاده کن.",
+    "extra_example_nl": "Kan de afspraak 's middags zijn?",
+    "extra_example_fa": "می‌شود قرار بعدازظهر باشد؟",
+    "options": [
+      { "key": "A", "text_nl": "Ik wil graag een afspraak maken, het liefst 's middags.", "is_correct": true, "feedback_fa": "✅ درست؛ زمان ترجیحی روشن است." },
+      { "key": "B", "text_nl": "Middagen zijn saai.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Ik ga nooit 's middags naar buiten.", "is_correct": false, "feedback_fa": "این جمله ترجیح روشنی برای وقت گرفتن نیست." },
+      { "key": "D", "text_nl": "Elke tijd is goed voor mij.", "is_correct": false, "feedback_fa": "این جمله با ترجیح گفته‌شده تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_polite_opening", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "می‌خواهی یک ایمیل به مطب دکتر بنویسی. باید جمله‌ی شروع مؤدبانه انتخاب کنی.",
+    "question_text_nl": "Je begint een e-mail naar de huisartsenpraktijk.",
+    "question_text_fa": "کدام جمله برای شروع مؤدبانه‌ی ایمیل بهتر است؟",
+    "explanation_fa": "برای شروع نامه‌ی رسمی از «Geachte» یا «Goedendag» استفاده کن.",
+    "grammar_rule_fa": "از «Geachte heer/mevrouw» یا «Goedendag» استفاده کن.",
+    "extra_example_nl": "Geachte heer/mevrouw, ik wil graag een afspraak maken.",
+    "extra_example_fa": "با احترام، می‌خواهم وقت بگیرم.",
+    "options": [
+      { "key": "A", "text_nl": "Geachte heer/mevrouw, ik wil graag een afspraak maken.", "is_correct": true, "feedback_fa": "✅ درست؛ شروع رسمی و مؤدبانه است." },
+      { "key": "B", "text_nl": "Hé joh, ik kom wel langs.", "is_correct": false, "feedback_fa": "این جمله برای ایمیل رسمی خیلی غیررسمی است." },
+      { "key": "C", "text_nl": "Yo, wat is er?", "is_correct": false, "feedback_fa": "این جمله برای ایمیل رسمی مناسب نیست." },
+      { "key": "D", "text_nl": "Dag lieverd.", "is_correct": false, "feedback_fa": "این جمله برای مطب دکتر خیلی صمیمی است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_polite_opening", "life_context": "gemeente",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "می‌خواهی یک ایمیل رسمی به شهرداری بنویسی. باید جمله‌ی شروع مؤدبانه انتخاب کنی.",
+    "question_text_nl": "Je begint een e-mail naar de gemeente.",
+    "question_text_fa": "کدام جمله برای شروع مؤدبانه‌ی ایمیل بهتر است؟",
+    "explanation_fa": "در نامه‌های رسمی به سازمان‌ها از عبارت‌های رسمی استفاده کن.",
+    "grammar_rule_fa": "از «Geachte heer/mevrouw» استفاده کن.",
+    "extra_example_nl": "Geachte heer/mevrouw, ik heb een vraag over mijn afspraak.",
+    "extra_example_fa": "با احترام، درباره‌ی وقتم سؤالی دارم.",
+    "options": [
+      { "key": "A", "text_nl": "Geachte heer/mevrouw, ik wil graag een afspraak maken.", "is_correct": true, "feedback_fa": "✅ درست؛ رسمی و مناسب برای شهرداری است." },
+      { "key": "B", "text_nl": "Hoi hoi, ik heb een vraagje.", "is_correct": false, "feedback_fa": "این جمله برای نامه‌ی رسمی خیلی غیررسمی است." },
+      { "key": "C", "text_nl": "Doei!", "is_correct": false, "feedback_fa": "این جمله برای شروع نامه مناسب نیست." },
+      { "key": "D", "text_nl": "Wat fijn dat ik mag schrijven.", "is_correct": false, "feedback_fa": "این جمله طبیعی و رسمی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_time", "life_context": "garage",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "ماشینت باید سرویس شود. باید وقت تعمیرگاه بگیری.",
+    "question_text_nl": "Je auto moet onderhouden worden.",
+    "question_text_fa": "کدام جمله برای درخواست وقت تعمیرگاه مناسب است؟",
+    "explanation_fa": "برای درخواست وقت سرویس، موضوع و درخواست را ساده بنویس.",
+    "grammar_rule_fa": "از «Ik wil graag een afspraak maken voor onderhoud» استفاده کن.",
+    "extra_example_nl": "Ik wil graag een afspraak maken voor onderhoud van mijn auto.",
+    "extra_example_fa": "می‌خواهم برای سرویس ماشینم وقت بگیرم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik wil graag een afspraak maken voor onderhoud van mijn auto.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن و کامل است." },
+      { "key": "B", "text_nl": "Mijn auto is heel nieuw.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "C", "text_nl": "Ik rijd niet vaak.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Garages zijn overal in de stad.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_time", "life_context": "kinderarts",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "می‌خواهی برای معاینه‌ی روتین نوزادت وقت پزشک اطفال بگیری.",
+    "question_text_nl": "Je wilt een afspraak maken bij de kinderarts voor een routineonderzoek van je baby.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "برای فرزند کوچک، موضوع معاینه را واضح بنویس.",
+    "grammar_rule_fa": "از «Ik wil een afspraak maken voor een onderzoek van mijn baby» استفاده کن.",
+    "extra_example_nl": "Ik wil graag een afspraak maken voor een routineonderzoek van mijn baby.",
+    "extra_example_fa": "می‌خواهم برای معاینه‌ی روتین نوزادم وقت بگیرم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik wil graag een afspraak maken voor een routineonderzoek van mijn baby.", "is_correct": true, "feedback_fa": "✅ درست؛ موضوع دقیق ذکر شده." },
+      { "key": "B", "text_nl": "Mijn baby slaapt veel.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت نیست." },
+      { "key": "C", "text_nl": "Baby's worden snel groot.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik kom volgend jaar wel terug.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت الان نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_with_reason", "life_context": "physiotherapist",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "زانویت درد می‌کند. باید وقت فیزیوتراپی بگیری و دلیل را بنویسی.",
+    "question_text_nl": "Je hebt pijn aan je knie.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "دلیل درد را کوتاه بنویس تا وقت مناسب بگیری.",
+    "grammar_rule_fa": "از «Ik heb pijn aan mijn knie» استفاده کن.",
+    "extra_example_nl": "Ik heb pijn aan mijn knie. Kan ik een afspraak maken?",
+    "extra_example_fa": "زانویم درد می‌کند. می‌شود وقت بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Ik heb pijn aan mijn knie. Kan ik een afspraak maken?", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و درخواست روشن است." },
+      { "key": "B", "text_nl": "Mijn knie is heel sterk.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Ik hardloop graag.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Volgend jaar ga ik weer sporten.", "is_correct": false, "feedback_fa": "این جمله درخواست وقت الان نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_asap", "life_context": "kinderarts",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "فرزندت ناگهان خیلی مریض شده. باید همین امروز وقت فوری پزشک اطفال بخواهی.",
+    "question_text_nl": "Je kind is plotseling erg ziek geworden.",
+    "question_text_fa": "کدام جمله برای درخواست وقت فوری مناسب است؟",
+    "explanation_fa": "برای فوریت، بگو الان چه اتفاقی افتاده و بخواه همان روز وقت بگیری.",
+    "grammar_rule_fa": "از «Mijn kind is erg ziek. Kan ik vandaag nog een afspraak krijgen?» استفاده کن.",
+    "extra_example_nl": "Mijn kind heeft hoge koorts. Kan ik vandaag nog terecht?",
+    "extra_example_fa": "فرزندم تب شدید دارد. می‌شود همین امروز بیایم؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn kind is erg ziek. Kan ik vandaag nog een afspraak krijgen?", "is_correct": true, "feedback_fa": "✅ درست؛ وضعیت و فوریت هر دو روشن است." },
+      { "key": "B", "text_nl": "Mijn kind voelt zich prima.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Kinderartsen zijn soms streng.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Volgende maand kom ik voor controle.", "is_correct": false, "feedback_fa": "این جمله با فوریت وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "request_appointment", "subtopic": "request_alternative_day", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دکتر وقت چهارشنبه پیشنهاد داده اما تو آن روز نمی‌توانی. باید روز دیگری پیشنهاد بدهی.",
+    "question_text_nl": "De dokter stelt woensdag voor, maar jij kunt die dag niet.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "وقتی روز پیشنهادی خوب نیست، دلیل کوتاه بگو و روز دیگری بخواه.",
+    "grammar_rule_fa": "از «Kan het op een andere dag?» استفاده کن.",
+    "extra_example_nl": "Woensdag kan ik niet. Kan het op vrijdag?",
+    "extra_example_fa": "چهارشنبه نمی‌توانم. می‌شود جمعه باشد؟",
+    "options": [
+      { "key": "A", "text_nl": "Woensdag kan ik niet. Kan het op vrijdag?", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و روز جایگزین هر دو روشن است." },
+      { "key": "B", "text_nl": "Woensdag is geen fijne dag.", "is_correct": false, "feedback_fa": "این جمله روز جایگزین پیشنهاد نمی‌کند." },
+      { "key": "C", "text_nl": "Ik kom gewoon niet woensdag.", "is_correct": false, "feedback_fa": "این جمله روز جدید پیشنهاد نمی‌کند." },
+      { "key": "D", "text_nl": "Dokters hebben altijd tijd.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat ik in de trein stap, tik ik mijn OV-kaart tegen de paal. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "لمس‌کردنِ کارت هنگامِ ورود به قطار، «inchecken» نامیده می‌شود.",
+    "grammar_rule_fa": "inchecken=زدنِ کارت هنگامِ ورود.",
+    "extra_example_nl": "Ik check in bij de poortjes.",
+    "extra_example_fa": "کنارِ درها کارتم رو می‌زنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "inchecken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زدنِ کارت هنگامِ ورود."
+      },
+      {
+        "key": "B",
+        "text_nl": "uitchecken",
+        "is_correct": false,
+        "feedback_fa": "این هنگامِ خروج است، نه ورود."
+      },
+      {
+        "key": "C",
+        "text_nl": "opladen",
+        "is_correct": false,
+        "feedback_fa": "این شارژِ کردنِ کارت است، نه لمسِ آن."
+      },
+      {
+        "key": "D",
+        "text_nl": "betalen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als ik de trein verlaat, tik ik mijn kaart nog een keer tegen de paal. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "لمس‌کردنِ کارت هنگامِ خروج، «uitchecken» نامیده می‌شود.",
+    "grammar_rule_fa": "uitchecken=زدنِ کارت هنگامِ خروج.",
+    "extra_example_nl": "Vergeet niet uit te checken.",
+    "extra_example_fa": "یادت نره موقعِ خروج کارت رو بزنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "inchecken",
+        "is_correct": false,
+        "feedback_fa": "این هنگامِ ورود است، نه خروج."
+      },
+      {
+        "key": "B",
+        "text_nl": "opladen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "instappen",
+        "is_correct": false,
+        "feedback_fa": "این فقط سوارشدنِ فیزیکی است، نه زدنِ کارت."
+      },
+      {
+        "key": "D",
+        "text_nl": "uitchecken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زدنِ کارت هنگامِ خروج."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn OV-kaart heeft geen geld meer. Ik moet hem eerst ___ bij de automaat.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "افزودنِ پول به کارت، «opladen» نامیده می‌شود.",
+    "grammar_rule_fa": "opladen=شارژ کردن.",
+    "extra_example_nl": "Ik laad mijn kaart op met 20 euro.",
+    "extra_example_fa": "کارتم رو با ۲۰ یورو شارژ می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "uitchecken",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "boeken",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "opladen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ افزودنِ پول به کارت."
+      },
+      {
+        "key": "D",
+        "text_nl": "inchecken",
+        "is_correct": false,
+        "feedback_fa": "این زدنِ کارت هنگامِ ورود است، نه افزودنِ پول."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ga niet rechtstreeks naar Rotterdam; in Utrecht moet ik in een andere trein ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "تعویضِ قطار برای ادامه‌ی سفر، «overstappen» نامیده می‌شود.",
+    "grammar_rule_fa": "overstappen=تعویضِ قطار/وسیله‌ی نقلیه.",
+    "extra_example_nl": "Ik stap in Utrecht over op een andere trein.",
+    "extra_example_fa": "توی اوترخت به قطارِ دیگه‌ای عوض می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "inchecken",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "overstappen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تعویضِ قطار برای ادامه‌ی سفر."
+      },
+      {
+        "key": "C",
+        "text_nl": "instappen",
+        "is_correct": false,
+        "feedback_fa": "این فقط سوارشدنِ ساده است، نه تعویضِ قطار."
+      },
+      {
+        "key": "D",
+        "text_nl": "uitstappen",
+        "is_correct": false,
+        "feedback_fa": "این فقط پیاده‌شدن است، نه سوارشدن به قطارِ جدید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ga vandaag alleen heen, niet terug. Ik koop een kaartje voor een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بلیطِ فقط یک‌طرفه، «enkele reis» نامیده می‌شود.",
+    "grammar_rule_fa": "enkele reis=بلیطِ یک‌طرفه.",
+    "extra_example_nl": "Een enkele reis naar Den Haag kost 12 euro.",
+    "extra_example_fa": "بلیطِ یک‌طرفه به دن‌هاخ ۱۲ یورو است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "enkele reis",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بلیطِ فقط یک‌طرفه."
+      },
+      {
+        "key": "B",
+        "text_nl": "retour",
+        "is_correct": false,
+        "feedback_fa": "این بلیطِ رفت‌وبرگشت است، برعکسِ متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "abonnement",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "overstappen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ga vandaag heen en morgen weer terug met hetzelfde soort kaartje. Ik koop een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بلیطِ رفت‌وبرگشت، «retour» نامیده می‌شود.",
+    "grammar_rule_fa": "retour=بلیطِ رفت‌وبرگشت.",
+    "extra_example_nl": "Een retour is duurder dan een enkele reis.",
+    "extra_example_fa": "بلیطِ رفت‌وبرگشت از یک‌طرفه گران‌تره.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "enkele reis",
+        "is_correct": false,
+        "feedback_fa": "این فقط یک‌طرفه است، برعکسِ متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "abonnement",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "overstappen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "retour",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بلیطِ رفت‌وبرگشت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De trein zou om 9:00 uur vertrekken, maar rijdt pas om 9:20 uur. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "تأخیرِ حرکتِ قطار نسبت به زمانِ برنامه‌ریزی‌شده، «vertraging» نامیده می‌شود.",
+    "grammar_rule_fa": "vertraging=تأخیر.",
+    "extra_example_nl": "Er is 20 minuten vertraging.",
+    "extra_example_fa": "۲۰ دقیقه تأخیر وجود داره.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vertrek",
+        "is_correct": false,
+        "feedback_fa": "این خودِ زمانِ حرکت است، نه تأخیرِ آن."
+      },
+      {
+        "key": "B",
+        "text_nl": "file",
+        "is_correct": false,
+        "feedback_fa": "این ترافیکِ جاده است، نه تأخیرِ قطار."
+      },
+      {
+        "key": "C",
+        "text_nl": "vertraging",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تأخیر نسبت به زمانِ برنامه."
+      },
+      {
+        "key": "D",
+        "text_nl": "aankomst",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Tussen 7:30 en 9:00 uur 's ochtends is het heel druk in de trein, omdat iedereen naar het werk gaat. Dit heet de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بازه‌ی زمانیِ شلوغِ رفت‌وآمد به سرِ کار، «spits» نامیده می‌شود.",
+    "grammar_rule_fa": "spits=ساعتِ اوجِ ترافیک/شلوغی.",
+    "extra_example_nl": "In de spits is elke trein vol.",
+    "extra_example_fa": "توی ساعتِ شلوغی هر قطار پره.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dienstregeling",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "spits",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بازه‌ی زمانیِ شلوغِ صبح."
+      },
+      {
+        "key": "C",
+        "text_nl": "vertraging",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "file",
+        "is_correct": false,
+        "feedback_fa": "این ترافیکِ جاده است، نه بازه‌ی زمانی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Op straat staan alle auto's stil omdat het heel druk is. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "ترافیکِ سنگین و متوقف‌شده‌ی خودروها در جاده، «file» نامیده می‌شود.",
+    "grammar_rule_fa": "file=ترافیکِ سنگین.",
+    "extra_example_nl": "Er staat een lange file op de snelweg.",
+    "extra_example_fa": "توی بزرگراه یک ترافیکِ طولانی هست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "file",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توقفِ سنگینِ خودروها."
+      },
+      {
+        "key": "B",
+        "text_nl": "spits",
+        "is_correct": false,
+        "feedback_fa": "این بازه‌ی زمانیِ شلوغی است، نه خودِ توقفِ ماشین‌ها."
+      },
+      {
+        "key": "C",
+        "text_nl": "vertraging",
+        "is_correct": false,
+        "feedback_fa": "این برای قطار/اتوبوس به کار می‌رود، نه ترافیکِ جاده."
+      },
+      {
+        "key": "D",
+        "text_nl": "omleiding",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De normale weg is dicht vanwege werkzaamheden, dus moet ik een andere route rijden. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "مسیرِ جایگزین به‌خاطرِ بستنِ راهِ اصلی، «omleiding» نامیده می‌شود.",
+    "grammar_rule_fa": "omleiding=مسیرِ انحرافی.",
+    "extra_example_nl": "Volg de borden van de omleiding.",
+    "extra_example_fa": "تابلوهای مسیرِ انحرافی رو دنبال کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "file",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "vertraging",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "spits",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "omleiding",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مسیرِ جایگزینِ موقت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wacht op het perron. Op het bord staat van welk ___ mijn trein vertrekt.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "شماره‌ی خطِ ریلی که قطار از آن حرکت می‌کند، «spoor» نامیده می‌شود.",
+    "grammar_rule_fa": "spoor=شماره‌ی خطِ ریلی.",
+    "extra_example_nl": "Mijn trein vertrekt van spoor 4.",
+    "extra_example_fa": "قطارم از خطِ ۴ حرکت می‌کنه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "halte",
+        "is_correct": false,
+        "feedback_fa": "این برای اتوبوس/تراموا است، نه قطار."
+      },
+      {
+        "key": "B",
+        "text_nl": "dienstregeling",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "spoor",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شماره‌ی خطِ ریلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "perron",
+        "is_correct": false,
+        "feedback_fa": "این خودِ سکو است، نه شماره‌ی خط."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wacht niet op het station, maar bij de bushalte. Dit heet de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "ایستگاهِ اتوبوس/تراموا، «halte» نامیده می‌شود.",
+    "grammar_rule_fa": "halte=ایستگاهِ اتوبوس/تراموا.",
+    "extra_example_nl": "De bus stopt bij elke halte.",
+    "extra_example_fa": "اتوبوس در هر ایستگاه توقف می‌کنه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "station",
+        "is_correct": false,
+        "feedback_fa": "این خیلی کلی‌تر است؛ متن دقیقاً ایستگاهِ اتوبوس را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "halte",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ایستگاهِ اتوبوس/تراموا."
+      },
+      {
+        "key": "C",
+        "text_nl": "perron",
+        "is_correct": false,
+        "feedback_fa": "این مخصوصِ قطار است، نه اتوبوس."
+      },
+      {
+        "key": "D",
+        "text_nl": "spoor",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Op het grote bord in de stationshal zie ik hoe laat elke trein vertrekt en aankomt. Dit heet de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "جدولِ کاملِ زمان‌بندیِ حرکت و رسیدنِ قطارها، «dienstregeling» نامیده می‌شود.",
+    "grammar_rule_fa": "dienstregeling=جدولِ زمانیِ رسمی.",
+    "extra_example_nl": "De dienstregeling verandert in december.",
+    "extra_example_fa": "جدولِ زمانی توی دسامبر تغییر می‌کنه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dienstregeling",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ جدولِ کاملِ زمان‌بندی."
+      },
+      {
+        "key": "B",
+        "text_nl": "vertraging",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "kaartje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "spoor",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat ik een auto mag besturen, moet ik eerst mijn ___ halen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "مجوزِ رانندگی، «rijbewijs» (گواهی‌نامه) نامیده می‌شود.",
+    "grammar_rule_fa": "rijbewijs=گواهی‌نامه‌ی رانندگی.",
+    "extra_example_nl": "Ik heb mijn rijbewijs vorig jaar gehaald.",
+    "extra_example_fa": "گواهی‌نامه‌ام رو پارسال گرفتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verzekering",
+        "is_correct": false,
+        "feedback_fa": "این بیمه است، نه مجوزِ رانندگی."
+      },
+      {
+        "key": "B",
+        "text_nl": "APK",
+        "is_correct": false,
+        "feedback_fa": "این معاینه‌ی فنیِ خودرو است، نه مجوزِ شخص."
+      },
+      {
+        "key": "C",
+        "text_nl": "kaartje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "rijbewijs",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مجوزِ رانندگیِ شخص."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Elk jaar moet mijn auto gekeurd worden om te zien of hij nog veilig is. Dit heet de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "معاینه‌ی فنیِ سالانه‌ی خودرو، «APK» نامیده می‌شود.",
+    "grammar_rule_fa": "APK=معاینه‌ی فنیِ خودرو.",
+    "extra_example_nl": "Mijn auto is net goedgekeurd voor de APK.",
+    "extra_example_fa": "ماشینم تازه APK رو قبول شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verzekering",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "boete",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "APK",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ معاینه‌ی فنیِ سالانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "rijbewijs",
+        "is_correct": false,
+        "feedback_fa": "این مجوزِ شخص است، نه معاینه‌ی خودرو."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als ik een verkeersfout maak, bijvoorbeeld te hard rijden, moet ik geld betalen. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "جریمه‌ی نقدیِ تخلفِ رانندگی، «boete» نامیده می‌شود.",
+    "grammar_rule_fa": "boete=جریمه.",
+    "extra_example_nl": "Ik kreeg een boete van 150 euro.",
+    "extra_example_fa": "۱۵۰ یورو جریمه شدم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "rijbewijs",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "boete",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ جریمه‌ی نقدیِ تخلف."
+      },
+      {
+        "key": "C",
+        "text_nl": "verzekering",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "APK",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als mijn auto schade heeft na een ongeluk, betaalt mijn ___ vaak (een deel van) de kosten.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بیمه‌ای که هزینه‌ی خسارتِ تصادف را می‌پردازد، «verzekering» نامیده می‌شود.",
+    "grammar_rule_fa": "verzekering=بیمه.",
+    "extra_example_nl": "Mijn verzekering betaalt de schade.",
+    "extra_example_fa": "بیمه‌ام خسارت رو پرداخت می‌کنه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verzekering",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پرداختِ هزینه‌ی خسارت."
+      },
+      {
+        "key": "B",
+        "text_nl": "APK",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "boete",
+        "is_correct": false,
+        "feedback_fa": "این جریمه‌ی تخلف است، نه پوششِ خسارت."
+      },
+      {
+        "key": "D",
+        "text_nl": "rijbewijs",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn auto heeft bijna geen benzine meer. Ik moet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پرکردنِ باکِ بنزین، «tanken» نامیده می‌شود.",
+    "grammar_rule_fa": "tanken=بنزین‌زدن.",
+    "extra_example_nl": "Ik tank bij het station aan de snelweg.",
+    "extra_example_fa": "کنارِ پمپ‌بنزینِ بزرگراه بنزین می‌زنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "parkeren",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "inchecken",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "keuren",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "tanken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پرکردنِ باکِ بنزین."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik zoek een plek om mijn auto neer te zetten in de stad. Ik rijd naar de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "محلِ پارکِ خودرو، «parkeergarage» نامیده می‌شود.",
+    "grammar_rule_fa": "parkeergarage=پارکینگِ سرپوشیده.",
+    "extra_example_nl": "De parkeergarage is vlak bij het centrum.",
+    "extra_example_fa": "پارکینگ نزدیکِ مرکزِ شهره.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "halte",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "tankstation",
+        "is_correct": false,
+        "feedback_fa": "این برای سوخت‌گیری است، نه پارک‌کردن."
+      },
+      {
+        "key": "C",
+        "text_nl": "parkeergarage",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محلِ پارکِ خودرو."
+      },
+      {
+        "key": "D",
+        "text_nl": "fietsenstalling",
+        "is_correct": false,
+        "feedback_fa": "این مخصوصِ دوچرخه است، نه خودرو."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik zoek een veilige plek om mijn fiets neer te zetten bij het station. Dit heet de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "محلِ پارکِ دوچرخه، «fietsenstalling» نامیده می‌شود.",
+    "grammar_rule_fa": "fietsenstalling=پارکینگِ دوچرخه.",
+    "extra_example_nl": "De fietsenstalling bij het station is groot.",
+    "extra_example_fa": "پارکینگِ دوچرخه کنارِ ایستگاه بزرگه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "perron",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "fietsenstalling",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محلِ پارکِ دوچرخه."
+      },
+      {
+        "key": "C",
+        "text_nl": "parkeergarage",
+        "is_correct": false,
+        "feedback_fa": "این برای خودرو است، نه دوچرخه."
+      },
+      {
+        "key": "D",
+        "text_nl": "halte",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik reis elke dag met de trein naar mijn werk. In plaats van elke keer een los kaartje te kopen, heb ik een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "اشتراکِ ماهانه/سالانه برای سفرهای مکرر، «abonnement» نامیده می‌شود.",
+    "grammar_rule_fa": "abonnement=اشتراکِ سفر.",
+    "extra_example_nl": "Mijn abonnement geldt voor een heel jaar.",
+    "extra_example_fa": "اشتراکم برای یک سالِ کامل معتبره.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "abonnement",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اشتراک برای سفرهای مکرر."
+      },
+      {
+        "key": "B",
+        "text_nl": "enkele reis",
+        "is_correct": false,
+        "feedback_fa": "این فقط یک بارِ سفر است، نه اشتراکِ دائمی."
+      },
+      {
+        "key": "C",
+        "text_nl": "retour",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "boete",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De trein staat stil op het station. Reizigers lopen naar de deuren en gaan de trein in. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "عملِ فیزیکیِ واردشدن به قطار، «instappen» نامیده می‌شود.",
+    "grammar_rule_fa": "instappen=سوارشدن.",
+    "extra_example_nl": "Iedereen stapt snel in voordat de deuren sluiten.",
+    "extra_example_fa": "همه سریع سوار می‌شن قبل از بسته‌شدنِ درها.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "inchecken",
+        "is_correct": false,
+        "feedback_fa": "این زدنِ کارت است، نه راه‌رفتن به داخلِ قطار."
+      },
+      {
+        "key": "B",
+        "text_nl": "uitstappen",
+        "is_correct": false,
+        "feedback_fa": "این پیاده‌شدن است، برعکسِ متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "overstappen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "instappen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واردشدنِ فیزیکی به قطار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Aan het einde van de reis lopen de mensen de trein uit. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پیاده‌شدن از قطار، «uitstappen» نامیده می‌شود.",
+    "grammar_rule_fa": "uitstappen=پیاده‌شدن.",
+    "extra_example_nl": "Ik stap uit bij de volgende halte.",
+    "extra_example_fa": "توی ایستگاهِ بعدی پیاده می‌شم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "overstappen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "inchecken",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "uitstappen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پیاده‌شدن از قطار."
+      },
+      {
+        "key": "D",
+        "text_nl": "instappen",
+        "is_correct": false,
+        "feedback_fa": "این سوارشدن است، برعکسِ متن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik loop niet zomaar naar buiten, maar naar het spoor van een andere trein om verder te reizen. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "تعویضِ قطار برای ادامه‌ی سفر، «overstappen» نامیده می‌شود.",
+    "grammar_rule_fa": "overstappen=تعویضِ قطار.",
+    "extra_example_nl": "In Utrecht stap ik over naar de trein naar Rotterdam.",
+    "extra_example_fa": "توی اوترخت به قطارِ روتردام عوض می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "uitchecken",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "overstappen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تعویض به قطارِ دیگر."
+      },
+      {
+        "key": "C",
+        "text_nl": "uitstappen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید به قطارِ دیگری می‌رود، نه فقط خروج."
+      },
+      {
+        "key": "D",
+        "text_nl": "instappen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als de trein aankomt, kijk ik op het bord hoe laat het exacte tijdstip van ___ is.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "زمانِ رسیدنِ قطار، «aankomst» نامیده می‌شود.",
+    "grammar_rule_fa": "aankomst=زمانِ رسیدن.",
+    "extra_example_nl": "De aankomst is gepland om 14:05 uur.",
+    "extra_example_fa": "زمانِ رسیدن برای ساعتِ ۱۴:۰۵ برنامه‌ریزی شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "aankomst",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زمانِ رسیدنِ قطار."
+      },
+      {
+        "key": "B",
+        "text_nl": "vertrek",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ حرکت است، نه رسیدن."
+      },
+      {
+        "key": "C",
+        "text_nl": "vertraging",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "dienstregeling",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat de trein ergens vertrekt, kijk ik op het bord hoe laat het exacte tijdstip van ___ is.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "زمانِ حرکتِ قطار، «vertrek» نامیده می‌شود.",
+    "grammar_rule_fa": "vertrek=زمانِ حرکت.",
+    "extra_example_nl": "Het vertrek is om 8:15 uur vanaf spoor 2.",
+    "extra_example_fa": "زمانِ حرکت ساعتِ ۸:۱۵ از خطِ ۲ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "aankomst",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ رسیدن است، نه حرکت."
+      },
+      {
+        "key": "B",
+        "text_nl": "vertraging",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "dienstregeling",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "vertrek",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زمانِ حرکتِ قطار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ga niet met eigen vervoer, maar reis met bus, tram of trein. Dit heet reizen met het ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "سیستمِ حمل‌ونقلِ عمومی مثلِ اتوبوس، تراموا و قطار، «openbaar vervoer» نامیده می‌شود.",
+    "grammar_rule_fa": "openbaar vervoer=حمل‌ونقلِ عمومی.",
+    "extra_example_nl": "Het openbaar vervoer is duur in Nederland.",
+    "extra_example_fa": "حمل‌ونقلِ عمومی توی هلند گرونه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "parkeergarage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "fietsenstalling",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "openbaar vervoer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ حمل‌ونقلِ عمومی."
+      },
+      {
+        "key": "D",
+        "text_nl": "rijbewijs",
+        "is_correct": false,
+        "feedback_fa": "این برای رانندگیِ خودروی شخصی است، نه حمل‌ونقلِ عمومی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bij de meeste treinstations kun je met de auto niet zomaar gratis stoppen; je moet betalen om te ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای گذاشتنِ خودرو در یک مکان، فعلِ «parkeren» به کار می‌رود.",
+    "grammar_rule_fa": "parkeren=پارک کردن.",
+    "extra_example_nl": "Ik moet twee euro betalen om te parkeren.",
+    "extra_example_fa": "برای پارک‌کردن باید دو یورو بدم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "keuren",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "parkeren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ گذاشتنِ خودرو در جای پارک."
+      },
+      {
+        "key": "C",
+        "text_nl": "tanken",
+        "is_correct": false,
+        "feedback_fa": "این سوخت‌گیری است، نه پارک‌کردن."
+      },
+      {
+        "key": "D",
+        "text_nl": "inchecken",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als de weg tijdelijk niet gebruikt kan worden door wegwerkzaamheden, volg ik de bordjes van de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "مسیرِ جایگزین به‌خاطرِ بستنِ موقتِ راه، «omleiding» نامیده می‌شود.",
+    "grammar_rule_fa": "omleiding=مسیرِ انحرافیِ موقت.",
+    "extra_example_nl": "De omleiding voegt tien minuten toe aan de reis.",
+    "extra_example_fa": "مسیرِ انحرافی ده دقیقه به سفر اضافه می‌کنه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omleiding",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مسیرِ جایگزینِ موقت."
+      },
+      {
+        "key": "B",
+        "text_nl": "file",
+        "is_correct": false,
+        "feedback_fa": "این ترافیک است، نه خودِ مسیرِ جایگزین."
+      },
+      {
+        "key": "C",
+        "text_nl": "dienstregeling",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "halte",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "transport",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voor deze snelle internationale trein moet ik extra geld betalen, bovenop mijn gewone kaartje. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "هزینه‌ی اضافیِ روی بلیطِ معمولی برای قطارهای خاص، «toeslag» نامیده می‌شود.",
+    "grammar_rule_fa": "toeslag=هزینه‌ی اضافی.",
+    "extra_example_nl": "Voor de snelle trein betaal ik een toeslag van 5 euro.",
+    "extra_example_fa": "برای قطارِ سریع ۵ یورو هزینه‌ی اضافی می‌دم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این کاهشِ قیمت است، نه هزینه‌ی اضافی."
+      },
+      {
+        "key": "B",
+        "text_nl": "abonnement",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "boete",
+        "is_correct": false,
+        "feedback_fa": "این جریمه‌ی تخلف است، نه هزینه‌ی خدماتِ اضافی."
+      },
+      {
+        "key": "D",
+        "text_nl": "toeslag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ هزینه‌ی اضافیِ بر بلیطِ معمولی."
+      }
+    ]
+  }
+]

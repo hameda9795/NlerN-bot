@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumvraag van Lena: «Ik zoek al drie maanden een huurwoning en krijg steeds nul reacties. Heeft iemand tips?»  Reactie van Bram: «Reageer binnen een uur nadat de woning online komt, dan heb je meer kans.»  Wat raadt Bram aan?",
+    "question_text_fa": "برام چه توصیه‌ای می‌کند؟",
+    "explanation_fa": "او پیشنهاد می‌دهد که ظرف یک ساعت پس از انتشار آگهی واکنش نشان دهد تا شانس بیشتری داشته باشد.",
+    "grammar_rule_fa": "«binnen een uur nadat …» یعنی سرعت عمل مهم است.",
+    "extra_example_nl": "Reageer snel, want populaire woningen gaan snel weg.",
+    "extra_example_fa": "سریع واکنش نشان بده، چون خانه‌های محبوب زود گرفته می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een makelaar inhuren om te zoeken.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی مشاور املاک چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wachten tot de prijs daalt.",
+        "is_correct": false,
+        "feedback_fa": "توصیه درباره‌ی صبر برای کاهش قیمت نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Snel reageren op nieuwe advertenties.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً توصیه‌ی برام."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen op zaterdag naar advertenties kijken.",
+        "is_correct": false,
+        "feedback_fa": "چنین محدودیت زمانی‌ای در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "neighbours",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumbericht van Karin: «Mijn buren maken elke avond na tien uur nog veel lawaai. Ik heb al twee keer aangebeld, maar het helpt niet.»  Reactie van Youssef: «Praat er niet meer zelf over, maar meld het bij de huisbaas.»  Wat stelt Youssef voor?",
+    "question_text_fa": "یوسف چه پیشنهادی می‌دهد؟",
+    "explanation_fa": "او پیشنهاد می‌کند که کارین دیگر شخصاً صحبت نکند، بلکه موضوع را به موجر گزارش دهد.",
+    "grammar_rule_fa": "«niet meer …, maar …» یک ساختار مقایسه‌ای است که راهِ جایگزین را نشان می‌دهد.",
+    "extra_example_nl": "Meld het probleem bij de huisbaas in plaats van zelf te praten.",
+    "extra_example_fa": "به‌جای صحبت شخصی، مشکل را به موجر گزارش بده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De politie bellen voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "او موجر را پیشنهاد می‌دهد، نه پلیس."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het probleem melden bij de huisbaas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً پیشنهاد یوسف."
+      },
+      {
+        "key": "C",
+        "text_nl": "Verhuizen naar een andere woning.",
+        "is_correct": false,
+        "feedback_fa": "چنین پیشنهادی داده نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nog een keer zelf aanbellen bij de buren.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید دیگر خودش صحبت نکند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumdiscussie: Mark schrijft: «Ik twijfel tussen een elektrische auto en een benzineauto. Wat is jullie ervaring?»  Reactie van Petra: «Een elektrische auto is duurder in aanschaf, maar je bespaart veel op brandstof.»  Wat zegt Petra over de elektrische auto?",
+    "question_text_fa": "پترا درباره‌ی خودروی برقی چه می‌گوید؟",
+    "explanation_fa": "او می‌گوید هرچند قیمت خرید بالاتر است، در هزینه‌ی سوخت صرفه‌جویی زیادی می‌شود.",
+    "grammar_rule_fa": "«duurder …, maar …» یک تضاد بین دو نکته را نشان می‌دهد.",
+    "extra_example_nl": "De aanschaf is duur, maar het rijden zelf is goedkoper.",
+    "extra_example_fa": "خرید گران است، اما رانندگی خودش ارزان‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De elektrische auto is in alles duurder.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید در سوخت صرفه‌جویی می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De aanschaf kost meer, maar het gebruik is goedkoper.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً هر دو نکته‌ی متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Petra raadt de elektrische auto af.",
+        "is_correct": false,
+        "feedback_fa": "او فقط مزیت و عیب را بیان می‌کند، توصیه‌ی منفی نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zowel de aanschaf als het gebruik zijn goedkoper.",
+        "is_correct": false,
+        "feedback_fa": "خرید گران‌تر است، نه ارزان‌تر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "parenting",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Forumvraag van Els: «Mijn dochter van vijf wil bijna nooit groente eten. Ik maak me zorgen.»  Reactie van Dirk: «Dwing haar niet, maar laat haar meehelpen met koken. Kinderen eten vaker wat ze zelf hebben gemaakt.»  Wat is het idee achter Dirks advies?",
+    "question_text_fa": "پیش‌فرضِ توصیه‌ی دیرک چیست؟",
+    "explanation_fa": "او فکر می‌کند اگر بچه در پختن غذا کمک کند، احتمال بیشتری دارد که آن غذا را بخورد.",
+    "grammar_rule_fa": "«kinderen eten vaker wat ze zelf hebben gemaakt» دلیلِ ضمنیِ پیشنهاد است.",
+    "extra_example_nl": "Laat haar de groente zelf snijden, dan eet ze het misschien wel.",
+    "extra_example_fa": "بگذار خودش سبزی را خرد کند، شاید بخورد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Els moet stoppen met groente aanbieden.",
+        "is_correct": false,
+        "feedback_fa": "او پیشنهاد می‌دهد شیوه را تغییر دهد، نه اینکه کلاً تسلیم شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Groente is niet belangrijk voor jonge kinderen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kinderen moeten gedwongen worden om groente te eten.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید «Dwing haar niet»، یعنی عکس این."
+      },
+      {
+        "key": "D",
+        "text_nl": "Betrokkenheid bij het koken maakt kinderen meer geneigd om te eten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً استدلال دیرک."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Forumbericht van Ahmed: «Ik overweeg mijn vaste baan op te zeggen voor een tijdelijke functie bij een startup. Het salaris is lager, maar ik leer meer.»  Reactie van Nadia: «Zorg dat je minstens zes maanden spaargeld achter de hand hebt voordat je die stap zet.»  Waar waarschuwt Nadia voor?",
+    "question_text_fa": "نادیا نسبت به چه چیزی هشدار می‌دهد؟",
+    "explanation_fa": "او هشدار می‌دهد که پیش از این تغییر باید حداقل شش ماه پس‌انداز مالی داشته باشد، به‌خاطر ریسکِ درآمد کمتر و شغل موقت.",
+    "grammar_rule_fa": "«zorg dat je … voordat je …» یک توصیه‌ی احتیاطیِ پیش از اقدام است.",
+    "extra_example_nl": "Zorg voor genoeg spaargeld voordat je van baan wisselt.",
+    "extra_example_fa": "قبل از تغییر شغل، پس‌انداز کافی داشته باش.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het risico dat hij niets nieuws zal leren.",
+        "is_correct": false,
+        "feedback_fa": "احمد خودش گفته یادگیری بیشتر می‌شود؛ نگرانی نادیا مالی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het risico dat de startup failliet gaat binnen een week.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیز خاصی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het financiële risico van een lager salaris en een tijdelijk contract.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توصیه به داشتن پس‌انداز نشانِ نگرانی مالی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het risico dat zijn oude werkgever boos wordt.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumvraag van Tom: «Ik werk fulltime en wil een avondstudie doen. Hoe combineren jullie dat?»  Reactie van Sofia: «Plan vaste studieblokken in je agenda, net als afspraken. Anders schuift het steeds naar achteren.»  Wat is het advies van Sofia?",
+    "question_text_fa": "توصیه‌ی سوفیا چیست؟",
+    "explanation_fa": "او پیشنهاد می‌کند بلوک‌های ثابت مطالعه مثل قرار ملاقات در تقویم برنامه‌ریزی شود تا به تعویق نیفتد.",
+    "grammar_rule_fa": "«net als afspraken» یک تشبیه است که اهمیت جدی گرفتنِ برنامه را نشان می‌دهد.",
+    "extra_example_nl": "Zet je studietijd in je agenda, zoals een vergadering.",
+    "extra_example_fa": "زمان مطالعه را مثل یک جلسه در تقویم بگذار.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vaste studietijden inplannen alsof het afspraken zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً توصیه‌ی سوفیا."
+      },
+      {
+        "key": "B",
+        "text_nl": "Stoppen met werken tijdens de studie.",
+        "is_correct": false,
+        "feedback_fa": "چنین پیشنهادی داده نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Studeren zonder vaste planning, spontaan wanneer het uitkomt.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً عکسِ این را توصیه می‌کند — برنامه‌ی ثابت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen in het weekend studeren.",
+        "is_correct": false,
+        "feedback_fa": "محدودیت به آخر هفته در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Forumbericht van Wim: «Zijn zonnepanelen de investering nog waard, met de nieuwe regels voor terugleveren?»  Reactie van Anke: «De terugverdientijd is langer geworden, maar bij een hoog energieverbruik blijft het financieel gunstig.»  Voor wie blijft het volgens Anke voordelig?",
+    "question_text_fa": "طبق نظر آنکه، برای چه کسانی همچنان مقرون‌به‌صرفه است؟",
+    "explanation_fa": "او می‌گوید مدت بازگشت سرمایه طولانی‌تر شده، اما برای خانوارهایی با مصرف بالای برق هنوز به‌صرفه است.",
+    "grammar_rule_fa": "«bij een hoog energieverbruik» شرط را برای نتیجه‌ی مثبت مشخص می‌کند.",
+    "extra_example_nl": "Bij laag verbruik duurt het langer voordat het loont.",
+    "extra_example_fa": "با مصرف کم، مدت بیشتری طول می‌کشد تا به‌صرفه شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor mensen die veel energie verbruiken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً شرط ذکرشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen voor mensen die net verhuisd zijn.",
+        "is_correct": false,
+        "feedback_fa": "چنین شرطی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor niemand meer, want de terugverdientijd is te lang.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید هنوز برای برخی به‌صرفه است، نه برای هیچ‌کس."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor iedereen, ongeacht het energieverbruik.",
+        "is_correct": false,
+        "feedback_fa": "او یک شرط مشخص می‌گذارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "pets",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumvraag van Judith: «Onze hond wordt onrustig als we hem meer dan vier uur alleen laten. Wat kunnen we doen?»  Reactie van Peter: «Bouw het rustig op: begin met tien minuten en breid dat langzaam uit.»  Wat stelt Peter voor?",
+    "question_text_fa": "پیتر چه راه‌حلی پیشنهاد می‌کند؟",
+    "explanation_fa": "او پیشنهاد می‌کند که به‌تدریج و از مدت کوتاه شروع کنند تا سگ به تنها ماندن عادت کند.",
+    "grammar_rule_fa": "«langzaam uitbreiden» یعنی به‌تدریج و آرام افزایش دادن.",
+    "extra_example_nl": "Begin klein en breid de tijd langzaam uit.",
+    "extra_example_fa": "با مدت کم شروع کن و به‌آرامی افزایش بده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De hond meteen acht uur alleen laten om te wennen.",
+        "is_correct": false,
+        "feedback_fa": "او پیشنهاد افزایش تدریجی می‌دهد، نه ناگهانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het alleen-zijn stap voor stap opbouwen, beginnend met korte tijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً پیشنهاد پیتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een tweede hond kopen als gezelschap.",
+        "is_correct": false,
+        "feedback_fa": "چنین پیشنهادی داده نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De hond nooit meer alleen laten.",
+        "is_correct": false,
+        "feedback_fa": "او راهی برای تنها ماندن تدریجی پیشنهاد می‌دهد، نه اجتناب کامل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumbericht van Rosa: «Ik wil goedkoop reizen met een klein budget. Tips?»  Reactie van Femke: «Boek je vluchten minstens acht weken van tevoren en reis buiten het hoogseizoen.»  Wat raadt Femke aan?",
+    "question_text_fa": "فمکه چه توصیه‌ای می‌کند؟",
+    "explanation_fa": "او پیشنهاد می‌کند که پرواز حداقل هشت هفته زودتر رزرو شود و در خارج از فصل شلوغی سفر انجام شود.",
+    "grammar_rule_fa": "«minstens acht weken van tevoren» یعنی حداقل زمانِ لازم برای رزرو.",
+    "extra_example_nl": "Vroeg boeken en buiten het seizoen reizen scheelt geld.",
+    "extra_example_fa": "رزرو زودهنگام و سفر خارج از فصل باعث صرفه‌جویی می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen in het hoogseizoen reizen.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً عکس این را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vroeg boeken en niet reizen in het hoogseizoen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً توصیه‌ی فمکه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Reizen zonder vooraf te boeken.",
+        "is_correct": false,
+        "feedback_fa": "او تأکید می‌کند از قبل رزرو کنید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Altijd op het laatste moment boeken voor de beste prijs.",
+        "is_correct": false,
+        "feedback_fa": "عکس توصیه‌ی متن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Forumdiscussie thuisonderwijs: Nina schrijft: «We overwegen thuisonderwijs voor onze zoon.»  Reactie van Erik: «Bedenk wel dat sociale contacten met leeftijdsgenoten dan minder vanzelfsprekend zijn; je moet dat zelf actief regelen.»  Wat is de zorg van Erik?",
+    "question_text_fa": "نگرانی اریک چیست؟",
+    "explanation_fa": "او نگران است که با آموزش خانگی، تعامل اجتماعی با هم‌سن‌وسالان دیگر خودبه‌خود اتفاق نمی‌افتد و باید فعالانه ترتیب داده شود.",
+    "grammar_rule_fa": "«minder vanzelfsprekend» یعنی دیگر به‌طور طبیعی رخ نمی‌دهد.",
+    "extra_example_nl": "Je moet zelf activiteiten zoeken voor sociaal contact.",
+    "extra_example_fa": "باید خودت برای تعامل اجتماعی فعالیت پیدا کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het kind zal minder leren dan op school.",
+        "is_correct": false,
+        "feedback_fa": "نگرانی درباره‌ی یادگیری نیست، بلکه درباره‌ی تعاملات اجتماعی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sociale contacten met andere kinderen moeten actief geregeld worden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نگرانیِ اریک."
+      },
+      {
+        "key": "C",
+        "text_nl": "Thuisonderwijs is wettelijk niet toegestaan.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De ouders moeten een lerarenopleiding volgen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "food",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumbericht van Iris: «Ik ben net vegetariër geworden. Waar krijg ik genoeg eiwit vandaan?»  Reactie van Bas: «Peulvruchten, noten en eieren zijn goede bronnen. Combineer ze gedurende de dag.»  Wat adviseert Bas?",
+    "question_text_fa": "باس چه توصیه‌ای می‌کند؟",
+    "explanation_fa": "او پیشنهاد می‌کند حبوبات، آجیل و تخم‌مرغ را در طول روز ترکیب کنند تا پروتئین کافی دریافت شود.",
+    "grammar_rule_fa": "«combineer ze gedurende de dag» یعنی در طول روز، نه در یک وعده.",
+    "extra_example_nl": "Eet peulvruchten en noten verspreid over de dag.",
+    "extra_example_fa": "حبوبات و آجیل را در طول روز پخش کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Eiwitpoeder gebruiken bij elke maaltijd.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی پودر پروتئین چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Peulvruchten, noten en eieren door de dag heen combineren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً توصیه‌ی باس."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen vlees vervangen door vis.",
+        "is_correct": false,
+        "feedback_fa": "او از خوراکی‌های گیاهی و تخم‌مرغ صحبت می‌کند، نه ماهی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Stoppen met vegetarisch eten als het te moeilijk wordt.",
+        "is_correct": false,
+        "feedback_fa": "چنین توصیه‌ای در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "neighbours",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Buurtapp-bericht van Hassan: «Kan iedereen de vuilnisbakken maandag pas na 18:00 uur buiten zetten? Ze staan nu vaak al vanaf zaterdag op straat.»  Wat is het probleem volgens Hassan?",
+    "question_text_fa": "طبق نظر حسن مشکل چیست؟",
+    "explanation_fa": "او می‌گوید سطل‌های زباله زودتر از موعد، یعنی از شنبه، در خیابان گذاشته می‌شوند، در حالی که باید فقط دوشنبه بعد از ساعت ۱۸ باشند.",
+    "grammar_rule_fa": "«pas na …» یعنی نه زودتر از آن ساعت.",
+    "extra_example_nl": "Zet de bak pas maandagavond buiten, niet eerder.",
+    "extra_example_fa": "سطل را فقط شب دوشنبه بیرون بگذار، نه زودتر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De buren zetten helemaal geen vuilnisbak buiten.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ آن‌ها خیلی زود می‌گذارند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er wordt helemaal geen vuilnis opgehaald.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vuilnisbakken zijn te klein.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی اندازه‌ی سطل چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vuilnisbakken staan al veel te vroeg buiten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً شکایتِ حسن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "consumer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumvraag van Simone: «Ik overweeg een tweedehands auto te kopen via internet. Waar moet ik op letten?»  Reactie van Ruben: «Vraag altijd om het onderhoudsboekje en laat de auto vóór aankoop door een garage checken.»  Wat raadt Ruben aan?",
+    "question_text_fa": "روبن چه پیشنهادی می‌کند؟",
+    "explanation_fa": "او پیشنهاد می‌کند دفترچه‌ی سرویس را بخواهد و پیش از خرید، ماشین را توسط تعمیرگاه بررسی کند.",
+    "grammar_rule_fa": "«vóór aankoop» یعنی پیش از خرید، نه بعد از آن.",
+    "extra_example_nl": "Laat de auto controleren voordat je betaalt.",
+    "extra_example_fa": "پیش از پرداخت، ماشین را بررسی کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De auto pas na aankoop laten controleren.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید پیش از خرید، نه بعد از آن."
+      },
+      {
+        "key": "B",
+        "text_nl": "Altijd de goedkoopste auto kiezen.",
+        "is_correct": false,
+        "feedback_fa": "چنین توصیه‌ای داده نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nooit een tweedehands auto via internet kopen.",
+        "is_correct": false,
+        "feedback_fa": "او راه احتیاط پیشنهاد می‌دهد، نه ممنوعیت کامل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het onderhoudsboekje vragen en de auto laten checken vóór de koop.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً توصیه‌ی روبن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Forumdiscussie: Lars schrijft: «Ik mis het contact met collega's nu ik altijd thuiswerk.»  Reactie van Marloes: «Spreek eens per week af om samen op kantoor te werken, in plaats van helemaal te stoppen met thuiswerken.»  Wat stelt Marloes voor als oplossing?",
+    "question_text_fa": "مارلوس چه راه‌حلی پیشنهاد می‌دهد؟",
+    "explanation_fa": "او پیشنهاد می‌کند به‌جای رها کردن کامل کار از خانه، یک روز در هفته با همکاران در اداره باشند.",
+    "grammar_rule_fa": "«in plaats van helemaal te stoppen» یک راه‌حلِ میانه را نشان می‌دهد، نه افراطی.",
+    "extra_example_nl": "Werk één dag per week op kantoor voor sociaal contact.",
+    "extra_example_fa": "یک روز در هفته در اداره کار کن برای تعامل اجتماعی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een nieuwe baan zoeken.",
+        "is_correct": false,
+        "feedback_fa": "چنین پیشنهادی داده نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Helemaal stoppen met thuiswerken.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً عکس این را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Eén dag per week samen op kantoor werken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً پیشنهاد مارلوس."
+      },
+      {
+        "key": "D",
+        "text_nl": "Meer vergaderingen online plannen.",
+        "is_correct": false,
+        "feedback_fa": "او فیزیکی بودن با هم را پیشنهاد می‌دهد، نه جلسه‌ی آنلاین بیشتر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "parenting",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Forumvraag van Carla: «Mijn zoon van acht is heel bang om fouten te maken op school.»  Reactie van Hugo: «Prijs zijn inzet, niet alleen het resultaat. Dan durft hij eerder iets nieuws te proberen.»  Wat is de kern van Hugo's advies?",
+    "question_text_fa": "هسته‌ی اصلی توصیه‌ی هوگو چیست؟",
+    "explanation_fa": "او پیشنهاد می‌کند به تلاش بچه توجه شود، نه فقط به نتیجه، تا او با اطمینان بیشتری چیزهای جدید را امتحان کند.",
+    "grammar_rule_fa": "«niet alleen …» تأکید می‌کند که چیزِ دیگری هم مهم است.",
+    "extra_example_nl": "Zeg dat je trots bent op zijn inzet, ook als het resultaat niet goed is.",
+    "extra_example_fa": "بگو به تلاشش افتخار می‌کنی، حتی اگر نتیجه خوب نباشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Fouten van het kind negeren en er niet over praten.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het kind nooit meer naar school laten gaan.",
+        "is_correct": false,
+        "feedback_fa": "چنین توصیه‌ای در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Aandacht geven aan de inspanning van het kind, niet alleen aan het resultaat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً اصلِ توصیه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het kind alleen prijzen bij een perfect resultaat.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید تلاش را ستایش کن، نه فقط نتیجه‌ی کامل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "neighbours",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumbericht van Willem: «Mijn buurman parkeert al weken zijn tweede auto voor mijn oprit. Ik kan er zelf niet meer in.»  Reactie van Saskia: «Bel de gemeente over foutparkeren, dat is meestal sneller dan zelf een discussie starten.»  Wat raadt Saskia aan?",
+    "question_text_fa": "ساسکیا چه توصیه‌ای می‌کند؟",
+    "explanation_fa": "او پیشنهاد می‌کند به‌جای بحث مستقیم با همسایه، به شهرداری درباره‌ی پارک اشتباه گزارش داده شود.",
+    "grammar_rule_fa": "«dat is meestal sneller dan …» یک مقایسه بین دو راه‌حل است.",
+    "extra_example_nl": "De gemeente bellen werkt vaak beter dan zelf ruzie maken.",
+    "extra_example_fa": "تماس با شهرداری معمولاً بهتر از دعوا کردن جواب می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zelf de auto van de buurman wegslepen.",
+        "is_correct": false,
+        "feedback_fa": "چنین توصیه‌ای در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zelf een parkeerbon uitschrijven.",
+        "is_correct": false,
+        "feedback_fa": "او تماس با شهرداری را پیشنهاد می‌دهد، نه جریمه‌نویسی شخصی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een lange discussie starten met de buurman.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً پیشنهاد می‌کند این کار را نکنند."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gemeente bellen in plaats van zelf met de buurman te praten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً پیشنهاد ساسکیا."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumvraag van Anouk: «Sportschool of thuis sporten met video's? Wat werkt beter voor jullie?»  Reactie van Jasper: «Bij mij werkt de sportschool beter, want de vaste tijd en andere mensen motiveren me om echt te gaan.»  Waarom werkt de sportschool voor Jasper beter?",
+    "question_text_fa": "برای یاسپر چرا باشگاه بهتر جواب می‌دهد؟",
+    "explanation_fa": "زمان مشخص و حضور دیگران او را برای رفتن به باشگاه انگیزه‌مند می‌کند.",
+    "grammar_rule_fa": "«motiveren om …» یعنی چیزی باعثِ انگیزه شدن می‌شود.",
+    "extra_example_nl": "Een vaste tijd helpt hem om niet af te zeggen.",
+    "extra_example_fa": "زمان ثابت کمکش می‌کند که کنسل نکند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vaste tijd en andere mensen geven hem motivatie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دلیلِ یاسپر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij vindt video's te moeilijk om te volgen.",
+        "is_correct": false,
+        "feedback_fa": "او درباره‌ی سختیِ ویدیوها صحبت نمی‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "De sportschool is veel goedkoper dan video's.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thuis sporten met video's kost te veel tijd.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumvraag van Elif: «Is een taalcursus Nederlands beter dan zelfstudie met een app?»  Reactie van Thijs: «Een cursus geeft structuur en directe feedback, iets wat een app minder goed kan bieden.»  Wat is volgens Thijs het voordeel van een cursus?",
+    "question_text_fa": "طبق نظر تیس، مزیت دوره چیست؟",
+    "explanation_fa": "او می‌گوید دوره ساختار و بازخورد مستقیم می‌دهد که اپلیکیشن به همان اندازه نمی‌تواند ارائه دهد.",
+    "grammar_rule_fa": "«iets wat … minder goed kan bieden» یعنی چیزی که جایگزین ضعیف‌تری برای آن دارد.",
+    "extra_example_nl": "Een docent geeft directe feedback, een app niet altijd.",
+    "extra_example_fa": "معلم بازخورد مستقیم می‌دهد، اپلیکیشن همیشه نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Apps werken helemaal niet voor taal leren.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید اپ کمتر خوب است، نه اینکه اصلاً کار نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Structuur en directe feedback van een docent.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً استدلال تیس."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een cursus is altijd gratis.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی هزینه چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een cursus duurt korter dan zelfstudie.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی مدت زمان چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "insurance",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumbericht van Noor: «Iedereen zegt dat ik van zorgverzekering moet wisselen, maar ik vind vergelijken lastig.»  Reactie van Daan: «Gebruik een onafhankelijke vergelijkingssite en let niet alleen op de premie, maar ook op de vergoedingen.»  Waar moet Noor volgens Daan op letten?",
+    "question_text_fa": "طبق نظر دان، نور باید به چه چیزی توجه کند؟",
+    "explanation_fa": "او می‌گوید نباید فقط به مبلغ حق بیمه نگاه کند، بلکه باید به میزان پوششِ خدمات هم توجه کند.",
+    "grammar_rule_fa": "«niet alleen …, maar ook …» یعنی دو چیز با هم مهم‌اند.",
+    "extra_example_nl": "Kijk niet alleen naar de prijs, maar ook naar wat er vergoed wordt.",
+    "extra_example_fa": "فقط به قیمت نگاه نکن، بلکه به میزان پوشش هم نگاه کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen de vergoedingen, de premie is niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید هر دو مهم‌اند، نه فقط یکی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen de reclame van de verzekeraar.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی تبلیغات چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zowel de premie als de vergoedingen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ هر دو نکته‌ی متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen de premie, verder niets.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید نه فقط حق بیمه."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "consumer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumklacht van Bianca: «Mijn bestelling zou drie dagen geleden binnenkomen, maar ik heb nog niets ontvangen.»  Reactie van Robert: «Stuur eerst een bericht naar de klantenservice met je bestelnummer, dat gaat sneller dan bellen.»  Wat raadt Robert aan?",
+    "question_text_fa": "رابرت چه پیشنهادی می‌کند؟",
+    "explanation_fa": "او پیشنهاد می‌کند ابتدا با شماره‌ی سفارش به خدمات مشتری پیام دهد، چون سریع‌تر از تماس تلفنی است.",
+    "grammar_rule_fa": "«dat gaat sneller dan bellen» یک مقایسه بین دو روش است.",
+    "extra_example_nl": "Een bericht met bestelnummer werkt vaak sneller dan bellen.",
+    "extra_example_fa": "پیام همراه با شماره‌ی سفارش معمولاً سریع‌تر از تماس جواب می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een bericht sturen naar de klantenservice met het bestelnummer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً پیشنهاد رابرت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen bellen, want dat is sneller dan een bericht.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید پیام سریع‌تر است، نه تماس."
+      },
+      {
+        "key": "C",
+        "text_nl": "Meteen een nieuwe bestelling plaatsen.",
+        "is_correct": false,
+        "feedback_fa": "چنین توصیه‌ای در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wachten zonder contact op te nemen.",
+        "is_correct": false,
+        "feedback_fa": "او پیشنهاد می‌کند اقدام کند، نه صبر کردن بی‌خبر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "food",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Forumvraag van Mila: «Mijn recept vraagt om verse basilicum, maar ik heb alleen gedroogde. Kan dat?»  Reactie van Otto: «Ja, maar gebruik dan minder, want gedroogde kruiden zijn sterker van smaak.»  Wat adviseert Otto?",
+    "question_text_fa": "اوتو چه توصیه‌ای می‌کند؟",
+    "explanation_fa": "او می‌گوید می‌توان از ریحان خشک استفاده کرد، اما باید مقدار کمتری استفاده شود چون طعمش قوی‌تر است.",
+    "grammar_rule_fa": "«minder gebruiken, want …» دلیل با want بیان می‌شود.",
+    "extra_example_nl": "Gebruik de helft van de hoeveelheid als het gedroogd is.",
+    "extra_example_fa": "اگر خشک باشد، نصف مقدار استفاده کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een andere kruid gebruiken in plaats van basilicum.",
+        "is_correct": false,
+        "feedback_fa": "چنین پیشنهادی داده نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Meer gedroogde basilicum gebruiken dan het recept aangeeft.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید کمتر، نه بیشتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Minder gedroogde basilicum gebruiken dan het recept aangeeft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً توصیه‌ی اوتو."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nooit gedroogde kruiden gebruiken in recepten.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید ممکن است، فقط با احتیاط."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Forumdiscussie energiebesparing: Kees schrijft: «Wat levert het meeste op: dubbel glas of een nieuwe cv-ketel?»  Reactie van Yvonne: «Bij een oud huis zonder isolatie is dubbel glas vaak effectiever, want dan verlies je minder warmte via de ramen.»  Wanneer is dubbel glas volgens Yvonne het meest effectief?",
+    "question_text_fa": "طبق نظر ایوون، شیشه‌ی دوجداره چه زمانی مؤثرترین گزینه است؟",
+    "explanation_fa": "او می‌گوید در خانه‌ی قدیمی و بدون عایق‌بندی، شیشه‌ی دوجداره مؤثرتر است چون گرمای کمتری از پنجره تلف می‌شود.",
+    "grammar_rule_fa": "«bij een oud huis zonder isolatie» شرط را برای این توصیه مشخص می‌کند.",
+    "extra_example_nl": "In een goed geïsoleerd huis maakt het minder verschil.",
+    "extra_example_fa": "در خانه‌ای که خوب عایق شده، تفاوت کمتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen als de cv-ketel al kapot is.",
+        "is_correct": false,
+        "feedback_fa": "چنین شرطی در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen in nieuwbouwhuizen.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً درباره‌ی خانه‌ی قدیمی صحبت می‌کند، نه نوساز."
+      },
+      {
+        "key": "C",
+        "text_nl": "In elk huis, ongeacht de isolatie.",
+        "is_correct": false,
+        "feedback_fa": "او یک شرط مشخص می‌گذارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "In een oud huis dat niet goed geïsoleerd is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً شرط ذکرشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumvraag van Selin: «Ik wil van huisarts wisselen, maar weet niet hoe dat werkt.»  Reactie van Kevin: «Schrijf je gewoon in bij de nieuwe praktijk; die regelt meestal zelf het overdragen van je dossier.»  Wat hoeft Selin niet zelf te doen?",
+    "question_text_fa": "سلین نیازی به انجام چه کاری ندارد؟",
+    "explanation_fa": "او نیازی ندارد خودش پرونده‌ی پزشکی را منتقل کند؛ کلینیک جدید معمولاً این کار را انجام می‌دهد.",
+    "grammar_rule_fa": "«die regelt meestal zelf …» یعنی طرفِ دیگر آن را انجام می‌دهد.",
+    "extra_example_nl": "De nieuwe praktijk regelt het dossier meestal zelf.",
+    "extra_example_fa": "کلینیک جدید معمولاً خودش پرونده را هماهنگ می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zelf haar medisch dossier overdragen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کلینیک جدید معمولاً این کار را انجام می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Haar oude huisarts op de hoogte stellen.",
+        "is_correct": false,
+        "feedback_fa": "در متن ذکر نشده که این کار لازم نیست؛ فقط دربارهٔ پرونده صحبت شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een nieuwe huisarts zoeken.",
+        "is_correct": false,
+        "feedback_fa": "این هم بر عهده‌ی خودِ اوست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zich inschrijven bij de nieuwe praktijk.",
+        "is_correct": false,
+        "feedback_fa": "این کاری است که او خودش باید انجام دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "parenting",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Forumvraag van Denise: «Hoeveel schermtijd is normaal voor een kind van tien?»  Reactie van Omar: «Er is geen vast aantal uren; kijk vooral naar wat het vervangt. Gaat slaap of buitenspelen eraan, dan is het te veel.»  Waar moet Denise volgens Omar vooral op letten?",
+    "question_text_fa": "طبق نظر عمر، دنیز باید بیشتر به چه چیزی توجه کند؟",
+    "explanation_fa": "او می‌گوید مهم نیست چند ساعت است، بلکه اینکه آیا خواب یا بازی بیرون از خانه فدای آن می‌شود یا نه.",
+    "grammar_rule_fa": "«kijk vooral naar wat het vervangt» یعنی معیارِ اصلی چیزِ دیگری است.",
+    "extra_example_nl": "Als het kind minder buiten speelt door de telefoon, is het te veel.",
+    "extra_example_fa": "اگر بچه به‌خاطر موبایل کمتر بیرون بازی کند، بیش از حد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het merk van de telefoon of tablet.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het exacte aantal uren per dag.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید عدد ثابتی وجود ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Of het kind huiswerk op de telefoon maakt.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Of slaap of buitenspelen minder worden door schermtijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً معیارِ عمر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumdiscussie: Fien schrijft: «Fietsen of OV naar werk, wat is slimmer bij een afstand van 15 kilometer?»  Reactie van Guido: «Met een elektrische fiets is 15 kilometer prima te doen en vaak sneller dan de bus met overstappen.»  Wat zegt Guido over de elektrische fiets?",
+    "question_text_fa": "خیدو درباره‌ی دوچرخه‌ی برقی چه می‌گوید؟",
+    "explanation_fa": "او می‌گوید مسافت ۱۵ کیلومتری با دوچرخه‌ی برقی راحت طی می‌شود و اغلب از اتوبوس با تعویض خط سریع‌تر است.",
+    "grammar_rule_fa": "«vaak sneller dan …» یک مقایسه‌ی مستقیم است.",
+    "extra_example_nl": "Met een elektrische fiets ben je vaak sneller dan met de bus.",
+    "extra_example_fa": "با دوچرخه‌ی برقی معمولاً از اتوبوس سریع‌تری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het is haalbaar en vaak sneller dan de bus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نظر خیدو."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het is te ver om elke dag te fietsen.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید امکان‌پذیر است، نه خیلی دور."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bus is altijd sneller dan de fiets.",
+        "is_correct": false,
+        "feedback_fa": "عکس نظر خیدو است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een elektrische fiets is te duur voor dagelijks gebruik.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumbericht van Priya: «Ik heb morgen mijn eerste sollicitatiegesprek in jaren. Ik ben zenuwachtig.»  Reactie van Stefan: «Bereid drie concrete voorbeelden voor van situaties waarin je iets hebt opgelost. Dat geeft je houvast.»  Wat raadt Stefan aan om te doen?",
+    "question_text_fa": "استفان چه پیشنهادی می‌کند؟",
+    "explanation_fa": "او پیشنهاد می‌کند سه نمونه‌ی مشخص از موقعیت‌هایی که مشکلی را حل کرده آماده کند تا در مصاحبه احساس اطمینان بیشتری داشته باشد.",
+    "grammar_rule_fa": "«dat geeft je houvast» یعنی این کار حس امنیت و اطمینان می‌دهد.",
+    "extra_example_nl": "Bereid voorbeelden voor, dan voel je je zekerder.",
+    "extra_example_fa": "نمونه‌ها را آماده کن، آنگاه احساس اطمینان بیشتری می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Helemaal niets voorbereiden en spontaan antwoorden.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً پیشنهاد آماده‌سازی می‌دهد، نه بداهه‌گویی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Drie concrete voorbeelden van opgeloste problemen voorbereiden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً پیشنهاد استفان."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een vriend meenemen naar het gesprek.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het gesprek afzeggen vanwege de zenuwen.",
+        "is_correct": false,
+        "feedback_fa": "چنین توصیه‌ای در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Buurtapp-bericht van Fatima: «Vanaf volgende maand moeten we plastic en gft apart aanbieden. Zet twee bakken buiten in plaats van één.»  Wat verandert er volgens Fatima?",
+    "question_text_fa": "طبق نظر فاطمه چه چیزی تغییر می‌کند؟",
+    "explanation_fa": "از ماه بعد باید پلاستیک و زباله‌ی آلی جداگانه و در دو سطل مجزا گذاشته شود، نه در یک سطل.",
+    "grammar_rule_fa": "«in plaats van één» یعنی جایگزینِ یک چیز با دو چیز.",
+    "extra_example_nl": "Vanaf nu twee aparte bakken buiten zetten.",
+    "extra_example_fa": "از حالا باید دو سطل جداگانه بیرون گذاشته شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen gft moet apart worden aangeboden, plastic niet.",
+        "is_correct": false,
+        "feedback_fa": "هر دو باید جداگانه باشند، نه فقط gft."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er wordt helemaal geen afval meer opgehaald.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Plastic mag niet meer worden aangeboden.",
+        "is_correct": false,
+        "feedback_fa": "پلاستیک همچنان جمع‌آوری می‌شود، فقط جداگانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Plastic en gft moeten voortaan gescheiden worden aangeboden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان تغییر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Forumdiscussie pensioen: Hendrik schrijft: «Ik overweeg vervroegd met pensioen te gaan op 63.»  Reactie van Ingrid: «Reken goed door wat dat betekent voor je maandelijkse uitkering; vervroegd stoppen levert vaak jarenlang een lager bedrag op.»  Waarvoor waarschuwt Ingrid?",
+    "question_text_fa": "اینگرید نسبت به چه چیزی هشدار می‌دهد؟",
+    "explanation_fa": "او هشدار می‌دهد که بازنشستگی زودهنگام معمولاً باعث می‌شود مستمری ماهانه برای سال‌های طولانی کمتر باشد.",
+    "grammar_rule_fa": "«levert vaak … op» یعنی نتیجه‌ای که معمولاً حاصل می‌شود.",
+    "extra_example_nl": "Vervroegd stoppen betekent meestal minder pensioen per maand.",
+    "extra_example_fa": "بازنشستگی زودهنگام معمولاً یعنی مستمری کمتر در ماه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een lager maandelijks pensioenbedrag voor lange tijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً هشدار اینگرید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat hij daarna niet meer mag werken.",
+        "is_correct": false,
+        "feedback_fa": "چنین محدودیتی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het verlies van zijn zorgverzekering.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een boete van de overheid voor vroeg stoppen.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی جریمه چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "pets",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Forumvraag van Nienke: «Onze kat eet al twee dagen bijna niets. Moeten we ons zorgen maken?»  Reactie van Victor: «Bij twee dagen zonder eten kan dat gevaarlijk zijn voor een kat; ga liever vandaag nog naar de dierenarts.»  Wat adviseert Victor?",
+    "question_text_fa": "ویکتور چه توصیه‌ای می‌کند؟",
+    "explanation_fa": "او پیشنهاد می‌کند همین امروز به دامپزشک مراجعه شود، چون دو روز بدون غذا برای گربه می‌تواند خطرناک باشد.",
+    "grammar_rule_fa": "«liever vandaag nog» یک توصیه‌ی فوری و اکید است.",
+    "extra_example_nl": "Wacht niet langer, ga vandaag naar de dierenarts.",
+    "extra_example_fa": "بیشتر منتظر نمان، همین امروز نزد دامپزشک برو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nog vandaag naar de dierenarts gaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً توصیه‌ی ویکتور."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nog een paar dagen afwachten.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید همین امروز اقدام کنند، نه صبر بیشتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zich geen zorgen maken, het is normaal.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً می‌گوید این می‌تواند خطرناک باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het voer van de kat veranderen.",
+        "is_correct": false,
+        "feedback_fa": "چنین پیشنهادی داده نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "forum_discussion",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Forumdiscussie verhuizen: Zara schrijft: «We overwegen te verhuizen naar een nieuwe wijk buiten de stad. Ervaringen?»  Reactie van Milan: «Wij wonen er nu twee jaar; het is rustiger, maar reken op minstens twintig minuten extra reistijd naar werk.»  Wat is het nadeel dat Milan noemt?",
+    "question_text_fa": "میلان به چه عیبی اشاره می‌کند؟",
+    "explanation_fa": "او می‌گوید هرچند محله آرام‌تر است، باید حداقل بیست دقیقه زمان رفت‌وآمد بیشتر برای سرکار در نظر گرفته شود.",
+    "grammar_rule_fa": "«maar reken op …» یک هشدارِ عملی همراه با شرط است.",
+    "extra_example_nl": "Het is rustiger wonen, maar het reizen duurt langer.",
+    "extra_example_fa": "زندگی آرام‌تر است، اما سفر طولانی‌تر می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De huizen zijn duurder dan in de stad.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er zijn geen scholen in de buurt.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een langere reistijd naar werk, minstens twintig minuten extra.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً عیبِ ذکرشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De wijk is drukker en lawaaieriger.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید آرام‌تر است، نه شلوغ‌تر."
+      }
+    ]
+  }
+]

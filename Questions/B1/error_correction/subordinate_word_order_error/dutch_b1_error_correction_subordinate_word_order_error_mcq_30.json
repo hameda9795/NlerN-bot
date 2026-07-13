@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "omdat_verb_final",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij blijft thuis omdat hij is ziek.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "بعد از «omdat»، فعلِ «is» باید به انتهای جمله‌ی فرعی برود: «omdat hij ziek is».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij blijft thuis omdat ze moe is.",
+    "extra_example_fa": "او خانه می‌ماند چون خسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij blijft thuis omdat hij ziek is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij blijft thuis omdat hij is ziek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij blijft thuis hij is ziek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «omdat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij blijft thuis omdat is hij ziek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «omdat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "omdat_verb_final",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij gaat vroeg naar bed omdat ze moet werken morgen.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "بعد از «omdat»، فعلِ کمکیِ «moet» باید به انتهای جمله‌ی فرعی برود: «omdat ze morgen moet werken».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hij gaat laat slapen omdat hij morgen vrij is.",
+    "extra_example_fa": "او دیر می‌خوابد چون فردا تعطیل است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij gaat vroeg naar bed omdat ze moet werken morgen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij gaat vroeg naar bed omdat ze morgen moet werken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij gaat vroeg naar bed ze moet morgen werken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «omdat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij gaat vroeg naar bed omdat moet ze morgen werken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «omdat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "omdat_verb_final",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij nemen de trein omdat de auto is kapot.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "بعد از «omdat»، فعلِ «is» باید به انتهای جمله‌ی فرعی برود: «omdat de auto kapot is».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij neemt de fiets omdat de bus te duur is.",
+    "extra_example_fa": "او دوچرخه می‌گیرد چون اتوبوس خیلی گران است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij nemen de trein omdat de auto is kapot.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij nemen de trein de auto kapot is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «omdat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij nemen de trein omdat de auto kapot is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij nemen de trein omdat is de auto kapot.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «omdat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "omdat_verb_final",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij is moe omdat zij ruimt het huis op.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "فعلِ جدایی‌پذیرِ «opruimen» در جمله‌ی فرعی باید دوباره یک‌کلمه‌ای و در انتها بیاید: «omdat zij het huis opruimt».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hij is blij omdat hij zijn kamer opruimt.",
+    "extra_example_fa": "او خوشحال است چون اتاقش را مرتب می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij is moe omdat zij ruimt het huis op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij is moe zij ruimt het huis op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «omdat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij is moe omdat ruimt zij het huis op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «omdat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij is moe omdat zij het huis opruimt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "omdat_verb_final",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De leerlingen zijn blij omdat de les eindigt vroeg.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "بعد از «omdat»، فعلِ «eindigt» باید به انتهای جمله‌ی فرعی برود: «omdat de les vroeg eindigt».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "De studenten zijn moe omdat de dag laat begint.",
+    "extra_example_fa": "دانشجویان خسته‌اند چون روز دیر شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De leerlingen zijn blij omdat de les vroeg eindigt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De leerlingen zijn blij omdat de les eindigt vroeg.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De leerlingen zijn blij de les vroeg eindigt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «omdat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De leerlingen zijn blij omdat eindigt de les vroeg.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «omdat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "omdat_verb_final",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De klant is boos omdat de levering komt te laat.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "بعد از «omdat»، فعلِ «komt» باید به انتهای جمله‌ی فرعی برود: «omdat de levering te laat komt».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "De klant is tevreden omdat het pakket snel aankomt.",
+    "extra_example_fa": "مشتری راضی است چون بسته سریع می‌رسد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De klant is boos omdat de levering komt te laat.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De klant is boos omdat de levering te laat komt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De klant is boos de levering te laat komt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «omdat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De klant is boos omdat komt de levering te laat.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «omdat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "omdat_verb_final",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik neem een paraplu mee omdat het regent vandaag.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "بعد از «omdat»، فعلِ «regent» باید به انتهای جمله‌ی فرعی برود: «omdat het vandaag regent».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij neemt een jas mee omdat het koud wordt.",
+    "extra_example_fa": "او یک کت می‌برد چون هوا سرد می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem een paraplu mee omdat het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem een paraplu mee het vandaag regent.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «omdat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem een paraplu mee omdat het vandaag regent.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik neem een paraplu mee omdat regent het vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «omdat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "omdat_verb_final",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De patiënt wacht lang omdat de dokter heeft het druk.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "بعد از «omdat»، فعلِ «heeft» باید به انتهای جمله‌ی فرعی برود: «omdat de dokter het druk heeft».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "De klant wacht omdat de winkel het druk heeft.",
+    "extra_example_fa": "مشتری منتظر است چون مغازه شلوغ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De patiënt wacht lang omdat de dokter heeft het druk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De patiënt wacht lang de dokter het druk heeft.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «omdat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De patiënt wacht lang omdat heeft de dokter het druk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «omdat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De patiënt wacht lang omdat de dokter het druk heeft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «omdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "terwijl_verb_final",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij luistert naar muziek terwijl ze werkt aan het rapport.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "بعد از «terwijl»، فعلِ «werkt» باید به انتهای جمله‌ی فرعی برود: «terwijl ze aan het rapport werkt».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hij eet terwijl hij naar het nieuws kijkt.",
+    "extra_example_fa": "او غذا می‌خورد درحالی‌که اخبار می‌بیند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij luistert naar muziek terwijl ze aan het rapport werkt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij luistert naar muziek terwijl ze werkt aan het rapport.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij luistert naar muziek ze werkt aan het rapport.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «terwijl» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij luistert naar muziek terwijl werkt ze aan het rapport.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «terwijl» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "terwijl_verb_final",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij kookt het eten terwijl zijn vrouw dekt de tafel.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "بعد از «terwijl»، فعلِ «dekt» باید به انتهای جمله‌ی فرعی برود: «terwijl zijn vrouw de tafel dekt».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij zingt terwijl ze de auto wast.",
+    "extra_example_fa": "او آواز می‌خواند درحالی‌که ماشین را می‌شوید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij kookt het eten terwijl zijn vrouw dekt de tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij kookt het eten terwijl zijn vrouw de tafel dekt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij kookt het eten zijn vrouw de tafel dekt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «terwijl» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij kookt het eten terwijl dekt zijn vrouw de tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «terwijl» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "terwijl_verb_final",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De kinderen spelen buiten terwijl het is nog droog.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "بعد از «terwijl»، فعلِ «is» باید به انتهای جمله‌ی فرعی برود: «terwijl het nog droog is».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "De mensen wandelen terwijl het nog warm is.",
+    "extra_example_fa": "مردم قدم می‌زنند درحالی‌که هنوز هوا گرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen spelen buiten terwijl het is nog droog.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen spelen buiten het nog droog is.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «terwijl» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen spelen buiten terwijl het nog droog is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen spelen buiten terwijl is het nog droog.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «terwijl» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "terwijl_verb_final",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik lees de krant terwijl ik drink mijn koffie.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "بعد از «terwijl»، فعلِ «drink» باید به انتهای جمله‌ی فرعی برود: «terwijl ik mijn koffie drink».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij werkt terwijl ze thee drinkt.",
+    "extra_example_fa": "او کار می‌کند درحالی‌که چای می‌نوشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik lees de krant terwijl ik drink mijn koffie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik lees de krant ik mijn koffie drink.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «terwijl» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik lees de krant terwijl drink ik mijn koffie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «terwijl» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik lees de krant terwijl ik mijn koffie drink.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "terwijl_verb_final",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De monteur repareert de auto terwijl de klant zit in de wachtkamer.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "بعد از «terwijl»، فعلِ «zit» باید به انتهای جمله‌ی فرعی برود: «terwijl de klant in de wachtkamer zit».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "De kapper knipt terwijl de klant in de spiegel kijkt.",
+    "extra_example_fa": "آرایشگر مو می‌زند درحالی‌که مشتری در آینه نگاه می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De monteur repareert de auto terwijl de klant in de wachtkamer zit.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De monteur repareert de auto terwijl de klant zit in de wachtkamer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «terwijl» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De monteur repareert de auto de klant in de wachtkamer zit.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «terwijl» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De monteur repareert de auto terwijl zit de klant in de wachtkamer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «terwijl» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "voordat_verb_final",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij eten iets voordat we gaan naar de bioscoop.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "بعد از «voordat»، فعلِ «gaan» باید به انتهای جمله‌ی فرعی برود: «voordat we naar de bioscoop gaan».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij drinkt water voordat ze gaat sporten.",
+    "extra_example_fa": "او آب می‌نوشد قبل از اینکه ورزش کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij eten iets voordat we gaan naar de bioscoop.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij eten iets voordat we naar de bioscoop gaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij eten iets we naar de bioscoop gaan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «voordat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij eten iets voordat gaan we naar de bioscoop.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «voordat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "voordat_verb_final",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij belt haar moeder voordat ze verlaat het huis.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "بعد از «voordat»، فعلِ «verlaat» باید به انتهای جمله‌ی فرعی برود: «voordat ze het huis verlaat».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hij sluit de deur voordat hij vertrekt.",
+    "extra_example_fa": "او در را می‌بندد قبل از اینکه برود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij belt haar moeder voordat ze verlaat het huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij belt haar moeder ze het huis verlaat.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «voordat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij belt haar moeder voordat ze het huis verlaat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij belt haar moeder voordat verlaat ze het huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «voordat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "voordat_verb_final",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij controleert zijn e-mail voordat hij gaat naar bed.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "بعد از «voordat»، فعلِ «gaat» باید به انتهای جمله‌ی فرعی برود: «voordat hij naar bed gaat».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij leest het bericht voordat ze antwoordt.",
+    "extra_example_fa": "او پیام را می‌خواند قبل از اینکه جواب دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij controleert zijn e-mail voordat hij gaat naar bed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij controleert zijn e-mail hij naar bed gaat.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «voordat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij controleert zijn e-mail voordat gaat hij naar bed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «voordat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij controleert zijn e-mail voordat hij naar bed gaat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "voordat_verb_final",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De reizigers checken in voordat het vliegtuig vertrekt naar Rome.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "بعد از «voordat»، فعلِ «vertrekt» باید به انتهای جمله‌ی فرعی برود: «voordat het vliegtuig naar Rome vertrekt».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "De passagiers wachten voordat de trein binnenkomt.",
+    "extra_example_fa": "مسافران منتظرند قبل از اینکه قطار برسد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De reizigers checken in voordat het vliegtuig naar Rome vertrekt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De reizigers checken in voordat het vliegtuig vertrekt naar Rome.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «voordat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De reizigers checken in het vliegtuig naar Rome vertrekt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «voordat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De reizigers checken in voordat vertrekt het vliegtuig naar Rome.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «voordat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "nadat_verb_final",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij voelde zich beter nadat hij rustte een tijdje.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "بعد از «nadat»، فعلِ «rustte» باید به انتهای جمله‌ی فرعی برود: «nadat hij een tijdje rustte».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij voelde zich rustiger nadat ze even wandelde.",
+    "extra_example_fa": "او آرام‌تر شد بعد از اینکه کمی قدم زد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij voelde zich beter nadat hij rustte een tijdje.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij voelde zich beter nadat hij een tijdje rustte.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij voelde zich beter hij rustte een tijdje.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «nadat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij voelde zich beter nadat rustte hij een tijdje.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «nadat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "nadat_verb_final",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij ging naar huis nadat de vergadering eindigde eindelijk.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "بعد از «nadat»، فعلِ «eindigde» باید به انتهای جمله‌ی فرعی برود: «nadat de vergadering eindelijk eindigde».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hij ging weg nadat het gesprek eindelijk stopte.",
+    "extra_example_fa": "او رفت بعد از اینکه بالاخره گفت‌وگو تمام شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij ging naar huis nadat de vergadering eindigde eindelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij ging naar huis de vergadering eindelijk eindigde.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «nadat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij ging naar huis nadat de vergadering eindelijk eindigde.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij ging naar huis nadat eindigde de vergadering eindelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «nadat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "nadat_verb_final",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De kinderen gingen slapen nadat ze poetsten hun tanden.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "بعد از «nadat»، فعلِ «poetsten» باید به انتهای جمله‌ی فرعی برود: «nadat ze hun tanden poetsten».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Het kind ging douchen nadat het buiten speelde.",
+    "extra_example_fa": "آن بچه دوش گرفت بعد از اینکه بیرون بازی کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen gingen slapen nadat ze poetsten hun tanden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen gingen slapen ze hun tanden poetsten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «nadat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen gingen slapen nadat poetsten ze hun tanden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «nadat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen gingen slapen nadat ze hun tanden poetsten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "nadat_verb_final",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij tekende het contract nadat hij las alles goed door.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "فعلِ جدایی‌پذیرِ «doorlezen» در جمله‌ی فرعی باید دوباره یک‌کلمه‌ای و در انتها بیاید: «nadat hij alles goed doorlas».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij ondertekende de brief nadat ze die twee keer doorlas.",
+    "extra_example_fa": "او نامه را امضا کرد بعد از اینکه دو بار آن را خواند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij tekende het contract nadat hij alles goed doorlas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij tekende het contract nadat hij las alles goed door.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «nadat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij tekende het contract hij alles goed doorlas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «nadat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij tekende het contract nadat doorlas hij alles goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «nadat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "hoewel_verb_final",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hoewel het regende hard, gingen wij toch wandelen.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "بعد از «hoewel»، فعلِ «regende» باید به انتهای جمله‌ی فرعی برود؛ و چون این جمله اول آمده، در جمله‌ی اصلی فعل بلافاصله بعد از کاما می‌آید.",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hoewel het koud was, gingen zij toch zwemmen.",
+    "extra_example_fa": "هرچند هوا سرد بود، آن‌ها بازهم شنا کردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoewel het regende hard, gingen wij toch wandelen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoewel het hard regende, gingen wij toch wandelen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het hard regende, gingen wij toch wandelen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «hoewel» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoewel het hard regende, wij gingen toch wandelen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی جمله‌ی فرعی (hoewel) اول می‌آید، در جمله‌ی اصلی فعل باید بلافاصله بعد از کاما بیاید، نه فاعل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "hoewel_verb_final",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoewel hij was moe, werkte hij door tot laat.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "بعد از «hoewel»، فعلِ «was» باید به انتهای جمله‌ی فرعی برود؛ و در جمله‌ی اصلی فعل بلافاصله بعد از کاما می‌آید.",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hoewel zij ziek was, ging zij toch naar haar werk.",
+    "extra_example_fa": "هرچند او مریض بود، بازهم به سرِ کار رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoewel hij was moe, werkte hij door tot laat.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij was moe, werkte hij door tot laat.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «hoewel» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoewel hij moe was, werkte hij door tot laat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoewel hij moe was, hij werkte door tot laat.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی جمله‌ی فرعی (hoewel) اول می‌آید، در جمله‌ی اصلی فعل باید بلافاصله بعد از کاما بیاید، نه فاعل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "hoewel_verb_final",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hoewel de huur is hoog, blijft zij in dit appartement wonen.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "بعد از «hoewel»، فعلِ «is» باید به انتهای جمله‌ی فرعی برود؛ و در جمله‌ی اصلی فعل بلافاصله بعد از کاما می‌آید.",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hoewel de kamer klein is, vindt hij het gezellig.",
+    "extra_example_fa": "هرچند اتاق کوچک است، او آن را دنج می‌داند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoewel de huur is hoog, blijft zij in dit appartement wonen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De huur hoog is, blijft zij in dit appartement wonen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «hoewel» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoewel de huur hoog is, zij blijft in dit appartement wonen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی جمله‌ی فرعی (hoewel) اول می‌آید، در جمله‌ی اصلی فعل باید بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoewel de huur hoog is, blijft zij in dit appartement wonen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "hoewel_verb_final",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoewel de reis duurde lang, genoten wij ervan.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "بعد از «hoewel»، فعلِ «duurde» باید به انتهای جمله‌ی فرعی برود؛ و در جمله‌ی اصلی فعل بلافاصله بعد از کاما می‌آید.",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hoewel het bezoek kort was, was het heel leuk.",
+    "extra_example_fa": "هرچند دیدار کوتاه بود، خیلی خوب بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoewel de reis lang duurde, genoten wij ervan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoewel de reis duurde lang, genoten wij ervan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «hoewel» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De reis lang duurde, genoten wij ervan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «hoewel» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoewel de reis lang duurde, wij genoten ervan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی جمله‌ی فرعی (hoewel) اول می‌آید، در جمله‌ی اصلی فعل باید بلافاصله بعد از کاما بیاید، نه فاعل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "zodat_verb_final",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij spreekt langzaam zodat iedereen begrijpt het.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "بعد از «zodat»، فعلِ «begrijpt» باید به انتهای جمله‌ی فرعی برود: «zodat iedereen het begrijpt».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «zodat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hij schrijft duidelijk zodat iedereen het leest.",
+    "extra_example_fa": "او واضح می‌نویسد تا همه بتوانند بخوانند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij spreekt langzaam zodat iedereen begrijpt het.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «zodat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij spreekt langzaam zodat iedereen het begrijpt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «zodat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij spreekt langzaam iedereen het begrijpt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «zodat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij spreekt langzaam zodat begrijpt iedereen het.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «zodat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "zodat_verb_final",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij zet de wekker vroeg zodat hij komt op tijd.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "بعد از «zodat»، فعلِ «komt» باید به انتهای جمله‌ی فرعی برود: «zodat hij op tijd komt».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «zodat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij plant alles vooraf zodat ze niet te laat komt.",
+    "extra_example_fa": "او همه‌چیز را از قبل برنامه‌ریزی می‌کند تا دیر نکند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij zet de wekker vroeg zodat hij komt op tijd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «zodat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij zet de wekker vroeg hij op tijd komt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «zodat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij zet de wekker vroeg zodat hij op tijd komt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «zodat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij zet de wekker vroeg zodat komt hij op tijd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «zodat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "zodat_verb_final",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De school stuurt een brief zodat de ouders weten het.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "بعد از «zodat»، فعلِ «weten» باید به انتهای جمله‌ی فرعی برود: «zodat de ouders het weten».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «zodat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Het bedrijf stuurt een update zodat de klanten het zien.",
+    "extra_example_fa": "شرکت یک به‌روزرسانی می‌فرستد تا مشتریان آن را ببینند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De school stuurt een brief zodat de ouders weten het.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «zodat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De school stuurt een brief de ouders het weten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «zodat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De school stuurt een brief zodat weten de ouders het.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «zodat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De school stuurt een brief zodat de ouders het weten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «zodat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "totdat_verb_final",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij bleven wachten totdat de bus kwam eindelijk.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "بعد از «totdat»، فعلِ «kwam» باید به انتهای جمله‌ی فرعی برود: «totdat de bus eindelijk kwam».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «totdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Zij bleef zitten totdat de trein eindelijk vertrok.",
+    "extra_example_fa": "او نشسته ماند تا اینکه بالاخره قطار حرکت کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij bleven wachten totdat de bus eindelijk kwam.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «totdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij bleven wachten totdat de bus kwam eindelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «totdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij bleven wachten de bus eindelijk kwam.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «totdat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij bleven wachten totdat kwam de bus eindelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «totdat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "subordinate_word_order_error",
+    "subtopic": "totdat_verb_final",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij bleef roeren totdat de saus werd dik.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "بعد از «totdat»، فعلِ «werd» باید به انتهای جمله‌ی فرعی برود: «totdat de saus dik werd».",
+    "correction_rule_fa": "در جمله‌ی فرعی که با «totdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود.",
+    "extra_example_nl": "Hij bleef kneden totdat het deeg zacht werd.",
+    "extra_example_fa": "او خمیر را ورز داد تا اینکه نرم شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij bleef roeren totdat de saus werd dik.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی که با «totdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij bleef roeren totdat de saus dik werd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی که با «totdat» شروع می‌شود، فعلِ صرف‌شده باید به انتهای همان جمله برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij bleef roeren de saus dik werd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی فرعی باید با حرفِ ربطِ «totdat» شروع شود؛ بدون آن ترتیبِ کلمات اشتباه می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij bleef roeren totdat werd de saus dik.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل نباید بلافاصله بعد از «totdat» بیاید؛ فعل باید در انتهای جمله‌ی فرعی قرار گیرد."
+      }
+    ]
+  }
+]

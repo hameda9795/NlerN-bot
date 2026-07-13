@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Heb je gehoord dat de busprijzen volgend jaar met tien procent stijgen?»  Wat is een natuurlijke reactie om je mening te geven?",
+    "question_text_fa": "کدام واکنشِ طبیعی برای ابرازِ نظر مناسب است؟",
+    "explanation_fa": "بهترین واکنش، ابرازِ نظرِ روشن با دلیل درباره‌ی خبر است.",
+    "grammar_rule_fa": "ابرازِ نظر: «Ik vind het jammer, want …»",
+    "extra_example_nl": "Ik vind het jammer, want ik neem elke dag de bus.",
+    "extra_example_fa": "برایم ناراحت‌کننده است، چون هر روز اتوبوس سوار می‌شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik vind het jammer, want ik neem elke dag de bus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نظرِ روشن همراه با دلیلِ شخصی."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus vertrekt om acht uur.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به خبرِ افزایشِ قیمت است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik hou niet van fietsen.",
+        "is_correct": false,
+        "feedback_fa": "موضوعِ نامرتبط با گفتگو درباره‌ی قیمتِ اتوبوس است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gisteren was het mooi weer.",
+        "is_correct": false,
+        "feedback_fa": "کاملاً بی‌ربط به موضوع صحبت است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «In het nieuws zeiden ze dat de zomers steeds warmer worden door klimaatverandering.»  Jij: «Ja, dat merk je ook wel, vind je niet? Vorig jaar was het al extreem heet.»  Wat delen beide vrienden hier vooral?",
+    "question_text_fa": "این دو دوست عمدتاً چه چیزی را با هم درمیان می‌گذارند؟",
+    "explanation_fa": "هر دو نگرانی و تجربه‌ی مشترکِ خود را درباره‌ی گرم‌شدنِ هوا بیان می‌کنند.",
+    "grammar_rule_fa": "«merk je dat ook?» یعنی «تو هم متوجه شدی؟»",
+    "extra_example_nl": "Merk je dat ook, dat de winters milder worden?",
+    "extra_example_fa": "تو هم متوجه شدی که زمستان‌ها ملایم‌تر می‌شوند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Onverschilligheid over het onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "هر دو علاقه‌مند به موضوع هستند، بی‌تفاوت نیستند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een gedeelde zorg over het weer, bevestigd door eigen ervaring.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نگرانیِ مشترک را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een sterke onenigheid over het nieuws.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ هر دو موافق هستند، نه مخالف."
+      },
+      {
+        "key": "D",
+        "text_nl": "Plannen voor een vakantie.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Heb je het gelezen? Er schijnt een compleet nieuwe metrolijn te komen in 2030!»  Jij twijfelt of dat waar is. Welke reactie past het beste?",
+    "question_text_fa": "کدام واکنش برای ابرازِ تردید مناسب‌تر است؟",
+    "explanation_fa": "بهترین واکنش، ابرازِ تردید و درخواستِ منبعِ خبر است.",
+    "grammar_rule_fa": "ابرازِ تردید: «Weet je dat zeker? Waar heb je dat gelezen?»",
+    "extra_example_nl": "Weet je dat zeker? Waar heb je dat gelezen?",
+    "extra_example_fa": "مطمئنی؟ کجا خواندی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Metro's interesseren me niet.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ اصلی، یعنی صحت خبر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat wist ik al lang.",
+        "is_correct": false,
+        "feedback_fa": "با تردیدِ او تناقض دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Weet je dat zeker? Waar heb je dat gelezen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ابرازِ تردیدِ مؤدبانه و پرسیدنِ منبع."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is fantastisch, ik geloof je meteen.",
+        "is_correct": false,
+        "feedback_fa": "با تردیدِ اولیه‌ی گوینده در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Wat vond jij van de verkiezingsuitslag gisteravond?»  Jij: «Eerlijk gezegd verbaasde het me niet, de peilingen wezen er al op.»  Wat bedoelt de spreker met «het verbaasde me niet»?",
+    "question_text_fa": "منظور از «het verbaasde me niet» چیست؟",
+    "explanation_fa": "یعنی نتیجه غیرمنتظره نبود، چون نظرسنجی‌ها قبلاً همین را نشان داده بودند.",
+    "grammar_rule_fa": "«verbazen» = شگفت‌زده کردن؛ «het verbaast me niet» = تعجب نکردم.",
+    "extra_example_nl": "Het verbaasde me niet dat hij te laat kwam.",
+    "extra_example_fa": "تعجب نکردم که او دیر آمد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De uitslag was totaal onverwacht.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ گوینده گفت غافلگیر نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft niet gestemd.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij is boos over de uitslag.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او خنثی است، نه عصبانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "De uitslag was voorspelbaar op basis van eerdere peilingen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین معنا را دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Er is morgen een staking bij de NS, alle treinen rijden niet.»  Jij: «Oh nee, dan moet ik echt een andere manier vinden om naar mijn afspraak te komen.»  Wat is het gevolg van het nieuws voor jou?",
+    "question_text_fa": "این خبر چه پیامدی برای گوینده دارد؟",
+    "explanation_fa": "او باید راه دیگری برای رفتن به قرارش پیدا کند، چون قطارها حرکت نمی‌کنند.",
+    "grammar_rule_fa": "«een andere manier vinden om …» یعنی راه‌حلِ جایگزین پیدا کردن.",
+    "extra_example_nl": "Ik moet een andere manier vinden om op tijd te komen.",
+    "extra_example_fa": "باید راه دیگری برای رسیدن به‌موقع پیدا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij moet een alternatief vervoermiddel zoeken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که گفت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij gaat de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ او راهِ دیگری می‌خواهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij is blij met de staking.",
+        "is_correct": false,
+        "feedback_fa": "او ناراحت است («Oh nee»), نه خوشحال."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij neemt gewoon de trein zoals normaal.",
+        "is_correct": false,
+        "feedback_fa": "غیرممکن است؛ همه‌ی قطارها متوقف‌اند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Vanaf volgend jaar zijn plastic tasjes in de supermarkt helemaal verboden.»  Jij: «Goed idee, eigenlijk, al is het soms wel handig, zo'n tasje.»  Wat is de houding van de spreker?",
+    "question_text_fa": "نگرشِ گوینده چیست؟",
+    "explanation_fa": "او تا حدی موافق قانون است، اما در عین حال یک نکته‌ی عملیِ منفی هم می‌بیند.",
+    "grammar_rule_fa": "نظرِ متعادل: «Goed idee, al is het soms …» ترکیبِ موافقت و یک نکته‌ی منفی است.",
+    "extra_example_nl": "Goed idee, al mis ik soms het gemak.",
+    "extra_example_fa": "ایده‌ی خوبی است، هرچند گاهی دلم برای راحتی‌اش تنگ می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Boos over het nieuws.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و متعادل است، نه عصبانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Overwegend positief, met een kleine kanttekening.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نگرشِ متعادل را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Volledig tegen het verbod.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ او گفت «goed idee»، یعنی موافق است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Onverschillig over het onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "او نظرِ روشنی دارد، بی‌تفاوت نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Ik zag een video op social media dat chocolade helemaal niet meer gemaakt wordt vanaf 2027!»  Jij vindt dit ongeloofwaardig. Welke reactie past het beste?",
+    "question_text_fa": "کدام واکنش برای ابرازِ بی‌اعتمادی مناسب است؟",
+    "explanation_fa": "بهترین واکنش، ابرازِ شک درباره‌ی صحتِ خبر و پیشنهادِ بررسی است.",
+    "grammar_rule_fa": "ابرازِ شک: «Dat lijkt me sterk, heb je een betrouwbare bron?»",
+    "extra_example_nl": "Dat lijkt me sterk, heb je daar een betrouwbare bron voor?",
+    "extra_example_fa": "به نظرم بعید می‌آید، منبعِ معتبری داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Chocolade vind ik toch niet lekker.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ صحتِ خبر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat wist ik al.",
+        "is_correct": false,
+        "feedback_fa": "با شکِ منطقیِ لازم در این موقعیت در تضاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat lijkt me sterk, heb je een betrouwbare bron?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شکِ منطقی و درخواستِ منبعِ معتبر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat vreselijk, ik geloof het helemaal.",
+        "is_correct": false,
+        "feedback_fa": "باور کورکورانه، بدون بررسیِ منبع."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Het KNMI heeft code oranje afgegeven voor morgen vanwege extreme hitte.»  Jij: «Dan blijf ik morgenmiddag echt binnen, dat lijkt me verstandig.»  Wat doet de spreker met deze informatie?",
+    "question_text_fa": "گوینده با این اطلاعات چه کار می‌کند؟",
+    "explanation_fa": "او تصمیم می‌گیرد بر اساسِ هشدارِ هواشناسی فردا در خانه بماند.",
+    "grammar_rule_fa": "نتیجه‌گیریِ منطقی: «Dan blijf ik …, dat lijkt me verstandig.»",
+    "extra_example_nl": "Dan neem ik toch een paraplu mee, dat lijkt me verstandig.",
+    "extra_example_fa": "پس چتر می‌برم، به نظرم عاقلانه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij negeert de waarschuwing volledig.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او هشدار را جدی می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij gaat juist naar buiten om te zonnen.",
+        "is_correct": false,
+        "feedback_fa": "برعکسِ چیزی است که گفت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij gelooft het KNMI niet.",
+        "is_correct": false,
+        "feedback_fa": "چنین شکی در متن نیامده؛ او هشدار را می‌پذیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij past zijn plannen aan op basis van de waarschuwing.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین کار را می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Heb je de uitslag van de wedstrijd gisteravond gezien? Wat een verrassing, zeg!»  Wat is een natuurlijke reactie als je het nieuws nog niet wist?",
+    "question_text_fa": "اگر خبر را هنوز ندانی، کدام واکنشِ طبیعی مناسب است؟",
+    "explanation_fa": "بهترین واکنش، ابرازِ ندانستن و پرسیدنِ جزئیات بیشتر است.",
+    "grammar_rule_fa": "پرسیدنِ جزئیات: «Nee, wat is er dan gebeurd?»",
+    "extra_example_nl": "Nee, wat is er dan precies gebeurd?",
+    "extra_example_fa": "نه، دقیقاً چه اتفاقی افتاد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, wat is er dan gebeurd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ابرازِ ندانستن و علاقه به شنیدنِ جزئیات."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, ik wist het al lang.",
+        "is_correct": false,
+        "feedback_fa": "با «هنوز ندانستن» در پرسش تناقض دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sport interesseert me helemaal niet.",
+        "is_correct": false,
+        "feedback_fa": "مکالمه را قطع می‌کند به‌جای پرسیدنِ جزئیات."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is morgen mooi weer.",
+        "is_correct": false,
+        "feedback_fa": "کاملاً بی‌ربط به موضوعِ صحبت است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Huizenprijzen zijn dit jaar weer met acht procent gestegen, las ik.»  Jij: «Dat maakt het wel heel moeilijk voor jongeren om een huis te kopen, hè?»  Wat voegt de spreker toe aan het gesprek?",
+    "question_text_fa": "گوینده چه چیزی به گفتگو اضافه می‌کند؟",
+    "explanation_fa": "او یک نتیجه‌ی اجتماعیِ خبر را بیان می‌کند، یعنی سختیِ خرید خانه برای جوانان.",
+    "grammar_rule_fa": "بیانِ نتیجه: «Dat maakt het moeilijk voor …»",
+    "extra_example_nl": "Dat maakt het moeilijk voor starters om een huis te vinden.",
+    "extra_example_fa": "این باعث می‌شود پیدا کردنِ خانه برای تازه‌واردها سخت شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een persoonlijke ervaring met een huis kopen.",
+        "is_correct": false,
+        "feedback_fa": "او درباره‌ی «jongeren» به‌طور کلی صحبت می‌کند، نه تجربه‌ی شخصی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een gevolg van het nieuws voor een specifieke groep.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نتیجه‌گیری را بیان می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een compleet ander onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً به همان خبرِ قیمتِ خانه اشاره می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Twijfel over of het nieuws waar is.",
+        "is_correct": false,
+        "feedback_fa": "او خبر را می‌پذیرد و درباره‌ی نتیجه‌اش صحبت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Ze hebben een nieuwe AI-app gelanceerd die je huiswerk voor je kan maken.»  Jij: «Interessant, maar ik vraag me af of dat wel goed is voor het leren.»  Wat toont de reactie van de spreker?",
+    "question_text_fa": "واکنشِ گوینده چه چیزی نشان می‌دهد؟",
+    "explanation_fa": "او هم کنجکاوی نشان می‌دهد و هم نگرانیِ آرامی درباره‌ی پیامدهای آن دارد.",
+    "grammar_rule_fa": "ابرازِ نگرانیِ آرام: «Ik vraag me af of …»",
+    "extra_example_nl": "Ik vraag me af of dat wel veilig is.",
+    "extra_example_fa": "نمی‌دانم آیا این واقعاً امن است یا نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Onvoorwaardelijk enthousiasme.",
+        "is_correct": false,
+        "feedback_fa": "او هم نگرانی نشان می‌دهد، نه فقط شور و شوق."
+      },
+      {
+        "key": "B",
+        "text_nl": "Volledige onverschilligheid.",
+        "is_correct": false,
+        "feedback_fa": "او نظرِ روشنی دارد، بی‌تفاوت نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Interesse gecombineerd met een voorzichtige zorg.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین ترکیب را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volledige afwijzing van de nieuwe technologie.",
+        "is_correct": false,
+        "feedback_fa": "او گفت «interessant»، پس کاملاً رد نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Er was gisteren een inbraak twee straten verderop.»  Jij: «Oei, dat maakt me toch wel wat onrustig, ik moet echt eens die extra sloten kopen.»  Wat is het effect van het nieuws op jou?",
+    "question_text_fa": "این خبر چه تأثیری روی گوینده گذاشته است؟",
+    "explanation_fa": "او کمی نگران شده و تصمیم می‌گیرد اقدامِ عملی (خریدِ قفلِ اضافه) انجام دهد.",
+    "grammar_rule_fa": "بیانِ نگرانیِ خفیف: «Dat maakt me wel wat onrustig.»",
+    "extra_example_nl": "Dat maakt me wel wat onrustig, eerlijk gezegd.",
+    "extra_example_fa": "راستش را بخواهی، این کمی نگرانم می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het laat hem volledig koud.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او گفت که کمی نگران شده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij gelooft het nieuws niet.",
+        "is_correct": false,
+        "feedback_fa": "او هیچ شکی درباره‌ی خبر ابراز نمی‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij gaat meteen verhuizen.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید است؛ او فقط قفل می‌خرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het maakt hem enigszins bezorgd en hij overweegt actie te ondernemen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین واکنش را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Volgens het journaal komt er morgen een zware storm.»  Jij: «Zullen we onze fietstocht dan maar verzetten naar het weekend?»  Wat stelt de spreker voor?",
+    "question_text_fa": "گوینده چه پیشنهادی می‌دهد؟",
+    "explanation_fa": "او پیشنهاد می‌دهد به‌خاطر طوفان، برنامه‌ی دوچرخه‌سواری را به آخر هفته منتقل کنند.",
+    "grammar_rule_fa": "پیشنهاد با «zullen we … verzetten?»",
+    "extra_example_nl": "Zullen we de afspraak verzetten naar een andere dag?",
+    "extra_example_fa": "بیا قرار را به روز دیگری موکول کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om de fietstocht te verplaatsen vanwege het weer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین پیشنهاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om de fietstocht juist eerder te doen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او پیشنهاد داد آن را بعد از این هفته انجام دهند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om helemaal niet meer te fietsen.",
+        "is_correct": false,
+        "feedback_fa": "او فقط زمان را تغییر می‌دهد، نه لغوِ کامل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om de storm te negeren.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او هشدار را جدی می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «De inflatie is dit jaar hoger dan verwacht, zeggen economen.»  Jij: «Dat merk ik echt aan mijn boodschappen, alles is duurder geworden.»  Wat doet de spreker in zijn reactie?",
+    "question_text_fa": "گوینده در واکنشش چه کار می‌کند؟",
+    "explanation_fa": "او خبرِ کلی را با تجربه‌ی شخصیِ خودش تأیید می‌کند.",
+    "grammar_rule_fa": "تأیید با تجربه: «Dat merk ik echt aan …»",
+    "extra_example_nl": "Dat merk ik echt aan mijn energierekening.",
+    "extra_example_fa": "این را واقعاً در قبضِ برقم متوجه می‌شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is boos op de economen.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او خنثی و توصیفی است، نه عصبانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij bevestigt het nieuws met een persoonlijk voorbeeld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین کار را می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij ontkent het nieuws volledig.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او تأیید می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij verandert compleet van onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً به همان موضوع، یعنی گرانی، ادامه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Ik las dat drinken van citroensap elke ochtend al je ziektes geneest.»  Jij vindt dit onwaarschijnlijk. Welke reactie is het meest gepast?",
+    "question_text_fa": "کدام واکنش مناسب‌تر است؟",
+    "explanation_fa": "بهترین واکنش، ابرازِ شکِ منطقی و پیشنهادِ بررسیِ علمیِ ادعا است.",
+    "grammar_rule_fa": "ابرازِ شکِ علمی: «Dat klinkt me niet erg wetenschappelijk in de oren.»",
+    "extra_example_nl": "Dat klinkt me niet erg wetenschappelijk in de oren, heb je een bron?",
+    "extra_example_fa": "به نظرم خیلی علمی نیست، منبعی داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Citroenen zijn zuur.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ صحتِ ادعای پزشکی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik lust geen citroen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ ابرازِ تردید است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat klinkt me niet erg wetenschappelijk in de oren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شکِ منطقی و مؤدبانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat geweldig, ik ga het meteen elke dag doen.",
+        "is_correct": false,
+        "feedback_fa": "باور کورکورانه، بدون بررسیِ صحتِ ادعا."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Het jaarlijkse zomerfestival in het park gaat dit jaar niet door, vanwege een tekort aan vrijwilligers.»  Jij: «Wat jammer, dat was altijd zo gezellig.»  Wat drukt de spreker uit?",
+    "question_text_fa": "گوینده چه احساسی را بیان می‌کند؟",
+    "explanation_fa": "او تأسف و دلتنگی برای رویدادی که دیگر برگزار نمی‌شود بیان می‌کند.",
+    "grammar_rule_fa": "ابرازِ تأسف: «Wat jammer, dat was altijd …»",
+    "extra_example_nl": "Wat jammer, dat was altijd het hoogtepunt van de zomer.",
+    "extra_example_fa": "چه حیف، آن همیشه اوجِ تابستان بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Opluchting dat het festival niet doorgaat.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او می‌گوید «wat jammer» یعنی افسوس می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Boosheid op de vrijwilligers.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او تأسف است، نه عصبانیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Onverschilligheid over het festival.",
+        "is_correct": false,
+        "feedback_fa": "او علاقه‌ی روشنی نشان می‌دهد، بی‌تفاوت نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Teleurstelling dat een leuk evenement niet doorgaat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین احساس را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend lijkt gestrest: «Ze zeiden op het nieuws dat de energieprijzen weer omhoog gaan, ik weet niet hoe ik dat moet betalen.»  Wat is een steunende reactie?",
+    "question_text_fa": "کدام واکنشِ حمایتی مناسب است؟",
+    "explanation_fa": "بهترین واکنش، همدلی و پیشنهادِ کمک عملی (مثلاً بررسیِ گزینه‌های صرفه‌جویی) است.",
+    "grammar_rule_fa": "همدلی و پیشنهاد کمک: «Zullen we samen kijken naar mogelijke besparingen?»",
+    "extra_example_nl": "Zullen we samen kijken of er ergens bespaard kan worden?",
+    "extra_example_fa": "بیا با هم ببینیم کجا می‌شود صرفه‌جویی کرد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zullen we samen kijken of er ergens bespaard kan worden?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همدلی همراه با پیشنهادِ عملی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is jouw probleem, niet het mijne.",
+        "is_correct": false,
+        "feedback_fa": "بی‌رحمانه و غیرحمایتی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Energie is toch niet zo duur.",
+        "is_correct": false,
+        "feedback_fa": "نگرانیِ او را نادیده می‌گیرد و انکار می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb daar geen mening over.",
+        "is_correct": false,
+        "feedback_fa": "بی‌تفاوتی نشان می‌دهد، درحالی‌که دوستش استرس دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Er stond in de krant dat een bekende zanger gaat stoppen met optreden.»  Jij: «Oh, dat wist ik niet, wat is de reden dan?»  Wat wil de spreker vooral weten?",
+    "question_text_fa": "گوینده عمدتاً می‌خواهد چه چیزی بداند؟",
+    "explanation_fa": "او دلیلِ خبر را می‌پرسد، چون تا الان از آن بی‌خبر بوده.",
+    "grammar_rule_fa": "پرسیدنِ دلیل: «Wat is de reden?»",
+    "extra_example_nl": "Wat is de reden dat hij ermee stopt?",
+    "extra_example_fa": "دلیلِ اینکه او ادامه نمی‌دهد چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Of hij zelf ooit heeft opgetreden.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ گفتگو است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De reden achter het nieuws.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین سؤال را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De prijs van het concertkaartje.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het adres van de zanger.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ اصلی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Er komt een grote supermarkt bij ons om de hoek, heb je dat al gehoord?»  Jij: «Nee echt? Wanneer opent die dan?»  Wat laat jouw reactie zien?",
+    "question_text_fa": "واکنشِ گوینده چه چیزی نشان می‌دهد؟",
+    "explanation_fa": "او علاقه و کنجکاویِ واقعی نشان می‌دهد و می‌خواهد جزئیاتِ بیشتری بداند.",
+    "grammar_rule_fa": "پرسیدنِ جزئیات: «Wanneer …?»",
+    "extra_example_nl": "Wanneer gaat de nieuwe winkel precies open?",
+    "extra_example_fa": "مغازه‌ی جدید دقیقاً چه زمانی باز می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Boosheid over de nieuwe supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او مثبت و کنجکاو است، نه عصبانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Twijfel of het nieuws waar is.",
+        "is_correct": false,
+        "feedback_fa": "او شکی ابراز نمی‌کند، فقط جزئیات می‌خواهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Oprechte interesse en de wens om meer details te weten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volledige onverschilligheid.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او با «nee echt?» علاقه نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Volgens de kop van het artikel is de werkloosheid gestegen, maar in de tekst zelf staat dat die juist iets gedaald is.»  Wat is hier het probleem?",
+    "question_text_fa": "در اینجا مشکل چیست؟",
+    "explanation_fa": "عنوانِ خبر با متنِ خودِ مقاله تناقض دارد؛ این نشان می‌دهد باید همیشه کل متن را خواند.",
+    "grammar_rule_fa": "«de kop» = تیترِ خبر؛ گاهی تیتر با متن هم‌خوانی ندارد.",
+    "extra_example_nl": "De kop is soms misleidend, je moet de hele tekst lezen.",
+    "extra_example_fa": "گاهی تیتر گمراه‌کننده است، باید کل متن را خواند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het artikel is helemaal niet over werkloosheid.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ هر دو بخش درباره‌ی بیکاری هستند."
+      },
+      {
+        "key": "B",
+        "text_nl": "De werkloosheid is enorm gestegen.",
+        "is_correct": false,
+        "feedback_fa": "طبق متنِ اصلی، بیکاری کمی کاهش یافته، نه افزایش."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is geen enkel probleem.",
+        "is_correct": false,
+        "feedback_fa": "در متن دقیقاً یک تناقض وجود دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De titel van het artikel klopt niet met de inhoud.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین تناقض مطرح شده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Er is vanmorgen extra politie op straat vanwege een demonstratie.»  Jij: «Oké, dan neem ik vandaag maar een andere route naar mijn werk.»  Wat doe je met deze informatie?",
+    "question_text_fa": "گوینده با این اطلاعات چه کار می‌کند؟",
+    "explanation_fa": "او تصمیمِ عملی می‌گیرد و مسیرِ رفتن به کار را تغییر می‌دهد.",
+    "grammar_rule_fa": "نتیجه‌گیریِ عملی: «Dan neem ik maar een andere route.»",
+    "extra_example_nl": "Dan neem ik maar een andere weg naar huis.",
+    "extra_example_fa": "پس مسیر دیگری برای رفتن به خانه انتخاب می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij past zijn route aan op basis van de informatie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین کار را می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij gaat zelf meedoen aan de demonstratie.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij blijft de hele dag thuis.",
+        "is_correct": false,
+        "feedback_fa": "او فقط مسیر را تغییر می‌دهد، نه اینکه در خانه بماند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij negeert de informatie volledig.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او بر اساسِ خبر تصمیم می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «De school van mijn zoon voert vanaf september een nieuw huiswerkbeleid in, minder huiswerk voor jonge kinderen.»  Jij: «Dat klinkt goed, ik heb gelezen dat te veel huiswerk niet altijd effectief is.»  Wat doet de spreker in zijn reactie?",
+    "question_text_fa": "گوینده در واکنشش چه کار می‌کند؟",
+    "explanation_fa": "او با اطلاعاتِ اضافی از خواندنِ خودش، از این سیاست حمایت می‌کند.",
+    "grammar_rule_fa": "پشتیبانی با دانشِ اضافی: «Ik heb gelezen dat …»",
+    "extra_example_nl": "Ik heb gelezen dat kinderen beter leren met meer buitenspeeltijd.",
+    "extra_example_fa": "خوانده‌ام که بچه‌ها با بازیِ بیشتر در فضای باز بهتر یاد می‌گیرند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij twijfelt of het nieuws waar is.",
+        "is_correct": false,
+        "feedback_fa": "او شکی ابراز نمی‌کند، بلکه موافقت نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij onderbouwt zijn instemming met extra kennis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین کار را می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij is het volledig oneens met het nieuwe beleid.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او گفت «dat klinkt goed»، یعنی موافق است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij verandert van onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً به همان موضوعِ تکلیف ادامه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Mijn vlucht van volgende week kan misschien geannuleerd worden, er is een pilotenstaking gepland.»  Jij: «Wat vervelend, heb je al gekeken naar alternatieve data?»  Wat suggereert de spreker?",
+    "question_text_fa": "گوینده چه پیشنهادی می‌دهد؟",
+    "explanation_fa": "او پیشنهاد می‌دهد که دوستش تاریخ‌های جایگزین را بررسی کند.",
+    "grammar_rule_fa": "پیشنهاد با سؤال: «Heb je al gekeken naar …?»",
+    "extra_example_nl": "Heb je al gekeken naar een andere luchtvaartmaatschappij?",
+    "extra_example_fa": "به شرکت هواپیمایی دیگری هم نگاه کردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om met de trein te reizen in plaats van vliegen.",
+        "is_correct": false,
+        "feedback_fa": "چنین پیشنهادی در متن نیامده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om de staking te negeren.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او هشدار را جدی می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om te onderzoeken of er andere data mogelijk zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین پیشنهاد را می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om de vlucht helemaal te annuleren.",
+        "is_correct": false,
+        "feedback_fa": "او فقط پیشنهادِ بررسیِ گزینه‌ها می‌دهد، نه لغوِ کامل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Volgens een opiniestuk in de krant is thuiswerken slecht voor teamgevoel.»  Jij: «Dat is de mening van die schrijver, maar ik heb ook onderzoeken gezien die iets anders zeggen.»  Wat maakt de spreker duidelijk?",
+    "question_text_fa": "گوینده چه چیزی را روشن می‌کند؟",
+    "explanation_fa": "او تفاوت بین نظرِ شخصیِ نویسنده و دیگر تحقیقاتِ موجود را روشن می‌کند.",
+    "grammar_rule_fa": "تفکیکِ نظر از واقعیت: «Dat is de mening van …, maar …»",
+    "extra_example_nl": "Dat is zijn mening, maar niet iedereen is het daarmee eens.",
+    "extra_example_fa": "این نظرِ اوست، اما همه با آن موافق نیستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat hij het volledig eens is met het opiniestuk.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او با آن مخالفت می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat hij nooit onderzoek leest.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید تحقیقاتی دیده که خلافِ آن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat het opiniestuk feitelijk correct is.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً می‌گوید این فقط یک نظر است، نه واقعیتِ اثبات‌شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het verschil tussen een persoonlijke mening en ander onderzoek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین تمایز را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kop van het artikel: «Bedrijf X verdubbelt winst».  Vriend: «Wow, dat gaat vast heel goed met dat bedrijf!»  Waarom zou je deze conclusie beter niet meteen trekken?",
+    "question_text_fa": "چرا بهتر است این نتیجه‌گیری فوری درست نباشد؟",
+    "explanation_fa": "تیترِ خبر ممکن است کلِ ماجرا را نشان ندهد؛ باید کل متن را خواند تا مطمئن شد.",
+    "grammar_rule_fa": "«een kop zegt niet alles» یعنی تیتر همیشه کاملاً دقیق نیست.",
+    "extra_example_nl": "Je moet niet alleen op de kop afgaan, lees ook de rest.",
+    "extra_example_fa": "نباید فقط به تیتر اکتفا کرد، بقیه‌ی متن را هم بخوان.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Omdat een kop niet altijd het volledige verhaal weergeeft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نکته را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Omdat winst nooit belangrijk is.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به نکته‌ی اصلیِ سؤال است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat het artikel zeker onjuist is.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی نگفته شده؛ فقط باید محتاط بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat bedrijven nooit winst maken.",
+        "is_correct": false,
+        "feedback_fa": "ادعایی نادرست و بی‌ربط است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Pas op, er gaan momenteel nepbelletjes rond van mensen die zich voordoen als de bank.»  Jij: «Bedankt voor de waarschuwing, ik zal extra alert zijn.»  Wat doe je met deze waarschuwing?",
+    "question_text_fa": "گوینده با این هشدار چه کار می‌کند؟",
+    "explanation_fa": "او هشدار را جدی می‌گیرد و قول می‌دهد بیشتر مراقب باشد.",
+    "grammar_rule_fa": "پذیرفتنِ هشدار: «Bedankt voor de waarschuwing, ik zal …»",
+    "extra_example_nl": "Bedankt voor de waarschuwing, ik zal geen persoonlijke gegevens geven.",
+    "extra_example_fa": "ممنون بابت هشدار، اطلاعاتِ شخصی نمی‌دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij belt meteen zijn bank op.",
+        "is_correct": false,
+        "feedback_fa": "چنین اقدامی در متن گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij accepteert de waarschuwing en belooft voorzichtiger te zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij negeert de waarschuwing.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او تشکر می‌کند و قول احتیاط می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij denkt dat het nieuws niet waar is.",
+        "is_correct": false,
+        "feedback_fa": "چنین شکی در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Er is goed nieuws! Het ziekenhuis meldt dat er een doorbraak is in het onderzoek naar die ziekte.»  Jij: «Wat fijn om te horen, daar word ik echt blij van!»  Wat drukt deze reactie uit?",
+    "question_text_fa": "این واکنش چه احساسی را بیان می‌کند؟",
+    "explanation_fa": "این واکنش شادی صادقانه از یک خبرِ خوب را نشان می‌دهد.",
+    "grammar_rule_fa": "ابرازِ شادی: «Daar word ik blij van!»",
+    "extra_example_nl": "Wat fijn om te horen, daar word ik echt blij van!",
+    "extra_example_fa": "چقدر خوشحال‌کننده، واقعاً خوشحالم می‌کند!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Onverschilligheid over het nieuws.",
+        "is_correct": false,
+        "feedback_fa": "او هیجانِ روشنی نشان می‌دهد، بی‌تفاوت نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Verdriet over het nieuws.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او خوشحالی نشان می‌دهد، نه ناراحتی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Oprechte blijdschap over goed nieuws.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین احساس را بیان می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Twijfel of het nieuws waar is.",
+        "is_correct": false,
+        "feedback_fa": "او هیچ شکی ابراز نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Volgens het nieuws was het internet gisteren in de hele stad uren plat.»  Jij: «Vreemd, bij mij deed het gewoon het, misschien was het maar in bepaalde wijken.»  Wat doet de spreker hier vooral?",
+    "question_text_fa": "گوینده در اینجا عمدتاً چه کار می‌کند؟",
+    "explanation_fa": "او بر اساسِ تجربه‌ی شخصیِ خودش، دقتِ خبر را زیرِ سؤال می‌برد.",
+    "grammar_rule_fa": "زیرِ سؤال بردنِ خبر با تجربه: «Vreemd, bij mij …»",
+    "extra_example_nl": "Vreemd, bij ons was er anders niets aan de hand.",
+    "extra_example_fa": "عجیب است، پیش ما که مشکلی نبود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij bevestigt het nieuws volledig.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ تجربه‌ی او با خبر متفاوت است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij is boos over het internet.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او کنجکاو است، نه عصبانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij heeft het nieuws niet gehoord.",
+        "is_correct": false,
+        "feedback_fa": "او نشان می‌دهد که خبر را شنیده و به آن واکنش نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij nuanceert het nieuws op basis van zijn eigen ervaring.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین کار را می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Ze zeiden dat er dit weekend een gratis proefrit-dag is met elektrische auto's in het centrum.»  Jij: «Leuk, zullen we daar samen naartoe gaan?»  Wat stelt de spreker voor?",
+    "question_text_fa": "گوینده چه پیشنهادی می‌دهد؟",
+    "explanation_fa": "او پیشنهاد می‌دهد با هم به رویدادِ تست‌رانیِ خودروهای برقی بروند.",
+    "grammar_rule_fa": "پیشنهادِ مشترک: «Zullen we samen …?»",
+    "extra_example_nl": "Zullen we samen naar die markt gaan dit weekend?",
+    "extra_example_fa": "بیا این آخر هفته با هم به آن بازار برویم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om samen naar het evenement te gaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین پیشنهاد را می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om zelf een elektrische auto te kopen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ فقط دعوت به رفتنِ مشترک است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om het weekend juist thuis te blijven.",
+        "is_correct": false,
+        "feedback_fa": "برعکس چیزی است که پیشنهاد داد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om te twijfelen of het nieuws klopt.",
+        "is_correct": false,
+        "feedback_fa": "او شکی ابراز نمی‌کند، فقط دعوت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "discussing_news_with_friend",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Volgens het nieuws duurt de brugrenovatie nu drie maanden langer dan gepland.»  Jij: «Alweer? Dat hoor je tegenwoordig bij bijna elk bouwproject.»  Wat drukt de spreker hier vooral uit?",
+    "question_text_fa": "گوینده در اینجا عمدتاً چه چیزی را بیان می‌کند؟",
+    "explanation_fa": "او خستگی و کمی طعنه درباره‌ی تأخیرهای مکررِ پروژه‌های ساختمانی نشان می‌دهد.",
+    "grammar_rule_fa": "بیانِ الگوی تکراری: «Dat hoor je tegenwoordig bij bijna elk …»",
+    "extra_example_nl": "Dat hoor je tegenwoordig bij bijna elke verbouwing.",
+    "extra_example_fa": "این روزها این را تقریباً درباره‌ی هر بازسازی‌ای می‌شنوی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Twijfel of de brug ooit gerenoveerd wordt.",
+        "is_correct": false,
+        "feedback_fa": "چنین شکی در متن نیامده؛ او فقط از تأخیر گله می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een licht cynische opmerking over een terugkerend probleem.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نگرش را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Grote verbazing, want dit is nog nooit gebeurd.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او می‌گوید این تقریباً همیشه اتفاق می‌افتد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Enthousiasme over de renovatie.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او منفی و طعنه‌آمیز است، نه هیجان‌زده."
+      }
+    ]
+  }
+]

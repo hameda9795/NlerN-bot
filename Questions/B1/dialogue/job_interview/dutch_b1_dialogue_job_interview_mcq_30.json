@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Kunt u kort iets over uzelf vertellen?»  Wat is het beste antwoord?",
+    "question_text_fa": "کدام پاسخ بهترین است؟",
+    "explanation_fa": "بهترین پاسخ، خلاصه‌ای کوتاه از تجربه و مهارت‌های مرتبط با شغل است.",
+    "grammar_rule_fa": "معرفیِ حرفه‌ای: «Ik heb ervaring in …, en ik ben goed in …»",
+    "extra_example_nl": "Ik heb drie jaar ervaring in de klantenservice en ben goed in probleemoplossing.",
+    "extra_example_fa": "من سه سال تجربه در خدمات مشتری دارم و در حل مسئله خوب هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb drie jaar ervaring in de klantenservice en ben goed in probleemoplossing.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ حرفه‌ای، مرتبط و مختصر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik hou van series kijken in het weekend.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به تجربه‌ی حرفه‌ای است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat weet ik eigenlijk niet zo goed.",
+        "is_correct": false,
+        "feedback_fa": "نامطمئن و غیرحرفه‌ای به نظر می‌رسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waarom wilt u dat weten?",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و تدافعی برای یک سؤالِ استاندارد مصاحبه است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Wat is uw grootste zwakte?»  Welk antwoord klinkt het meest professioneel?",
+    "question_text_fa": "کدام پاسخ حرفه‌ای‌تر به نظر می‌رسد؟",
+    "explanation_fa": "بهترین پاسخ، بیانِ یک ضعفِ واقعی همراه با اقدامی که برای بهبودِ آن انجام می‌دهی.",
+    "grammar_rule_fa": "ساختارِ مناسب: «Ik ben soms …, daarom probeer ik …»",
+    "extra_example_nl": "Ik ben soms te perfectionistisch, daarom probeer ik prioriteiten beter te stellen.",
+    "extra_example_fa": "گاهی خیلی کمال‌گرا هستم، به همین دلیل سعی می‌کنم اولویت‌بندی بهتری داشته باشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is een rare vraag.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه است برای یک سؤالِ رایجِ مصاحبه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben soms te perfectionistisch, daarom probeer ik prioriteiten beter te stellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صادقانه همراه با اقدامِ سازنده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen enkele zwakte.",
+        "is_correct": false,
+        "feedback_fa": "غیرواقعی و غیرقابل‌باور به نظر می‌رسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom altijd te laat en dat interesseert me niet.",
+        "is_correct": false,
+        "feedback_fa": "صداقتِ بیش‌ازحد و بدون نشانِ تلاش برای بهبود است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Waarom wilt u bij ons bedrijf werken?»  Welk antwoord toont oprechte interesse?",
+    "question_text_fa": "کدام پاسخ علاقه‌ی واقعی را نشان می‌دهد؟",
+    "explanation_fa": "بهترین پاسخ، دلیلِ مشخصی است که نشان می‌دهد داوطلب درباره‌ی شرکت تحقیق کرده.",
+    "grammar_rule_fa": "بیانِ دلیلِ مشخص: «Ik bewonder … en ik zou graag …»",
+    "extra_example_nl": "Ik bewonder hoe jullie duurzaamheid centraal stellen, en ik zou daar graag aan bijdragen.",
+    "extra_example_fa": "من تحسین می‌کنم که چطور پایداری را در اولویت قرار می‌دهید و دوست دارم در این مسیر سهیم باشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het maakt me niet uit welk bedrijf.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn vriend werkt hier ook.",
+        "is_correct": false,
+        "feedback_fa": "دلیلِ ضعیفی است که علاقه‌ی واقعی به شرکت را نشان نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bewonder hoe jullie duurzaamheid centraal stellen, en wil daaraan bijdragen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نشانِ تحقیق واقعی درباره‌ی شرکت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb gewoon een baan nodig.",
+        "is_correct": false,
+        "feedback_fa": "صادقانه اما غیرحرفه‌ای و بدون علاقه به شرکتِ خاص."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Kunt u een voorbeeld geven van een moeilijke situatie op het werk die u heeft opgelost?»  Welk antwoord is het sterkst?",
+    "question_text_fa": "کدام پاسخ محکم‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، مثالِ مشخص با موقعیت، اقدام و نتیجه است.",
+    "grammar_rule_fa": "ساختارِ STAR: situatie, taak, actie, resultaat.",
+    "extra_example_nl": "Toen een klant boos was, bleef ik rustig, luisterde ik en loste ik het probleem samen met hem op.",
+    "extra_example_fa": "وقتی مشتری عصبانی بود، آرام ماندم، گوش دادم و مشکل را با او حل کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb nog nooit een moeilijke situatie gehad.",
+        "is_correct": false,
+        "feedback_fa": "غیرقابل‌باور به نظر می‌رسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat gebeurt gewoon vanzelf.",
+        "is_correct": false,
+        "feedback_fa": "مبهم است و هیچ مثالِ مشخصی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga meestal weg als het moeilijk wordt.",
+        "is_correct": false,
+        "feedback_fa": "تصویرِ منفی از توانایی حلِ مسئله می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen een klant boos was, bleef ik rustig en loste ik het samen met hem op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مثالِ مشخص با اقدام و نتیجه."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Waarom bent u weggegaan bij uw vorige werkgever?»  Welk antwoord klinkt het meest professioneel?",
+    "question_text_fa": "کدام پاسخ حرفه‌ای‌تر به نظر می‌رسد؟",
+    "explanation_fa": "بهترین پاسخ، توضیحی مثبت و بدون بدگویی از کارفرمای قبلی است.",
+    "grammar_rule_fa": "توضیحِ مثبت: «Ik was op zoek naar meer uitdaging.»",
+    "extra_example_nl": "Ik was toe aan een nieuwe uitdaging en meer verantwoordelijkheid.",
+    "extra_example_fa": "آماده‌ی چالشی جدید و مسئولیتِ بیشتر بودم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik was toe aan een nieuwe uitdaging en meer verantwoordelijkheid.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مثبت و حرفه‌ای."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn oude baas was echt vreselijk.",
+        "is_correct": false,
+        "feedback_fa": "بدگویی از کارفرمای قبلی، غیرحرفه‌ای است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik weet het eigenlijk niet.",
+        "is_correct": false,
+        "feedback_fa": "نامطمئن و آماده‌نشده به نظر می‌رسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat gaat u niets aan.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و تدافعی برای یک سؤالِ رایجِ مصاحبه است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Wat zijn uw salarisverwachtingen?»  Welk antwoord is het meest gepast?",
+    "question_text_fa": "کدام پاسخ مناسب‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، دادنِ محدوده‌ی روشن همراه با انعطاف‌پذیری است.",
+    "grammar_rule_fa": "بیانِ محدوده: «Ik denk aan een salaris tussen … en …»",
+    "extra_example_nl": "Ik denk aan een salaris tussen 2800 en 3200 euro, afhankelijk van de verantwoordelijkheden.",
+    "extra_example_fa": "به حقوقی بین ۲۸۰۰ تا ۳۲۰۰ یورو فکر می‌کنم، بسته به مسئولیت‌ها.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil daar liever niet over praten.",
+        "is_correct": false,
+        "feedback_fa": "از یک سؤالِ استاندارد و منطقیِ مصاحبه فرار می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik denk aan een salaris tussen 2800 en 3200 euro, afhankelijk van de functie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ روشن، منطقی و انعطاف‌پذیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geef me maar zo veel mogelijk.",
+        "is_correct": false,
+        "feedback_fa": "حریصانه و غیرحرفه‌ای به نظر می‌رسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het maakt me echt niet uit.",
+        "is_correct": false,
+        "feedback_fa": "غیرحرفه‌ای است؛ بهتر است محدوده‌ای مشخص شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Heeft u nog vragen voor ons?»  Welk antwoord toont het meeste initiatief?",
+    "question_text_fa": "کدام پاسخ بیشترین ابتکارِ عمل را نشان می‌دهد؟",
+    "explanation_fa": "بهترین پاسخ، پرسیدنِ سؤالی روشن و مرتبط با شغل یا شرکت است.",
+    "grammar_rule_fa": "سؤالِ حرفه‌ای: «Hoe ziet een typische dag eruit in deze functie?»",
+    "extra_example_nl": "Hoe ziet een typische werkdag eruit in deze functie?",
+    "extra_example_fa": "یک روزِ معمولیِ کاری در این شغل چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoeveel vakantiedagen krijg ik precies, als eerste vraag?",
+        "is_correct": false,
+        "feedback_fa": "قابل‌قبول است اما به‌عنوان اولین سؤال، تمرکز بر منافعِ شخصی به‌جای شغل را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer kan ik met vakantie?",
+        "is_correct": false,
+        "feedback_fa": "تمرکزِ نامناسب برای اولین سؤال در مصاحبه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe ziet een typische werkdag eruit in deze functie?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ حرفه‌ای و نشانِ علاقه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, ik heb geen vragen.",
+        "is_correct": false,
+        "feedback_fa": "فرصتِ نشان‌دادنِ علاقه را از دست می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Ik zie een gat van een jaar in uw cv, kunt u dat toelichten?»  Welk antwoord is het meest overtuigend?",
+    "question_text_fa": "کدام پاسخ قانع‌کننده‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، توضیحِ صادقانه و مثبتِ آن دوره، مثلاً یادگیری یا مراقبت است.",
+    "grammar_rule_fa": "توضیحِ صادقانه و مثبت: «In die periode heb ik …»",
+    "extra_example_nl": "In die periode heb ik voor een ziek familielid gezorgd en veel geleerd over plannen.",
+    "extra_example_fa": "در آن دوره از یکی از اعضای خانواده‌ام که بیمار بود مراقبت کردم و درباره‌ی برنامه‌ریزی چیزهای زیادی یاد گرفتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat gaat u niets aan.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و تدافعی برای یک سؤالِ منطقیِ مصاحبه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb gewoon niets gedaan dat jaar.",
+        "is_correct": false,
+        "feedback_fa": "غیرقانع‌کننده و بدون توضیحِ سازنده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik herinner me dat jaar niet zo goed.",
+        "is_correct": false,
+        "feedback_fa": "غیرحرفه‌ای و نامطمئن به نظر می‌رسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "In die periode heb ik voor een ziek familielid gezorgd en veel geleerd over plannen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صادقانه، مثبت و توضیح‌دهنده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Kunt u goed samenwerken in een team?»  Welk antwoord is het meest overtuigend?",
+    "question_text_fa": "کدام پاسخ قانع‌کننده‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، مثالِ مشخص از یک تجربه‌ی تیمیِ موفق است.",
+    "grammar_rule_fa": "پاسخ با مثال: «Ja, bijvoorbeeld toen …»",
+    "extra_example_nl": "Ja, bijvoorbeeld toen we samen een project op tijd hebben afgerond.",
+    "extra_example_fa": "بله، مثلاً وقتی که با هم پروژه‌ای را به‌موقع تمام کردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, bijvoorbeeld toen we samen een project op tijd hebben afgerond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مثالِ عملی و قانع‌کننده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk liever helemaal alleen.",
+        "is_correct": false,
+        "feedback_fa": "مستقیماً به سؤالِ همکاریِ تیمی پاسخ منفی می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat weet ik niet zeker.",
+        "is_correct": false,
+        "feedback_fa": "نامطمئن و بدون مثال است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Teams zijn meestal een probleem.",
+        "is_correct": false,
+        "feedback_fa": "دیدگاهِ منفی نسبت به کار تیمی نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Hoe gaat u om met stress en deadlines?»  Welk antwoord is het meest professioneel?",
+    "question_text_fa": "کدام پاسخ حرفه‌ای‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، توضیحِ روش‌های عملیِ مدیریتِ استرس است.",
+    "grammar_rule_fa": "توضیحِ روش: «Ik maak een planning en prioriteer taken.»",
+    "extra_example_nl": "Ik maak een duidelijke planning en prioriteer de belangrijkste taken eerst.",
+    "extra_example_fa": "برنامه‌ی روشنی می‌ریزم و ابتدا به کارهای مهم‌تر اولویت می‌دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga gewoon niet naar deadlines kijken.",
+        "is_correct": false,
+        "feedback_fa": "نشانِ بی‌مسئولیتی است، نه مدیریتِ خوبِ زمان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik maak een duidelijke planning en prioriteer de belangrijkste taken eerst.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ روش‌مند و حرفه‌ای."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik word meestal heel boos en paniekerig.",
+        "is_correct": false,
+        "feedback_fa": "تصویرِ منفی از توانایی مدیریتِ استرس می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb nog nooit stress gehad.",
+        "is_correct": false,
+        "feedback_fa": "غیرقابل‌باور به نظر می‌رسد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Wanneer zou u kunnen beginnen?»  Welk antwoord is het meest gepast?",
+    "question_text_fa": "کدام پاسخ مناسب‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، تاریخِ روشن با در نظر گرفتنِ دوره‌ی اطلاع‌رسانیِ کارِ فعلی است.",
+    "grammar_rule_fa": "بیانِ زمانِ روشن: «Ik heb een opzegtermijn van …, dus ik kan starten vanaf …»",
+    "extra_example_nl": "Ik heb een opzegtermijn van een maand, dus ik kan begin volgende maand starten.",
+    "extra_example_fa": "من یک ماه دوره‌ی اطلاع‌رسانی دارم، پس می‌توانم اوایل ماه بعد شروع کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil eerst nog drie maanden op vakantie.",
+        "is_correct": false,
+        "feedback_fa": "غیرحرفه‌ای برای این مرحله از مصاحبه به نظر می‌رسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat bepaal ik pas als ik het leuk vind.",
+        "is_correct": false,
+        "feedback_fa": "غیرمتعهد و مبهم به نظر می‌رسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een opzegtermijn van een maand, dus ik kan begin volgende maand starten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ روشن و منطقی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan wanneer dan ook, het maakt niet uit.",
+        "is_correct": false,
+        "feedback_fa": "مبهم است و اطلاعاتِ عملی نمی‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Waar ziet u zichzelf over vijf jaar?»  Welk antwoord toont een realistische ambitie?",
+    "question_text_fa": "کدام پاسخ جاه‌طلبیِ واقع‌بینانه‌ای نشان می‌دهد؟",
+    "explanation_fa": "بهترین پاسخ، هدفی روشن و مرتبط با رشد در همان زمینه است.",
+    "grammar_rule_fa": "بیانِ هدف: «Ik hoop dan … te zijn.»",
+    "extra_example_nl": "Ik hoop dan meer verantwoordelijkheid te hebben binnen dit vakgebied.",
+    "extra_example_fa": "امیدوارم تا آن زمان مسئولیتِ بیشتری در این حوزه داشته باشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik hoop dan miljonair te zijn en niet meer te werken.",
+        "is_correct": false,
+        "feedback_fa": "غیرواقع‌بینانه و بی‌ربط به این شغل است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geen idee, ik denk niet zo ver vooruit.",
+        "is_correct": false,
+        "feedback_fa": "نبودِ برنامه‌ریزی و جاه‌طلبی نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waarschijnlijk werk ik dan ergens anders.",
+        "is_correct": false,
+        "feedback_fa": "تعهدِ کمی به این شرکت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik hoop dan meer verantwoordelijkheid te hebben binnen dit vakgebied.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واقع‌بینانه و مرتبط با شغل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Vertel eens over een fout die u heeft gemaakt en wat u ervan heeft geleerd.»  Welk antwoord is het sterkst?",
+    "question_text_fa": "کدام پاسخ محکم‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، اعترافِ صادقانه به یک اشتباه همراه با درسِ گرفته‌شده است.",
+    "grammar_rule_fa": "ساختار: «Ik heb ooit …, sindsdien doe ik …»",
+    "extra_example_nl": "Ik heb ooit een deadline gemist, sindsdien plan ik alles ruim van tevoren.",
+    "extra_example_fa": "یک بار موعد را از دست دادم، از آن به بعد همه چیز را از قبل برنامه‌ریزی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb ooit een deadline gemist, sindsdien plan ik alles ruim van tevoren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صادقانه همراه با درسِ گرفته‌شده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik maak eigenlijk nooit fouten.",
+        "is_correct": false,
+        "feedback_fa": "غیرقابل‌باور و بدون خودآگاهی به نظر می‌رسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat wil ik liever niet vertellen.",
+        "is_correct": false,
+        "feedback_fa": "از یک سؤالِ رایجِ مصاحبه فرار می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fouten zijn altijd de schuld van anderen.",
+        "is_correct": false,
+        "feedback_fa": "نبودِ مسئولیت‌پذیری را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Bent u bereid om af en toe in het weekend te werken?»  Welk antwoord is het meest eerlijk én professioneel?",
+    "question_text_fa": "کدام پاسخ هم صادقانه و هم حرفه‌ای است؟",
+    "explanation_fa": "بهترین پاسخ، بیانِ روشنِ محدودیت‌های واقعی همراه با انعطاف‌پذیریِ منطقی است.",
+    "grammar_rule_fa": "بیانِ محدودیتِ منطقی: «Meestal wel, al zou ik het fijn vinden als …»",
+    "extra_example_nl": "Meestal wel, al zou ik het fijn vinden als dit niet te vaak voorkomt.",
+    "extra_example_fa": "معمولاً بله، هرچند خوب می‌شد اگر خیلی زیاد پیش نیاید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is niet mijn probleem.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و غیرحرفه‌ای است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Meestal wel, al zou ik het fijn vinden als dit niet te vaak voorkomt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صادقانه و همراه با انعطاف‌پذیریِ منطقی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nooit, ik werk alleen op werkdagen, punt uit.",
+        "is_correct": false,
+        "feedback_fa": "بیش‌ازحد قاطع و کمی غیرانعطاف‌پذیر برای شروعِ مصاحبه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, altijd, ik heb toch geen ander leven.",
+        "is_correct": false,
+        "feedback_fa": "غیرواقع‌بینانه و کمی نگران‌کننده به نظر می‌رسد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Spreekt u naast Nederlands ook andere talen?»  Welk antwoord geeft de meest bruikbare informatie?",
+    "question_text_fa": "کدام پاسخ اطلاعاتِ مفیدتری می‌دهد؟",
+    "explanation_fa": "بهترین پاسخ، ذکرِ دقیقِ زبان‌ها و سطحِ مهارت در هر کدام است.",
+    "grammar_rule_fa": "بیانِ سطح: «Ik spreek … vloeiend en … op een basisniveau.»",
+    "extra_example_nl": "Ik spreek Engels vloeiend en Duits op een basisniveau.",
+    "extra_example_fa": "من به انگلیسی مسلط هستم و آلمانی را در سطح مقدماتی صحبت می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Talen zijn niet mijn ding.",
+        "is_correct": false,
+        "feedback_fa": "به سؤال مستقیم پاسخ نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb er nooit over nagedacht.",
+        "is_correct": false,
+        "feedback_fa": "غیرآماده به نظر می‌رسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik spreek Engels vloeiend en Duits op een basisniveau.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیق و روشن درباره‌ی سطحِ زبان."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een beetje van alles, denk ik.",
+        "is_correct": false,
+        "feedback_fa": "مبهم است و اطلاعاتِ دقیقی نمی‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Deze functie vereist soms reizen naar andere vestigingen, is dat een probleem?»  Welk antwoord is het meest gepast?",
+    "question_text_fa": "کدام پاسخ مناسب‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، بیانِ روشنِ آمادگی همراه با شرایطِ واقعی (مثلاً چقدر) است.",
+    "grammar_rule_fa": "پاسخِ روشن با جزئیات: «Dat is geen probleem, zolang …»",
+    "extra_example_nl": "Dat is geen probleem, zolang het van tevoren wordt gepland.",
+    "extra_example_fa": "این مشکلی نیست، تا زمانی که از قبل برنامه‌ریزی شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik reis nooit, onder geen enkele voorwaarde.",
+        "is_correct": false,
+        "feedback_fa": "بیش‌ازحد قاطع، ممکن است شانسِ گرفتنِ شغل را کم کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Reizen vind ik doodeng.",
+        "is_correct": false,
+        "feedback_fa": "غیرحرفه‌ای و بیش‌ازحد شخصی برای این موقعیت است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat weet ik nog niet, misschien.",
+        "is_correct": false,
+        "feedback_fa": "مبهم و غیرقاطع به نظر می‌رسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is geen probleem, zolang het van tevoren wordt gepland.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ روشن و منطقی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Wilt u liever fulltime of parttime werken?»  Welk antwoord is het meest duidelijk?",
+    "question_text_fa": "کدام پاسخ روشن‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، بیانِ روشنِ ترجیحِ خودت با دلیلِ کوتاه است.",
+    "grammar_rule_fa": "بیانِ ترجیح: «Ik werk het liefst … omdat …»",
+    "extra_example_nl": "Ik werk het liefst fulltime, omdat ik graag volledig betrokken ben.",
+    "extra_example_fa": "ترجیح می‌دهم تمام‌وقت کار کنم، چون دوست دارم کاملاً درگیر باشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk het liefst fulltime, omdat ik graag volledig betrokken ben.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ روشن و همراه با دلیل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat maakt me eigenlijk niet zoveel uit.",
+        "is_correct": false,
+        "feedback_fa": "مبهم است و به شرکت کمکی برای برنامه‌ریزی نمی‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil zo min mogelijk werken.",
+        "is_correct": false,
+        "feedback_fa": "انگیزه‌ی پایین را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Werken vind ik eigenlijk niet zo leuk.",
+        "is_correct": false,
+        "feedback_fa": "تأثیرِ منفی و غیرحرفه‌ای در مصاحبه دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Waarom wilt u van carrière veranderen?»  Welk antwoord is het meest overtuigend?",
+    "question_text_fa": "کدام پاسخ قانع‌کننده‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، دلیلِ مثبت و روشن برای تغییرِ مسیرِ شغلی است.",
+    "grammar_rule_fa": "بیانِ انگیزه: «Ik heb ontdekt dat ik meer interesse heb in …»",
+    "extra_example_nl": "Ik heb ontdekt dat ik meer interesse heb in mensen helpen dan in administratie.",
+    "extra_example_fa": "متوجه شدم که علاقه‌ی بیشتری به کمک‌کردن به مردم دارم تا کارهای اداری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Iedereen zei dat ik dit moest doen.",
+        "is_correct": false,
+        "feedback_fa": "انگیزه‌ی شخصیِ کافی را نشان نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb ontdekt dat ik meer interesse heb in mensen helpen dan in administratie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صادقانه، مثبت و روشن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn oude vak was verschrikkelijk saai.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ منفی درباره‌ی شغلِ قبلی نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik weet het niet precies, het voelde gewoon zo.",
+        "is_correct": false,
+        "feedback_fa": "مبهم و بدون استدلالِ روشن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Hoe zou u omgaan met een boze klant?»  Welk antwoord is het meest professioneel?",
+    "question_text_fa": "کدام پاسخ حرفه‌ای‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، توضیحِ رویکردی آرام، همدلانه و راه‌حل‌محور است.",
+    "grammar_rule_fa": "توضیحِ روش: «Ik blijf rustig, luister goed en zoek naar een oplossing.»",
+    "extra_example_nl": "Ik blijf rustig, luister goed naar de klant en zoek samen naar een oplossing.",
+    "extra_example_fa": "آرام می‌مانم، به‌خوبی به مشتری گوش می‌دهم و با هم دنبال راه‌حل می‌گردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik negeer boze klanten meestal.",
+        "is_correct": false,
+        "feedback_fa": "غیرحرفه‌ای و مضر برای خدماتِ مشتری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik roep meteen mijn manager erbij, zonder zelf iets te proberen.",
+        "is_correct": false,
+        "feedback_fa": "نشانِ نداشتنِ توانایی حلِ مسئله به‌تنهایی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik blijf rustig, luister goed en zoek samen met de klant naar een oplossing.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ آرام، همدلانه و راه‌حل‌محور."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik word meestal ook boos terug.",
+        "is_correct": false,
+        "feedback_fa": "غیرحرفه‌ای است و می‌تواند وضعیت را بدتر کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Hoe gaat u om met meerdere taken tegelijk?»  Welk antwoord is het sterkst?",
+    "question_text_fa": "کدام پاسخ محکم‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، توضیحِ روشِ سازمان‌دهی و اولویت‌بندیِ کارهاست.",
+    "grammar_rule_fa": "توضیحِ روش: «Ik maak een lijst en werk de belangrijkste taken eerst af.»",
+    "extra_example_nl": "Ik maak een lijst met prioriteiten en werk de belangrijkste taken eerst af.",
+    "extra_example_fa": "لیستی از اولویت‌ها می‌سازم و ابتدا مهم‌ترین کارها را انجام می‌دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik doe gewoon alles tegelijk en hoop dat het goed komt.",
+        "is_correct": false,
+        "feedback_fa": "نشانِ نبودِ برنامه‌ریزی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik raak meestal in paniek.",
+        "is_correct": false,
+        "feedback_fa": "تصویرِ منفی از توانایی مدیریتِ چند کار می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik doe altijd maar één ding per dag.",
+        "is_correct": false,
+        "feedback_fa": "با نیازِ واقعیِ کارِ چندوظیفه‌ای هماهنگ نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik maak een lijst met prioriteiten en werk de belangrijkste taken eerst af.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ روش‌مند و حرفه‌ای."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Hoe lang duurt de proeftijd bij ons, denkt u?»  Sollicitant: «Dat weet ik niet precies, kunt u dat toelichten?»  Wat doet de sollicitant hier?",
+    "question_text_fa": "داوطلب در اینجا چه کار می‌کند؟",
+    "explanation_fa": "داوطلب صادقانه اعتراف می‌کند که نمی‌داند و مودبانه توضیح می‌خواهد.",
+    "grammar_rule_fa": "درخواستِ توضیح: «Kunt u dat toelichten?»",
+    "extra_example_nl": "Dat weet ik niet zeker, kunt u dat toelichten?",
+    "extra_example_fa": "مطمئن نیستم، می‌شود توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij geeft eerlijk toe het niet te weten en vraagt om uitleg.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij verzint een willekeurig antwoord.",
+        "is_correct": false,
+        "feedback_fa": "او صادقانه اعتراف می‌کند که نمی‌داند، پاسخِ ساختگی نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij weigert de vraag te beantwoorden.",
+        "is_correct": false,
+        "feedback_fa": "او با احترام سؤال می‌کند، نه اینکه از پاسخ‌دادن خودداری کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij verandert van onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً به همان سؤال ادامه می‌دهد، فقط توضیحِ بیشتری می‌خواهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Wat doet u het liefst in uw vrije tijd?»  Sollicitant vertelt over vrijwilligerswerk bij een sportclub. Waarom is dit een goed antwoord in een sollicitatiegesprek?",
+    "question_text_fa": "چرا این پاسخ در مصاحبه‌ی شغلی خوب است؟",
+    "explanation_fa": "این پاسخ نشان می‌دهد داوطلب مسئولیت‌پذیر و اجتماعی است، صفاتی که برای کارفرمایان جذاب است.",
+    "grammar_rule_fa": "نکته‌ای مثبت درباره‌ی خودت: تجربه‌ای که مهارتِ مرتبط با کار را نشان دهد.",
+    "extra_example_nl": "Ik doe vrijwilligerswerk bij een sportclub, dat leert me goed samenwerken.",
+    "extra_example_fa": "من در یک باشگاه ورزشی داوطلبانه کار می‌کنم، این به من همکاریِ خوب را یاد می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het toont dat hij niet gemotiveerd is voor de baan.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ داوطلب‌کاری معمولاً انگیزه و مسئولیت‌پذیری را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het laat zien dat de sollicitant sociaal en verantwoordelijk is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین تصویرِ مثبت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het bewijst dat hij nooit werkt.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ داوطلب‌کاری زمانِ آزاد است، نه بیکاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het heeft niets met de functie te maken en is dus nutteloos.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی صحیح نیست؛ نکاتِ شخصیتیِ مثبت اغلب مرتبط‌اند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer sluit af: «Wij nemen na een week contact met u op.»  Sollicitant: «___»  Welke afsluitende zin is het meest professioneel?",
+    "question_text_fa": "کدام جمله‌ی پایانی حرفه‌ای‌تر است؟",
+    "explanation_fa": "تشکر از فرصتِ مصاحبه، پایانِ مناسب و حرفه‌ای است.",
+    "grammar_rule_fa": "تشکرِ پایانی: «Dank u wel voor het gesprek, ik hoor het graag.»",
+    "extra_example_nl": "Dank u wel voor het gesprek, ik hoor graag van u.",
+    "extra_example_fa": "ممنون بابت مصاحبه، منتظرِ خبرتان هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een week is wel erg lang.",
+        "is_correct": false,
+        "feedback_fa": "گلایه‌آمیز و نامناسب برای پایانِ مصاحبه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Oké, doei.",
+        "is_correct": false,
+        "feedback_fa": "بیش‌ازحد غیررسمی برای پایانِ مصاحبه‌ی شغلی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dank u wel voor het gesprek, ik hoor graag van u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ حرفه‌ای و مودبانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Prima, bel maar als het echt moet.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد، غیرحرفه‌ای است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Na het gesprek stuurt de sollicitant een e-mail: «Bedankt voor het fijne gesprek vandaag, ik kijk ernaar uit om van u te horen.»  Wat is het doel van deze e-mail?",
+    "question_text_fa": "هدفِ این ایمیل چیست؟",
+    "explanation_fa": "هدف، تشکر و نشان‌دادنِ علاقه‌ی مداوم بعد از مصاحبه است.",
+    "grammar_rule_fa": "پیگیریِ حرفه‌ای بعد از مصاحبه: «Ik kijk ernaar uit om van u te horen.»",
+    "extra_example_nl": "Ik kijk ernaar uit om binnenkort van u te horen.",
+    "extra_example_fa": "منتظرم به‌زودی از شما خبری بشنوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om te klagen over het gesprek.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ ایمیل مثبت است، نه شکایت‌آمیز."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om de sollicitatie in te trekken.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او هنوز علاقه‌مند است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om naar het salaris te vragen.",
+        "is_correct": false,
+        "feedback_fa": "چنین درخواستی در ایمیل نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om beleefd te bedanken en interesse te tonen na het gesprek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین هدف را دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Kunt u werken onder druk, bijvoorbeeld tijdens drukke periodes?»  Welk antwoord is het meest geloofwaardig?",
+    "question_text_fa": "کدام پاسخ باورپذیرتر است؟",
+    "explanation_fa": "بهترین پاسخ، مثالِ واقعی از یک دوره‌ی شلوغ که با موفقیت مدیریت شده است.",
+    "grammar_rule_fa": "پاسخ با مثال: «Ja, bijvoorbeeld tijdens de decembermaand …»",
+    "extra_example_nl": "Ja, bijvoorbeeld tijdens de decembermaand had ik het erg druk en bleef ik toch georganiseerd.",
+    "extra_example_fa": "بله، مثلاً در ماهِ دسامبر خیلی شلوغ بودم و باز هم منظم ماندم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, bijvoorbeeld tijdens de decembermaand bleef ik ondanks de drukte goed georganiseerd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مثالِ واقعی و قانع‌کننده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, ik werk liever nooit onder druk.",
+        "is_correct": false,
+        "feedback_fa": "در بسیاری از مشاغل غیرواقع‌بینانه است و شکِ کارفرما را برمی‌انگیزد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Druk werken vind ik doodeng.",
+        "is_correct": false,
+        "feedback_fa": "تصویرِ منفی و غیرحرفه‌ای می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb dat nog nooit meegemaakt.",
+        "is_correct": false,
+        "feedback_fa": "غیرقابل‌باور به نظر می‌رسد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Wat weet u al over ons bedrijf?»  Welk antwoord toont de beste voorbereiding?",
+    "question_text_fa": "کدام پاسخ بهترین آمادگیِ قبلی را نشان می‌دهد؟",
+    "explanation_fa": "بهترین پاسخ، اطلاعاتِ مشخص و درستی است که نشان می‌دهد داوطلب تحقیق کرده.",
+    "grammar_rule_fa": "نشانِ تحقیقِ قبلی: «Ik heb gelezen dat jullie …»",
+    "extra_example_nl": "Ik heb gelezen dat jullie vorig jaar zijn uitgebreid naar drie nieuwe steden.",
+    "extra_example_fa": "خوانده‌ام که پارسال به سه شهرِ جدید گسترش پیدا کردید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat maakt me eigenlijk niet zoveel uit.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد و تأثیرِ بدی می‌گذارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb gelezen dat jullie vorig jaar naar drie nieuwe steden zijn uitgebreid.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نشانِ آمادگی و تحقیقِ واقعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niet zo veel, eerlijk gezegd.",
+        "is_correct": false,
+        "feedback_fa": "نشانِ نبودِ آمادگی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb de naam ergens gehoord.",
+        "is_correct": false,
+        "feedback_fa": "مبهم است و نشانِ تحقیقِ جدی نمی‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Kunt u zelfstandig werken, of heeft u liever veel begeleiding?»  Welk antwoord is het meest evenwichtig?",
+    "question_text_fa": "کدام پاسخ متعادل‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، بیانِ توانایی کارِ مستقل همراه با تمایل به دریافتِ کمک در صورتِ نیاز است.",
+    "grammar_rule_fa": "پاسخِ متعادل: «Ik werk graag zelfstandig, maar vraag hulp als het nodig is.»",
+    "extra_example_nl": "Ik werk graag zelfstandig, maar vraag gerust hulp als dat nodig is.",
+    "extra_example_fa": "دوست دارم مستقل کار کنم، اما در صورتِ نیاز بدون تعارف کمک می‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik vraag nooit om hulp, ook niet als ik vastloop.",
+        "is_correct": false,
+        "feedback_fa": "غیرواقع‌بینانه و می‌تواند نشانِ لجاجت باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat maakt me niet uit.",
+        "is_correct": false,
+        "feedback_fa": "مبهم است و پاسخِ روشنی به سؤال نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik werk graag zelfstandig, maar vraag gerust hulp als dat nodig is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متعادل و واقع‌بینانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb altijd iemand nodig die alles voor me uitlegt.",
+        "is_correct": false,
+        "feedback_fa": "تصویرِ وابستگیِ بیش‌ازحد می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Heeft u nog andere sollicitatiegesprekken lopen?»  Welk antwoord is het meest eerlijk en tactisch?",
+    "question_text_fa": "کدام پاسخ هم صادقانه و هم زیرکانه است؟",
+    "explanation_fa": "بهترین پاسخ، صادقانه بودن بدون افشای جزئیاتِ غیرضروری است.",
+    "grammar_rule_fa": "پاسخِ صادقانه و مختصر: «Ja, ik oriënteer me ook op een paar andere functies.»",
+    "extra_example_nl": "Ja, ik oriënteer me ook op een paar andere functies, maar deze heeft mijn voorkeur.",
+    "extra_example_fa": "بله، در حال بررسیِ چند شغلِ دیگر هم هستم، اما این یکی را ترجیح می‌دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, dit is de enige baan die ooit bestaat.",
+        "is_correct": false,
+        "feedback_fa": "غیرواقع‌بینانه به نظر می‌رسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, ik heb al vijf andere aanbiedingen, dus schiet op.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و بیش‌ازحد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat gaat u niets aan.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و تدافعی برای یک سؤالِ رایجِ مصاحبه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, ik oriënteer me ook op een paar andere functies, maar deze heeft mijn voorkeur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صادقانه و همراه با نشانِ علاقه به این شغل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Hoe zou uw vorige leidinggevende u omschrijven?»  Welk antwoord is het meest overtuigend?",
+    "question_text_fa": "کدام پاسخ قانع‌کننده‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، ذکرِ صفاتِ مثبتِ واقعی همراه با یک مثالِ کوتاه است.",
+    "grammar_rule_fa": "نقل‌قولِ غیرمستقیم: «Mijn leidinggevende zou zeggen dat ik …»",
+    "extra_example_nl": "Mijn leidinggevende zou zeggen dat ik betrouwbaar en oplossingsgericht ben.",
+    "extra_example_fa": "سرپرستم می‌گفت که من قابل‌اعتماد و راه‌حل‌محور هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn leidinggevende zou zeggen dat ik betrouwbaar en oplossingsgericht ben.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مثبت، مشخص و قابلِ‌باور."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geen idee, we hadden niet echt contact.",
+        "is_correct": false,
+        "feedback_fa": "نشانِ ارتباطِ ضعیف با سرپرست و پاسخِ ضعیف است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waarschijnlijk niet zo positief, eerlijk gezegd.",
+        "is_correct": false,
+        "feedback_fa": "تصویرِ منفی از خودش می‌دهد بدون دلیلِ سازنده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat moet u aan hem vragen, niet aan mij.",
+        "is_correct": false,
+        "feedback_fa": "از پاسخ‌دادن به سؤالِ مستقیم طفره می‌رود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: «Deze functie kan soms onregelmatige uren met zich meebrengen, past dat bij u?»  Welk antwoord is het meest gepast?",
+    "question_text_fa": "کدام پاسخ مناسب‌تر است؟",
+    "explanation_fa": "بهترین پاسخ، تأییدِ انعطاف‌پذیری همراه با یک شرطِ واقع‌بینانه است.",
+    "grammar_rule_fa": "پاسخِ متعادل: «Dat past prima bij mij, zolang ik het van tevoren weet.»",
+    "extra_example_nl": "Dat past prima bij mij, zolang ik het op tijd te horen krijg.",
+    "extra_example_fa": "این کاملاً با من جور است، تا زمانی که به‌موقع خبردار شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat weet ik pas als ik begin.",
+        "is_correct": false,
+        "feedback_fa": "غیرقاطع و کمی نامطمئن به نظر می‌رسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat past prima bij mij, zolang ik het op tijd te horen krijg.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ منعطف و واقع‌بینانه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, ik werk alleen van negen tot vijf, nooit anders.",
+        "is_correct": false,
+        "feedback_fa": "بیش‌ازحد قاطع و غیرمنعطف برای این نوع شغل به نظر می‌رسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Onregelmatige uren vind ik verschrikkelijk.",
+        "is_correct": false,
+        "feedback_fa": "تأثیرِ منفی می‌گذارد بدون ارائه‌ی راه‌حل یا شرط."
+      }
+    ]
+  }
+]

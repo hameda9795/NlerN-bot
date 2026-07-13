@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ik ben moe,\" zei hij. Indirect: Hij zei dat hij moe ___.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "در نقلِ غیرمستقیم، زمانِ فعل یک پله به عقب می‌رود؛ «ben» (حال) به «was» (گذشته) تبدیل می‌شود.",
+    "grammar_rule_fa": "نقلِ غیرمستقیم: زمانِ فعل یک پله به عقب می‌رود (حال → گذشته).",
+    "extra_example_nl": "\"Ik ben blij,\" zei ze. → Ze zei dat ze blij was.",
+    "extra_example_fa": "«خوشحالم» گفت. → گفت که خوشحال بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "was",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «ben» به «was» تبدیل می‌شود (حال→گذشته)."
+      },
+      {
+        "key": "B",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» زمانِ حال است؛ در نقلِ غیرمستقیم باید به گذشته برگردد."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou zijn",
+        "is_correct": false,
+        "feedback_fa": "«zou zijn» حالتِ شرطی/فرضی می‌سازد؛ اینجا فقط نقلِ سادۀ گذشته لازم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "bent",
+        "is_correct": false,
+        "feedback_fa": "«bent» برای دوم‌شخص است؛ فاعل اینجا «hij» (سوم‌شخص) است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ik heb geen tijd,\" zei ze. Indirect: Ze zei dat ze geen tijd ___.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "«heb» (حال) در نقلِ غیرمستقیم به «had» (گذشته) تبدیل می‌شود.",
+    "grammar_rule_fa": "نقلِ غیرمستقیم: حال → گذشته.",
+    "extra_example_nl": "\"Ik heb honger,\" zei hij. → Hij zei dat hij honger had.",
+    "extra_example_fa": "«گرسنه‌ام» گفت. → گفت که گرسنه بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "heeft",
+        "is_correct": false,
+        "feedback_fa": "«heeft» زمانِ حال است؛ باید به گذشته برگردد."
+      },
+      {
+        "key": "B",
+        "text_nl": "had",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «heb» به «had» تبدیل می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou hebben",
+        "is_correct": false,
+        "feedback_fa": "«zou hebben» حالتِ شرطی می‌سازد؛ اینجا فقط نقلِ سادۀ گذشته لازم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "had gehad",
+        "is_correct": false,
+        "feedback_fa": "«had gehad» گذشته‌ی دورتر (قبل‌ازگذشته) است؛ اینجا فقط یک پله به عقب کافی است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ik kom morgen,\" zei hij. Indirect: Hij zei dat hij de volgende dag ___.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "«kom» (حال) به «kwam» (گذشته) تبدیل می‌شود؛ «morgen» هم به «de volgende dag» تغییر می‌کند.",
+    "grammar_rule_fa": "نقلِ غیرمستقیم: حال → گذشته. زمانِ اشاره‌کننده هم تغییر می‌کند (morgen → de volgende dag).",
+    "extra_example_nl": "\"Ik vertrek morgen,\" zei ze. → Ze zei dat ze de volgende dag vertrok.",
+    "extra_example_fa": "«فردا حرکت می‌کنم» گفت. → گفت که روزِ بعد حرکت می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "komt",
+        "is_correct": false,
+        "feedback_fa": "«komt» زمانِ حال است؛ باید به گذشته برگردد."
+      },
+      {
+        "key": "B",
+        "text_nl": "was gekomen",
+        "is_correct": false,
+        "feedback_fa": "«was gekomen» گذشته‌ی دورتر است؛ اینجا فقط یک پله به عقب کافی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwam",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «kom» به «kwam» تبدیل می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "kwamen",
+        "is_correct": false,
+        "feedback_fa": "«kwamen» برای فاعلِ جمع است؛ فاعل اینجا «hij» (مفرد) است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ik woon in Rotterdam,\" zei ze. Indirect: Ze vertelde dat ze in Rotterdam ___.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "«woon» (حال) به «woonde» (گذشته) تبدیل می‌شود.",
+    "grammar_rule_fa": "نقلِ غیرمستقیم: حال → گذشته.",
+    "extra_example_nl": "\"Ik werk in Utrecht,\" zei hij. → Hij vertelde dat hij in Utrecht werkte.",
+    "extra_example_fa": "«در اوترخت کار می‌کنم» گفت. → گفت که در اوترخت کار می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "woont",
+        "is_correct": false,
+        "feedback_fa": "«woont» زمانِ حال است؛ باید به گذشته برگردد."
+      },
+      {
+        "key": "B",
+        "text_nl": "heeft gewoond",
+        "is_correct": false,
+        "feedback_fa": "«heeft gewoond» یعنی زندگی کرده و دیگر نمی‌کند؛ اما اینجا فقط نقلِ سادۀ زمانِ حالِ نقل‌شده لازم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "woonden",
+        "is_correct": false,
+        "feedback_fa": "«woonden» برای فاعلِ جمع است؛ فاعل اینجا «ze» (مفرد) است."
+      },
+      {
+        "key": "D",
+        "text_nl": "woonde",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «woon» به «woonde» تبدیل می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ik kan niet komen,\" zei hij. Indirect: Hij zei dat hij niet ___ komen.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "«kan» (حال) به «kon» (گذشته) تبدیل می‌شود.",
+    "grammar_rule_fa": "نقلِ غیرمستقیم: حال → گذشته.",
+    "extra_example_nl": "\"Ik kan niet zwemmen,\" zei ze. → Ze zei dat ze niet kon zwemmen.",
+    "extra_example_fa": "«نمی‌توانم شنا کنم» گفت. → گفت که نمی‌توانست شنا کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kon",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «kan» به «kon» تبدیل می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» زمانِ حال است؛ باید به گذشته برگردد."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou kunnen",
+        "is_correct": false,
+        "feedback_fa": "«zou kunnen» حالتِ شرطی می‌سازد؛ اینجا فقط نقلِ سادۀ گذشته لازم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "kost",
+        "is_correct": false,
+        "feedback_fa": "«kost» فعلِ نادرست است؛ ربطی به «kunnen» ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ik wil dit project afmaken,\" zei ze. Indirect: Ze zei dat ze dit project ___ afmaken.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "«wil» (حال) به «wilde» (گذشته) تبدیل می‌شود.",
+    "grammar_rule_fa": "نقلِ غیرمستقیم: حال → گذشته.",
+    "extra_example_nl": "\"Ik wil helpen,\" zei hij. → Hij zei dat hij wilde helpen.",
+    "extra_example_fa": "«می‌خواهم کمک کنم» گفت. → گفت که می‌خواست کمک کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wil",
+        "is_correct": false,
+        "feedback_fa": "«wil» زمانِ حال است؛ باید به گذشته برگردد."
+      },
+      {
+        "key": "B",
+        "text_nl": "wilde",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «wil» به «wilde» تبدیل می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou willen",
+        "is_correct": false,
+        "feedback_fa": "«zou willen» حالتِ شرطی می‌سازد؛ اینجا فقط نقلِ سادۀ گذشته لازم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "wilden",
+        "is_correct": false,
+        "feedback_fa": "«wilden» برای فاعلِ جمع است؛ فاعل اینجا «ze» (مفرد) است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ik heb de e-mail verstuurd,\" zei hij. Indirect: Hij zei dat hij de e-mail ___.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "«heb verstuurd» (حالِ کامل) در نقلِ غیرمستقیم به «had verstuurd» (گذشته‌ی کامل) تبدیل می‌شود.",
+    "grammar_rule_fa": "نقلِ غیرمستقیم: حالِ کامل → گذشته‌ی کامل.",
+    "extra_example_nl": "\"Ik heb het gedaan,\" zei ze. → Ze zei dat ze het had gedaan.",
+    "extra_example_fa": "«انجامش دادم» گفت. → گفت که آن را انجام داده بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "heeft verstuurd",
+        "is_correct": false,
+        "feedback_fa": "«heeft verstuurd» زمانِ حالِ کامل است؛ باید به گذشته‌ی کامل برگردد."
+      },
+      {
+        "key": "B",
+        "text_nl": "verstuurde",
+        "is_correct": false,
+        "feedback_fa": "«verstuurde» فقط گذشته‌ی ساده است و جنبه‌ی «کامل‌شدگی» را از دست می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "had verstuurd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «heb verstuurd» به «had verstuurd» تبدیل می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou versturen",
+        "is_correct": false,
+        "feedback_fa": "«zou versturen» به آینده/شرط اشاره دارد؛ اما اینجا کاری در گذشته کامل شده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ik moet dit vandaag afmaken,\" zei ze. Indirect: Ze zei dat ze dit die dag ___ afmaken.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "«moet» (حال) به «moest» (گذشته) تبدیل می‌شود؛ حالتِ اجبار حفظ می‌شود.",
+    "grammar_rule_fa": "نقلِ غیرمستقیم: moet → moest (حال→گذشته، همان مدال).",
+    "extra_example_nl": "\"Ik moet nu gaan,\" zei hij. → Hij zei dat hij toen moest gaan.",
+    "extra_example_fa": "«باید بروم» گفت. → گفت که باید می‌رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» زمانِ حال است؛ باید به گذشته برگردد."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» حالتِ اجبار را به توصیه‌ی ملایم تبدیل می‌کند؛ اما جمله‌ی اصلی اجبار بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "mocht",
+        "is_correct": false,
+        "feedback_fa": "«mocht» یعنی اجازه داشت؛ این معنیِ متفاوتی از اجبار (moet) است."
+      },
+      {
+        "key": "D",
+        "text_nl": "moest",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «moet» به «moest» تبدیل می‌شود و حالتِ اجبار می‌ماند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ik ga volgend jaar verhuizen,\" zei hij. Indirect: Hij zei dat hij het volgende jaar ___ verhuizen.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "«ga ... verhuizen» (آینده‌ی نزدیک) در نقلِ غیرمستقیم به «zou verhuizen» تبدیل می‌شود.",
+    "grammar_rule_fa": "نقلِ غیرمستقیم: ga + مصدر (آینده) → zou + مصدر.",
+    "extra_example_nl": "\"Ik ga trouwen,\" zei ze. → Ze zei dat ze zou trouwen.",
+    "extra_example_fa": "«ازدواج می‌کنم» گفت. → گفت که ازدواج خواهد کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zou",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ آینده‌ی گذشته با «zou + مصدر» بیان می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "gaat",
+        "is_correct": false,
+        "feedback_fa": "«gaat» زمانِ حال است؛ باید به گذشته برگردد."
+      },
+      {
+        "key": "C",
+        "text_nl": "ging",
+        "is_correct": false,
+        "feedback_fa": "«ging verhuizen» جنبه‌ی آینده را از دست می‌دهد؛ برای بیانِ آینده‌ی گذشته «zou» لازم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "moest",
+        "is_correct": false,
+        "feedback_fa": "«moest» اجبار می‌سازد؛ اما جمله‌ی اصلی فقط دربارۀ یک برنامه‌ی آینده بود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ik weet het antwoord niet,\" zei ze. Indirect: Ze zei dat ze het antwoord niet ___.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "«weet» (حال) به «wist» (گذشته) تبدیل می‌شود.",
+    "grammar_rule_fa": "نقلِ غیرمستقیم: حال → گذشته.",
+    "extra_example_nl": "\"Ik weet het niet zeker,\" zei hij. → Hij zei dat hij het niet zeker wist.",
+    "extra_example_fa": "«مطمئن نیستم» گفت. → گفت که مطمئن نبود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "weet",
+        "is_correct": false,
+        "feedback_fa": "«weet» زمانِ حال است؛ باید به گذشته برگردد."
+      },
+      {
+        "key": "B",
+        "text_nl": "wist",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «weet» به «wist» تبدیل می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou weten",
+        "is_correct": false,
+        "feedback_fa": "«zou weten» حالتِ شرطی می‌سازد؛ اینجا فقط نقلِ سادۀ گذشته لازم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "wisten",
+        "is_correct": false,
+        "feedback_fa": "«wisten» برای فاعلِ جمع است؛ فاعل اینجا «ze» (مفرد) است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Kom je morgen?\" vroeg hij. Indirect: Hij vroeg ___ ik de volgende dag kwam.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "برای نقلِ غیرمستقیمِ سؤالِ بله/خیر، از «of» استفاده می‌شود.",
+    "grammar_rule_fa": "of = برای نقلِ سؤالِ بله/خیر (بدونِ کلمه‌ی پرسشی).",
+    "extra_example_nl": "\"Ben je thuis?\" vroeg ze. → Ze vroeg of ik thuis was.",
+    "extra_example_fa": "«خانه‌ای؟» پرسید. → پرسید که آیا خانه‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤال."
+      },
+      {
+        "key": "B",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط می‌سازد؛ اینجا نقلِ یک سؤال مطرح است، نه شرط."
+      },
+      {
+        "key": "C",
+        "text_nl": "of",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «of» برای نقلِ سؤالِ بله/خیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» یک کلمه‌ی پرسشی است؛ اما سؤالِ اصلی بله/خیر بود، بدونِ کلمه‌ی پرسشی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "official_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Heb je de brief ontvangen?\" vroeg ze. Indirect: Ze vroeg ___ ik de brief had ontvangen.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "برای نقلِ سؤالِ بله/خیر، از «of» استفاده می‌شود.",
+    "grammar_rule_fa": "of = برای سؤالِ بله/خیر.",
+    "extra_example_nl": "\"Heb je het pakket gekregen?\" vroeg hij. → Hij vroeg of ik het pakket had gekregen.",
+    "extra_example_fa": "«بسته را گرفتی؟» پرسید. → پرسید که آیا بسته را گرفته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤال."
+      },
+      {
+        "key": "B",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط می‌سازد؛ اینجا نقلِ یک سؤال مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wanneer",
+        "is_correct": false,
+        "feedback_fa": "«wanneer» درباره‌ی زمان می‌پرسد؛ اما سؤالِ اصلی بله/خیر بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "of",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «of» برای نقلِ سؤالِ بله/خیر."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Ben je klaar?\" vroeg hij. Indirect: Hij vroeg ___ ik klaar was.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "برای نقلِ سؤالِ بله/خیر، از «of» استفاده می‌شود.",
+    "grammar_rule_fa": "of = برای سؤالِ بله/خیر.",
+    "extra_example_nl": "\"Ben je moe?\" vroeg ze. → Ze vroeg of ik moe was.",
+    "extra_example_fa": "«خسته‌ای؟» پرسید. → پرسید که آیا خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "of",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «of» برای نقلِ سؤالِ بله/خیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤال."
+      },
+      {
+        "key": "C",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» کلمه‌ی پرسشی است؛ اما این سؤال بله/خیر بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "hoe",
+        "is_correct": false,
+        "feedback_fa": "«hoe» درباره‌ی چگونگی می‌پرسد؛ اما سؤالِ اصلی بله/خیر بود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Wil je koffie?\" vroeg ze. Indirect: Ze vroeg ___ ik koffie wilde.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "برای نقلِ سؤالِ بله/خیر، از «of» استفاده می‌شود.",
+    "grammar_rule_fa": "of = برای سؤالِ بله/خیر.",
+    "extra_example_nl": "\"Wil je thee?\" vroeg hij. → Hij vroeg of ik thee wilde.",
+    "extra_example_fa": "«چای می‌خواهی؟» پرسید. → پرسید که آیا چای می‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "waarom",
+        "is_correct": false,
+        "feedback_fa": "«waarom» درباره‌ی دلیل می‌پرسد؛ اما این سؤال بله/خیر بود."
+      },
+      {
+        "key": "B",
+        "text_nl": "of",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «of» برای نقلِ سؤالِ بله/خیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤال."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» درباره‌ی شخص می‌پرسد؛ اما این سؤال بله/خیر بود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Kun je me helpen?\" vroeg hij. Indirect: Hij vroeg ___ ik hem kon helpen.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "برای نقلِ سؤالِ بله/خیر، از «of» استفاده می‌شود.",
+    "grammar_rule_fa": "of = برای سؤالِ بله/خیر.",
+    "extra_example_nl": "\"Kun je dit lezen?\" vroeg ze. → Ze vroeg of ik dit kon lezen.",
+    "extra_example_fa": "«می‌توانی این را بخوانی؟» پرسید. → پرسید که آیا می‌توانم آن را بخوانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤال."
+      },
+      {
+        "key": "B",
+        "text_nl": "hoe",
+        "is_correct": false,
+        "feedback_fa": "«hoe» درباره‌ی چگونگی می‌پرسد؛ اما این سؤال بله/خیر بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "of",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «of» برای نقلِ سؤالِ بله/خیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» کلمه‌ی پرسشی است؛ اما این سؤال بله/خیر بود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Heeft u nog vragen?\" vroeg de docent. Indirect: De docent vroeg ___ wij nog vragen hadden.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "برای نقلِ سؤالِ بله/خیر، از «of» استفاده می‌شود.",
+    "grammar_rule_fa": "of = برای سؤالِ بله/خیر.",
+    "extra_example_nl": "\"Heeft u het begrepen?\" vroeg de leraar. → De leraar vroeg of wij het hadden begrepen.",
+    "extra_example_fa": "«متوجه شدید؟» پرسید. → پرسید که آیا متوجه شده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» کلمه‌ی پرسشی است؛ اما این سؤال بله/خیر بود."
+      },
+      {
+        "key": "B",
+        "text_nl": "waarom",
+        "is_correct": false,
+        "feedback_fa": "«waarom» درباره‌ی دلیل می‌پرسد؛ اما این سؤال بله/خیر بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤال."
+      },
+      {
+        "key": "D",
+        "text_nl": "of",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «of» برای نقلِ سؤالِ بله/خیر."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Werkt dit programma goed?\" vroeg de manager. Indirect: De manager vroeg ___ het programma goed werkte.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "برای نقلِ سؤالِ بله/خیر، از «of» استفاده می‌شود.",
+    "grammar_rule_fa": "of = برای سؤالِ بله/خیر.",
+    "extra_example_nl": "\"Loopt alles goed?\" vroeg ze. → Ze vroeg of alles goed liep.",
+    "extra_example_fa": "«همه‌چیز خوب پیش می‌رود؟» پرسید. → پرسید که آیا همه‌چیز خوب پیش می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "of",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «of» برای نقلِ سؤالِ بله/خیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤال."
+      },
+      {
+        "key": "C",
+        "text_nl": "hoe",
+        "is_correct": false,
+        "feedback_fa": "«hoe» درباره‌ی چگونگی می‌پرسد؛ اما این سؤال بله/خیر بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "waarom",
+        "is_correct": false,
+        "feedback_fa": "«waarom» درباره‌ی دلیل می‌پرسد؛ اما این سؤال بله/خیر بود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Gaat het feest door?\" vroeg iedereen. Indirect: Iedereen vroeg ___ het feest doorging.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "برای نقلِ سؤالِ بله/خیر، از «of» استفاده می‌شود.",
+    "grammar_rule_fa": "of = برای سؤالِ بله/خیر.",
+    "extra_example_nl": "\"Gaat de trein rijden?\" vroeg hij. → Hij vroeg of de trein zou rijden.",
+    "extra_example_fa": "«قطار حرکت می‌کند؟» پرسید. → پرسید که آیا قطار حرکت خواهد کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wanneer",
+        "is_correct": false,
+        "feedback_fa": "«wanneer» درباره‌ی زمان می‌پرسد؛ اما این سؤال بله/خیر بود."
+      },
+      {
+        "key": "B",
+        "text_nl": "of",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «of» برای نقلِ سؤالِ بله/خیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "waarom",
+        "is_correct": false,
+        "feedback_fa": "«waarom» درباره‌ی دلیل می‌پرسد؛ اما این سؤال بله/خیر بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤال."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Waar woon je?\" vroeg hij. Indirect: Hij vroeg ___ ik woonde.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "چون سؤالِ اصلی با کلمه‌ی پرسشیِ «waar» بود، همان کلمه در نقلِ غیرمستقیم می‌ماند (بدونِ «of»).",
+    "grammar_rule_fa": "برای سؤال‌های با کلمه‌ی پرسشی، همان کلمه حفظ می‌شود؛ «of» اضافه نمی‌شود.",
+    "extra_example_nl": "\"Waar werk je?\" vroeg ze. → Ze vroeg waar ik werkte.",
+    "extra_example_fa": "«کجا کار می‌کنی؟» پرسید. → پرسید کجا کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "با اضافه‌کردنِ «of»، کلمه‌ی پرسشیِ اصلی («waar») از دست می‌رود و معنی تغییر می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤالِ با کلمه‌ی پرسشی."
+      },
+      {
+        "key": "C",
+        "text_nl": "waar",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کلمه‌ی پرسشیِ «waar» حفظ می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط می‌سازد و اینجا کلمه‌ی پرسشیِ اصلی را از بین می‌برد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Wanneer kom je?\" vroeg ze. Indirect: Ze vroeg ___ ik kwam.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "کلمه‌ی پرسشیِ «wanneer» در نقلِ غیرمستقیم حفظ می‌شود.",
+    "grammar_rule_fa": "کلمه‌ی پرسشی حفظ می‌شود؛ «of» اضافه نمی‌شود.",
+    "extra_example_nl": "\"Wanneer vertrek je?\" vroeg hij. → Hij vroeg wanneer ik vertrok.",
+    "extra_example_fa": "«کی حرکت می‌کنی؟» پرسید. → پرسید کی حرکت می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط می‌سازد و کلمه‌ی پرسشیِ اصلی را از بین می‌برد."
+      },
+      {
+        "key": "B",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "با «of»، معنیِ «کِی» از دست می‌رود و به سؤالِ بله/خیر تبدیل می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤالِ با کلمه‌ی پرسشی."
+      },
+      {
+        "key": "D",
+        "text_nl": "wanneer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کلمه‌ی پرسشیِ «wanneer» حفظ می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Waarom huil je?\" vroeg hij. Indirect: Hij vroeg ___ ik huilde.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "کلمه‌ی پرسشیِ «waarom» در نقلِ غیرمستقیم حفظ می‌شود.",
+    "grammar_rule_fa": "کلمه‌ی پرسشی حفظ می‌شود.",
+    "extra_example_nl": "\"Waarom lach je?\" vroeg ze. → Ze vroeg waarom ik lachte.",
+    "extra_example_fa": "«چرا می‌خندی؟» پرسید. → پرسید چرا می‌خندم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "waarom",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کلمه‌ی پرسشیِ «waarom» حفظ می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "با «of»، معنیِ «چرا» از دست می‌رود و به سؤالِ بله/خیر تبدیل می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤالِ با کلمه‌ی پرسشی."
+      },
+      {
+        "key": "D",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط می‌سازد و کلمه‌ی پرسشیِ اصلی را از بین می‌برد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Wat wil je drinken?\" vroeg ze. Indirect: Ze vroeg ___ ik wilde drinken.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "کلمه‌ی پرسشیِ «wat» در نقلِ غیرمستقیم حفظ می‌شود.",
+    "grammar_rule_fa": "کلمه‌ی پرسشی حفظ می‌شود.",
+    "extra_example_nl": "\"Wat eet je graag?\" vroeg hij. → Hij vroeg wat ik graag at.",
+    "extra_example_fa": "«چه چیزی دوست داری بخوری؟» پرسید. → پرسید چه چیزی دوست دارم بخورم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤالِ با کلمه‌ی پرسشی."
+      },
+      {
+        "key": "B",
+        "text_nl": "wat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کلمه‌ی پرسشیِ «wat» حفظ می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "با «of»، معنیِ «چه چیزی» از دست می‌رود و به سؤالِ بله/خیر تبدیل می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط می‌سازد و کلمه‌ی پرسشیِ اصلی را از بین می‌برد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Hoe laat begint de film?\" vroeg hij. Indirect: Hij vroeg ___ de film begon.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "کلمه‌ی پرسشیِ «hoe laat» در نقلِ غیرمستقیم حفظ می‌شود.",
+    "grammar_rule_fa": "کلمه‌ی پرسشی حفظ می‌شود.",
+    "extra_example_nl": "\"Hoe laat sluit de winkel?\" vroeg ze. → Ze vroeg hoe laat de winkel sloot.",
+    "extra_example_fa": "«مغازه ساعت چند می‌بندد؟» پرسید. → پرسید ساعت چند مغازه می‌بندد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "با «of»، معنیِ «ساعتِ چند» از دست می‌رود و به سؤالِ بله/خیر تبدیل می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤالِ با کلمه‌ی پرسشی."
+      },
+      {
+        "key": "C",
+        "text_nl": "hoe laat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کلمه‌ی پرسشیِ «hoe laat» حفظ می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط می‌سازد و کلمه‌ی پرسشیِ اصلی را از بین می‌برد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Wie heeft dit gedaan?\" vroeg de leraar. Indirect: De leraar vroeg ___ dit had gedaan.",
+    "question_text_fa": "کدام کلمه جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "کلمه‌ی پرسشیِ «wie» در نقلِ غیرمستقیم حفظ می‌شود.",
+    "grammar_rule_fa": "کلمه‌ی پرسشی حفظ می‌شود.",
+    "extra_example_nl": "\"Wie heeft gebeld?\" vroeg ze. → Ze vroeg wie er had gebeld.",
+    "extra_example_fa": "«کی زنگ زد؟» پرسید. → پرسید کی زنگ زده بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» برای نقلِ جمله‌ی خبری است، نه سؤالِ با کلمه‌ی پرسشی."
+      },
+      {
+        "key": "B",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط می‌سازد و کلمه‌ی پرسشیِ اصلی را از بین می‌برد."
+      },
+      {
+        "key": "C",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "با «of»، معنیِ «چه کسی» از دست می‌رود و به سؤالِ بله/خیر تبدیل می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کلمه‌ی پرسشیِ «wie» حفظ می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Kom hier!\" zei ze. Indirect: Ze zei dat ik ___ komen.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "امر (Kom hier!) در نقلِ غیرمستقیم به «moest + مصدر» تبدیل می‌شود.",
+    "grammar_rule_fa": "امر → moest + مصدر (در نقلِ غیرمستقیم).",
+    "extra_example_nl": "\"Ga zitten!\" zei hij. → Hij zei dat ik moest gaan zitten.",
+    "extra_example_fa": "«بنشین!» گفت. → گفت که باید می‌نشستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moest",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ امر در نقلِ غیرمستقیم به «moest» تبدیل می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "kwam",
+        "is_correct": false,
+        "feedback_fa": "«kwam» فقط یک توصیفِ ساده است و حالتِ دستور را از دست می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou komen",
+        "is_correct": false,
+        "feedback_fa": "«zou komen» دستور را به یک پیش‌بینی/وعده تبدیل می‌کند، نه دستور."
+      },
+      {
+        "key": "D",
+        "text_nl": "mocht",
+        "is_correct": false,
+        "feedback_fa": "«mocht» یعنی اجازه داشت؛ اما جمله‌ی اصلی یک دستور بود، نه اجازه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Wacht even!\" zei hij. Indirect: Hij zei dat ik even ___ wachten.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "امر در نقلِ غیرمستقیم به «moest + مصدر» تبدیل می‌شود.",
+    "grammar_rule_fa": "امر → moest + مصدر.",
+    "extra_example_nl": "\"Blijf hier!\" zei ze. → Ze zei dat ik moest blijven.",
+    "extra_example_fa": "«اینجا بمان!» گفت. → گفت که باید می‌ماندم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wachtte",
+        "is_correct": false,
+        "feedback_fa": "«wachtte» فقط توصیفِ ساده است و حالتِ دستور را از دست می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "moest",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ امر به «moest» تبدیل می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou wachten",
+        "is_correct": false,
+        "feedback_fa": "«zou wachten» دستور را به پیش‌بینی تبدیل می‌کند، نه دستور."
+      },
+      {
+        "key": "D",
+        "text_nl": "mocht",
+        "is_correct": false,
+        "feedback_fa": "«mocht» یعنی اجازه داشت؛ این با معنیِ دستور فرق دارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Bel me morgen!\" zei ze. Indirect: Ze zei dat ik haar de volgende dag ___ bellen.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "امر در نقلِ غیرمستقیم به «moest + مصدر» تبدیل می‌شود.",
+    "grammar_rule_fa": "امر → moest + مصدر.",
+    "extra_example_nl": "\"Schrijf het op!\" zei hij. → Hij zei dat ik het moest opschrijven.",
+    "extra_example_fa": "«آن را بنویس!» گفت. → گفت که باید آن را می‌نوشتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "belde",
+        "is_correct": false,
+        "feedback_fa": "«belde» فقط توصیفِ ساده است و حالتِ دستور را از دست می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou bellen",
+        "is_correct": false,
+        "feedback_fa": "«zou bellen» دستور را به وعده/پیش‌بینی تبدیل می‌کند، نه دستور."
+      },
+      {
+        "key": "C",
+        "text_nl": "moest",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ امر به «moest» تبدیل می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "kon",
+        "is_correct": false,
+        "feedback_fa": "«kon» یعنی توانستن؛ این معنیِ متفاوتی از دستور است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Doe de deur dicht!\" zei hij. Indirect: Hij zei dat ik de deur dicht ___ doen.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "امر در نقلِ غیرمستقیم به «moest + مصدر» تبدیل می‌شود.",
+    "grammar_rule_fa": "امر → moest + مصدر.",
+    "extra_example_nl": "\"Zet het raam open!\" zei ze. → Ze zei dat ik het raam moest opendoen.",
+    "extra_example_fa": "«پنجره را باز کن!» گفت. → گفت که باید پنجره را باز می‌کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "deed",
+        "is_correct": false,
+        "feedback_fa": "«deed» فقط توصیفِ ساده است و حالتِ دستور را از دست می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou doen",
+        "is_correct": false,
+        "feedback_fa": "«zou doen» دستور را به پیش‌بینی تبدیل می‌کند، نه دستور."
+      },
+      {
+        "key": "C",
+        "text_nl": "mocht",
+        "is_correct": false,
+        "feedback_fa": "«mocht» یعنی اجازه داشت؛ این با معنیِ دستور فرق دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "moest",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ امر به «moest» تبدیل می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Stuur me het rapport!\" zei de manager. Indirect: De manager zei dat ik hem het rapport ___ sturen.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "امر در نقلِ غیرمستقیم به «moest + مصدر» تبدیل می‌شود.",
+    "grammar_rule_fa": "امر → moest + مصدر.",
+    "extra_example_nl": "\"Geef me het document!\" zei ze. → Ze zei dat ik haar het document moest geven.",
+    "extra_example_fa": "«سند را به من بده!» گفت. → گفت که باید سند را به او می‌دادم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moest",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ امر به «moest» تبدیل می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "stuurde",
+        "is_correct": false,
+        "feedback_fa": "«stuurde» فقط توصیفِ ساده است و حالتِ دستور را از دست می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou sturen",
+        "is_correct": false,
+        "feedback_fa": "«zou sturen» دستور را به وعده تبدیل می‌کند، نه دستور."
+      },
+      {
+        "key": "D",
+        "text_nl": "kon",
+        "is_correct": false,
+        "feedback_fa": "«kon» یعنی توانستن؛ این معنیِ متفاوتی از دستور است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "indirect_speech",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Direct: \"Wees stil!\" zei de leraar. Indirect: De leraar zei dat wij stil ___.",
+    "question_text_fa": "کدام فعل جمله‌ی غیرمستقیم را درست کامل می‌کند؟",
+    "explanation_fa": "امر در نقلِ غیرمستقیم به «moesten» تبدیل می‌شود (فاعلِ جمع «wij»).",
+    "grammar_rule_fa": "امر → moest(en) (بسته به فاعل).",
+    "extra_example_nl": "\"Wees voorzichtig!\" zei ze. → Ze zei dat ik voorzichtig moest zijn.",
+    "extra_example_fa": "«مراقب باش!» گفت. → گفت که باید مراقب می‌بودم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "waren",
+        "is_correct": false,
+        "feedback_fa": "«waren» فقط توصیفِ ساده است و حالتِ دستور را از دست می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "moesten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ امر با فاعلِ جمع به «moesten» تبدیل می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "zouden zijn",
+        "is_correct": false,
+        "feedback_fa": "«zouden zijn» دستور را به پیش‌بینی تبدیل می‌کند، نه دستور."
+      },
+      {
+        "key": "D",
+        "text_nl": "mochten",
+        "is_correct": false,
+        "feedback_fa": "«mochten» یعنی اجازه داشتند؛ این با معنیِ دستور فرق دارد."
+      }
+    ]
+  }
+]

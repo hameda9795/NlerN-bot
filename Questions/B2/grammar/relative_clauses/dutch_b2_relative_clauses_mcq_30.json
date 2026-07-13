@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De auto ___ ik heb gekocht, is heel zuinig.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«de auto» یک de-woord است، پس ضمیرِ موصولی «die» درست است.",
+    "grammar_rule_fa": "die = برای de-woordها (مفرد و جمع). dat = فقط برای het-woordهای مفرد.",
+    "extra_example_nl": "De tas die ik draag, is nieuw.",
+    "extra_example_fa": "کیفی که حمل می‌کنم، جدید است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «de auto» یک de-woord است."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهاست؛ «de auto» یک de-woord است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets یا برای اشاره به کلِ جمله می‌آید، نه برای اسم‌های معمولی."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص و معمولاً بعد از حرفِ اضافه است، نه برای اشیا."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De studenten ___ hard werken, halen goede resultaten.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«de studenten» جمع است؛ برای جمع همیشه «die» استفاده می‌شود.",
+    "grammar_rule_fa": "die = برای همه‌ی اسم‌های جمع (چه de-woord چه het-woord).",
+    "extra_example_nl": "De kinderen die spelen, zijn mijn neefjes.",
+    "extra_example_fa": "بچه‌هایی که بازی می‌کنند، پسرخاله‌های من هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهای مفرد است؛ اینجا اسم جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای اسمِ جمع همیشه «die»."
+      },
+      {
+        "key": "C",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اسم‌های معمولی."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» به‌عنوانِ فاعلِ جمله‌ی موصولی استاندارد نیست؛ اینجا «die» درست است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De trui ___ ik draag, is van mijn oma.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«de trui» یک de-woord است، پس «die» درست است.",
+    "grammar_rule_fa": "die = برای de-woordها.",
+    "extra_example_nl": "De jas die ik draag, is warm.",
+    "extra_example_fa": "کتی که پوشیده‌ام، گرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اسم‌های معمولی."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهاست؛ «de trui» یک de-woord است."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «de trui» یک de-woord است."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای لباس."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De collega's ___ ik elke dag zie, zijn heel aardig.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«de collega's» جمع است؛ برای جمع همیشه «die» استفاده می‌شود.",
+    "grammar_rule_fa": "die = برای اسم‌های جمع.",
+    "extra_example_nl": "De mensen die ik ken, zijn heel aardig.",
+    "extra_example_fa": "افرادی که می‌شناسم، خیلی مهربان هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» به‌عنوانِ فاعلِ جمله‌ی موصولی استاندارد نیست؛ اینجا «die» درست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اسم‌های معمولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهای مفرد است؛ اینجا اسم جمع است."
+      },
+      {
+        "key": "D",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای اسمِ جمع همیشه «die»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De stad ___ wij bezochten, was heel mooi.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«de stad» یک de-woord است، پس «die» درست است.",
+    "grammar_rule_fa": "die = برای de-woordها.",
+    "extra_example_nl": "De stad die we bezochten, was heel gezellig.",
+    "extra_example_fa": "شهری که بازدید کردیم، خیلی صمیمی بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «de stad» یک de-woord است."
+      },
+      {
+        "key": "B",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اسم‌های معمولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای مکان."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهاست؛ «de stad» یک de-woord است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De regels ___ gelden op het werk, zijn duidelijk.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«de regels» جمع است؛ برای جمع همیشه «die» استفاده می‌شود.",
+    "grammar_rule_fa": "die = برای اسم‌های جمع.",
+    "extra_example_nl": "De afspraken die we hebben gemaakt, gelden voor iedereen.",
+    "extra_example_fa": "توافق‌هایی که کرده‌ایم، برای همه اعتبار دارند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهای مفرد است؛ اینجا اسم جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای اسمِ جمع همیشه «die»."
+      },
+      {
+        "key": "C",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای قوانین."
+      },
+      {
+        "key": "D",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اسم‌های معمولی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De vrouw ___ naast mij woont, is heel vriendelijk.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«de vrouw» یک de-woord (و شخص) است؛ به‌عنوانِ فاعلِ جمله‌ی موصولی «die» استفاده می‌شود.",
+    "grammar_rule_fa": "die = برای اشخاص هم به‌عنوانِ فاعلِ جمله‌ی موصولی (نه «wie»).",
+    "extra_example_nl": "De man die daar staat, is mijn buurman.",
+    "extra_example_fa": "مردی که آنجا ایستاده، همسایه‌ی من است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اشخاص."
+      },
+      {
+        "key": "B",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» به‌عنوانِ فاعلِ جمله‌ی موصولی استاندارد نیست؛ فقط بعد از حرفِ اضافه می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «die» فاعلِ جمله‌ی موصولی برای اشخاص هم هست."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهاست؛ «de vrouw» یک de-woord است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De fiets ___ kapot is, moet gerepareerd worden.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«de fiets» یک de-woord است، پس «die» درست است.",
+    "grammar_rule_fa": "die = برای de-woordها.",
+    "extra_example_nl": "De wasmachine die stuk is, wordt vandaag gemaakt.",
+    "extra_example_fa": "ماشین لباسشویی‌ای که خراب است، امروز تعمیر می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای دوچرخه."
+      },
+      {
+        "key": "B",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اسم‌های معمولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهاست؛ «de fiets» یک de-woord است."
+      },
+      {
+        "key": "D",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «de fiets» یک de-woord است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De boeken ___ op tafel liggen, zijn van de bibliotheek.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«de boeken» جمع است؛ برای جمع همیشه «die» استفاده می‌شود.",
+    "grammar_rule_fa": "die = برای اسم‌های جمع.",
+    "extra_example_nl": "De spullen die op tafel liggen, zijn niet van mij.",
+    "extra_example_fa": "وسایلی که روی میز است، مالِ من نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای اسمِ جمع همیشه «die»."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهای مفرد است؛ اینجا اسم جمع است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای کتاب‌ها."
+      },
+      {
+        "key": "D",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اسم‌های معمولی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De buurman ___ altijd klaagt, is nooit tevreden.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«de buurman» یک de-woord (و شخص) است؛ به‌عنوانِ فاعل «die» استفاده می‌شود.",
+    "grammar_rule_fa": "die = فاعلِ جمله‌ی موصولی، حتی برای اشخاص.",
+    "extra_example_nl": "De man die altijd te laat komt, werkt hier niet meer.",
+    "extra_example_fa": "مردی که همیشه دیر می‌آید، دیگر اینجا کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهاست؛ «de buurman» یک de-woord است."
+      },
+      {
+        "key": "B",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعلِ جمله‌ی موصولی برای اشخاص هم «die» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اشخاص."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» به‌عنوانِ فاعلِ جمله‌ی موصولی استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het huis ___ wij hebben gekocht, is heel oud.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«het huis» یک het-woord است، پس «dat» درست است.",
+    "grammar_rule_fa": "dat = برای het-woordهای مفرد.",
+    "extra_example_nl": "Het appartement dat we huren, is klein.",
+    "extra_example_fa": "آپارتمانی که اجاره می‌کنیم، کوچک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "«die» برای de-woordهاست؛ «het huis» یک het-woord است."
+      },
+      {
+        "key": "B",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اسم‌های معمولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «het huis» یک het-woord است."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای خانه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het boek ___ ik lees, is heel spannend.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«het boek» یک het-woord است، پس «dat» درست است.",
+    "grammar_rule_fa": "dat = برای het-woordهای مفرد.",
+    "extra_example_nl": "Het tijdschrift dat ik lees, is interessant.",
+    "extra_example_fa": "مجله‌ای که می‌خوانم، جالب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اسم‌های معمولی."
+      },
+      {
+        "key": "B",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "«die» برای de-woordهاست؛ «het boek» یک het-woord است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای کتاب."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «het boek» یک het-woord است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het kind ___ daar speelt, is mijn neefje.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«het kind» یک het-woord است، پس «dat» درست است.",
+    "grammar_rule_fa": "dat = برای het-woordهای مفرد، حتی برای اشخاص.",
+    "extra_example_nl": "Het meisje dat daar zit, is mijn nichtje.",
+    "extra_example_fa": "دختری که آنجا نشسته، دخترخاله‌ی من است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «het kind» یک het-woord است."
+      },
+      {
+        "key": "B",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "«die» برای de-woordهاست؛ «het kind» یک het-woord است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» به‌عنوانِ فاعلِ جمله‌ی موصولی استاندارد نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het probleem ___ we hebben, is niet zo groot.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«het probleem» یک het-woord است، پس «dat» درست است.",
+    "grammar_rule_fa": "dat = برای het-woordهای مفرد.",
+    "extra_example_nl": "Het punt dat hij maakte, was terecht.",
+    "extra_example_fa": "نکته‌ای که او مطرح کرد، درست بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای مشکل."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «het probleem» یک het-woord است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "«die» برای de-woordهاست؛ «het probleem» یک het-woord است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het bedrijf ___ deze auto's maakt, is heel bekend.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«het bedrijf» یک het-woord است، پس «dat» درست است.",
+    "grammar_rule_fa": "dat = برای het-woordهای مفرد.",
+    "extra_example_nl": "Het bedrijf dat deze telefoons maakt, is Nederlands.",
+    "extra_example_fa": "شرکتی که این تلفن‌ها را می‌سازد، هلندی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "«die» برای de-woordهاست؛ «het bedrijf» یک het-woord است."
+      },
+      {
+        "key": "B",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای شرکت."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «het bedrijf» یک het-woord است."
+      },
+      {
+        "key": "D",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het restaurant ___ we gisteren bezochten, was erg lekker.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«het restaurant» یک het-woord است، پس «dat» درست است.",
+    "grammar_rule_fa": "dat = برای het-woordهای مفرد.",
+    "extra_example_nl": "Het café dat we bezochten, was heel gezellig.",
+    "extra_example_fa": "کافه‌ای که بازدید کردیم، خیلی صمیمی بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای رستوران."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "«die» برای de-woordهاست؛ «het restaurant» یک het-woord است."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «het restaurant» یک het-woord است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het dorp ___ zij hebben bezocht, is heel klein.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«het dorp» یک het-woord است، پس «dat» درست است.",
+    "grammar_rule_fa": "dat = برای het-woordهای مفرد.",
+    "extra_example_nl": "Het eiland dat we bezochten, was prachtig.",
+    "extra_example_fa": "جزیره‌ای که بازدید کردیم، بسیار زیبا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «het dorp» یک het-woord است."
+      },
+      {
+        "key": "B",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "«die» برای de-woordهاست؛ «het dorp» یک het-woord است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای روستا."
+      },
+      {
+        "key": "D",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het artikel ___ hij heeft geschreven, is heel interessant.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "«het artikel» یک het-woord است، پس «dat» درست است.",
+    "grammar_rule_fa": "dat = برای het-woordهای مفرد.",
+    "extra_example_nl": "Het verslag dat zij heeft gemaakt, is heel goed.",
+    "extra_example_fa": "گزارشی که او تهیه کرده، خیلی خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه برای مقاله."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «het artikel» یک het-woord است."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "«die» برای de-woordهاست؛ «het artikel» یک het-woord است."
+      },
+      {
+        "key": "D",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Alles ___ hij zegt, is waar.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "بعد از «alles» همیشه «wat» می‌آید، نه «die/dat».",
+    "grammar_rule_fa": "wat = بعد از alles, iets, niets, dit, dat (به‌عنوانِ اشاره).",
+    "extra_example_nl": "Alles wat hij doet, lukt hem.",
+    "extra_example_fa": "هرکاری که او انجام می‌دهد، موفق می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "بعد از «alles» باید «wat» بیاید، نه «die»."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "بعد از «alles» باید «wat» بیاید، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "wat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از «alles» همیشه «wat» می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه بعد از «alles»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit is het mooiste ___ ik ooit heb gezien.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "بعد از صفتِ عالی (het mooiste) از «wat» استفاده می‌شود.",
+    "grammar_rule_fa": "wat = بعد از صفتِ عالی (het mooiste, het beste, ...).",
+    "extra_example_nl": "Dit is het beste wat ik kan doen.",
+    "extra_example_fa": "این بهترین کاری است که می‌توانم انجام دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه اینجا."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "بعد از صفتِ عالی باید «wat» بیاید، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "بعد از صفتِ عالی باید «wat» بیاید، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "wat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از صفتِ عالی «wat» می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Er is niets ___ ik kan doen.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "بعد از «niets» همیشه «wat» می‌آید.",
+    "grammar_rule_fa": "wat = بعد از niets.",
+    "extra_example_nl": "Er is niets wat hij niet weet.",
+    "extra_example_fa": "چیزی نیست که او نداند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از «niets» همیشه «wat» می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "بعد از «niets» باید «wat» بیاید، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "بعد از «niets» باید «wat» بیاید، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه بعد از «niets»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Zij vertelde iets ___ niemand wist.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "بعد از «iets» همیشه «wat» می‌آید.",
+    "grammar_rule_fa": "wat = بعد از iets.",
+    "extra_example_nl": "Hij zei iets wat me verbaasde.",
+    "extra_example_fa": "او چیزی گفت که مرا شگفت‌زده کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه بعد از «iets»."
+      },
+      {
+        "key": "B",
+        "text_nl": "wat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از «iets» همیشه «wat» می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "بعد از «iets» باید «wat» بیاید، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "بعد از «iets» باید «wat» بیاید، نه «dat»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij kwam te laat, ___ mij erg irriteerde.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "وقتی به کلِ جمله‌ی قبلی (نه یک اسمِ خاص) اشاره می‌کنیم، از «wat» استفاده می‌شود.",
+    "grammar_rule_fa": "wat = وقتی به کلِ جمله‌ی قبلی اشاره دارد.",
+    "extra_example_nl": "Ze zei niets terug, wat me verraste.",
+    "extra_example_fa": "او هیچ جوابی نداد، که مرا شگفت‌زده کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "برای اشاره به کلِ جمله‌ی قبلی باید «wat» بیاید، نه «die»."
+      },
+      {
+        "key": "B",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه اینجا."
+      },
+      {
+        "key": "C",
+        "text_nl": "wat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اشاره به کلِ جمله‌ی قبلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "برای اشاره به کلِ جمله‌ی قبلی باید «wat» بیاید، نه «dat»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het beste ___ je kunt doen, is rustig blijven.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "بعد از صفتِ عالی (het beste) از «wat» استفاده می‌شود.",
+    "grammar_rule_fa": "wat = بعد از صفتِ عالی.",
+    "extra_example_nl": "Het ergste wat kan gebeuren, is dat we het missen.",
+    "extra_example_fa": "بدترین چیزی که ممکن است اتفاق بیفتد، این است که آن را از دست بدهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است، نه اینجا."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "بعد از صفتِ عالی باید «wat» بیاید، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "بعد از صفتِ عالی باید «wat» بیاید، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "wat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از صفتِ عالی «wat» می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit is het onderwerp ___ we het over hadden.",
+    "question_text_fa": "کدام کلمه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "وقتی موصول با حرفِ اضافه همراه است و به یک شیء اشاره دارد، از «waar» (به‌جای حرفِ اضافه + het) استفاده می‌کنیم.",
+    "grammar_rule_fa": "waar + حرفِ اضافه (waarover) = برای اشیا. با شخص از «حرفِ اضافه + wie» استفاده می‌شود.",
+    "extra_example_nl": "Dit is het boek waar ik het over had.",
+    "extra_example_fa": "این همان کتابی است که درباره‌اش صحبت می‌کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "waar",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «waar ... over» برای اشیا با حرفِ اضافه."
+      },
+      {
+        "key": "B",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است؛ «het onderwerp» یک شیء/مفهوم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "وقتی حرفِ اضافه («over») در جمله هست، باید از «waar» استفاده کرد، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "وقتی حرفِ اضافه («over») در جمله هست، باید از «waar» استفاده کرد، نه «dat»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De collega met ___ ik samenwerk, is heel behulpzaam.",
+    "question_text_fa": "کدام کلمه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "بعد از حرفِ اضافه («met») برای اشاره به شخص، از «wie» استفاده می‌شود، نه «waar».",
+    "grammar_rule_fa": "حرفِ اضافه + wie = برای اشخاص.",
+    "extra_example_nl": "De klant met wie ik sprak, was heel tevreden.",
+    "extra_example_fa": "مشتری‌ای که با او صحبت کردم، خیلی راضی بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» بعد از حرفِ اضافه برای اشخاص استفاده نمی‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "wie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ حرفِ اضافه + «wie» برای اشخاص."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "بعد از حرفِ اضافه برای شخص، «die» به‌کار نمی‌رود؛ «wie» درست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» بعد از حرفِ اضافه برای اشخاص به‌کار نمی‌رود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het gereedschap ___ hij het probleem oploste, was heel simpel.",
+    "question_text_fa": "کدام کلمه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "برای شیء همراه با حرفِ اضافه («mee») از «waarmee» (waar) استفاده می‌شود، نه از ضمیرِ شخص.",
+    "grammar_rule_fa": "waar + حرفِ اضافه = برای اشیا.",
+    "extra_example_nl": "Het pen waarmee ik schrijf, is kapot.",
+    "extra_example_fa": "خودکاری که با آن می‌نویسم، خراب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "وقتی حرفِ اضافه («mee») در جمله هست، باید از «waar» استفاده کرد، نه «die»."
+      },
+      {
+        "key": "B",
+        "text_nl": "met wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است؛ «het gereedschap» یک شیء است."
+      },
+      {
+        "key": "C",
+        "text_nl": "waar",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «waar ... mee» برای اشیا با حرفِ اضافه."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "وقتی حرفِ اضافه («mee») در جمله هست، باید از «waar» استفاده کرد، نه «dat»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De vriend met ___ ik op vakantie ga, woont in Rotterdam.",
+    "question_text_fa": "کدام کلمه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "بعد از حرفِ اضافه («met») برای اشاره به شخص، از «wie» استفاده می‌شود.",
+    "grammar_rule_fa": "حرفِ اضافه + wie = برای اشخاص.",
+    "extra_example_nl": "De persoon met wie ik reis, is mijn broer.",
+    "extra_example_fa": "کسی که با او سفر می‌کنم، برادرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "بعد از حرفِ اضافه برای شخص، «die» به‌کار نمی‌رود؛ «wie» درست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» بعد از حرفِ اضافه برای اشخاص به‌کار نمی‌رود."
+      },
+      {
+        "key": "C",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» بعد از حرفِ اضافه برای اشخاص استفاده نمی‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ حرفِ اضافه + «wie» برای اشخاص."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het probleem ___ hij het over had, is nu opgelost.",
+    "question_text_fa": "کدام کلمه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "برای شیء همراه با حرفِ اضافه («over») از «waar» استفاده می‌شود.",
+    "grammar_rule_fa": "waar + حرفِ اضافه = برای اشیا.",
+    "extra_example_nl": "Het punt waar hij het over had, was duidelijk.",
+    "extra_example_fa": "نکته‌ای که او درباره‌اش صحبت می‌کرد، روشن بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "waar",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «waar ... over» برای اشیا با حرفِ اضافه."
+      },
+      {
+        "key": "B",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط برای اشخاص است؛ «het probleem» یک مفهوم/شیء است."
+      },
+      {
+        "key": "C",
+        "text_nl": "die",
+        "is_correct": false,
+        "feedback_fa": "وقتی حرفِ اضافه («over») در جمله هست، باید از «waar» استفاده کرد، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "وقتی حرفِ اضافه («over») در جمله هست، باید از «waar» استفاده کرد، نه «dat»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "relative_clauses",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De persoon ___ ik het meest bewonder, is mijn moeder.",
+    "question_text_fa": "کدام ضمیرِ موصولی درست است؟",
+    "explanation_fa": "اینجا موصول به‌عنوانِ مفعولِ مستقیم (بدونِ حرفِ اضافه) به شخص اشاره دارد، پس «die» درست است، نه «wie».",
+    "grammar_rule_fa": "die = برای اشخاص وقتی حرفِ اضافه در کار نیست.",
+    "extra_example_nl": "De leraar die ik het meest waardeer, is meneer Jansen.",
+    "extra_example_fa": "معلمی که بیشترین ارزش را برایش قائلم، آقای یانسن است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wat",
+        "is_correct": false,
+        "feedback_fa": "«wat» فقط بعد از alles/iets/niets می‌آید، نه برای اشخاص."
+      },
+      {
+        "key": "B",
+        "text_nl": "die",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «die» بدونِ حرفِ اضافه برای اشخاص."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط برای het-woordهای غیرشخص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "wie",
+        "is_correct": false,
+        "feedback_fa": "«wie» فقط بعد از حرفِ اضافه می‌آید؛ اینجا حرفِ اضافه‌ای در کار نیست."
+      }
+    ]
+  }
+]

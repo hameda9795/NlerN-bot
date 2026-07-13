@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Teamleider: Goedemorgen allemaal. Laten we beginnen met de status van het project.\nCollega: We liggen helaas een week achter op schema.\nTeamleider: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست یک واکنش مؤدبانه و سازنده است که مشکل را می‌پذیرد و می‌پرسد چه کاری می‌توان کرد، که دقیقاً متناسب با لحن حرفه‌ای یک جلسه است.",
+    "grammar_rule_fa": "در جلسات کاری از پیشنهاد مؤدبانه با «Zullen we...» یا «Kunnen we...» استفاده می‌شود، نه امر مستقیم «Doe...».",
+    "extra_example_nl": "Zullen we samen kijken hoe we de achterstand kunnen inhalen?",
+    "extra_example_fa": "آیا با هم نگاه کنیم که چطور می‌توانیم عقب‌ماندگی را جبران کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is vervelend. Kunnen jullie uitleggen wat de oorzaak is, zodat we samen naar een oplossing kunnen zoeken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: واکنشی مؤدبانه و سازنده که علت را می‌پرسد و به‌دنبال راه‌حل مشترک است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Werk dan harder, we hebben geen tijd voor vertragingen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و دستوری دارد، نه یک واکنشِ مؤدبانه که در جلسه کاری انتظار می‌رود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geweldig, dan zijn we mooi op schema voor de deadline.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای متضاد دارد؛ در حالی که تیم عقب افتاده، این جمله می‌گوید همه چیز طبق برنامه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorige week hebben we het schema al helemaal gehaald.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این جمله به گذشته اشاره می‌کند در حالی که موضوع وضعیت فعلی پروژه است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Projectmanager: We moeten het budget voor dit kwartaal bespreken.\nCollega: Ik denk dat we het marketingbudget kunnen verlagen.\nProjectmanager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌آرامی مخالفت می‌کند و دلیل منطقی ارائه می‌دهد، که سبک متداول ابراز مخالفتِ مؤدبانه در جلسات است.",
+    "grammar_rule_fa": "برای مخالفتِ مؤدبانه از عباراتی مانند «Ik ben het daar niet helemaal mee eens, want...» استفاده می‌شود.",
+    "extra_example_nl": "Ik ben het daar niet helemaal mee eens, want we hebben net een nieuwe campagne gelanceerd.",
+    "extra_example_fa": "من کاملاً با این موافق نیستم، چون ما تازه یک کمپین جدید راه‌اندازی کرده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Verlaag het budget onmiddellijk, daar hebben we het niet meer over.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، نه یک واکنش مؤدبانه که در بحث حرفه‌ای انتظار می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben het daar niet helemaal mee eens, want we lanceren volgende maand een grote campagne.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: مخالفتی مؤدبانه با دلیل منطقی، متناسب با لحن حرفه‌ای جلسه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat vond ik ook al, we hadden het budget vorig jaar moeten verhogen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به‌جای صحبت درباره تصمیم فعلی، به اقدامی در گذشته اشاره می‌کند که ربطی به موضوع ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, ik vind ook dat we het marketingbudget flink kunnen verhogen.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: پیشنهاد همکار کاهش بودجه بود، اما این پاسخ افزایش بودجه را تأیید می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Voorzitter: We gaan nu brainstormen over nieuwe ideeën voor de klantenservice.\nCollega: Misschien kunnen we een chatbot invoeren?\nVoorzitter: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست ایده را تشویق می‌کند و از گروه دعوت می‌کند دیدگاه بیشتری اضافه کنند، که دقیقاً روحیه یک جلسه بارش فکری است.",
+    "grammar_rule_fa": "در بارش فکری از عباراتی مانند «Dat is een interessant idee, wie heeft nog meer suggesties?» برای تشویق مشارکت استفاده می‌شود.",
+    "extra_example_nl": "Dat is een goed punt, laten we ook aan andere opties denken.",
+    "extra_example_fa": "این نکته خوبی است، بیایید به گزینه‌های دیگر هم فکر کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, een chatbot is een compleet slecht idee en daar praten we niet meer over.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیریِ اشتباه دارد: در بارش فکری نباید ایده‌ها فوراً و بدون بحث رد شوند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voer morgen meteen een chatbot in, zonder verder overleg.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، نه بازتابی مناسب برای یک جلسه بارش فکری که هنوز در مرحله ایده‌پردازی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is een interessant idee, wie heeft nog meer suggesties in deze richting?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: ایده را می‌پذیرد و گروه را برای مشارکت بیشتر تشویق می‌کند، مناسب فضای بارش فکری."
+      },
+      {
+        "key": "D",
+        "text_nl": "We hebben vorig jaar al besloten om nooit een chatbot te gebruiken.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: اشاره به تصمیمی در گذشته می‌کند، در حالی که موضوع بحث ایده‌های جدید در حال حاضر است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: Kunnen jullie me een update geven over de nieuwe website?\nCollega: We zijn bijna klaar, alleen de testfase moet nog gebeuren.\nManager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور طبیعی درباره زمان‌بندی مرحله بعدی (تست) سؤال می‌کند که ادامه منطقی گفتگو درباره وضعیت پروژه است.",
+    "grammar_rule_fa": "برای پرسیدن برنامه‌ریزی آینده در جلسات از زمان آینده با «gaan + مصدر» استفاده می‌شود: «Wanneer gaan jullie testen?»",
+    "extra_example_nl": "Wanneer gaan jullie de testfase precies afronden?",
+    "extra_example_fa": "دقیقاً چه زمانی مرحله تست را به پایان می‌رسانید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Test de website vandaag nog, ik wil geen vertraging meer.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، نه یک سؤال یا پیشنهاد مؤدبانه که در این بافت مناسب‌تر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jammer, dan hebben jullie helemaal niets gedaan de afgelopen maanden.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیریِ اشتباه دارد: با اینکه همکار گفته تقریباً تمام شده، این جمله نتیجه می‌گیرد که هیچ کاری انجام نشده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik test het zelf morgen wel even snel.",
+        "is_correct": false,
+        "feedback_fa": "❌ فاعل و صیغه فعل اشتباه است: در این بافت باید درباره تیم (jullie) پرسیده شود، نه اینکه مدیر خودش کار را انجام دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijn om te horen, wanneer verwachten jullie dat de testfase afgerond is?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: به‌طور طبیعی درباره زمان‌بندی مرحله بعد می‌پرسد و لحن حرفه‌ای دارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Teamleider: We moeten de deadline van vrijdag helaas vervroegen naar woensdag.\nCollega: Dat wordt lastig, we hebben nog veel werk te doen.\nTeamleider: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست همدلی نشان می‌دهد و پیشنهاد کمک یا اولویت‌بندی می‌دهد، که واکنشی حرفه‌ای و سازنده به نگرانی همکار است.",
+    "grammar_rule_fa": "برای ارائه کمک مؤدبانه از «Zullen we kijken of...» یا «Kunnen we misschien...» استفاده می‌شود، نه دستور مستقیم.",
+    "extra_example_nl": "Zullen we kijken welke taken prioriteit hebben, zodat het lukt voor woensdag?",
+    "extra_example_fa": "آیا نگاه کنیم کدام وظایف اولویت دارند تا تا چهارشنبه انجام شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik begrijp het, laten we samen kijken welke taken prioriteit krijgen om dit haalbaar te maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: همدلی نشان می‌دهد و پیشنهادی مؤدبانه برای اولویت‌بندی مشترک ارائه می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Werk dit weekend maar door, dan lukt het wel.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و غیرمؤدبانه دارد، در حالی که انتظار می‌رود مدیر راه‌حلی مشترک پیشنهاد دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geen probleem, dan hebben jullie juist meer tijd dan verwacht.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: ضرب‌الاجل زودتر شده و زمان کمتر است، نه بیشتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorige keer hebben jullie de deadline ook al gehaald.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به موفقیتی در گذشته اشاره می‌کند، در حالی که موضوع نگرانی فعلی درباره ضرب‌الاجل جدید است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega 1: Ik stel voor dat we de vergadering voortaan online houden.\nCollega 2: ___\nCollega 1: Ja, dat scheelt reistijd voor iedereen.\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست دلیل موافقت (منطقی و مرتبط با صرفه‌جویی در زمان) را بیان می‌کند که با پاسخ بعدی همکار اول هماهنگ است.",
+    "grammar_rule_fa": "برای موافقتِ مؤدبانه با دلیل از «Dat lijkt me een goed idee, want...» استفاده می‌شود.",
+    "extra_example_nl": "Dat lijkt me een goed idee, want dan kunnen collega's uit andere steden ook makkelijker meedoen.",
+    "extra_example_fa": "به‌نظرم ایده خوبی است، چون همکاران شهرهای دیگر هم راحت‌تر می‌توانند شرکت کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Houd de vergadering vanaf nu altijd online, geen discussie meer.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، نه یک واکنش مؤدبانه به پیشنهاد همکار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat lijkt me een goed idee, want dan besparen we allemaal reistijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: دلیل منطقی موافقت را بیان می‌کند و با جمله بعدی همکار اول (صرفه‌جویی در زمان سفر) هم‌خوانی دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, ik vind dat we juist nooit meer online mogen vergaderen.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: این پاسخ کاملاً مخالف پیشنهاد است، اما جمله بعدی همکار اول نشان می‌دهد که او موافقت را دریافت کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorige maand hebben we ook al besloten om altijd online te vergaderen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به تصمیمی در گذشته اشاره می‌کند، در حالی که این تازه یک پیشنهاد جدید است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Teamleider: Wie kan de presentatie voor de klant volgende week voorbereiden?\nCollega: Ik heb het al erg druk met andere taken.\nTeamleider: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌صورت مؤدبانه شخص دیگری را برای کمک پیشنهاد می‌دهد و به نگرانی همکار احترام می‌گذارد.",
+    "grammar_rule_fa": "برای واگذاری وظیفه به‌صورت مؤدبانه از «Zou iemand anders misschien kunnen helpen?» استفاده می‌شود، نه امر مستقیم.",
+    "extra_example_nl": "Zou Karin je misschien kunnen helpen met de presentatie?",
+    "extra_example_fa": "آیا کارین می‌تواند به تو در تهیه ارائه کمک کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Maak die presentatie toch maar, ik wil geen smoesjes horen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و بی‌ادبانه دارد، نه واکنشی مؤدبانه به مشکل واقعی زمان‌بندی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Prima, dan heb je dus alle tijd van de wereld voor deze presentatie.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: همکار گفته وقت ندارد، اما این پاسخ فرض می‌کند که او وقت زیادی دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat begrijp ik, zou iemand anders misschien kunnen inspringen om te helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: نگرانی همکار را می‌پذیرد و به‌شکل مؤدبانه کمک شخص دیگری را پیشنهاد می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik maakte die presentatie vorige week al helemaal af.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به کاری در گذشته اشاره می‌کند، در حالی که موضوع درباره آماده‌سازی ارائه هفته آینده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Voorzitter: Voordat we verdergaan, wil ik de actiepunten van vorige keer samenvatten.\nCollega: Goed idee, want ik weet niet meer precies wat er is afgesproken.\nVoorzitter: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور طبیعی خلاصه‌سازی نکات عملی را آغاز می‌کند، دقیقاً همان کاری که رئیس جلسه اعلام کرده است.",
+    "grammar_rule_fa": "برای شروع خلاصه‌سازی در جلسات از عبارت «Laten we kort samenvatten wat er besproken is» استفاده می‌شود.",
+    "extra_example_nl": "Laten we kort samenvatten wie welke taak op zich neemt.",
+    "extra_example_fa": "بیایید به‌طور خلاصه مرور کنیم چه کسی کدام وظیفه را بر عهده می‌گیرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zoek het zelf maar op in je notities, ik heb geen tijd om dit te herhalen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و نامؤدبانه دارد، در حالی که رئیس جلسه خودش گفته می‌خواهد خلاصه ارائه دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "We hebben vorige keer helemaal niets besproken, dus dat is niet nodig.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیریِ اشتباه دارد: با اینکه رئیس جلسه گفته می‌خواهد نکات را خلاصه کند، این جمله می‌گوید هیچ چیزی بحث نشده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Volgende week ga ik dat pas samenvatten, nu heb ik geen tijd.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: خلاصه‌سازی باید همین حالا انجام شود، نه در آینده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goed, laten we kort samenvatten: Anna doet de analyse en Peter neemt contact op met de klant.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: به‌طور طبیعی و منطقی خلاصه‌سازی نکات عملی جلسه قبلی را ادامه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: Sorry dat ik onderbreek, maar ik heb een dringende vraag over de planning.\nTeamleider: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌شکل مؤدبانه اجازه می‌دهد سؤال مطرح شود، که واکنش طبیعی و حرفه‌ای به یک وقفه ضروری در جلسه است.",
+    "grammar_rule_fa": "برای پذیرفتن یک وقفه مؤدبانه در جلسه از «Natuurlijk, ga je gang» یا «Geen probleem, wat is je vraag?» استفاده می‌شود.",
+    "extra_example_nl": "Geen probleem, wat wil je precies weten over de planning?",
+    "extra_example_fa": "مشکلی نیست، دقیقاً چه می‌خواهید درباره برنامه‌ریزی بدانید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen probleem, ga je gang, wat is je vraag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: به‌شکل مؤدبانه و طبیعی اجازه صحبت می‌دهد و از همکار می‌پرسد سؤالش چیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wacht tot het einde, ik wil nu niet onderbroken worden.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و بسیار خشک است، در حالی که در جلسه حرفه‌ای معمولاً واکنشی مؤدبانه‌تر انتظار می‌رود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat vroeg je gisteren ook al, dus dat weet je allang.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است و به موقعیتی در گذشته اشاره می‌کند که در این‌جا نامرتبط است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijn dat je niets vraagt, dan kunnen we snel doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: همکار گفته سؤالی دارد، اما این پاسخ فرض می‌کند که او سؤالی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: We hebben een nieuw budget nodig voor het volgende project.\nCollega: Ik zal een voorstel opstellen met de kosten.\nManager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست از پیشنهاد همکار قدردانی می‌کند و یک ضرب‌الاجل مشخص برای ارسال پیشنهاد تعیین می‌کند که ادامه منطقی گفتگوی کاری است.",
+    "grammar_rule_fa": "در جلسات کاری برای تعیین ضرب‌الاجل از زمان آینده استفاده می‌شود: «Kun je het voorstel voor vrijdag klaar hebben?»",
+    "extra_example_nl": "Kun je het voorstel uiterlijk voor vrijdag naar mij sturen?",
+    "extra_example_fa": "می‌توانی حداکثر تا جمعه پیشنهاد را برای من ارسال کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Stuur dat voorstel nu meteen, ik wacht hier.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری بسیار خشکی دارد که در بافت حرفه‌ای مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Fijn, kun je het voorstel uiterlijk voor vrijdag klaar hebben?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: از پیشنهاد همکار قدردانی کرده و به‌شکل مؤدبانه ضرب‌الاجل مشخصی تعیین می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is niet nodig, we hebben helemaal geen budget nodig.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: مدیر خودش گفته بودجه جدید لازم است، اما این جمله می‌گوید نیازی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat voorstel had je vorige week al af moeten hebben.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به تعهدی در گذشته اشاره می‌کند در حالی که این پیشنهاد تازه اکنون مطرح شده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Projectmanager: Het lijkt erop dat de leverancier de deadline niet gaat halen.\nCollega: Dat is zorgwekkend, want de klant verwacht levering volgende week.\nProjectmanager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست پیشنهاد می‌دهد که فوراً با تأمین‌کننده تماس بگیرند تا وضعیت را روشن کنند، که واکنشی منطقی و حرفه‌ای به یک ریسک در پروژه است.",
+    "grammar_rule_fa": "برای پیشنهاد اقدام مشترک در شرایط بحرانی از «Laten we meteen contact opnemen met...» استفاده می‌شود، نه دستور مستقیم به فرد خاص.",
+    "extra_example_nl": "Laten we meteen contact opnemen met de leverancier om de situatie te bespreken.",
+    "extra_example_fa": "بیایید فوراً با تأمین‌کننده تماس بگیریم تا وضعیت را بررسی کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bel die leverancier nu onmiddellijk en dreig met een boete.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و بسیار تندی دارد، نه پیشنهادی مؤدبانه و سنجیده که در جلسه حرفه‌ای مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geen zorgen, de leverancier heeft de deadline vorige keer ook altijd gehaald.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیریِ اشتباه دارد: نادیده گرفتن نگرانی واقعی درباره ریسک فعلی و تکیه بر عملکرد گذشته، نتیجه‌گیری نادرستی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Laten we meteen contact opnemen met de leverancier om te horen wat er precies aan de hand is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پیشنهادی مشترک و سازنده برای بررسی فوری وضعیت با تأمین‌کننده ارائه می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volgende maand nemen we wel contact op met de leverancier.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: با توجه به فوریت موضوع (تحویل هفته آینده)، تأخیر تا ماه آینده منطقی نیست."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Teamleider: We hebben besloten om de nieuwe functie in de app pas volgend kwartaal te lanceren.\nCollega: Maar de klanten wachten al maanden op deze functie.\nTeamleider: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نگرانی همکار را می‌پذیرد ولی دلیل تصمیم (کیفیت و آمادگی کامل) را با لحنی مؤدبانه توضیح می‌دهد.",
+    "grammar_rule_fa": "برای توجیه مؤدبانه یک تصمیم در برابر مخالفت از «Ik snap je punt, maar we hebben besloten om..., omdat...» استفاده می‌شود.",
+    "extra_example_nl": "Ik snap je punt, maar we hebben besloten te wachten, omdat de functie nog niet volledig getest is.",
+    "extra_example_fa": "نکته‌ات را می‌فهمم، اما تصمیم گرفتیم صبر کنیم، چون این قابلیت هنوز کاملاً آزمایش نشده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wacht dan maar rustig af, dat is jouw probleem niet.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و بی‌احترامی نسبت به نگرانی همکار دارد، نه پاسخی حرفه‌ای و توضیحی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Klopt, daarom lanceren we de functie morgen meteen.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: تصمیم این بود که راه‌اندازی به فصل بعد موکول شود، نه اینکه فردا انجام شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "We lanceerden die functie vorige maand al helemaal.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: در حالی که صحبت از تعویق راه‌اندازی به آینده است، این جمله می‌گوید قبلاً انجام شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik snap je punt, maar we hebben besloten te wachten, omdat de functie nog niet volledig getest is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: نگرانی همکار را تصدیق می‌کند و دلیل منطقی تصمیم را با لحنی مؤدبانه ارائه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega 1: Ik vind dat we het huidige voorstel nog eens goed moeten heroverwegen.\nCollega 2: ___\nCollega 1: Precies, en de risico's zijn ook nog niet helemaal duidelijk.\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست باید با نگرانی همکار اول هم‌راستا باشد (چون او در ادامه می‌گوید «دقیقاً») و به موضوع ریسک‌ها اشاره کند.",
+    "grammar_rule_fa": "برای همراهی با نگرانی دیگری و افزودن نکته جدید از «Daar ben ik het mee eens, vooral omdat...» استفاده می‌شود.",
+    "extra_example_nl": "Daar ben ik het mee eens, vooral omdat de kosten nog niet volledig in kaart zijn gebracht.",
+    "extra_example_fa": "با این موافقم، به‌ویژه چون هزینه‌ها هنوز به‌طور کامل مشخص نشده‌اند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daar ben ik het mee eens, vooral omdat we de financiële gevolgen nog niet goed kennen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: موافقت با نگرانی همکار اول را نشان می‌دهد و با جمله بعدی درباره ریسک‌ها هم‌خوانی دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heroverweeg dat voorstel zelf maar, ik heb er geen tijd voor.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و از مشارکت در بحث فرار می‌کند، نه واکنشی مناسب برای ادامه گفتگو."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, het voorstel is perfect zoals het is, we hoeven niets te veranderen.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: با جمله بعدی همکار اول («دقیقاً») ناسازگار است، چون او در واقع با تجدیدنظر موافق است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorige week hebben we dat voorstel al helemaal goedgekeurd.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به تأییدی در گذشته اشاره می‌کند که با ادامه گفتگو (نیاز به تجدیدنظر) در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: We moeten kiezen tussen twee leveranciers voor dit project.\nCollega: De ene is goedkoper, maar de andere heeft betere recensies.\nManager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست پیشنهاد می‌دهد که هر دو گزینه با معیارهای مشخص مقایسه شوند، که واکنشی متعادل و تحلیلی به یک تصمیم پیچیده در جلسه است.",
+    "grammar_rule_fa": "برای پیشنهاد تحلیل بیشتر قبل از تصمیم‌گیری از «Zullen we beide opties eerst vergelijken op basis van...» استفاده می‌شود.",
+    "extra_example_nl": "Zullen we beide leveranciers eerst vergelijken op basis van prijs en kwaliteit?",
+    "extra_example_fa": "آیا ابتدا هر دو تأمین‌کننده را بر اساس قیمت و کیفیت مقایسه کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kies gewoon de goedkoopste, geld is het enige dat telt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و به نگرانی درباره کیفیت (نظرات بهتر) هیچ توجهی نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zullen we beide opties eerst vergelijken op basis van prijs, kwaliteit en levertijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پیشنهادی متعادل برای مقایسه هر دو گزینه با معیارهای مشخص ارائه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het maakt niet uit welke leverancier we kiezen, ze zijn toch allebei precies hetzelfde.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیریِ اشتباه دارد: همکار تفاوت مشخصی بین دو تأمین‌کننده بیان کرده، اما این پاسخ آن تفاوت را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "We kozen die leverancier vorig jaar ook al voor een ander project.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به انتخابی در گذشته اشاره می‌کند که ربطی به تصمیم فعلی درباره این پروژه ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: Ik ben het niet eens met het voorstel om de werktijden te veranderen.\nTeamleider: ___\nCollega: Dat lijkt me een redelijke aanpak.\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست باید پیشنهادی متعادل ارائه دهد که همکار آن را «منطقی» بداند؛ یعنی شنیدن نظرات و بررسی بیشتر قبل از تصمیم نهایی.",
+    "grammar_rule_fa": "برای واکنش مؤدبانه به مخالفت از «Ik begrijp je bezwaar, zullen we eerst de meningen van iedereen verzamelen?» استفاده می‌شود.",
+    "extra_example_nl": "Ik begrijp je bezwaar, laten we eerst de meningen van het hele team verzamelen voordat we beslissen.",
+    "extra_example_fa": "اعتراض تو را می‌فهمم، بیایید ابتدا نظرات کل تیم را جمع‌آوری کنیم پیش از اینکه تصمیم بگیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Accepteer het voorstel gewoon, discussie is niet nodig.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، در حالی که پاسخ همکار نشان می‌دهد که او رویکردی متعادل و مذاکره‌ای دریافت کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Prima, dan veranderen we de werktijden voor niemand, punt uit.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیریِ اشتباه دارد: بدون بررسی بیشتر، مستقیماً یک نتیجه قطعی می‌گیرد که با ادامه گفتگو (رویکرد منطقی) هم‌خوانی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begrijp je bezwaar, laten we eerst de meningen van het hele team verzamelen voordat we beslissen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: اعتراض همکار را می‌پذیرد و رویکردی متعادل برای جمع‌آوری نظرات پیشنهاد می‌دهد که با پاسخ بعدی هم‌خوانی دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "We veranderden de werktijden vorig jaar al zonder problemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به رویدادی در گذشته اشاره می‌کند که ربطی به تصمیم فعلی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Voorzitter (online meeting): Ik hoor helaas een echo, kunnen jullie je microfoon controleren?\nCollega: Sorry, ik dacht dat ik gedempt was.\nVoorzitter: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌آرامی از موضوع تشکر می‌کند و اعلام می‌کند که جلسه ادامه می‌یابد، که واکنشی طبیعی به حل یک مشکل فنی در جلسه آنلاین است.",
+    "grammar_rule_fa": "برای ادامه دادن جلسه پس از حل یک مشکل فنی از «Geen probleem, laten we verdergaan» استفاده می‌شود.",
+    "extra_example_nl": "Geen probleem, nu is het beter. Laten we verdergaan met het volgende agendapunt.",
+    "extra_example_fa": "مشکلی نیست، الان بهتر است. بیایید به موضوع بعدی دستور جلسه برویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zet die microfoon nu onmiddellijk uit, dit kan zo niet langer.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و بسیار تندی دارد، در حالی که وقفه‌ای کوچک و فنی است که با لحنی آرام حل می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat geeft niet, laten we de vergadering nu meteen helemaal afsluiten.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیریِ اشتباه دارد: یک مشکل فنی کوچک منجر به لغو کامل جلسه نمی‌شود؛ این نتیجه‌گیری نامتناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je microfoon was gisteren ook al kapot, dus dat wisten we al.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است و به رویدادی در گذشته اشاره می‌کند که در این لحظه از جلسه نامرتبط است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen probleem, nu klinkt het goed. Laten we verdergaan met het volgende punt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: به‌آرامی مشکل فنی را می‌پذیرد و به‌طور طبیعی جلسه را ادامه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Projectmanager: Hebben jullie al nagedacht over wie de nieuwe taken op zich neemt?\nCollega: Ik denk dat Sara en ik dat samen kunnen doen.\nProjectmanager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست پیشنهاد همکار را می‌پذیرد و درباره تقسیم دقیق وظایف سؤال می‌کند، که ادامه منطقی گفتگو درباره واگذاری وظایف است.",
+    "grammar_rule_fa": "برای پیگیریِ مؤدبانه یک پیشنهاد در جلسه از «Dat klinkt goed, hoe willen jullie de taken precies verdelen?» استفاده می‌شود.",
+    "extra_example_nl": "Dat klinkt goed, hoe willen jullie de taken onderling verdelen?",
+    "extra_example_fa": "به نظر خوب می‌آید، چطور می‌خواهید وظایف را بین خودتان تقسیم کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat klinkt goed, hoe willen jullie de taken onderling verdelen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پیشنهاد همکاری را می‌پذیرد و به‌طور طبیعی درباره تقسیم وظایف بیشتر می‌پرسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doe dat dan maar helemaal alleen, Sara heeft toch geen tijd.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و بدون دلیل مشخص، پیشنهاد همکاری را رد می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, jullie twee mogen absoluut niet samenwerken aan deze taken.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: بدون دلیل، پیشنهاد همکاری رد می‌شود در حالی که چیزی منفی درباره آن گفته نشده بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sara nam die taken vorige maand ook al helemaal op zich.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به رویدادی در گذشته اشاره می‌کند که ربطی به وظایف جدید فعلی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: Ik vind dat we het huidige plan moeten aanpassen, want de markt is veranderd.\nManager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌شکل مؤدبانه از همکار می‌خواهد نکته‌اش را با جزئیات بیشتر توضیح دهد، که واکنشی حرفه‌ای و باز به یک نظر انتقادی است.",
+    "grammar_rule_fa": "برای دعوت به توضیح بیشتر از «Kun je dat toelichten? Wat is er precies veranderd?» استفاده می‌شود.",
+    "extra_example_nl": "Kun je toelichten welke veranderingen in de markt je precies bedoelt?",
+    "extra_example_fa": "می‌توانی توضیح دهی دقیقاً منظورت از تغییرات بازار چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Pas het plan dan maar meteen aan, zonder verder overleg met het team.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، در حالی که پیش از تصمیم‌گیری باید موضوع بیشتر بررسی و بحث شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun je toelichten welke veranderingen in de markt je precies bedoelt?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: به‌شکل مؤدبانه و باز از همکار می‌خواهد نظرش را با جزئیات بیشتر توضیح دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De markt is helemaal niet veranderd, dus we hoeven niets aan te passen.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: بدون شنیدن دلیل همکار، مستقیماً ادعای او را رد می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "We passten het plan vorig kwartaal al helemaal aan.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به اقدامی در گذشته اشاره می‌کند که به بحث فعلی درباره وضعیت بازار مرتبط نیست."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Teamleider: We hebben nog vijf minuten. Zijn er nog vragen over de actiepunten?\nCollega: Ja, wie is verantwoordelijk voor het contact met de klant?\nTeamleider: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور شفاف مسئولیت را مشخص می‌کند، دقیقاً چیزی که سؤال همکار درخواست کرده است.",
+    "grammar_rule_fa": "برای تعیین شفاف مسئولیت از زمان حال ساده استفاده می‌شود: «Lisa neemt contact op met de klant.»",
+    "extra_example_nl": "Lisa neemt deze week contact op met de klant over de nieuwe afspraken.",
+    "extra_example_fa": "لیزا این هفته با مشتری درباره توافقات جدید تماس می‌گیرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zoek dat zelf maar uit, ik heb er nu geen tijd voor.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و غیرمسئولانه دارد، در حالی که رئیس جلسه باید مسئولیت را شفاف مشخص کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Niemand hoeft contact op te nemen met de klant, dat is niet nodig.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: سؤال درباره اینکه چه کسی مسئول است بود، نه اینکه اصلاً نیازی به تماس نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Lisa neemt deze week contact op met de klant, dat hebben we net besproken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: به‌طور مستقیم و شفاف مسئولیت را مشخص می‌کند، دقیقاً پاسخ به سؤال مطرح‌شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Lisa nam vorige week al contact op, dus dat is al klaar.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: سؤال درباره مسئولیت آینده بود، اما پاسخ به رویدادی در گذشته اشاره می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: Volgens mij moeten wij als team meer inspraak krijgen bij dit soort beslissingen.\nManager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نظر همکار را جدی می‌گیرد و پیشنهاد می‌دهد این موضوع را در آینده با ساختاری مشخص بررسی کنند، که واکنشی متعادل به یک انتقاد سازمانی است.",
+    "grammar_rule_fa": "برای پذیرفتنِ مؤدبانه یک انتقاد و پیشنهاد گام بعدی از «Dat is een terecht punt, laten we kijken hoe we dat kunnen organiseren» استفاده می‌شود.",
+    "extra_example_nl": "Dat is een terecht punt, laten we bespreken hoe we meer inspraak kunnen organiseren.",
+    "extra_example_fa": "این نکته درستی است، بیایید بحث کنیم چطور می‌توانیم مشارکت بیشتری سازمان‌دهی کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Accepteer gewoon de beslissingen die van boven komen, discussie heeft geen zin.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و نگرانی مشروع همکار درباره مشارکت را نادیده می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het team heeft juist altijd al veel te veel inspraak gehad bij beslissingen.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: همکار خواستار مشارکت بیشتر است، اما این پاسخ ادعا می‌کند مشارکت از قبل بیش از حد بوده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "We gaven het team vorig jaar al meer inspraak bij dit soort zaken.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به وضعیتی در گذشته اشاره می‌کند، در حالی که همکار درباره وضعیت فعلی و ادامه‌دار صحبت می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is een terecht punt, laten we bespreken hoe we meer inspraak kunnen organiseren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: نگرانی همکار را جدی می‌گیرد و پیشنهاد سازنده‌ای برای بررسی بیشتر ارائه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Directeur: Ondanks de tegenvallende cijfers van dit kwartaal, wil ik benadrukken dat we op de lange termijn goed gepositioneerd staan.\nCollega: Ik ben het daarmee eens, al maak ik me wel zorgen over de korte termijn liquiditeit.\nDirecteur: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نگرانی همکار درباره نقدینگی کوتاه‌مدت را جدی می‌گیرد و پیشنهاد می‌کند این موضوع جداگانه و با جزئیات بیشتر بررسی شود، که واکنشی متعادل و حرفه‌ای به یک نکته پیچیده مالی است.",
+    "grammar_rule_fa": "برای پذیرفتنِ مؤدبانه نگرانی و ارجاع به بررسی دقیق‌تر از جمله وابسته با «hoewel» یا «al» و سپس پیشنهاد بعدی استفاده می‌شود.",
+    "extra_example_nl": "Die zorg is terecht, laten we volgende week specifiek naar de liquiditeitspositie kijken.",
+    "extra_example_fa": "این نگرانی به‌جاست، بیایید هفته آینده به‌طور خاص وضعیت نقدینگی را بررسی کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Die zorg is terecht; laten we volgende week specifiek naar de liquiditeitspositie kijken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: نگرانی همکار را می‌پذیرد و پیشنهاد بررسی دقیق‌تر در آینده نزدیک را ارائه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Maak je daar maar geen zorgen over, dat is niet jouw verantwoordelijkheid.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و کمی تحقیرآمیز دارد، نه واکنشی مؤدبانه که نگرانی مالی مشروع همکار را جدی بگیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Onze liquiditeit was dit kwartaal juist uitstekend, dus daar hoeven we niet naar te kijken.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: همکار گفته نگران نقدینگی است (که به معنای وضعیت نامطلوب اشاره دارد)، اما این پاسخ می‌گوید وضعیت عالی بوده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorig kwartaal hadden we dezelfde zorgen, en toen loste het zichzelf op.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیریِ اشتباه دارد: با استناد به گذشته نتیجه می‌گیرد که نیازی به بررسی نیست، در حالی که نگرانی فعلی مستقل باید بررسی شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Collega 1: Als ik het goed begrijp, stel je voor dat we de productlancering uitstellen tot na de zomer.\nCollega 2: Klopt, omdat we anders het risico lopen dat de kwaliteit onvoldoende gewaarborgd is.\nCollega 1: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست منطق پیشنهاد (کیفیت در برابر عجله) را می‌پذیرد، اما یک نگرانی متقابل و منطقی (رقبا) را با لحنی مؤدبانه مطرح می‌کند که ادامه طبیعی یک بحث در سطح B2 است.",
+    "grammar_rule_fa": "برای ابراز مخالفتِ نسبی و مؤدبانه با ذکر نگرانی متقابل از «Dat begrijp ik, al vraag ik me wel af of...» استفاده می‌شود.",
+    "extra_example_nl": "Dat begrijp ik, al vraag ik me wel af of concurrenten ons dan niet voor zijn.",
+    "extra_example_fa": "این را می‌فهمم، اگرچه نمی‌دانم آیا رقبا از ما جلو نمی‌زنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Stel de lancering dan maar meteen een jaar uit, dat is veiliger.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و به‌جای بحث متعادل، یک تصمیم شدید و غیرمنطقی (تعویق یک ساله) را دیکته می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat begrijp ik, al vraag ik me wel af of concurrenten ons dan niet voor zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: منطق پیشنهاد را می‌پذیرد اما نگرانی متقابل و منطقی درباره رقابت را با لحنی مؤدبانه مطرح می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Precies, kwaliteit speelt bij deze lancering helemaal geen rol.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: همکار دوم دقیقاً به‌خاطر کیفیت پیشنهاد تعویق داده، اما این پاسخ می‌گوید کیفیت اصلاً مهم نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "We lanceerden dat product vorig jaar al met veel succes.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به رویدادی در گذشته اشاره می‌کند که با بحث فعلی درباره تصمیم آینده مرتبط نیست."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: Voordat we deze investering goedkeuren, wil ik graag weten welke risico's jullie hebben geïdentificeerd.\nCollega: We hebben drie belangrijke risico's in kaart gebracht, waaronder de wisselkoers.\nManager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور طبیعی درخواست می‌کند جزئیات بیشتری درباره ریسک‌های شناسایی‌شده ارائه شود، که ادامه منطقی گفتگو درباره ارزیابی ریسک قبل از تصمیم سرمایه‌گذاری است.",
+    "grammar_rule_fa": "برای درخواست توضیح بیشتر و دقیق‌تر از «Kun je de andere twee risico's ook toelichten?» استفاده می‌شود.",
+    "extra_example_nl": "Kun je de andere twee risico's ook kort toelichten voordat we een besluit nemen?",
+    "extra_example_fa": "می‌توانی دو ریسک دیگر را هم قبل از تصمیم‌گیری به‌طور خلاصه توضیح دهی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Negeer die risico's maar, we investeren toch wel.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و کاملاً بر خلاف رویکرد محتاطانه‌ای است که مدیر در ابتدا نشان داده بود (خواستن اطلاعات درباره ریسک‌ها)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er zijn helemaal geen risico's bij deze investering, dus dat is niet nodig.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: همکار گفته سه ریسک مهم شناسایی شده، اما این پاسخ می‌گوید هیچ ریسکی وجود ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kun je de andere twee risico's ook kort toelichten voordat we een besluit nemen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: به‌طور طبیعی و مؤدبانه درخواست جزئیات بیشتر درباره ریسک‌های شناسایی‌شده می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Die risico's hebben jullie vorig jaar ook al helemaal opgelost.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به رویدادی در گذشته اشاره می‌کند در حالی که ریسک‌ها تازه اکنون برای این سرمایه‌گذاری شناسایی شده‌اند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Collega: Ik snap dat de deadline belangrijk is, maar als we nu haasten, gaat dat waarschijnlijk ten koste van de kwaliteit.\nTeamleider: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست موازنه بین کیفیت و ضرب‌الاجل را می‌پذیرد و پیشنهاد می‌دهد راه‌حلی میانه (مثلاً کاهش محدوده کار) بررسی شود، که واکنشی سنجیده به یک تنش رایج در جلسات است.",
+    "grammar_rule_fa": "برای پیشنهاد راه‌حل میانه در تعارض بین کیفیت و زمان از «Misschien kunnen we de scope aanpassen, zodat...» استفاده می‌شود.",
+    "extra_example_nl": "Misschien kunnen we de scope van het project iets aanpassen, zodat de kwaliteit gewaarborgd blijft.",
+    "extra_example_fa": "شاید بتوانیم محدوده پروژه را کمی تغییر دهیم تا کیفیت حفظ شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Haast je gewoon, kwaliteit is nu even niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و نگرانی مشروع همکار درباره کیفیت را کاملاً نادیده می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kwaliteit speelt hier eigenlijk helemaal geen rol, alleen snelheid telt.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: همکار به‌درستی گفته عجله به کیفیت آسیب می‌زند، اما این پاسخ می‌گوید کیفیت اصلاً اهمیتی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "We hebben die deadline vorige maand ook al gehaald zonder problemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به رویدادی در گذشته اشاره می‌کند که به تعارض فعلی بین زمان و کیفیت ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Misschien kunnen we de scope van dit project iets aanpassen, zodat de kwaliteit gewaarborgd blijft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: راه‌حلی میانه پیشنهاد می‌دهد که هم به ضرب‌الاجل و هم به کیفیت توجه دارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Directeur: Gezien de economische onzekerheid, denk ik dat we voorzichtig moeten zijn met nieuwe aanwervingen.\nHR-manager: Ik begrijp de zorg, maar we hebben wel dringend extra mensen nodig in de klantenservice.\nDirecteur: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست میان محتاط‌بودن مالی و نیاز فوری به نیرو تعادل برقرار می‌کند و پیشنهاد راه‌حل محدود (مثلاً استخدام موقت) می‌دهد، که واکنشی پخته به یک تعارض واقعی در جلسه است.",
+    "grammar_rule_fa": "برای رسیدن به توافق میانه در تعارض بین دو اولویت از «Laten we een tussenoplossing zoeken, bijvoorbeeld...» استفاده می‌شود.",
+    "extra_example_nl": "Laten we een tussenoplossing zoeken, bijvoorbeeld tijdelijke contracten voor de klantenservice.",
+    "extra_example_fa": "بیایید راه‌حلی میانه پیدا کنیم، برای مثال قراردادهای موقت برای بخش خدمات مشتری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Laten we een tussenoplossing zoeken, bijvoorbeeld tijdelijke contracten voor de klantenservice.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: راه‌حلی متعادل بین احتیاط مالی و نیاز فوری به نیرو پیشنهاد می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Werf dan maar meteen tien nieuwe mensen aan, budget speelt geen rol.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و کاملاً نگرانی مالی که خود مدیر مطرح کرده بود را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Eigenlijk hebben we juist veel te veel personeel in de klantenservice.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: مدیر منابع انسانی گفته نیاز فوری به نیروی اضافی است، اما این پاسخ می‌گوید نیروی مازاد وجود دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "We wierven vorig kwartaal al genoeg mensen aan voor de klantenservice.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به استخدامی در گذشته اشاره می‌کند در حالی که موضوع نیاز فوری فعلی است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Collega: Ik vraag me af of we deze samenwerking wel moeten voortzetten, gezien de herhaalde vertragingen van de partner.\nManager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نگرانی همکار را جدی می‌گیرد و پیشنهاد می‌دهد قبل از تصمیم نهایی یک گفتگوی رسمی با شریک برگزار شود، که واکنشی محتاطانه و حرفه‌ای به یک تصمیم مهم است.",
+    "grammar_rule_fa": "برای پیشنهاد گام میانی قبل از تصمیم قطعی از «Voordat we dat besluiten, zullen we eerst een gesprek voeren met...» استفاده می‌شود.",
+    "extra_example_nl": "Voordat we de samenwerking beëindigen, zullen we eerst een gesprek voeren met de partner over de vertragingen.",
+    "extra_example_fa": "پیش از پایان دادن به همکاری، ابتدا با شریک درباره تأخیرها گفتگو خواهیم کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Stop die samenwerking vandaag nog, zonder verder overleg.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و بدون بررسی بیشتر، تصمیمی ناگهانی و شدید را تحمیل می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voordat we dat besluiten, zullen we eerst een gesprek voeren met de partner over de vertragingen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: نگرانی همکار را جدی می‌گیرد و گام میانی محتاطانه‌ای پیش از تصمیم قطعی پیشنهاد می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Die partner heeft juist nog nooit voor vertraging gezorgd, dus dat is geen probleem.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: همکار به‌صراحت از «تأخیرهای مکرر» صحبت کرده، اما این پاسخ می‌گوید هرگز تأخیری نبوده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "We beëindigden die samenwerking vorig jaar al helemaal.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به رویدادی در گذشته اشاره می‌کند در حالی که تصمیم درباره ادامه یا پایان همکاری هنوز در حال بحث است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Projectmanager: Als ik het overzicht bekijk, lopen we op drie van de vijf actiepunten achter.\nCollega: Dat klopt, vooral de technische documentatie kost meer tijd dan verwacht.\nProjectmanager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست پیشنهاد می‌دهد منابع اضافی برای مستندسازی فنی اختصاص یابد و در همان حال بر پیگیری وضعیت باقی موارد تأکید می‌کند، که پاسخی متناسب با جزئیات گفتگو است.",
+    "grammar_rule_fa": "برای پیشنهاد تخصیص منابع اضافی به‌شکل مؤدبانه از «Zullen we extra ondersteuning inzetten voor...» استفاده می‌شود.",
+    "extra_example_nl": "Zullen we extra ondersteuning inzetten voor de technische documentatie, zodat we die achterstand inlopen?",
+    "extra_example_fa": "آیا برای مستندسازی فنی نیروی کمکی اضافی بگذاریم تا این عقب‌ماندگی جبران شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Maak die documentatie dit weekend maar helemaal af, geen excuses meer.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و بی‌ادبانه دارد، نه پیشنهادی سازنده که مشکل واقعی (کمبود زمان) را حل کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mooi, dan lopen we dus voor op schema in plaats van achter.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: بحث درباره عقب‌ماندگی در سه نکته عملی است، اما این پاسخ می‌گوید تیم جلوتر از برنامه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zullen we extra ondersteuning inzetten voor de documentatie, zodat we deze achterstand kunnen inlopen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: راه‌حلی سازنده و مؤدبانه برای جبران عقب‌ماندگی در مستندسازی فنی پیشنهاد می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Die documentatie was vorige week al helemaal klaar.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به وضعیتی در گذشته اشاره می‌کند که با گزارش فعلی (تأخیر در مستندسازی) در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Collega 1: Ik merk dat we in deze vergadering steeds afdwalen van de agenda.\nVoorzitter: ___\nCollega 1: Dank je, dat helpt om gefocust te blijven.\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست باید تصدیق کند و پیشنهاد بازگشت به دستور جلسه بدهد؛ این با پاسخ بعدی («ممنون، این کمک می‌کند متمرکز بمانیم») هم‌خوانی دارد.",
+    "grammar_rule_fa": "برای بازگرداندن مؤدبانه گفتگو به مسیر اصلی از «Je hebt gelijk, laten we teruggaan naar het volgende agendapunt» استفاده می‌شود.",
+    "extra_example_nl": "Je hebt gelijk, laten we teruggaan naar het volgende agendapunt.",
+    "extra_example_fa": "حق با توست، بیایید به موضوع بعدی دستور جلسه برگردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Praat dan zelf niet meer over andere onderwerpen tijdens de vergadering.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و اتهام‌آمیز دارد، در حالی که واکنش پیش‌بینی‌شده (تشکر همکار) نشان می‌دهد پاسخی مؤدبانه انتظار می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee hoor, we volgen de agenda juist heel strikt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: همکار گفته گفتگو از دستور جلسه منحرف شده، اما این پاسخ ادعا می‌کند دستور جلسه دقیقاً رعایت شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vorige week volgden we de agenda ook al niet, dus dat is normaal.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است و به وضعیتی در گذشته اشاره می‌کند، در حالی که باید به مشکل فعلی در همین جلسه پاسخ داده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je hebt gelijk, laten we teruggaan naar het volgende agendapunt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: نظر همکار را تصدیق می‌کند و پیشنهاد بازگشت به دستور جلسه می‌دهد، هم‌خوان با تشکر همکار در ادامه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: Ik wil graag dat iedereen zijn actiepunten voor volgende week duidelijk vastlegt, zodat we niets vergeten.\nCollega: Prima, ik stuur na de vergadering een overzicht rond.\nManager: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست از پیشنهاد همکار قدردانی می‌کند و درخواست می‌کند مهلت مشخصی برای ارسال آن تعیین شود، که ادامه طبیعی و حرفه‌ای گفتگوی جمع‌بندی جلسه است.",
+    "grammar_rule_fa": "برای تعیین مهلت مشخص و مؤدبانه از «Graag, kun je dat voor het einde van de dag versturen?» استفاده می‌شود.",
+    "extra_example_nl": "Graag, kun je dat overzicht voor het einde van de dag naar iedereen sturen?",
+    "extra_example_fa": "لطفاً، می‌توانی این خلاصه را تا پایان روز برای همه ارسال کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Graag, kun je dat overzicht voor het einde van de dag naar iedereen sturen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: از پیشنهاد همکار قدردانی می‌کند و به‌شکل مؤدبانه مهلت مشخصی درخواست می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Stuur dat overzicht nu onmiddellijk, voordat je de vergaderruimte verlaat.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و بیش از حد سخت‌گیرانه دارد، نه یک درخواست مؤدبانه با مهلت معقول."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is niet nodig, niemand hoeft actiepunten vast te leggen.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: مدیر خودش در ابتدا خواسته بود که نکات عملی مشخص ثبت شوند، اما این پاسخ آن درخواست را رد می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je stuurde dat overzicht vorige vergadering ook al rond.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به رویدادی در گذشته اشاره می‌کند، در حالی که موضوع درباره ارسال گزارش برای این هفته است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "business_meeting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Directeur: Laten we afsluiten met een korte samenvatting: wie neemt welke taak op zich?\nCollega: Ik zorg voor de rapportage, en Tom neemt de communicatie met de klant op zich.\nDirecteur: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست خلاصه را تأیید می‌کند و به‌طور طبیعی مهلت یا گام بعدی را مشخص می‌کند، که پایانی مناسب و حرفه‌ای برای جلسه است.",
+    "grammar_rule_fa": "برای تأیید نهایی و پایان‌بخشیدن به جلسه از «Duidelijk, dan spreken we af dat we volgende week de voortgang bespreken» استفاده می‌شود.",
+    "extra_example_nl": "Duidelijk, dan spreken we af dat we volgende week de voortgang bespreken.",
+    "extra_example_fa": "روشن است، پس توافق می‌کنیم که هفته آینده پیشرفت کار را بررسی کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doe dat dan allemaal maar vandaag nog, zonder verdere afspraken.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و بدون تعیین زمان‌بندی منطقی، خواستار انجام فوری همه‌چیز در همان روز است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Duidelijk, dan spreken we af dat we volgende week de voortgang bespreken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: خلاصه وظایف را تأیید می‌کند و به‌طور طبیعی گام بعدی (بررسی پیشرفت) را تعیین می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Eigenlijk hoeft niemand nog iets te doen na deze vergadering.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای متضاد دارد: همکاران وظایف مشخصی پذیرفته‌اند، اما این پاسخ می‌گوید هیچ کاری لازم نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tom deed die communicatie met de klant vorige week ook al.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: به کاری در گذشته اشاره می‌کند، در حالی که موضوع درباره وظیفه آینده تام است."
+      }
+    ]
+  }
+]

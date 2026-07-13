@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_de_words",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het tafel staat in de kamer.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«tafel» در هلندی یک de-woord است، پس باید بگوییم: de tafel.",
+    "correction_rule_fa": "بعضی اسم‌ها همیشه با de می‌آیند و باید آن‌ها را به‌مرور حفظ کرد.",
+    "extra_example_nl": "De tafel is groot.",
+    "extra_example_fa": "میز بزرگ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De tafel staat in de kamer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «tafel» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het tafel staat in de kamer.",
+        "is_correct": false,
+        "feedback_fa": "«tafel» با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het stoel staat in de kamer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «stoel» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het deur staat in de kamer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «deur» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_de_words",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het stoel staat naast de tafel.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«stoel» در هلندی یک de-woord است، پس باید بگوییم: de stoel.",
+    "correction_rule_fa": "بعضی اسم‌ها همیشه با de می‌آیند و باید آن‌ها را به‌مرور حفظ کرد.",
+    "extra_example_nl": "De stoel is blauw.",
+    "extra_example_fa": "صندلی آبی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het stoel staat naast de tafel.",
+        "is_correct": false,
+        "feedback_fa": "«stoel» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De stoel staat naast de tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «stoel» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het tafel staat naast de tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «tafel» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het fiets staat naast de tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «fiets» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_de_words",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het deur is dicht.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«deur» در هلندی یک de-woord است، پس باید بگوییم: de deur.",
+    "correction_rule_fa": "بعضی اسم‌ها همیشه با de می‌آیند و باید آن‌ها را به‌مرور حفظ کرد.",
+    "extra_example_nl": "De deur is open.",
+    "extra_example_fa": "در باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het deur is dicht.",
+        "is_correct": false,
+        "feedback_fa": "«deur» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het tas is dicht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «tas» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De deur is dicht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «deur» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het jas is dicht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «jas» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_de_words",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het fiets staat buiten.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«fiets» در هلندی یک de-woord است، پس باید بگوییم: de fiets.",
+    "correction_rule_fa": "بعضی اسم‌ها همیشه با de می‌آیند و باید آن‌ها را به‌مرور حفظ کرد.",
+    "extra_example_nl": "De fiets is nieuw.",
+    "extra_example_fa": "دوچرخه جدید است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het fiets staat buiten.",
+        "is_correct": false,
+        "feedback_fa": "«fiets» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het auto staat buiten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «auto» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het straat staat buiten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «straat» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De fiets staat buiten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «fiets» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_de_words",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het auto is rood.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«auto» در هلندی یک de-woord است، پس باید بگوییم: de auto.",
+    "correction_rule_fa": "بعضی اسم‌ها همیشه با de می‌آیند و باید آن‌ها را به‌مرور حفظ کرد.",
+    "extra_example_nl": "De auto is schoon.",
+    "extra_example_fa": "ماشین تمیز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De auto is rood.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «auto» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het auto is rood.",
+        "is_correct": false,
+        "feedback_fa": "«auto» با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «fiets» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het tas is rood.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «tas» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_de_words",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het straat is druk.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«straat» در هلندی یک de-woord است، پس باید بگوییم: de straat.",
+    "correction_rule_fa": "بعضی اسم‌ها همیشه با de می‌آیند و باید آن‌ها را به‌مرور حفظ کرد.",
+    "extra_example_nl": "De straat is lang.",
+    "extra_example_fa": "خیابان طولانی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het straat is druk.",
+        "is_correct": false,
+        "feedback_fa": "«straat» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De straat is druk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «straat» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het winkel is druk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «winkel» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het supermarkt is druk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «supermarkt» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_de_words",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het tas ligt op de stoel.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«tas» در هلندی یک de-woord است، پس باید بگوییم: de tas.",
+    "correction_rule_fa": "بعضی اسم‌ها همیشه با de می‌آیند و باید آن‌ها را به‌مرور حفظ کرد.",
+    "extra_example_nl": "De tas is zwart.",
+    "extra_example_fa": "کیف سیاه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het tas ligt op de stoel.",
+        "is_correct": false,
+        "feedback_fa": "«tas» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het telefoon ligt op de stoel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «telefoon» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De tas ligt op de stoel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «tas» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het sleutel ligt op de stoel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «sleutel» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_de_words",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het jas hangt aan de kapstok.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«jas» در هلندی یک de-woord است، پس باید بگوییم: de jas.",
+    "correction_rule_fa": "بعضی اسم‌ها همیشه با de می‌آیند و باید آن‌ها را به‌مرور حفظ کرد.",
+    "extra_example_nl": "De jas is warm.",
+    "extra_example_fa": "کت گرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het jas hangt aan de kapstok.",
+        "is_correct": false,
+        "feedback_fa": "«jas» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het broek hangt aan de kapstok.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «broek» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het tas hangt aan de kapstok.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «tas» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De jas hangt aan de kapstok.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «jas» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_de_words",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het winkel is open.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«winkel» در هلندی یک de-woord است، پس باید بگوییم: de winkel.",
+    "correction_rule_fa": "بعضی اسم‌ها همیشه با de می‌آیند و باید آن‌ها را به‌مرور حفظ کرد.",
+    "extra_example_nl": "De winkel is dichtbij.",
+    "extra_example_fa": "فروشگاه نزدیک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel is open.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «winkel» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het winkel is open.",
+        "is_correct": false,
+        "feedback_fa": "«winkel» با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het supermarkt is open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «supermarkt» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het bank is open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bank» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_de_words",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het telefoon ligt op het bureau.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«telefoon» در هلندی یک de-woord است، پس باید بگوییم: de telefoon.",
+    "correction_rule_fa": "بعضی اسم‌ها همیشه با de می‌آیند و باید آن‌ها را به‌مرور حفظ کرد.",
+    "extra_example_nl": "De telefoon is oud.",
+    "extra_example_fa": "تلفن قدیمی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het telefoon ligt op het bureau.",
+        "is_correct": false,
+        "feedback_fa": "«telefoon» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De telefoon ligt op het bureau.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «telefoon» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het computer ligt op het bureau.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «computer» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het printer ligt op het bureau.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «printer» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_het_words",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De huis is groot.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«huis» در هلندی یک het-woord است، پس باید بگوییم: het huis.",
+    "correction_rule_fa": "کلمات پرکاربردی مثل huis، boek، kind و raam با het می‌آیند و باید حفظ شوند.",
+    "extra_example_nl": "Het huis is mooi.",
+    "extra_example_fa": "خانه زیبا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De huis is groot.",
+        "is_correct": false,
+        "feedback_fa": "«huis» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De boek is groot.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «boek» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het huis is groot.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «huis» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De raam is groot.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «raam» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_het_words",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De boek ligt op tafel.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«boek» در هلندی یک het-woord است، پس باید بگوییم: het boek.",
+    "correction_rule_fa": "کلمات پرکاربردی مثل huis، boek، kind و raam با het می‌آیند و باید حفظ شوند.",
+    "extra_example_nl": "Het boek is nieuw.",
+    "extra_example_fa": "کتاب جدید است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De boek ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«boek» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De schrift ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «schrift» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bord ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bord» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het boek ligt op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «boek» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_het_words",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De kind speelt buiten.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«kind» در هلندی یک het-woord است، پس باید بگوییم: het kind.",
+    "correction_rule_fa": "کلمات پرکاربردی مثل huis، boek، kind و raam با het می‌آیند و باید حفظ شوند.",
+    "extra_example_nl": "Het kind is blij.",
+    "extra_example_fa": "کودک خوشحال است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het kind speelt buiten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «kind» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kind speelt buiten.",
+        "is_correct": false,
+        "feedback_fa": "«kind» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De meisje speelt buiten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «meisje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De jongetje speelt buiten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «jongetje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_het_words",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De meisje leest een boek.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«meisje» در هلندی یک het-woord است، پس باید بگوییم: het meisje.",
+    "correction_rule_fa": "کلمات پرکاربردی مثل huis، boek، kind و raam با het می‌آیند و باید حفظ شوند.",
+    "extra_example_nl": "Het meisje zit in de klas.",
+    "extra_example_fa": "دختر در کلاس نشسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De meisje leest een boek.",
+        "is_correct": false,
+        "feedback_fa": "«meisje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het meisje leest een boek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «meisje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kind leest een boek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «kind» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vriendje leest een boek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «vriendje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_het_words",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De water is koud.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«water» در هلندی یک het-woord است، پس باید بگوییم: het water.",
+    "correction_rule_fa": "کلمات پرکاربردی مثل huis، boek، kind و raam با het می‌آیند و باید حفظ شوند.",
+    "extra_example_nl": "Het water is schoon.",
+    "extra_example_fa": "آب تمیز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De water is koud.",
+        "is_correct": false,
+        "feedback_fa": "«water» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De brood is koud.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «brood» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het water is koud.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «water» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De ei is koud.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «ei» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_het_words",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De brood is vers.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«brood» در هلندی یک het-woord است، پس باید بگوییم: het brood.",
+    "correction_rule_fa": "کلمات پرکاربردی مثل huis، boek، kind و raam با het می‌آیند و باید حفظ شوند.",
+    "extra_example_nl": "Het brood ligt op tafel.",
+    "extra_example_fa": "نان روی میز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De brood is vers.",
+        "is_correct": false,
+        "feedback_fa": "«brood» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De water is vers.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «water» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De fruit is vers.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «fruit» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het brood is vers.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «brood» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_het_words",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De werk is klaar.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«werk» در هلندی یک het-woord است، پس باید بگوییم: het werk.",
+    "correction_rule_fa": "کلمات پرکاربردی مثل huis، boek، kind و raam با het می‌آیند و باید حفظ شوند.",
+    "extra_example_nl": "Het werk is belangrijk.",
+    "extra_example_fa": "کار مهم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het werk is klaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «werk» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De werk is klaar.",
+        "is_correct": false,
+        "feedback_fa": "«werk» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kantoor is klaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «kantoor» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De probleem is klaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «probleem» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_het_words",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De geld ligt in de tas.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«geld» در هلندی یک het-woord است، پس باید بگوییم: het geld.",
+    "correction_rule_fa": "کلمات پرکاربردی مثل huis، boek، kind و raam با het می‌آیند و باید حفظ شوند.",
+    "extra_example_nl": "Het geld is voor de huur.",
+    "extra_example_fa": "پول برای اجاره است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De geld ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "«geld» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het geld ligt in de tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «geld» در این جمله با het می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bericht ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bericht» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bewijs ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bewijs» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_het_words",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De raam is open.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«raam» در هلندی یک het-woord است، پس باید بگوییم: het raam.",
+    "correction_rule_fa": "کلمات پرکاربردی مثل huis، boek، kind و raam با het می‌آیند و باید حفظ شوند.",
+    "extra_example_nl": "Het raam is dicht.",
+    "extra_example_fa": "پنجره بسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De raam is open.",
+        "is_correct": false,
+        "feedback_fa": "«raam» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bed is open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bed» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het raam is open.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «raam» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bord is open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bord» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "common_het_words",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De bed is zacht.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«bed» در هلندی یک het-woord است، پس باید بگوییم: het bed.",
+    "correction_rule_fa": "کلمات پرکاربردی مثل huis، boek، kind و raam با het می‌آیند و باید حفظ شوند.",
+    "extra_example_nl": "Het bed staat in de kamer.",
+    "extra_example_fa": "تخت در اتاق است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bed is zacht.",
+        "is_correct": false,
+        "feedback_fa": "«bed» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De raam is zacht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «raam» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De huis is zacht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «huis» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het bed is zacht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «bed» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "plural_nouns_de",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het huizen zijn groot.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«huizen» جمع است و اسم‌های جمع در هلندی همیشه با de می‌آیند.",
+    "correction_rule_fa": "اسم‌های جمع در هلندی همیشه de می‌گیرند، حتی اگر مفرد آن‌ها het باشد.",
+    "extra_example_nl": "De huizen zijn mooi.",
+    "extra_example_fa": "خانه‌ها زیبا هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De huizen zijn groot.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «huizen» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het huizen zijn groot.",
+        "is_correct": false,
+        "feedback_fa": "«huizen» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De huis is groot.",
+        "is_correct": false,
+        "feedback_fa": "«huis» مفرد با het می‌آید، نه de؛ جمله اصلی درباره جمع «huizen» بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het boeken zijn groot.",
+        "is_correct": false,
+        "feedback_fa": "«boeken» جمع است و باید de بگیرد، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "plural_nouns_de",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het boeken liggen op tafel.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«boeken» جمع است و اسم‌های جمع در هلندی همیشه با de می‌آیند.",
+    "correction_rule_fa": "اسم‌های جمع در هلندی همیشه de می‌گیرند، حتی اگر مفرد آن‌ها het باشد.",
+    "extra_example_nl": "De boeken zijn nieuw.",
+    "extra_example_fa": "کتاب‌ها جدید هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het boeken liggen op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«boeken» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De boeken liggen op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «boeken» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De boek ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«boek» مفرد با het می‌آید، نه de؛ جمله اصلی درباره جمع «boeken» بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het kinderen liggen op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«kinderen» جمع است و باید de بگیرد، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "plural_nouns_de",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het kinderen spelen buiten.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«kinderen» جمع است و اسم‌های جمع در هلندی همیشه با de می‌آیند.",
+    "correction_rule_fa": "اسم‌های جمع در هلندی همیشه de می‌گیرند، حتی اگر مفرد آن‌ها het باشد.",
+    "extra_example_nl": "De kinderen zijn blij.",
+    "extra_example_fa": "بچه‌ها خوشحال هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het kinderen spelen buiten.",
+        "is_correct": false,
+        "feedback_fa": "«kinderen» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kind speelt buiten.",
+        "is_correct": false,
+        "feedback_fa": "«kind» مفرد با het می‌آید، نه de؛ جمله اصلی درباره جمع «kinderen» بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen spelen buiten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «kinderen» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het meisjes spelen buiten.",
+        "is_correct": false,
+        "feedback_fa": "«meisjes» جمع است و باید de بگیرد، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "plural_nouns_de",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het meisjes lezen in de klas.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«meisjes» جمع است و اسم‌های جمع در هلندی همیشه با de می‌آیند.",
+    "correction_rule_fa": "اسم‌های جمع در هلندی همیشه de می‌گیرند، حتی اگر مفرد آن‌ها het باشد.",
+    "extra_example_nl": "De meisjes zitten in de klas.",
+    "extra_example_fa": "دخترها در کلاس نشسته‌اند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het meisjes lezen in de klas.",
+        "is_correct": false,
+        "feedback_fa": "«meisjes» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De meisje leest in de klas.",
+        "is_correct": false,
+        "feedback_fa": "«meisje» مفرد با het می‌آید، نه de؛ جمله اصلی درباره جمع «meisjes» بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het ramen lezen in de klas.",
+        "is_correct": false,
+        "feedback_fa": "«ramen» جمع است و باید de بگیرد، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De meisjes lezen in de klas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «meisjes» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "plural_nouns_de",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het ramen zijn open.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«ramen» جمع است و اسم‌های جمع در هلندی همیشه با de می‌آیند.",
+    "correction_rule_fa": "اسم‌های جمع در هلندی همیشه de می‌گیرند، حتی اگر مفرد آن‌ها het باشد.",
+    "extra_example_nl": "De ramen zijn schoon.",
+    "extra_example_fa": "پنجره‌ها تمیز هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De ramen zijn open.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «ramen» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het ramen zijn open.",
+        "is_correct": false,
+        "feedback_fa": "«ramen» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De raam is open.",
+        "is_correct": false,
+        "feedback_fa": "«raam» مفرد با het می‌آید، نه de؛ جمله اصلی درباره جمع «ramen» بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het borden zijn open.",
+        "is_correct": false,
+        "feedback_fa": "«borden» جمع است و باید de بگیرد، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "plural_nouns_de",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het borden staan in de kast.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«borden» جمع است و اسم‌های جمع در هلندی همیشه با de می‌آیند.",
+    "correction_rule_fa": "اسم‌های جمع در هلندی همیشه de می‌گیرند، حتی اگر مفرد آن‌ها het باشد.",
+    "extra_example_nl": "De borden zijn wit.",
+    "extra_example_fa": "بشقاب‌ها سفید هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het borden staan in de kast.",
+        "is_correct": false,
+        "feedback_fa": "«borden» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De borden staan in de kast.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «borden» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bord staat in de kast.",
+        "is_correct": false,
+        "feedback_fa": "«bord» مفرد با het می‌آید، نه de؛ جمله اصلی درباره جمع «borden» بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het stations staan in de kast.",
+        "is_correct": false,
+        "feedback_fa": "«stations» جمع است و باید de بگیرد، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "plural_nouns_de",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het stations zijn dichtbij.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«stations» جمع است و اسم‌های جمع در هلندی همیشه با de می‌آیند.",
+    "correction_rule_fa": "اسم‌های جمع در هلندی همیشه de می‌گیرند، حتی اگر مفرد آن‌ها het باشد.",
+    "extra_example_nl": "De stations zijn druk.",
+    "extra_example_fa": "ایستگاه‌ها شلوغ هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het stations zijn dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "«stations» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De station is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "«station» مفرد با het می‌آید، نه de؛ جمله اصلی درباره جمع «stations» بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De stations zijn dichtbij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «stations» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het problemen zijn dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "«problemen» جمع است و باید de بگیرد، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "plural_nouns_de",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het problemen zijn klein.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«problemen» جمع است و اسم‌های جمع در هلندی همیشه با de می‌آیند.",
+    "correction_rule_fa": "اسم‌های جمع در هلندی همیشه de می‌گیرند، حتی اگر مفرد آن‌ها het باشد.",
+    "extra_example_nl": "De problemen zijn opgelost.",
+    "extra_example_fa": "مشکل‌ها حل شده‌اند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het problemen zijn klein.",
+        "is_correct": false,
+        "feedback_fa": "«problemen» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De probleem is klein.",
+        "is_correct": false,
+        "feedback_fa": "«probleem» مفرد با het می‌آید، نه de؛ جمله اصلی درباره جمع «problemen» بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het berichten zijn klein.",
+        "is_correct": false,
+        "feedback_fa": "«berichten» جمع است و باید de بگیرد، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De problemen zijn klein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «problemen» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "plural_nouns_de",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het berichten staan op mijn telefoon.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«berichten» جمع است و اسم‌های جمع در هلندی همیشه با de می‌آیند.",
+    "correction_rule_fa": "اسم‌های جمع در هلندی همیشه de می‌گیرند، حتی اگر مفرد آن‌ها het باشد.",
+    "extra_example_nl": "De berichten zijn kort.",
+    "extra_example_fa": "پیام‌ها کوتاه هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De berichten staan op mijn telefoon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «berichten» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het berichten staan op mijn telefoon.",
+        "is_correct": false,
+        "feedback_fa": "«berichten» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bericht staat op mijn telefoon.",
+        "is_correct": false,
+        "feedback_fa": "«bericht» مفرد با het می‌آید، نه de؛ جمله اصلی درباره جمع «berichten» بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het bedden staan op mijn telefoon.",
+        "is_correct": false,
+        "feedback_fa": "«bedden» جمع است و باید de بگیرد، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "plural_nouns_de",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het bedden zijn zacht.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«bedden» جمع است و اسم‌های جمع در هلندی همیشه با de می‌آیند.",
+    "correction_rule_fa": "اسم‌های جمع در هلندی همیشه de می‌گیرند، حتی اگر مفرد آن‌ها het باشد.",
+    "extra_example_nl": "De bedden zijn schoon.",
+    "extra_example_fa": "تخت‌ها تمیز هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het bedden zijn zacht.",
+        "is_correct": false,
+        "feedback_fa": "«bedden» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bedden zijn zacht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «bedden» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bed is zacht.",
+        "is_correct": false,
+        "feedback_fa": "«bed» مفرد با het می‌آید، نه de؛ جمله اصلی درباره جمع «bedden» بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het huizen zijn zacht.",
+        "is_correct": false,
+        "feedback_fa": "«huizen» جمع است و باید de بگیرد، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "diminutives_het",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De tafeltje is klein.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«tafeltje» یک verkleinwoord است و verkleinwoordها معمولاً با het می‌آیند.",
+    "correction_rule_fa": "verkleinwoordها، یعنی کلمات کوچک‌شده با -je/-tje، معمولاً با het می‌آیند.",
+    "extra_example_nl": "Het tafeltje staat in de kamer.",
+    "extra_example_fa": "میز کوچک در اتاق است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De tafeltje is klein.",
+        "is_correct": false,
+        "feedback_fa": "«tafeltje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De stoeltje is klein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «stoeltje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het tafeltje is klein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «tafeltje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huisje is klein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «huisje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "diminutives_het",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De stoeltje staat naast de tafel.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«stoeltje» یک verkleinwoord است و verkleinwoordها معمولاً با het می‌آیند.",
+    "correction_rule_fa": "verkleinwoordها، یعنی کلمات کوچک‌شده با -je/-tje، معمولاً با het می‌آیند.",
+    "extra_example_nl": "Het stoeltje is laag.",
+    "extra_example_fa": "صندلی کوچک کوتاه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De stoeltje staat naast de tafel.",
+        "is_correct": false,
+        "feedback_fa": "«stoeltje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De tafeltje staat naast de tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «tafeltje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bankje staat naast de tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bankje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het stoeltje staat naast de tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «stoeltje» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "diminutives_het",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De huisje is mooi.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«huisje» یک verkleinwoord است و verkleinwoordها معمولاً با het می‌آیند.",
+    "correction_rule_fa": "verkleinwoordها، یعنی کلمات کوچک‌شده با -je/-tje، معمولاً با het می‌آیند.",
+    "extra_example_nl": "Het huisje is wit.",
+    "extra_example_fa": "خانه کوچک سفید است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het huisje is mooi.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «huisje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De huisje is mooi.",
+        "is_correct": false,
+        "feedback_fa": "«huisje» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kamertje is mooi.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «kamertje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De deurtje is mooi.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «deurtje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "diminutives_het",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De boekje ligt in de tas.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«boekje» یک verkleinwoord است و verkleinwoordها معمولاً با het می‌آیند.",
+    "correction_rule_fa": "verkleinwoordها، یعنی کلمات کوچک‌شده با -je/-tje، معمولاً با het می‌آیند.",
+    "extra_example_nl": "Het boekje is nieuw.",
+    "extra_example_fa": "کتابچه جدید است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De boekje ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "«boekje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het boekje ligt in de tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «boekje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De briefje ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «briefje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kaartje ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «kaartje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "diminutives_het",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De kindje slaapt rustig.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«kindje» یک verkleinwoord است و verkleinwoordها معمولاً با het می‌آیند.",
+    "correction_rule_fa": "verkleinwoordها، یعنی کلمات کوچک‌شده با -je/-tje، معمولاً با het می‌آیند.",
+    "extra_example_nl": "Het kindje is klein.",
+    "extra_example_fa": "بچه کوچک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kindje slaapt rustig.",
+        "is_correct": false,
+        "feedback_fa": "«kindje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De meisje slaapt rustig.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «meisje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het kindje slaapt rustig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «kindje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De jongetje slaapt rustig.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «jongetje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "diminutives_het",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De kopje staat op tafel.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«kopje» یک verkleinwoord است و verkleinwoordها معمولاً با het می‌آیند.",
+    "correction_rule_fa": "verkleinwoordها، یعنی کلمات کوچک‌شده با -je/-tje، معمولاً با het می‌آیند.",
+    "extra_example_nl": "Het kopje is leeg.",
+    "extra_example_fa": "فنجان کوچک خالی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kopje staat op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«kopje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bordje staat op tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bordje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De glas staat op tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «glas» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het kopje staat op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «kopje» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "diminutives_het",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De tasje ligt op de stoel.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«tasje» یک verkleinwoord است و verkleinwoordها معمولاً با het می‌آیند.",
+    "correction_rule_fa": "verkleinwoordها، یعنی کلمات کوچک‌شده با -je/-tje، معمولاً با het می‌آیند.",
+    "extra_example_nl": "Het tasje is zwart.",
+    "extra_example_fa": "کیف کوچک سیاه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het tasje ligt op de stoel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «tasje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De tasje ligt op de stoel.",
+        "is_correct": false,
+        "feedback_fa": "«tasje» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De briefje ligt op de stoel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «briefje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kaartje ligt op de stoel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «kaartje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "diminutives_het",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De deurtje is dicht.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«deurtje» یک verkleinwoord است و verkleinwoordها معمولاً با het می‌آیند.",
+    "correction_rule_fa": "verkleinwoordها، یعنی کلمات کوچک‌شده با -je/-tje، معمولاً با het می‌آیند.",
+    "extra_example_nl": "Het deurtje is open.",
+    "extra_example_fa": "در کوچک باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De deurtje is dicht.",
+        "is_correct": false,
+        "feedback_fa": "«deurtje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het deurtje is dicht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «deurtje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kamertje is dicht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «kamertje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huisje is dicht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «huisje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "diminutives_het",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De kamertje is netjes.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«kamertje» یک verkleinwoord است و verkleinwoordها معمولاً با het می‌آیند.",
+    "correction_rule_fa": "verkleinwoordها، یعنی کلمات کوچک‌شده با -je/-tje، معمولاً با het می‌آیند.",
+    "extra_example_nl": "Het kamertje is schoon.",
+    "extra_example_fa": "اتاق کوچک تمیز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kamertje is netjes.",
+        "is_correct": false,
+        "feedback_fa": "«kamertje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De huisje is netjes.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «huisje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het kamertje is netjes.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «kamertje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De tafeltje is netjes.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «tafeltje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "diminutives_het",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De briefje ligt op het bureau.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«briefje» یک verkleinwoord است و verkleinwoordها معمولاً با het می‌آیند.",
+    "correction_rule_fa": "verkleinwoordها، یعنی کلمات کوچک‌شده با -je/-tje، معمولاً با het می‌آیند.",
+    "extra_example_nl": "Het briefje is kort.",
+    "extra_example_fa": "یادداشت کوتاه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De briefje ligt op het bureau.",
+        "is_correct": false,
+        "feedback_fa": "«briefje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De boekje ligt op het bureau.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «boekje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kaartje ligt op het bureau.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «kaartje» هم با het می‌آید، نه de؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het briefje ligt op het bureau.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «briefje» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "people_and_roles_de",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het man wacht buiten.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«man» به شخص یا نقش اشاره دارد و معمولاً با de می‌آید.",
+    "correction_rule_fa": "اسم‌های مربوط به اشخاص، نقش‌ها و شغل‌ها معمولاً de می‌گیرند.",
+    "extra_example_nl": "De man wacht bij de deur.",
+    "extra_example_fa": "مرد کنار در منتظر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De man wacht buiten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «man» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het man wacht buiten.",
+        "is_correct": false,
+        "feedback_fa": "«man» با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het vrouw wacht buiten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «vrouw» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het jongen wacht buiten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «jongen» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "people_and_roles_de",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het vrouw werkt vandaag.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«vrouw» به شخص یا نقش اشاره دارد و معمولاً با de می‌آید.",
+    "correction_rule_fa": "اسم‌های مربوط به اشخاص، نقش‌ها و شغل‌ها معمولاً de می‌گیرند.",
+    "extra_example_nl": "De vrouw werkt in de winkel.",
+    "extra_example_fa": "زن در فروشگاه کار می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het vrouw werkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "«vrouw» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vrouw werkt vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «vrouw» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het man werkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «man» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het collega werkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «collega» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "people_and_roles_de",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het jongen speelt in het park.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«jongen» به شخص یا نقش اشاره دارد و معمولاً با de می‌آید.",
+    "correction_rule_fa": "اسم‌های مربوط به اشخاص، نقش‌ها و شغل‌ها معمولاً de می‌گیرند.",
+    "extra_example_nl": "De jongen is thuis.",
+    "extra_example_fa": "پسر در خانه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het jongen speelt in het park.",
+        "is_correct": false,
+        "feedback_fa": "«jongen» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het student speelt in het park.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «student» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De jongen speelt in het park.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «jongen» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het buurman speelt in het park.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «buurman» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "people_and_roles_de",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het leraar helpt de student.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«leraar» به شخص یا نقش اشاره دارد و معمولاً با de می‌آید.",
+    "correction_rule_fa": "اسم‌های مربوط به اشخاص، نقش‌ها و شغل‌ها معمولاً de می‌گیرند.",
+    "extra_example_nl": "De leraar legt de les uit.",
+    "extra_example_fa": "معلم درس را توضیح می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het leraar helpt de student.",
+        "is_correct": false,
+        "feedback_fa": "«leraar» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het dokter helpt de student.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «dokter» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het manager helpt de student.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «manager» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De leraar helpt de student.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «leraar» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "people_and_roles_de",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het lerares staat voor de klas.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«lerares» به شخص یا نقش اشاره دارد و معمولاً با de می‌آید.",
+    "correction_rule_fa": "اسم‌های مربوط به اشخاص، نقش‌ها و شغل‌ها معمولاً de می‌گیرند.",
+    "extra_example_nl": "De lerares praat rustig.",
+    "extra_example_fa": "معلم زن آرام صحبت می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De lerares staat voor de klas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «lerares» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het lerares staat voor de klas.",
+        "is_correct": false,
+        "feedback_fa": "«lerares» با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het collega staat voor de klas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «collega» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het medewerker staat voor de klas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «medewerker» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "people_and_roles_de",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het collega helpt mij.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«collega» به شخص یا نقش اشاره دارد و معمولاً با de می‌آید.",
+    "correction_rule_fa": "اسم‌های مربوط به اشخاص، نقش‌ها و شغل‌ها معمولاً de می‌گیرند.",
+    "extra_example_nl": "De collega is op kantoor.",
+    "extra_example_fa": "همکار در دفتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het collega helpt mij.",
+        "is_correct": false,
+        "feedback_fa": "«collega» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De collega helpt mij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «collega» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het manager helpt mij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «manager» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het klant helpt mij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «klant» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "people_and_roles_de",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het manager is op kantoor.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«manager» به شخص یا نقش اشاره دارد و معمولاً با de می‌آید.",
+    "correction_rule_fa": "اسم‌های مربوط به اشخاص، نقش‌ها و شغل‌ها معمولاً de می‌گیرند.",
+    "extra_example_nl": "De manager belt mij.",
+    "extra_example_fa": "مدیر به من زنگ می‌زند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het manager is op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "«manager» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het medewerker is op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «medewerker» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De manager is op kantoor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «manager» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het dokter is op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «dokter» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "people_and_roles_de",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het klant betaalt bij de kassa.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«klant» به شخص یا نقش اشاره دارد و معمولاً با de می‌آید.",
+    "correction_rule_fa": "اسم‌های مربوط به اشخاص، نقش‌ها و شغل‌ها معمولاً de می‌گیرند.",
+    "extra_example_nl": "De klant koopt brood.",
+    "extra_example_fa": "مشتری نان می‌خرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het klant betaalt bij de kassa.",
+        "is_correct": false,
+        "feedback_fa": "«klant» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het collega betaalt bij de kassa.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «collega» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het buurvrouw betaalt bij de kassa.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «buurvrouw» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De klant betaalt bij de kassa.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «klant» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "people_and_roles_de",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het buurman groet mij.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«buurman» به شخص یا نقش اشاره دارد و معمولاً با de می‌آید.",
+    "correction_rule_fa": "اسم‌های مربوط به اشخاص، نقش‌ها و شغل‌ها معمولاً de می‌گیرند.",
+    "extra_example_nl": "De buurman woont naast mij.",
+    "extra_example_fa": "همسایه مرد کنار من زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De buurman groet mij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «buurman» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het buurman groet mij.",
+        "is_correct": false,
+        "feedback_fa": "«buurman» با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het buurvrouw groet mij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «buurvrouw» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het man groet mij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «man» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "people_and_roles_de",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het dokter belt de patiënt.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«dokter» به شخص یا نقش اشاره دارد و معمولاً با de می‌آید.",
+    "correction_rule_fa": "اسم‌های مربوط به اشخاص، نقش‌ها و شغل‌ها معمولاً de می‌گیرند.",
+    "extra_example_nl": "De dokter is in het ziekenhuis.",
+    "extra_example_fa": "دکتر در بیمارستان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het dokter belt de patiënt.",
+        "is_correct": false,
+        "feedback_fa": "«dokter» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De dokter belt de patiënt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «dokter» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het leraar belt de patiënt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «leraar» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het manager belt de patiënt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «manager» هم با de می‌آید، نه het؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "places_and_buildings",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het school is dichtbij.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«school» با de می‌آید، پس باید بگوییم: de school.",
+    "correction_rule_fa": "برای مکان‌ها و ساختمان‌ها باید de یا het هر اسم را جداگانه یاد گرفت؛ مثلاً de school اما het station.",
+    "extra_example_nl": "De school is open.",
+    "extra_example_fa": "مدرسه باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het school is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "«school» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het winkel is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «winkel» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "De school is dichtbij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «school» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het bibliotheek is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bibliotheek» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "places_and_buildings",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het bank is open.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«bank» در معنی بانک با de می‌آید، پس باید بگوییم: de bank.",
+    "correction_rule_fa": "برای مکان‌ها و ساختمان‌ها باید de یا het هر اسم را جداگانه یاد گرفت؛ مثلاً de school اما het station.",
+    "extra_example_nl": "De bank is vandaag dicht.",
+    "extra_example_fa": "بانک امروز بسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het bank is open.",
+        "is_correct": false,
+        "feedback_fa": "«bank» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het apotheek is open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «apotheek» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het school is open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «school» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bank is open.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «bank» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "places_and_buildings",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het apotheek is dicht.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«apotheek» با de می‌آید، پس باید بگوییم: de apotheek.",
+    "correction_rule_fa": "برای مکان‌ها و ساختمان‌ها باید de یا het هر اسم را جداگانه یاد گرفت؛ مثلاً de school اما het station.",
+    "extra_example_nl": "De apotheek is dichtbij.",
+    "extra_example_fa": "داروخانه نزدیک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De apotheek is dicht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «apotheek» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het apotheek is dicht.",
+        "is_correct": false,
+        "feedback_fa": "«apotheek» با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het bibliotheek is dicht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bibliotheek» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het winkel is dicht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «winkel» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "places_and_buildings",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het bibliotheek is groot.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«bibliotheek» با de می‌آید، پس باید بگوییم: de bibliotheek.",
+    "correction_rule_fa": "برای مکان‌ها و ساختمان‌ها باید de یا het هر اسم را جداگانه یاد گرفت؛ مثلاً de school اما het station.",
+    "extra_example_nl": "De bibliotheek is rustig.",
+    "extra_example_fa": "کتابخانه آرام است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het bibliotheek is groot.",
+        "is_correct": false,
+        "feedback_fa": "«bibliotheek» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bibliotheek is groot.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «bibliotheek» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het school is groot.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «school» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het bank is groot.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bank» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "places_and_buildings",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het supermarkt is druk.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«supermarkt» با de می‌آید، پس باید بگوییم: de supermarkt.",
+    "correction_rule_fa": "برای مکان‌ها و ساختمان‌ها باید de یا het هر اسم را جداگانه یاد گرفت؛ مثلاً de school اما het station.",
+    "extra_example_nl": "De supermarkt is open.",
+    "extra_example_fa": "سوپرمارکت باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het supermarkt is druk.",
+        "is_correct": false,
+        "feedback_fa": "«supermarkt» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het winkel is druk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «winkel» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "De supermarkt is druk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «supermarkt» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het apotheek is druk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «apotheek» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "places_and_buildings",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De station is dichtbij.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«station» با het می‌آید، پس باید بگوییم: het station.",
+    "correction_rule_fa": "برای مکان‌ها و ساختمان‌ها باید de یا het هر اسم را جداگانه یاد گرفت؛ مثلاً de school اما het station.",
+    "extra_example_nl": "Het station is druk.",
+    "extra_example_fa": "ایستگاه شلوغ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De station is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "«station» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kantoor is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «kantoor» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De hotel is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «hotel» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het station is dichtbij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «station» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "places_and_buildings",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De kantoor is open.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«kantoor» با het می‌آید، پس باید بگوییم: het kantoor.",
+    "correction_rule_fa": "برای مکان‌ها و ساختمان‌ها باید de یا het هر اسم را جداگانه یاد گرفت؛ مثلاً de school اما het station.",
+    "extra_example_nl": "Het kantoor is op de tweede verdieping.",
+    "extra_example_fa": "دفتر در طبقه دوم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het kantoor is open.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «kantoor» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kantoor is open.",
+        "is_correct": false,
+        "feedback_fa": "«kantoor» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De station is open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «station» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "De restaurant is open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «restaurant» هم با het می‌آید، نه de."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "places_and_buildings",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De ziekenhuis is groot.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«ziekenhuis» با het می‌آید، پس باید بگوییم: het ziekenhuis.",
+    "correction_rule_fa": "برای مکان‌ها و ساختمان‌ها باید de یا het هر اسم را جداگانه یاد گرفت؛ مثلاً de school اما het station.",
+    "extra_example_nl": "Het ziekenhuis is ver.",
+    "extra_example_fa": "بیمارستان دور است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De ziekenhuis is groot.",
+        "is_correct": false,
+        "feedback_fa": "«ziekenhuis» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het ziekenhuis is groot.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «ziekenhuis» در این جمله با het می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De hotel is groot.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «hotel» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kantoor is groot.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «kantoor» هم با het می‌آید، نه de."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "places_and_buildings",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De restaurant is vol.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«restaurant» با het می‌آید، پس باید بگوییم: het restaurant.",
+    "correction_rule_fa": "برای مکان‌ها و ساختمان‌ها باید de یا het هر اسم را جداگانه یاد گرفت؛ مثلاً de school اما het station.",
+    "extra_example_nl": "Het restaurant is gezellig.",
+    "extra_example_fa": "رستوران دلنشین است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De restaurant is vol.",
+        "is_correct": false,
+        "feedback_fa": "«restaurant» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De hotel is vol.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «hotel» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het restaurant is vol.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «restaurant» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De station is vol.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «station» هم با het می‌آید، نه de."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "places_and_buildings",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De hotel is duur.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«hotel» با het می‌آید، پس باید بگوییم: het hotel.",
+    "correction_rule_fa": "برای مکان‌ها و ساختمان‌ها باید de یا het هر اسم را جداگانه یاد گرفت؛ مثلاً de school اما het station.",
+    "extra_example_nl": "Het hotel is schoon.",
+    "extra_example_fa": "هتل تمیز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De hotel is duur.",
+        "is_correct": false,
+        "feedback_fa": "«hotel» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De restaurant is duur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «restaurant» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De ziekenhuis is duur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «ziekenhuis» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het hotel is duur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «hotel» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "food_and_drinks",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het appel is rood.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«appel» با de می‌آید، پس باید بگوییم: de appel.",
+    "correction_rule_fa": "برای خوراکی‌ها و نوشیدنی‌ها هم de/het ثابت نیست و باید همراه اسم یاد گرفته شود.",
+    "extra_example_nl": "De appel is lekker.",
+    "extra_example_fa": "سیب خوشمزه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De appel is rood.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «appel» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het appel is rood.",
+        "is_correct": false,
+        "feedback_fa": "«appel» با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het banaan is rood.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «banaan» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het salade is rood.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «salade» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "food_and_drinks",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het banaan is geel.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«banaan» با de می‌آید، پس باید بگوییم: de banaan.",
+    "correction_rule_fa": "برای خوراکی‌ها و نوشیدنی‌ها هم de/het ثابت نیست و باید همراه اسم یاد گرفته شود.",
+    "extra_example_nl": "De banaan ligt op tafel.",
+    "extra_example_fa": "موز روی میز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het banaan is geel.",
+        "is_correct": false,
+        "feedback_fa": "«banaan» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De banaan is geel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «banaan» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het appel is geel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «appel» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het soep is geel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «soep» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "food_and_drinks",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het melk is koud.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«melk» با de می‌آید، پس باید بگوییم: de melk.",
+    "correction_rule_fa": "برای خوراکی‌ها و نوشیدنی‌ها هم de/het ثابت نیست و باید همراه اسم یاد گرفته شود.",
+    "extra_example_nl": "De melk staat in de koelkast.",
+    "extra_example_fa": "شیر در یخچال است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het melk is koud.",
+        "is_correct": false,
+        "feedback_fa": "«melk» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het koffie is koud.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «koffie» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "De melk is koud.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «melk» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het thee is koud.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «thee» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "food_and_drinks",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het koffie is warm.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«koffie» با de می‌آید، پس باید بگوییم: de koffie.",
+    "correction_rule_fa": "برای خوراکی‌ها و نوشیدنی‌ها هم de/het ثابت نیست و باید همراه اسم یاد گرفته شود.",
+    "extra_example_nl": "De koffie is klaar.",
+    "extra_example_fa": "قهوه آماده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het koffie is warm.",
+        "is_correct": false,
+        "feedback_fa": "«koffie» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het thee is warm.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «thee» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het soep is warm.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «soep» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "De koffie is warm.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «koffie» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "food_and_drinks",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het thee is heet.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«thee» با de می‌آید، پس باید بگوییم: de thee.",
+    "correction_rule_fa": "برای خوراکی‌ها و نوشیدنی‌ها هم de/het ثابت نیست و باید همراه اسم یاد گرفته شود.",
+    "extra_example_nl": "De thee staat op tafel.",
+    "extra_example_fa": "چای روی میز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De thee is heet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «thee» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het thee is heet.",
+        "is_correct": false,
+        "feedback_fa": "«thee» با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het koffie is heet.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «koffie» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het melk is heet.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «melk» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "food_and_drinks",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het soep is lekker.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«soep» با de می‌آید، پس باید بگوییم: de soep.",
+    "correction_rule_fa": "برای خوراکی‌ها و نوشیدنی‌ها هم de/het ثابت نیست و باید همراه اسم یاد گرفته شود.",
+    "extra_example_nl": "De soep is warm.",
+    "extra_example_fa": "سوپ گرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het soep is lekker.",
+        "is_correct": false,
+        "feedback_fa": "«soep» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De soep is lekker.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «soep» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het salade is lekker.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «salade» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het banaan is lekker.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «banaan» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "food_and_drinks",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De brood is vers.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«brood» با het می‌آید، پس باید بگوییم: het brood.",
+    "correction_rule_fa": "برای خوراکی‌ها و نوشیدنی‌ها هم de/het ثابت نیست و باید همراه اسم یاد گرفته شود.",
+    "extra_example_nl": "Het brood ligt op tafel.",
+    "extra_example_fa": "نان روی میز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De brood is vers.",
+        "is_correct": false,
+        "feedback_fa": "«brood» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De water is vers.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «water» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het brood is vers.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «brood» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De fruit is vers.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «fruit» هم با het می‌آید، نه de."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "food_and_drinks",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De water is koud.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«water» با het می‌آید، پس باید بگوییم: het water.",
+    "correction_rule_fa": "برای خوراکی‌ها و نوشیدنی‌ها هم de/het ثابت نیست و باید همراه اسم یاد گرفته شود.",
+    "extra_example_nl": "Het water is schoon.",
+    "extra_example_fa": "آب تمیز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De water is koud.",
+        "is_correct": false,
+        "feedback_fa": "«water» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De brood is koud.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «brood» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De ei is koud.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «ei» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het water is koud.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «water» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "food_and_drinks",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De ei is klaar.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«ei» با het می‌آید، پس باید بگوییم: het ei.",
+    "correction_rule_fa": "برای خوراکی‌ها و نوشیدنی‌ها هم de/het ثابت نیست و باید همراه اسم یاد گرفته شود.",
+    "extra_example_nl": "Het ei is warm.",
+    "extra_example_fa": "تخم‌مرغ گرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het ei is klaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «ei» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De ei is klaar.",
+        "is_correct": false,
+        "feedback_fa": "«ei» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De fruit is klaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «fruit» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vlees is klaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «vlees» هم با het می‌آید، نه de."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "food_and_drinks",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De fruit is gezond.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«fruit» با het می‌آید، پس باید بگوییم: het fruit.",
+    "correction_rule_fa": "برای خوراکی‌ها و نوشیدنی‌ها هم de/het ثابت نیست و باید همراه اسم یاد گرفته شود.",
+    "extra_example_nl": "Het fruit ligt in de schaal.",
+    "extra_example_fa": "میوه در ظرف است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De fruit is gezond.",
+        "is_correct": false,
+        "feedback_fa": "«fruit» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het fruit is gezond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «fruit» در این جمله با het می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De brood is gezond.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «brood» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "De water is gezond.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «water» هم با het می‌آید، نه de."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "daily_objects",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het pen ligt op tafel.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«pen» با de می‌آید، پس باید بگوییم: de pen.",
+    "correction_rule_fa": "وسایل روزمره را بهتر است همیشه همراه de یا het یاد بگیریم.",
+    "extra_example_nl": "De pen is blauw.",
+    "extra_example_fa": "خودکار آبی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het pen ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«pen» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het sleutel ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «sleutel» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "De pen ligt op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «pen» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het bril ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bril» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "daily_objects",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het sleutel ligt in de tas.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«sleutel» با de می‌آید، پس باید بگوییم: de sleutel.",
+    "correction_rule_fa": "وسایل روزمره را بهتر است همیشه همراه de یا het یاد بگیریم.",
+    "extra_example_nl": "De sleutel is klein.",
+    "extra_example_fa": "کلید کوچک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het sleutel ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "«sleutel» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het pen ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «pen» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het telefoon ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «telefoon» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sleutel ligt in de tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «sleutel» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "daily_objects",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het bril ligt op het bureau.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«bril» با de می‌آید، پس باید بگوییم: de bril.",
+    "correction_rule_fa": "وسایل روزمره را بهتر است همیشه همراه de یا het یاد بگیریم.",
+    "extra_example_nl": "De bril is nieuw.",
+    "extra_example_fa": "عینک جدید است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bril ligt op het bureau.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «bril» در این جمله با de می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het bril ligt op het bureau.",
+        "is_correct": false,
+        "feedback_fa": "«bril» با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het tas ligt op het bureau.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «tas» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het fiets ligt op het bureau.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «fiets» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "daily_objects",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het telefoon is nieuw.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«telefoon» با de می‌آید، پس باید بگوییم: de telefoon.",
+    "correction_rule_fa": "وسایل روزمره را بهتر است همیشه همراه de یا het یاد بگیریم.",
+    "extra_example_nl": "De telefoon ligt naast de computer.",
+    "extra_example_fa": "تلفن کنار کامپیوتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het telefoon is nieuw.",
+        "is_correct": false,
+        "feedback_fa": "«telefoon» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De telefoon is nieuw.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «telefoon» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het computer is nieuw.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «computer» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het printer is nieuw.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «printer» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "daily_objects",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het fiets staat buiten.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«fiets» با de می‌آید، پس باید بگوییم: de fiets.",
+    "correction_rule_fa": "وسایل روزمره را بهتر است همیشه همراه de یا het یاد بگیریم.",
+    "extra_example_nl": "De fiets is zwart.",
+    "extra_example_fa": "دوچرخه سیاه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het fiets staat buiten.",
+        "is_correct": false,
+        "feedback_fa": "«fiets» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het auto staat buiten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «auto» هم با de می‌آید، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "De fiets staat buiten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «fiets» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het tas staat buiten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «tas» هم با de می‌آید، نه het."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "daily_objects",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De boek ligt op tafel.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«boek» با het می‌آید، پس باید بگوییم: het boek.",
+    "correction_rule_fa": "وسایل روزمره را بهتر است همیشه همراه de یا het یاد بگیریم.",
+    "extra_example_nl": "Het boek is interessant.",
+    "extra_example_fa": "کتاب جالب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De boek ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«boek» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bed ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bed» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De raam ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «raam» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het boek ligt op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «boek» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "daily_objects",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De bed is zacht.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«bed» با het می‌آید، پس باید بگوییم: het bed.",
+    "correction_rule_fa": "وسایل روزمره را بهتر است همیشه همراه de یا het یاد بگیریم.",
+    "extra_example_nl": "Het bed staat in de slaapkamer.",
+    "extra_example_fa": "تخت در اتاق خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het bed is zacht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «bed» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bed is zacht.",
+        "is_correct": false,
+        "feedback_fa": "«bed» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De boek is zacht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «boek» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bord is zacht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bord» هم با het می‌آید، نه de."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "daily_objects",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De raam is open.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«raam» با het می‌آید، پس باید بگوییم: het raam.",
+    "correction_rule_fa": "وسایل روزمره را بهتر است همیشه همراه de یا het یاد بگیریم.",
+    "extra_example_nl": "Het raam is groot.",
+    "extra_example_fa": "پنجره بزرگ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De raam is open.",
+        "is_correct": false,
+        "feedback_fa": "«raam» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het raam is open.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «raam» در این جمله با het می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bed is open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bed» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kopje is open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «kopje» هم با het می‌آید، نه de."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "daily_objects",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De bord staat in de kast.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«bord» با het می‌آید، پس باید بگوییم: het bord.",
+    "correction_rule_fa": "وسایل روزمره را بهتر است همیشه همراه de یا het یاد بگیریم.",
+    "extra_example_nl": "Het bord is schoon.",
+    "extra_example_fa": "بشقاب تمیز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bord staat in de kast.",
+        "is_correct": false,
+        "feedback_fa": "«bord» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De boek staat in de kast.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «boek» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het bord staat in de kast.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «bord» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bed staat in de kast.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «bed» هم با het می‌آید، نه de."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "daily_objects",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De kaartje ligt in mijn tas.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«kaartje» یک verkleinwoord است و با het می‌آید.",
+    "correction_rule_fa": "وسایل روزمره را بهتر است همیشه همراه de یا het یاد بگیریم.",
+    "extra_example_nl": "Het kaartje is duur.",
+    "extra_example_fa": "بلیط کوچک/کارت گران است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kaartje ligt in mijn tas.",
+        "is_correct": false,
+        "feedback_fa": "«kaartje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De boekje ligt in mijn tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «boekje» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De briefje ligt in mijn tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه noun جمله را تغییر داده و «briefje» هم با het می‌آید، نه de."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het kaartje ligt in mijn tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «kaartje» در این جمله با het می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "mixed_de_het_sentence_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De huis staat in Utrecht.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«huis» با het می‌آید، نه de.",
+    "correction_rule_fa": "در جمله‌های ترکیبی ساده هم فقط به اسم اصلی نگاه کن و de/het درست همان اسم را انتخاب کن.",
+    "extra_example_nl": "Het huis is groot.",
+    "extra_example_fa": "خانه بزرگ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het huis staat in Utrecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «huis» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De huis staat in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "«huis» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kantoor staat in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "«kantoor» با het می‌آید؛ این گزینه noun جمله را هم تغییر داده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De boek staat in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "«boek» با het می‌آید و این گزینه noun جمله را تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "mixed_de_het_sentence_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het deur is open.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«deur» با de می‌آید، نه het.",
+    "correction_rule_fa": "در جمله‌های ترکیبی ساده هم فقط به اسم اصلی نگاه کن و de/het درست همان اسم را انتخاب کن.",
+    "extra_example_nl": "De deur is dicht.",
+    "extra_example_fa": "در بسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het deur is open.",
+        "is_correct": false,
+        "feedback_fa": "«deur» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De deur is open.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «deur» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het tafel is open.",
+        "is_correct": false,
+        "feedback_fa": "«tafel» با de می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het stoel is open.",
+        "is_correct": false,
+        "feedback_fa": "«stoel» با de می‌آید و noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "mixed_de_het_sentence_correction",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De station is ver.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«station» با het می‌آید، نه de.",
+    "correction_rule_fa": "در جمله‌های ترکیبی ساده هم فقط به اسم اصلی نگاه کن و de/het درست همان اسم را انتخاب کن.",
+    "extra_example_nl": "Het station is dichtbij.",
+    "extra_example_fa": "ایستگاه نزدیک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De station is ver.",
+        "is_correct": false,
+        "feedback_fa": "«station» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kantoor is ver.",
+        "is_correct": false,
+        "feedback_fa": "«kantoor» با het می‌آید و noun جمله تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het station is ver.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «station» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De hotel is ver.",
+        "is_correct": false,
+        "feedback_fa": "«hotel» با het می‌آید و noun جمله تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "mixed_de_het_sentence_correction",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het kinderen spelen in de tuin.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«kinderen» جمع است و جمع‌ها همیشه de می‌گیرند.",
+    "correction_rule_fa": "در جمله‌های ترکیبی ساده هم فقط به اسم اصلی نگاه کن و de/het درست همان اسم را انتخاب کن.",
+    "extra_example_nl": "De kinderen spelen buiten.",
+    "extra_example_fa": "بچه‌ها بیرون بازی می‌کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het kinderen spelen in de tuin.",
+        "is_correct": false,
+        "feedback_fa": "«kinderen» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het meisjes spelen in de tuin.",
+        "is_correct": false,
+        "feedback_fa": "«meisjes» جمع است و باید de بگیرد، نه het."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het huizen spelen in de tuin.",
+        "is_correct": false,
+        "feedback_fa": "جمع‌ها de می‌گیرند و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen spelen in de tuin.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «kinderen» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "mixed_de_het_sentence_correction",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De boekje ligt op tafel.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«boekje» verkleinwoord است و با het می‌آید.",
+    "correction_rule_fa": "در جمله‌های ترکیبی ساده هم فقط به اسم اصلی نگاه کن و de/het درست همان اسم را انتخاب کن.",
+    "extra_example_nl": "Het boekje is klein.",
+    "extra_example_fa": "کتابچه کوچک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het boekje ligt op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «boekje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De boekje ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«boekje» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De tafeltje ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«tafeltje» verkleinwoord است و با het می‌آید؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De briefje ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«briefje» verkleinwoord است و با het می‌آید؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "mixed_de_het_sentence_correction",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het collega werkt vandaag.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«collega» به شخص اشاره دارد و با de می‌آید.",
+    "correction_rule_fa": "در جمله‌های ترکیبی ساده هم فقط به اسم اصلی نگاه کن و de/het درست همان اسم را انتخاب کن.",
+    "extra_example_nl": "De collega helpt mij.",
+    "extra_example_fa": "همکار به من کمک می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het collega werkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "«collega» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De collega werkt vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «collega» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het manager werkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "«manager» با de می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het klant werkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "«klant» با de می‌آید و noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "mixed_de_het_sentence_correction",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De brood ligt op tafel.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«brood» با het می‌آید، نه de.",
+    "correction_rule_fa": "در جمله‌های ترکیبی ساده هم فقط به اسم اصلی نگاه کن و de/het درست همان اسم را انتخاب کن.",
+    "extra_example_nl": "Het brood is vers.",
+    "extra_example_fa": "نان تازه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De brood ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«brood» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De water ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«water» با het می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het brood ligt op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «brood» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De ei ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«ei» با het می‌آید و noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "mixed_de_het_sentence_correction",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het winkel is open.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«winkel» با de می‌آید، نه het.",
+    "correction_rule_fa": "در جمله‌های ترکیبی ساده هم فقط به اسم اصلی نگاه کن و de/het درست همان اسم را انتخاب کن.",
+    "extra_example_nl": "De winkel is dichtbij.",
+    "extra_example_fa": "فروشگاه نزدیک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het winkel is open.",
+        "is_correct": false,
+        "feedback_fa": "«winkel» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het school is open.",
+        "is_correct": false,
+        "feedback_fa": "«school» با de می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het bank is open.",
+        "is_correct": false,
+        "feedback_fa": "«bank» با de می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel is open.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «winkel» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "mixed_de_het_sentence_correction",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De probleem is klein.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«probleem» با het می‌آید، نه de.",
+    "correction_rule_fa": "در جمله‌های ترکیبی ساده هم فقط به اسم اصلی نگاه کن و de/het درست همان اسم را انتخاب کن.",
+    "extra_example_nl": "Het probleem is duidelijk.",
+    "extra_example_fa": "مشکل واضح است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het probleem is klein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «probleem» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De probleem is klein.",
+        "is_correct": false,
+        "feedback_fa": "«probleem» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bericht is klein.",
+        "is_correct": false,
+        "feedback_fa": "«bericht» با het می‌آید و noun جمله تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De werk is klein.",
+        "is_correct": false,
+        "feedback_fa": "«werk» با het می‌آید و noun جمله تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "mixed_de_het_sentence_correction",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het sleutels liggen in de tas.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«sleutels» جمع است و جمع‌ها همیشه de می‌گیرند.",
+    "correction_rule_fa": "در جمله‌های ترکیبی ساده هم فقط به اسم اصلی نگاه کن و de/het درست همان اسم را انتخاب کن.",
+    "extra_example_nl": "De sleutels liggen op tafel.",
+    "extra_example_fa": "کلیدها روی میز هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het sleutels liggen in de tas.",
+        "is_correct": false,
+        "feedback_fa": "«sleutels» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De sleutels liggen in de tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «sleutels» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het boeken liggen in de tas.",
+        "is_correct": false,
+        "feedback_fa": "«boeken» جمع است و باید de بگیرد؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het berichten liggen in de tas.",
+        "is_correct": false,
+        "feedback_fa": "«berichten» جمع است و باید de بگیرد؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "choosing_best_de_het_correction",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De boek ligt op tafel.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«boek» یک het-woord است، پس جمله درست «het boek» دارد.",
+    "correction_rule_fa": "برای انتخاب بهترین correction، جمله‌ای را انتخاب کن که هم noun اصلی را حفظ کند و هم de/het آن درست باشد.",
+    "extra_example_nl": "Het boek is nieuw.",
+    "extra_example_fa": "کتاب جدید است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De boek ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«boek» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het boeken liggen op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«boeken» جمع است و باید de بگیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het boek ligt op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «boek» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De boekje ligt op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«boekje» verkleinwoord است و باید het بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "choosing_best_de_het_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het tafel staat in de kamer.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«tafel» یک de-woord است، پس جمله درست «de tafel» دارد.",
+    "correction_rule_fa": "برای انتخاب بهترین correction، جمله‌ای را انتخاب کن که هم noun اصلی را حفظ کند و هم de/het آن درست باشد.",
+    "extra_example_nl": "De tafel is groot.",
+    "extra_example_fa": "میز بزرگ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het tafel staat in de kamer.",
+        "is_correct": false,
+        "feedback_fa": "«tafel» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De tafeltje staat in de kamer.",
+        "is_correct": false,
+        "feedback_fa": "«tafeltje» verkleinwoord است و باید het بگیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het stoel staat in de kamer.",
+        "is_correct": false,
+        "feedback_fa": "«stoel» با de می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De tafel staat in de kamer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «tafel» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "choosing_best_de_het_correction",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De meisje zit in de klas.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«meisje» با het می‌آید، پس باید بگوییم: het meisje.",
+    "correction_rule_fa": "برای انتخاب بهترین correction، جمله‌ای را انتخاب کن که هم noun اصلی را حفظ کند و هم de/het آن درست باشد.",
+    "extra_example_nl": "Het meisje leest een boek.",
+    "extra_example_fa": "دختر کتاب می‌خواند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het meisje zit in de klas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «meisje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De meisje zit in de klas.",
+        "is_correct": false,
+        "feedback_fa": "«meisje» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het meisjes zitten in de klas.",
+        "is_correct": false,
+        "feedback_fa": "«meisjes» جمع است و باید de بگیرد، نه het."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het jongen zit in de klas.",
+        "is_correct": false,
+        "feedback_fa": "«jongen» با de می‌آید؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "choosing_best_de_het_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het huizen zijn oud.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«huizen» جمع است و جمع‌ها همیشه de می‌گیرند.",
+    "correction_rule_fa": "برای انتخاب بهترین correction، جمله‌ای را انتخاب کن که هم noun اصلی را حفظ کند و هم de/het آن درست باشد.",
+    "extra_example_nl": "De huizen staan in de straat.",
+    "extra_example_fa": "خانه‌ها در خیابان هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het huizen zijn oud.",
+        "is_correct": false,
+        "feedback_fa": "«huizen» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De huizen zijn oud.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «huizen» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De huis is oud.",
+        "is_correct": false,
+        "feedback_fa": "«huis» مفرد است و با het می‌آید؛ جمله اصلی جمع بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het boeken zijn oud.",
+        "is_correct": false,
+        "feedback_fa": "«boeken» جمع است و باید de بگیرد؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "choosing_best_de_het_correction",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De kopje staat op tafel.",
+    "question_text_nl": "Kies de zin met de juiste de/het.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«kopje» verkleinwoord است و با het می‌آید.",
+    "correction_rule_fa": "برای انتخاب بهترین correction، جمله‌ای را انتخاب کن که هم noun اصلی را حفظ کند و هم de/het آن درست باشد.",
+    "extra_example_nl": "Het kopje is leeg.",
+    "extra_example_fa": "فنجان خالی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kopje staat op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«kopje» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bordje staat op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«bordje» verkleinwoord است و باید het بگیرد؛ noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het kopje staat op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «kopje» در این جمله با het می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het kopjes staan op tafel.",
+        "is_correct": false,
+        "feedback_fa": "«kopjes» جمع است و باید de بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "choosing_best_de_het_correction",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het klant wacht bij de kassa.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "«klant» به شخص اشاره دارد و با de می‌آید.",
+    "correction_rule_fa": "برای انتخاب بهترین correction، جمله‌ای را انتخاب کن که هم noun اصلی را حفظ کند و هم de/het آن درست باشد.",
+    "extra_example_nl": "De klant betaalt contant.",
+    "extra_example_fa": "مشتری نقدی پرداخت می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het klant wacht bij de kassa.",
+        "is_correct": false,
+        "feedback_fa": "«klant» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het collega wacht bij de kassa.",
+        "is_correct": false,
+        "feedback_fa": "«collega» با de می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het manager wacht bij de kassa.",
+        "is_correct": false,
+        "feedback_fa": "«manager» با de می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De klant wacht bij de kassa.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «klant» در این جمله با de می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "choosing_best_de_het_correction",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De kantoor is op de hoek.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "اشتباه de/het را اصلاح کن.",
+    "explanation_fa": "«kantoor» با het می‌آید، پس باید بگوییم: het kantoor.",
+    "correction_rule_fa": "برای انتخاب بهترین correction، جمله‌ای را انتخاب کن که هم noun اصلی را حفظ کند و هم de/het آن درست باشد.",
+    "extra_example_nl": "Het kantoor is rustig.",
+    "extra_example_fa": "دفتر آرام است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het kantoor is op de hoek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «kantoor» در این جمله با het می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kantoor is op de hoek.",
+        "is_correct": false,
+        "feedback_fa": "«kantoor» با het می‌آید، نه de."
+      },
+      {
+        "key": "C",
+        "text_nl": "De station is op de hoek.",
+        "is_correct": false,
+        "feedback_fa": "«station» با het می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De hotel is op de hoek.",
+        "is_correct": false,
+        "feedback_fa": "«hotel» با het می‌آید و noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "choosing_best_de_het_correction",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het appel ligt in de tas.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "کدام جمله از نظر de/het درست است؟",
+    "explanation_fa": "«appel» با de می‌آید، پس باید بگوییم: de appel.",
+    "correction_rule_fa": "برای انتخاب بهترین correction، جمله‌ای را انتخاب کن که هم noun اصلی را حفظ کند و هم de/het آن درست باشد.",
+    "extra_example_nl": "De appel is rood.",
+    "extra_example_fa": "سیب قرمز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het appel ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "«appel» با de می‌آید، نه het."
+      },
+      {
+        "key": "B",
+        "text_nl": "De appel ligt in de tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «appel» در این جمله با de می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het banaan ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "«banaan» با de می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het salade ligt in de tas.",
+        "is_correct": false,
+        "feedback_fa": "«salade» با de می‌آید و noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "choosing_best_de_het_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het ramen zijn schoon.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "«ramen» جمع است و جمع‌ها همیشه de می‌گیرند.",
+    "correction_rule_fa": "برای انتخاب بهترین correction، جمله‌ای را انتخاب کن که هم noun اصلی را حفظ کند و هم de/het آن درست باشد.",
+    "extra_example_nl": "De ramen zijn open.",
+    "extra_example_fa": "پنجره‌ها باز هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het ramen zijn schoon.",
+        "is_correct": false,
+        "feedback_fa": "«ramen» جمع است و نباید het بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De raam is schoon.",
+        "is_correct": false,
+        "feedback_fa": "«raam» مفرد با het می‌آید؛ جمله اصلی جمع بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De ramen zijn schoon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «ramen» در این جمله با de می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het borden zijn schoon.",
+        "is_correct": false,
+        "feedback_fa": "«borden» جمع است و باید de بگیرد؛ noun جمله هم تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "de_het_error",
+    "subtopic": "choosing_best_de_het_correction",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De station is dichtbij.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "جمله‌ای را انتخاب کن که lidwoord آن درست است.",
+    "explanation_fa": "«station» با het می‌آید، پس باید بگوییم: het station.",
+    "correction_rule_fa": "برای انتخاب بهترین correction، جمله‌ای را انتخاب کن که هم noun اصلی را حفظ کند و هم de/het آن درست باشد.",
+    "extra_example_nl": "Het station is druk.",
+    "extra_example_fa": "ایستگاه شلوغ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De station is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "«station» با het می‌آید، نه de."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kantoor is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "«kantoor» با het می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De ziekenhuis is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "«ziekenhuis» با het می‌آید و noun جمله هم تغییر کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het station is dichtbij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «station» در این جمله با het می‌آید."
+      }
+    ]
+  }
+]

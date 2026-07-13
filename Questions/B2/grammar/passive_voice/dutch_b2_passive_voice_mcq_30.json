@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het huis ___ elke maand schoongemaakt.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «het huis» مفرد است و عمل هر ماه تکرار می‌شود (زمان حال)، پس «wordt» درست است.",
+    "grammar_rule_fa": "مجهولِ حال: wordt/worden + قسمتِ سوم فعل. مفرد = wordt.",
+    "extra_example_nl": "De keuken wordt elke week gedaan.",
+    "extra_example_fa": "آشپزخانه هر هفته تمیز می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wordt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + زمان حال."
+      },
+      {
+        "key": "B",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» برای فاعلِ جمع است؛ «het huis» مفرد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» زمانِ گذشته است؛ «elke maand» نشانِ زمانِ حال است."
+      },
+      {
+        "key": "D",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» نتیجه‌ی تمام‌شده را نشان می‌دهد، نه انجامِ تکرارشونده‌ی عمل."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De auto ___ vandaag gerepareerd.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de auto» مفرد است و «vandaag» نشانِ زمانِ حال است، پس «wordt» درست است.",
+    "grammar_rule_fa": "مجهولِ حال، مفرد: wordt.",
+    "extra_example_nl": "De fiets wordt vandaag gemaakt.",
+    "extra_example_fa": "دوچرخه امروز تعمیر می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» هم زمانِ گذشته و هم جمع است؛ اینجا فاعل مفرد و زمان حال است."
+      },
+      {
+        "key": "B",
+        "text_nl": "wordt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + زمان حال."
+      },
+      {
+        "key": "C",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» زمانِ گذشته است؛ «vandaag» نشانِ زمانِ حال است."
+      },
+      {
+        "key": "D",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» نتیجه‌ی تمام‌شده را نشان می‌دهد، نه فرآیندِ در حالِ انجام."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het probleem ___ morgen besproken.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «het probleem» مفرد است و «morgen» به آینده/حال اشاره دارد، پس «wordt» درست است.",
+    "grammar_rule_fa": "مجهولِ حال، مفرد: wordt.",
+    "extra_example_nl": "Dit punt wordt later besproken.",
+    "extra_example_fa": "این نکته بعداً بررسی می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» نتیجه‌ی تمام‌شده را نشان می‌دهد؛ اما «morgen» یعنی هنوز اتفاق نیفتاده."
+      },
+      {
+        "key": "B",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» زمانِ گذشته است، اما «morgen» به آینده اشاره دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "wordt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + عملی که در آینده‌ی نزدیک انجام می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» برای فاعلِ جمع است؛ «het probleem» مفرد است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De brief ___ op dit moment geschreven.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de brief» مفرد است و «op dit moment» یعنی همین الان، پس «wordt» درست است.",
+    "grammar_rule_fa": "مجهولِ حال، مفرد: wordt.",
+    "extra_example_nl": "Het rapport wordt nu geschreven.",
+    "extra_example_fa": "گزارش همین الان نوشته می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» برای فاعلِ جمع است؛ «de brief» مفرد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» یعنی نامه تمام و آماده است، اما «op dit moment» نشان می‌دهد نوشتن هنوز ادامه دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» زمانِ گذشته است، اما «op dit moment» زمانِ حال است."
+      },
+      {
+        "key": "D",
+        "text_nl": "wordt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + عملِ در حالِ انجام."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het eten ___ elke avond om zes uur klaargemaakt.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «het eten» مفرد است و «elke avond» عادتِ تکرارشونده در زمانِ حال را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ حال، مفرد: wordt.",
+    "extra_example_nl": "De soep wordt elke dag vers gemaakt.",
+    "extra_example_fa": "سوپ هر روز تازه درست می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wordt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + عادتِ تکرارشونده."
+      },
+      {
+        "key": "B",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» زمانِ گذشته است؛ «elke avond» عادتِ حال را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» برای فاعلِ جمع است؛ «het eten» مفرد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» نتیجه‌ی تمام‌شده را نشان می‌دهد، نه عملِ تکرارشونده."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "official_services",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De rekening ___ elke maand automatisch betaald.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de rekening» مفرد است و «elke maand» عادتِ تکرارشونده را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ حال، مفرد: wordt.",
+    "extra_example_nl": "De huur wordt automatisch overgemaakt.",
+    "extra_example_fa": "اجاره به‌طور خودکار پرداخت می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» زمانِ گذشته و جمع است؛ اینجا فاعل مفرد و زمان حال است."
+      },
+      {
+        "key": "B",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» نتیجه‌ی تمام‌شده را نشان می‌دهد، نه پرداختِ تکرارشونده."
+      },
+      {
+        "key": "C",
+        "text_nl": "wordt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + عادتِ ماهانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» زمانِ گذشته است؛ اینجا عادتِ حال بیان می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het pakket ___ meestal binnen twee dagen bezorgd.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «het pakket» مفرد است و «meestal» یک قاعده‌ی کلی/عادت را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ حال، مفرد: wordt.",
+    "extra_example_nl": "De bestelling wordt snel bezorgd.",
+    "extra_example_fa": "سفارش سریع تحویل داده می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» برای فاعلِ جمع است؛ «het pakket» مفرد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» زمانِ گذشته است؛ «meestal» زمانِ حال/عادت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» نتیجه‌ی تمام‌شده است، نه یک قاعده‌ی کلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "wordt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + قاعده‌ی کلی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De vergadering ___ elke week op maandag gepland.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de vergadering» مفرد است و «elke week» عادتِ تکرارشونده را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ حال، مفرد: wordt.",
+    "extra_example_nl": "Het overleg wordt elke week gehouden.",
+    "extra_example_fa": "جلسه هر هفته برگزار می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wordt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + عادتِ هفتگی."
+      },
+      {
+        "key": "B",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» فقط برای وضعیتِ تمام‌شده است، نه برنامه‌ی تکرارشونده."
+      },
+      {
+        "key": "C",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» زمانِ گذشته است؛ اینجا عادتِ حال بیان می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» برای فاعلِ جمع است؛ «de vergadering» مفرد است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De kamers ___ elke week schoongemaakt.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de kamers» جمع است و زمانِ حال بیان می‌شود، پس «worden» درست است.",
+    "grammar_rule_fa": "مجهولِ حال، جمع: worden.",
+    "extra_example_nl": "De ramen worden elke maand gezeemd.",
+    "extra_example_fa": "پنجره‌ها هر ماه تمیز می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» برای فاعلِ مفرد است؛ «de kamers» جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "worden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمان حال."
+      },
+      {
+        "key": "C",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» زمانِ گذشته است؛ «elke week» زمانِ حال را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "zijn",
+        "is_correct": false,
+        "feedback_fa": "«zijn» نتیجه‌ی تمام‌شده را نشان می‌دهد، نه انجامِ تکرارشونده‌ی عمل."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De rapporten ___ vandaag gecontroleerd.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de rapporten» جمع است و «vandaag» زمانِ حال را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ حال، جمع: worden.",
+    "extra_example_nl": "De formulieren worden vandaag nagekeken.",
+    "extra_example_fa": "فرم‌ها امروز بررسی می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zijn",
+        "is_correct": false,
+        "feedback_fa": "«zijn» یعنی کنترل کامل شده، اما اینجا کارِ در حالِ انجام مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "worden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمان حال."
+      },
+      {
+        "key": "C",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» زمانِ گذشته است؛ «vandaag» زمانِ حال است."
+      },
+      {
+        "key": "D",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» برای فاعلِ مفرد است؛ «de rapporten» جمع است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De producten ___ direct na de bestelling verzonden.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de producten» جمع است و یک قاعده‌ی کلی بیان می‌شود.",
+    "grammar_rule_fa": "مجهولِ حال، جمع: worden.",
+    "extra_example_nl": "De boeken worden direct verstuurd.",
+    "extra_example_fa": "کتاب‌ها بلافاصله ارسال می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» برای فاعلِ مفرد است؛ «de producten» جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» زمانِ گذشته است؛ اینجا قاعده‌ی حال بیان می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "worden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمان حال."
+      },
+      {
+        "key": "D",
+        "text_nl": "zijn",
+        "is_correct": false,
+        "feedback_fa": "«zijn» نتیجه‌ی تمام‌شده را نشان می‌دهد، نه قاعده‌ی کلی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "official_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De regels ___ streng gecontroleerd.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de regels» جمع است و بدونِ نشانه‌ی زمانِ خاص، حالتِ کلی/حال مطرح است.",
+    "grammar_rule_fa": "مجهولِ حال، جمع: worden.",
+    "extra_example_nl": "De prijzen worden goed gecontroleerd.",
+    "extra_example_fa": "قیمت‌ها به‌خوبی کنترل می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» زمانِ گذشته است؛ اینجا وضعیتِ کلیِ حال بیان می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "zijn",
+        "is_correct": false,
+        "feedback_fa": "«zijn» نتیجه‌ی تمام‌شده را نشان می‌دهد، نه کنترلِ مداوم."
+      },
+      {
+        "key": "C",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» برای فاعلِ مفرد است؛ «de regels» جمع است."
+      },
+      {
+        "key": "D",
+        "text_nl": "worden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمان حال."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De kinderen ___ elke dag door de leraar geholpen.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de kinderen» جمع است و «elke dag» عادتِ تکرارشونده را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ حال، جمع: worden. عاملِ عمل با «door» می‌آید.",
+    "extra_example_nl": "De leerlingen worden door de juf begeleid.",
+    "extra_example_fa": "دانش‌آموزان توسط معلم راهنمایی می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "worden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + عادتِ روزانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» زمانِ گذشته است؛ «elke dag» زمانِ حال است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» برای فاعلِ مفرد است؛ «de kinderen» جمع است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zijn",
+        "is_correct": false,
+        "feedback_fa": "«zijn» نتیجه‌ی تمام‌شده را نشان می‌دهد، نه کمکِ روزانه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "official_services",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De facturen ___ maandelijks verstuurd.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de facturen» جمع است و «maandelijks» عادتِ ماهانه را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ حال، جمع: worden.",
+    "extra_example_nl": "De brieven worden wekelijks verzonden.",
+    "extra_example_fa": "نامه‌ها به‌صورت هفتگی ارسال می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» برای فاعلِ مفرد است؛ «de facturen» جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zijn",
+        "is_correct": false,
+        "feedback_fa": "«zijn» نتیجه‌ی تمام‌شده را نشان می‌دهد، نه ارسالِ تکرارشونده."
+      },
+      {
+        "key": "C",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» زمانِ گذشته است؛ «maandelijks» زمانِ حال/عادت است."
+      },
+      {
+        "key": "D",
+        "text_nl": "worden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + عادتِ ماهانه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het contract ___ vorige week ondertekend.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «het contract» مفرد است و «vorige week» زمانِ گذشته را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ گذشته، مفرد: werd.",
+    "extra_example_nl": "De brief werd gisteren verstuurd.",
+    "extra_example_fa": "نامه دیروز فرستاده شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + زمان گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» برای فاعلِ جمع است؛ «het contract» مفرد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» زمانِ حال است؛ «vorige week» زمانِ گذشته را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "was",
+        "is_correct": false,
+        "feedback_fa": "«was» نتیجه‌ی تمام‌شده در گذشته را نشان می‌دهد، نه لحظه‌ی انجامِ عمل."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De auto ___ gisteren gewassen.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de auto» مفرد است و «gisteren» زمانِ گذشته را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ گذشته، مفرد: werd.",
+    "extra_example_nl": "Het huis werd vorige maand geschilderd.",
+    "extra_example_fa": "خانه ماه پیش رنگ شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "was",
+        "is_correct": false,
+        "feedback_fa": "«was» نتیجه‌ی تمام‌شده را نشان می‌دهد (ماشین قبلاً تمیز بود)، نه لحظه‌ی شسته شدن."
+      },
+      {
+        "key": "B",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» زمانِ حال است؛ «gisteren» زمانِ گذشته را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "werd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + زمانِ گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» برای فاعلِ جمع است؛ «de auto» مفرد است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het huis ___ vorig jaar verkocht.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «het huis» مفرد است و «vorig jaar» زمانِ گذشته را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ گذشته، مفرد: werd.",
+    "extra_example_nl": "De winkel werd vorig jaar geopend.",
+    "extra_example_fa": "مغازه سالِ گذشته باز شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» برای فاعلِ جمع است؛ «het huis» مفرد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "was",
+        "is_correct": false,
+        "feedback_fa": "«was» یعنی خانه از قبل فروخته‌شده بود، نه این که در آن سال فروخته شد."
+      },
+      {
+        "key": "C",
+        "text_nl": "werd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + زمانِ گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» زمانِ حال است؛ «vorig jaar» زمانِ گذشته را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De brief ___ helaas te laat verstuurd.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de brief» مفرد است و اتفاق در گذشته افتاده است.",
+    "grammar_rule_fa": "مجهولِ گذشته، مفرد: werd.",
+    "extra_example_nl": "Het pakket werd te laat bezorgd.",
+    "extra_example_fa": "بسته با تأخیر تحویل داده شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» زمانِ حال است؛ اینجا اتفاقی در گذشته توصیف می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "werd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + زمانِ گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» برای فاعلِ جمع است؛ «de brief» مفرد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "was",
+        "is_correct": false,
+        "feedback_fa": "«was» نتیجه‌ی از‌قبل‌آماده را نشان می‌دهد، نه لحظه‌ی فرستاده شدن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het plan ___ meteen door de directie goedgekeurd.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «het plan» مفرد است و لحظه‌ی تصویب در گذشته بیان می‌شود.",
+    "grammar_rule_fa": "مجهولِ گذشته، مفرد: werd.",
+    "extra_example_nl": "Het voorstel werd snel geaccepteerd.",
+    "extra_example_fa": "پیشنهاد سریع پذیرفته شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "was",
+        "is_correct": false,
+        "feedback_fa": "«was» یعنی از قبل تأیید شده بود، نه این که در آن لحظه تأیید شد."
+      },
+      {
+        "key": "B",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» برای فاعلِ جمع است؛ «het plan» مفرد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» زمانِ حال است؛ اینجا اتفاقی در گذشته بیان می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "werd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + زمانِ گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De vergadering ___ op het laatste moment afgezegd.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de vergadering» مفرد است و اتفاقی در گذشته توصیف می‌شود.",
+    "grammar_rule_fa": "مجهولِ گذشته، مفرد: werd.",
+    "extra_example_nl": "De afspraak werd op het laatste moment verzet.",
+    "extra_example_fa": "قرار در آخرین لحظه جابه‌جا شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + زمانِ گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» زمانِ حال است؛ اینجا اتفاقی در گذشته بیان می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "was",
+        "is_correct": false,
+        "feedback_fa": "«was» نتیجه‌ی از‌قبل‌آماده را نشان می‌دهد، نه لحظه‌ی کنسل‌شدن."
+      },
+      {
+        "key": "D",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» برای فاعلِ جمع است؛ «de vergadering» مفرد است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het probleem ___ snel opgelost.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "بدونِ نشانه‌ی زمانِ دیگر، این جمله در گذشته اتفاق افتاده است.",
+    "grammar_rule_fa": "مجهولِ گذشته، مفرد: werd.",
+    "extra_example_nl": "De fout werd meteen hersteld.",
+    "extra_example_fa": "اشتباه بلافاصله برطرف شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» زمانِ حال است؛ در این جمله اتفاقی در گذشته توصیف می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» برای فاعلِ جمع است؛ «het probleem» مفرد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "werd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل مفرد + زمانِ گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "is",
+        "is_correct": false,
+        "feedback_fa": "«is» زمانِ حال است و اینجا با گذشته‌ی جمله جور نیست."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De uitnodigingen ___ vorige maand verstuurd.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de uitnodigingen» جمع است و «vorige maand» زمانِ گذشته را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ گذشته، جمع: werden.",
+    "extra_example_nl": "De kaarten werden op tijd verstuurd.",
+    "extra_example_fa": "کارت‌ها به‌موقع فرستاده شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» برای فاعلِ مفرد است؛ «de uitnodigingen» جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» زمانِ حال است؛ «vorige maand» زمانِ گذشته را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "werden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "waren",
+        "is_correct": false,
+        "feedback_fa": "«waren» نتیجه‌ی از‌قبل‌آماده را نشان می‌دهد، نه لحظه‌ی فرستاده‌شدن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "official_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De regels ___ vorig jaar veranderd.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de regels» جمع است و «vorig jaar» زمانِ گذشته را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ گذشته، جمع: werden.",
+    "extra_example_nl": "De prijzen werden vorig jaar verhoogd.",
+    "extra_example_fa": "قیمت‌ها سالِ گذشته افزایش یافتند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "waren",
+        "is_correct": false,
+        "feedback_fa": "«waren» یعنی قبلاً تغییر کرده بودند، نه این که در آن سال تغییر کردند."
+      },
+      {
+        "key": "B",
+        "text_nl": "werden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» زمانِ حال است؛ «vorig jaar» زمانِ گذشته را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» برای فاعلِ مفرد است؛ «de regels» جمع است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De gasten ___ heel hartelijk ontvangen.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de gasten» جمع است و اتفاق در گذشته توصیف می‌شود.",
+    "grammar_rule_fa": "مجهولِ گذشته، جمع: werden.",
+    "extra_example_nl": "De bezoekers werden vriendelijk begroet.",
+    "extra_example_fa": "بازدیدکنندگان با محبت استقبال شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» زمانِ حال است؛ اینجا اتفاقی در گذشته توصیف می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» برای فاعلِ مفرد است؛ «de gasten» جمع است."
+      },
+      {
+        "key": "C",
+        "text_nl": "waren",
+        "is_correct": false,
+        "feedback_fa": "«waren» نتیجه‌ی از‌قبل‌آماده را نشان می‌دهد، نه لحظه‌ی استقبال."
+      },
+      {
+        "key": "D",
+        "text_nl": "werden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De klachten ___ direct serieus genomen.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de klachten» جمع است و اتفاق در گذشته توصیف می‌شود.",
+    "grammar_rule_fa": "مجهولِ گذشته، جمع: werden.",
+    "extra_example_nl": "De vragen werden meteen beantwoord.",
+    "extra_example_fa": "سؤال‌ها بلافاصله پاسخ داده شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "waren",
+        "is_correct": false,
+        "feedback_fa": "«waren» یعنی از قبل جدی گرفته شده بودند، نه لحظه‌ی جدی گرفتن."
+      },
+      {
+        "key": "C",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» زمانِ حال است؛ اینجا اتفاقی در گذشته توصیف می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» برای فاعلِ مفرد است؛ «de klachten» جمع است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De kosten ___ uiteindelijk door het bedrijf betaald.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de kosten» جمع است و اتفاق در گذشته توصیف می‌شود.",
+    "grammar_rule_fa": "مجهولِ گذشته، جمع: werden.",
+    "extra_example_nl": "De schade werd door de verzekering vergoed.",
+    "extra_example_fa": "خسارت توسط بیمه جبران شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "waren",
+        "is_correct": false,
+        "feedback_fa": "«waren» یعنی هزینه‌ها از قبل پرداخت‌شده بودند، نه این که در آن لحظه پرداخت شدند."
+      },
+      {
+        "key": "B",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» زمانِ حال است؛ اینجا اتفاقی در گذشته توصیف می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» برای فاعلِ مفرد است؛ «de kosten» جمع است."
+      },
+      {
+        "key": "D",
+        "text_nl": "werden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De cadeaus ___ snel uitgedeeld.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de cadeaus» جمع است و اتفاق در گذشته توصیف می‌شود.",
+    "grammar_rule_fa": "مجهولِ گذشته، جمع: werden.",
+    "extra_example_nl": "De prijzen werden onder de winnaars verdeeld.",
+    "extra_example_fa": "جوایز بین برندگان تقسیم شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» برای فاعلِ مفرد است؛ «de cadeaus» جمع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "werden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» زمانِ حال است؛ اینجا اتفاقی در گذشته توصیف می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "waren",
+        "is_correct": false,
+        "feedback_fa": "«waren» یعنی از قبل پخش‌شده بودند، نه لحظه‌ی پخش‌شدن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De sollicitanten ___ vorige week gebeld voor een gesprek.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de sollicitanten» جمع است و «vorige week» زمانِ گذشته را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ گذشته، جمع: werden.",
+    "extra_example_nl": "De kandidaten werden persoonlijk gebeld.",
+    "extra_example_fa": "نامزدها شخصاً تماس گرفته شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» زمانِ حال است؛ «vorige week» زمانِ گذشته را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "waren",
+        "is_correct": false,
+        "feedback_fa": "«waren» یعنی از قبل تماس گرفته‌شده بودند، نه لحظه‌ی تماس."
+      },
+      {
+        "key": "C",
+        "text_nl": "werden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» برای فاعلِ مفرد است؛ «de sollicitanten» جمع است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De resultaten ___ gisteren bekendgemaakt.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de resultaten» جمع است و «gisteren» زمانِ گذشته را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ گذشته، جمع: werden.",
+    "extra_example_nl": "De uitslagen werden vanmorgen gepubliceerd.",
+    "extra_example_fa": "نتایج امروز صبح منتشر شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "werd",
+        "is_correct": false,
+        "feedback_fa": "«werd» برای فاعلِ مفرد است؛ «de resultaten» جمع است."
+      },
+      {
+        "key": "C",
+        "text_nl": "worden",
+        "is_correct": false,
+        "feedback_fa": "«worden» زمانِ حال است؛ «gisteren» زمانِ گذشته را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "waren",
+        "is_correct": false,
+        "feedback_fa": "«waren» یعنی از قبل اعلام‌شده بودند، نه لحظه‌ی اعلام."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "passive_voice",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De nieuwe medewerkers ___ deze week ingewerkt.",
+    "question_text_fa": "کدام فعلِ کمکی مجهول را درست کامل می‌کند؟",
+    "explanation_fa": "فاعل «de nieuwe medewerkers» جمع است و «deze week» زمانِ حال را نشان می‌دهد.",
+    "grammar_rule_fa": "مجهولِ حال، جمع: worden.",
+    "extra_example_nl": "De stagiaires worden goed begeleid.",
+    "extra_example_fa": "کارآموزان به‌خوبی راهنمایی می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "werden",
+        "is_correct": false,
+        "feedback_fa": "«werden» زمانِ گذشته است؛ «deze week» زمانِ حال است."
+      },
+      {
+        "key": "B",
+        "text_nl": "worden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فاعل جمع + زمانِ حال."
+      },
+      {
+        "key": "C",
+        "text_nl": "wordt",
+        "is_correct": false,
+        "feedback_fa": "«wordt» برای فاعلِ مفرد است؛ «de nieuwe medewerkers» جمع است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zijn",
+        "is_correct": false,
+        "feedback_fa": "«zijn» نتیجه‌ی تمام‌شده را نشان می‌دهد، نه فرآیندِ در حالِ انجام."
+      }
+    ]
+  }
+]

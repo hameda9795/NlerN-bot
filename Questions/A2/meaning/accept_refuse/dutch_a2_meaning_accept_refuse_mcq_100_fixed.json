@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_invitations",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Ja, graag.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "بله، با کمال میل.",
+    "usage_note_fa": "این جمله در این context برای قبول کردن دعوت به شکل مثبت و دوستانه استفاده می‌شود.",
+    "extra_example_nl": "Ik kom graag.",
+    "extra_example_fa": "با میل می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_invitations",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat lijkt me leuk.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "به نظرم جالب و خوب می‌آید.",
+    "usage_note_fa": "این جمله برای قبول کردن دعوت با علاقه و نظر مثبت استفاده می‌شود.",
+    "extra_example_nl": "Dat vind ik leuk.",
+    "extra_example_fa": "از این خوشم می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "به نظرم جالب است و قبول می‌کنم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_invitations",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik kom graag.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "با میل می‌آیم.",
+    "usage_note_fa": "این جمله برای قبول کردن دعوت و نشان دادن آمادگی برای آمدن استفاده می‌شود.",
+    "extra_example_nl": "Leuk, ik ben erbij.",
+    "extra_example_fa": "خوبه، من هم هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "با میل می‌آیم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_invitations",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Ja, dat is goed.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "بله، خوب است / قبول است.",
+    "usage_note_fa": "این جمله برای قبول کردن یک دعوت یا پیشنهاد ساده استفاده می‌شود.",
+    "extra_example_nl": "Prima, ik kom.",
+    "extra_example_fa": "خوبه، می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، قبول است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_invitations",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Leuk, ik ben erbij.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "خوبه، من هم هستم.",
+    "usage_note_fa": "این جمله برای قبول کردن دعوت و گفتن اینکه در برنامه شرکت می‌کنی استفاده می‌شود.",
+    "extra_example_nl": "Ik ga graag mee.",
+    "extra_example_fa": "با میل همراه می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "خوبه، من هم شرکت می‌کنم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_invitations",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Ja hoor, graag.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "بله، حتماً با میل.",
+    "usage_note_fa": "این جمله یک قبول کردن دوستانه و کوتاه است.",
+    "extra_example_nl": "Ja, graag.",
+    "extra_example_fa": "بله، با کمال میل.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، حتماً با میل.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_invitations",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat vind ik leuk.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "این را دوست دارم / برایم جالب است.",
+    "usage_note_fa": "این جمله برای نشان دادن علاقه و قبول کردن دعوت استفاده می‌شود.",
+    "extra_example_nl": "Dat lijkt me leuk.",
+    "extra_example_fa": "به نظرم خوب می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این را دوست دارم و قبول می‌کنم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_invitations",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik ga graag mee.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "با میل همراه می‌آیم.",
+    "usage_note_fa": "این جمله برای قبول کردن دعوت به همراهی یا رفتن با کسی استفاده می‌شود.",
+    "extra_example_nl": "Ik kom graag.",
+    "extra_example_fa": "با میل می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "با میل همراه می‌آیم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_invitations",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Prima, ik kom.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "خوبه، می‌آیم.",
+    "usage_note_fa": "این جمله برای قبول کردن یک دعوت یا قرار به شکل ساده استفاده می‌شود.",
+    "extra_example_nl": "Ja, dat past mij.",
+    "extra_example_fa": "بله، برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "خوبه، می‌آیم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_invitations",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ja, dat past mij.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "بله، برای من مناسب است.",
+    "usage_note_fa": "این جمله برای قبول کردن دعوت یا زمان پیشنهادی استفاده می‌شود.",
+    "extra_example_nl": "Dat is goed.",
+    "extra_example_fa": "خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، آن زمان برای من مناسب است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_invitations",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Nee, dank je.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "نه، ممنون.",
+    "usage_note_fa": "این جمله برای رد کردن مؤدبانه دعوت یا پیشنهاد استفاده می‌شود.",
+    "extra_example_nl": "Sorry, ik kan niet.",
+    "extra_example_fa": "ببخشید، نمی‌توانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نه، ممنون.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_invitations",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Sorry, ik kan niet.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "ببخشید، نمی‌توانم.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت به شکل مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Helaas kan ik niet komen.",
+    "extra_example_fa": "متأسفانه نمی‌توانم بیایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، حتماً می‌آیم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_invitations",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Helaas kan ik niet komen.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "متأسفانه نمی‌توانم بیایم.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت همراه با حالت مؤدبانه و کمی ناراحتی استفاده می‌شود.",
+    "extra_example_nl": "Ik kan helaas niet.",
+    "extra_example_fa": "متأسفانه نمی‌توانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "متأسفانه نمی‌توانم بیایم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_invitations",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik kan helaas niet.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "متأسفانه نمی‌توانم.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت یا درخواست به شکل مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Deze keer niet.",
+    "extra_example_fa": "این بار نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "متأسفانه نمی‌توانم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_invitations",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Nee, misschien een andere keer.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "نه، شاید یک بار دیگر.",
+    "usage_note_fa": "این جمله دعوت را رد می‌کند، اما امکان آینده را باز می‌گذارد.",
+    "extra_example_nl": "Misschien later.",
+    "extra_example_fa": "شاید بعداً.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نه، شاید یک بار دیگر.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_invitations",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Sorry, ik heb geen tijd.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "ببخشید، وقت ندارم.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت با دلیل ساده استفاده می‌شود.",
+    "extra_example_nl": "Ik kan vandaag niet.",
+    "extra_example_fa": "امروز نمی‌توانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ببخشید، وقت ندارم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_invitations",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Dat lukt me niet.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "برایم ممکن نیست / نمی‌شود.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت یا درخواست وقتی انجام آن ممکن نیست استفاده می‌شود.",
+    "extra_example_nl": "Dat gaat niet.",
+    "extra_example_fa": "این امکان ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "برایم ممکن نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_invitations",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik kom liever niet.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "ترجیح می‌دهم نیایم.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت به شکل نسبتاً مستقیم استفاده می‌شود.",
+    "extra_example_nl": "Liever niet.",
+    "extra_example_fa": "ترجیح می‌دهم نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ترجیح می‌دهم نیایم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_invitations",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik kan vandaag niet.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "امروز نمی‌توانم.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت یا برنامه مربوط به امروز استفاده می‌شود.",
+    "extra_example_nl": "Vandaag lukt het niet.",
+    "extra_example_fa": "امروز نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "امروز نمی‌توانم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_invitations",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Deze keer niet.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "این بار نه.",
+    "usage_note_fa": "این جمله برای رد کردن کوتاه و ساده یک دعوت در همین نوبت استفاده می‌شود.",
+    "extra_example_nl": "Misschien een andere keer.",
+    "extra_example_fa": "شاید یک بار دیگر.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این بار نه.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_offers",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Ja, graag.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "بله، لطفاً / با میل.",
+    "usage_note_fa": "این جمله در context پیشنهاد یا تعارف برای قبول کردن به معنی «بله، لطفاً» استفاده می‌شود.",
+    "extra_example_nl": "Graag, dank je.",
+    "extra_example_fa": "با میل، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، لطفاً.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_offers",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ja, dat wil ik graag.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "بله، این را با میل می‌خواهم.",
+    "usage_note_fa": "این جمله برای قبول کردن یک پیشنهاد یا کمک استفاده می‌شود.",
+    "extra_example_nl": "Ja, alsjeblieft.",
+    "extra_example_fa": "بله، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، این را با میل می‌خواهم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_offers",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Dat is goed.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "خوب است / قبول است.",
+    "usage_note_fa": "این جمله برای قبول کردن پیشنهاد ساده استفاده می‌شود.",
+    "extra_example_nl": "Ja, prima.",
+    "extra_example_fa": "بله، خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "خوب است، قبول است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_offers",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Graag, dank je.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "با میل، ممنون.",
+    "usage_note_fa": "این جمله برای قبول کردن تعارف همراه با تشکر استفاده می‌شود.",
+    "extra_example_nl": "Ja, graag.",
+    "extra_example_fa": "بله، با میل.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "با میل، ممنون.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_offers",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Ja, lekker.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "بله، خوشمزه است / بله، می‌خواهم.",
+    "usage_note_fa": "این جمله معمولاً برای قبول کردن خوراکی یا نوشیدنی به شکل دوستانه استفاده می‌شود.",
+    "extra_example_nl": "Ik neem graag koffie.",
+    "extra_example_fa": "با میل قهوه می‌خورم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، خوشم می‌آید و می‌خواهم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_offers",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Ja, prima.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "بله، خوب است.",
+    "usage_note_fa": "این جمله برای قبول کردن پیشنهاد به شکل کوتاه و مثبت استفاده می‌شود.",
+    "extra_example_nl": "Dat is goed.",
+    "extra_example_fa": "خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، خوب است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_offers",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat zou fijn zijn.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "این خیلی خوب می‌شود.",
+    "usage_note_fa": "این جمله برای قبول کردن کمک یا پیشنهاد به شکل مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Ja, dat helpt.",
+    "extra_example_fa": "بله، این کمک می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این خیلی خوب می‌شود.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_offers",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Ja, alsjeblieft.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "بله، لطفاً.",
+    "usage_note_fa": "این جمله برای قبول کردن پیشنهاد یا تعارف مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Graag, dank je.",
+    "extra_example_fa": "با میل، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، لطفاً.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_offers",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik neem graag koffie.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "با میل قهوه می‌گیرم / می‌خورم.",
+    "usage_note_fa": "این جمله برای قبول کردن نوشیدنی یا سفارش استفاده می‌شود.",
+    "extra_example_nl": "Ja, lekker.",
+    "extra_example_fa": "بله، خوب و خوشمزه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "با میل قهوه می‌خواهم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "accepting_offers",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ja, dat helpt.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "بله، این کمک می‌کند.",
+    "usage_note_fa": "این جمله برای قبول کردن کمک یا پیشنهاد مفید استفاده می‌شود.",
+    "extra_example_nl": "Dat zou fijn zijn.",
+    "extra_example_fa": "این خوب می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، این کمک می‌کند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_offers",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Nee, dank je.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "نه، ممنون.",
+    "usage_note_fa": "این جمله برای رد کردن مؤدبانه پیشنهاد یا تعارف استفاده می‌شود.",
+    "extra_example_nl": "Nee, bedankt.",
+    "extra_example_fa": "نه، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نه، ممنون.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_offers",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Nee, bedankt.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "نه، ممنون.",
+    "usage_note_fa": "این جمله برای رد کردن پیشنهاد یا تعارف به شکل مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Dank je, maar nee.",
+    "extra_example_fa": "ممنون، ولی نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، لطفاً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "نه، ممنون.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_offers",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Nee hoor, dank je.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "نه، ممنون.",
+    "usage_note_fa": "این جمله برای رد کردن مؤدبانه پیشنهاد یا تعارف استفاده می‌شود.",
+    "extra_example_nl": "Dat hoeft niet.",
+    "extra_example_fa": "لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، ممنون.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "حتماً می‌آیم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_offers",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat hoeft niet.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "لازم نیست.",
+    "usage_note_fa": "این جمله برای رد کردن کمک یا پیشنهاد به معنی «لازم نیست» استفاده می‌شود.",
+    "extra_example_nl": "Nee, dat is niet nodig.",
+    "extra_example_fa": "نه، لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی دقیق جمله هلندی را نشان نمی‌دهد و با نوع رد کردن جمله فرق دارد."
+      },
+      {
+        "key": "B",
+        "text_fa": "لازم نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_offers",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik hoef niets.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "چیزی لازم ندارم / چیزی نمی‌خواهم.",
+    "usage_note_fa": "این جمله برای رد کردن پیشنهاد خوراکی، نوشیدنی یا کمک استفاده می‌شود.",
+    "extra_example_nl": "Ik neem liever niets.",
+    "extra_example_fa": "ترجیح می‌دهم چیزی نگیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، لطفاً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "چیزی لازم ندارم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی دقیق جمله هلندی را نشان نمی‌دهد و با نوع رد کردن جمله فرق دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_offers",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik wil liever niet.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "ترجیح می‌دهم نخواهم / نه.",
+    "usage_note_fa": "این جمله برای رد کردن پیشنهاد به شکل نسبتاً نرم استفاده می‌شود.",
+    "extra_example_nl": "Liever niet.",
+    "extra_example_fa": "ترجیح می‌دهم نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_offers",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Nee, ik heb genoeg.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "نه، کافی است.",
+    "usage_note_fa": "این جمله برای رد کردن تعارف وقتی دیگر چیزی نمی‌خواهی استفاده می‌شود.",
+    "extra_example_nl": "Ik hoef niets.",
+    "extra_example_fa": "چیزی نمی‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، کافی است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_offers",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Nee, dat is niet nodig.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "نه، لازم نیست.",
+    "usage_note_fa": "این جمله برای رد کردن کمک یا پیشنهاد به شکل مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Dat hoeft niet.",
+    "extra_example_fa": "لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، لطفاً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "نه، لازم نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_offers",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dank je, maar nee.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "ممنون، ولی نه.",
+    "usage_note_fa": "این جمله برای رد کردن مؤدبانه پیشنهاد همراه با تشکر استفاده می‌شود.",
+    "extra_example_nl": "Nee, bedankt.",
+    "extra_example_fa": "نه، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ممنون، ولی نه.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "refusing_offers",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik neem liever niets.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "ترجیح می‌دهم چیزی نگیرم.",
+    "usage_note_fa": "این جمله برای رد کردن تعارف خوراکی یا نوشیدنی استفاده می‌شود.",
+    "extra_example_nl": "Ik hoef niets.",
+    "extra_example_fa": "چیزی لازم ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، لطفاً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم چیزی نگیرم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "agreeing_with_plans",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Dat is goed.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "خوب است / قبول است.",
+    "usage_note_fa": "این جمله برای موافقت با برنامه، پیشنهاد یا قرار استفاده می‌شود.",
+    "extra_example_nl": "Prima, dat doen we.",
+    "extra_example_fa": "خوبه، همین کار را می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "خوب است، قبول است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "agreeing_with_plans",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Prima.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "خوبه / باشه.",
+    "usage_note_fa": "این پاسخ کوتاه برای موافقت با برنامه یا پیشنهاد استفاده می‌شود.",
+    "extra_example_nl": "Dat is prima.",
+    "extra_example_fa": "این خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "خوبه، باشه.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "agreeing_with_plans",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Dat kan.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "این ممکن است / می‌شود.",
+    "usage_note_fa": "این جمله برای موافقت با امکان انجام یک برنامه استفاده می‌شود.",
+    "extra_example_nl": "Voor mij is dat goed.",
+    "extra_example_fa": "برای من خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این می‌شود.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "agreeing_with_plans",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat past mij.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "این برای من مناسب است.",
+    "usage_note_fa": "این جمله برای موافقت با زمان یا برنامه پیشنهادی استفاده می‌شود.",
+    "extra_example_nl": "Ja, dat past mij.",
+    "extra_example_fa": "بله، برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "agreeing_with_plans",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Dat is prima.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "این خوب است.",
+    "usage_note_fa": "این جمله برای موافقت ساده و مثبت استفاده می‌شود.",
+    "extra_example_nl": "Dat is goed.",
+    "extra_example_fa": "خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این خوب است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "agreeing_with_plans",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Goed idee.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "ایده خوبی است.",
+    "usage_note_fa": "این جمله برای موافقت با یک پیشنهاد یا برنامه استفاده می‌شود.",
+    "extra_example_nl": "Ja, laten we dat doen.",
+    "extra_example_fa": "بله، بیایید همین کار را بکنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "agreeing_with_plans",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik vind het goed.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "به نظرم خوب است / موافقم.",
+    "usage_note_fa": "این جمله برای گفتن موافقت شخصی با برنامه یا پیشنهاد استفاده می‌شود.",
+    "extra_example_nl": "Dat spreken we af.",
+    "extra_example_fa": "همین را قرار می‌گذاریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "به نظرم خوب است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "agreeing_with_plans",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Voor mij is dat goed.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "برای من خوب است / برای من قبول است.",
+    "usage_note_fa": "این جمله برای موافقت با یک برنامه یا زمان استفاده می‌شود؛ یعنی برای من خوب یا قابل قبول است.",
+    "extra_example_nl": "Dat past mij.",
+    "extra_example_fa": "برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "برای من خوب است / برای من قبول است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "agreeing_with_plans",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ja, laten we dat doen.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "بله، بیایید همین کار را انجام دهیم.",
+    "usage_note_fa": "این جمله برای موافقت فعال با یک برنامه استفاده می‌شود.",
+    "extra_example_nl": "Goed idee.",
+    "extra_example_fa": "ایده خوبی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، همین کار را انجام دهیم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "agreeing_with_plans",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Dat spreken we af.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "همین را قرار می‌گذاریم.",
+    "usage_note_fa": "این جمله برای تأیید و نهایی کردن یک قرار یا برنامه استفاده می‌شود.",
+    "extra_example_nl": "Voor mij is dat goed.",
+    "extra_example_fa": "برای من خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "همین را قرار می‌گذاریم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "disagreeing_or_not_accepting",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat past mij niet.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "این برای من مناسب نیست.",
+    "usage_note_fa": "این جمله برای موافقت نکردن با زمان یا برنامه پیشنهادی استفاده می‌شود.",
+    "extra_example_nl": "Dat kan ik niet doen.",
+    "extra_example_fa": "نمی‌توانم این کار را انجام دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این برای من مناسب نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "disagreeing_or_not_accepting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat kan ik niet doen.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "نمی‌توانم این کار را انجام دهم.",
+    "usage_note_fa": "این جمله برای نپذیرفتن یک درخواست یا پیشنهاد استفاده می‌شود.",
+    "extra_example_nl": "Dat lukt niet.",
+    "extra_example_fa": "نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "نمی‌توانم این کار را انجام دهم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "disagreeing_or_not_accepting",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat lukt niet.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "این ممکن نیست / نمی‌شود.",
+    "usage_note_fa": "این جمله برای قبول نکردن وقتی انجام چیزی ممکن نیست استفاده می‌شود.",
+    "extra_example_nl": "Dat gaat niet.",
+    "extra_example_fa": "نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این نمی‌شود.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "disagreeing_or_not_accepting",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik vind dat niet goed.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "به نظرم این خوب نیست.",
+    "usage_note_fa": "این جمله برای مخالفت یا قبول نکردن یک پیشنهاد استفاده می‌شود.",
+    "extra_example_nl": "Dat is geen goed idee.",
+    "extra_example_fa": "این ایده خوبی نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "به نظرم این خوب نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "disagreeing_or_not_accepting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik ben het niet eens.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "من موافق نیستم.",
+    "usage_note_fa": "این جمله برای بیان مخالفت مستقیم اما ساده استفاده می‌شود.",
+    "extra_example_nl": "Ik vind dat niet goed.",
+    "extra_example_fa": "به نظرم خوب نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "disagreeing_or_not_accepting",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat wil ik niet.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "این را نمی‌خواهم.",
+    "usage_note_fa": "این جمله برای نپذیرفتن یا رد کردن مستقیم استفاده می‌شود.",
+    "extra_example_nl": "Liever niet.",
+    "extra_example_fa": "ترجیح می‌دهم نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این را نمی‌خواهم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "disagreeing_or_not_accepting",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat is geen goed idee.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "این ایده خوبی نیست.",
+    "usage_note_fa": "این جمله برای مخالفت با یک برنامه یا پیشنهاد استفاده می‌شود.",
+    "extra_example_nl": "Ik ben het niet eens.",
+    "extra_example_fa": "من موافق نیستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این ایده خوبی نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "disagreeing_or_not_accepting",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Liever niet.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "ترجیح می‌دهم نه.",
+    "usage_note_fa": "این جمله برای رد کردن نرم و مؤدبانه استفاده می‌شود؛ یعنی ترجیح می‌دهم نه.",
+    "extra_example_nl": "Dat wil ik niet.",
+    "extra_example_fa": "این را نمی‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "disagreeing_or_not_accepting",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat gaat niet.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "این نمی‌شود / امکان ندارد.",
+    "usage_note_fa": "این جمله برای نپذیرفتن به دلیل امکان‌پذیر نبودن استفاده می‌شود.",
+    "extra_example_nl": "Dat lukt niet.",
+    "extra_example_fa": "نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این نمی‌شود.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "disagreeing_or_not_accepting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Nee, dat kan niet.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "نه، این ممکن نیست.",
+    "usage_note_fa": "این جمله برای رد کردن واضح یک درخواست یا پیشنهاد استفاده می‌شود.",
+    "extra_example_nl": "Dat kan ik niet doen.",
+    "extra_example_fa": "نمی‌توانم این کار را انجام دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "نه، این ممکن نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "polite_refusal_with_reason",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Sorry, ik heb geen tijd.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "ببخشید، وقت ندارم.",
+    "usage_note_fa": "این جمله برای رد کردن مؤدبانه همراه با دلیل استفاده می‌شود.",
+    "extra_example_nl": "Vandaag lukt het niet.",
+    "extra_example_fa": "امروز نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ببخشید، وقت ندارم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله رد کردن مؤدبانه همراه با دلیل را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی دقیق جمله هلندی را نشان نمی‌دهد و با نوع رد کردن جمله فرق دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "polite_refusal_with_reason",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Helaas, ik moet werken.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "متأسفانه باید کار کنم.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت همراه با دلیل کاری استفاده می‌شود.",
+    "extra_example_nl": "Sorry, ik ben druk.",
+    "extra_example_fa": "ببخشید، سرم شلوغ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "متأسفانه باید کار کنم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله رد کردن مؤدبانه همراه با دلیل را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "polite_refusal_with_reason",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Sorry, ik ben ziek.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "ببخشید، مریض هستم.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت یا برنامه به دلیل بیماری استفاده می‌شود.",
+    "extra_example_nl": "Ik kan niet mee, want ik ben moe.",
+    "extra_example_fa": "نمی‌توانم همراه بیایم، چون خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ببخشید، مریض هستم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله رد کردن مؤدبانه همراه با دلیل را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "polite_refusal_with_reason",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik kan niet, want ik heb een afspraak.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "نمی‌توانم، چون قرار دارم.",
+    "usage_note_fa": "این جمله رد کردن مؤدبانه همراه با دلیل مشخص است.",
+    "extra_example_nl": "Helaas, ik heb andere plannen.",
+    "extra_example_fa": "متأسفانه برنامه‌های دیگری دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی دقیق جمله هلندی را نشان نمی‌دهد و با نوع رد کردن جمله فرق دارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "نمی‌توانم، چون قرار دارم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله رد کردن مؤدبانه همراه با دلیل را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "polite_refusal_with_reason",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Vandaag lukt het niet.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "امروز نمی‌شود.",
+    "usage_note_fa": "این جمله برای رد کردن برنامه مربوط به امروز استفاده می‌شود.",
+    "extra_example_nl": "Ik kan vandaag niet.",
+    "extra_example_fa": "امروز نمی‌توانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "امروز نمی‌شود.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله رد کردن مؤدبانه همراه با دلیل را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "polite_refusal_with_reason",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Sorry, ik ben druk.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "ببخشید، سرم شلوغ است.",
+    "usage_note_fa": "این جمله برای رد کردن مؤدبانه به دلیل مشغول بودن استفاده می‌شود.",
+    "extra_example_nl": "Sorry, ik heb geen tijd.",
+    "extra_example_fa": "ببخشید، وقت ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ببخشید، سرم شلوغ است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله رد کردن مؤدبانه همراه با دلیل را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "polite_refusal_with_reason",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik kan niet komen, want ik moet naar huis.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "نمی‌توانم بیایم، چون باید به خانه بروم.",
+    "usage_note_fa": "این جمله دعوت را رد می‌کند و دلیل رفتن به خانه را می‌گوید.",
+    "extra_example_nl": "Sorry, ik moet vroeg opstaan.",
+    "extra_example_fa": "ببخشید، باید زود بیدار شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی دقیق جمله هلندی را نشان نمی‌دهد و با نوع رد کردن جمله فرق دارد."
+      },
+      {
+        "key": "B",
+        "text_fa": "این ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نمی‌توانم بیایم، چون باید به خانه بروم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله رد کردن مؤدبانه همراه با دلیل را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "polite_refusal_with_reason",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Helaas, ik heb andere plannen.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "متأسفانه برنامه‌های دیگری دارم.",
+    "usage_note_fa": "این جمله برای رد کردن مؤدبانه با دلیل استفاده می‌شود.",
+    "extra_example_nl": "Ik kan niet, want ik heb een afspraak.",
+    "extra_example_fa": "نمی‌توانم، چون قرار دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "متأسفانه برنامه‌های دیگری دارم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله رد کردن مؤدبانه همراه با دلیل را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "polite_refusal_with_reason",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Sorry, ik moet vroeg opstaan.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "ببخشید، باید زود بیدار شوم.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت با دلیل مربوط به روز بعد استفاده می‌شود.",
+    "extra_example_nl": "Helaas, ik moet werken.",
+    "extra_example_fa": "متأسفانه باید کار کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ببخشید، باید زود بیدار شوم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله رد کردن مؤدبانه همراه با دلیل را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "polite_refusal_with_reason",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik kan niet mee, want ik ben moe.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "نمی‌توانم همراه بیایم، چون خسته‌ام.",
+    "usage_note_fa": "این جمله برای رد کردن همراهی کردن با دلیل خستگی استفاده می‌شود.",
+    "extra_example_nl": "Sorry, ik ben ziek.",
+    "extra_example_fa": "ببخشید، مریض هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "نمی‌توانم همراه بیایم، چون خسته‌ام.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله رد کردن مؤدبانه همراه با دلیل را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "maybe_or_uncertain_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Misschien.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "شاید.",
+    "usage_note_fa": "این پاسخ نشان می‌دهد که شخص هنوز قطعی قبول یا رد نکرده است.",
+    "extra_example_nl": "Misschien later.",
+    "extra_example_fa": "شاید بعداً.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      },
+      {
+        "key": "B",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "شاید.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "maybe_or_uncertain_response",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Misschien later.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "شاید بعداً.",
+    "usage_note_fa": "این جمله برای پاسخ نامطمئن یا عقب انداختن تصمیم استفاده می‌شود.",
+    "extra_example_nl": "Ik weet het nog niet.",
+    "extra_example_fa": "هنوز نمی‌دانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "maybe_or_uncertain_response",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik weet het nog niet.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "هنوز نمی‌دانم.",
+    "usage_note_fa": "این جمله برای گفتن عدم قطعیت و تصمیم نگرفتن استفاده می‌شود.",
+    "extra_example_nl": "Ik laat het je weten.",
+    "extra_example_fa": "به تو خبر می‌دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "maybe_or_uncertain_response",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik denk erover na.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "درباره‌اش فکر می‌کنم.",
+    "usage_note_fa": "این جمله برای پاسخ غیرقطعی و نیاز به زمان برای تصمیم استفاده می‌شود.",
+    "extra_example_nl": "Ik moet even kijken.",
+    "extra_example_fa": "باید کمی نگاه کنم / بررسی کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "درباره‌اش فکر می‌کنم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "maybe_or_uncertain_response",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Misschien een andere keer.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "شاید یک بار دیگر.",
+    "usage_note_fa": "این جمله معمولاً رد قطعی نیست و امکان آینده را باز می‌گذارد.",
+    "extra_example_nl": "Misschien later.",
+    "extra_example_fa": "شاید بعداً.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "شاید یک بار دیگر.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "maybe_or_uncertain_response",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik moet even kijken.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "باید کمی بررسی کنم.",
+    "usage_note_fa": "این جمله یعنی شخص هنوز مطمئن نیست و باید وضعیت را چک کند.",
+    "extra_example_nl": "Ik kijk even in mijn agenda.",
+    "extra_example_fa": "کمی در تقویمم نگاه می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "باید کمی بررسی کنم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "maybe_or_uncertain_response",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Dat weet ik nog niet.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "این را هنوز نمی‌دانم.",
+    "usage_note_fa": "این جمله برای بیان عدم قطعیت درباره تصمیم استفاده می‌شود.",
+    "extra_example_nl": "Ik weet het nog niet.",
+    "extra_example_fa": "هنوز نمی‌دانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این را هنوز نمی‌دانم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "maybe_or_uncertain_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik laat het je weten.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "به تو خبر می‌دهم.",
+    "usage_note_fa": "این جمله برای پاسخ نامطمئن استفاده می‌شود؛ یعنی بعداً خبر می‌دهم.",
+    "extra_example_nl": "Misschien kan ik komen.",
+    "extra_example_fa": "شاید بتوانم بیایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      },
+      {
+        "key": "B",
+        "text_fa": "به تو خبر می‌دهم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، حتماً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "maybe_or_uncertain_response",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Misschien kan ik komen.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "شاید بتوانم بیایم.",
+    "usage_note_fa": "این جمله پاسخ نامطمئن است؛ نه قبول قطعی است و نه رد قطعی.",
+    "extra_example_nl": "Ik laat het je weten.",
+    "extra_example_fa": "به تو خبر می‌دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "شاید بتوانم بیایم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "maybe_or_uncertain_response",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik kijk even in mijn agenda.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "کمی در تقویمم نگاه می‌کنم.",
+    "usage_note_fa": "این جمله برای پاسخ نامطمئن درباره زمان یا قرار استفاده می‌شود.",
+    "extra_example_nl": "Ik moet even kijken.",
+    "extra_example_fa": "باید کمی بررسی کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      },
+      {
+        "key": "B",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "کمی در تقویمم نگاه می‌کنم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "short_daily_responses",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Ja hoor.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "بله، حتماً.",
+    "usage_note_fa": "این پاسخ کوتاه و دوستانه برای قبول کردن استفاده می‌شود.",
+    "extra_example_nl": "Natuurlijk.",
+    "extra_example_fa": "البته.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بله، حتماً.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "short_daily_responses",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Nee hoor.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "نه، لازم نیست / نه، ممنون.",
+    "usage_note_fa": "این پاسخ کوتاه و دوستانه برای رد کردن استفاده می‌شود.",
+    "extra_example_nl": "Dat hoeft niet.",
+    "extra_example_fa": "لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "نه، لازم نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "short_daily_responses",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Prima.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "خوبه / باشه.",
+    "usage_note_fa": "این پاسخ کوتاه برای قبول یا موافقت استفاده می‌شود.",
+    "extra_example_nl": "Dat is goed.",
+    "extra_example_fa": "خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "خوبه، باشه.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "short_daily_responses",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Graag.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "با میل / لطفاً.",
+    "usage_note_fa": "این پاسخ کوتاه برای قبول کردن پیشنهاد یا تعارف استفاده می‌شود.",
+    "extra_example_nl": "Ja, graag.",
+    "extra_example_fa": "بله، با میل.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "با میل، لطفاً.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "short_daily_responses",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Liever niet.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "ترجیح می‌دهم نه.",
+    "usage_note_fa": "این پاسخ کوتاه برای رد کردن نرم استفاده می‌شود.",
+    "extra_example_nl": "Ik wil liever niet.",
+    "extra_example_fa": "ترجیح می‌دهم نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "short_daily_responses",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Geen probleem.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "مشکلی نیست.",
+    "usage_note_fa": "این پاسخ برای قبول یا نشان دادن اینکه مسئله‌ای نیست استفاده می‌شود.",
+    "extra_example_nl": "Dat is goed.",
+    "extra_example_fa": "خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "short_daily_responses",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Dat vind ik goed.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "به نظرم خوب است / قبول است.",
+    "usage_note_fa": "این پاسخ کوتاه برای موافقت و قبول کردن استفاده می‌شود.",
+    "extra_example_nl": "Dat is goed.",
+    "extra_example_fa": "خوبه.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "به نظرم خوب است، قبول است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "short_daily_responses",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Dat hoeft niet.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "لازم نیست.",
+    "usage_note_fa": "این جمله برای رد کردن کوتاه پیشنهاد یا کمک استفاده می‌شود؛ یعنی لازم نیست.",
+    "extra_example_nl": "Nee hoor, dank je.",
+    "extra_example_fa": "نه، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی دقیق جمله هلندی را نشان نمی‌دهد و با نوع رد کردن جمله فرق دارد."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "لازم نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "short_daily_responses",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Natuurlijk.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "البته / حتماً.",
+    "usage_note_fa": "این پاسخ کوتاه برای قبول کردن یا موافقت دوستانه استفاده می‌شود.",
+    "extra_example_nl": "Ja hoor.",
+    "extra_example_fa": "بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "البته، حتماً.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "short_daily_responses",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Helaas niet.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "متأسفانه نه.",
+    "usage_note_fa": "این پاسخ کوتاه برای رد کردن مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Ik kan helaas niet.",
+    "extra_example_fa": "متأسفانه نمی‌توانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این برای من مناسب است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "متأسفانه نه.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "choosing_best_meaning_accept_refuse",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Nee hoor, dank je.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "نه، ممنون.",
+    "usage_note_fa": "این جمله برای رد کردن مؤدبانه پیشنهاد یا تعارف استفاده می‌شود.",
+    "extra_example_nl": "Dank je, maar nee.",
+    "extra_example_fa": "ممنون، ولی نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نه، ممنون.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "choosing_best_meaning_accept_refuse",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Ja hoor, graag.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "بله، حتماً با کمال میل.",
+    "usage_note_fa": "این جمله برای قبول کردن دعوت یا پیشنهاد به شکل دوستانه استفاده می‌شود.",
+    "extra_example_nl": "Graag, dank je.",
+    "extra_example_fa": "با میل، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، حتماً با کمال میل.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "choosing_best_meaning_accept_refuse",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Dat past mij niet.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "این برای من مناسب نیست.",
+    "usage_note_fa": "این جمله برای گفتن اینکه زمان یا برنامه پیشنهادی مناسب نیست استفاده می‌شود.",
+    "extra_example_nl": "Voor mij is dat goed.",
+    "extra_example_fa": "برای من خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این برای من مناسب نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "choosing_best_meaning_accept_refuse",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik laat het je weten.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "به تو خبر می‌دهم.",
+    "usage_note_fa": "این جمله برای پاسخ نامطمئن استفاده می‌شود؛ یعنی بعداً خبر می‌دهم.",
+    "extra_example_nl": "Ik weet het nog niet.",
+    "extra_example_fa": "هنوز نمی‌دانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بعداً به تو خبر می‌دهم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "choosing_best_meaning_accept_refuse",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Sorry, ik kan niet.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "ببخشید، نمی‌توانم.",
+    "usage_note_fa": "این جمله برای رد کردن دعوت یا درخواست به شکل مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Helaas kan ik niet komen.",
+    "extra_example_fa": "متأسفانه نمی‌توانم بیایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "choosing_best_meaning_accept_refuse",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Dat is prima.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "این خوب است / باشه.",
+    "usage_note_fa": "این جمله برای موافقت با برنامه یا پیشنهاد استفاده می‌شود.",
+    "extra_example_nl": "Prima.",
+    "extra_example_fa": "این خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ترجیح می‌دهم نه.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی قبول یا موافقت قطعی را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این خوب است، باشه.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "choosing_best_meaning_accept_refuse",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Nee, dat is niet nodig.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "نه، لازم نیست.",
+    "usage_note_fa": "این جمله برای رد کردن کمک یا پیشنهاد به شکل مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Dat hoeft niet.",
+    "extra_example_fa": "نه، لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، لازم نیست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی دقیق جمله هلندی را نشان نمی‌دهد و با نوع رد کردن جمله فرق دارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "choosing_best_meaning_accept_refuse",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Misschien een andere keer.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "شاید یک بار دیگر.",
+    "usage_note_fa": "این جمله پاسخ نامطمئن یا رد نرم با امکان آینده است.",
+    "extra_example_nl": "Misschien later.",
+    "extra_example_fa": "شاید بعداً.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نه، ممنون.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "شاید یک بار دیگر.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله پاسخ نامطمئن یا تصمیم نگرفته را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی رد کردن قطعی است، اما جمله هلندی فقط حالت نامطمئن را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": false,
+        "feedback_fa": "این معنی قبول یا موافقت قطعی است، اما جمله هلندی حالت نامطمئن دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "choosing_best_meaning_accept_refuse",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Ik ben het niet eens.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "من موافق نیستم.",
+    "usage_note_fa": "این جمله برای مخالفت کردن استفاده می‌شود.",
+    "extra_example_nl": "Ik vind dat niet goed.",
+    "extra_example_fa": "به نظرم خوب نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شاید بعداً.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "هنوز نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی حالت نامطمئن دارد، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن یا نپذیرفتن استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای قبول کردن یا موافقت است، اما جمله هلندی رد کردن یا نپذیرفتن را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "accept_refuse",
+    "subtopic": "choosing_best_meaning_accept_refuse",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Goed idee.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "ایده خوبی است.",
+    "usage_note_fa": "این جمله برای موافقت با یک پیشنهاد یا برنامه استفاده می‌شود.",
+    "extra_example_nl": "Ja, laten we dat doen.",
+    "extra_example_fa": "بله، بیایید همین کار را بکنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من موافق نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_fa": "ببخشید، نمی‌توانم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برای رد کردن یا نپذیرفتن است، اما جمله هلندی قبول کردن یا موافقت را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "ایده خوبی است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن یا موافقت به شکل طبیعی استفاده می‌شود."
+      }
+    ]
+  }
+]

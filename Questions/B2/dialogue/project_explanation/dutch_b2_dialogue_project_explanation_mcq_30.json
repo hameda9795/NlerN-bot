@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: Hoe staat het met het project?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون پروژه هنوز در حال انجام است و طبق برنامه پیش می‌رود، باید از زمان حال استفاده شود تا وضعیتِ فعلی را نشان دهد.",
+    "grammar_rule_fa": "برای توصیفِ وضعیتِ جاری از زمان حال استفاده می‌شود: «We liggen op schema».",
+    "extra_example_nl": "Op dit moment liggen we goed op schema met de bouw.",
+    "extra_example_fa": "در حال حاضر با ساخت‌وساز خوب طبق برنامه پیش می‌رویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We liggen op dit moment goed op schema, alle taken worden op tijd afgerond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زمان حال به‌درستی وضعیتِ جاریِ پروژه را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "We lagen op dit moment goed op schema, alle taken werden op tijd afgerond.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: از گذشته استفاده شده، اما «op dit moment» نشان می‌دهد که باید زمان حال به‌کار برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zorg dat alle taken op tijd worden afgerond!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای یک توضیحِ خنثی، لحنِ دستوری (امری) دارد که در پاسخ به سؤال مدیر مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "We liggen op dit moment flink achter op schema, niets is op tijd afgerond.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکسِ وضعیتِ واقعیِ پروژه می‌دهد؛ در واقع پروژه طبق برنامه پیش می‌رود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: Is de eerste fase al klaar?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون فاز اول قبلاً کامل شده، باید از زمان ماضی (perfectum) استفاده شود تا اتمامِ آن را نشان دهد.",
+    "grammar_rule_fa": "برای عملِ کامل‌شده در گذشته از voltooid tegenwoordige tijd استفاده می‌شود: «De eerste fase is afgerond».",
+    "extra_example_nl": "De eerste fase is vorige week afgerond.",
+    "extra_example_fa": "فاز اول هفته‌ی گذشته به پایان رسیده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, de eerste fase wordt inmiddels afgerond, we beginnen straks aan de tweede fase.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: زمانِ حالِ استمراری استفاده شده، در حالی که «inmiddels» نشان می‌دهد کار قبلاً تمام شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, de eerste fase is inmiddels afgerond, we beginnen nu aan de tweede fase.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زمانِ ماضیِ کامل به‌درستی نشان می‌دهد که فاز اول به پایان رسیده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Begin nu meteen aan de tweede fase!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای پاسخِ توضیحی، به‌صورتِ دستور (امری) بیان شده که مناسبِ لحنِ حرفه‌ای نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, de eerste fase is nog helemaal niet begonnen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکسِ واقعیت می‌دهد؛ در واقع فاز اول تمام شده است، نه اینکه شروع نشده باشد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: Waarom duurt de analyse zo lang?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "فعل درستِ توضیحِ علت، «komt door» (ناشی شدن از) است؛ فعلی مثل «bestaat uit» معنای متفاوتی دارد و در این‌جا مناسب نیست.",
+    "grammar_rule_fa": "برای بیانِ علت از فعلِ درست «komen door» استفاده می‌شود، نه فعلِ مشابه اما نادرست.",
+    "extra_example_nl": "De vertraging komt door een probleem met de gegevens.",
+    "extra_example_fa": "این تأخیر ناشی از مشکلی در داده‌هاست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat bestaat doordat de dataset veel groter is dan verwacht.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعلِ اشتباه است: «bestaan» به‌جای «komen» استفاده شده، در حالی که برای بیانِ علت فعلِ درست «komen door» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zorg dat de analyse morgen af is!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثی درباره‌ی علت، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat komt doordat de dataset veel groter is dan verwacht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ «komen door» به‌درستی علتِ طولانی‌شدنِ کار را بیان می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat komt doordat de dataset veel kleiner is dan verwacht.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع دیتاست بزرگ‌تر است، نه کوچک‌تر، و همین باعثِ طولانی‌شدنِ کار شده."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: Wie neemt het project van jou over volgende maand?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون فاعل «het team» است، فعل باید با آن مطابقت داشته باشد (mvt سوم شخص مفرد)، نه با فرمی که برای «wij» به‌کار می‌رود.",
+    "grammar_rule_fa": "مطابقتِ فاعل و فعل: «het team neemt over»، نه «het team nemen over».",
+    "extra_example_nl": "Het team neemt volgende week de nieuwe taken over.",
+    "extra_example_fa": "تیم هفته‌ی آینده وظایفِ جدید را تحویل می‌گیرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het team van Sanne nemen het project volgende maand over.",
+        "is_correct": false,
+        "feedback_fa": "❌ خطای صرفِ فعل/شخص است: فعل به‌شکلِ جمع صرف شده، در حالی که فاعل «het team» مفرد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neem het project volgende maand maar gewoon over!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای پاسخِ توضیحی، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niemand neemt het project volgende maand over, ik blijf het altijd zelf doen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکسِ سؤال می‌دهد؛ در واقع تیمِ سانه پروژه را تحویل می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het team van Sanne neemt het project volgende maand over.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعل با فاعلِ سوم‌شخص مفرد «het team» مطابقت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: Waarom is de deadline verschoven?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون تأخیر واقعاً رخ داده، از زمانِ ماضیِ کامل استفاده می‌شود؛ استفاده از زمانِ حال در اینجا نادرست است.",
+    "grammar_rule_fa": "برای رویدادِ گذشته که نتیجه‌ی آن هنوز مهم است، از voltooid tegenwoordige tijd استفاده می‌شود: «is vertraagd».",
+    "extra_example_nl": "De levering is vertraagd door een tekort aan materialen.",
+    "extra_example_fa": "تحویل به دلیلِ کمبودِ مواد به تأخیر افتاده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De deadline is verschoven, omdat de leverancier vertraging heeft opgelopen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زمانِ ماضیِ کامل به‌درستی نشان می‌دهد که تأخیرِ تأمین‌کننده رخ داده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De deadline verschuift, omdat de leverancier vertraging oploopt.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: از زمانِ حال استفاده شده، در حالی که این تأخیر قبلاً اتفاق افتاده و باید زمانِ ماضیِ کامل به‌کار رود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Accepteer gewoon de nieuwe deadline!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ علت، به‌صورتِ دستور (امری) بیان شده که برای پاسخ به مشتری مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De deadline is juist vervroegd, omdat de leverancier veel sneller werkt dan verwacht.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع ددلاین به تعویق افتاده، نه جلو افتاده."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: Kun je uitleggen wat de resultaten van de test betekenen?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "فعلِ درست برای توضیحِ نتیجه، «tonen» یا «laten zien» است؛ فعلِ مشابه اما نادرست مثلِ «tonen aan» با معنایی متفاوت گیج‌کننده است.",
+    "grammar_rule_fa": "برای توصیفِ نتیجه از فعلِ درست استفاده می‌شود: «De resultaten laten zien dat...».",
+    "extra_example_nl": "De cijfers laten zien dat de klanttevredenheid is gestegen.",
+    "extra_example_fa": "ارقام نشان می‌دهند که رضایتِ مشتری افزایش یافته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De resultaten bewijzen zich dat de nieuwe methode beter werkt dan de oude.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعلِ اشتباه است: «bewijzen zich» ساختارِ نادرستی است، در حالی که فعلِ صحیح «laten zien» یا «bewijzen» بدونِ «zich» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De resultaten laten zien dat de nieuwe methode beter werkt dan de oude.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ «laten zien» به‌درستی نتیجه‌ی تست را توضیح می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gebruik vanaf nu alleen de nieuwe methode!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثی درباره‌ی نتایج، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De resultaten laten zien dat de oude methode veel beter werkt dan de nieuwe.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ طبق نتایج، روشِ جدید بهتر است، نه روشِ قدیمی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: Hebben jullie de scope van het project al aangepast?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون فاعل «wij» است، فعل باید با آن مطابقت داشته باشد؛ استفاده از فرمِ سوم‌شخص مفرد برای «wij» نادرست است.",
+    "grammar_rule_fa": "مطابقتِ فاعل و فعل: «wij hebben aangepast»، نه «wij heeft aangepast».",
+    "extra_example_nl": "Wij hebben de planning deze week nog aangepast.",
+    "extra_example_fa": "ما این هفته برنامه‌ریزی را دوباره تنظیم کردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, wij heeft de scope aangepast na overleg met de klant.",
+        "is_correct": false,
+        "feedback_fa": "❌ خطای صرفِ فعل/شخص است: فعل به‌شکلِ سوم‌شخص مفرد صرف شده، در حالی که فاعل «wij» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Pas de scope onmiddellijk aan!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای پاسخِ توضیحی، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, wij hebben de scope aangepast na overleg met de klant.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعل با فاعلِ «wij» به‌درستی مطابقت دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, de scope blijft voor altijd precies hetzelfde, dat passen we nooit aan.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع محدوده‌ی پروژه تغییر کرده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: Wat zijn de volgende stappen na deze fase?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "نتیجه‌ی منطقیِ توضیح باید با گامِ بعدیِ واقعی مرتبط باشد؛ ذکرِ گامی که ربطی به وضعیتِ فعلی ندارد، نتیجه‌گیریِ نادرستی است.",
+    "grammar_rule_fa": "برای بیانِ گامِ بعدی از عبارتِ منطقی استفاده می‌شود: «Daarna gaan we testen», نه نتیجه‌ای بی‌ربط.",
+    "extra_example_nl": "Na de bouwfase gaan we het systeem uitgebreid testen.",
+    "extra_example_fa": "بعد از فاز ساخت، سیستم را به‌طور گسترده آزمایش می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Na deze fase gingen we het systeem testen en de eerste feedback verzamelen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: برای گامِ آینده باید از زمانِ حال یا آینده استفاده شود، نه ماضی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Test het systeem meteen en verzamel de feedback!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ گامِ بعدی، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Na deze fase stoppen we helemaal met het project, want het is niet meer nodig.",
+        "is_correct": false,
+        "feedback_fa": "❌ این نتیجه از توضیح منطقاً استنتاج نمی‌شود؛ سؤال درباره‌ی گامِ بعدی است، نه توقفِ پروژه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Na deze fase gaan we het systeem testen en de eerste feedback verzamelen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ این گام به‌طور منطقی از پایانِ این فاز نتیجه می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: Kun je de belangrijkste risico's van het project noemen?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "فعلِ درست برای اشاره به ریسک، «vormen» (تشکیل دادن/بودن) است؛ فعلِ مشابه اما نادرست معنای دیگری دارد که در این بافت گمراه‌کننده است.",
+    "grammar_rule_fa": "برای معرفیِ ریسک از فعلِ درست استفاده می‌شود: «Het grootste risico is...».",
+    "extra_example_nl": "Het grootste risico is dat de leverancier niet op tijd levert.",
+    "extra_example_fa": "بزرگ‌ترین ریسک این است که تأمین‌کننده به‌موقع تحویل ندهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het grootste risico is dat we afhankelijk zijn van één externe partij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ «zijn» به‌درستی وابستگی به یک طرفِ خارجی را به‌عنوانِ ریسک بیان می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het grootste risico wordt dat we afhankelijk worden van één externe partij.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعلِ اشتباه است: «worden» به‌جای «zijn» استفاده شده، در حالی که در این‌جا وضعیتِ فعلی (نه شدن) توصیف می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zorg dat we niet afhankelijk worden van één externe partij!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثی درباره‌ی ریسک، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er is helemaal geen risico, we zijn van niemand afhankelijk.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع وابستگی به یک طرفِ خارجی مهم‌ترین ریسک است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: Hoe verliep de samenwerking met het externe bureau?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون سؤال درباره‌ی همکاریِ گذشته است (verliep = ماضی)، پاسخ نیز باید در زمانِ ماضی باشد، نه زمانِ حال.",
+    "grammar_rule_fa": "هماهنگیِ زمانِ فعل با سؤال: اگر سؤال با «verliep» (ماضی) باشد، پاسخ هم باید ماضی باشد: «verliep goed».",
+    "extra_example_nl": "De samenwerking met het bureau verliep vorig jaar erg soepel.",
+    "extra_example_fa": "همکاری با آژانس پارسال بسیار روان پیش رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De samenwerking verloopt goed, al hebben we in het begin wat afstemmingsproblemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: زمانِ حال استفاده شده، در حالی که سؤال درباره‌ی همکاریِ گذشته (ماضی) بود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De samenwerking verliep goed, al hadden we in het begin wat afstemmingsproblemen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زمانِ ماضی با سؤال هماهنگ است و به‌درستی همکاریِ گذشته را توصیف می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Werk voortaan beter samen met het bureau!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثی، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De samenwerking verliep vreselijk slecht, we hebben helemaal niets bereikt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس یا اغراق‌شده می‌دهد؛ در واقع همکاری با وجودِ چالش‌های اولیه، خوب پیش رفت."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: Waarom is het budget overschreden terwijl de planning niet is veranderd?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون افزایشِ هزینه واقعاً اتفاق افتاده، باید از حالتِ مجهولِ کامل (voltooid passief) استفاده شود؛ استفاده از حالتِ معلوم و زمانِ حال نادرست است.",
+    "grammar_rule_fa": "حالتِ مجهولِ کامل برای رویدادی که تمام شده: «zijn veroorzaakt door».",
+    "extra_example_nl": "De extra kosten zijn veroorzaakt door de prijsstijging van materialen.",
+    "extra_example_fa": "هزینه‌های اضافی به دلیلِ افزایشِ قیمتِ مواد ایجاد شده‌اند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De overschrijding veroorzaakt onvoorziene technische problemen, terwijl de planning ongewijzigd bleef.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل و ساختار اشتباه است: فعل به‌صورتِ معلوم و حالِ ساده به‌کار رفته، در حالی که باید حالتِ مجهولِ کامل باشد تا علت را درست نشان دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zoek onmiddellijk uit wie hiervoor verantwoordelijk is!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ علت، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De overschrijding is veroorzaakt door onvoorziene technische problemen, terwijl de planning ongewijzigd bleef.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ حالتِ مجهولِ کامل به‌درستی نشان می‌دهد که مشکلاتِ فنیِ پیش‌بینی‌نشده باعثِ این افزایش شده‌اند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het budget is juist flink onder de verwachting gebleven dankzij een lager verbruik.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع بودجه از حد تجاوز کرده، نه اینکه کمتر از انتظار مصرف شده باشد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: Kunt u uitleggen hoe de nieuwe werkwijze precies functioneert, zodat ons team het ook begrijpt?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "برای توضیحِ فرایند به فردی غیرمتخصص، فعلِ درست «werkt» (کار می‌کند) مناسب است؛ فعلِ مشابه اما نادرست معنای متفاوتی القا می‌کند.",
+    "grammar_rule_fa": "برای توضیحِ عملکرد از فعلِ درست استفاده می‌شود: «Het systeem werkt zo dat...».",
+    "extra_example_nl": "Het systeem werkt zo dat elke aanvraag automatisch wordt gecontroleerd.",
+    "extra_example_fa": "سیستم به‌گونه‌ای کار می‌کند که هر درخواست به‌طور خودکار بررسی می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het systeem loopt zo dat elke stap automatisch wordt gecontroleerd voordat die wordt goedgekeurd.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعلِ اشتباه است: «loopt» به‌جای «werkt» استفاده شده و در این بافت طبیعی نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Controleer voortaan zelf elke stap voordat u iets goedkeurt!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ عملکردِ سیستم، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het systeem werkt zo dat niets ooit automatisch wordt gecontroleerd of goedgekeurd.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع بررسی و تأیید به‌طور خودکار انجام می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het systeem werkt zo dat elke stap automatisch wordt gecontroleerd voordat die wordt goedgekeurd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ «werkt» به‌درستی طرزِ عملکردِ سیستم را برای فردِ غیرمتخصص توضیح می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: Wat heeft het team geleerd van de vertraging in de vorige sprint?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون فاعل «het team» است، فعل باید با آن مطابقت داشته باشد (مفرد)، نه با فرمی که برای «wij» یا جمع به‌کار می‌رود.",
+    "grammar_rule_fa": "مطابقتِ فاعل و فعل: «het team heeft geleerd»، نه «het team hebben geleerd».",
+    "extra_example_nl": "Het team heeft geleerd om risico's eerder te signaleren.",
+    "extra_example_fa": "تیم یاد گرفته که ریسک‌ها را زودتر شناسایی کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het team heeft geleerd om communicatieproblemen eerder te bespreken met de klant.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعل با فاعلِ مفردِ «het team» به‌درستی مطابقت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het team hebben geleerd om communicatieproblemen eerder te bespreken met de klant.",
+        "is_correct": false,
+        "feedback_fa": "❌ خطای صرفِ فعل/شخص است: فعل به‌شکلِ جمع صرف شده، در حالی که فاعل «het team» مفرد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bespreek voortaan alle communicatieproblemen meteen met de klant!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثی درباره‌ی درسِ آموخته‌شده، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het team heeft niets geleerd en maakt dezelfde fouten steeds weer opnieuw.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع تیم از تأخیرِ قبلی درس گرفته است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: Hoe ga je de opdrachtgever vertellen dat de scope groter is geworden?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون سناریو درباره‌ی برنامه‌ی آینده برای توضیح‌دادن است، باید از زمانِ حال یا ساختارِ آینده استفاده شود؛ زمانِ ماضی در اینجا نامناسب است.",
+    "grammar_rule_fa": "برای بیانِ کاری که قرار است انجام شود از زمانِ حال/آینده استفاده می‌شود: «Ik leg uit dat...» یا «Ik ga uitleggen dat...».",
+    "extra_example_nl": "Ik leg volgende week aan de klant uit waarom de scope is uitgebreid.",
+    "extra_example_fa": "هفته‌ی آینده به مشتری توضیح می‌دهم که چرا محدوده‌ی پروژه گسترش یافته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik legde uit dat de scope was uitgebreid, met concrete voorbeelden van de extra werkzaamheden.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: از زمانِ ماضی استفاده شده، در حالی که این توضیح‌دادن هنوز اتفاق نیفتاده و باید در زمانِ حال/آینده بیان شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik leg uit dat de scope is uitgebreid, met concrete voorbeelden van de extra werkzaamheden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زمانِ حال به‌درستی نشان می‌دهد که این توضیح در آینده‌ی نزدیک انجام خواهد شد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Accepteer gewoon de extra werkzaamheden zonder discussie!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ برنامه، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zeg gewoon dat de scope precies hetzelfde is gebleven als in het begin.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع محدوده‌ی پروژه بزرگ‌تر شده، نه اینکه ثابت مانده باشد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: Waarom hebben jullie voor deze technische oplossing gekozen in plaats van de goedkopere optie?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "فعلِ درست برای بیانِ انتخاب، «kiezen voor» است؛ فعلِ مشابه اما نادرست با حرفِ اضافه‌ی متفاوت، ساختارِ درستی در زبانِ رسمی نیست.",
+    "grammar_rule_fa": "فعلِ ثابت با حرفِ اضافه: «kiezen voor iets», نه فعلِ مشابهِ نادرست.",
+    "extra_example_nl": "We hebben gekozen voor de duurzamere oplossing, ondanks de hogere kosten.",
+    "extra_example_fa": "ما راه‌حلِ پایدارتر را انتخاب کردیم، با وجودِ هزینه‌ی بالاتر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We hebben gekozen op deze oplossing, omdat ze op de lange termijn betrouwbaarder is.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعلِ اشتباه/حرفِ اضافه‌ی نادرست است: «kiezen op» نادرست است؛ فرمِ درست «kiezen voor» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kies voortaan altijd voor de duurdere optie, zonder verder na te denken!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ انتخاب، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "We hebben gekozen voor deze oplossing, omdat ze op de lange termijn betrouwbaarder is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ «kiezen voor» به‌درستی و با حرفِ اضافه‌ی صحیح انتخابِ فنی را توضیح می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "We hebben eigenlijk voor de goedkoopste en minst betrouwbare optie gekozen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع گزینه‌ی گران‌تر اما قابل‌اعتمادتر انتخاب شده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: Zijn alle neveneffecten van de wijziging al goed in kaart gebracht?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون فاعل «wij» است، فعلِ کمکی باید با آن مطابقت داشته باشد؛ استفاده از فرمِ سوم‌شخص مفرد برای «wij» نادرست است.",
+    "grammar_rule_fa": "مطابقتِ فاعل و فعلِ کمکی: «wij hebben in kaart gebracht»، نه «wij heeft in kaart gebracht».",
+    "extra_example_nl": "Wij hebben alle gevolgen zorgvuldig in kaart gebracht.",
+    "extra_example_fa": "ما تمامِ پیامدها را با دقت بررسی و مشخص کردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, wij heeft alle neveneffecten zorgvuldig in kaart gebracht en besproken met de stakeholders.",
+        "is_correct": false,
+        "feedback_fa": "❌ خطای صرفِ فعل/شخص است: فعلِ کمکی به‌شکلِ سوم‌شخص مفرد صرف شده، در حالی که فاعل «wij» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Breng zelf alle neveneffecten onmiddellijk in kaart!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای پاسخِ توضیحی، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, we hebben helemaal niet gekeken naar de mogelijke neveneffecten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع تیم پیامدها را با دقت بررسی کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, wij hebben alle neveneffecten zorgvuldig in kaart gebracht en besproken met de stakeholders.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ کمکی با فاعلِ «wij» به‌درستی مطابقت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: Wat gebeurt er als we deze functie later alsnog willen toevoegen?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "نتیجه‌ی منطقی باید با شرایطِ فنیِ واقعی هماهنگ باشد؛ نتیجه‌گیری‌ای که ربطی به شرح داده‌شده ندارد، نادرست است.",
+    "grammar_rule_fa": "برای بیانِ نتیجه‌ی منطقی از ساختارِ شرطی استفاده می‌شود: «Als we dat later toevoegen, dan...».",
+    "extra_example_nl": "Als we deze functie later toevoegen, moeten we een deel van het systeem aanpassen.",
+    "extra_example_fa": "اگر این قابلیت را بعداً اضافه کنیم، باید بخشی از سیستم را تغییر دهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als we deze functie later toevoegen, moeten we een deel van de architectuur aanpassen, wat extra tijd kost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ این نتیجه به‌طور منطقی از توضیحِ فنی درباره‌ی افزودنِ بعدیِ قابلیت نتیجه می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als we deze functie later toevoegden, moesten we een deel van de architectuur aanpassen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: از زمانِ ماضی استفاده شده برای سناریویی فرضی/آینده که باید در زمانِ حال بیان شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voeg die functie dan nu meteen toe, zonder verder te overleggen!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ پیامد، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als we deze functie later toevoegen, betekent dat dat het hele project meteen wordt geannuleerd.",
+        "is_correct": false,
+        "feedback_fa": "❌ این نتیجه از توضیح منطقاً استنتاج نمی‌شود؛ افزودنِ یک قابلیت به معنیِ لغوِ کلِ پروژه نیست."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: Wat waren de belangrijkste conclusies van de evaluatie?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون سؤال درباره‌ی ارزیابیِ گذشته (waren) است، پاسخ باید در زمانِ ماضی باشد تا نتیجه‌گیری‌های همان ارزیابی را بیان کند.",
+    "grammar_rule_fa": "هماهنگیِ زمانِ فعل با سؤال: اگر سؤال با «waren» (ماضی) باشد، پاسخ نیز باید ماضی باشد.",
+    "extra_example_nl": "Uit de evaluatie bleek dat de communicatie beter kon.",
+    "extra_example_fa": "از ارزیابی مشخص شد که ارتباطات می‌توانست بهتر باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Uit de evaluatie blijkt dat de planning realistisch is, maar dat de communicatie beter kan.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: زمانِ حال استفاده شده، در حالی که سؤال درباره‌ی نتایجِ ارزیابیِ گذشته (ماضی) بود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Uit de evaluatie bleek dat de planning realistisch was, maar dat de communicatie beter kon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زمانِ ماضی به‌درستی با سؤال درباره‌ی ارزیابیِ گذشته هماهنگ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Verbeter de communicatie onmiddellijk en negeer de rest van de evaluatie!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای بیانِ نتیجه‌گیری‌های ارزیابی، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Uit de evaluatie bleek dat alles perfect verliep en er niets te verbeteren viel.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع ارزیابی نشان داد که ارتباطات می‌توانست بهتر شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: Waarom heb je de taak overgedragen aan een ander teamlid?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "فعلِ درست برای انتقالِ وظیفه، «overdragen» است؛ فعلِ مشابه اما نادرست، معنایی متفاوت (مثلِ رها کردن) دارد که در این‌جا مناسب نیست.",
+    "grammar_rule_fa": "فعلِ درست برای واگذاریِ رسمیِ وظیفه: «een taak overdragen aan iemand».",
+    "extra_example_nl": "Ik heb de administratie overgedragen aan een collega met meer ervaring.",
+    "extra_example_fa": "من امور اداری را به همکاری با تجربه‌ی بیشتر واگذار کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb de taak opgegeven aan Peter, omdat hij meer ervaring heeft met dit soort systemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعلِ اشتباه است: «opgeven» به معنیِ ترک‌کردن/تسلیم‌شدن است، نه انتقالِ رسمیِ وظیفه؛ فعلِ درست «overdragen» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neem die taak nu direct van me over, zonder vragen!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ علت، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb de taak overgedragen aan Peter, omdat hij meer ervaring heeft met dit soort systemen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ «overdragen» به‌درستی انتقالِ رسمیِ وظیفه را توصیف می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb de taak overgedragen aan Peter, omdat hij hier juist helemaal geen ervaring mee heeft.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ منطقاً واگذاریِ وظیفه به دلیلِ داشتنِ تجربه است، نه نداشتنِ آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: Waarom is er, ondanks de extra middelen die vorige maand zijn vrijgemaakt, nog steeds geen zichtbare vooruitgang geboekt?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون در جمله از حالتِ مجهولِ کامل («zijn vrijgemaakt») استفاده شده، توضیح نیز باید با ساختارِ زمانیِ منسجم و مجهول/کامل ادامه یابد تا بیانِ درستِ علت باشد.",
+    "grammar_rule_fa": "هماهنگیِ ساختارِ مجهول و زمان: «de middelen zijn ingezet, maar het probleem is nog niet opgelost».",
+    "extra_example_nl": "Ondanks de extra mensen die zijn ingezet, is het probleem nog niet volledig opgelost.",
+    "extra_example_fa": "با وجودِ نیروهای اضافه‌ای که به کار گرفته شدند، مشکل هنوز به‌طور کامل حل نشده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De extra middelen worden wel ingezet, maar het onderliggende probleem wordt nog niet volledig opgelost.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: زمانِ حالِ استمراری استفاده شده، در حالی که سؤال با ساختارِ ماضیِ کامل بود و پاسخ نیز باید کامل باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Los dat probleem dan nu onmiddellijk zelf op!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ علت، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is juist enorme vooruitgang geboekt en het probleem is allang helemaal verdwenen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکسِ وضعیتِ واقعی می‌دهد؛ سؤال دقیقاً به این اشاره دارد که هنوز پیشرفتی دیده نشده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De extra middelen zijn wel ingezet, maar het onderliggende probleem is nog niet volledig opgelost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ساختارِ مجهولِ کامل به‌درستی و هماهنگ با سؤال، وضعیتِ واقعی را توضیح می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Klant: Kunt u toelichten waarom de gekozen aanpak, hoewel duurder, op termijn toch voordeliger uitpakt?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "فعلِ درستِ توضیحِ صرفه‌جویی در آینده «terugverdienen» است؛ فعلِ مشابه اما نادرست معنایی نزدیک ولی غلط در این بافتِ رسمی می‌دهد.",
+    "grammar_rule_fa": "فعلِ درست برای بیانِ بازگشتِ سرمایه: «de investering terugverdienen».",
+    "extra_example_nl": "We verwachten dat we de hogere kosten binnen twee jaar terugverdienen door lagere onderhoudskosten.",
+    "extra_example_fa": "انتظار داریم هزینه‌های بالاتر را ظرف دو سال به‌واسطه‌ی هزینه‌های نگهداریِ کمتر جبران کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoewel de aanpak duurder is, verwachten we de investering binnen twee jaar terug te verdienen door lagere onderhoudskosten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ «terugverdienen» به‌درستی بازگشتِ سرمایه در بلندمدت را توضیح می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoewel de aanpak duurder is, verwachten we de investering binnen twee jaar terug te betalen door lagere onderhoudskosten.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعلِ اشتباه است: «terugbetalen» به معنیِ بازپرداختِ بدهی است، نه بازگشتِ سرمایه از طریقِ صرفه‌جویی؛ فعلِ درست «terugverdienen» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Betaal gewoon de hogere prijs en stel geen verdere vragen!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ استدلالِ مالی، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoewel de aanpak duurder is, zal die op termijn juist nog veel duurder blijken te zijn.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ سؤال دقیقاً درباره‌ی این است که چرا در بلندمدت مقرون‌به‌صرفه‌تر است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: Hebben jij en je collega inmiddels een gezamenlijk voorstel uitgewerkt voor de nieuwe fase?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون فاعل «wij» (من و همکارم) است، فعلِ کمکی باید با آن مطابقت داشته باشد؛ استفاده از فرمِ سوم‌شخص مفرد در اینجا نادرست است.",
+    "grammar_rule_fa": "مطابقتِ فاعل و فعلِ کمکی برای فاعلِ مرکب: «wij hebben uitgewerkt».",
+    "extra_example_nl": "Wij hebben samen een gedetailleerd voorstel uitgewerkt voor de directie.",
+    "extra_example_fa": "ما با هم پیشنهادی مفصل برای هیئت‌مدیره تدوین کردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, wij heeft samen een gedetailleerd voorstel uitgewerkt, inclusief een nieuwe tijdlijn.",
+        "is_correct": false,
+        "feedback_fa": "❌ خطای صرفِ فعل/شخص است: فعلِ کمکی به‌شکلِ سوم‌شخص مفرد صرف شده، در حالی که فاعل «wij» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, wij hebben samen een gedetailleerd voorstel uitgewerkt, inclusief een nieuwe tijdlijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ کمکی با فاعلِ مرکبِ «wij» به‌درستی مطابقت دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Werk dat voorstel dan nu onmiddellijk samen met je collega uit!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای پاسخِ توضیحی، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, we hebben nog helemaal niets besproken of uitgewerkt met elkaar.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع پیشنهادی مشترک و مفصل تدوین شده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Collega: Wat is er precies veranderd sinds de klant vorige week extra eisen heeft gesteld?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "نتیجه‌ی منطقی باید متناسب با تغییرِ توصیف‌شده باشد؛ نتیجه‌ای که هیچ ارتباطی با درخواستِ مشتری ندارد، نتیجه‌گیریِ نادرستی است.",
+    "grammar_rule_fa": "نتیجه‌گیریِ منطقی باید با شرح، هم‌راستا باشد: «Daardoor moeten we...».",
+    "extra_example_nl": "Doordat de klant extra eisen heeft gesteld, moeten we de planning bijstellen.",
+    "extra_example_fa": "چون مشتری الزاماتِ بیشتری مطرح کرده، باید برنامه‌ریزی را تعدیل کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doordat de klant extra eisen stelde, moesten we twee extra functies bouwen en de planning bijstellen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: از زمانِ ماضی استفاده شده، در حالی که سؤال درباره‌ی وضعیتِ فعلی و پیامدهای همچنان جاری است، پس زمانِ حال/کامل مناسب‌تر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Weiger die extra eisen gewoon en negeer de klant verder!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ پیامد، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Doordat de klant extra eisen heeft gesteld, moeten we twee extra functies bouwen en de planning bijstellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ این نتیجه به‌طور منطقی از درخواستِ اضافیِ مشتری ناشی می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Doordat de klant extra eisen heeft gesteld, kunnen we het hele project nu veel sneller afronden.",
+        "is_correct": false,
+        "feedback_fa": "❌ این نتیجه از توضیح منطقاً استنتاج نمی‌شود؛ الزاماتِ اضافی معمولاً کار را کندتر می‌کنند، نه سریع‌تر."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: Kun je nog eens uitleggen hoe de overdracht van dit project naar de nieuwe projectleider zal verlopen?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون سؤال درباره‌ی برنامه‌ی آینده است (zal verlopen)، توضیح باید با زمانِ آینده یا حالِ برنامه‌ریزی‌شده هماهنگ باشد، نه با زمانِ ماضی.",
+    "grammar_rule_fa": "هماهنگیِ زمانِ فعل با ساختارِ آینده: «zal verlopen» → «Ik zal eerst..., daarna zal...».",
+    "extra_example_nl": "De overdracht zal in drie stappen verlopen, te beginnen met een uitgebreide documentatie.",
+    "extra_example_fa": "این تحویل در سه مرحله انجام خواهد شد، با شروع از مستندسازیِ کامل.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De overdracht verliep in drie stappen: documentatie, een gezamenlijke overdrachtssessie en een nazorgperiode.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: زمانِ ماضی استفاده شده، در حالی که سؤال درباره‌ی برنامه‌ای است که هنوز باید اجرا شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Regel die overdracht zelf maar, ik heb er geen tijd meer voor!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ برنامه، به‌صورتِ دستور/واکنشِ نامناسب بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er komt helemaal geen overdracht, ik blijf dit project voor altijd zelf leiden.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ سؤال دقیقاً درباره‌ی نحوه‌ی انجامِ تحویلِ پروژه بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De overdracht zal in drie stappen verlopen: documentatie, een gezamenlijke overdrachtssessie en een nazorgperiode.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زمانِ آینده به‌درستی با سؤال درباره‌ی برنامه‌ی آتی هماهنگ است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Klant: Hoe komt het dat de kwaliteit van de laatste oplevering lager was dan afgesproken?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "فعلِ درست برای اشاره به کمبودِ زمانِ آزمایش، «tekortschieten» یا «onvoldoende zijn» است؛ فعلِ مشابه اما نادرست معنایی متفاوت القا می‌کند.",
+    "grammar_rule_fa": "فعلِ درست برای بیانِ ناکافی‌بودن: «de testtijd is tekortgeschoten» یا «was onvoldoende», نه فعلِ مشابهِ نادرست.",
+    "extra_example_nl": "De testperiode is tekortgeschoten door de krappe planning aan het einde.",
+    "extra_example_fa": "دوره‌ی آزمایش به دلیلِ برنامه‌ریزیِ فشرده در پایان، کافی نبود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat komt doordat de testperiode aan het einde van het traject te kort is geweest.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ این جمله علتِ واقعیِ افتِ کیفیت (کوتاه‌بودنِ دوره‌ی آزمایش) را به‌درستی بیان می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat komt doordat de testperiode aan het einde van het traject te kort is gevallen.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعلِ اشتباه است: «te kort vallen» ترکیبِ طبیعی و رایج در این بافت نیست؛ فرمِ درست «te kort zijn» یا «tekortschieten» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zorg dat de volgende oplevering perfect is, geen excuses meer!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ علت، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat komt doordat de testperiode veel langer was dan eigenlijk nodig was.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع دوره‌ی آزمایش کوتاه‌تر از حدِ لازم بوده، نه طولانی‌تر."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: Wat verwacht je dat de impact zal zijn als we nu alsnog extra functionaliteit toevoegen?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "نتیجه‌ی منطقی باید متناسب با افزودنِ کارِ اضافه باشد؛ نتیجه‌گیری‌ای که هیچ ربطی با افزایشِ حجمِ کار ندارد، نادرست است.",
+    "grammar_rule_fa": "نتیجه‌گیریِ منطقی با ساختارِ شرطی: «Als we dat toevoegen, verwacht ik dat...».",
+    "extra_example_nl": "Als we deze functie toevoegen, verwacht ik dat de oplevering minstens twee weken later komt.",
+    "extra_example_fa": "اگر این قابلیت را اضافه کنیم، انتظار دارم تحویل حداقل دو هفته دیرتر شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik verwachtte dat de oplevering minstens twee weken later kwam en dat het budget iets hoger uitviel.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: از زمانِ ماضی برای پیش‌بینیِ آینده استفاده شده، در حالی که باید زمانِ حال به‌کار رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik verwacht dat de oplevering minstens twee weken later komt en dat het budget iets hoger uitvalt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ این نتیجه به‌طور منطقی با افزودنِ قابلیتِ جدید و افزایشِ حجمِ کار هماهنگ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voeg die functionaliteit dan nu meteen toe, zonder verder te overleggen!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای بیانِ خنثیِ پیش‌بینی، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik verwacht dat de oplevering juist eerder komt en dat het budget flink omlaag gaat.",
+        "is_correct": false,
+        "feedback_fa": "❌ این نتیجه از توضیح منطقاً استنتاج نمی‌شود؛ افزودنِ قابلیتِ اضافه معمولاً باعثِ تأخیر و افزایشِ هزینه می‌شود، نه کاهشِ آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Klant: Waarom worden wij als klant pas nu geïnformeerd over een probleem dat blijkbaar al weken speelt?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون در جمله از ساختارِ مجهول («worden geïnformeerd») استفاده شده، پاسخ نیز باید با فرمِ درستِ فعلِ مرتبط با پوزش/توضیح («hadden moeten informeren») هماهنگ باشد، نه فعلی با معنای نزدیک اما نادرست.",
+    "grammar_rule_fa": "فعلِ درست برای پوزش‌خواهی/توضیحِ تأخیر در اطلاع‌رسانی: «u eerder moeten informeren».",
+    "extra_example_nl": "We hadden u eerder moeten informeren over de vertraging in de levering.",
+    "extra_example_fa": "ما باید زودتر شما را از تأخیر در تحویل مطلع می‌کردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U heeft gelijk, we hadden u eerder moeten waarschuwen voor uw eigen gedrag; dat had niet zo lang mogen duren.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعلِ اشتباه است: «waarschuwen voor uw gedrag» معنایی نامرتبط و نامناسب می‌دهد؛ فعلِ درست در این‌جا «informeren over het probleem» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wacht gewoon nog wat langer, dan lossen we het vanzelf wel op!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیح/پوزش‌خواهیِ خنثی، به‌صورتِ دستور (امری) و نامناسب بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "U heeft gelijk, we hadden u eerder moeten informeren; dat had niet zo lang mogen duren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ «informeren» با ساختارِ درستِ پوزش‌خواهی، تأخیر در اطلاع‌رسانی را به‌درستی بیان می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "U heeft geen gelijk, want we hebben u al vanaf de allereerste dag volledig geïnformeerd.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ سؤالِ مشتری دقیقاً به این نکته اشاره دارد که اطلاع‌رسانی دیر انجام شده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: Als je terugkijkt op het hele project, wat zou je, achteraf gezien, anders hebben aangepakt?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون سؤال با ساختارِ فرضیِ گذشته («zou... hebben aangepakt») مطرح شده، پاسخ نیز باید با همان ساختارِ شرطیِ کامل (voltooid conjunctief) بیاید، نه با زمانِ حالِ ساده.",
+    "grammar_rule_fa": "ساختارِ شرطیِ کامل برای تأملِ گذشته‌نگر: «Ik zou eerder hebben gecommuniceerd».",
+    "extra_example_nl": "Achteraf gezien zou ik de risico's eerder met het team hebben besproken.",
+    "extra_example_fa": "با نگاهی به گذشته، من ریسک‌ها را زودتر با تیم در میان می‌گذاشتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Achteraf gezien bespreek ik de risico's veel eerder met de klant.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: زمانِ حالِ ساده استفاده شده، در حالی که سؤال ساختارِ شرطیِ گذشته («zou... hebben») دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bespreek de risico's voortaan gewoon veel eerder met de klant!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای تأملِ خنثی درباره‌ی گذشته، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Achteraf gezien zou ik helemaal niets anders hebben gedaan, alles was perfect.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ سؤال دقیقاً می‌پرسد چه چیزی متفاوت انجام می‌شد، و پاسخ نباید انکارِ کاملِ اشتباه باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Achteraf gezien zou ik de risico's veel eerder met de klant hebben besproken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ساختارِ شرطیِ کامل به‌درستی با سؤالِ فرضیِ گذشته هماهنگ است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Collega: Waarom is besloten om de tweede leverancier erbij te betrekken, terwijl de eerste toch prima presteerde?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون تصمیم واقعاً گرفته شده (is besloten، حالتِ مجهول)، توضیح باید با فعلِ درستِ «spreiden» (پخش‌کردنِ ریسک) هماهنگ باشد؛ فعلِ مشابه اما نادرست معنای دیگری می‌دهد.",
+    "grammar_rule_fa": "فعلِ درست برای بیانِ کاهشِ ریسک از طریقِ چندگانه‌سازی: «het risico spreiden».",
+    "extra_example_nl": "We hebben het risico gespreid door met twee leveranciers te werken.",
+    "extra_example_fa": "ما با کار کردن با دو تأمین‌کننده، ریسک را پخش کردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We hebben het risico willen spreiden, zodat we niet volledig afhankelijk zijn van één leverancier.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعلِ «spreiden» به‌درستی استراتژیِ پخش‌کردنِ ریسک را توضیح می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "We hebben het risico willen verdelen onder onszelf, zodat we niet volledig afhankelijk zijn van één leverancier.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعلِ اشتباه است: «verdelen onder onszelf» به معنیِ تقسیم میانِ کارکنانِ خودشان است، نه پخش‌کردنِ ریسک میانِ تأمین‌کنندگان؛ فعلِ درست «spreiden» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vertrouw voortaan alleen nog maar op één leverancier, punt uit!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای توضیحِ خنثیِ استراتژی، به‌صورتِ دستور (امری) و متناقض با تصمیمِ واقعی بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "We hebben besloten om juist volledig afhankelijk te worden van één enkele leverancier.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس می‌دهد؛ در واقع هدف، کاهشِ وابستگی به یک تأمین‌کننده از طریقِ افزودنِ تأمین‌کننده‌ی دوم بوده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "project_explanation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: Wat is, na alle wijzigingen van de afgelopen maanden, nu eigenlijk nog de status van dit project ten opzichte van de oorspronkelijke doelstellingen?\nProjectleider: ___\nWelke uitleg past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "چون سؤال درباره‌ی وضعیتِ فعلیِ نسبت به اهدافِ اولیه است، پاسخ باید زمانِ حال را برای وضعیتِ کنونی و ماضیِ کامل را برای تغییراتِ گذشته با هم به‌درستی ترکیب کند.",
+    "grammar_rule_fa": "ترکیبِ درستِ زمانِ حال (وضعیتِ کنونی) و ماضیِ کامل (تغییراتِ انجام‌شده): «we hebben aangepast, maar we liggen nog steeds op koers».",
+    "extra_example_nl": "Ondanks de aanpassingen die we hebben doorgevoerd, liggen we nog steeds op koers voor de kernresultaten.",
+    "extra_example_fa": "با وجودِ تغییراتی که اعمال کردیم، هنوز برای دستیابی به نتایجِ اصلی در مسیرِ درست هستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ondanks de aanpassingen die we doorvoerden, lagen we nog steeds op koers voor de belangrijkste doelstellingen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: کلِ جمله در زمانِ ماضیِ ساده بیان شده، در حالی که سؤال درباره‌ی وضعیتِ فعلی است و باید زمانِ حال به‌کار رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ondanks de aanpassingen die we hebben doorgevoerd, liggen we nog steeds op koers voor de belangrijkste doelstellingen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترکیبِ زمانِ حال و ماضیِ کامل به‌درستی وضعیتِ کنونی را نسبت به تغییراتِ گذشته توضیح می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Stop met al die aanpassingen en houd je voortaan strikt aan het oorspronkelijke plan!",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای پاسخِ توضیحیِ خنثی درباره‌ی وضعیتِ فعلی، به‌صورتِ دستور (امری) بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Door alle aanpassingen zijn we de oorspronkelijke doelstellingen inmiddels volledig kwijtgeraakt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنایی برعکس یا بیش‌ازحد منفی می‌دهد؛ در واقع پروژه با وجودِ تغییرات هنوز روی مسیرِ درست است."
+      }
+    ]
+  }
+]

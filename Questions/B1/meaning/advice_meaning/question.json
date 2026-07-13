@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "direct_advice",
+    "life_context": "health_and_lifestyle",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Je kunt het beste een afspraak maken met de huisarts.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "بهتر است با پزشک خانواده وقت ملاقات بگیری.",
+    "usage_note_fa": "«Je kunt het beste...» یک توصیهٔ مستقیم و دوستانه است.",
+    "extra_example_nl": "Je kunt het beste veel water drinken.",
+    "extra_example_fa": "بهتر است آب زیاد بنوشی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بهتر است با پزشک خانواده وقت ملاقات بگیری.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "پزشک خانواده باید به تو زنگ بزند.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ تماس گرفتن پزشک نیست، بلکه یک توصیه است."
+      },
+      {
+        "key": "C",
+        "text_fa": "من دیگر به پزشک نیاز ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این معنی برعکس توصیهٔ جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "وقت ملاقات پزشک لغو شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ لغو شدن وقت نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "direct_advice",
+    "life_context": "education_and_courses",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik raad je aan om je huiswerk op tijd in te leveren.",
+    "question_text_nl": "Wat is het advies in deze zin?",
+    "question_text_fa": "توصیهٔ این جمله چیست؟",
+    "meaning_fa": "توصیه می‌کنم تکالیفت را به‌موقع تحویل بدهی.",
+    "usage_note_fa": "«Ik raad je aan...» یک توصیهٔ مستقیم است.",
+    "extra_example_nl": "Ik raad je aan om vroeg te beginnen met studeren.",
+    "extra_example_fa": "توصیه می‌کنم زود شروع به درس خواندن کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "معلم تکلیف را فراموش کرده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ فراموشی معلم نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "توصیه می‌کنم تکالیفت را به‌موقع تحویل بدهی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "من تکلیف را دوست ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این جمله احساس شخص را بیان نمی‌کند، بلکه توصیه است."
+      },
+      {
+        "key": "D",
+        "text_fa": "کلاس امروز تعطیل است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "direct_advice",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik raad je aan om je uitgaven goed bij te houden.",
+    "question_text_nl": "Wat wil deze persoon zeggen?",
+    "question_text_fa": "این شخص چه می‌خواهد بگوید؟",
+    "meaning_fa": "توصیه می‌کنم هزینه‌هایت را به‌دقت پیگیری کنی.",
+    "usage_note_fa": "این جمله توصیه‌ای دربارهٔ مدیریت مالی است.",
+    "extra_example_nl": "Ik raad je aan om een spaarplan te maken.",
+    "extra_example_fa": "توصیه می‌کنم یک برنامهٔ پس‌انداز بسازی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بانک حساب من را بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ بستن حساب بانکی نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "من پول کافی ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ نداشتن پول نیست، بلکه یک توصیه است."
+      },
+      {
+        "key": "C",
+        "text_fa": "توصیه می‌کنم هزینه‌هایت را به‌دقت پیگیری کنی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "خرید کردن ممنوع است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "direct_advice",
+    "life_context": "housing_and_neighborhood",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Je kunt het beste de huurovereenkomst goed doorlezen voordat je tekent.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "بهتر است قبل از امضا، قرارداد اجاره را با دقت بخوانی.",
+    "usage_note_fa": "این جمله توصیه‌ای دربارهٔ دقت قبل از امضای قرارداد است.",
+    "extra_example_nl": "Je kunt het beste alle voorwaarden controleren.",
+    "extra_example_fa": "بهتر است همهٔ شرایط را بررسی کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "خانه‌ات را بفروش.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ فروش خانه نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "قرارداد اجاره باطل شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ باطل شدن قرارداد نیست."
+      },
+      {
+        "key": "C",
+        "text_fa": "صاحبخانه دیگر پاسخ نمی‌دهد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "بهتر است قبل از امضا، قرارداد اجاره را با دقت بخوانی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "direct_advice",
+    "life_context": "technology_and_internet",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik raad je aan om je wachtwoorden regelmatig te veranderen.",
+    "question_text_nl": "Wat raadt deze persoon aan?",
+    "question_text_fa": "این شخص چه چیزی را توصیه می‌کند؟",
+    "meaning_fa": "توصیه می‌کنم رمزهای عبورت را مرتب تغییر بدهی.",
+    "usage_note_fa": "این جمله توصیه‌ای دربارهٔ امنیت آنلاین است.",
+    "extra_example_nl": "Ik raad je aan om nooit hetzelfde wachtwoord te gebruiken.",
+    "extra_example_fa": "توصیه می‌کنم هرگز از یک رمز عبور یکسان استفاده نکنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "توصیه می‌کنم رمزهای عبورت را مرتب تغییر بدهی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "کامپیوترت خراب شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ خرابی کامپیوتر نیست."
+      },
+      {
+        "key": "C",
+        "text_fa": "اینترنت قطع است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به موضوع رمز عبور ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من رمز عبورم را فراموش کرده‌ام.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ فراموشی رمز عبور نیست، بلکه یک توصیه است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "direct_advice",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Je kunt het beste je cv aanpassen voordat je solliciteert.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "بهتر است قبل از درخواست شغل، رزومه‌ات را تنظیم کنی.",
+    "usage_note_fa": "این جمله توصیه‌ای دربارهٔ آماده‌سازی برای درخواست شغل است.",
+    "extra_example_nl": "Je kunt het beste je motivatiebrief laten controleren.",
+    "extra_example_fa": "بهتر است نامهٔ انگیزشی‌ات را بررسی‌شده بگیری.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این شغل دیگر خالی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ پر شدن جای خالی شغل نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "بهتر است قبل از درخواست شغل، رزومه‌ات را تنظیم کنی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "مصاحبه لغو شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "حقوق این کار کم است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ حقوق نیست، بلکه یک توصیه است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "suggestion_forms",
+    "life_context": "environment_and_sustainability",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Waarom probeer je niet een keer met de fiets naar je werk te gaan?",
+    "question_text_nl": "Wat is het advies in deze zin?",
+    "question_text_fa": "توصیهٔ این جمله چیست؟",
+    "meaning_fa": "چرا یک بار امتحان نمی‌کنی که با دوچرخه سر کار بروی؟",
+    "usage_note_fa": "«Waarom probeer je niet...» یک پیشنهاد دوستانه و غیرمستقیم است.",
+    "extra_example_nl": "Waarom probeer je niet vaker het openbaar vervoer te nemen?",
+    "extra_example_fa": "چرا امتحان نمی‌کنی که بیشتر از حمل‌ونقل عمومی استفاده کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "دوچرخه‌ات دزدیده شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ دزدیده شدن دوچرخه نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "من هرگز دوچرخه‌سواری نمی‌کنم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه یک پیشنهاد را رد می‌کند، در حالی که جمله یک پیشنهاد است."
+      },
+      {
+        "key": "C",
+        "text_fa": "چرا یک بار امتحان نمی‌کنی که با دوچرخه سر کار بروی؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "رفتن با دوچرخه ممنوع است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "suggestion_forms",
+    "life_context": "education_and_courses",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Het lijkt me handig om een cursus Nederlands te volgen.",
+    "question_text_nl": "Wat wil deze persoon zeggen?",
+    "question_text_fa": "این شخص چه می‌خواهد بگوید؟",
+    "meaning_fa": "به نظرم مفید است که یک دورهٔ زبان هلندی را بگذرانی.",
+    "usage_note_fa": "«Het lijkt me handig om...» یک پیشنهاد ملایم است.",
+    "extra_example_nl": "Het lijkt me handig om samen te studeren.",
+    "extra_example_fa": "به نظرم مفید است که با هم درس بخوانید.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "دورهٔ زبان هلندی تمام شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ تمام شدن دوره نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "من هلندی بلد نیستم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دلیل پیشنهاد را بیان می‌کند، نه معنی جمله را."
+      },
+      {
+        "key": "C",
+        "text_fa": "این دوره خیلی گران است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به پیشنهاد جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "به نظرم مفید است که یک دورهٔ زبان هلندی را بگذرانی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "suggestion_forms",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Waarom vraag je niet om een gesprek met je leidinggevende?",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "چرا درخواست یک گفتگو با مدیرت نمی‌کنی؟",
+    "usage_note_fa": "این جمله یک پیشنهاد در قالب سؤال است.",
+    "extra_example_nl": "Waarom stel je niet gewoon je vraag aan de manager?",
+    "extra_example_fa": "چرا سؤالت را مستقیم از مدیر نمی‌پرسی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "چرا درخواست یک گفتگو با مدیرت نمی‌کنی؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "مدیرم دیگر آنجا کار نمی‌کند.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ ترک کار مدیر نیست."
+      },
+      {
+        "key": "C",
+        "text_fa": "من با مدیرم صحبت کردم.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک پیشنهاد برای آینده است، نه گزارش گذشته."
+      },
+      {
+        "key": "D",
+        "text_fa": "جلسه لغو شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به پیشنهاد جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "suggestion_forms",
+    "life_context": "health_and_lifestyle",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Het zou verstandig zijn om vaker verse groenten te eten.",
+    "question_text_nl": "Wat raadt deze persoon aan?",
+    "question_text_fa": "این شخص چه چیزی را توصیه می‌کند؟",
+    "meaning_fa": "عاقلانه است که سبزیجات تازه بیشتری بخوری.",
+    "usage_note_fa": "این جمله یک پیشنهاد ملایم دربارهٔ تغذیهٔ سالم است.",
+    "extra_example_nl": "Het zou verstandig zijn om minder suiker te eten.",
+    "extra_example_fa": "عاقلانه است که شکر کمتری بخوری.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "سبزیجات گران شده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ قیمت سبزیجات نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "عاقلانه است که سبزیجات تازه بیشتری بخوری.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "من سبزیجات را دوست ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه احساس شخصی است، نه معنی جمله."
+      },
+      {
+        "key": "D",
+        "text_fa": "این مغازه سبزی نمی‌فروشد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به پیشنهاد جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "suggestion_forms",
+    "life_context": "technology_and_internet",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Waarom kijk je niet even op internet naar de openingstijden?",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "چرا یک نگاه به ساعات کاری در اینترنت نمی‌اندازی؟",
+    "usage_note_fa": "این جمله یک پیشنهاد عملی برای پیدا کردن اطلاعات است.",
+    "extra_example_nl": "Waarom zoek je niet even op internet naar een oplossing?",
+    "extra_example_fa": "چرا برای پیدا کردن راه‌حل کمی در اینترنت جستجو نمی‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "اینترنت کار نمی‌کند.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ خرابی اینترنت نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "ساعات کاری تغییر نکرده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به پیشنهاد جمله ندارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "چرا یک نگاه به ساعات کاری در اینترنت نمی‌اندازی؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "من گوشی ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ نداشتن گوشی نیست، بلکه یک پیشنهاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "suggestion_forms",
+    "life_context": "travel_and_culture",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Het lijkt me verstandig om eerst de recensies te lezen voordat je boekt.",
+    "question_text_nl": "Wat is het advies in deze zin?",
+    "question_text_fa": "توصیهٔ این جمله چیست؟",
+    "meaning_fa": "به نظرم عاقلانه است که اول نظرات را بخوانی، قبل از رزرو کردن.",
+    "usage_note_fa": "این جمله پیشنهادی برای تصمیم‌گیری آگاهانه است.",
+    "extra_example_nl": "Het lijkt me verstandig om de prijzen te vergelijken.",
+    "extra_example_fa": "به نظرم عاقلانه است که قیمت‌ها را مقایسه کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "سفر لغو شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ لغو شدن سفر نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "هتل دیگر پذیرش ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به پیشنهاد جمله ندارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "بلیط‌ها تمام شده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      },
+      {
+        "key": "D",
+        "text_fa": "به نظرم عاقلانه است که اول نظرات را بخوانی، قبل از رزرو کردن.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "conditional_advice",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Als ik jou was, zou ik die lening niet afsluiten.",
+    "question_text_nl": "Wat wil deze persoon zeggen?",
+    "question_text_fa": "این شخص چه می‌خواهد بگوید؟",
+    "meaning_fa": "اگر جای تو بودم، آن وام را نمی‌گرفتم.",
+    "usage_note_fa": "«Als ik jou was...» یک شکل شرطی برای بیان توصیه است.",
+    "extra_example_nl": "Als ik jou was, zou ik eerst sparen.",
+    "extra_example_fa": "اگر جای تو بودم، اول پس‌انداز می‌کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "اگر جای تو بودم، آن وام را نمی‌گرفتم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "من قبلاً وام گرفته‌ام.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ گذشتهٔ گوینده نیست."
+      },
+      {
+        "key": "C",
+        "text_fa": "بانک وام نمی‌دهد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این وام رایگان است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "conditional_advice",
+    "life_context": "housing_and_neighborhood",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "In jouw plaats zou ik eerst met de buren praten.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "به جای تو بودم، اول با همسایه‌ها صحبت می‌کردم.",
+    "usage_note_fa": "«In jouw plaats...» شکل دیگری برای بیان توصیهٔ شرطی است.",
+    "extra_example_nl": "In jouw plaats zou ik een brief schrijven naar de buren.",
+    "extra_example_fa": "به جای تو بودم، یک نامه برای همسایه‌ها می‌نوشتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "همسایه‌ها نقل مکان کرده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ نقل مکان همسایه‌ها نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "به جای تو بودم، اول با همسایه‌ها صحبت می‌کردم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "من با همسایه‌ها دعوا کردم.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ دعوای گذشته نیست، بلکه یک توصیه است."
+      },
+      {
+        "key": "D",
+        "text_fa": "خانه خالی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "conditional_advice",
+    "life_context": "media_and_news",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Als ik jou was, zou ik dat artikel niet zomaar delen.",
+    "question_text_nl": "Wat raadt deze persoon aan?",
+    "question_text_fa": "این شخص چه چیزی را توصیه می‌کند؟",
+    "meaning_fa": "اگر جای تو بودم، آن مقاله را همین‌طوری منتشر نمی‌کردم.",
+    "usage_note_fa": "این جمله توصیه‌ای دربارهٔ احتیاط در انتشار اطلاعات است.",
+    "extra_example_nl": "Als ik jou was, zou ik eerst de bron controleren.",
+    "extra_example_fa": "اگر جای تو بودم، اول منبع را بررسی می‌کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مقاله حذف شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ حذف شدن مقاله نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "من این خبر را نخوانده‌ام.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "اگر جای تو بودم، آن مقاله را همین‌طوری منتشر نمی‌کردم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "روزنامه دیگر منتشر نمی‌شود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "conditional_advice",
+    "life_context": "health_and_lifestyle",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "In jouw plaats zou ik wat vaker gaan wandelen.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "به جای تو بودم، بیشتر پیاده‌روی می‌کردم.",
+    "usage_note_fa": "این جمله یک توصیهٔ شرطی دربارهٔ سبک زندگی سالم است.",
+    "extra_example_nl": "In jouw plaats zou ik eerder gaan slapen.",
+    "extra_example_fa": "به جای تو بودم، زودتر می‌خوابیدم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "پارک بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ بسته بودن پارک نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "من از پیاده‌روی خسته شدم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه احساس شخصی است، نه معنی جمله."
+      },
+      {
+        "key": "C",
+        "text_fa": "هوا خیلی سرد است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "به جای تو بودم، بیشتر پیاده‌روی می‌کردم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "conditional_advice",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Als ik jou was, zou ik die baan wel accepteren.",
+    "question_text_nl": "Wat is het advies in deze zin?",
+    "question_text_fa": "توصیهٔ این جمله چیست؟",
+    "meaning_fa": "اگر جای تو بودم، آن شغل را قبول می‌کردم.",
+    "usage_note_fa": "این جمله یک توصیهٔ شرطی دربارهٔ تصمیم شغلی است.",
+    "extra_example_nl": "Als ik jou was, zou ik om meer bedenktijd vragen.",
+    "extra_example_fa": "اگر جای تو بودم، درخواست زمان بیشتری برای فکر کردن می‌دادم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "اگر جای تو بودم، آن شغل را قبول می‌کردم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این شغل دیگر موجود نیست.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ موجود نبودن شغل نیست."
+      },
+      {
+        "key": "C",
+        "text_fa": "حقوق آن شغل کم است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من شغل جدیدی پیدا کرده‌ام.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "conditional_advice",
+    "life_context": "relationships_and_society",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "In jouw plaats zou ik die relatie serieus bespreken.",
+    "question_text_nl": "Wat wil deze persoon zeggen?",
+    "question_text_fa": "این شخص چه می‌خواهد بگوید؟",
+    "meaning_fa": "به جای تو بودم، دربارهٔ آن رابطه جدی صحبت می‌کردم.",
+    "usage_note_fa": "این جمله توصیه‌ای دربارهٔ صحبت صادقانه در روابط است.",
+    "extra_example_nl": "In jouw plaats zou ik mijn gevoelens eerlijk uitspreken.",
+    "extra_example_fa": "به جای تو بودم، احساساتم را صادقانه بیان می‌کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "آن رابطه تمام شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ پایان یافتن رابطه نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "به جای تو بودم، دربارهٔ آن رابطه جدی صحبت می‌کردم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "من نمی‌خواهم صحبت کنم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این موضوع مهم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "warning_advice",
+    "life_context": "technology_and_internet",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Pas op dat je niet te veel geld uitgeeft aan online winkelen.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "مواظب باش که در خرید آنلاین پول زیادی خرج نکنی.",
+    "usage_note_fa": "«Pas op dat...» یک هشدار همراه با توصیه است.",
+    "extra_example_nl": "Pas op dat je geen persoonlijke gegevens deelt.",
+    "extra_example_fa": "مواظب باش که اطلاعات شخصی‌ات را به اشتراک نگذاری.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "خرید آنلاین ممنوع است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      },
+      {
+        "key": "B",
+        "text_fa": "فروشگاه آنلاین بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ بسته بودن فروشگاه نیست."
+      },
+      {
+        "key": "C",
+        "text_fa": "مواظب باش که در خرید آنلاین پول زیادی خرج نکنی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "من پول زیادی دارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به هشدار جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "warning_advice",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Zorg ervoor dat je de deadline niet mist.",
+    "question_text_nl": "Wat raadt deze persoon aan?",
+    "question_text_fa": "این شخص چه چیزی را توصیه می‌کند؟",
+    "meaning_fa": "مطمئن شو که مهلت را از دست نمی‌دهی.",
+    "usage_note_fa": "«Zorg ervoor dat...» هشداری برای انجام به‌موقع کار است.",
+    "extra_example_nl": "Zorg ervoor dat je alles op tijd inlevert.",
+    "extra_example_fa": "مطمئن شو که همه‌چیز را به‌موقع تحویل می‌دهی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مهلت تمام شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ گذشته نیست، بلکه یک هشدار برای آینده است."
+      },
+      {
+        "key": "B",
+        "text_fa": "کار تمام شد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به هشدار جمله ندارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "پروژه لغو شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      },
+      {
+        "key": "D",
+        "text_fa": "مطمئن شو که مهلت را از دست نمی‌دهی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "warning_advice",
+    "life_context": "health_and_lifestyle",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Pas op dat je niet te veel suiker eet.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "مواظب باش که شکر زیادی نخوری.",
+    "usage_note_fa": "این جمله هشداری دربارهٔ تغذیهٔ سالم است.",
+    "extra_example_nl": "Pas op dat je genoeg water drinkt.",
+    "extra_example_fa": "مواظب باش که آب کافی بنوشی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مواظب باش که شکر زیادی نخوری.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "شکر تمام شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ تمام شدن شکر نیست."
+      },
+      {
+        "key": "C",
+        "text_fa": "من رژیم می‌گیرم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به هشدار جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "شیرینی ممنوع است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "warning_advice",
+    "life_context": "education_and_courses",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Zorg ervoor dat je alle documenten op tijd opstuurt.",
+    "question_text_nl": "Wat is het advies in deze zin?",
+    "question_text_fa": "توصیهٔ این جمله چیست؟",
+    "meaning_fa": "مطمئن شو که همهٔ مدارک را به‌موقع ارسال می‌کنی.",
+    "usage_note_fa": "این جمله هشداری دربارهٔ رعایت مهلت اداری است.",
+    "extra_example_nl": "Zorg ervoor dat je een kopie bewaart.",
+    "extra_example_fa": "مطمئن شو که یک نسخه نگه می‌داری.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مدارک گم شده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ گم شدن مدارک نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "مطمئن شو که همهٔ مدارک را به‌موقع ارسال می‌کنی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "مدرسه بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به هشدار جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من مدرک ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "warning_advice",
+    "life_context": "media_and_news",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Pas op dat je niet te veel vertrouwt op wat je online leest.",
+    "question_text_nl": "Wat wil deze persoon zeggen?",
+    "question_text_fa": "این شخص چه می‌خواهد بگوید؟",
+    "meaning_fa": "مواظب باش که زیاد به آنچه آنلاین می‌خوانی اعتماد نکنی.",
+    "usage_note_fa": "این جمله هشداری دربارهٔ اعتبار اطلاعات آنلاین است.",
+    "extra_example_nl": "Pas op dat je meerdere bronnen controleert.",
+    "extra_example_fa": "مواظب باش که چند منبع را بررسی کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "اینترنت قطع شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ قطعی اینترنت نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "همهٔ اخبار درست است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس هشدار جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "مواظب باش که زیاد به آنچه آنلاین می‌خوانی اعتماد نکنی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "من اخبار نمی‌خوانم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به هشدار جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "warning_advice",
+    "life_context": "travel_and_culture",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Zorg ervoor dat je je paspoort niet vergeet mee te nemen.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "مطمئن شو که پاسپورتت را فراموش نمی‌کنی همراه ببری.",
+    "usage_note_fa": "این جمله هشداری دربارهٔ آمادگی برای سفر است.",
+    "extra_example_nl": "Zorg ervoor dat je op tijd op het vliegveld bent.",
+    "extra_example_fa": "مطمئن شو که به‌موقع در فرودگاه هستی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "پاسپورت گم شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ گم شدن پاسپورت نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "سفر لغو شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به هشدار جمله ندارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "فرودگاه بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      },
+      {
+        "key": "D",
+        "text_fa": "مطمئن شو که پاسپورتت را فراموش نمی‌کنی همراه ببری.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "formal_advice",
+    "life_context": "technology_and_internet",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Het wordt aangeraden om de instructies zorgvuldig te volgen.",
+    "question_text_nl": "Wat raadt deze persoon aan?",
+    "question_text_fa": "این شخص چه چیزی را توصیه می‌کند؟",
+    "meaning_fa": "توصیه می‌شود که دستورالعمل‌ها را با دقت دنبال کنی.",
+    "usage_note_fa": "این شکل رسمی برای توصیه در متون رسمی و اطلاعیه‌ها استفاده می‌شود.",
+    "extra_example_nl": "Het wordt aangeraden om het apparaat regelmatig te updaten.",
+    "extra_example_fa": "توصیه می‌شود که دستگاه را مرتب به‌روزرسانی کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "توصیه می‌شود که دستورالعمل‌ها را با دقت دنبال کنی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "دستورالعمل‌ها اشتباه است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ اشتباه بودن دستورالعمل‌ها نیست."
+      },
+      {
+        "key": "C",
+        "text_fa": "دستگاه خراب شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "دستورالعمل‌ها اجباری نیستند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "formal_advice",
+    "life_context": "health_and_lifestyle",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Het verdient aanbeveling om regelmatig een gezondheidscontrole te laten doen.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "توصیه می‌شود که به‌طور منظم چکاپ سلامتی انجام بدهی.",
+    "usage_note_fa": "این جمله شکل رسمی توصیهٔ پزشکی است.",
+    "extra_example_nl": "Het verdient aanbeveling om voldoende te bewegen.",
+    "extra_example_fa": "توصیه می‌شود که به‌اندازهٔ کافی ورزش کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "بیمارستان بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ بسته بودن بیمارستان نیست."
+      },
+      {
+        "key": "B",
+        "text_fa": "توصیه می‌شود که به‌طور منظم چکاپ سلامتی انجام بدهی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "چکاپ اجباری است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله می‌گوید توصیه‌شده است، نه اجباری."
+      },
+      {
+        "key": "D",
+        "text_fa": "من مریض هستم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "formal_advice",
+    "life_context": "travel_and_culture",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Het wordt aanbevolen om vroeg te reserveren tijdens het hoogseizoen.",
+    "question_text_nl": "Wat is het advies in deze zin?",
+    "question_text_fa": "توصیهٔ این جمله چیست؟",
+    "meaning_fa": "توصیه می‌شود در فصل شلوغ زودتر رزرو کنی.",
+    "usage_note_fa": "این جمله توصیهٔ رسمی دربارهٔ برنامه‌ریزی سفر است.",
+    "extra_example_nl": "Het wordt aanbevolen om reisverzekering af te sluiten.",
+    "extra_example_fa": "توصیه می‌شود بیمهٔ سفر بگیری.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "هتل‌ها پر شده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ پر شدن هتل‌ها نیست، بلکه یک توصیه است."
+      },
+      {
+        "key": "B",
+        "text_fa": "رزرو کردن ممنوع است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "توصیه می‌شود در فصل شلوغ زودتر رزرو کنی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "فصل شلوغ تمام شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "formal_advice",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Het is raadzaam om juridisch advies in te winnen voordat je het contract ondertekent.",
+    "question_text_nl": "Wat wil deze persoon zeggen?",
+    "question_text_fa": "این شخص چه می‌خواهد بگوید؟",
+    "meaning_fa": "عاقلانه است که قبل از امضای قرارداد، مشاورهٔ حقوقی بگیری.",
+    "usage_note_fa": "این جمله توصیهٔ رسمی دربارهٔ احتیاط قانونی است.",
+    "extra_example_nl": "Het is raadzaam om alle voorwaarden te vergelijken.",
+    "extra_example_fa": "عاقلانه است که همهٔ شرایط را مقایسه کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "قرارداد امضا شده است.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دربارهٔ گذشته نیست، بلکه توصیه‌ای برای قبل از امضاست."
+      },
+      {
+        "key": "B",
+        "text_fa": "وکیل در دسترس نیست.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "قرارداد رایگان است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      },
+      {
+        "key": "D",
+        "text_fa": "عاقلانه است که قبل از امضای قرارداد، مشاورهٔ حقوقی بگیری.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "formal_advice",
+    "life_context": "environment_and_sustainability",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Het wordt aangeraden om afval goed te scheiden.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "توصیه می‌شود که زباله‌ها را به‌درستی تفکیک کنی.",
+    "usage_note_fa": "این جمله توصیهٔ رسمی دربارهٔ محیط زیست است.",
+    "extra_example_nl": "Het wordt aangeraden om minder plastic te gebruiken.",
+    "extra_example_fa": "توصیه می‌شود که پلاستیک کمتری استفاده کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "توصیه می‌شود که زباله‌ها را به‌درستی تفکیک کنی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "تفکیک زباله ممنوع است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "زباله دیگر جمع‌آوری نمی‌شود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به توصیهٔ جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "همهٔ زباله‌ها یکسان هستند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "advice_meaning",
+    "subtopic": "formal_advice",
+    "life_context": "relationships_and_society",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Het verdient aanbeveling om bij twijfel altijd een tweede mening te vragen.",
+    "question_text_nl": "Wat raadt deze persoon aan?",
+    "question_text_fa": "این شخص چه چیزی را توصیه می‌کند؟",
+    "meaning_fa": "توصیه می‌شود که در صورت تردید، همیشه نظر دوم را بپرسی.",
+    "usage_note_fa": "این جمله توصیهٔ رسمی دربارهٔ تصمیم‌گیری آگاهانه است.",
+    "extra_example_nl": "Het verdient aanbeveling om rustig na te denken voordat je beslist.",
+    "extra_example_fa": "توصیه می‌شود قبل از تصمیم‌گیری، آرام فکر کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نظر دوم لازم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "توصیه می‌شود که در صورت تردید، همیشه نظر دوم را بپرسی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی و توصیهٔ درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "من مطمئن هستم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این تصمیم اشتباه است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      }
+    ]
+  }
+]

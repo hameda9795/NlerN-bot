@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn fiets staat niet buiten, maar in de ___, naast de auto.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون فاعل صراحتاً می‌گوید «niet buiten» (بیرون نیست)، و کنار ماشین است، «garage» درست است؛ «tuin» چون بیرون از خانه است رد می‌شود.",
+    "grammar_rule_fa": "واژگان خانه: garage=گاراژ، tuin=حیاط، kelder=زیرزمین، zolder=اتاقِ زیرِ شیروانی.",
+    "extra_example_nl": "De auto staat in de garage.",
+    "extra_example_fa": "ماشین در گاراژ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "garage",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کنار ماشین و «niet buiten» فقط با گاراژ جور است."
+      },
+      {
+        "key": "B",
+        "text_nl": "tuin",
+        "is_correct": false,
+        "feedback_fa": "حیاط بیرون از خانه است؛ متن می‌گوید «niet buiten»."
+      },
+      {
+        "key": "C",
+        "text_nl": "kelder",
+        "is_correct": false,
+        "feedback_fa": "معمولاً ماشین در زیرزمین نگه‌داری نمی‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "zolder",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We hebben geen extra slaapkamer. Gasten slapen boven, op de ___, waar we ook oude spullen bewaren.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کلمه‌ی «boven» (بالا) نشان می‌دهد منظور «zolder» (اتاقِ زیرِ شیروانی) است، نه زیرزمین که پایین است.",
+    "grammar_rule_fa": "zolder=بالا (زیرِ شیروانی)، kelder=پایین (زیرِ خانه).",
+    "extra_example_nl": "Oude dozen liggen op de zolder.",
+    "extra_example_fa": "جعبه‌های قدیمی در اتاقِ زیرِ شیروانی هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kelder",
+        "is_correct": false,
+        "feedback_fa": "کلمه‌ی «boven» رد می‌کند؛ kelder پایین است."
+      },
+      {
+        "key": "B",
+        "text_nl": "garage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "badkamer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "zolder",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «boven» فقط با zolder جور است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De zon schijnt recht in mijn ogen. Doe de ___ maar even dicht.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای بستنِ نورِ خورشید، پرده (gordijnen) بسته می‌شود؛ بستنِ پنجره خودِ نور را کم نمی‌کند.",
+    "grammar_rule_fa": "برای مسدود کردنِ نور از «gordijnen» استفاده می‌شود، نه از «raam».",
+    "extra_example_nl": "Doe de gordijnen dicht, het is te licht.",
+    "extra_example_fa": "پرده‌ها رو ببند، خیلی روشنه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kast",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "lamp",
+        "is_correct": false,
+        "feedback_fa": "لامپ را «uitdoen» می‌کنند، نه «dichtdoen»."
+      },
+      {
+        "key": "C",
+        "text_nl": "gordijnen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای جلوگیری از نور، پرده بسته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "raam",
+        "is_correct": false,
+        "feedback_fa": "بستنِ پنجره نور را کم نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "In dit huis is de wc niet in de badkamer. Hij is in een apart ___, naast de voordeur.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "متن می‌گوید دستشویی جدا از حمام است؛ اتاقِ جداگانه‌ی دستشویی «toilet» نامیده می‌شود.",
+    "grammar_rule_fa": "toilet=اتاقِ جداگانه‌ی دستشویی، badkamer=حمام (برای دوش/استحمام).",
+    "extra_example_nl": "Het toilet is naast de keuken.",
+    "extra_example_fa": "دستشویی کنار آشپزخانه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "garage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "toilet",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اتاقِ جداگانه‌ی دستشویی."
+      },
+      {
+        "key": "C",
+        "text_nl": "badkamer",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید دستشویی این‌جا جدا از حمام است."
+      },
+      {
+        "key": "D",
+        "text_nl": "keuken",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Leg de vieze kleren niet in de kast, maar in de ___ bij de wasmachine.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "لباس‌های کثیف قبل از شستن در «wasmand» (سبد لباسِ کثیف) گذاشته می‌شوند، نه در خشک‌کن.",
+    "grammar_rule_fa": "wasmand=سبدِ لباسِ کثیف، droger=خشک‌کن (بعد از شستن استفاده می‌شود).",
+    "extra_example_nl": "De vuile was ligt in de wasmand.",
+    "extra_example_fa": "لباسِ کثیف در سبد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wasmand",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محل نگه‌داری لباسِ کثیف قبل از شستن."
+      },
+      {
+        "key": "B",
+        "text_nl": "droger",
+        "is_correct": false,
+        "feedback_fa": "خشک‌کن برای بعد از شستنِ لباس است."
+      },
+      {
+        "key": "C",
+        "text_nl": "koelkast",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "kast",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet in de kast»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "In dit gebouw is er geen lift, alleen een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون آسانسور صراحتاً رد شده، تنها گزینه‌ی باقی‌مانده برای بالا رفتن «trap» (پله) است.",
+    "grammar_rule_fa": "trap=پله، lift=آسانسور.",
+    "extra_example_nl": "We nemen de trap, want de lift is kapot.",
+    "extra_example_fa": "از پله می‌رویم، چون آسانسور خراب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "lift",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «geen lift»."
+      },
+      {
+        "key": "B",
+        "text_nl": "deur",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "raam",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "trap",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تنها راهِ باقی‌مانده برای بالا رفتن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We drogen de was niet buiten vandaag, want het regent. We gebruiken de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون بیرون باران می‌بارد، برای خشک کردن باید از دستگاهِ خشک‌کن استفاده کرد.",
+    "grammar_rule_fa": "droger=خشک‌کن، waslijn=بندِ رختِ بیرون (وقتی باران است، مناسب نیست).",
+    "extra_example_nl": "Bij regen gebruiken we de droger, niet de waslijn.",
+    "extra_example_fa": "وقتِ باران، از خشک‌کن استفاده می‌کنیم، نه بندِ رخت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wasmachine",
+        "is_correct": false,
+        "feedback_fa": "ماشینِ لباسشویی برای شستن است، نه خشک کردن."
+      },
+      {
+        "key": "B",
+        "text_nl": "strijkijzer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "droger",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ جایگزینِ بندِ رختِ بیرون در روزِ بارانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "waslijn",
+        "is_correct": false,
+        "feedback_fa": "بندِ رخت بیرون است؛ متن می‌گوید «niet buiten»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Zet de melk niet op tafel, maar terug in de ___, anders wordt hij warm.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای این‌که شیر گرم نشود، باید در یخچال گذاشته شود، نه در فریزر یا کابینت.",
+    "grammar_rule_fa": "koelkast=یخچال (سرد نگه می‌دارد)، vriezer=فریزر (خیلی سردتر، برای شیرِ روزانه مناسب نیست).",
+    "extra_example_nl": "Zet de kaas terug in de koelkast.",
+    "extra_example_fa": "پنیر رو برگردون تو یخچال.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "oven",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "koelkast",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای جلوگیری از گرم شدنِ شیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "vriezer",
+        "is_correct": false,
+        "feedback_fa": "فریزر برای نگه‌داریِ روزانه‌ی شیر مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "kast",
+        "is_correct": false,
+        "feedback_fa": "کابینت شیر را سرد نگه نمی‌دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik druk op de knop aan de muur, maar er gebeurt niets. Ik denk dat de ___ kapot is.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کلمه‌ی «knop aan de muur» (دکمه‌ی روی دیوار) دقیقاً به کلید برق اشاره دارد، نه به لامپ یا کابل.",
+    "grammar_rule_fa": "schakelaar=کلیدِ برق (دکمه‌ی روی دیوار)، lamp=خودِ لامپ.",
+    "extra_example_nl": "De schakelaar bij de deur werkt niet.",
+    "extra_example_fa": "کلیدِ کنارِ در کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "schakelaar",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «knop aan de muur» یعنی کلید برق."
+      },
+      {
+        "key": "B",
+        "text_nl": "lamp",
+        "is_correct": false,
+        "feedback_fa": "لامپ دکمه ندارد؛ دکمه مالِ کلید است."
+      },
+      {
+        "key": "C",
+        "text_nl": "stopcontact",
+        "is_correct": false,
+        "feedback_fa": "پریز معمولاً دکمه ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "kabel",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We hebben geen tuin, maar wel een klein ___ met twee stoelen, hoog boven de straat.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "عبارتِ «hoog boven de straat» (بالای خیابان) نشان می‌دهد منظور بالکن است، نه تراس که معمولاً هم‌سطحِ زمین است.",
+    "grammar_rule_fa": "balkon=بالکن (بالا، طبقات بالا)، terras=تراس (معمولاً هم‌سطحِ زمین).",
+    "extra_example_nl": "Ons balkon is op de vierde verdieping.",
+    "extra_example_fa": "بالکنِ ما در طبقه‌ی چهارم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "terras",
+        "is_correct": false,
+        "feedback_fa": "تراس معمولاً هم‌سطحِ زمین است، نه بالای خیابان."
+      },
+      {
+        "key": "B",
+        "text_nl": "tuin",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «geen tuin»."
+      },
+      {
+        "key": "C",
+        "text_nl": "garage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "balkon",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «hoog boven de straat» فقط با بالکن جور است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik veeg de vloer niet met de bezem, ik gebruik de ___, want dat gaat sneller.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کلمه‌ی «sneller» (سریع‌تر) نشان می‌دهد منظور جاروبرقی است، نه جارویی که همین الان رد شده.",
+    "grammar_rule_fa": "stofzuiger=جاروبرقی (سریع)، bezem=جاروی دستی (کندتر).",
+    "extra_example_nl": "De stofzuiger is sneller dan de bezem.",
+    "extra_example_fa": "جاروبرقی سریع‌تر از جاروی دستی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "emmer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "bezem",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet met de bezem»."
+      },
+      {
+        "key": "C",
+        "text_nl": "stofzuiger",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «sneller» با جاروبرقی جور است."
+      },
+      {
+        "key": "D",
+        "text_nl": "dweil",
+        "is_correct": false,
+        "feedback_fa": "تی برای شست‌وشوی تر است، نه جارو کردنِ سریع."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Doe de deur niet alleen dicht, doe hem ook op ___, want het is hier niet veilig.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "عبارتِ ثابتِ «op slot doen» یعنی قفل کردن؛ این با «امن نبودن» هم‌خوانی دارد.",
+    "grammar_rule_fa": "op slot doen = قفل کردن (عبارتِ ثابت).",
+    "extra_example_nl": "Doe de deur op slot als je weggaat.",
+    "extra_example_fa": "وقتی می‌ری در رو قفل کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "sleutel",
+        "is_correct": false,
+        "feedback_fa": "عبارتِ درست «op slot»، نه «op sleutel» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "slot",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ عبارتِ ثابتِ «op slot doen»."
+      },
+      {
+        "key": "C",
+        "text_nl": "klink",
+        "is_correct": false,
+        "feedback_fa": "دستگیره را نمی‌گویند «op klink doen»."
+      },
+      {
+        "key": "D",
+        "text_nl": "scharnier",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We wonen op de begane grond. Onze nieuwe buren wonen niet naast ons, maar ___ ons, op de eerste verdieping.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون ما طبقه‌ی همکف هستیم و همسایه‌ی جدید طبقه‌ی اول است، او «boven» (بالای) ما زندگی می‌کند.",
+    "grammar_rule_fa": "boven=بالا، onder=پایین، naast=کنار.",
+    "extra_example_nl": "De buren boven ons maken veel lawaai.",
+    "extra_example_fa": "همسایه‌های بالایی ما سروصدای زیادی می‌کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "boven",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ طبقه‌ی اول بالاتر از همکف است."
+      },
+      {
+        "key": "B",
+        "text_nl": "onder",
+        "is_correct": false,
+        "feedback_fa": "پایین‌تر از همکف وجود ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "naast",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet naast ons»."
+      },
+      {
+        "key": "D",
+        "text_nl": "tegenover",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik strijk de was niet op de keukentafel, ik gebruik de ___, want die is speciaal daarvoor gemaakt.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "وسیله‌ای که مخصوصِ اتوکشی ساخته شده «strijkplank» (میزِ اتو) است.",
+    "grammar_rule_fa": "strijkplank=میزِ اتو، strijkijzer=خودِ اتو.",
+    "extra_example_nl": "Zet de strijkplank even neer.",
+    "extra_example_fa": "میزِ اتو رو بذار.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "strijkijzer",
+        "is_correct": false,
+        "feedback_fa": "این خودِ اتو است، نه سطحِ زیرِ آن."
+      },
+      {
+        "key": "B",
+        "text_nl": "wasmachine",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "droogrek",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "strijkplank",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ وسیله‌ی مخصوصِ اتوکشی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We hebben geen droger, dus we hangen de was aan de ___ in de tuin.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "عبارتِ «in de tuin» (در حیاط) نشان می‌دهد منظور بندِ رختِ بیرون است، نه جای خشک‌کنِ داخلِ خانه.",
+    "grammar_rule_fa": "waslijn=بندِ رختِ بیرون، droogrek=جای خشک‌کنِ داخلِ خانه.",
+    "extra_example_nl": "De was hangt aan de waslijn te drogen.",
+    "extra_example_fa": "لباس‌ها روی بندِ رخت آویزانند تا خشک شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "balkon",
+        "is_correct": false,
+        "feedback_fa": "این مکان است، نه وسیله."
+      },
+      {
+        "key": "B",
+        "text_nl": "muur",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "waslijn",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «in de tuin» فقط با بندِ رختِ بیرون جور است."
+      },
+      {
+        "key": "D",
+        "text_nl": "droogrek",
+        "is_correct": false,
+        "feedback_fa": "این معمولاً داخلِ خانه است، نه در حیاط."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Leg de sleutel niet op tafel. Hang hem aan het ___ bij de voordeur.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "فعلِ «hangen aan» (آویزان کردن به) با «haakje» (قلاب) جور است، نه با کمد یا قفسه که رویشان چیزی گذاشته می‌شود.",
+    "grammar_rule_fa": "hangen aan = آویزان کردن؛ فقط با haakje (قلاب) طبیعی است.",
+    "extra_example_nl": "Hang je jas aan het haakje.",
+    "extra_example_fa": "کتت رو به قلاب آویزون کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "slot",
+        "is_correct": false,
+        "feedback_fa": "قفل ربطی به آویزان‌کردنِ کلید ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "haakje",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط قلاب را می‌شود «hangen»."
+      },
+      {
+        "key": "C",
+        "text_nl": "kastje",
+        "is_correct": false,
+        "feedback_fa": "چیزها را در کمد «leggen»، نه «hangen»."
+      },
+      {
+        "key": "D",
+        "text_nl": "plank",
+        "is_correct": false,
+        "feedback_fa": "روی قفسه «leggen»، نه «hangen»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We hebben een tuin achter het huis, maar voor het huis hebben we alleen een klein ___ met wat bloempotten.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون حیاطِ پشتی قبلاً نام برده شده، «voor het huis» فقط با حیاطِ جلویی (voortuin) جور است.",
+    "grammar_rule_fa": "voortuin=حیاطِ جلوی خانه، achtertuin=حیاطِ پشتِ خانه.",
+    "extra_example_nl": "Er staan bloemen in de voortuin.",
+    "extra_example_fa": "در حیاطِ جلویی گل هست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "voortuin",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «voor het huis» یعنی جلوی خانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "achtertuin",
+        "is_correct": false,
+        "feedback_fa": "متن قبلاً گفته حیاطِ پشتی جداست."
+      },
+      {
+        "key": "C",
+        "text_nl": "balkon",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "garage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het is winter en het huis is koud. Zet de ___ hoger, dan wordt het warmer.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای گرم شدنِ خانه در زمستان، بخاری (verwarming) روشن یا بیشتر می‌شود، نه کولر که سرد می‌کند.",
+    "grammar_rule_fa": "verwarming=گرم می‌کند، airconditioning=سرد می‌کند.",
+    "extra_example_nl": "Zet de verwarming aan, het is koud.",
+    "extra_example_fa": "بخاری رو روشن کن، سرده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "airconditioning",
+        "is_correct": false,
+        "feedback_fa": "کولر سرد می‌کند، نه گرم."
+      },
+      {
+        "key": "B",
+        "text_nl": "ventilator",
+        "is_correct": false,
+        "feedback_fa": "پنکه هوا را خنک می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "koelkast",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "verwarming",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط بخاری خانه را گرم می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We hebben een kleine keuken, dus we bewaren extra eten niet in de kast, maar in de ___ in de kelder.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کلمه‌ی «extra eten» (غذای اضافه/ذخیره) نشان می‌دهد منظور فریزر برای نگه‌داریِ طولانی‌مدت است.",
+    "grammar_rule_fa": "vriezer=نگه‌داریِ طولانی‌مدت، koelkast=نگه‌داریِ روزانه.",
+    "extra_example_nl": "We bewaren brood in de vriezer.",
+    "extra_example_fa": "نان را در فریزر نگه می‌داریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "oven",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "magnetron",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "vriezer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای ذخیره‌ی طولانی‌مدتِ غذای اضافه."
+      },
+      {
+        "key": "D",
+        "text_nl": "koelkast",
+        "is_correct": false,
+        "feedback_fa": "یخچال بیشتر برای غذای روزانه است، نه ذخیره‌ی اضافه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Doe de vuilniszak niet in de keuken, breng hem naar de ___ buiten.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کیسه‌ی زباله باید به سطلِ زباله‌ی بیرونِ خانه برده شود.",
+    "grammar_rule_fa": "vuilnisbak=سطلِ زباله.",
+    "extra_example_nl": "Zet de vuilnisbak buiten voor de gemeente.",
+    "extra_example_fa": "سطلِ زباله رو بیرون بذار برای شهرداری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "schuur",
+        "is_correct": false,
+        "feedback_fa": "انبار برای زباله نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "vuilnisbak",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محلِ درستِ کیسه‌ی زباله."
+      },
+      {
+        "key": "C",
+        "text_nl": "wasmand",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "brievenbus",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik zoek een pen. Kijk niet in de keuken, maar in het ___ naast de telefoon.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای وسایلِ کوچکی مثل خودکار، معمولاً از کشوی کوچک (laatje) استفاده می‌شود.",
+    "grammar_rule_fa": "laatje=کشوی کوچک.",
+    "extra_example_nl": "De pennen liggen in het laatje.",
+    "extra_example_fa": "خودکارها در کشو هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "laatje",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محلِ معمولِ نگه‌داریِ خودکار."
+      },
+      {
+        "key": "B",
+        "text_nl": "koelkast",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "wasmand",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "prullenbak",
+        "is_correct": false,
+        "feedback_fa": "سطلِ زباله برای نگه‌داریِ خودکار نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We hebben bezoek. Zet extra stoelen niet in de slaapkamer, maar in de ___, waar we gaan zitten praten.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "اتاق اصلیِ نشستن و صحبت با مهمان، اتاقِ نشیمن (woonkamer) است.",
+    "grammar_rule_fa": "woonkamer=اتاقِ نشیمن (محلِ اصلیِ نشستن).",
+    "extra_example_nl": "We zitten in de woonkamer te praten.",
+    "extra_example_fa": "در اتاقِ نشیمن نشسته‌ایم و صحبت می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "slaapkamer",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet in de slaapkamer»."
+      },
+      {
+        "key": "B",
+        "text_nl": "badkamer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "garage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "woonkamer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اتاقِ اصلیِ نشستن با مهمان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De deur piept heel hard als je hem opendoet. We moeten de ___ een keer oliën.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "فعلِ «oliën» (روغن‌کاری کردن) مخصوصِ لولا (scharnieren) است که باعثِ جیرجیرِ در می‌شود.",
+    "grammar_rule_fa": "scharnieren=لولا (نیاز به روغن‌کاری برای رفعِ جیرجیر).",
+    "extra_example_nl": "De scharnieren van de kast piepen.",
+    "extra_example_fa": "لولاهای کمد جیرجیر می‌کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "slot",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "deurmat",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "scharnieren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ لولا با روغن‌کاری جیرجیرش قطع می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "klink",
+        "is_correct": false,
+        "feedback_fa": "دستگیره نیاز به روغن‌کاری برای جیرجیر ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We wonen op de derde verdieping. Als de ___ kapot is, moeten we de trap nemen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون پله به‌عنوان جایگزین آمده، وسیله‌ی خراب‌شده باید آسانسور باشد.",
+    "grammar_rule_fa": "lift=آسانسور، trap=پله.",
+    "extra_example_nl": "Als de lift kapot is, gebruiken we de trap.",
+    "extra_example_fa": "اگر آسانسور خراب باشد، از پله استفاده می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "raam",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "lift",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ در صورتِ خرابی، باید از پله استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "trap",
+        "is_correct": false,
+        "feedback_fa": "پله جایگزین است، نه چیزی که خراب شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "deur",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Zet de vuile schoenen niet in de woonkamer. Laat ze op de ___ bij de voordeur staan.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کفش‌های کثیف معمولاً کنارِ در، روی پادری گذاشته می‌شوند، نه داخلِ اتاقِ نشیمن.",
+    "grammar_rule_fa": "deurmat=پادری (کنارِ در).",
+    "extra_example_nl": "Veeg je schoenen af op de deurmat.",
+    "extra_example_fa": "کفش‌هاتو روی پادری پاک کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "deurmat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محلِ مناسبِ کفش کنارِ در."
+      },
+      {
+        "key": "B",
+        "text_nl": "vloerkleed",
+        "is_correct": false,
+        "feedback_fa": "این داخلِ اتاقِ نشیمن است؛ متن آن را رد کرده."
+      },
+      {
+        "key": "C",
+        "text_nl": "kast",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "bed",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "In de zomer is het te warm in de slaapkamer. We zetten de ___ aan om het koeler te maken.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای خنک کردنِ اتاق در تابستان، پنکه (ventilator) روشن می‌شود، نه بخاری که گرم می‌کند.",
+    "grammar_rule_fa": "ventilator=خنک می‌کند، verwarming=گرم می‌کند.",
+    "extra_example_nl": "We zetten de ventilator aan, het is warm.",
+    "extra_example_fa": "پنکه رو روشن می‌کنیم، هوا گرمه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verwarming",
+        "is_correct": false,
+        "feedback_fa": "بخاری گرم می‌کند، نه خنک."
+      },
+      {
+        "key": "B",
+        "text_nl": "oven",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "droger",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "ventilator",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط پنکه اتاق را خنک می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb een pakket besteld. Als ik niet thuis ben, mag de postbode het bij de ___ afgeven.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بسته‌ی پستی بزرگ‌تر از آن است که در صندوقِ پستی جا شود؛ پس نزدِ همسایه‌ها گذاشته می‌شود.",
+    "grammar_rule_fa": "buren=همسایه‌ها، brievenbus=صندوقِ پستی (فقط برای نامه).",
+    "extra_example_nl": "De postbode geeft pakketten af bij de buren.",
+    "extra_example_fa": "پستچی بسته‌ها را نزدِ همسایه‌ها می‌گذارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "garage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "kelder",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "buren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محلِ معمولِ تحویلِ بسته در غیابِ صاحب‌خانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "brievenbus",
+        "is_correct": false,
+        "feedback_fa": "صندوقِ پستی فقط برای نامه است، نه بسته‌ی بزرگ."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We hebben een klein huis zonder tuin, maar op het dak hebben we een ___ waar we in de zomer zitten.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "عبارتِ «op het dak» (روی پشت‌بام) نشان می‌دهد منظور تراسِ رویِ بام است.",
+    "grammar_rule_fa": "dakterras=تراسِ رویِ پشت‌بام.",
+    "extra_example_nl": "We zitten 's zomers op het dakterras.",
+    "extra_example_fa": "تابستان‌ها روی تراسِ پشت‌بام می‌نشینیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "garage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "dakterras",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «op het dak» فقط با تراسِ پشت‌بام جور است."
+      },
+      {
+        "key": "C",
+        "text_nl": "balkon",
+        "is_correct": false,
+        "feedback_fa": "بالکن معمولاً روی پشت‌بام نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "kelder",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil zien hoe mijn kleren eruitzien. Ik kijk in de ___ naast de kast.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای دیدنِ ظاهرِ لباس، در آینه (spiegel) نگاه می‌کنند.",
+    "grammar_rule_fa": "spiegel=آینه.",
+    "extra_example_nl": "Ik kijk in de spiegel voordat ik wegga.",
+    "extra_example_fa": "قبل از رفتن، تو آینه نگاه می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "spiegel",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای دیدنِ ظاهرِ خود از آینه استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "klok",
+        "is_correct": false,
+        "feedback_fa": "ساعت زمان را نشان می‌دهد، نه تصویر."
+      },
+      {
+        "key": "C",
+        "text_nl": "schilderij",
+        "is_correct": false,
+        "feedback_fa": "تابلوی نقاشی تصویرِ فرد را نشان نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "raam",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "home",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Na het douchen droog ik me af met een ___, niet met de deken.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای خشک کردنِ بدن بعد از دوش، حوله (handdoek) استفاده می‌شود، نه پتو.",
+    "grammar_rule_fa": "handdoek=حوله، deken=پتو (برای گرم شدن، نه خشک کردن).",
+    "extra_example_nl": "Ik pak een handdoek na het zwemmen.",
+    "extra_example_fa": "بعد از شنا حوله برمی‌دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "deken",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet met de deken»."
+      },
+      {
+        "key": "B",
+        "text_nl": "laken",
+        "is_correct": false,
+        "feedback_fa": "ملافه روی تخت است، نه برای خشک کردن."
+      },
+      {
+        "key": "C",
+        "text_nl": "kussen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "handdoek",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط حوله برای خشک کردنِ بدن است."
+      }
+    ]
+  }
+]

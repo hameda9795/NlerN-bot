@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij zei dat hij was moe.",
+    "question_text_nl": "Welke zin is de juiste indirecte rede?",
+    "question_text_fa": "کدام جمله نقل‌قولِ غیرمستقیمِ درستی است؟",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل «was» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "Zij zei dat ze ziek was.",
+    "extra_example_fa": "او گفت که مریض است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij zei dat hij moe was.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij zei dat hij was moe.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij zei hij was moe.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij zei of hij moe was.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij zei dat ze kwam morgen.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل «kwam» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "Hij zei dat hij morgen begon.",
+    "extra_example_fa": "او گفت که فردا شروع می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij zei dat ze kwam morgen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij zei dat ze morgen kwam.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij zei ze kwam morgen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij zei of ze morgen kwam.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De collega zei dat hij had het rapport af.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل «had» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "De manager zei dat hij het project af had.",
+    "extra_example_fa": "مدیر گفت که پروژه را تمام کرده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De collega zei dat hij had het rapport af.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De collega zei hij had het rapport af.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De collega zei dat hij het rapport af had.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De collega zei of hij het rapport af had.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De nieuwe buurman zei dat hij woonde in Utrecht.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل «woonde» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "Mijn buurvrouw zei dat ze in Rotterdam woonde.",
+    "extra_example_fa": "همسایه‌ام گفت که در روتردام زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De nieuwe buurman zei dat hij woonde in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De nieuwe buurman zei hij woonde in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De nieuwe buurman zei of hij in Utrecht woonde.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      },
+      {
+        "key": "D",
+        "text_nl": "De nieuwe buurman zei dat hij in Utrecht woonde.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De dokter zei dat hij had geen tijd.",
+    "question_text_nl": "Welke zin is de juiste indirecte rede?",
+    "question_text_fa": "کدام جمله نقل‌قولِ غیرمستقیمِ درستی است؟",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل «had» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "De verpleegkundige zei dat ze weinig tijd had.",
+    "extra_example_fa": "پرستار گفت که وقت کمی دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De dokter zei dat hij geen tijd had.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De dokter zei dat hij had geen tijd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De dokter zei hij had geen tijd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De dokter zei of hij geen tijd had.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De conducteur zei dat de trein had vertraging.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل «had» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "De chauffeur zei dat de bus vertraging had.",
+    "extra_example_fa": "راننده گفت که اتوبوس تأخیر دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De conducteur zei dat de trein had vertraging.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De conducteur zei dat de trein vertraging had.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De conducteur zei de trein had vertraging.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De conducteur zei of de trein vertraging had.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Mijn collega zei dat hij kon mij morgen helpen.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل کمکیِ «kon» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "Mijn buurman zei dat hij mij zaterdag kon helpen.",
+    "extra_example_fa": "همسایه‌ام گفت که شنبه می‌تواند کمکم کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn collega zei dat hij kon mij morgen helpen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn collega zei hij kon mij morgen helpen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn collega zei dat hij mij morgen kon helpen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn collega zei of hij mij morgen kon helpen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De klanten zeiden dat ze waren tevreden over de service.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل «waren» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "De gasten zeiden dat ze blij waren met de kamer.",
+    "extra_example_fa": "مهمانان گفتند که از اتاق راضی‌اند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De klanten zeiden dat ze waren tevreden over de service.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De klanten zeiden ze waren tevreden over de service.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De klanten zeiden of ze tevreden waren over de service.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      },
+      {
+        "key": "D",
+        "text_nl": "De klanten zeiden dat ze tevreden waren over de service.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De gast zei dat hij moest vroeg vertrekken.",
+    "question_text_nl": "Welke zin is de juiste indirecte rede?",
+    "question_text_fa": "کدام جمله نقل‌قولِ غیرمستقیمِ درستی است؟",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل کمکیِ «moest» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "De toerist zei dat hij snel moest inchecken.",
+    "extra_example_fa": "گردشگر گفت که باید سریع چک‌این کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De gast zei dat hij vroeg moest vertrekken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De gast zei dat hij moest vroeg vertrekken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gast zei hij moest vroeg vertrekken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gast zei of hij vroeg moest vertrekken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De koper zei dat het huis was te duur.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل «was» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "De huurder zei dat de kamer te klein was.",
+    "extra_example_fa": "مستأجر گفت که اتاق خیلی کوچک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De koper zei dat het huis was te duur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De koper zei dat het huis te duur was.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De koper zei het huis was te duur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De koper zei of het huis te duur was.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De manager zei dat hij had de e-mail nog niet gelezen.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "این یک جمله‌ی خبری است، پس با «dat» نقل می‌شود و فعل کمکیِ «had» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.",
+    "extra_example_nl": "De directeur zei dat hij het contract nog niet getekend had.",
+    "extra_example_fa": "مدیر گفت که قرارداد را هنوز امضا نکرده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De manager zei dat hij had de e-mail nog niet gelezen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De manager zei hij had de e-mail nog niet gelezen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De manager zei dat hij de e-mail nog niet gelezen had.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ جمله‌ی خبری با «dat»، فعل صرف‌شده باید به انتهای جمله‌ی فرعی برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De manager zei of hij de e-mail nog niet gelezen had.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "statement_dat_perfect_order",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De leraar zei dat de regels waren veranderd.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "این یک جمله‌ی خبری با زمانِ کامل است؛ در جمله‌ی فرعی با «dat»، فعل کمکی «waren» بعد از فعل اصلی «veranderd» و در انتهای جمله می‌آید.",
+    "correction_rule_fa": "در جمله‌ی فرعی با زمانِ کامل: dat + ... + فعل اصلی (participium) + فعل کمکی، در انتهای جمله.",
+    "extra_example_nl": "De directeur zei dat de plannen goedgekeurd waren.",
+    "extra_example_fa": "مدیر گفت که طرح‌ها تأیید شده‌اند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De leraar zei dat de regels waren veranderd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی فرعی با فعل کامل، ترتیب باید «فاعل مفعولی + waren» باشد؛ یعنی «veranderd waren»، نه «waren veranderd» که ترتیبِ جمله‌ی اصلی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De leraar zei de regels veranderd waren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قول غیرمستقیم باید با حرف ربط «dat» شروع شود؛ بدون آن ترتیبِ کلماتِ جمله‌ی مستقیم باقی می‌ماند که اشتباه است.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De leraar zei of de regels veranderd waren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ یک جمله‌ی خبری (نه سؤال) از «dat» استفاده می‌شود، نه «of».."
+      },
+      {
+        "key": "D",
+        "text_nl": "De leraar zei dat de regels veranderd waren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی فرعی با زمانِ کامل: dat + ... + فعل اصلی (participium) + فعل کمکی، در انتهای جمله."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "yesno_of",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ze vroeg of kwam ik morgen naar het feest.",
+    "question_text_nl": "Welke zin is de juiste indirecte rede?",
+    "question_text_fa": "کدام جمله نقل‌قولِ غیرمستقیمِ درستی است؟",
+    "explanation_fa": "این یک سؤالِ بله/خیر است، پس با «of» نقل می‌شود و فعل «kwam» به انتهای جمله می‌رود، بدون معکوس‌سازی.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).",
+    "extra_example_nl": "Hij vroeg of ik morgen kon komen.",
+    "extra_example_fa": "او پرسید آیا فردا می‌توانم بیایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ze vroeg of ik morgen naar het feest kwam.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ze vroeg of kwam ik morgen naar het feest.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ze vroeg kwam ik morgen naar het feest.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قولِ غیرمستقیمِ سؤالِ بله/خیر باید با «of» شروع شود؛ بدون آن ترتیبِ سؤالِ مستقیم اشتباه باقی می‌ماند.."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ze vroeg dat ik morgen naar het feest kwam.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ سؤالِ بله/خیر از «of» استفاده می‌شود، نه «dat».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "yesno_of",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Mijn huisgenoot vroeg of had ik de sleutels gezien.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "این یک سؤالِ بله/خیر است، پس با «of» نقل می‌شود و فعل کمکیِ «had» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).",
+    "extra_example_nl": "Ze vroeg of ik haar telefoon gezien had.",
+    "extra_example_fa": "او پرسید آیا گوشی‌اش را دیده‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn huisgenoot vroeg of had ik de sleutels gezien.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn huisgenoot vroeg of ik de sleutels gezien had.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn huisgenoot vroeg had ik de sleutels gezien.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قولِ غیرمستقیمِ سؤالِ بله/خیر باید با «of» شروع شود؛ بدون آن ترتیبِ سؤالِ مستقیم اشتباه باقی می‌ماند.."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn huisgenoot vroeg dat ik de sleutels gezien had.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ سؤالِ بله/خیر از «of» استفاده می‌شود، نه «dat».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "yesno_of",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De klant vroeg of werkte ik ook in het weekend.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "این یک سؤالِ بله/خیر است، پس با «of» نقل می‌شود و فعل «werkte» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).",
+    "extra_example_nl": "Hij vroeg of het bedrijf ook 's avonds open was.",
+    "extra_example_fa": "او پرسید آیا شرکت شب‌ها هم باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De klant vroeg of werkte ik ook in het weekend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).."
+      },
+      {
+        "key": "B",
+        "text_nl": "De klant vroeg werkte ik ook in het weekend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قولِ غیرمستقیمِ سؤالِ بله/خیر باید با «of» شروع شود؛ بدون آن ترتیبِ سؤالِ مستقیم اشتباه باقی می‌ماند.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De klant vroeg of ik ook in het weekend werkte.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De klant vroeg dat ik ook in het weekend werkte.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ سؤالِ بله/خیر از «of» استفاده می‌شود، نه «dat».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "yesno_of",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De reiziger vroeg of was de trein al vertrokken.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "این یک سؤالِ بله/خیر است، پس با «of» نقل می‌شود و فعل کمکیِ «was» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).",
+    "extra_example_nl": "Hij vroeg of de bus al gearriveerd was.",
+    "extra_example_fa": "او پرسید آیا اتوبوس رسیده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De reiziger vroeg of was de trein al vertrokken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).."
+      },
+      {
+        "key": "B",
+        "text_nl": "De reiziger vroeg was de trein al vertrokken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قولِ غیرمستقیمِ سؤالِ بله/خیر باید با «of» شروع شود؛ بدون آن ترتیبِ سؤالِ مستقیم اشتباه باقی می‌ماند.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De reiziger vroeg dat de trein al vertrokken was.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ سؤالِ بله/خیر از «of» استفاده می‌شود، نه «dat».."
+      },
+      {
+        "key": "D",
+        "text_nl": "De reiziger vroeg of de trein al vertrokken was.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "yesno_of",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De toerist vroeg of kon ik hem helpen.",
+    "question_text_nl": "Welke zin is de juiste indirecte rede?",
+    "question_text_fa": "کدام جمله نقل‌قولِ غیرمستقیمِ درستی است؟",
+    "explanation_fa": "این یک سؤالِ بله/خیر است، پس با «of» نقل می‌شود و فعل کمکیِ «kon» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).",
+    "extra_example_nl": "Ze vroeg of ik haar de weg kon wijzen.",
+    "extra_example_fa": "او پرسید آیا می‌توانم مسیر را نشانش بدهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De toerist vroeg of ik hem kon helpen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie)."
+      },
+      {
+        "key": "B",
+        "text_nl": "De toerist vroeg of kon ik hem helpen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).."
+      },
+      {
+        "key": "C",
+        "text_nl": "De toerist vroeg kon ik hem helpen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قولِ غیرمستقیمِ سؤالِ بله/خیر باید با «of» شروع شود؛ بدون آن ترتیبِ سؤالِ مستقیم اشتباه باقی می‌ماند.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De toerist vroeg dat ik hem kon helpen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ سؤالِ بله/خیر از «of» استفاده می‌شود، نه «dat».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "yesno_of",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De patiënt vroeg of had de dokter tijd voor hem.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "این یک سؤالِ بله/خیر است، پس با «of» نقل می‌شود و فعل «had» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).",
+    "extra_example_nl": "Ze vroeg of de verpleegkundige tijd voor haar had.",
+    "extra_example_fa": "او پرسید آیا پرستار وقتی برایش دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De patiënt vroeg of had de dokter tijd voor hem.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).."
+      },
+      {
+        "key": "B",
+        "text_nl": "De patiënt vroeg of de dokter tijd voor hem had.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie)."
+      },
+      {
+        "key": "C",
+        "text_nl": "De patiënt vroeg had de dokter tijd voor hem.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قولِ غیرمستقیمِ سؤالِ بله/خیر باید با «of» شروع شود؛ بدون آن ترتیبِ سؤالِ مستقیم اشتباه باقی می‌ماند.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De patiënt vroeg dat de dokter tijd voor hem had.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ سؤالِ بله/خیر از «of» استفاده می‌شود، نه «dat».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "yesno_of",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De student vroeg of was het huis nog te huur.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "این یک سؤالِ بله/خیر است، پس با «of» نقل می‌شود و فعل «was» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).",
+    "extra_example_nl": "Ze vroeg of de kamer nog vrij was.",
+    "extra_example_fa": "او پرسید آیا اتاق هنوز خالی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De student vroeg of was het huis nog te huur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).."
+      },
+      {
+        "key": "B",
+        "text_nl": "De student vroeg was het huis nog te huur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قولِ غیرمستقیمِ سؤالِ بله/خیر باید با «of» شروع شود؛ بدون آن ترتیبِ سؤالِ مستقیم اشتباه باقی می‌ماند.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De student vroeg of het huis nog te huur was.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De student vroeg dat het huis nog te huur was.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ سؤالِ بله/خیر از «of» استفاده می‌شود، نه «dat».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "yesno_of",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De collega vroeg of ging de vergadering door.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "این یک سؤالِ بله/خیر است، پس با «of» نقل می‌شود و فعل «doorging» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).",
+    "extra_example_nl": "Hij vroeg of de training doorging.",
+    "extra_example_fa": "او پرسید آیا دوره برگزار می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De collega vroeg of ging de vergadering door.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).."
+      },
+      {
+        "key": "B",
+        "text_nl": "De collega vroeg ging de vergadering door.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قولِ غیرمستقیمِ سؤالِ بله/خیر باید با «of» شروع شود؛ بدون آن ترتیبِ سؤالِ مستقیم اشتباه باقی می‌ماند.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De collega vroeg dat de vergadering doorging.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ سؤالِ بله/خیر از «of» استفاده می‌شود، نه «dat».."
+      },
+      {
+        "key": "D",
+        "text_nl": "De collega vroeg of de vergadering doorging.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "yesno_of",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De sollicitant vroeg of had ik zijn e-mail ontvangen.",
+    "question_text_nl": "Welke zin is de juiste indirecte rede?",
+    "question_text_fa": "کدام جمله نقل‌قولِ غیرمستقیمِ درستی است؟",
+    "explanation_fa": "این یک سؤالِ بله/خیر است، پس با «of» نقل می‌شود و فعل کمکیِ «had» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).",
+    "extra_example_nl": "Hij vroeg of wij zijn brief ontvangen hadden.",
+    "extra_example_fa": "او پرسید آیا نامه‌اش را دریافت کرده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De sollicitant vroeg of ik zijn e-mail ontvangen had.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie)."
+      },
+      {
+        "key": "B",
+        "text_nl": "De sollicitant vroeg of had ik zijn e-mail ontvangen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).."
+      },
+      {
+        "key": "C",
+        "text_nl": "De sollicitant vroeg had ik zijn e-mail ontvangen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قولِ غیرمستقیمِ سؤالِ بله/خیر باید با «of» شروع شود؛ بدون آن ترتیبِ سؤالِ مستقیم اشتباه باقی می‌ماند.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sollicitant vroeg dat ik zijn e-mail ontvangen had.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ سؤالِ بله/خیر از «of» استفاده می‌شود، نه «dat».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "yesno_of",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De toerist vroeg of was de winkel vandaag open.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "این یک سؤالِ بله/خیر است، پس با «of» نقل می‌شود و فعل «was» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).",
+    "extra_example_nl": "Ze vroeg of de markt vandaag open was.",
+    "extra_example_fa": "او پرسید آیا بازار امروز باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De toerist vroeg of was de winkel vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie).."
+      },
+      {
+        "key": "B",
+        "text_nl": "De toerist vroeg of de winkel vandaag open was.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قول غیرمستقیمِ سؤالِ بله/خیر با «of»، فعل صرف‌شده باید به انتهای جمله برود، نه معکوس (inversie)."
+      },
+      {
+        "key": "C",
+        "text_nl": "De toerist vroeg was de winkel vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: نقل‌قولِ غیرمستقیمِ سؤالِ بله/خیر باید با «of» شروع شود؛ بدون آن ترتیبِ سؤالِ مستقیم اشتباه باقی می‌ماند.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De toerist vroeg dat de winkel vandaag open was.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای نقل‌قولِ سؤالِ بله/خیر از «of» استفاده می‌شود، نه «dat».."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "wh_word",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij vroeg waar woonde ik.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون سؤال با کلمه‌ی پرسشیِ «waar» است، همان کلمه حفظ می‌شود و فعل «woonde» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.",
+    "extra_example_nl": "Ze vroeg waar hij werkte.",
+    "extra_example_fa": "او پرسید کجا کار می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij vroeg waar woonde ik.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij vroeg of ik woonde.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی (waar/wanneer/hoeveel/...) است، باید همان کلمه حفظ شود، نه «of» که فقط برای سؤالِ بله/خیر است.."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij vroeg waar ik woonde.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij vroeg dat ik waar woonde.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی است، آن کلمه باید بلافاصله بعد از فعلِ اصلی بیاید، نه اینکه با «dat» جایگزین یا جابه‌جا شود.."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "wh_word",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De leraar vroeg waarom kwam ik te laat.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "چون سؤال با کلمه‌ی پرسشیِ «waarom» است، همان کلمه حفظ می‌شود و فعل «kwam» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.",
+    "extra_example_nl": "Ze vroeg waarom hij niet kwam.",
+    "extra_example_fa": "او پرسید چرا او نیامد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De leraar vroeg waarom kwam ik te laat.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De leraar vroeg of ik te laat kwam waarom.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی (waar/wanneer/hoeveel/...) است، باید همان کلمه حفظ شود، نه «of» که فقط برای سؤالِ بله/خیر است.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De leraar vroeg dat ik waarom te laat kwam.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی است، آن کلمه باید بلافاصله بعد از فعلِ اصلی بیاید، نه اینکه با «dat» جایگزین یا جابه‌جا شود.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De leraar vroeg waarom ik te laat kwam.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "wh_word",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De nieuwe medewerker vroeg wanneer begon de training.",
+    "question_text_nl": "Welke zin is de juiste indirecte rede?",
+    "question_text_fa": "کدام جمله نقل‌قولِ غیرمستقیمِ درستی است؟",
+    "explanation_fa": "چون سؤال با کلمه‌ی پرسشیِ «wanneer» است، همان کلمه حفظ می‌شود و فعل «begon» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.",
+    "extra_example_nl": "Hij vroeg wanneer de cursus begon.",
+    "extra_example_fa": "او پرسید دوره کِی شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De nieuwe medewerker vroeg wanneer de training begon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی."
+      },
+      {
+        "key": "B",
+        "text_nl": "De nieuwe medewerker vroeg wanneer begon de training.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De nieuwe medewerker vroeg of de training begon wanneer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی (waar/wanneer/hoeveel/...) است، باید همان کلمه حفظ شود، نه «of» که فقط برای سؤالِ بله/خیر است.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De nieuwe medewerker vroeg dat de training wanneer begon.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی است، آن کلمه باید بلافاصله بعد از فعلِ اصلی بیاید، نه اینکه با «dat» جایگزین یا جابه‌جا شود.."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "wh_word",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De klant vroeg hoeveel kostte dit product.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "چون سؤال با کلمه‌ی پرسشیِ «hoeveel» است، همان کلمه حفظ می‌شود و فعل «kostte» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.",
+    "extra_example_nl": "Ze vroeg hoeveel de reparatie kostte.",
+    "extra_example_fa": "او پرسید تعمیر چقدر هزینه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De klant vroeg hoeveel kostte dit product.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De klant vroeg hoeveel dit product kostte.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی."
+      },
+      {
+        "key": "C",
+        "text_nl": "De klant vroeg of dit product hoeveel kostte.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی (waar/wanneer/hoeveel/...) است، باید همان کلمه حفظ شود، نه «of» که فقط برای سؤالِ بله/خیر است.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De klant vroeg dat dit product hoeveel kostte.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی است، آن کلمه باید بلافاصله بعد از فعلِ اصلی بیاید، نه اینکه با «dat» جایگزین یا جابه‌جا شود.."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "wh_word",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De passagier vroeg hoe laat vertrok de bus.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون سؤال با عبارتِ پرسشیِ «hoe laat» است، همان عبارت حفظ می‌شود و فعل «vertrok» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.",
+    "extra_example_nl": "Hij vroeg hoe laat de trein aankwam.",
+    "extra_example_fa": "او پرسید قطار ساعت چند می‌رسد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De passagier vroeg hoe laat vertrok de bus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De passagier vroeg of de bus hoe laat vertrok.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی (waar/wanneer/hoeveel/...) است، باید همان کلمه حفظ شود، نه «of» که فقط برای سؤالِ بله/خیر است.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De passagier vroeg hoe laat de bus vertrok.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی."
+      },
+      {
+        "key": "D",
+        "text_nl": "De passagier vroeg dat de bus hoe laat vertrok.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی است، آن کلمه باید بلافاصله بعد از فعلِ اصلی بیاید، نه اینکه با «dat» جایگزین یا جابه‌جا شود.."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "wh_word",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De monteur vroeg wat was het probleem.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "چون سؤال با کلمه‌ی پرسشیِ «wat» است، همان کلمه حفظ می‌شود و فعل «was» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.",
+    "extra_example_nl": "Ze vroeg wat er mis was met de printer.",
+    "extra_example_fa": "او پرسید مشکل پرینتر چیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De monteur vroeg wat was het probleem.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De monteur vroeg of het probleem wat was.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی (waar/wanneer/hoeveel/...) است، باید همان کلمه حفظ شود، نه «of» که فقط برای سؤالِ بله/خیر است.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De monteur vroeg dat het probleem wat was.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی است، آن کلمه باید بلافاصله بعد از فعلِ اصلی بیاید، نه اینکه با «dat» جایگزین یا جابه‌جا شود.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De monteur vroeg wat het probleem was.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "wh_word",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De secretaresse vroeg waarom werkte de printer niet.",
+    "question_text_nl": "Welke zin is de juiste indirecte rede?",
+    "question_text_fa": "کدام جمله نقل‌قولِ غیرمستقیمِ درستی است؟",
+    "explanation_fa": "چون سؤال با کلمه‌ی پرسشیِ «waarom» است، همان کلمه حفظ می‌شود و فعل «werkte» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.",
+    "extra_example_nl": "Hij vroeg waarom de computer niet opstartte.",
+    "extra_example_fa": "او پرسید چرا کامپیوتر روشن نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De secretaresse vroeg waarom de printer niet werkte.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی."
+      },
+      {
+        "key": "B",
+        "text_nl": "De secretaresse vroeg waarom werkte de printer niet.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.."
+      },
+      {
+        "key": "C",
+        "text_nl": "De secretaresse vroeg of de printer niet werkte waarom.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی (waar/wanneer/hoeveel/...) است، باید همان کلمه حفظ شود، نه «of» که فقط برای سؤالِ بله/خیر است.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De secretaresse vroeg dat de printer waarom niet werkte.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی است، آن کلمه باید بلافاصله بعد از فعلِ اصلی بیاید، نه اینکه با «dat» جایگزین یا جابه‌جا شود.."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "indirect_speech_error",
+    "subtopic": "wh_word",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De buurvrouw vroeg wie had de sleutel.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "چون سؤال با کلمه‌ی پرسشیِ «wie» است، همان کلمه حفظ می‌شود و فعل «had» به انتهای جمله می‌رود.",
+    "correction_rule_fa": "در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.",
+    "extra_example_nl": "Hij vroeg wie de auto geleend had.",
+    "extra_example_fa": "او پرسید چه کسی ماشین را قرض گرفته.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De buurvrouw vroeg wie had de sleutel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی.."
+      },
+      {
+        "key": "B",
+        "text_nl": "De buurvrouw vroeg wie de sleutel had.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در نقل‌قولِ غیرمستقیمِ سؤال با کلمه‌ی پرسشی، آن کلمه حفظ می‌شود ولی فعل باید به انتهای جمله برود، بدون معکوس‌سازی."
+      },
+      {
+        "key": "C",
+        "text_nl": "De buurvrouw vroeg of de sleutel wie had.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی (waar/wanneer/hoeveel/...) است، باید همان کلمه حفظ شود، نه «of» که فقط برای سؤالِ بله/خیر است.."
+      },
+      {
+        "key": "D",
+        "text_nl": "De buurvrouw vroeg dat de sleutel wie had.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: وقتی سؤال با کلمه‌ی پرسشی است، آن کلمه باید بلافاصله بعد از فعلِ اصلی بیاید، نه اینکه با «dat» جایگزین یا جابه‌جا شود.."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Toerist: «Pardon, hoe kom ik het snelst bij het gemeentehuis?»  Ambtenaar: «Loopt u rechtdoor tot de rotonde, neemt u dan de tweede afslag, en het gemeentehuis ligt meteen aan uw linkerhand.»  Welke samenvatting van de route is correct?",
+    "question_text_fa": "کدام گزینه ترتیب درست مسیر را نشان می‌دهد؟",
+    "explanation_fa": "مسیر درست: مستقیم تا میدان (رتاری)، دومین خروجی را بگیر، بعد سمت چپ است.",
+    "grammar_rule_fa": "امر مؤدبانه با «u»: «Loopt u», «neemt u» — فعل قبل از فاعل u می‌آید.",
+    "extra_example_nl": "Neemt u de eerste straat rechts.",
+    "extra_example_fa": "اولین خیابان سمت راست را بگیرید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Rechtdoor tot de rotonde, tweede afslag nemen, dan aan de linkerhand.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان ترتیبی که آمبتنار گفت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Rechtdoor tot de rotonde, eerste afslag nemen, dan rechts.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه: باید خروجی دوم را بگیرد، نه اول، و سمت چپ است نه راست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Linksaf bij de rotonde, daarna rechtdoor.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب در دیالوگ گفته نشده؛ اول باید مستقیم رفت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De tweede afslag nemen vóórdat u bij de rotonde bent.",
+        "is_correct": false,
+        "feedback_fa": "خروجی را باید در خودِ میدان بگیرد، نه قبل از رسیدن به آن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Reiziger: «Weet u misschien op welk spoor de trein naar Utrecht vertrekt?»  Medewerker: «Die vertrekt normaal van spoor 5b, maar vandaag staat hij door een technische storing op spoor 12.»  Van welk spoor vertrekt de trein vandaag?",
+    "question_text_fa": "طبق مکالمه، قطار امروز از کدام سکو حرکت می‌کند؟",
+    "explanation_fa": "به‌خاطر اختلال فنی، امروز قطار از سکوی ۱۲ حرکت می‌کند، نه ۵b.",
+    "grammar_rule_fa": "«maar» تضاد بین وضعیت عادی و وضعیت امروز را نشان می‌دهد.",
+    "extra_example_nl": "Normaal ben ik om acht uur klaar, maar vandaag duurt het langer.",
+    "extra_example_fa": "معمولاً ساعت هشت آماده‌ام، اما امروز بیشتر طول می‌کشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Spoor 5b, zoals altijd.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه: امروز به‌خاطر خرابی فنی تغییر کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Spoor 12, vanwege een storing.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ به‌دلیل اختلال فنی امروز از سکوی ۱۲ می‌رود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Spoor 5, want dat is dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "چنین سکویی در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet bekend.",
+        "is_correct": false,
+        "feedback_fa": "در متن دقیقاً گفته شده کدام سکو است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Is het museum vanaf hier te lopen, of kan ik beter de tram nemen?»  Voorbijganger: «Te voet is het ongeveer twintig minuten, maar als u haast heeft, kunt u beter lijn 4 nemen, die stopt vlak voor de ingang.»  Wat raadt de voorbijganger aan als de toerist haast heeft?",
+    "question_text_fa": "اگر توریست عجله داشته باشد، رهگذر چه پیشنهادی می‌دهد؟",
+    "explanation_fa": "در صورت عجله، رهگذر پیشنهاد می‌دهد خط ۴ تراموا را بگیرد چون درست جلوی ورودی توقف می‌کند.",
+    "grammar_rule_fa": "جمله‌ی شرطی با «als»: «als u haast heeft, kunt u beter …» — نتیجه در بخش دوم می‌آید.",
+    "extra_example_nl": "Als het regent, kun je beter een paraplu meenemen.",
+    "extra_example_fa": "اگر باران بیاید، بهتر است چتر ببری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Twintig minuten wachten.",
+        "is_correct": false,
+        "feedback_fa": "«twintig minuten» زمان پیاده‌روی است، نه زمان انتظار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toch lopen, dat is sneller.",
+        "is_correct": false,
+        "feedback_fa": "رهگذر دقیقاً برعکس گفت: در صورت عجله بهتر است تراموا بگیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Lijn 4 nemen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خط ۴ درست جلوی ورودی توقف می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een taxi bellen.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی تاکسی چیزی گفته نشد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Iemand zegt: «U slaat af bij de apotheek en loopt dan voorbij het park.»  Je begrijpt het niet helemaal goed. Wat vraag je het beste?",
+    "question_text_fa": "کدام سؤال برای درخواستِ توضیح بیشتر مناسب‌تر است؟",
+    "explanation_fa": "بهترین راه، مودبانه خواستن توضیحِ دوباره است، نه واکنشی بی‌ربط یا بی‌ادبانه.",
+    "grammar_rule_fa": "درخواستِ مودبانه‌ی توضیح: «Kunt u dat nog een keer uitleggen?»",
+    "extra_example_nl": "Sorry, kunt u dat herhalen, alstublieft?",
+    "extra_example_fa": "ببخشید، می‌شود آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik hou niet van wandelen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به درخواستِ توضیح مسیر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds wanneer is die apotheek daar gevestigd?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره‌ی مسیر نیست، بلکه درباره‌ی تاریخچه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, dat is niet waar.",
+        "is_correct": false,
+        "feedback_fa": "این جمله بی‌ادبانه است و توضیح نمی‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat nog een keer uitleggen, alstublieft?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست و مودبانه؛ دقیقاً درخواست توضیحِ دوباره است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Bij de balie: «Waar kan ik de afdeling radiologie vinden?»  Baliemedewerker: «Loopt u eerst door de hoofdgang, neemt u dan de lift naar de tweede verdieping en volgt u de bordjes.»  Wat moet de patiënt als eerste doen?",
+    "question_text_fa": "طبق راهنمایی، بیمار باید اول چه کار کند؟",
+    "explanation_fa": "اولین قدم، عبور از راهروی اصلی است؛ بعد آسانسور و بعد دنبال کردن تابلوها.",
+    "grammar_rule_fa": "ترتیبِ اقدام‌ها با «eerst … dan … en» مشخص می‌شود.",
+    "extra_example_nl": "Loopt u eerst naar de balie, dan wachten in de rij.",
+    "extra_example_fa": "اول به باجه بروید، بعد در صف منتظر بمانید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Door de hoofdgang lopen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ این اولین قدمِ گفته‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Meteen de lift nemen.",
+        "is_correct": false,
+        "feedback_fa": "قبل از آسانسور باید از راهروی اصلی رد شد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Naar de derde verdieping gaan.",
+        "is_correct": false,
+        "feedback_fa": "طبقه‌ی درست دوم است، نه سوم."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bordjes negeren.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ باید تابلوها را دنبال کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "university",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Student: «Weet u waar collegezaal C3 is?»  Conciërge: «Die is niet in dit gebouw; u moet naar het gebouw ernaast, en dan op de begane grond aan de rechterkant.»  Waar bevindt collegezaal C3 zich?",
+    "question_text_fa": "کلاس C3 دقیقاً کجاست؟",
+    "explanation_fa": "کلاس در ساختمانِ کناری، طبقه‌ی همکف، سمت راست قرار دارد.",
+    "grammar_rule_fa": "مکان با «in dit gebouw» در برابر «het gebouw ernaast» مقایسه می‌شود.",
+    "extra_example_nl": "De kantine is niet hier, maar in het gebouw ernaast.",
+    "extra_example_fa": "سلف‌سرویس اینجا نیست، بلکه در ساختمان کناری است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In dit gebouw, boven.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ کلاس در این ساختمان نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "In het gebouw ernaast, begane grond, rechts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که کنسیرژ گفت."
+      },
+      {
+        "key": "C",
+        "text_nl": "In het gebouw ernaast, eerste verdieping.",
+        "is_correct": false,
+        "feedback_fa": "طبقه اشتباه است؛ باید همکف باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "In dit gebouw, begane grond.",
+        "is_correct": false,
+        "feedback_fa": "کلاس در این ساختمان نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Pardon, ik zoek de paskamers.»  Verkoper: «Die zijn helemaal achterin, voorbij de kassa's, naast de nooduitgang.»  Welke reactie van de klant is een goede bevestiging?",
+    "question_text_fa": "کدام واکنش مشتری برای تأیید فهمیدن مسیر مناسب است؟",
+    "explanation_fa": "تکرار کوتاهِ مسیر بهترین راه برای اطمینان از فهمیدن درست است.",
+    "grammar_rule_fa": "بازپرسیِ تأییدی با «Dus …?» ساختِ رایج در مکالمه است.",
+    "extra_example_nl": "Dus rechtdoor en dan de tweede deur links?",
+    "extra_example_fa": "پس مستقیم و بعد دومین در سمت چپ؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kassa is gesloten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره‌ی وضعیت صندوق است، نه تأییدِ مسیر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bedankt, ik ga naar huis.",
+        "is_correct": false,
+        "feedback_fa": "این خداحافظی است، نه تأیید مسیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dus achterin, voorbij de kassa's, naast de nooduitgang?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خلاصه‌ی دقیق مسیر برای تأیید فهمیدن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil niets kopen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤال مسیر است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "park",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Hoe kom ik bij de vijver in het park?»  Wandelaar: «Volg het fietspad, maar neem niet het eerste paadje links, want dat loopt dood; neem het tweede paadje.»  Wat gebeurt er als je het eerste paadje links neemt?",
+    "question_text_fa": "اگر اولین کوره‌راه سمت چپ را بروی چه اتفاقی می‌افتد؟",
+    "explanation_fa": "اولین کوره‌راه به بن‌بست می‌رسد؛ باید کوره‌راه دوم را انتخاب کرد.",
+    "grammar_rule_fa": "«want» دلیلِ نکردنِ کاری را توضیح می‌دهد.",
+    "extra_example_nl": "Ga niet die kant op, want daar is het afgesloten.",
+    "extra_example_fa": "آن طرف نرو، چون آنجا بسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je bent te vroeg.",
+        "is_correct": false,
+        "feedback_fa": "موضوع درباره‌ی زمان نیست، بلکه مسیر بسته است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je komt bij de vijver.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ آن راه به دریاچه نمی‌رسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je moet meteen rechtsaf.",
+        "is_correct": false,
+        "feedback_fa": "چنین دستوری داده نشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het paadje loopt dood.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین دلیل در متن آمده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Neemt u de derde straat rechts, niet de tweede, want die is een doodlopende weg.»  Wat is het probleem als je de tweede straat rechts neemt?",
+    "question_text_fa": "اگر خیابانِ دوم سمت راست را بروی چه مشکلی پیش می‌آید؟",
+    "explanation_fa": "خیابان دوم بن‌بست است؛ باید خیابان سوم را انتخاب کرد.",
+    "grammar_rule_fa": "شمارش ترتیبی: derde = سوم، tweede = دوم.",
+    "extra_example_nl": "Niet de eerste deur, maar de derde deur is de ingang.",
+    "extra_example_fa": "نه اولین در، بلکه سومین در ورودی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het is een doodlopende weg.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het is te ver.",
+        "is_correct": false,
+        "feedback_fa": "در متن چیزی درباره‌ی فاصله گفته نشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is geen stoplicht.",
+        "is_correct": false,
+        "feedback_fa": "چراغ راهنما در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is verboden voor fietsers.",
+        "is_correct": false,
+        "feedback_fa": "موضوعِ دوچرخه در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Buschauffeur: «U moet bij de volgende halte overstappen op bus 12, want deze bus rijdt niet verder dan het centrum.»  Wat moet de passagier doen?",
+    "question_text_fa": "مسافر در ایستگاه بعدی باید چه کار کند؟",
+    "explanation_fa": "مسافر باید در ایستگاه بعدی سوار اتوبوس ۱۲ شود، چون این اتوبوس فقط تا مرکز شهر می‌رود.",
+    "grammar_rule_fa": "«overstappen op» یعنی سوار وسیله‌ی دیگری شدن.",
+    "extra_example_nl": "In Utrecht moet u overstappen op de trein naar Amersfoort.",
+    "extra_example_fa": "در اوترخت باید سوار قطارِ آمرسفورت شوید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In de bus blijven zitten.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ این اتوبوس تا مرکز شهر بیشتر نمی‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Overstappen op bus 12.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که راننده گفت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Teruglopen naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ باید سوار اتوبوس دیگر شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wachten op dezelfde bus.",
+        "is_correct": false,
+        "feedback_fa": "باید سوار اتوبوس دیگری شود، نه منتظر همین اتوبوس بماند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "city",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Bij de rotonde neemt u de derde afslag, richting het ziekenhuis.»  Welke herhaling van de toerist is correct?",
+    "question_text_fa": "کدام تکرار مسیر توسط توریست درست است؟",
+    "explanation_fa": "تکرار درست باید دقیقاً «رتاری، خروجی سوم، به سمت بیمارستان» باشد.",
+    "grammar_rule_fa": "بازگویی برای اطمینان: «Dus bij de rotonde de derde afslag, richting…»",
+    "extra_example_nl": "Dus bij het stoplicht rechtdoor, richting het park?",
+    "extra_example_fa": "پس دم چراغ‌راهنما مستقیم، به سمت پارک؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij de rotonde de eerste afslag, naar het park.",
+        "is_correct": false,
+        "feedback_fa": "خروجی اشتباه و مقصد اشتباه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij het stoplicht de derde afslag.",
+        "is_correct": false,
+        "feedback_fa": "جا اشتباه است؛ باید در میدان (رتاری) باشد، نه چراغ‌راهنما."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij de rotonde de derde afslag, richting het ziekenhuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً تکرارِ همان مسیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Na de rotonde rechtdoor naar het ziekenhuis.",
+        "is_correct": false,
+        "feedback_fa": "در متن گفته شده باید خروجی سوم را بگیرد، نه رفتن مستقیم بعد از میدان."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Receptioniste: «De afdeling personeelszaken zit op de vierde verdieping, maar de lift is momenteel buiten gebruik, dus u moet de trap nemen.»  Wat moet de bezoeker doen?",
+    "question_text_fa": "بازدیدکننده برای رسیدن به منابع انسانی باید چه کار کند؟",
+    "explanation_fa": "چون آسانسور خراب است، بازدیدکننده باید از پله‌ها به طبقه‌ی چهارم برود.",
+    "grammar_rule_fa": "«dus» نتیجه‌ی منطقی از جمله‌ی قبل را نشان می‌دهد.",
+    "extra_example_nl": "De winkel is dicht, dus we komen morgen terug.",
+    "extra_example_fa": "مغازه بسته است، پس فردا برمی‌گردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De lift nemen.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ آسانسور خراب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wachten tot de lift weer werkt.",
+        "is_correct": false,
+        "feedback_fa": "در متن گفته نشده که باید منتظر بماند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Naar de derde verdieping gaan.",
+        "is_correct": false,
+        "feedback_fa": "طبقه اشتباه است؛ باید چهارم برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De trap nemen naar de vierde verdieping.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که رسپشنیست گفت."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«De bakker zit tegenover de kerk, schuin tegenover de bibliotheek.»  Waar zit de bakker precies?",
+    "question_text_fa": "نانوایی دقیقاً کجاست؟",
+    "explanation_fa": "نانوایی درست روبروی کلیسا و اُریب روبروی کتابخانه است.",
+    "grammar_rule_fa": "«tegenover» = روبرو، «schuin tegenover» = اُریب روبرو.",
+    "extra_example_nl": "De supermarkt zit tegenover het station.",
+    "extra_example_fa": "سوپرمارکت روبروی ایستگاه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tegenover de kerk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که در متن آمده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Naast de bibliotheek.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ اُریب روبروی کتابخانه است، نه کنارش."
+      },
+      {
+        "key": "C",
+        "text_nl": "Achter de kerk.",
+        "is_correct": false,
+        "feedback_fa": "پشت کلیسا نیست، روبروی آن است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naast de kerk.",
+        "is_correct": false,
+        "feedback_fa": "کنار کلیسا نیست، روبروی آن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Omroepbericht: «Passagiers voor vlucht KL123 worden verzocht zich naar gate D22 te begeven; let op, dit is gewijzigd van gate B14.»  Naar welke gate moeten de passagiers nu gaan?",
+    "question_text_fa": "مسافران الان باید به کدام گیت بروند؟",
+    "explanation_fa": "گیت تغییر کرده؛ مسافران باید به گیت D22 بروند، نه B14.",
+    "grammar_rule_fa": "«gewijzigd van … naar …» تغییر از یک وضعیت به وضعیت دیگر را نشان می‌دهد.",
+    "extra_example_nl": "De afspraak is gewijzigd van maandag naar dinsdag.",
+    "extra_example_fa": "قرار از دوشنبه به سه‌شنبه تغییر کرده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Gate B14.",
+        "is_correct": false,
+        "feedback_fa": "این گیت قدیمی و منسوخ‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gate D22.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ گیت جدید و صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gate D14.",
+        "is_correct": false,
+        "feedback_fa": "چنین گیتی در اعلامیه نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beide gates tegelijk.",
+        "is_correct": false,
+        "feedback_fa": "فقط یک گیت درست است، نه هر دو."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Voor een paspoort moet u bij loket 3 zijn, maar dat is vandaag gesloten, dus vandaag helpen ze u bij loket 7.»  Bij welk loket moet de bezoeker vandaag zijn?",
+    "question_text_fa": "بازدیدکننده امروز باید کدام باجه برود؟",
+    "explanation_fa": "چون باجه‌ی ۳ امروز بسته است، بازدیدکننده باید به باجه‌ی ۷ برود.",
+    "grammar_rule_fa": "«vandaag» موقعیتِ استثناییِ امروز را نشان می‌دهد، نه قانون کلی.",
+    "extra_example_nl": "Normaal is loket 2 open, maar vandaag niet.",
+    "extra_example_fa": "معمولاً باجه‌ی ۲ باز است، اما امروز نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Loket 3.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ امروز بسته است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Loket 3, maar morgen.",
+        "is_correct": false,
+        "feedback_fa": "در متن نگفته فردا باید برگردد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Loket 7.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ امروز به‌جای باجه‌ی ۳ باید به باجه‌ی ۷ برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen enkel loket, hij moet morgen terugkomen.",
+        "is_correct": false,
+        "feedback_fa": "امروز هم می‌تواند کارش را انجام دهد، فقط باجه فرق دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "A: «Sla bij de tweede kruising rechtsaf.»  B: «Oké, dus bij de eerste kruising rechtsaf?»  Wat is er misgegaan in dit gesprek?",
+    "question_text_fa": "در این مکالمه چه سوءتفاهمی رخ داده است؟",
+    "explanation_fa": "شخص B اشتباهاً «دوم» را «اول» فهمیده است.",
+    "grammar_rule_fa": "شمارش ترتیبی مهم است: eerste ≠ tweede.",
+    "extra_example_nl": "Niet de eerste, maar de tweede afslag is de juiste.",
+    "extra_example_fa": "نه اولی، بلکه انحراف دوم درست است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets, alles klopt.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ B عدد را غلط تکرار کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "B heeft de straatnaam verkeerd onthouden.",
+        "is_correct": false,
+        "feedback_fa": "موضوع نام خیابان نیست، بلکه عدد ترتیبی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "A heeft een verkeerde richting gegeven.",
+        "is_correct": false,
+        "feedback_fa": "A درست گفته بود؛ اشتباه از طرف B است."
+      },
+      {
+        "key": "D",
+        "text_nl": "B heeft «tweede» verkeerd begrepen als «eerste».",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین سوءتفاهم رخ داده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Het is nog geen vijf minuten lopen hiervandaan, gewoon rechtdoor en dan de winkel aan uw linkerhand.»  Hoe ver is de winkel ongeveer?",
+    "question_text_fa": "فروشگاه تقریباً چقدر با پیاده‌روی فاصله دارد؟",
+    "explanation_fa": "«nog geen vijf minuten» یعنی کمتر از پنج دقیقه، پس خیلی نزدیک است.",
+    "grammar_rule_fa": "«nog geen …» یعنی کمتر از عددِ گفته‌شده.",
+    "extra_example_nl": "Het kost nog geen tien euro.",
+    "extra_example_fa": "کمتر از ده یورو قیمت دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Minder dan vijf minuten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «nog geen vijf minuten» یعنی کمتر از پنج دقیقه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Meer dan een half uur.",
+        "is_correct": false,
+        "feedback_fa": "این خیلی بیشتر از فاصله‌ی واقعی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Precies een uur.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet te voet bereikbaar.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ متن می‌گوید پیاده‌روی کوتاهی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Patiënt: «Ik dacht dat de röntgenafdeling op de begane grond was, maar ik kan het niet vinden.»  Verpleegkundige: «Nee, dat is een misverstand, die is op de eerste verdieping, naast de wachtkamer.»  Wat was het misverstand?",
+    "question_text_fa": "سوءتفاهم بیمار دقیقاً چه بود؟",
+    "explanation_fa": "بیمار فکر می‌کرد بخش رادیولوژی در طبقه‌ی همکف است، در حالی‌که طبقه‌ی اول است.",
+    "grammar_rule_fa": "«dat is een misverstand» برای تصحیحِ مودبانه‌ی یک باور اشتباه به‌کار می‌رود.",
+    "extra_example_nl": "Dat is een misverstand, de afspraak is om 10:00, niet om 11:00.",
+    "extra_example_fa": "این سوءتفاهم است؛ قرار ساعت ۱۰ است، نه ۱۱.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij zocht de verkeerde wachtkamer.",
+        "is_correct": false,
+        "feedback_fa": "موضوع اتاق انتظار نیست، بلکه طبقه‌ی اشتباه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij dacht dat de afdeling op de begane grond was, terwijl die op de eerste verdieping is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین سوءتفاهم بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij was al op de eerste verdieping.",
+        "is_correct": false,
+        "feedback_fa": "او آنجا نبود؛ به همین دلیل نتوانست پیدا کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er is geen röntgenafdeling in dit ziekenhuis.",
+        "is_correct": false,
+        "feedback_fa": "بخش رادیولوژی وجود دارد، فقط طبقه‌اش اشتباه فهمیده شده بود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "park",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Kun je met de fiets door het park naar de andere kant, of moet ik eromheen?»  Beheerder: «U kunt er wel doorheen, maar alleen over het brede pad; de smalle paadjes zijn verboden voor fietsers.»  Mag de fietser over de smalle paadjes?",
+    "question_text_fa": "آیا دوچرخه‌سوار اجازه دارد از کوره‌راه‌های باریک عبور کند؟",
+    "explanation_fa": "خیر، کوره‌راه‌های باریک برای دوچرخه ممنوع است؛ فقط مسیر پهن مجاز است.",
+    "grammar_rule_fa": "«verboden voor …» یعنی برای گروهی خاص ممنوع است.",
+    "extra_example_nl": "Dit pad is verboden voor honden.",
+    "extra_example_fa": "این مسیر برای سگ‌ها ممنوع است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, altijd.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ در کوره‌راه‌های باریک ممنوع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen 's ochtends.",
+        "is_correct": false,
+        "feedback_fa": "چنین محدودیتِ زمانی گفته نشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, dat is verboden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کوره‌راه‌های باریک برای دوچرخه ممنوع است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, maar alleen 's avonds.",
+        "is_correct": false,
+        "feedback_fa": "چنین استثنایی در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Loop niet tot aan het stoplicht, maar voorbij de bakker; daar is een steegje naar rechts.»  Waar moet je afslaan?",
+    "question_text_fa": "کجا باید بپیچی؟",
+    "explanation_fa": "باید از نانوایی رد شوی و بعد از آن در کوچه بپیچی، نه تا چراغ‌راهنما ادامه بدهی.",
+    "grammar_rule_fa": "«voorbij» = گذشتن از یک نقطه، متفاوت از «tot aan» = تا رسیدن به یک نقطه.",
+    "extra_example_nl": "Loop voorbij de kerk en sla dan links af.",
+    "extra_example_fa": "از کلیسا رد شو و بعد سمت چپ بپیچ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij het stoplicht.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ متن می‌گوید تا آنجا نرو."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor de bakker.",
+        "is_correct": false,
+        "feedback_fa": "باید از نانوایی رد شوی، نه قبل از آن بپیچی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je hoeft niet af te slaan.",
+        "is_correct": false,
+        "feedback_fa": "در متن مشخص شده که باید بپیچی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voorbij de bakker, bij het steegje.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان نقطه‌ای که در متن گفته شده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "university",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Student: «Is het op de begane grond of een verdieping hoger?»  Docent: «De collegezaal die u zoekt is inderdaad een verdieping hoger, niet gelijkvloers.»  Waar is de collegezaal?",
+    "question_text_fa": "کلاس درسی کجاست؟",
+    "explanation_fa": "کلاس یک طبقه بالاتر است، نه در طبقه‌ی همکف.",
+    "grammar_rule_fa": "«gelijkvloers» = هم‌سطح با ورودی؛ مترادف با «begane grond».",
+    "extra_example_nl": "Het kantoor is niet gelijkvloers, maar op de eerste verdieping.",
+    "extra_example_fa": "دفتر در طبقه‌ی همکف نیست، بلکه طبقه‌ی اول است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een verdieping hoger.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که استاد گفت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op de begane grond.",
+        "is_correct": false,
+        "feedback_fa": "استاد دقیقاً این گزینه را رد کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "In de kelder.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Buiten het gebouw.",
+        "is_correct": false,
+        "feedback_fa": "کلاس داخل ساختمان است، فقط طبقه‌اش متفاوت است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Omroep: «Attentie: de trein naar Rotterdam vertrekt vandaag niet van spoor 3, maar van spoor 3a, aan de andere kant van het perron.»  Wat moeten reizigers doen?",
+    "question_text_fa": "مسافران باید چه کار کنند؟",
+    "explanation_fa": "مسافران باید به سکوی ۳a، یعنی طرف دیگر همان سکو، بروند.",
+    "grammar_rule_fa": "«niet …, maar …» جایگزینی یک اطلاعات با اطلاعاتِ درست را نشان می‌دهد.",
+    "extra_example_nl": "De vergadering is niet om 9:00, maar om 10:00.",
+    "extra_example_fa": "جلسه ساعت ۹ نیست، بلکه ساعت ۱۰ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op spoor 3 blijven wachten.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ سکو تغییر کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Naar spoor 3a, aan de andere kant van het perron, gaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که اعلام شد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De trein missen.",
+        "is_correct": false,
+        "feedback_fa": "این نتیجه‌ی منطقی متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar spoor 4 gaan.",
+        "is_correct": false,
+        "feedback_fa": "چنین سکویی در اعلامیه نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Mijn navigatie werkt niet meer, weet u toevallig hoe ik bij het winkelcentrum kom?»  Voorbijganger: «Jazeker, gewoon deze straat volgen en na de brug ziet u het al liggen.»  Wat gebeurt er na de brug?",
+    "question_text_fa": "بعد از پل چه اتفاقی می‌افتد؟",
+    "explanation_fa": "بعد از پل، پاساژ خرید از همان‌جا قابل دیدن است.",
+    "grammar_rule_fa": "«na de brug» زمان/مکانِ بعد از یک نقطه‌ی مشخص را نشان می‌دهد.",
+    "extra_example_nl": "Na het kruispunt ziet u de school al liggen.",
+    "extra_example_fa": "بعد از چهارراه، مدرسه را می‌بینید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Opnieuw vragen.",
+        "is_correct": false,
+        "feedback_fa": "در متن چنین چیزی گفته نشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Linksaf slaan.",
+        "is_correct": false,
+        "feedback_fa": "در متن جهتِ خاصی گفته نشده؛ فقط باید مسیر را دنبال کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij ziet het winkelcentrum al liggen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که رهگذر گفت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Teruglopen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ باید همان مسیر را ادامه دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «De vergaderzaal is normaal op de tweede verdieping, maar vandaag is er een uitzondering: we zitten beneden, in zaal A.»  Waar is de vergadering vandaag?",
+    "question_text_fa": "امروز جلسه کجا برگزار می‌شود؟",
+    "explanation_fa": "امروز به‌طور استثنایی جلسه در طبقه‌ی پایین، در سالن A است.",
+    "grammar_rule_fa": "«een uitzondering» موقعیتِ متفاوت از قاعده‌ی معمول را نشان می‌دهد.",
+    "extra_example_nl": "We werken normaal op kantoor, maar vandaag is er een uitzondering: we werken thuis.",
+    "extra_example_fa": "معمولاً در دفتر کار می‌کنیم، اما امروز استثنائاً از خانه کار می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tweede verdieping, zoals normaal.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ امروز استثناست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Derde verdieping.",
+        "is_correct": false,
+        "feedback_fa": "چنین طبقه‌ای در متن نیامده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Buiten het gebouw.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beneden, in zaal A.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان استثنای امروز."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Is er een kortere weg dan via het plein?»  Buurtbewoner: «Ja, als u door het steegje achter de kerk loopt, bent u vijf minuten sneller.»  Wat is het voordeel van het steegje?",
+    "question_text_fa": "مزیت رفتن از کوچه چیست؟",
+    "explanation_fa": "با رفتن از کوچه پشت کلیسا، پنج دقیقه زودتر می‌رسی.",
+    "grammar_rule_fa": "جمله‌ی شرطی: «als u …, bent u …» نتیجه‌ی مستقیم را نشان می‌دهد.",
+    "extra_example_nl": "Als u vroeg vertrekt, bent u op tijd.",
+    "extra_example_fa": "اگر زود حرکت کنی، سر وقت می‌رسی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het is vijf minuten sneller.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که همسایه گفت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het is veiliger.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی امنیت چیزی گفته نشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het is de enige weg.",
+        "is_correct": false,
+        "feedback_fa": "مسیرِ میدان هم وجود دارد؛ این فقط راه سریع‌تر است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het plein is gesloten.",
+        "is_correct": false,
+        "feedback_fa": "چیزی درباره‌ی بسته بودن میدان گفته نشد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Als ik de weg kwijtraak in het ziekenhuis, wat kan ik dan het beste doen?»  Balie: «Vraagt u het gerust aan een van de vrijwilligers in de gele hesjes, die lopen overal rond.»  Wat raadt de baliemedewerker aan?",
+    "question_text_fa": "کارمند باجه چه توصیه‌ای می‌کند؟",
+    "explanation_fa": "توصیه می‌شود از داوطلبانِ با جلیقه‌ی زرد کمک بخواهی.",
+    "grammar_rule_fa": "«vraagt u het gerust aan …» یک پیشنهادِ مودبانه و اطمینان‌بخش است.",
+    "extra_example_nl": "Vraagt u het gerust aan de receptie.",
+    "extra_example_fa": "بدون تعارف از پذیرش بپرسید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Terug naar de balie lopen.",
+        "is_correct": false,
+        "feedback_fa": "چنین توصیه‌ای در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een vrijwilliger met een geel hesje vragen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان توصیه در متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een verpleegkundige bellen.",
+        "is_correct": false,
+        "feedback_fa": "در متن درباره‌ی زنگ زدن چیزی گفته نشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Buiten wachten.",
+        "is_correct": false,
+        "feedback_fa": "چنین توصیه‌ای در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "city",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Loopt u eerst naar het plein, sla daar linksaf, en na de brug bent u er, in totaal misschien tien minuten.»  Wat is de juiste volgorde van de route?",
+    "question_text_fa": "ترتیب درست مسیر کدام است؟",
+    "explanation_fa": "ترتیب درست: اول به میدان، بعد سمت چپ، بعد از پل رسیده‌ای.",
+    "grammar_rule_fa": "ترتیب با «eerst … daar … en na …» مشخص می‌شود.",
+    "extra_example_nl": "Loopt u eerst naar de hoofdingang, daar rechtsaf, en na de trap bent u er.",
+    "extra_example_fa": "اول به سمت ورودی اصلی بروید، بعد سمت راست، و بعد از پله‌ها رسیده‌اید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Eerst de brug over, dan naar het plein.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب معکوس است؛ اول میدان است، بعد پل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Linksaf, dan naar het plein.",
+        "is_correct": false,
+        "feedback_fa": "اول باید به میدان برسی، بعد بپیچی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Naar het plein, linksaf, dan over de brug.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً ترتیبِ گفته‌شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Rechtdoor tot de brug, dan naar het plein.",
+        "is_correct": false,
+        "feedback_fa": "در متن اول میدان و سپس پیچیدن گفته شده، نه رفتن مستقیم تا پل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "park",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "«Is de weg via het park nog steeds de snelste, of is er iets veranderd?»  Fietser: «Nee, let op, er zijn nu wegwerkzaamheden, u moet omrijden via de Kerkstraat.»  Wat is er veranderd?",
+    "question_text_fa": "چه چیزی تغییر کرده است؟",
+    "explanation_fa": "به‌خاطر تعمیرات جاده، الان باید از کرک‌استرات دور بزنی.",
+    "grammar_rule_fa": "«omrijden via …» یعنی از مسیر دیگری دور زدن.",
+    "extra_example_nl": "Wij moeten omrijden via de andere brug.",
+    "extra_example_fa": "باید از پل دیگر دور بزنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets, de route is hetzelfde.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ فیتسر گفت چیزی تغییر کرده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het park is nu gesloten voor fietsers.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ مشکل کارِ جاده‌سازی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De weg via het park is nog steeds sneller.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ الان باید دور بزند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er is een omleiding via de Kerkstraat vanwege werkzaamheden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان تغییر گفته‌شده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je wilt een onbekende beleefd om de weg vragen. Welke zin is het meest gepast?",
+    "question_text_fa": "کدام جمله برای پرسیدن مسیر از یک غریبه مودبانه‌تر است؟",
+    "explanation_fa": "شروع مودبانه با «Excuseer» و فعل کمکیِ «zou u … kunnen» رسمی‌تر و مناسب‌تر است.",
+    "grammar_rule_fa": "درخواستِ بسیار مودبانه: «Zou u mij … kunnen …?»",
+    "extra_example_nl": "Zou u mij kunnen zeggen hoe laat het is?",
+    "extra_example_fa": "می‌شود بگویید ساعت چند است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Excuseer, zou u mij misschien de weg naar het postkantoor kunnen wijzen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مودبانه‌ترین و طبیعی‌ترین شکلِ درخواست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hé, waar is het postkantoor?",
+        "is_correct": false,
+        "feedback_fa": "خیلی غیررسمی و کمی بی‌ادبانه برای یک غریبه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik moet naar het postkantoor, nu.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دستوری و بی‌ادبانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Postkantoor, waar?",
+        "is_correct": false,
+        "feedback_fa": "این جمله بسیار غیررسمی و ناقص است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "asking_detailed_directions",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Gids: «U loopt eerst langs de gracht, steekt dan de brug over, gaat rechtsaf en het hotel is het derde pand aan uw linkerhand.»  Welke samenvatting van de toerist is correct?",
+    "question_text_fa": "کدام خلاصه‌ی توریست از مسیر درست است؟",
+    "explanation_fa": "خلاصه‌ی درست باید همه‌ی مراحل به ترتیب باشد: کنارِ کانال، پل، راست، سومین ساختمان چپ.",
+    "grammar_rule_fa": "بازگویی برای تأیید باید ترتیبِ کاملِ مراحل را حفظ کند.",
+    "extra_example_nl": "Dus eerst langs de winkel, dan de hoek om, en het is het tweede huis rechts?",
+    "extra_example_fa": "پس اول کنار مغازه، بعد دور زدنِ گوشه، و دومین خانه سمت راست است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dus over de brug, dan linksaf, en het hotel is rechts?",
+        "is_correct": false,
+        "feedback_fa": "جهتِ پیچیدن اشتباه است؛ باید راست بپیچد، و ابتدا باید کنارِ کانال برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dus langs de gracht, over de brug, rechtsaf, en het hotel is het derde pand links?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً تمام مراحل به ترتیب."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dus rechtdoor tot het hotel?",
+        "is_correct": false,
+        "feedback_fa": "این خلاصه خیلی ساده است و مراحل مهم را حذف می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus eerst rechtsaf, dan over de brug?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب معکوس است؛ اول پل، بعد پیچیدن به راست."
+      }
+    ]
+  }
+]

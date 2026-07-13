@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "appointment_opening",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt naar een kantoor om een afspraak te maken.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "برای گرفتن وقت با یک دفتر تماس می‌گیری. بهترین شروع کدام است؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "برای شروع تماس و گرفتن وقت، جمله‌ای ساده مثل «Ik wil graag een afspraak maken» مناسب است.",
+    "extra_example_nl": "Hallo, ik bel voor een afspraak.",
+    "extra_example_fa": "سلام، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen, ik wil graag een afspraak maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben tien minuten te laat.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "appointment_opening",
+    "life_context": "municipality",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De medewerker zegt: Goedemorgen, waarmee kan ik u helpen?",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "کارمند می‌گوید صبح بخیر، چطور می‌توانم کمک کنم؟ تو می‌خواهی وقت بگیری. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "برای شروع تماس و گرفتن وقت، جمله‌ای ساده مثل «Ik wil graag een afspraak maken» مناسب است.",
+    "extra_example_nl": "Hallo, ik bel voor een afspraak.",
+    "extra_example_fa": "سلام، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik bel voor een afspraak bij de gemeente.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom iets later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "appointment_opening",
+    "life_context": "hairdresser",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt de kapper en wilt het gesprek beginnen.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "با آرایشگاه تماس می‌گیری و می‌خواهی مکالمه را شروع کنی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "برای شروع تماس و گرفتن وقت، جمله‌ای ساده مثل «Ik wil graag een afspraak maken» مناسب است.",
+    "extra_example_nl": "Hallo, ik bel voor een afspraak.",
+    "extra_example_fa": "سلام، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik ben onderweg.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hallo, ik wil graag een afspraak plannen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "appointment_opening",
+    "life_context": "service",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt voor een serviceafspraak. De medewerker neemt op.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "برای یک قرار سرویس تماس می‌گیری. کدام جمله بهترین شروع است؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "برای شروع تماس و گرفتن وقت، جمله‌ای ساده مثل «Ik wil graag een afspraak maken» مناسب است.",
+    "extra_example_nl": "Hallo, ik bel voor een afspraak.",
+    "extra_example_fa": "سلام، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben er over vijf minuten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hallo, ik heb een vraag over een afspraak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "appointment_opening",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een afspraak met een medewerker maken.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "می‌خواهی با یک کارمند وقت بگیری. بهترین شروع کدام است؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "برای شروع تماس و گرفتن وقت، جمله‌ای ساده مثل «Ik wil graag een afspraak maken» مناسب است.",
+    "extra_example_nl": "Hallo, ik bel voor een afspraak.",
+    "extra_example_fa": "سلام، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen, kunt u mij helpen met een afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben tien minuten te laat.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "appointment_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt de school voor een gesprek met een medewerker.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "برای یک گفت‌وگو با کارمند مدرسه تماس می‌گیری. در شروع چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "برای شروع تماس و گرفتن وقت، جمله‌ای ساده مثل «Ik wil graag een afspraak maken» مناسب است.",
+    "extra_example_nl": "Hallo, ik bel voor een afspraak.",
+    "extra_example_fa": "سلام، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hallo, ik wil graag een afspraak maken voor een gesprek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom iets later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "appointment_opening",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt aan de balie en wilt een afspraak maken.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "به پذیرش می‌روی و می‌خواهی وقت بگیری. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "برای شروع تماس و گرفتن وقت، جمله‌ای ساده مثل «Ik wil graag een afspraak maken» مناسب است.",
+    "extra_example_nl": "Hallo, ik bel voor een afspraak.",
+    "extra_example_fa": "سلام، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik ben onderweg.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemiddag, ik wil graag langskomen voor een afspraak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "appointment_opening",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt een officieel kantoor. Je wilt netjes beginnen.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "با یک دفتر رسمی تماس می‌گیری و می‌خواهی مؤدبانه شروع کنی. بهترین جمله کدام است؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "برای شروع تماس و گرفتن وقت، جمله‌ای ساده مثل «Ik wil graag een afspraak maken» مناسب است.",
+    "extra_example_nl": "Hallo, ik bel voor een afspraak.",
+    "extra_example_fa": "سلام، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben er over vijf minuten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemorgen, ik wil graag een afspraak maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "appointment_opening",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De medewerker zegt: Waar belt u voor?",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "کارمند می‌پرسد برای چه تماس گرفته‌ای. بهترین پاسخ برای شروع وقت گرفتن چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "برای شروع تماس و گرفتن وقت، جمله‌ای ساده مثل «Ik wil graag een afspraak maken» مناسب است.",
+    "extra_example_nl": "Hallo, ik bel voor een afspraak.",
+    "extra_example_fa": "سلام، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik bel om een afspraak te maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben tien minuten te laat.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "appointment_opening",
+    "life_context": "personal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een persoonlijke afspraak maken en begint het gesprek.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "می‌خواهی یک قرار شخصی بگذاری و مکالمه را شروع کنی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "برای شروع تماس و گرفتن وقت، جمله‌ای ساده مثل «Ik wil graag een afspraak maken» مناسب است.",
+    "extra_example_nl": "Hallo, ik bel voor een afspraak.",
+    "extra_example_fa": "سلام، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hallo, ik wil graag een afspraak maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom iets later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_for_appointment",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt nog geen afspraak en wilt er één maken.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "هنوز قرار نداری و می‌خواهی وقت بگیری. بهترین سؤال کدام است؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست گرفتن وقت جدید مناسب باشد.",
+    "dialogue_rule_fa": "برای درخواست وقت می‌توانی بپرسی: «Kan ik een afspraak maken?» یا «Heeft u tijd?»",
+    "extra_example_nl": "Heeft u deze week tijd?",
+    "extra_example_fa": "آیا این هفته وقت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن وقت جدید مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_for_appointment",
+    "life_context": "hairdresser",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt morgen naar de kapper komen.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی فردا به آرایشگاه بروی. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست گرفتن وقت جدید مناسب باشد.",
+    "dialogue_rule_fa": "برای درخواست وقت می‌توانی بپرسی: «Kan ik een afspraak maken?» یا «Heeft u tijd?»",
+    "extra_example_nl": "Heeft u deze week tijd?",
+    "extra_example_fa": "آیا این هفته وقت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن وقت جدید مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_for_appointment",
+    "life_context": "municipality",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten of er vandaag nog een tijd vrij is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی آیا امروز هنوز وقتی خالی وجود دارد. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست گرفتن وقت جدید مناسب باشد.",
+    "dialogue_rule_fa": "برای درخواست وقت می‌توانی بپرسی: «Kan ik een afspraak maken?» یا «Heeft u tijd?»",
+    "extra_example_nl": "Heeft u deze week tijd?",
+    "extra_example_fa": "آیا این هفته وقت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is er vandaag nog tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن وقت جدید مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_for_appointment",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt deze week een gesprek op school plannen.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی این هفته یک گفت‌وگو در مدرسه تنظیم کنی. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست گرفتن وقت جدید مناسب باشد.",
+    "dialogue_rule_fa": "برای درخواست وقت می‌توانی بپرسی: «Kan ik een afspraak maken?» یا «Heeft u tijd?»",
+    "extra_example_nl": "Heeft u deze week tijd?",
+    "extra_example_fa": "آیا این هفته وقت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik deze week komen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن وقت جدید مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_for_appointment",
+    "life_context": "service",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt maandag een serviceafspraak maken.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی برای دوشنبه یک قرار سرویس بگیری. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست گرفتن وقت جدید مناسب باشد.",
+    "dialogue_rule_fa": "برای درخواست وقت می‌توانی بپرسی: «Kan ik een afspraak maken?» یا «Heeft u tijd?»",
+    "extra_example_nl": "Heeft u deze week tijd?",
+    "extra_example_fa": "آیا این هفته وقت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maandag tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن وقت جدید مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_for_appointment",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een afspraak met een collega op kantoor.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی با یک همکار در دفتر قرار بگذاری. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست گرفتن وقت جدید مناسب باشد.",
+    "dialogue_rule_fa": "برای درخواست وقت می‌توانی بپرسی: «Kan ik een afspraak maken?» یا «Heeft u tijd?»",
+    "extra_example_nl": "Heeft u deze week tijd?",
+    "extra_example_fa": "آیا این هفته وقت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heb je morgen tijd voor een afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن وقت جدید مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_for_appointment",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten of er nog een plek vrij is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی آیا هنوز وقت خالی وجود دارد. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست گرفتن وقت جدید مناسب باشد.",
+    "dialogue_rule_fa": "برای درخواست وقت می‌توانی بپرسی: «Kan ik een afspraak maken?» یا «Heeft u tijd?»",
+    "extra_example_nl": "Heeft u deze week tijd?",
+    "extra_example_fa": "آیا این هفته وقت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u nog een plek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن وقت جدید مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_for_appointment",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt op dinsdag een officiële afspraak maken.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی برای سه‌شنبه یک قرار رسمی بگیری. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست گرفتن وقت جدید مناسب باشد.",
+    "dialogue_rule_fa": "برای درخواست وقت می‌توانی بپرسی: «Kan ik een afspraak maken?» یا «Heeft u tijd?»",
+    "extra_example_nl": "Heeft u deze week tijd?",
+    "extra_example_fa": "آیا این هفته وقت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik dinsdag een afspraak maken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن وقت جدید مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_for_appointment",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt volgende week ergens langskomen.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی هفته بعد جایی بروی و وقت بگیری. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست گرفتن وقت جدید مناسب باشد.",
+    "dialogue_rule_fa": "برای درخواست وقت می‌توانی بپرسی: «Kan ik een afspraak maken?» یا «Heeft u tijd?»",
+    "extra_example_nl": "Heeft u deze week tijd?",
+    "extra_example_fa": "آیا این هفته وقت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik volgende week langskomen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن وقت جدید مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_for_appointment",
+    "life_context": "personal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een persoonlijke afspraak op vrijdag.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی برای جمعه یک قرار شخصی بگیری. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست گرفتن وقت جدید مناسب باشد.",
+    "dialogue_rule_fa": "برای درخواست وقت می‌توانی بپرسی: «Kan ik een afspraak maken?» یا «Heeft u tijd?»",
+    "extra_example_nl": "Heeft u deze week tijd?",
+    "extra_example_fa": "آیا این هفته وقت دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u vrijdag tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن وقت جدید مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_day_time",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De medewerker vraagt: Welke dag past u?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "کارمند می‌پرسد کدام روز مناسب است. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای انتخاب روز یا ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای انتخاب روز یا ساعت می‌توانی بگویی: «Maandag past goed» یا «Om tien uur kan ik».",
+    "extra_example_nl": "Dinsdag om tien uur past mij goed.",
+    "extra_example_fa": "سه‌شنبه ساعت ده برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Maandag past goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب روز یا ساعت قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_day_time",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kunt om tien uur komen. De medewerker vraagt: Hoe laat kunt u?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "می‌توانی ساعت ده بیایی. کارمند می‌پرسد چه ساعتی می‌توانی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای انتخاب روز یا ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای انتخاب روز یا ساعت می‌توانی بگویی: «Maandag past goed» یا «Om tien uur kan ik».",
+    "extra_example_nl": "Dinsdag om tien uur past mij goed.",
+    "extra_example_fa": "سه‌شنبه ساعت ده برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om tien uur kan ik.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب روز یا ساعت قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet ik zijn voor de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_day_time",
+    "life_context": "hairdresser",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De kapper vraagt: Past vrijdagmiddag?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "آرایشگر می‌پرسد: بعدازظهر جمعه مناسب است؟ بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای انتخاب روز یا ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای انتخاب روز یا ساعت می‌توانی بگویی: «Maandag past goed» یا «Om tien uur kan ik».",
+    "extra_example_nl": "Dinsdag om tien uur past mij goed.",
+    "extra_example_fa": "سه‌شنبه ساعت ده برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op welk adres is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vrijdagmiddag is goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب روز یا ساعت قرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_day_time",
+    "life_context": "municipality",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent dinsdag om negen uur vrij.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "سه‌شنبه ساعت نه وقت داری. کدام جمله مناسب است؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای انتخاب روز یا ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای انتخاب روز یا ساعت می‌توانی بگویی: «Maandag past goed» یا «Om tien uur kan ik».",
+    "extra_example_nl": "Dinsdag om tien uur past mij goed.",
+    "extra_example_fa": "سه‌شنبه ساعت ده برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar moet ik naartoe?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan dinsdag om negen uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب روز یا ساعت قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_day_time",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De school vraagt: Wanneer kunt u komen?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "مدرسه می‌پرسد چه زمانی می‌توانید بیایید. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای انتخاب روز یا ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای انتخاب روز یا ساعت می‌توانی بگویی: «Maandag past goed» یا «Om tien uur kan ik».",
+    "extra_example_nl": "Dinsdag om tien uur past mij goed.",
+    "extra_example_fa": "سه‌شنبه ساعت ده برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Woensdag om half tien past mij goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب روز یا ساعت قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_day_time",
+    "life_context": "service",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt vragen of half drie mogelijk is.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "می‌خواهی بپرسی آیا ساعت دو و نیم ممکن است. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای انتخاب روز یا ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای انتخاب روز یا ساعت می‌توانی بگویی: «Maandag past goed» یا «Om tien uur kan ik».",
+    "extra_example_nl": "Dinsdag om tien uur past mij goed.",
+    "extra_example_fa": "سه‌شنبه ساعت ده برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u tijd om half drie?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب روز یا ساعت قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet ik zijn voor de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_day_time",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De medewerker vraagt: Past donderdag om twee uur? Het tijdstip is goed voor jou.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "کارمند می‌پرسد پنج‌شنبه ساعت دو مناسب است و این زمان برای تو خوب است. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای انتخاب روز یا ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای انتخاب روز یا ساعت می‌توانی بگویی: «Maandag past goed» یا «Om tien uur kan ik».",
+    "extra_example_nl": "Dinsdag om tien uur past mij goed.",
+    "extra_example_fa": "سه‌شنبه ساعت ده برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op welk adres is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, donderdag om twee uur past goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب روز یا ساعت قرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_day_time",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kunt alleen in de middag komen.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "فقط بعدازظهر می‌توانی بیایی. کدام جمله مناسب است؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای انتخاب روز یا ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای انتخاب روز یا ساعت می‌توانی بگویی: «Maandag past goed» یا «Om tien uur kan ik».",
+    "extra_example_nl": "Dinsdag om tien uur past mij goed.",
+    "extra_example_fa": "سه‌شنبه ساعت ده برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar moet ik naartoe?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan in de middag komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب روز یا ساعت قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_day_time",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kiest tussen twee tijden. Om half drie past goed.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "بین دو زمان انتخاب می‌کنی. ساعت دو و نیم مناسب است. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای انتخاب روز یا ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای انتخاب روز یا ساعت می‌توانی بگویی: «Maandag past goed» یا «Om tien uur kan ik».",
+    "extra_example_nl": "Dinsdag om tien uur past mij goed.",
+    "extra_example_fa": "سه‌شنبه ساعت ده برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om half drie past goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب روز یا ساعت قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_day_time",
+    "life_context": "personal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je spreekt met een bekende. Jij kunt zondag om vier uur.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "با یک آشنا صحبت می‌کنی. تو یکشنبه ساعت چهار می‌توانی. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای انتخاب روز یا ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای انتخاب روز یا ساعت می‌توانی بگویی: «Maandag past goed» یا «Om tien uur kan ik».",
+    "extra_example_nl": "Dinsdag om tien uur past mij goed.",
+    "extra_example_fa": "سه‌شنبه ساعت ده برای من مناسب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zondag om vier uur kan ik.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای انتخاب روز یا ساعت قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet ik zijn voor de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "responding_to_time_suggestion",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Heeft u dinsdag om tien uur tijd?\nB: Je kunt dan komen.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "طرف مقابل سه‌شنبه ساعت ده را پیشنهاد می‌دهد و تو می‌توانی بروی. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای قبول کردن زمان پیشنهادی مناسب باشد.",
+    "dialogue_rule_fa": "برای قبول زمان می‌گویی: «Ja, dat is goed». برای رد کردن می‌گویی: «Nee, dat lukt niet».",
+    "extra_example_nl": "Dat past goed, dank u.",
+    "extra_example_fa": "این زمان مناسب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, dat lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای رد کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, dat is goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن زمان پیشنهادی مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op welk adres is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "responding_to_time_suggestion",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Kunt u maandag om negen uur komen?\nB: Je kunt dan niet.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "از تو می‌پرسند می‌توانی دوشنبه ساعت نه بیایی، اما نمی‌توانی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای رد کردن زمان پیشنهادی مناسب باشد.",
+    "dialogue_rule_fa": "برای قبول زمان می‌گویی: «Ja, dat is goed». برای رد کردن می‌گویی: «Nee, dat lukt niet».",
+    "extra_example_nl": "Dat past goed, dank u.",
+    "extra_example_fa": "این زمان مناسب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, dat is goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قبول کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is afgesproken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik ben onderweg.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, dat lukt niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن زمان پیشنهادی مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "responding_to_time_suggestion",
+    "life_context": "hairdresser",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Kan het vrijdag om twee uur?\nB: Je wilt iets later.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "آرایشگر ساعت دو جمعه را پیشنهاد می‌دهد، اما تو کمی دیرتر می‌خواهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست زمان دیرتر مناسب باشد.",
+    "dialogue_rule_fa": "برای قبول زمان می‌گویی: «Ja, dat is goed». برای رد کردن می‌گویی: «Nee, dat lukt niet».",
+    "extra_example_nl": "Dat past goed, dank u.",
+    "extra_example_fa": "این زمان مناسب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan het iets later?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست زمان دیرتر مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat past goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قبول کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet ik naartoe?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "responding_to_time_suggestion",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Past woensdag om elf uur?\nB: Je wilt vroeger komen.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "از تو می‌پرسند چهارشنبه ساعت یازده مناسب است، اما می‌خواهی زودتر بیایی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست زمان زودتر مناسب باشد.",
+    "dialogue_rule_fa": "برای قبول زمان می‌گویی: «Ja, dat is goed». برای رد کردن می‌گویی: «Nee, dat lukt niet».",
+    "extra_example_nl": "Dat past goed, dank u.",
+    "extra_example_fa": "این زمان مناسب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, dinsdagmiddag past goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قبول کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan het iets vroeger?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست زمان زودتر مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dan kan ik niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای رد کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u de afspraak bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید جزئیات قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "responding_to_time_suggestion",
+    "life_context": "municipality",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Heeft u donderdagmiddag tijd?\nB: Donderdagmiddag past goed.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "طرف مقابل پنج‌شنبه بعدازظهر را پیشنهاد می‌دهد و این زمان مناسب است. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای قبول کردن زمان پیشنهادی مناسب باشد.",
+    "dialogue_rule_fa": "برای قبول زمان می‌گویی: «Ja, dat is goed». برای رد کردن می‌گویی: «Nee, dat lukt niet».",
+    "extra_example_nl": "Dat past goed, dank u.",
+    "extra_example_fa": "این زمان مناسب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Die tijd past niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای رد کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat past goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن زمان پیشنهادی مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "responding_to_time_suggestion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Kun je morgen om drie uur?\nB: Je hebt dan geen tijd.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همکار می‌پرسد می‌توانی فردا ساعت سه؟ تو آن زمان وقت نداری. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای رد کردن زمان پیشنهادی مناسب باشد.",
+    "dialogue_rule_fa": "برای قبول زمان می‌گویی: «Ja, dat is goed». برای رد کردن می‌گویی: «Nee, dat lukt niet».",
+    "extra_example_nl": "Dat past goed, dank u.",
+    "extra_example_fa": "این زمان مناسب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Prima, dat is goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قبول کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik noteer het.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben er over vijf minuten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dan kan ik niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن زمان پیشنهادی مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "responding_to_time_suggestion",
+    "life_context": "service",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Kan de serviceafspraak om acht uur?\nB: Acht uur is te vroeg voor jou.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "برای قرار سرویس ساعت هشت پیشنهاد می‌شود، اما برای تو خیلی زود است. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای قبول زمان می‌گویی: «Ja, dat is goed». برای رد کردن می‌گویی: «Nee, dat lukt niet».",
+    "extra_example_nl": "Dat past goed, dank u.",
+    "extra_example_fa": "این زمان مناسب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een andere tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bedankt, tot dan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "responding_to_time_suggestion",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Past dinsdagmiddag?\nB: Dinsdagmiddag is goed voor jou.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "سه‌شنبه بعدازظهر پیشنهاد می‌شود و برای تو خوب است. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای قبول کردن زمان پیشنهادی مناسب باشد.",
+    "dialogue_rule_fa": "برای قبول زمان می‌گویی: «Ja, dat is goed». برای رد کردن می‌گویی: «Nee, dat lukt niet».",
+    "extra_example_nl": "Dat past goed, dank u.",
+    "extra_example_fa": "این زمان مناسب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Donderdag lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای رد کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, dinsdagmiddag past goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن زمان پیشنهادی مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet ik zijn voor de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "responding_to_time_suggestion",
+    "life_context": "personal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Zullen we om zes uur afspreken?\nB: Jij kunt pas om zeven uur.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "طرف مقابل ساعت شش را پیشنهاد می‌دهد، اما تو فقط ساعت هفت می‌توانی. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست زمان دیرتر مناسب باشد.",
+    "dialogue_rule_fa": "برای قبول زمان می‌گویی: «Ja, dat is goed». برای رد کردن می‌گویی: «Nee, dat lukt niet».",
+    "extra_example_nl": "Dat past goed, dank u.",
+    "extra_example_fa": "این زمان مناسب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, dat is goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قبول کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan het om zeven uur?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست زمان دیرتر مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op welk adres is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "responding_to_time_suggestion",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Is half tien goed?\nB: Jij kunt dan komen.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "می‌پرسند ساعت نه و نیم خوب است؟ تو می‌توانی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای قبول کردن زمان پیشنهادی مناسب باشد.",
+    "dialogue_rule_fa": "برای قبول زمان می‌گویی: «Ja, dat is goed». برای رد کردن می‌گویی: «Nee, dat lukt niet».",
+    "extra_example_nl": "Dat past goed, dank u.",
+    "extra_example_fa": "این زمان مناسب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, dat lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای رد کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet ik naartoe?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, half tien is goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن زمان پیشنهادی مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "confirming_appointment",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Dan zie ik u maandag om tien uur.\nB: Je wilt de afspraak bevestigen.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "می‌گویند دوشنبه ساعت ده شما را می‌بینیم. می‌خواهی قرار را تأیید کنی. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تأیید قرار، روز و ساعت را تکرار کن یا بگو: «Dat is afgesproken».",
+    "extra_example_nl": "Bedankt, tot dan.",
+    "extra_example_fa": "ممنون، تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is goed, tot maandag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "confirming_appointment",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De afspraak is vrijdag om twee uur. Je herhaalt de afspraak.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "قرار جمعه ساعت دو است. می‌خواهی آن را تکرار و تأیید کنی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تأیید قرار، روز و ساعت را تکرار کن یا بگو: «Dat is afgesproken».",
+    "extra_example_nl": "Bedankt, tot dan.",
+    "extra_example_fa": "ممنون، تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dus de afspraak is vrijdag om twee uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u nog een plek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "confirming_appointment",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: We hebben een afspraak op dinsdag om half drie.\nB: Je wilt zeggen dat je het noteert.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "می‌گویند قرار سه‌شنبه ساعت دو و نیم است. می‌خواهی بگویی یادداشت می‌کنی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تأیید قرار، روز و ساعت را تکرار کن یا بگو: «Dat is afgesproken».",
+    "extra_example_nl": "Bedankt, tot dan.",
+    "extra_example_fa": "ممنون، تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik noteer het.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "confirming_appointment",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Morgen om negen uur, goed?\nB: Je bevestigt de afspraak met je collega.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همکارت می‌گوید فردا ساعت نه، خوب است؟ تو قرار را تأیید می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تأیید قرار، روز و ساعت را تکرار کن یا بگو: «Dat is afgesproken».",
+    "extra_example_nl": "Bedankt, tot dan.",
+    "extra_example_fa": "ممنون، تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maandag tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is afgesproken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "confirming_appointment",
+    "life_context": "municipality",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Uw afspraak is morgen om negen uur.\nB: Je bevestigt dat je komt.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "می‌گویند وقت شما فردا ساعت نه است. می‌خواهی تأیید کنی که می‌آیی. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تأیید قرار، روز و ساعت را تکرار کن یا بگو: «Dat is afgesproken».",
+    "extra_example_nl": "Bedankt, tot dan.",
+    "extra_example_fa": "ممنون، تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kom morgen om negen uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "confirming_appointment",
+    "life_context": "hairdresser",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Dan staat u gepland voor woensdag om elf uur.\nB: Je sluit het gesprek netjes af.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "آرایشگر می‌گوید برای چهارشنبه ساعت یازده ثبت شده‌اید. می‌خواهی مکالمه را خوب تمام کنی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تأیید قرار، روز و ساعت را تکرار کن یا بگو: «Dat is afgesproken».",
+    "extra_example_nl": "Bedankt, tot dan.",
+    "extra_example_fa": "ممنون، تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bedankt, tot dan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u nog een plek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "confirming_appointment",
+    "life_context": "service",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De medewerker herhaalt: Donderdag om acht uur komt onze monteur.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "کارمند تکرار می‌کند: پنج‌شنبه ساعت هشت تعمیرکار ما می‌آید. بهترین تأیید چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تأیید قرار، روز و ساعت را تکرار کن یا بگو: «Dat is afgesproken».",
+    "extra_example_nl": "Bedankt, tot dan.",
+    "extra_example_fa": "ممنون، تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dus donderdag om acht uur. Dat is goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "confirming_appointment",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt net een afspraak gemaakt voor maandag.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همین الان برای دوشنبه وقت گرفتی. در پایان چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تأیید قرار، روز و ساعت را تکرار کن یا بگو: «Dat is afgesproken».",
+    "extra_example_nl": "Bedankt, tot dan.",
+    "extra_example_fa": "ممنون، تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maandag tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot maandag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "confirming_appointment",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Uw afspraak staat op vrijdag om tien uur.\nB: Je wilt het netjes bevestigen.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "می‌گویند وقت شما جمعه ساعت ده ثبت شده است. می‌خواهی مؤدبانه تأیید کنی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تأیید قرار، روز و ساعت را تکرار کن یا بگو: «Dat is afgesproken».",
+    "extra_example_nl": "Bedankt, tot dan.",
+    "extra_example_fa": "ممنون، تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel, ik noteer het.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "confirming_appointment",
+    "life_context": "personal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: We spreken morgen om zes uur af.\nB: Je bent akkoord.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "طرف مقابل می‌گوید فردا ساعت شش قرار می‌گذاریم. تو موافقی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تأیید قرار، روز و ساعت را تکرار کن یا بگو: «Dat is afgesproken».",
+    "extra_example_nl": "Bedankt, tot dan.",
+    "extra_example_fa": "ممنون، تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Prima, tot morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u nog een plek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "rescheduling_appointment",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt morgen een afspraak, maar je kunt niet komen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "فردا قرار داری، اما نمی‌توانی بروی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تغییر وقت قرار از «verzetten» استفاده کن: «Ik wil mijn afspraak verzetten».",
+    "extra_example_nl": "Kan ik de afspraak verzetten?",
+    "extra_example_fa": "می‌توانم قرار را تغییر بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dus de afspraak is maandag om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "rescheduling_appointment",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je afspraak op school is morgen, maar je bent dan niet vrij.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "وقت مدرسه‌ات فرداست، اما آن زمان آزاد نیستی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تغییر وقت قرار از «verzetten» استفاده کن: «Ik wil mijn afspraak verzetten».",
+    "extra_example_nl": "Kan ik de afspraak verzetten?",
+    "extra_example_fa": "می‌توانم قرار را تغییر بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is afgesproken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "rescheduling_appointment",
+    "life_context": "hairdresser",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt een afspraak bij de kapper, maar deze tijd lukt niet.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در آرایشگاه وقت داری، اما این زمان ممکن نیست. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تغییر وقت قرار از «verzetten» استفاده کن: «Ik wil mijn afspraak verzetten».",
+    "extra_example_nl": "Kan ik de afspraak verzetten?",
+    "extra_example_fa": "می‌توانم قرار را تغییر بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik noteer het.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "rescheduling_appointment",
+    "life_context": "municipality",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kunt op maandag niet naar de gemeente komen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دوشنبه نمی‌توانی به شهرداری بروی. بهترین سؤال برای تغییر وقت چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تغییر وقت قرار از «verzetten» استفاده کن: «Ik wil mijn afspraak verzetten».",
+    "extra_example_nl": "Kan ik de afspraak verzetten?",
+    "extra_example_fa": "می‌توانم قرار را تغییر بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bedankt, tot dan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "rescheduling_appointment",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je collega stelt vandaag drie uur voor, maar jij wilt een andere tijd.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همکارت امروز ساعت سه را پیشنهاد می‌دهد، اما تو زمان دیگری می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تغییر وقت قرار از «verzetten» استفاده کن: «Ik wil mijn afspraak verzetten».",
+    "extra_example_nl": "Kan ik de afspraak verzetten?",
+    "extra_example_fa": "می‌توانم قرار را تغییر بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dus de afspraak is maandag om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u een andere tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "rescheduling_appointment",
+    "life_context": "service",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je serviceafspraak is morgen, maar je kunt niet thuis zijn.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "قرار سرویس فرداست، اما نمی‌توانی خانه باشی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تغییر وقت قرار از «verzetten» استفاده کن: «Ik wil mijn afspraak verzetten».",
+    "extra_example_nl": "Kan ik de afspraak verzetten?",
+    "extra_example_fa": "می‌توانم قرار را تغییر بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is afgesproken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan morgen niet komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "rescheduling_appointment",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt dezelfde afspraak houden, maar op een later tijdstip.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی همان قرار باقی بماند، اما در ساعت دیرتری باشد. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تغییر وقت قرار از «verzetten» استفاده کن: «Ik wil mijn afspraak verzetten».",
+    "extra_example_nl": "Kan ik de afspraak verzetten?",
+    "extra_example_fa": "می‌توانم قرار را تغییر بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan de afspraak iets later?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik noteer het.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "rescheduling_appointment",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt de afspraak naar volgende week verplaatsen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی قرار را به هفته بعد منتقل کنی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تغییر وقت قرار از «verzetten» استفاده کن: «Ik wil mijn afspraak verzetten».",
+    "extra_example_nl": "Kan ik de afspraak verzetten?",
+    "extra_example_fa": "می‌توانم قرار را تغییر بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bedankt, tot dan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan de afspraak naar volgende week?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "rescheduling_appointment",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt om een bestaande afspraak te veranderen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "برای تغییر یک قرار موجود تماس می‌گیری. در شروع چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تغییر وقت قرار از «verzetten» استفاده کن: «Ik wil mijn afspraak verzetten».",
+    "extra_example_nl": "Kan ik de afspraak verzetten?",
+    "extra_example_fa": "می‌توانم قرار را تغییر بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dus de afspraak is maandag om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bel om mijn afspraak te verzetten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "rescheduling_appointment",
+    "life_context": "personal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je spreekt met een bekende. Je kunt vandaag niet afspreken.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "با یک آشنا صحبت می‌کنی. امروز نمی‌توانی قرار بگذاری. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای تغییر وقت قرار از «verzetten» استفاده کن: «Ik wil mijn afspraak verzetten».",
+    "extra_example_nl": "Kan ik de afspraak verzetten?",
+    "extra_example_fa": "می‌توانم قرار را تغییر بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is afgesproken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan het op een andere dag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "canceling_appointment",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kunt niet komen en wilt de afspraak afzeggen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "نمی‌توانی بروی و می‌خواهی قرار را لغو کنی. بهترین جمله کدام است؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای لغو قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای لغو قرار می‌گویی: «Ik wil mijn afspraak annuleren» یا «Ik moet de afspraak afzeggen».",
+    "extra_example_nl": "Sorry, ik moet de afspraak afzeggen.",
+    "extra_example_fa": "ببخشید، باید قرار را لغو کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای لغو قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik noteer het.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "canceling_appointment",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt omdat je niet naar je afspraak kunt komen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "تماس می‌گیری چون نمی‌توانی به قرار بروی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای لغو قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای لغو قرار می‌گویی: «Ik wil mijn afspraak annuleren» یا «Ik moet de afspraak afzeggen».",
+    "extra_example_nl": "Sorry, ik moet de afspraak afzeggen.",
+    "extra_example_fa": "ببخشید، باید قرار را لغو کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u maandag tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای لغو قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bedankt, tot dan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "canceling_appointment",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt een afspraak met school netjes annuleren.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی یک قرار با مدرسه را مؤدبانه لغو کنی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای لغو قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای لغو قرار می‌گویی: «Ik wil mijn afspraak annuleren» یا «Ik moet de afspraak afzeggen».",
+    "extra_example_nl": "Sorry, ik moet de afspraak afzeggen.",
+    "extra_example_fa": "ببخشید، باید قرار را لغو کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dus de afspraak is maandag om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای لغو قرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "canceling_appointment",
+    "life_context": "service",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De serviceafspraak kan vandaag niet doorgaan.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "قرار سرویس امروز نمی‌تواند انجام شود. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای لغو قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای لغو قرار می‌گویی: «Ik wil mijn afspraak annuleren» یا «Ik moet de afspraak afzeggen».",
+    "extra_example_nl": "Sorry, ik moet de afspraak afzeggen.",
+    "extra_example_fa": "ببخشید، باید قرار را لغو کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u nog een plek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is afgesproken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای لغو قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "canceling_appointment",
+    "life_context": "hairdresser",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt vragen of je je afspraak bij de kapper kunt annuleren.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی بپرسی آیا می‌توانی وقت آرایشگاه را لغو کنی. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای لغو قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای لغو قرار می‌گویی: «Ik wil mijn afspraak annuleren» یا «Ik moet de afspraak afzeggen».",
+    "extra_example_nl": "Sorry, ik moet de afspraak afzeggen.",
+    "extra_example_fa": "ببخشید، باید قرار را لغو کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik mijn afspraak annuleren?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای لغو قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik noteer het.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "canceling_appointment",
+    "life_context": "municipality",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je annuleert je afspraak en wilt later opnieuw plannen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "قرار را لغو می‌کنی و می‌خواهی بعداً دوباره وقت بگیری. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای لغو قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای لغو قرار می‌گویی: «Ik wil mijn afspraak annuleren» یا «Ik moet de afspraak afzeggen».",
+    "extra_example_nl": "Sorry, ik moet de afspraak afzeggen.",
+    "extra_example_fa": "ببخشید، باید قرار را لغو کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u maandag tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik maak later een nieuwe afspraak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای لغو قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bedankt, tot dan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "canceling_appointment",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt een afspraak met een collega vandaag afzeggen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی قرار امروز با همکارت را لغو کنی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای لغو قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای لغو قرار می‌گویی: «Ik wil mijn afspraak annuleren» یا «Ik moet de afspraak afzeggen».",
+    "extra_example_nl": "Sorry, ik moet de afspraak afzeggen.",
+    "extra_example_fa": "ببخشید، باید قرار را لغو کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dus de afspraak is maandag om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik moet onze afspraak vandaag afzeggen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای لغو قرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "canceling_appointment",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt niet verzetten, maar helemaal annuleren.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "نمی‌خواهی وقت را تغییر بدهی؛ می‌خواهی کامل لغو کنی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای لغو قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای لغو قرار می‌گویی: «Ik wil mijn afspraak annuleren» یا «Ik moet de afspraak afzeggen».",
+    "extra_example_nl": "Sorry, ik moet de afspraak afzeggen.",
+    "extra_example_fa": "ببخشید، باید قرار را لغو کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u nog een plek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is afgesproken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil de afspraak helemaal annuleren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای لغو قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "canceling_appointment",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt kort voor je afspraak en kunt toch niet komen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "کمی قبل از قرار تماس می‌گیری و نمی‌توانی بروی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای لغو قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای لغو قرار می‌گویی: «Ik wil mijn afspraak annuleren» یا «Ik moet de afspraak afzeggen».",
+    "extra_example_nl": "Sorry, ik moet de afspraak afzeggen.",
+    "extra_example_fa": "ببخشید، باید قرار را لغو کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik kan toch niet komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای لغو قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik noteer het.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "canceling_appointment",
+    "life_context": "personal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt een persoonlijke afspraak afzeggen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی یک قرار شخصی را لغو کنی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای لغو قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای لغو قرار می‌گویی: «Ik wil mijn afspraak annuleren» یا «Ik moet de afspraak afzeggen».",
+    "extra_example_nl": "Sorry, ik moet de afspraak afzeggen.",
+    "extra_example_fa": "ببخشید، باید قرار را لغو کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u maandag tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik moet onze afspraak afzeggen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای لغو قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bedankt, tot dan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "being_late_for_appointment",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent onderweg en komt tien minuten te laat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در راه هستی و ده دقیقه دیر می‌رسی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "برای دیر رسیدن بگو: «Sorry, ik kom ... minuten later» یا «Ik ben ... minuten te laat».",
+    "extra_example_nl": "Sorry, ik kom iets later.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik kom tien minuten later.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "being_late_for_appointment",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat in de file en bent vijf minuten later.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در ترافیک هستی و پنج دقیقه دیرتر می‌رسی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "برای دیر رسیدن بگو: «Sorry, ik kom ... minuten later» یا «Ik ben ... minuten te laat».",
+    "extra_example_nl": "Sorry, ik kom iets later.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u nog een plek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben vijf minuten te laat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "being_late_for_appointment",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je collega wacht op je. Je komt iets later.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همکارت منتظر توست. کمی دیرتر می‌رسی. چه می‌فرستی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "برای دیر رسیدن بگو: «Sorry, ik kom ... minuten later» یا «Ik ben ... minuten te laat».",
+    "extra_example_nl": "Sorry, ik kom iets later.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kom iets later.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "being_late_for_appointment",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je afspraak is over tien minuten, maar je bent nog onderweg.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "قرار تو ده دقیقه دیگر است، اما هنوز در راه هستی. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "برای دیر رسیدن بگو: «Sorry, ik kom ... minuten later» یا «Ik ben ... minuten te laat».",
+    "extra_example_nl": "Sorry, ik kom iets later.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u maandag tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik ben onderweg.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "being_late_for_appointment",
+    "life_context": "municipality",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je komt over vijf minuten aan bij de balie.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "پنج دقیقه دیگر به پذیرش می‌رسی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "برای دیر رسیدن بگو: «Sorry, ik kom ... minuten later» یا «Ik ben ... minuten te laat».",
+    "extra_example_nl": "Sorry, ik kom iets later.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben er over vijf minuten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "being_late_for_appointment",
+    "life_context": "hairdresser",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent te laat, maar wilt weten of je nog mag komen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دیرت شده، اما می‌خواهی بدانی هنوز می‌توانی بروی یا نه. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "برای دیر رسیدن بگو: «Sorry, ik kom ... minuten later» یا «Ik ben ... minuten te laat».",
+    "extra_example_nl": "Sorry, ik kom iets later.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u nog een plek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik nog komen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "being_late_for_appointment",
+    "life_context": "service",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je komt vijftien minuten te laat voor een serviceafspraak.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "برای قرار سرویس پانزده دقیقه دیر می‌رسی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "برای دیر رسیدن بگو: «Sorry, ik kom ... minuten later» یا «Ik ben ... minuten te laat».",
+    "extra_example_nl": "Sorry, ik kom iets later.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik ben vijftien minuten te laat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "being_late_for_appointment",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent laat en wilt vragen of dat een probleem is.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دیرت شده و می‌خواهی بپرسی آیا مشکلی هست یا نه. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "برای دیر رسیدن بگو: «Sorry, ik kom ... minuten later» یا «Ik ben ... minuten te laat».",
+    "extra_example_nl": "Sorry, ik kom iets later.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u maandag tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is dat een probleem?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "being_late_for_appointment",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt een afspraak om twee uur, maar je komt om tien over twee.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "قرار ساعت دو است، اما ساعت دو و ده دقیقه می‌رسی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "برای دیر رسیدن بگو: «Sorry, ik kom ... minuten later» یا «Ik ben ... minuten te laat».",
+    "extra_example_nl": "Sorry, ik kom iets later.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom tien minuten later.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "being_late_for_appointment",
+    "life_context": "personal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je spreekt met een vriend af en bent iets te laat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "با یک دوست قرار داری و کمی دیرت شده. بهترین پیام چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "برای دیر رسیدن بگو: «Sorry, ik kom ... minuten later» یا «Ik ben ... minuten te laat».",
+    "extra_example_nl": "Sorry, ik kom iets later.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u nog een plek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry, ik ben iets te laat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_appointment_details",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je weet dat je een afspraak hebt, maar je weet de tijd niet meer.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌دانی قرار داری، اما ساعتش را یادت نیست. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای پرسیدن ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات قرار، از سؤال‌های ساده مثل «Hoe laat»، «Waar» و «Met wie» استفاده کن.",
+    "extra_example_nl": "Hoe laat moet ik komen?",
+    "extra_example_fa": "چه ساعتی باید بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن ساعت قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben tien minuten te laat.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_appointment_details",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je weet de tijd, maar je weet de plaats niet.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "ساعت را می‌دانی، اما مکان را نمی‌دانی. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای پرسیدن مکان قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات قرار، از سؤال‌های ساده مثل «Hoe laat»، «Waar» و «Met wie» استفاده کن.",
+    "extra_example_nl": "Hoe laat moet ik komen?",
+    "extra_example_fa": "چه ساعتی باید بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مکان قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_appointment_details",
+    "life_context": "municipality",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt een afspraak bij de gemeente, maar je weet niet met welke medewerker.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "در شهرداری وقت داری، اما نمی‌دانی با کدام کارمند. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای پرسیدن شخص ملاقات مناسب باشد.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات قرار، از سؤال‌های ساده مثل «Hoe laat»، «Waar» و «Met wie» استفاده کن.",
+    "extra_example_nl": "Hoe laat moet ik komen?",
+    "extra_example_fa": "چه ساعتی باید بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kom iets later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u maandag tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Met wie heb ik de afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن شخص ملاقات مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus de afspraak is maandag om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_appointment_details",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je weet de datum niet meer.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "تاریخ یا روز قرار را یادت نیست. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای پرسیدن روز قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات قرار، از سؤال‌های ساده مثل «Hoe laat»، «Waar» و «Met wie» استفاده کن.",
+    "extra_example_nl": "Hoe laat moet ik komen?",
+    "extra_example_fa": "چه ساعتی باید بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik ben onderweg.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is afgesproken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op welke dag is de afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن روز قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_appointment_details",
+    "life_context": "service",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten wat je moet meenemen naar de afspraak.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی برای قرار چه چیزی باید همراه ببری. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای پرسیدن چیزهای لازم برای قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات قرار، از سؤال‌های ساده مثل «Hoe laat»، «Waar» و «Met wie» استفاده کن.",
+    "extra_example_nl": "Hoe laat moet ik komen?",
+    "extra_example_fa": "چه ساعتی باید بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat moet ik meenemen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن چیزهای لازم برای قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben er over vijf minuten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_appointment_details",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt dat de medewerker de afspraak nog een keer bevestigt.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی کارمند قرار را یک بار دیگر تأیید کند. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای درخواست تأیید جزئیات قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات قرار، از سؤال‌های ساده مثل «Hoe laat»، «Waar» و «Met wie» استفاده کن.",
+    "extra_example_nl": "Hoe laat moet ik komen?",
+    "extra_example_fa": "چه ساعتی باید بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de afspraak bevestigen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست تأیید جزئیات قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik de afspraak verzetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben tien minuten te laat.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_appointment_details",
+    "life_context": "hairdresser",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of je afspraak vandaag of morgen is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی قرارت امروز است یا فردا. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای پرسیدن روز قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات قرار، از سؤال‌های ساده مثل «Hoe laat»، «Waar» و «Met wie» استفاده کن.",
+    "extra_example_nl": "Hoe laat moet ik komen?",
+    "extra_example_fa": "چه ساعتی باید بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kom iets later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik noteer het.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is mijn afspraak vandaag of morgen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن روز قرار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_appointment_details",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je weet de locatie niet precies.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "مکان دقیق قرار را نمی‌دانی. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای پرسیدن مکان قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات قرار، از سؤال‌های ساده مثل «Hoe laat»، «Waar» و «Met wie» استفاده کن.",
+    "extra_example_nl": "Hoe laat moet ik komen?",
+    "extra_example_fa": "چه ساعتی باید بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet ik zijn voor de afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مکان قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_appointment_details",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten hoe lang de afspraak duurt.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی قرار چقدر طول می‌کشد. چه می‌پرسی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای پرسیدن مدت زمان قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات قرار، از سؤال‌های ساده مثل «Hoe laat»، «Waar» و «Met wie» استفاده کن.",
+    "extra_example_nl": "Hoe laat moet ik komen?",
+    "extra_example_fa": "چه ساعتی باید بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe lang duurt de afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مدت زمان قرار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik ben onderweg.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u nog een plek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "asking_appointment_details",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt twee afspraken en wilt weten welke afspraak eerst is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "دو قرار داری و می‌خواهی بدانی کدام قرار اول است. بهترین سؤال چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای پرسیدن روز قرار مناسب باشد.",
+    "dialogue_rule_fa": "برای پرسیدن جزئیات قرار، از سؤال‌های ساده مثل «Hoe laat»، «Waar» و «Met wie» استفاده کن.",
+    "extra_example_nl": "Hoe laat moet ik komen?",
+    "extra_example_fa": "چه ساعتی باید بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben er over vijf minuten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Welke afspraak is eerst?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن روز قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bedankt, tot dan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_best_appointment_dialogue_response",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Heeft u dinsdag om tien uur tijd?\nB: ___\nA: Prima, dan noteer ik dat.",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "در مکالمه، طرف مقابل سه‌شنبه ساعت ده را پیشنهاد می‌دهد و بعد می‌خواهد آن را یادداشت کند. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای قبول کردن زمان پیشنهادی مناسب باشد.",
+    "dialogue_rule_fa": "در مکالمه کامل، اول context را بخوان و پاسخی را انتخاب کن که دقیقاً به جمله قبل جواب می‌دهد.",
+    "extra_example_nl": "Ja, dat is goed. Tot dan.",
+    "extra_example_fa": "بله، خوب است. تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dan kan ik niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای رد کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, dat past goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن زمان پیشنهادی مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_best_appointment_dialogue_response",
+    "life_context": "formal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Uw afspraak is morgen om negen uur.\nB: ___\nA: Graag gedaan, tot morgen.",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "قرار فردا ساعت نه تأیید می‌شود و طرف مقابل می‌گوید تا فردا. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تأیید قرار مناسب باشد.",
+    "dialogue_rule_fa": "در مکالمه کامل، اول context را بخوان و پاسخی را انتخاب کن که دقیقاً به جمله قبل جواب می‌دهد.",
+    "extra_example_nl": "Ja, dat is goed. Tot dan.",
+    "extra_example_fa": "بله، خوب است. تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze tijd lukt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dank u wel, tot morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_best_appointment_dialogue_response",
+    "life_context": "hairdresser",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Kan het vrijdag om half drie?\nB: Je kunt dan niet.\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "آرایشگر جمعه ساعت دو و نیم را پیشنهاد می‌دهد، اما تو نمی‌توانی. بهترین واکنش چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای رد کردن زمان پیشنهادی مناسب باشد.",
+    "dialogue_rule_fa": "در مکالمه کامل، اول context را بخوان و پاسخی را انتخاب کن که دقیقاً به جمله قبل جواب می‌دهد.",
+    "extra_example_nl": "Ja, dat is goed. Tot dan.",
+    "extra_example_fa": "بله، خوب است. تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, dat lukt niet. Heeft u een andere tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رد کردن زمان پیشنهادی مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat past goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قبول کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dus de afspraak is maandag om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben tien minuten te laat.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_best_appointment_dialogue_response",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: U heeft morgen een gesprek op school.\nB: Je kunt morgen niet komen.\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "فردا در مدرسه گفت‌وگو داری، اما نمی‌توانی بروی. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "در مکالمه کامل، اول context را بخوان و پاسخی را انتخاب کن که دقیقاً به جمله قبل جواب می‌دهد.",
+    "extra_example_nl": "Ja, dat is goed. Tot dan.",
+    "extra_example_fa": "بله، خوب است. تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is afgesproken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan morgen niet komen. Kan ik de afspraak verzetten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_best_appointment_dialogue_response",
+    "life_context": "municipality",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Waarmee kan ik u helpen?\nB: Je wilt een afspraak bij de gemeente maken.\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "کارمند می‌پرسد چطور کمک کند و تو می‌خواهی در شهرداری وقت بگیری. بهترین جمله چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای شروع مکالمه برای گرفتن وقت مناسب باشد.",
+    "dialogue_rule_fa": "در مکالمه کامل، اول context را بخوان و پاسخی را انتخاب کن که دقیقاً به جمله قبل جواب می‌دهد.",
+    "extra_example_nl": "Ja, dat is goed. Tot dan.",
+    "extra_example_fa": "بله، خوب است. تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kom iets later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag een afspraak maken bij de gemeente.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع مکالمه برای گرفتن وقت مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_best_appointment_dialogue_response",
+    "life_context": "service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: De monteur kan maandag om acht uur komen.\nB: Jij bent dan niet thuis.\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "تعمیرکار می‌تواند دوشنبه ساعت هشت بیاید، اما تو خانه نیستی. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "در مکالمه کامل، اول context را بخوان و پاسخی را انتخاب کن که دقیقاً به جمله قبل جواب می‌دهد.",
+    "extra_example_nl": "Ja, dat is goed. Tot dan.",
+    "extra_example_fa": "بله، خوب است. تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik noteer het.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat moet ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Maandag om acht uur lukt niet. Heeft u een andere tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_best_appointment_dialogue_response",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Zullen we morgen om drie uur afspreken?\nB: Jij vindt dat goed.\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "همکارت پیشنهاد می‌دهد فردا ساعت سه قرار بگذارید و تو موافقی. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای قبول کردن زمان پیشنهادی مناسب باشد.",
+    "dialogue_rule_fa": "در مکالمه کامل، اول context را بخوان و پاسخی را انتخاب کن که دقیقاً به جمله قبل جواب می‌دهد.",
+    "extra_example_nl": "Ja, dat is goed. Tot dan.",
+    "extra_example_fa": "بله، خوب است. تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, morgen om drie uur is goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قبول کردن زمان پیشنهادی مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Die tijd past niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای رد کردن زمان پیشنهادی است، اما در این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik moet de afspraak afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet ik zijn voor de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن مکان قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_best_appointment_dialogue_response",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Goedemiddag, u spreekt met de balie.\nB: Je wilt weten hoe laat je afspraak is.\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "پذیرش جواب می‌دهد و تو می‌خواهی بدانی ساعت قرارت چند است. چه می‌گویی؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای پرسیدن ساعت قرار مناسب باشد.",
+    "dialogue_rule_fa": "در مکالمه کامل، اول context را بخوان و پاسخی را انتخاب کن که دقیقاً به جمله قبل جواب می‌دهد.",
+    "extra_example_nl": "Ja, dat is goed. Tot dan.",
+    "extra_example_fa": "بله، خوب است. تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat is mijn afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن ساعت قرار مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry, ik ben onderweg.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن دیر رسیدن است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maandag tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_best_appointment_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: U bent te laat. Bent u al onderweg?\nB: Je bent bijna daar.\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "طرف مقابل می‌گوید دیر کرده‌ای و می‌پرسد آیا در راه هستی. تو تقریباً رسیده‌ای. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای اطلاع دادن دیر رسیدن مناسب باشد.",
+    "dialogue_rule_fa": "در مکالمه کامل، اول context را بخوان و پاسخی را انتخاب کن که دقیقاً به جمله قبل جواب می‌دهد.",
+    "extra_example_nl": "Ja, dat is goed. Tot dan.",
+    "extra_example_fa": "بله، خوب است. تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik een afspraak maken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت جدید است، اما در این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak kan niet doorgaan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, ik ben er over vijf minuten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اطلاع دادن دیر رسیدن مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer is de afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "making_appointment",
+    "subtopic": "choosing_best_appointment_dialogue_response",
+    "life_context": "personal_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Kun je vandaag niet?\nB: Jij wilt een andere dag afspreken.\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "طرف مقابل می‌پرسد امروز نمی‌توانی؟ تو می‌خواهی یک روز دیگر قرار بگذاری. بهترین پاسخ چیست؟",
+    "explanation_fa": "در این موقعیت باید جمله‌ای انتخاب شود که برای تغییر وقت قرار مناسب باشد.",
+    "dialogue_rule_fa": "در مکالمه کامل، اول context را بخوان و پاسخی را انتخاب کن که دقیقاً به جمله قبل جواب می‌دهد.",
+    "extra_example_nl": "Ja, dat is goed. Tot dan.",
+    "extra_example_fa": "بله، خوب است. تا آن موقع.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bedankt, tot dan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تأیید قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak annuleren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای لغو قرار است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de tijd bevestigen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت قرار است، نه پاسخ مناسب این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, vandaag lukt niet. Kan het op een andere dag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تغییر وقت قرار مناسب است."
+      }
+    ]
+  }
+]

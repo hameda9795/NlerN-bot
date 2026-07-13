@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «De huur is dit jaar al twee keer verhoogd, zou een kleinere verhoging niet redelijker zijn?»  Verhuurder: «Ik snap uw punt, laten we kijken wat mogelijk is.»  Wat probeert de huurder te bereiken?",
+    "question_text_fa": "مستأجر به دنبال چه چیزی است؟",
+    "explanation_fa": "مستأجر مودبانه درباره‌ی افزایشِ اجاره چانه‌زنی می‌کند و افزایشِ کمتری پیشنهاد می‌دهد.",
+    "grammar_rule_fa": "چانه‌زنیِ مودبانه: «Zou … niet redelijker zijn?»",
+    "extra_example_nl": "Zou een verhoging van twee procent niet redelijker zijn?",
+    "extra_example_fa": "افزایشِ دو درصدی معقول‌تر نیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een lagere huurverhoging onderhandelen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین هدف را دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De huur helemaal niet meer betalen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ او فقط درباره‌ی میزانِ افزایش چانه می‌زند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Meteen verhuizen naar een ander huis.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De verhuurder ontslaan.",
+        "is_correct": false,
+        "feedback_fa": "بی‌معنا است؛ موجر کارمند نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «De verwarming doet het al een week niet goed, kunt u snel iemand sturen?»  Verhuurder: «Sorry, ik regel het deze week nog.»  Welke reactie is een gepaste afsluiting?",
+    "question_text_fa": "کدام واکنش پایانِ مناسب است؟",
+    "explanation_fa": "تشکر و درخواستِ تاریخِ تقریبی، پایانِ مودبانه و عملی است.",
+    "grammar_rule_fa": "سؤالِ عملی: «Wanneer denkt u dat het geregeld is?»",
+    "extra_example_nl": "Dank u, wanneer denkt u ongeveer dat het geregeld is?",
+    "extra_example_fa": "ممنون، تقریباً کی فکر می‌کنید حل می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Verwarming is toch niet zo belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "با شکایتِ اولیه‌ی خودش در تضاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dank u, wanneer denkt u ongeveer dat het geregeld is?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تشکر همراه با درخواستِ زمانِ عملی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een week is al veel te lang, ik bel de rechter.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید است، درحالی‌که موجر همکاری کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het maakt niet uit, ik heb toch een deken.",
+        "is_correct": false,
+        "feedback_fa": "با شکایتِ اولیه‌ی خودش در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Mijn contract loopt over twee maanden af, kunnen we het verlengen?»  Verhuurder: «Ja, dat kan, ik stuur u een nieuw contract.»  Wat is een gepaste vervolgvraag?",
+    "question_text_fa": "کدام سؤالِ بعدی مناسب است؟",
+    "explanation_fa": "پرسیدنِ اینکه آیا شرایط (مثل اجاره) تغییر می‌کند، سؤالِ منطقی و عملی است.",
+    "grammar_rule_fa": "سؤالِ شرایط: «Blijven de voorwaarden hetzelfde?»",
+    "extra_example_nl": "Blijven de voorwaarden en de huurprijs hetzelfde?",
+    "extra_example_fa": "شرایط و اجاره همان می‌ماند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waarom moet ik een contract hebben?",
+        "is_correct": false,
+        "feedback_fa": "بی‌معنا است؛ او خودش درباره‌ی تمدیدِ قرارداد پرسیده بود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Contracten interesseren me niet.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ اولیه‌ی گفتگو در تضاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Blijven de voorwaarden en de huurprijs hetzelfde?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ عملی و مرتبط."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil helemaal geen nieuw contract.",
+        "is_correct": false,
+        "feedback_fa": "با درخواستِ اولیه‌ی خودش، یعنی تمدید، در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Ik verhuis over een maand, wanneer krijg ik mijn borg terug?»  Verhuurder: «Na de eindinspectie, meestal binnen twee weken.»  Wat is een logische vervolgvraag?",
+    "question_text_fa": "کدام سؤالِ بعدی منطقی است؟",
+    "explanation_fa": "پرسیدنِ زمانِ برگزاریِ بازرسیِ نهایی، سؤالِ عملی و مرتبط است.",
+    "grammar_rule_fa": "سؤالِ زمان‌بندی: «Wanneer vindt de eindinspectie plaats?»",
+    "extra_example_nl": "Wanneer vindt de eindinspectie precies plaats?",
+    "extra_example_fa": "بازرسیِ نهایی دقیقاً کی انجام می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil de borg nu meteen contant.",
+        "is_correct": false,
+        "feedback_fa": "غیرمنطقی است؛ موجر روندِ استاندارد را توضیح داده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een borg is toch niet nodig.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ گفتگو است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik verhuis toch niet.",
+        "is_correct": false,
+        "feedback_fa": "با جمله‌ی اولِ خودش («Ik verhuis over een maand») در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer vindt de eindinspectie precies plaats?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ادامه‌ی منطقیِ گفتگو."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Mag ik de woonkamer een andere kleur schilderen?»  Verhuurder: «Dat mag, zolang u het bij vertrek weer wit maakt.»  Wat is de voorwaarde van de verhuurder?",
+    "question_text_fa": "شرطِ موجر چیست؟",
+    "explanation_fa": "موجر اجازه می‌دهد به شرطِ اینکه هنگامِ خروج دیوارها دوباره سفید شوند.",
+    "grammar_rule_fa": "شرط با «zolang»: «Dat mag, zolang u …»",
+    "extra_example_nl": "Dat mag, zolang u het netjes achterlaat.",
+    "extra_example_fa": "این اشکالی ندارد، تا زمانی که مرتب رهایش کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De muur moet bij het einde van het huurcontract weer wit zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین شرط را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De huurder mag helemaal niet schilderen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ موجر اجازه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De verhuurder betaalt de verf.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huurder moet extra huur betalen.",
+        "is_correct": false,
+        "feedback_fa": "موضوعِ هزینه‌ی اضافه در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Ik overweeg een kat te nemen, staat dat toe in het contract?»  Verhuurder: «Volgens het contract mag het, mits de kat geen overlast veroorzaakt.»  Wat is de voorwaarde?",
+    "question_text_fa": "شرط چیست؟",
+    "explanation_fa": "نگهداریِ گربه مجاز است، به شرطی که مزاحمتی برای دیگران ایجاد نکند.",
+    "grammar_rule_fa": "شرط با «mits»: «het mag, mits …»",
+    "extra_example_nl": "U mag een huisdier houden, mits het geen schade veroorzaakt.",
+    "extra_example_fa": "می‌توانید حیوانِ خانگی داشته باشید، به شرطی که آسیبی نزند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen honden zijn toegestaan.",
+        "is_correct": false,
+        "feedback_fa": "موضوع درباره‌ی گربه است، نه سگ."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kat mag geen overlast voor buren of het huis veroorzaken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین شرط را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Katten zijn absoluut verboden.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ گربه با شرط مجاز است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huurder moet een aparte verzekering afsluiten.",
+        "is_correct": false,
+        "feedback_fa": "چنین شرطی در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Ik moet plotseling voor mijn werk verhuizen, kan ik het contract eerder beëindigen?»  Verhuurder: «Dat is lastig, want de opzegtermijn is drie maanden.»  Wat is een goede reactie van de huurder?",
+    "question_text_fa": "کدام واکنشِ مستأجر مناسب است؟",
+    "explanation_fa": "پیشنهادِ راه‌حلِ میانه، مثل پیدا کردنِ مستأجرِ جدید، بهترین واکنش است.",
+    "grammar_rule_fa": "پیشنهادِ سازش: «Zou het helpen als ik zelf een nieuwe huurder zoek?»",
+    "extra_example_nl": "Zou het helpen als ik zelf een nieuwe huurder voorstel?",
+    "extra_example_fa": "کمک می‌کند اگر خودم مستأجرِ جدیدی پیشنهاد بدهم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De opzegtermijn interesseert me niet.",
+        "is_correct": false,
+        "feedback_fa": "نادیده‌گرفتنِ شرطِ قراردادی، غیرسازنده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is niet mijn probleem.",
+        "is_correct": false,
+        "feedback_fa": "بی‌مسئولیتی نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zou het helpen als ik zelf een nieuwe huurder voorstel?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ راه‌حلِ سازنده و منطقی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dan vertrek ik toch gewoon, zonder iets te zeggen.",
+        "is_correct": false,
+        "feedback_fa": "غیرقانونی و غیرحرفه‌ای است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «De wasmachine in de gedeelde ruimte is al twee weken kapot.»  Verhuurder: «Dat wist ik niet, ik regel meteen een monteur.»  Wat is een gepaste reactie?",
+    "question_text_fa": "کدام واکنش مناسب است؟",
+    "explanation_fa": "تشکر و پرسیدنِ زمانِ تقریبیِ تعمیر، واکنشِ مناسب است.",
+    "grammar_rule_fa": "سؤالِ عملی: «Wanneer denkt u dat de monteur langskomt?»",
+    "extra_example_nl": "Bedankt, wanneer denkt u dat de monteur langskomt?",
+    "extra_example_fa": "ممنون، فکر می‌کنید تعمیرکار کی می‌آید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik was niet weet had ik de wasmachine zelf gekocht.",
+        "is_correct": false,
+        "feedback_fa": "جمله نامفهوم و بی‌ربط است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Twee weken, dat is uw eigen schuld.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه است، درحالی‌که موجر همکاری کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het maakt niet uit, ik was toch niet vaak.",
+        "is_correct": false,
+        "feedback_fa": "با شکایتِ اولیه‌ی خودش در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bedankt, wanneer denkt u dat de monteur langskomt?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تشکر و سؤالِ عملی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Verhuurder: «Ik wil de huur volgend jaar met vijf procent verhogen, dat is nu marktconform.»  Huurder: «Dat begrijp ik, maar zou drie procent niet redelijker zijn, gezien de staat van het appartement?»  Wat doet de huurder hier?",
+    "question_text_fa": "مستأجر در اینجا چه کار می‌کند؟",
+    "explanation_fa": "مستأجر با درک از منطق موجر، عددِ کمتری را با دلیل پیشنهاد می‌دهد.",
+    "grammar_rule_fa": "چانه‌زنیِ منطقی: «Dat begrijp ik, maar zou … niet redelijker zijn?»",
+    "extra_example_nl": "Dat begrijp ik, maar zou een lager percentage niet redelijker zijn?",
+    "extra_example_fa": "این را می‌فهمم، اما درصدِ کمتر معقول‌تر نیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij erkent het standpunt van de verhuurder en stelt een tegenvoorstel voor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین رویکرد را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij weigert elke huurverhoging volledig.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ او درصدِ کمتری پیشنهاد می‌دهد، نه رد کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij is het volledig eens met de verhuurder.",
+        "is_correct": false,
+        "feedback_fa": "او با «maar» نظرِ متفاوتی مطرح می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij dreigt met een advocaat.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و مذاکره‌ای است، نه تهدیدآمیز."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Kan ik een deel van de kamer onderverhuren aan een vriend voor drie maanden?»  Verhuurder: «Dat moet u eerst schriftelijk aanvragen, onderverhuur is niet zomaar toegestaan.»  Wat moet de huurder doen?",
+    "question_text_fa": "مستأجر باید چه کار کند؟",
+    "explanation_fa": "او باید ابتدا درخواستِ کتبی برای اجاره‌ی فرعی بدهد.",
+    "grammar_rule_fa": "«schriftelijk aanvragen» یعنی درخواستِ کتبی دادن.",
+    "extra_example_nl": "U moet dat eerst schriftelijk aanvragen bij de verhuurder.",
+    "extra_example_fa": "باید ابتدا این را به‌صورت کتبی از موجر درخواست کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meteen verhuizen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به درخواستِ اجاره‌ی فرعی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Eerst een schriftelijke aanvraag indienen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که موجر گفت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Meteen zonder toestemming beginnen.",
+        "is_correct": false,
+        "feedback_fa": "برخلافِ دستورالعملِ روشنِ موجر است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets doen, het is toch verboden.",
+        "is_correct": false,
+        "feedback_fa": "موجر نگفت ممنوع است، فقط گفت نیاز به درخواستِ کتبی دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Buurman klaagt bij de verhuurder over lawaai. Verhuurder aan huurder: «Ik heb een klacht ontvangen over geluidsoverlast, klopt dat?»  Huurder: «Dat verbaast me, maar ik zal extra voorzichtig zijn.»  Wat doet de huurder in zijn reactie?",
+    "question_text_fa": "مستأجر در واکنشش چه کار می‌کند؟",
+    "explanation_fa": "او تعجب می‌کند اما همکاری می‌کند و قول احتیاطِ بیشتر می‌دهد.",
+    "grammar_rule_fa": "پذیرفتنِ همراه با تعجب: «Dat verbaast me, maar ik zal …»",
+    "extra_example_nl": "Dat verbaast me, maar ik zal er rekening mee houden.",
+    "extra_example_fa": "این تعجب‌آور است، اما آن را در نظر می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij zegt dat het de verhuurder niets aangaat.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او همکاری نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij dreigt te verhuizen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij reageert verrast maar coöperatief.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij ontkent alles boos.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام است، نه عصبانی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Mag ik zelf internet laten installeren, ook al staat er een gat in de muur voor nodig?»  Verhuurder: «Dat mag, als u het netjes laat afwerken.»  Wat is de voorwaarde?",
+    "question_text_fa": "شرط چیست؟",
+    "explanation_fa": "او می‌تواند سیم‌کشیِ اینترنت نصب کند، به شرطی که کار به‌طور تمیز انجام شود.",
+    "grammar_rule_fa": "شرط با «als»: «Dat mag, als u het netjes afwerkt.»",
+    "extra_example_nl": "Dat mag, als u het weer netjes maakt.",
+    "extra_example_fa": "این اشکالی ندارد، به شرطی که دوباره مرتبش کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Internet is helemaal verboden.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ موجر اجازه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De verhuurder installeert het zelf.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ خودِ مستأجر آن را نصب می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het kost extra huur.",
+        "is_correct": false,
+        "feedback_fa": "موضوعِ هزینه‌ی اضافه در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het werk moet netjes afgewerkt worden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین شرط را می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Ik zie schimmel op het plafond in de badkamer, dat lijkt me niet gezond.»  Verhuurder: «U heeft gelijk, ik stuur deze week iemand langs.»  Wat is een goede afsluitende zin van de huurder?",
+    "question_text_fa": "کدام جمله‌ی پایانی برای مستأجر مناسب است؟",
+    "explanation_fa": "تشکر و درخواستِ اطلاع از نتیجه، پایانِ مناسب است.",
+    "grammar_rule_fa": "درخواستِ پیگیری: «Laat u me weten wanneer het geregeld is?»",
+    "extra_example_nl": "Bedankt, laat u me weten wanneer het geregeld is?",
+    "extra_example_fa": "ممنون، وقتی حل شد به من اطلاع می‌دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bedankt, laat u me weten wanneer het geregeld is?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تشکر و پیگیریِ مودبانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Schimmel is toch niet zo erg.",
+        "is_correct": false,
+        "feedback_fa": "با نگرانیِ اولیه‌ی خودش («niet gezond») در تضاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik regel het zelf wel, stuur niemand.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ اولیه‌ی گفتگو، یعنی خواستنِ کمکِ موجر، در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het interesseert me niet meer.",
+        "is_correct": false,
+        "feedback_fa": "با نگرانیِ سلامتیِ اولیه در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Voordat ik verhuis, wil ik graag samen een inspectie doen, zodat er geen misverstanden zijn over schade.»  Verhuurder: «Goed idee, laten we een datum plannen.»  Wat probeert de huurder te voorkomen?",
+    "question_text_fa": "مستأجر سعی می‌کند از چه چیزی جلوگیری کند؟",
+    "explanation_fa": "او می‌خواهد از سوءتفاهم یا اختلاف درباره‌ی خسارتِ احتمالی جلوگیری کند.",
+    "grammar_rule_fa": "پیشگیری با «zodat er geen misverstanden zijn»",
+    "extra_example_nl": "Laten we dit schriftelijk vastleggen, zodat er geen misverstanden zijn.",
+    "extra_example_fa": "بیا این را کتبی مستند کنیم تا سوءتفاهمی پیش نیاید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het krijgen van een nieuw huurcontract.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ بازرسیِ پایانِ اجاره است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Onenigheid over eventuele schade bij het vertrek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌خواهد جلوگیری کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het betalen van de laatste huur.",
+        "is_correct": false,
+        "feedback_fa": "موضوع درباره‌ی بازرسیِ خسارت است، نه پرداختِ اجاره."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het ontmoeten van de verhuurder.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او خودش پیشنهادِ ملاقات می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Zou ik de opzegtermijn met twee weken kunnen inkorten? Ik heb een nieuwe baan in een andere stad.»  Verhuurder: «Ik moet even kijken of dat kan, ik laat het u morgen weten.»  Wat is een gepaste reactie?",
+    "question_text_fa": "کدام واکنش مناسب است؟",
+    "explanation_fa": "تشکر و صبر برای پاسخ، واکنشِ مودبانه و منطقی است.",
+    "grammar_rule_fa": "صبرِ مودبانه: «Dat is prima, ik wacht uw antwoord af.»",
+    "extra_example_nl": "Dat is prima, ik wacht uw antwoord morgen af.",
+    "extra_example_fa": "باشه، منتظرِ پاسختان فردا می‌مانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik vertrek gewoon eerder, met of zonder toestemming.",
+        "is_correct": false,
+        "feedback_fa": "غیرقانونی و بی‌احترام به فرآیندِ توافق است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het maakt me niet meer uit.",
+        "is_correct": false,
+        "feedback_fa": "با درخواستِ اولیه‌ی او در تضاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is prima, ik wacht uw antwoord morgen af.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صبرِ مودبانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat moet vandaag nog geregeld zijn.",
+        "is_correct": false,
+        "feedback_fa": "بیش‌ازحد فشار می‌آورد، درحالی‌که موجر به زمانِ منطقی نیاز دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Verhuurder: «De koelkast is stuk, maar die is al tien jaar oud, dus ik vervang hem liever dan te repareren.»  Huurder: «Dat lijkt me een goed idee, wanneer kan de nieuwe geleverd worden?»  Wat toont de reactie van de huurder?",
+    "question_text_fa": "واکنشِ مستأجر چه چیزی نشان می‌دهد؟",
+    "explanation_fa": "او با پیشنهادِ موجر موافقت می‌کند و درباره‌ی جزئیاتِ عملی سؤال می‌کند.",
+    "grammar_rule_fa": "موافقتِ همراه با پیگیری: «Dat lijkt me een goed idee, wanneer …?»",
+    "extra_example_nl": "Dat lijkt me een goed idee, wanneer kunt u langskomen?",
+    "extra_example_fa": "به نظرم ایده‌ی خوبی است، کی می‌توانید بیایید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volledige onenigheid met het voorstel.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او گفت «dat lijkt me een goed idee»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Onverschilligheid over de koelkast.",
+        "is_correct": false,
+        "feedback_fa": "او علاقه‌ی روشنی نشان می‌دهد، بی‌تفاوت نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een klacht over de leeftijd van de koelkast.",
+        "is_correct": false,
+        "feedback_fa": "او شکایت نمی‌کند، بلکه با تصمیمِ موجر موافقت می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Instemming met een praktische vervolgvraag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Zou het mogelijk zijn om de huur op de vijftiende van de maand te betalen in plaats van de eerste?»  Verhuurder: «Dat is ongebruikelijk, maar ik kan het bespreken met mijn boekhouder.»  Wat vraagt de huurder?",
+    "question_text_fa": "مستأجر چه چیزی درخواست می‌کند؟",
+    "explanation_fa": "او درخواست می‌کند تاریخِ پرداختِ ماهانه‌ی اجاره تغییر کند.",
+    "grammar_rule_fa": "درخواستِ مودبانه: «Zou het mogelijk zijn om …?»",
+    "extra_example_nl": "Zou het mogelijk zijn om de betaaldatum te veranderen?",
+    "extra_example_fa": "می‌شود تاریخِ پرداخت را تغییر دهیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een andere betaaldatum voor de huur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین درخواست را می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een lagere huurprijs.",
+        "is_correct": false,
+        "feedback_fa": "موضوع درباره‌ی تاریخِ پرداخت است، نه مبلغِ اجاره."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het stopzetten van de huur.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een nieuwe boekhouder voor de verhuurder.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به درخواستِ او است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Ik ben mijn sleutel kwijt, kan ik een extra reservesleutel krijgen?»  Verhuurder: «Dat kan, maar de kosten voor het bijmaken zijn voor uw rekening.»  Wat betekent «voor uw rekening» hier?",
+    "question_text_fa": "منظور از «voor uw rekening» در اینجا چیست؟",
+    "explanation_fa": "یعنی هزینه‌ی ساختِ کلیدِ اضافه را خودِ مستأجر باید بپردازد.",
+    "grammar_rule_fa": "«voor uw rekening» یعنی هزینه به عهده‌ی شماست.",
+    "extra_example_nl": "De reparatie is voor uw eigen rekening.",
+    "extra_example_fa": "هزینه‌ی تعمیر بر عهده‌ی خودتان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De huurder krijgt geen nieuwe sleutel.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ موجر گفت این ممکن است، فقط با هزینه."
+      },
+      {
+        "key": "B",
+        "text_nl": "De huurder moet zelf voor de kosten betalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین معنا را دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De verhuurder betaalt alles.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ هزینه بر عهده‌ی مستأجر است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sleutel is helemaal gratis.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Is er een parkeerplek beschikbaar bij het gebouw die ik erbij kan huren?»  Verhuurder: «Er is er nog één vrij, voor vijftig euro per maand extra.»  Wat is een logische vervolgvraag van de huurder?",
+    "question_text_fa": "کدام سؤالِ بعدیِ مستأجر منطقی است؟",
+    "explanation_fa": "پرسیدنِ روندِ ثبتِ رسمیِ محلِ پارک، سؤالِ عملی و منطقی است.",
+    "grammar_rule_fa": "سؤالِ روند: «Hoe regel ik dat officieel?»",
+    "extra_example_nl": "Hoe regel ik dat officieel, moet ik een apart contract tekenen?",
+    "extra_example_fa": "چطور رسماً این را انجام دهم، باید قراردادِ جداگانه امضا کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vijftig euro is veel te duur, vergeet het maar helemaal.",
+        "is_correct": false,
+        "feedback_fa": "ممکن است اما بهتر است ابتدا با چانه‌زنی یا سؤال ادامه دهد نه رد کاملِ ناگهانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb toch geen auto.",
+        "is_correct": false,
+        "feedback_fa": "با سؤالِ اولیه‌اش درباره‌ی محلِ پارک در تضاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe regel ik dat officieel, moet ik een apart contract tekenen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ عملی برای ادامه‌ی فرآیند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Parkeren interesseert me niet.",
+        "is_correct": false,
+        "feedback_fa": "با سؤالِ اولیه‌ی خودش در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Verhuurder: «Er komt volgende maand een grote renovatie aan het gebouw, dat kan wat overlast geven.»  Huurder: «Bedankt voor de waarschuwing, is er een compensatie voor de overlast?»  Wat vraagt de huurder?",
+    "question_text_fa": "مستأجر چه چیزی می‌پرسد؟",
+    "explanation_fa": "او می‌پرسد آیا برای مزاحمتِ ناشی از بازسازی جبرانی وجود دارد.",
+    "grammar_rule_fa": "سؤالِ جبران: «Is er een compensatie voor …?»",
+    "extra_example_nl": "Is er een compensatie voor de overlast tijdens de werkzaamheden?",
+    "extra_example_fa": "برای مزاحمتِ حینِ کارها جبرانی وجود دارد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer hij precies moet verhuizen.",
+        "is_correct": false,
+        "feedback_fa": "موضوع درباره‌ی بازسازی و جبران است، نه اسباب‌کشی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Of de renovatie geannuleerd kan worden.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wie de renovatie gaat uitvoeren.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ مطرح‌شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Of er een vergoeding is voor het ongemak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌پرسد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Kunnen we de afspraken over de huur schriftelijk vastleggen, zodat het duidelijk is voor ons allebei?»  Verhuurder: «Dat is een goed idee, ik stuur het per e-mail.»  Waarom stelt de huurder dit voor?",
+    "question_text_fa": "چرا مستأجر این را پیشنهاد می‌دهد؟",
+    "explanation_fa": "برای اینکه از سوءتفاهم در آینده جلوگیری شود، توافق باید کتبی باشد.",
+    "grammar_rule_fa": "پیشنهادِ مستندسازی: «schriftelijk vastleggen» = کتبی مستند کردن.",
+    "extra_example_nl": "Laten we dit schriftelijk vastleggen om misverstanden te voorkomen.",
+    "extra_example_fa": "بیا این را کتبی مستند کنیم تا سوءتفاهمی نباشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om toekomstige misverstanden te voorkomen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین دلیل را دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Omdat hij de verhuurder niet vertrouwt.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او همکاری‌جویانه است، نه بی‌اعتماد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat hij het contract wil opzeggen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat hij de huur wil verlagen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ مطرح‌شده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Verhuurder: «Ik wil graag dat u de gedeelde tuin ook een beetje bijhoudt.»  Huurder: «Dat is redelijk, zullen we afspreken wie welke taak doet?»  Wat stelt de huurder voor?",
+    "question_text_fa": "مستأجر چه پیشنهادی می‌دهد؟",
+    "explanation_fa": "او پیشنهاد می‌دهد وظایفِ نگهداریِ باغ را به‌طور روشن تقسیم کنند.",
+    "grammar_rule_fa": "پیشنهادِ تقسیمِ کار: «Zullen we afspreken wie wat doet?»",
+    "extra_example_nl": "Zullen we afspreken wie de tuin wanneer bijhoudt?",
+    "extra_example_fa": "بیا توافق کنیم چه کسی چه زمانی از باغ نگهداری کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat hij niet meewerkt aan de tuin.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او با «dat is redelijk» موافقت نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een duidelijke taakverdeling voor het onderhoud.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین پیشنهاد را می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat de verhuurder alle tuinwerk doet.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ او تقسیمِ کار پیشنهاد می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat de tuin helemaal verdwijnt.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به گفتگو است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Het contract zegt dat de woning gemeubileerd is, maar er staat geen bed.»  Verhuurder: «U heeft gelijk, dat is een fout, ik zorg voor een bed.»  Wat erkent de verhuurder?",
+    "question_text_fa": "موجر چه چیزی را تأیید می‌کند؟",
+    "explanation_fa": "موجر تأیید می‌کند که قرارداد اشتباه بوده و باید تختی فراهم کند.",
+    "grammar_rule_fa": "پذیرفتنِ اشتباه: «U heeft gelijk, dat is een fout.»",
+    "extra_example_nl": "U heeft gelijk, dat hadden we moeten regelen.",
+    "extra_example_fa": "حق با شماست، ما باید آن را ترتیب می‌دادیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat de woning helemaal niet gemeubileerd is.",
+        "is_correct": false,
+        "feedback_fa": "او فقط اذعان می‌کند که تخت جا افتاده، نه کلِ مبلمان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat het contract helemaal ongeldig is.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat er een fout is gemaakt en dat hij dit oplost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را تأیید می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat de huurder liegt.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او با حرفِ مستأجر موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Ik zou graag een extra maand de tijd willen om te verhuizen, is dat bespreekbaar?»  Verhuurder: «Dat begrijp ik, laten we kijken naar een oplossing die voor ons beiden werkt.»  Wat toont deze reactie van de verhuurder?",
+    "question_text_fa": "این واکنشِ موجر چه چیزی نشان می‌دهد؟",
+    "explanation_fa": "این واکنش نشان می‌دهد موجر باز به گفتگو است و به دنبال راه‌حلی است که برای هر دو طرف مناسب باشد.",
+    "grammar_rule_fa": "بازِ به گفتگو: «Laten we kijken naar een oplossing die voor ons beiden werkt.»",
+    "extra_example_nl": "Laten we samen naar een oplossing zoeken die voor beide partijen werkt.",
+    "extra_example_fa": "بیا با هم دنبال راه‌حلی بگردیم که برای هر دو طرف مناسب باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een volledige weigering van het verzoek.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او باز به گفتگو است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Boosheid over het verzoek.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و همکاری‌جویانه است، نه عصبانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Onverschilligheid over de situatie.",
+        "is_correct": false,
+        "feedback_fa": "او فعالانه به دنبال راه‌حل است، بی‌تفاوت نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Openheid voor een oplossing die beide partijen tevreden stelt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نگرش را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Verhuurder: «Ik overweeg de gemeenschappelijke wasruimte alleen nog met een pasje toegankelijk te maken.»  Huurder: «Dat snap ik, zolang alle huurders gratis een pasje krijgen.»  Wat is de voorwaarde van de huurder?",
+    "question_text_fa": "شرطِ مستأجر چیست؟",
+    "explanation_fa": "او با ایده موافق است به شرطی که همه‌ی مستأجرها کارتِ رایگان دریافت کنند.",
+    "grammar_rule_fa": "شرط با «zolang»: «Dat snap ik, zolang …»",
+    "extra_example_nl": "Dat snap ik, zolang het niets extra kost.",
+    "extra_example_fa": "این را می‌فهمم، تا زمانی که هزینه‌ی اضافه نداشته باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alle huurders moeten gratis een pasje krijgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین شرط را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen hijzelf moet een pasje krijgen.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید «alle huurders»، نه فقط خودش."
+      },
+      {
+        "key": "C",
+        "text_nl": "De wasruimte moet helemaal gesloten blijven.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huur moet omlaag.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ کارتِ دسترسی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Kunt u de eindinspectie liever een week later plannen? Ik ben dan nog aan het inpakken.»  Verhuurder: «Dat is prima, dan doen we het op de nieuwe datum.»  Wat is de reden van het verzoek?",
+    "question_text_fa": "دلیلِ درخواستِ مستأجر چیست؟",
+    "explanation_fa": "او هنوز در حال بستن وسایل است و به زمانِ بیشتری نیاز دارد.",
+    "grammar_rule_fa": "توضیحِ دلیل: «Ik ben dan nog aan het inpakken.»",
+    "extra_example_nl": "Kunt u het een dag later plannen, ik ben dan nog aan het schoonmaken.",
+    "extra_example_fa": "می‌شود یک روز دیرتر برنامه‌ریزی کنید، آن موقع هنوز مشغولِ نظافت هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij wil langer in het huis blijven wonen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft nog niet alles ingepakt voor de verhuizing.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین دلیل را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij wil de inspectie helemaal afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "او فقط تاریخ را جابه‌جا می‌کند، نه لغوِ کامل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij is boos op de verhuurder.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و مودبانه است، نه عصبانی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder en verhuurder ronden een lastig gesprek af. Verhuurder: «Fijn dat we er samen uitgekomen zijn.»  Huurder: «___»  Welke afsluitende zin past het beste?",
+    "question_text_fa": "کدام جمله‌ی پایانی بهترین است؟",
+    "explanation_fa": "تشکر و ابرازِ رضایت از نتیجه‌ی مثبت، پایانِ مناسب و مودبانه است.",
+    "grammar_rule_fa": "پایانِ مثبت: «Ja, fijn dat we tot een goede oplossing zijn gekomen.»",
+    "extra_example_nl": "Ja, fijn dat we samen tot een goede oplossing zijn gekomen.",
+    "extra_example_fa": "بله، خوشحالم که با هم به راه‌حلِ خوبی رسیدیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben nog steeds niet tevreden.",
+        "is_correct": false,
+        "feedback_fa": "با نتیجه‌ی مثبتِ گفتگو که خودِ موجر اشاره کرد در تضاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "We zullen zien.",
+        "is_correct": false,
+        "feedback_fa": "مبهم و کمی بی‌اعتماد به نظر می‌رسد برای پایانِ مثبت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, fijn dat we samen tot een goede oplossing zijn gekomen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پایانِ مثبت و مودبانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het had allemaal sneller gemoeten.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ گلایه‌آمیز است برای پایانِ مثبتِ گفتگو."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «De buren hebben een sleutel van mijn appartement voor noodgevallen, maar ik wil die liever terug.»  Verhuurder: «Dat is uw goed recht, ik informeer de buren.»  Wat vraagt de huurder eigenlijk?",
+    "question_text_fa": "مستأجر در واقع چه چیزی می‌خواهد؟",
+    "explanation_fa": "او می‌خواهد کلیدِ اضافه‌ای که پیشِ همسایه است، برگردانده شود.",
+    "grammar_rule_fa": "بیانِ خواسته: «Ik wil die liever terug.»",
+    "extra_example_nl": "Ik wil de reservesleutel liever zelf bewaren.",
+    "extra_example_fa": "ترجیح می‌دهم خودم کلید اضافه را نگه دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat de buren een nieuwe sleutel krijgen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او می‌خواهد کلید را پس بگیرد، نه کلیدِ جدید بدهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat het slot vervangen wordt.",
+        "is_correct": false,
+        "feedback_fa": "چنین درخواستی در متن نیامده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat de huur wordt verlaagd.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ کلید است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat de reservesleutel bij de buren wordt teruggehaald.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌خواهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurder: «Zou ik een korting kunnen krijgen omdat de lift al een maand kapot is en ik op de vijfde verdieping woon?»  Verhuurder: «Dat is een redelijk verzoek, ik bespreek het met de eigenaar.»  Waarom vraagt de huurder om korting?",
+    "question_text_fa": "چرا مستأجر درخواستِ تخفیف می‌کند؟",
+    "explanation_fa": "چون آسانسور یک ماه است خراب است و او باید تا طبقه‌ی پنجم پله برود، که ناراحتیِ زیادی ایجاد می‌کند.",
+    "grammar_rule_fa": "بیانِ دلیل: «omdat de lift al een maand kapot is»",
+    "extra_example_nl": "Ik vraag om korting, omdat het ongemak al lang duurt.",
+    "extra_example_fa": "درخواستِ تخفیف می‌کنم، چون این ناراحتی مدت‌هاست ادامه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vanwege het langdurige ongemak door de kapotte lift.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین دلیل را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Omdat hij de huur te hoog vindt sowieso.",
+        "is_correct": false,
+        "feedback_fa": "دلیلِ او مشخصاً آسانسورِ خراب است، نه نارضایتیِ کلی از اجاره."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat hij wil verhuizen naar de begane grond.",
+        "is_correct": false,
+        "feedback_fa": "چنین درخواستی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat de verhuurder dat zelf heeft voorgesteld.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ خودِ مستأجر این درخواست را مطرح کرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "negotiating_with_landlord",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Verhuurder: «Ik wil graag elk kwartaal een korte inspectie doen van de woning.»  Huurder: «Dat is akkoord, zolang u dat minstens een week van tevoren aankondigt.»  Wat is de voorwaarde van de huurder?",
+    "question_text_fa": "شرطِ مستأجر چیست؟",
+    "explanation_fa": "او با بازرسی موافق است، به شرطی که حداقل یک هفته قبل اطلاع داده شود.",
+    "grammar_rule_fa": "شرط با «zolang»: «Dat is akkoord, zolang u dat … aankondigt.»",
+    "extra_example_nl": "Dat is akkoord, zolang u dat van tevoren laat weten.",
+    "extra_example_fa": "این قبول است، تا زمانی که از قبل به من اطلاع دهید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De huurder wil zelf bij elke inspectie afwezig zijn.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De inspectie moet minstens een week van tevoren worden aangekondigd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین شرط را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De inspecties moeten helemaal stoppen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او با بازرسی موافق است، فقط شرط می‌گذارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De verhuurder moet elke dag langskomen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      }
+    ]
+  }
+]

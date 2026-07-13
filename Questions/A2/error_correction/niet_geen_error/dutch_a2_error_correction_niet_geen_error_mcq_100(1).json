@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_indefinite_nouns",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik heb niet auto.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Ik heb geen auto.»، چون auto یک اسم نامشخص است و معنی «ماشین ندارم/ندارد» می‌دهد، باید از geen استفاده شود.",
+    "correction_rule_fa": "برای اسم نامشخص، معمولاً geen استفاده می‌کنیم.",
+    "extra_example_nl": "Ik heb geen fiets.",
+    "extra_example_fa": "من دوچرخه ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb geen auto.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb niet auto.",
+        "is_correct": false,
+        "feedback_fa": "اینجا auto یک اسم نامشخص است؛ باید geen بیاید، نه niet."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb niet een auto.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، معمولاً een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet geen auto.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_indefinite_nouns",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij heeft niet fiets.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "در جمله «Zij heeft geen fiets.»، چون fiets یک اسم نامشخص است و معنی «دوچرخه ندارم/ندارد» می‌دهد، باید از geen استفاده شود.",
+    "correction_rule_fa": "برای اسم نامشخص، معمولاً geen استفاده می‌کنیم.",
+    "extra_example_nl": "Hij heeft geen auto.",
+    "extra_example_fa": "او ماشین ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij heeft niet fiets.",
+        "is_correct": false,
+        "feedback_fa": "اینجا fiets یک اسم نامشخص است؛ باید geen بیاید، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij heeft geen fiets.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij heeft niet een fiets.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، معمولاً een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij heeft niet geen fiets.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_indefinite_nouns",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik heb niet tas.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "در جمله «Ik heb geen tas.»، چون tas یک اسم نامشخص است و معنی «کیف ندارم/ندارد» می‌دهد، باید از geen استفاده شود.",
+    "correction_rule_fa": "برای اسم نامشخص، معمولاً geen استفاده می‌کنیم.",
+    "extra_example_nl": "Wij hebben geen pen.",
+    "extra_example_fa": "ما خودکار نداریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb niet tas.",
+        "is_correct": false,
+        "feedback_fa": "اینجا tas یک اسم نامشخص است؛ باید geen بیاید، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb niet een tas.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، معمولاً een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet geen tas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_indefinite_nouns",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij heeft niet boek.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Hij heeft geen boek.»، چون boek یک اسم نامشخص است و معنی «کتاب ندارم/ندارد» می‌دهد، باید از geen استفاده شود.",
+    "correction_rule_fa": "برای اسم نامشخص، معمولاً geen استفاده می‌کنیم.",
+    "extra_example_nl": "Ik heb geen vraag.",
+    "extra_example_fa": "من سؤالی ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft niet boek.",
+        "is_correct": false,
+        "feedback_fa": "اینجا boek یک اسم نامشخص است؛ باید geen بیاید، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft niet een boek.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، معمولاً een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij heeft niet geen boek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij heeft geen boek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_indefinite_nouns",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn moeder heeft niet telefoon.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در جمله «Mijn moeder heeft geen telefoon.»، چون telefoon یک اسم نامشخص است و معنی «تلفن ندارم/ندارد» می‌دهد، باید از geen استفاده شود.",
+    "correction_rule_fa": "برای اسم نامشخص، معمولاً geen استفاده می‌کنیم.",
+    "extra_example_nl": "Zij heeft geen tas.",
+    "extra_example_fa": "او کیف ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn moeder heeft geen telefoon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn moeder heeft niet telefoon.",
+        "is_correct": false,
+        "feedback_fa": "اینجا telefoon یک اسم نامشخص است؛ باید geen بیاید، نه niet."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn moeder heeft niet een telefoon.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، معمولاً een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn moeder heeft niet geen telefoon.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_indefinite_nouns",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik heb niet pen.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "در جمله «Ik heb geen pen.»، چون pen یک اسم نامشخص است و معنی «خودکار ندارم/ندارد» می‌دهد، باید از geen استفاده شود.",
+    "correction_rule_fa": "برای اسم نامشخص، معمولاً geen استفاده می‌کنیم.",
+    "extra_example_nl": "Hij heeft geen boek.",
+    "extra_example_fa": "او کتاب ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb niet pen.",
+        "is_correct": false,
+        "feedback_fa": "اینجا pen یک اسم نامشخص است؛ باید geen بیاید، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb geen pen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb niet een pen.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، معمولاً een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet geen pen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_indefinite_nouns",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij heeft niet baan.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Hij heeft geen baan.»، چون baan یک اسم نامشخص است و معنی «کار ندارم/ندارد» می‌دهد، باید از geen استفاده شود.",
+    "correction_rule_fa": "برای اسم نامشخص، معمولاً geen استفاده می‌کنیم.",
+    "extra_example_nl": "Ik heb geen afspraak.",
+    "extra_example_fa": "من قرار ملاقات ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft niet baan.",
+        "is_correct": false,
+        "feedback_fa": "اینجا baan یک اسم نامشخص است؛ باید geen بیاید، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft niet een baan.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، معمولاً een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij heeft geen baan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij heeft niet geen baan.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_indefinite_nouns",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij hebben niet afspraak.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "در جمله «Wij hebben geen afspraak.»، چون afspraak یک اسم نامشخص است و معنی «قرار ملاقات ندارم/ندارد» می‌دهد، باید از geen استفاده شود.",
+    "correction_rule_fa": "برای اسم نامشخص، معمولاً geen استفاده می‌کنیم.",
+    "extra_example_nl": "Zij heeft geen probleem.",
+    "extra_example_fa": "او مشکلی ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben niet afspraak.",
+        "is_correct": false,
+        "feedback_fa": "اینجا afspraak یک اسم نامشخص است؛ باید geen بیاید، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hebben niet een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، معمولاً een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben niet geen afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben geen afspraak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_indefinite_nouns",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik heb niet vraag.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "در جمله «Ik heb geen vraag.»، چون vraag یک اسم نامشخص است و معنی «سؤال ندارم/ندارد» می‌دهد، باید از geen استفاده شود.",
+    "correction_rule_fa": "برای اسم نامشخص، معمولاً geen استفاده می‌کنیم.",
+    "extra_example_nl": "Wij hebben geen auto.",
+    "extra_example_fa": "ما ماشین نداریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb geen vraag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb niet vraag.",
+        "is_correct": false,
+        "feedback_fa": "اینجا vraag یک اسم نامشخص است؛ باید geen بیاید، نه niet."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb niet een vraag.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، معمولاً een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet geen vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_indefinite_nouns",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij heeft niet probleem.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Zij heeft geen probleem.»، چون probleem یک اسم نامشخص است و معنی «مشکل ندارم/ندارد» می‌دهد، باید از geen استفاده شود.",
+    "correction_rule_fa": "برای اسم نامشخص، معمولاً geen استفاده می‌کنیم.",
+    "extra_example_nl": "Ik heb geen telefoon.",
+    "extra_example_fa": "من تلفن ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij heeft niet probleem.",
+        "is_correct": false,
+        "feedback_fa": "اینجا probleem یک اسم نامشخص است؛ باید geen بیاید، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij heeft geen probleem.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij heeft niet een probleem.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، معمولاً een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij heeft niet geen probleem.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_plural_nouns",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik heb niet kinderen.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "برای اسم جمع «kinderen» وقتی منظور «هیچ بچهی» است، از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های جمع با معنی «هیچ»، geen استفاده می‌شود.",
+    "extra_example_nl": "Wij hebben geen vragen.",
+    "extra_example_fa": "ما هیچ سؤالی نداریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb niet kinderen.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع «kinderen» با معنی «هیچ»، باید geen استفاده شود، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb niet geen kinderen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen kinderen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet de kinderen.",
+        "is_correct": false,
+        "feedback_fa": "با اضافه کردن de معنی جمله عوض می‌شود؛ برای «هیچ» + اسم جمع باید geen بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_plural_nouns",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij heeft niet vrienden.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "برای اسم جمع «vrienden» وقتی منظور «هیچ دوستی» است، از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های جمع با معنی «هیچ»، geen استفاده می‌شود.",
+    "extra_example_nl": "Ik heb geen berichten.",
+    "extra_example_fa": "من هیچ پیامی ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft niet vrienden.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع «vrienden» با معنی «هیچ»، باید geen استفاده شود، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft niet geen vrienden.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij heeft niet de vrienden.",
+        "is_correct": false,
+        "feedback_fa": "با اضافه کردن de معنی جمله عوض می‌شود؛ برای «هیچ» + اسم جمع باید geen بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij heeft geen vrienden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_plural_nouns",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij hebben niet boeken.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "برای اسم جمع «boeken» وقتی منظور «هیچ کتابی» است، از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های جمع با معنی «هیچ»، geen استفاده می‌شود.",
+    "extra_example_nl": "Zij heeft geen afspraken.",
+    "extra_example_fa": "او هیچ قراری ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben geen boeken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hebben niet boeken.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع «boeken» با معنی «هیچ»، باید geen استفاده شود، نه niet."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben niet geen boeken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben niet de boeken.",
+        "is_correct": false,
+        "feedback_fa": "با اضافه کردن de معنی جمله عوض می‌شود؛ برای «هیچ» + اسم جمع باید geen بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_plural_nouns",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Er zijn niet stoelen.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "برای اسم جمع «stoelen» وقتی منظور «هیچ صندلیی» است، از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های جمع با معنی «هیچ»، geen استفاده می‌شود.",
+    "extra_example_nl": "Er zijn geen tafels.",
+    "extra_example_fa": "هیچ میزی وجود ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Er zijn niet stoelen.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع «stoelen» با معنی «هیچ»، باید geen استفاده شود، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er zijn geen stoelen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er zijn niet geen stoelen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er zijn niet de stoelen.",
+        "is_correct": false,
+        "feedback_fa": "با اضافه کردن de معنی جمله عوض می‌شود؛ برای «هیچ» + اسم جمع باید geen بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_plural_nouns",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik heb niet afspraken.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "برای اسم جمع «afspraken» وقتی منظور «هیچ قرار ملاقاتی» است، از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های جمع با معنی «هیچ»، geen استفاده می‌شود.",
+    "extra_example_nl": "Wij hebben geen problemen.",
+    "extra_example_fa": "ما هیچ مشکلی نداریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb niet afspraken.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع «afspraken» با معنی «هیچ»، باید geen استفاده شود، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb niet geen afspraken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen afspraken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet de afspraken.",
+        "is_correct": false,
+        "feedback_fa": "با اضافه کردن de معنی جمله عوض می‌شود؛ برای «هیچ» + اسم جمع باید geen بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_plural_nouns",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij heeft niet vragen.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای اسم جمع «vragen» وقتی منظور «هیچ سؤالی» است، از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های جمع با معنی «هیچ»، geen استفاده می‌شود.",
+    "extra_example_nl": "Ik heb geen boeken.",
+    "extra_example_fa": "من هیچ کتابی ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij heeft niet vragen.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع «vragen» با معنی «هیچ»، باید geen استفاده شود، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij heeft niet geen vragen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij heeft niet de vragen.",
+        "is_correct": false,
+        "feedback_fa": "با اضافه کردن de معنی جمله عوض می‌شود؛ برای «هیچ» + اسم جمع باید geen بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij heeft geen vragen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_plural_nouns",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij hebben niet problemen.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "برای اسم جمع «problemen» وقتی منظور «هیچ مشکلی» است، از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های جمع با معنی «هیچ»، geen استفاده می‌شود.",
+    "extra_example_nl": "Zij heeft geen vragen.",
+    "extra_example_fa": "او هیچ سؤالی ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben geen problemen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hebben niet problemen.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع «problemen» با معنی «هیچ»، باید geen استفاده شود، نه niet."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben niet geen problemen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben niet de problemen.",
+        "is_correct": false,
+        "feedback_fa": "با اضافه کردن de معنی جمله عوض می‌شود؛ برای «هیچ» + اسم جمع باید geen بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_plural_nouns",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik heb niet schoenen.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "برای اسم جمع «schoenen» وقتی منظور «هیچ کفشی» است، از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های جمع با معنی «هیچ»، geen استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft geen tassen.",
+    "extra_example_fa": "او هیچ کیفی ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb niet schoenen.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع «schoenen» با معنی «هیچ»، باید geen استفاده شود، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb geen schoenen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb niet geen schoenen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet de schoenen.",
+        "is_correct": false,
+        "feedback_fa": "با اضافه کردن de معنی جمله عوض می‌شود؛ برای «هیچ» + اسم جمع باید geen بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_plural_nouns",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik heb niet e-mails.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "برای اسم جمع «e-mails» وقتی منظور «هیچ ایمیلی» است، از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های جمع با معنی «هیچ»، geen استفاده می‌شود.",
+    "extra_example_nl": "Wij hebben geen afspraken.",
+    "extra_example_fa": "ما هیچ قراری نداریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb niet e-mails.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع «e-mails» با معنی «هیچ»، باید geen استفاده شود، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb niet geen e-mails.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen e-mails.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet de e-mails.",
+        "is_correct": false,
+        "feedback_fa": "با اضافه کردن de معنی جمله عوض می‌شود؛ برای «هیچ» + اسم جمع باید geen بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_plural_nouns",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij heeft niet berichten.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "برای اسم جمع «berichten» وقتی منظور «هیچ پیامی» است، از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های جمع با معنی «هیچ»، geen استفاده می‌شود.",
+    "extra_example_nl": "Ik heb geen vrienden.",
+    "extra_example_fa": "من هیچ دوستی ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij heeft niet berichten.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع «berichten» با معنی «هیچ»، باید geen استفاده شود، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij heeft niet geen berichten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij heeft niet de berichten.",
+        "is_correct": false,
+        "feedback_fa": "با اضافه کردن de معنی جمله عوض می‌شود؛ برای «هیچ» + اسم جمع باید geen بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij heeft geen berichten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_uncountable_nouns",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik heb niet tijd.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "در این جمله «tijd» مقدار نامشخص دارد و معنی «هیچ وقت» می‌دهد؛ بنابراین از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های غیرقابل‌شمارش یا مقدار نامشخص با معنی «هیچ/اصلاً»، geen می‌آید.",
+    "extra_example_nl": "Zij heeft geen geld.",
+    "extra_example_fa": "او پول ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb geen tijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb niet tijd.",
+        "is_correct": false,
+        "feedback_fa": "برای «tijd» وقتی مقدار نامشخص یا «هیچ/اصلاً» منظور است، باید geen بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb niet geen tijd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دو منفی دارد و اصلاح طبیعی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet de tijd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جمله را به یک اسم/چیز مشخص تغییر می‌دهد و اصلاح دقیق جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_uncountable_nouns",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij hebben niet geld.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در این جمله «geld» مقدار نامشخص دارد و معنی «هیچ پول» می‌دهد؛ بنابراین از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های غیرقابل‌شمارش یا مقدار نامشخص با معنی «هیچ/اصلاً»، geen می‌آید.",
+    "extra_example_nl": "Ik heb geen tijd.",
+    "extra_example_fa": "من وقت ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben niet geld.",
+        "is_correct": false,
+        "feedback_fa": "برای «geld» وقتی مقدار نامشخص یا «هیچ/اصلاً» منظور است، باید geen بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hebben geen geld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben niet geen geld.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دو منفی دارد و اصلاح طبیعی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben niet het geld.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جمله را به یک اسم/چیز مشخص تغییر می‌دهد و اصلاح دقیق جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_uncountable_nouns",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik drink niet water.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در این جمله «water» مقدار نامشخص دارد و معنی «هیچ آب» می‌دهد؛ بنابراین از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های غیرقابل‌شمارش یا مقدار نامشخص با معنی «هیچ/اصلاً»، geen می‌آید.",
+    "extra_example_nl": "Wij drinken geen koffie.",
+    "extra_example_fa": "ما قهوه نمی‌خوریم/نمی‌نوشیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik drink niet water.",
+        "is_correct": false,
+        "feedback_fa": "برای «water» وقتی مقدار نامشخص یا «هیچ/اصلاً» منظور است، باید geen بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik drink niet geen water.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دو منفی دارد و اصلاح طبیعی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik drink geen water.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik drink niet het water.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جمله را به یک اسم/چیز مشخص تغییر می‌دهد و اصلاح دقیق جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_uncountable_nouns",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij drinkt niet koffie.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "در این جمله «koffie» مقدار نامشخص دارد و معنی «هیچ قهوه» می‌دهد؛ بنابراین از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های غیرقابل‌شمارش یا مقدار نامشخص با معنی «هیچ/اصلاً»، geen می‌آید.",
+    "extra_example_nl": "Hij drinkt geen melk.",
+    "extra_example_fa": "او شیر نمی‌نوشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij drinkt niet koffie.",
+        "is_correct": false,
+        "feedback_fa": "برای «koffie» وقتی مقدار نامشخص یا «هیچ/اصلاً» منظور است، باید geen بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij drinkt niet geen koffie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دو منفی دارد و اصلاح طبیعی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij drinkt niet de koffie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جمله را به یک اسم/چیز مشخص تغییر می‌دهد و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij drinkt geen koffie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_uncountable_nouns",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij hebben niet melk.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در این جمله «melk» مقدار نامشخص دارد و معنی «هیچ شیر» می‌دهد؛ بنابراین از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های غیرقابل‌شمارش یا مقدار نامشخص با معنی «هیچ/اصلاً»، geen می‌آید.",
+    "extra_example_nl": "Ik heb geen water.",
+    "extra_example_fa": "من آب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben geen melk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hebben niet melk.",
+        "is_correct": false,
+        "feedback_fa": "برای «melk» وقتی مقدار نامشخص یا «هیچ/اصلاً» منظور است، باید geen بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben niet geen melk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دو منفی دارد و اصلاح طبیعی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben niet de melk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جمله را به یک اسم/چیز مشخص تغییر می‌دهد و اصلاح دقیق جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_uncountable_nouns",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij heeft niet werk.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "در این جمله «werk» مقدار نامشخص دارد و معنی «هیچ کار» می‌دهد؛ بنابراین از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های غیرقابل‌شمارش یا مقدار نامشخص با معنی «هیچ/اصلاً»، geen می‌آید.",
+    "extra_example_nl": "Zij heeft geen ervaring.",
+    "extra_example_fa": "او تجربه ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft niet werk.",
+        "is_correct": false,
+        "feedback_fa": "برای «werk» وقتی مقدار نامشخص یا «هیچ/اصلاً» منظور است، باید geen بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft geen werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij heeft niet geen werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دو منفی دارد و اصلاح طبیعی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij heeft niet het werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جمله را به یک اسم/چیز مشخص تغییر می‌دهد و اصلاح دقیق جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_uncountable_nouns",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik heb niet zin.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "در این جمله «zin» مقدار نامشخص دارد و معنی «هیچ حال/حوصله» می‌دهد؛ بنابراین از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های غیرقابل‌شمارش یا مقدار نامشخص با معنی «هیچ/اصلاً»، geen می‌آید.",
+    "extra_example_nl": "Wij hebben geen tijd.",
+    "extra_example_fa": "ما وقت نداریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb niet zin.",
+        "is_correct": false,
+        "feedback_fa": "برای «zin» وقتی مقدار نامشخص یا «هیچ/اصلاً» منظور است، باید geen بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb niet geen zin.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دو منفی دارد و اصلاح طبیعی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen zin.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb geen zin niet.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جمله را به یک اسم/چیز مشخص تغییر می‌دهد و اصلاح دقیق جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_uncountable_nouns",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij krijgt niet hulp.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در این جمله «hulp» مقدار نامشخص دارد و معنی «هیچ کمک» می‌دهد؛ بنابراین از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های غیرقابل‌شمارش یا مقدار نامشخص با معنی «هیچ/اصلاً»، geen می‌آید.",
+    "extra_example_nl": "Ik krijg geen informatie.",
+    "extra_example_fa": "من اطلاعاتی دریافت نمی‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij krijgt niet hulp.",
+        "is_correct": false,
+        "feedback_fa": "برای «hulp» وقتی مقدار نامشخص یا «هیچ/اصلاً» منظور است، باید geen بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij krijgt niet geen hulp.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دو منفی دارد و اصلاح طبیعی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij krijgt niet de hulp.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جمله را به یک اسم/چیز مشخص تغییر می‌دهد و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij krijgt geen hulp.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_uncountable_nouns",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij hebben niet informatie.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در این جمله «informatie» مقدار نامشخص دارد و معنی «هیچ اطلاعات» می‌دهد؛ بنابراین از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های غیرقابل‌شمارش یا مقدار نامشخص با معنی «هیچ/اصلاً»، geen می‌آید.",
+    "extra_example_nl": "Hij heeft geen werk.",
+    "extra_example_fa": "او کار ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben geen informatie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hebben niet informatie.",
+        "is_correct": false,
+        "feedback_fa": "برای «informatie» وقتی مقدار نامشخص یا «هیچ/اصلاً» منظور است، باید geen بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben niet geen informatie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دو منفی دارد و اصلاح طبیعی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben niet de informatie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جمله را به یک اسم/چیز مشخص تغییر می‌دهد و اصلاح دقیق جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "geen_with_uncountable_nouns",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik heb niet ervaring.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "در این جمله «ervaring» مقدار نامشخص دارد و معنی «هیچ تجربه» می‌دهد؛ بنابراین از geen استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اسم‌های غیرقابل‌شمارش یا مقدار نامشخص با معنی «هیچ/اصلاً»، geen می‌آید.",
+    "extra_example_nl": "Zij heeft geen hulp.",
+    "extra_example_fa": "او کمکی ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb niet ervaring.",
+        "is_correct": false,
+        "feedback_fa": "برای «ervaring» وقتی مقدار نامشخص یا «هیچ/اصلاً» منظور است، باید geen بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb geen ervaring.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb niet geen ervaring.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دو منفی دارد و اصلاح طبیعی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet de ervaring.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جمله را به یک اسم/چیز مشخص تغییر می‌دهد و اصلاح دقیق جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_verbs",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik werk geen vandaag.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Ik werk niet vandaag.»، عمل «کار کردن» منفی شده است؛ برای فعل یا عمل از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن فعل یا عمل از niet استفاده می‌کنیم.",
+    "extra_example_nl": "Hij komt niet morgen.",
+    "extra_example_fa": "او فردا نمی‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk geen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله عمل/فعل «werk» منفی شده است؛ باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk niet geen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik werk niet vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk geen niet vandaag.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای منفی کردن فعل درست نیست؛ فعل با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij komt geen morgen.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "در جمله «Hij komt niet morgen.»، عمل «آمدن» منفی شده است؛ برای فعل یا عمل از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن فعل یا عمل از niet استفاده می‌کنیم.",
+    "extra_example_nl": "Ik ga niet vandaag.",
+    "extra_example_fa": "من امروز نمی‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij komt geen morgen.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله عمل/فعل «komt» منفی شده است؛ باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij komt niet geen morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij komt geen niet morgen.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای منفی کردن فعل درست نیست؛ فعل با niet منفی می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij komt niet morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_verbs",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij gaan geen met de bus.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "در جمله «Wij gaan niet met de bus.»، عمل «رفتن» منفی شده است؛ برای فعل یا عمل از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن فعل یا عمل از niet استفاده می‌کنیم.",
+    "extra_example_nl": "Zij belt niet vandaag.",
+    "extra_example_fa": "او امروز زنگ نمی‌زند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij gaan niet met de bus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij gaan geen met de bus.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله عمل/فعل «gaan» منفی شده است؛ باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij gaan niet geen met de bus.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij gaan geen niet met de bus.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای منفی کردن فعل درست نیست؛ فعل با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_verbs",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik slaap geen goed.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Ik slaap niet goed.»، عمل «خوابیدن» منفی شده است؛ برای فعل یا عمل از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن فعل یا عمل از niet استفاده می‌کنیم.",
+    "extra_example_nl": "Hij werkt niet vandaag.",
+    "extra_example_fa": "او امروز کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik slaap geen goed.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله عمل/فعل «slaap» منفی شده است؛ باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik slaap niet goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik slaap niet geen goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik slaap geen niet goed.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای منفی کردن فعل درست نیست؛ فعل با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_verbs",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij belt geen nu.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در جمله «Zij belt niet nu.»، عمل «زنگ زدن» منفی شده است؛ برای فعل یا عمل از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن فعل یا عمل از niet استفاده می‌کنیم.",
+    "extra_example_nl": "Wij wachten niet lang.",
+    "extra_example_fa": "ما زیاد منتظر نمی‌مانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij belt geen nu.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله عمل/فعل «belt» منفی شده است؛ باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij belt niet geen nu.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij belt niet nu.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij belt geen niet nu.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای منفی کردن فعل درست نیست؛ فعل با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_verbs",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik betaal geen vandaag.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "در جمله «Ik betaal niet vandaag.»، عمل «پرداخت کردن» منفی شده است؛ برای فعل یا عمل از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن فعل یا عمل از niet استفاده می‌کنیم.",
+    "extra_example_nl": "Zij koopt niet nu.",
+    "extra_example_fa": "او الان خرید نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik betaal geen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله عمل/فعل «betaal» منفی شده است؛ باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik betaal niet geen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik betaal geen niet vandaag.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای منفی کردن فعل درست نیست؛ فعل با niet منفی می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaal niet vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_verbs",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij wachten geen hier.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Wij wachten niet hier.»، عمل «منتظر ماندن» منفی شده است؛ برای فعل یا عمل از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن فعل یا عمل از niet استفاده می‌کنیم.",
+    "extra_example_nl": "Ik bel niet nu.",
+    "extra_example_fa": "من الان زنگ نمی‌زنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij wachten niet hier.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij wachten geen hier.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله عمل/فعل «wachten» منفی شده است؛ باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij wachten niet geen hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij wachten geen niet hier.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای منفی کردن فعل درست نیست؛ فعل با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij luistert geen naar muziek.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "در جمله «Hij luistert niet naar muziek.»، عمل «گوش دادن» منفی شده است؛ برای فعل یا عمل از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن فعل یا عمل از niet استفاده می‌کنیم.",
+    "extra_example_nl": "Wij praten niet veel.",
+    "extra_example_fa": "ما زیاد حرف نمی‌زنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij luistert geen naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله عمل/فعل «luistert» منفی شده است؛ باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij luistert niet naar muziek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij luistert niet geen naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij luistert geen niet naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای منفی کردن فعل درست نیست؛ فعل با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_verbs",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik kook geen vanavond.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "در جمله «Ik kook niet vanavond.»، عمل «آشپزی کردن» منفی شده است؛ برای فعل یا عمل از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن فعل یا عمل از niet استفاده می‌کنیم.",
+    "extra_example_nl": "Zij slaapt niet goed.",
+    "extra_example_fa": "او خوب نمی‌خوابد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kook geen vanavond.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله عمل/فعل «kook» منفی شده است؛ باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kook niet geen vanavond.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kook niet vanavond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kook geen niet vanavond.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای منفی کردن فعل درست نیست؛ فعل با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij sport geen vandaag.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Zij sport niet vandaag.»، عمل «ورزش کردن» منفی شده است؛ برای فعل یا عمل از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن فعل یا عمل از niet استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk niet morgen.",
+    "extra_example_fa": "من فردا کار نمی‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij sport geen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله عمل/فعل «sport» منفی شده است؛ باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij sport niet geen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij sport geen niet vandaag.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای منفی کردن فعل درست نیست؛ فعل با niet منفی می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij sport niet vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_adjectives",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Dat is geen goed.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در این جمله صفت «goed» منفی شده است؛ برای منفی کردن صفت از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن صفت، niet می‌آید.",
+    "extra_example_nl": "Deze tas is niet duur.",
+    "extra_example_fa": "این کیف گران نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is niet goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is geen goed.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «goed» باید niet استفاده شود، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is niet geen goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is geen niet goed.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت، geen niet درست نیست؛ صفت با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_adjectives",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het eten is geen slecht.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "در این جمله صفت «slecht» منفی شده است؛ برای منفی کردن صفت از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن صفت، niet می‌آید.",
+    "extra_example_nl": "De koffie is niet lekker.",
+    "extra_example_fa": "قهوه خوشمزه نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het eten is geen slecht.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «slecht» باید niet استفاده شود، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het eten is niet slecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het eten is niet geen slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het eten is geen niet slecht.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت، geen niet درست نیست؛ صفت با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_adjectives",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Deze tas is geen duur.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در این جمله صفت «duur» منفی شده است؛ برای منفی کردن صفت از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن صفت، niet می‌آید.",
+    "extra_example_nl": "Dit boek is niet goedkoop.",
+    "extra_example_fa": "این کتاب ارزان نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze tas is geen duur.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «duur» باید niet استفاده شود، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze tas is niet geen duur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze tas is niet duur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze tas is geen niet duur.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت، geen niet درست نیست؛ صفت با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_adjectives",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Die jas is geen goedkoop.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "در این جمله صفت «goedkoop» منفی شده است؛ برای منفی کردن صفت از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن صفت، niet می‌آید.",
+    "extra_example_nl": "Deze fiets is niet duur.",
+    "extra_example_fa": "این دوچرخه گران نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Die jas is geen goedkoop.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «goedkoop» باید niet استفاده شود، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Die jas is niet geen goedkoop.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Die jas is geen niet goedkoop.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت، geen niet درست نیست؛ صفت با niet منفی می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Die jas is niet goedkoop.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_adjectives",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De oefening is geen makkelijk.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "در این جمله صفت «makkelijk» منفی شده است؛ برای منفی کردن صفت از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن صفت، niet می‌آید.",
+    "extra_example_nl": "De vraag is niet moeilijk.",
+    "extra_example_fa": "سؤال سخت نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De oefening is niet makkelijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De oefening is geen makkelijk.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «makkelijk» باید niet استفاده شود، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "De oefening is niet geen makkelijk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De oefening is geen niet makkelijk.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت، geen niet درست نیست؛ صفت با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_adjectives",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Deze les is geen moeilijk.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در این جمله صفت «moeilijk» منفی شده است؛ برای منفی کردن صفت از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن صفت، niet می‌آید.",
+    "extra_example_nl": "Dit woord is niet makkelijk.",
+    "extra_example_fa": "این کلمه آسان نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze les is geen moeilijk.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «moeilijk» باید niet استفاده شود، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze les is niet moeilijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze les is niet geen moeilijk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze les is geen niet moeilijk.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت، geen niet درست نیست؛ صفت با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_adjectives",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het huis is geen groot.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در این جمله صفت «groot» منفی شده است؛ برای منفی کردن صفت از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن صفت، niet می‌آید.",
+    "extra_example_nl": "De kamer is niet klein.",
+    "extra_example_fa": "اتاق کوچک نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het huis is geen groot.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «groot» باید niet استفاده شود، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het huis is niet geen groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het huis is niet groot.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het huis is geen niet groot.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت، geen niet درست نیست؛ صفت با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_adjectives",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De kamer is geen klein.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "در این جمله صفت «klein» منفی شده است؛ برای منفی کردن صفت از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن صفت، niet می‌آید.",
+    "extra_example_nl": "Het huis is niet groot.",
+    "extra_example_fa": "خانه بزرگ نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kamer is geen klein.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «klein» باید niet استفاده شود، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kamer is niet geen klein.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kamer is geen niet klein.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت، geen niet درست نیست؛ صفت با niet منفی می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kamer is niet klein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_adjectives",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De foto is geen mooi.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در این جمله صفت «mooi» منفی شده است؛ برای منفی کردن صفت از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن صفت، niet می‌آید.",
+    "extra_example_nl": "De jas is niet duur.",
+    "extra_example_fa": "کت گران نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De foto is niet mooi.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De foto is geen mooi.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «mooi» باید niet استفاده شود، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "De foto is niet geen mooi.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De foto is geen niet mooi.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت، geen niet درست نیست؛ صفت با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_adjectives",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De soep is geen lekker.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "در این جمله صفت «lekker» منفی شده است؛ برای منفی کردن صفت از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای منفی کردن صفت، niet می‌آید.",
+    "extra_example_nl": "Het brood is niet klaar.",
+    "extra_example_fa": "نان آماده نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De soep is geen lekker.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «lekker» باید niet استفاده شود، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "De soep is niet lekker.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De soep is niet geen lekker.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De soep is geen niet lekker.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت، geen niet درست نیست؛ صفت با niet منفی می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_definite_nouns",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen de sleutel.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "در عبارت «de sleutel» اسم مشخص است؛ برای منفی کردن یک اسم مشخص با de/het از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "با اسم‌های مشخص‌شده با de یا het، معمولاً niet استفاده می‌شود، نه geen.",
+    "extra_example_nl": "Dat is niet het boek.",
+    "extra_example_fa": "آن کتاب نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is geen de sleutel.",
+        "is_correct": false,
+        "feedback_fa": "وقتی اسم با de/het مشخص شده است، معمولاً باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is geen sleutel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ممکن است یک اسم نامشخص بسازد، اما جمله اصلی با de/het مشخص است و باید با niet اصلاح شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is niet de sleutel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet geen de sleutel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_definite_nouns",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen de tas.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در عبارت «de tas» اسم مشخص است؛ برای منفی کردن یک اسم مشخص با de/het از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "با اسم‌های مشخص‌شده با de یا het، معمولاً niet استفاده می‌شود، نه geen.",
+    "extra_example_nl": "Dit is niet de fiets.",
+    "extra_example_fa": "این دوچرخه نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is geen de tas.",
+        "is_correct": false,
+        "feedback_fa": "وقتی اسم با de/het مشخص شده است، معمولاً باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is geen tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ممکن است یک اسم نامشخص بسازد، اما جمله اصلی با de/het مشخص است و باید با niet اصلاح شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is niet geen de tas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet de tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_definite_nouns",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen de fiets.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در عبارت «de fiets» اسم مشخص است؛ برای منفی کردن یک اسم مشخص با de/het از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "با اسم‌های مشخص‌شده با de یا het، معمولاً niet استفاده می‌شود، نه geen.",
+    "extra_example_nl": "Dat is niet de auto.",
+    "extra_example_fa": "آن ماشین نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is niet de fiets.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is geen de fiets.",
+        "is_correct": false,
+        "feedback_fa": "وقتی اسم با de/het مشخص شده است، معمولاً باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is geen fiets.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ممکن است یک اسم نامشخص بسازد، اما جمله اصلی با de/het مشخص است و باید با niet اصلاح شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet geen de fiets.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_definite_nouns",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen de auto.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "در عبارت «de auto» اسم مشخص است؛ برای منفی کردن یک اسم مشخص با de/het از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "با اسم‌های مشخص‌شده با de یا het، معمولاً niet استفاده می‌شود، نه geen.",
+    "extra_example_nl": "Dit is niet de sleutel.",
+    "extra_example_fa": "این کلید نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is geen de auto.",
+        "is_correct": false,
+        "feedback_fa": "وقتی اسم با de/het مشخص شده است، معمولاً باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is niet de auto.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is geen auto.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ممکن است یک اسم نامشخص بسازد، اما جمله اصلی با de/het مشخص است و باید با niet اصلاح شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet geen de auto.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_definite_nouns",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen de vraag.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در عبارت «de vraag» اسم مشخص است؛ برای منفی کردن یک اسم مشخص با de/het از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "با اسم‌های مشخص‌شده با de یا het، معمولاً niet استفاده می‌شود، نه geen.",
+    "extra_example_nl": "Dat is niet het probleem.",
+    "extra_example_fa": "آن مشکل نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is geen de vraag.",
+        "is_correct": false,
+        "feedback_fa": "وقتی اسم با de/het مشخص شده است، معمولاً باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is geen vraag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ممکن است یک اسم نامشخص بسازد، اما جمله اصلی با de/het مشخص است و باید با niet اصلاح شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is niet de vraag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet geen de vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_definite_nouns",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen het boek.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "در عبارت «het boek» اسم مشخص است؛ برای منفی کردن یک اسم مشخص با de/het از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "با اسم‌های مشخص‌شده با de یا het، معمولاً niet استفاده می‌شود، نه geen.",
+    "extra_example_nl": "Dit is niet de vraag.",
+    "extra_example_fa": "این سؤال نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is geen het boek.",
+        "is_correct": false,
+        "feedback_fa": "وقتی اسم با de/het مشخص شده است، معمولاً باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is geen boek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ممکن است یک اسم نامشخص بسازد، اما جمله اصلی با de/het مشخص است و باید با niet اصلاح شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is niet geen het boek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet het boek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_definite_nouns",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen het huis.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "در عبارت «het huis» اسم مشخص است؛ برای منفی کردن یک اسم مشخص با de/het از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "با اسم‌های مشخص‌شده با de یا het، معمولاً niet استفاده می‌شود، نه geen.",
+    "extra_example_nl": "Dat is niet het station.",
+    "extra_example_fa": "آن ایستگاه نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is niet het huis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is geen het huis.",
+        "is_correct": false,
+        "feedback_fa": "وقتی اسم با de/het مشخص شده است، معمولاً باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is geen huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ممکن است یک اسم نامشخص بسازد، اما جمله اصلی با de/het مشخص است و باید با niet اصلاح شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet geen het huis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_definite_nouns",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen het probleem.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در عبارت «het probleem» اسم مشخص است؛ برای منفی کردن یک اسم مشخص با de/het از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "با اسم‌های مشخص‌شده با de یا het، معمولاً niet استفاده می‌شود، نه geen.",
+    "extra_example_nl": "Dit is niet het bericht.",
+    "extra_example_fa": "این پیام نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is geen het probleem.",
+        "is_correct": false,
+        "feedback_fa": "وقتی اسم با de/het مشخص شده است، معمولاً باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is niet het probleem.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is geen probleem.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ممکن است یک اسم نامشخص بسازد، اما جمله اصلی با de/het مشخص است و باید با niet اصلاح شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet geen het probleem.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_definite_nouns",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen het station.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در عبارت «het station» اسم مشخص است؛ برای منفی کردن یک اسم مشخص با de/het از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "با اسم‌های مشخص‌شده با de یا het، معمولاً niet استفاده می‌شود، نه geen.",
+    "extra_example_nl": "Dat is niet de auto.",
+    "extra_example_fa": "آن ماشین نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is geen het station.",
+        "is_correct": false,
+        "feedback_fa": "وقتی اسم با de/het مشخص شده است، معمولاً باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is geen station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ممکن است یک اسم نامشخص بسازد، اما جمله اصلی با de/het مشخص است و باید با niet اصلاح شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is niet het station.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet geen het station.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_definite_nouns",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen het bericht.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "در عبارت «het bericht» اسم مشخص است؛ برای منفی کردن یک اسم مشخص با de/het از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "با اسم‌های مشخص‌شده با de یا het، معمولاً niet استفاده می‌شود، نه geen.",
+    "extra_example_nl": "Dit is niet de sleutel.",
+    "extra_example_fa": "این کلید نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is geen het bericht.",
+        "is_correct": false,
+        "feedback_fa": "وقتی اسم با de/het مشخص شده است، معمولاً باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is geen bericht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ممکن است یک اسم نامشخص بسازد، اما جمله اصلی با de/het مشخص است و باید با niet اصلاح شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is niet geen het bericht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست برای جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet het bericht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_possessives",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen mijn tas.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "وقتی قبل از اسم مالکیت مثل «mijn tas» آمده است، برای منفی کردن باید از niet استفاده کنیم.",
+    "correction_rule_fa": "با مالکیت مثل mijn، jouw، zijn، haar، ons/onze معمولاً niet می‌آید، نه geen.",
+    "extra_example_nl": "Dit is niet jouw boek.",
+    "extra_example_fa": "این کتاب تو نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is niet mijn tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is geen mijn tas.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل «mijn tas» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is geen tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet geen mijn tas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_possessives",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen mijn fiets.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "وقتی قبل از اسم مالکیت مثل «mijn fiets» آمده است، برای منفی کردن باید از niet استفاده کنیم.",
+    "correction_rule_fa": "با مالکیت مثل mijn، jouw، zijn، haar، ons/onze معمولاً niet می‌آید، نه geen.",
+    "extra_example_nl": "Dat is niet zijn telefoon.",
+    "extra_example_fa": "آن تلفن او نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is geen mijn fiets.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل «mijn fiets» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is niet mijn fiets.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is geen fiets.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet geen mijn fiets.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_possessives",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen jouw boek.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "وقتی قبل از اسم مالکیت مثل «jouw boek» آمده است، برای منفی کردن باید از niet استفاده کنیم.",
+    "correction_rule_fa": "با مالکیت مثل mijn، jouw، zijn، haar، ons/onze معمولاً niet می‌آید، نه geen.",
+    "extra_example_nl": "Dit is niet mijn tas.",
+    "extra_example_fa": "این کیف من نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is geen jouw boek.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل «jouw boek» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is geen boek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is niet jouw boek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet geen jouw boek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_possessives",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen zijn telefoon.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "وقتی قبل از اسم مالکیت مثل «zijn telefoon» آمده است، برای منفی کردن باید از niet استفاده کنیم.",
+    "correction_rule_fa": "با مالکیت مثل mijn، jouw، zijn، haar، ons/onze معمولاً niet می‌آید، نه geen.",
+    "extra_example_nl": "Dat is niet haar jas.",
+    "extra_example_fa": "آن کت او نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is geen zijn telefoon.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل «zijn telefoon» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is geen telefoon.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is niet geen zijn telefoon.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet zijn telefoon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_possessives",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen haar jas.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "وقتی قبل از اسم مالکیت مثل «haar jas» آمده است، برای منفی کردن باید از niet استفاده کنیم.",
+    "correction_rule_fa": "با مالکیت مثل mijn، jouw، zijn، haar، ons/onze معمولاً niet می‌آید، نه geen.",
+    "extra_example_nl": "Dit is niet onze auto.",
+    "extra_example_fa": "این ماشین ما نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is niet haar jas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is geen haar jas.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل «haar jas» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is geen jas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet geen haar jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_possessives",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen onze auto.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "وقتی قبل از اسم مالکیت مثل «onze auto» آمده است، برای منفی کردن باید از niet استفاده کنیم.",
+    "correction_rule_fa": "با مالکیت مثل mijn، jouw، zijn، haar، ons/onze معمولاً niet می‌آید، نه geen.",
+    "extra_example_nl": "Dat is niet mijn sleutel.",
+    "extra_example_fa": "آن کلید من نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is geen onze auto.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل «onze auto» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is niet onze auto.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is geen auto.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet geen onze auto.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_possessives",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen mijn sleutel.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "وقتی قبل از اسم مالکیت مثل «mijn sleutel» آمده است، برای منفی کردن باید از niet استفاده کنیم.",
+    "correction_rule_fa": "با مالکیت مثل mijn، jouw، zijn، haar، ons/onze معمولاً niet می‌آید، نه geen.",
+    "extra_example_nl": "Dit is niet jouw afspraak.",
+    "extra_example_fa": "این قرار تو نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is geen mijn sleutel.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل «mijn sleutel» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is geen sleutel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is niet mijn sleutel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet geen mijn sleutel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_possessives",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen jouw afspraak.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "وقتی قبل از اسم مالکیت مثل «jouw afspraak» آمده است، برای منفی کردن باید از niet استفاده کنیم.",
+    "correction_rule_fa": "با مالکیت مثل mijn، jouw، zijn، haar، ons/onze معمولاً niet می‌آید، نه geen.",
+    "extra_example_nl": "Dat is niet mijn fiets.",
+    "extra_example_fa": "آن دوچرخه من نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is geen jouw afspraak.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل «jouw afspraak» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is geen afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is niet geen jouw afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet jouw afspraak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_possessives",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen ons huis.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "وقتی قبل از اسم مالکیت مثل «ons huis» آمده است، برای منفی کردن باید از niet استفاده کنیم.",
+    "correction_rule_fa": "با مالکیت مثل mijn، jouw، zijn، haar، ons/onze معمولاً niet می‌آید، نه geen.",
+    "extra_example_nl": "Dit is niet haar jas.",
+    "extra_example_fa": "این کت او نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is niet ons huis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is geen ons huis.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل «ons huis» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is geen huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet geen ons huis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_possessives",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen zijn boek.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "وقتی قبل از اسم مالکیت مثل «zijn boek» آمده است، برای منفی کردن باید از niet استفاده کنیم.",
+    "correction_rule_fa": "با مالکیت مثل mijn، jouw، zijn، haar، ons/onze معمولاً niet می‌آید، نه geen.",
+    "extra_example_nl": "Dat is niet jouw boek.",
+    "extra_example_fa": "آن کتاب تو نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is geen zijn boek.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل «zijn boek» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is niet zijn boek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is geen boek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet geen zijn boek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_demonstratives",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Deze tas is geen duur.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در جمله «Deze tas is niet duur.»، این کیف مشخص است و صفت/عبارت بعد از آن منفی شده؛ پس از niet استفاده می‌شود.",
+    "correction_rule_fa": "با deze، die، dit و dat برای منفی کردن چیز مشخص یا صفت، معمولاً niet می‌آید.",
+    "extra_example_nl": "Dit boek is niet van mij.",
+    "extra_example_fa": "این کتاب مال من نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze tas is geen duur.",
+        "is_correct": false,
+        "feedback_fa": "وقتی با deze/die/dit/dat صفت یا چیز مشخص را منفی می‌کنیم، باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze tas is niet geen duur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze tas is niet duur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze tas is geen niet duur.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای این ساختار درست نیست؛ باید فقط niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_demonstratives",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Deze jas is geen mooi.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "در جمله «Deze jas is niet mooi.»، این کت مشخص است و صفت/عبارت بعد از آن منفی شده؛ پس از niet استفاده می‌شود.",
+    "correction_rule_fa": "با deze، die، dit و dat برای منفی کردن چیز مشخص یا صفت، معمولاً niet می‌آید.",
+    "extra_example_nl": "Die fiets is niet nieuw.",
+    "extra_example_fa": "آن دوچرخه نو نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze jas is geen mooi.",
+        "is_correct": false,
+        "feedback_fa": "وقتی با deze/die/dit/dat صفت یا چیز مشخص را منفی می‌کنیم، باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze jas is niet geen mooi.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze jas is geen niet mooi.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای این ساختار درست نیست؛ باید فقط niet استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze jas is niet mooi.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_demonstratives",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Die fiets is geen nieuw.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Die fiets is niet nieuw.»، آن دوچرخه مشخص است و صفت/عبارت بعد از آن منفی شده؛ پس از niet استفاده می‌شود.",
+    "correction_rule_fa": "با deze، die، dit و dat برای منفی کردن چیز مشخص یا صفت، معمولاً niet می‌آید.",
+    "extra_example_nl": "Deze tas is niet duur.",
+    "extra_example_fa": "این کیف گران نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Die fiets is niet nieuw.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Die fiets is geen nieuw.",
+        "is_correct": false,
+        "feedback_fa": "وقتی با deze/die/dit/dat صفت یا چیز مشخص را منفی می‌کنیم، باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Die fiets is niet geen nieuw.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Die fiets is geen niet nieuw.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای این ساختار درست نیست؛ باید فقط niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_demonstratives",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit boek is geen van mij.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "در جمله «Dit boek is niet van mij.»، این کتاب مشخص است و صفت/عبارت بعد از آن منفی شده؛ پس از niet استفاده می‌شود.",
+    "correction_rule_fa": "با deze، die، dit و dat برای منفی کردن چیز مشخص یا صفت، معمولاً niet می‌آید.",
+    "extra_example_nl": "Dat antwoord is niet goed.",
+    "extra_example_fa": "آن جواب درست نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit boek is geen van mij.",
+        "is_correct": false,
+        "feedback_fa": "وقتی با deze/die/dit/dat صفت یا چیز مشخص را منفی می‌کنیم، باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit boek is niet van mij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit boek is niet geen van mij.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit boek is geen niet van mij.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای این ساختار درست نیست؛ باید فقط niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_demonstratives",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit probleem is geen groot.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "در جمله «Dit probleem is niet groot.»، این مشکل مشخص است و صفت/عبارت بعد از آن منفی شده؛ پس از niet استفاده می‌شود.",
+    "correction_rule_fa": "با deze، die، dit و dat برای منفی کردن چیز مشخص یا صفت، معمولاً niet می‌آید.",
+    "extra_example_nl": "Deze vraag is niet moeilijk.",
+    "extra_example_fa": "این سؤال سخت نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit probleem is geen groot.",
+        "is_correct": false,
+        "feedback_fa": "وقتی با deze/die/dit/dat صفت یا چیز مشخص را منفی می‌کنیم، باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit probleem is niet geen groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit probleem is niet groot.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit probleem is geen niet groot.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای این ساختار درست نیست؛ باید فقط niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_demonstratives",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat antwoord is geen goed.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Dat antwoord is niet goed.»، آن جواب مشخص است و صفت/عبارت بعد از آن منفی شده؛ پس از niet استفاده می‌شود.",
+    "correction_rule_fa": "با deze، die، dit و dat برای منفی کردن چیز مشخص یا صفت، معمولاً niet می‌آید.",
+    "extra_example_nl": "Dit probleem is niet klein.",
+    "extra_example_fa": "این مشکل کوچک نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat antwoord is geen goed.",
+        "is_correct": false,
+        "feedback_fa": "وقتی با deze/die/dit/dat صفت یا چیز مشخص را منفی می‌کنیم، باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat antwoord is niet geen goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat antwoord is geen niet goed.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای این ساختار درست نیست؛ باید فقط niet استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat antwoord is niet goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_demonstratives",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Deze vraag is geen makkelijk.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در جمله «Deze vraag is niet makkelijk.»، این سؤال مشخص است و صفت/عبارت بعد از آن منفی شده؛ پس از niet استفاده می‌شود.",
+    "correction_rule_fa": "با deze، die، dit و dat برای منفی کردن چیز مشخص یا صفت، معمولاً niet می‌آید.",
+    "extra_example_nl": "Dat bericht is niet belangrijk.",
+    "extra_example_fa": "آن پیام مهم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze vraag is niet makkelijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze vraag is geen makkelijk.",
+        "is_correct": false,
+        "feedback_fa": "وقتی با deze/die/dit/dat صفت یا چیز مشخص را منفی می‌کنیم، باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze vraag is niet geen makkelijk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze vraag is geen niet makkelijk.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای این ساختار درست نیست؛ باید فقط niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_demonstratives",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat bericht is geen duidelijk.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "در جمله «Dat bericht is niet duidelijk.»، آن پیام مشخص است و صفت/عبارت بعد از آن منفی شده؛ پس از niet استفاده می‌شود.",
+    "correction_rule_fa": "با deze، die، dit و dat برای منفی کردن چیز مشخص یا صفت، معمولاً niet می‌آید.",
+    "extra_example_nl": "Deze jas is niet mooi.",
+    "extra_example_fa": "این کت زیبا نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat bericht is geen duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "وقتی با deze/die/dit/dat صفت یا چیز مشخص را منفی می‌کنیم، باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat bericht is niet duidelijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat bericht is niet geen duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat bericht is geen niet duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای این ساختار درست نیست؛ باید فقط niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_demonstratives",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit is geen goed.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Dit is niet goed.»، این مشخص است و صفت/عبارت بعد از آن منفی شده؛ پس از niet استفاده می‌شود.",
+    "correction_rule_fa": "با deze، die، dit و dat برای منفی کردن چیز مشخص یا صفت، معمولاً niet می‌آید.",
+    "extra_example_nl": "Dat is niet klaar.",
+    "extra_example_fa": "آن آماده نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is geen goed.",
+        "is_correct": false,
+        "feedback_fa": "وقتی با deze/die/dit/dat صفت یا چیز مشخص را منفی می‌کنیم، باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is niet geen goed.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is niet goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is geen niet goed.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای این ساختار درست نیست؛ باید فقط niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_demonstratives",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat is geen klaar.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "در جمله «Dat is niet klaar.»، آن مشخص است و صفت/عبارت بعد از آن منفی شده؛ پس از niet استفاده می‌شود.",
+    "correction_rule_fa": "با deze، die، dit و dat برای منفی کردن چیز مشخص یا صفت، معمولاً niet می‌آید.",
+    "extra_example_nl": "Dit is niet goed.",
+    "extra_example_fa": "این خوب نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is geen klaar.",
+        "is_correct": false,
+        "feedback_fa": "وقتی با deze/die/dit/dat صفت یا چیز مشخص را منفی می‌کنیم، باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is niet geen klaar.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is geen niet klaar.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای این ساختار درست نیست؛ باید فقط niet استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet klaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_places_time_prepositions",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik ben geen thuis.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "عبارت «thuis» مکان/زمان یا عبارت حرف اضافه است؛ برای منفی کردن آن از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مکان، زمان و عبارت‌های حرف اضافه معمولاً niet استفاده می‌شود.",
+    "extra_example_nl": "Wij zijn niet op school.",
+    "extra_example_fa": "ما در مدرسه نیستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben niet thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben geen thuis.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن مکان/زمان یا عبارت حرف اضافه مثل «thuis» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben niet geen thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben geen niet thuis.",
+        "is_correct": false,
+        "feedback_fa": "geen niet برای مکان، زمان یا عبارت حرف اضافه درست نیست؛ باید niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_places_time_prepositions",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij zijn geen op school.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "عبارت «op school» مکان/زمان یا عبارت حرف اضافه است؛ برای منفی کردن آن از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مکان، زمان و عبارت‌های حرف اضافه معمولاً niet استفاده می‌شود.",
+    "extra_example_nl": "Ik ben niet thuis.",
+    "extra_example_fa": "من خانه نیستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij zijn geen op school.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن مکان/زمان یا عبارت حرف اضافه مثل «op school» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij zijn niet op school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij zijn niet geen op school.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij zijn geen niet op school.",
+        "is_correct": false,
+        "feedback_fa": "geen niet برای مکان، زمان یا عبارت حرف اضافه درست نیست؛ باید niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_places_time_prepositions",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij is geen op kantoor.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "عبارت «op kantoor» مکان/زمان یا عبارت حرف اضافه است؛ برای منفی کردن آن از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مکان، زمان و عبارت‌های حرف اضافه معمولاً niet استفاده می‌شود.",
+    "extra_example_nl": "Zij werkt niet vandaag.",
+    "extra_example_fa": "او امروز کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is geen op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن مکان/زمان یا عبارت حرف اضافه مثل «op kantoor» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij is niet geen op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij is niet op kantoor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij is geen niet op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "geen niet برای مکان، زمان یا عبارت حرف اضافه درست نیست؛ باید niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_places_time_prepositions",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik ben geen in de winkel.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "عبارت «in de winkel» مکان/زمان یا عبارت حرف اضافه است؛ برای منفی کردن آن از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مکان، زمان و عبارت‌های حرف اضافه معمولاً niet استفاده می‌شود.",
+    "extra_example_nl": "Wij zijn niet in de trein.",
+    "extra_example_fa": "ما در قطار نیستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben geen in de winkel.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن مکان/زمان یا عبارت حرف اضافه مثل «in de winkel» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben niet geen in de winkel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben geen niet in de winkel.",
+        "is_correct": false,
+        "feedback_fa": "geen niet برای مکان، زمان یا عبارت حرف اضافه درست نیست؛ باید niet استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben niet in de winkel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_places_time_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij zijn geen in de trein.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "عبارت «in de trein» مکان/زمان یا عبارت حرف اضافه است؛ برای منفی کردن آن از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مکان، زمان و عبارت‌های حرف اضافه معمولاً niet استفاده می‌شود.",
+    "extra_example_nl": "Hij is niet op kantoor.",
+    "extra_example_fa": "او در دفتر نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij zijn niet in de trein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij zijn geen in de trein.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن مکان/زمان یا عبارت حرف اضافه مثل «in de trein» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij zijn niet geen in de trein.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij zijn geen niet in de trein.",
+        "is_correct": false,
+        "feedback_fa": "geen niet برای مکان، زمان یا عبارت حرف اضافه درست نیست؛ باید niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_places_time_prepositions",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik werk geen vandaag.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "عبارت «vandaag» مکان/زمان یا عبارت حرف اضافه است؛ برای منفی کردن آن از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مکان، زمان و عبارت‌های حرف اضافه معمولاً niet استفاده می‌شود.",
+    "extra_example_nl": "Hij komt niet morgen.",
+    "extra_example_fa": "او فردا نمی‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk geen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن مکان/زمان یا عبارت حرف اضافه مثل «vandaag» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk niet vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik werk niet geen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk geen niet vandaag.",
+        "is_correct": false,
+        "feedback_fa": "geen niet برای مکان، زمان یا عبارت حرف اضافه درست نیست؛ باید niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_places_time_prepositions",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij komt geen morgen.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "عبارت «morgen» مکان/زمان یا عبارت حرف اضافه است؛ برای منفی کردن آن از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مکان، زمان و عبارت‌های حرف اضافه معمولاً niet استفاده می‌شود.",
+    "extra_example_nl": "Ik werk niet vandaag.",
+    "extra_example_fa": "من امروز کار نمی‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij komt geen morgen.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن مکان/زمان یا عبارت حرف اضافه مثل «morgen» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij komt niet geen morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij komt niet morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij komt geen niet morgen.",
+        "is_correct": false,
+        "feedback_fa": "geen niet برای مکان، زمان یا عبارت حرف اضافه درست نیست؛ باید niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_places_time_prepositions",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De afspraak is geen om negen uur.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "عبارت «om negen uur» مکان/زمان یا عبارت حرف اضافه است؛ برای منفی کردن آن از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مکان، زمان و عبارت‌های حرف اضافه معمولاً niet استفاده می‌شود.",
+    "extra_example_nl": "De les is niet vandaag.",
+    "extra_example_fa": "کلاس امروز نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak is geen om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن مکان/زمان یا عبارت حرف اضافه مثل «om negen uur» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak is niet geen om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De afspraak is geen niet om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "geen niet برای مکان، زمان یا عبارت حرف اضافه درست نیست؛ باید niet استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De afspraak is niet om negen uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_places_time_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De bus stopt geen in Utrecht.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "عبارت «in Utrecht» مکان/زمان یا عبارت حرف اضافه است؛ برای منفی کردن آن از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مکان، زمان و عبارت‌های حرف اضافه معمولاً niet استفاده می‌شود.",
+    "extra_example_nl": "Ik ben niet in de trein.",
+    "extra_example_fa": "من در قطار نیستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bus stopt niet in Utrecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus stopt geen in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن مکان/زمان یا عبارت حرف اضافه مثل «in Utrecht» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bus stopt niet geen in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bus stopt geen niet in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "geen niet برای مکان، زمان یا عبارت حرف اضافه درست نیست؛ باید niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "niet_with_places_time_prepositions",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij wachten geen bij de ingang.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "عبارت «bij de ingang» مکان/زمان یا عبارت حرف اضافه است؛ برای منفی کردن آن از niet استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مکان، زمان و عبارت‌های حرف اضافه معمولاً niet استفاده می‌شود.",
+    "extra_example_nl": "Zij is niet op school.",
+    "extra_example_fa": "او در مدرسه نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij wachten geen bij de ingang.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن مکان/زمان یا عبارت حرف اضافه مثل «bij de ingang» باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij wachten niet bij de ingang.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij wachten niet geen bij de ingang.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و اصلاح درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij wachten geen niet bij de ingang.",
+        "is_correct": false,
+        "feedback_fa": "geen niet برای مکان، زمان یا عبارت حرف اضافه درست نیست؛ باید niet استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "choosing_best_niet_geen_correction",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik heb niet auto.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "بهترین اصلاح جمله «Ik heb niet auto.» گزینه «Ik heb geen auto.» است، چون اینجا موضوع اسم نامشخص است و باید قاعده درست niet/geen رعایت شود.",
+    "correction_rule_fa": "در انتخاب بهترین اصلاح، جمله‌ای درست است که همان معنی جمله اصلی را حفظ کند و فقط خطای niet/geen را اصلاح کند.",
+    "extra_example_nl": "Ik heb geen fiets.",
+    "extra_example_fa": "من دوچرخه ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb niet auto.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم نامشخص «auto» باید geen بیاید، نه niet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb niet een auto.",
+        "is_correct": false,
+        "feedback_fa": "در منفی ساده، een حذف می‌شود و geen می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen auto.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb niet geen auto.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "choosing_best_niet_geen_correction",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik werk geen vandaag.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "بهترین اصلاح جمله «Ik werk geen vandaag.» گزینه «Ik werk niet vandaag.» است، چون اینجا موضوع فعل/عمل است و باید قاعده درست niet/geen رعایت شود.",
+    "correction_rule_fa": "در انتخاب بهترین اصلاح، جمله‌ای درست است که همان معنی جمله اصلی را حفظ کند و فقط خطای niet/geen را اصلاح کند.",
+    "extra_example_nl": "Hij komt niet morgen.",
+    "extra_example_fa": "او فردا نمی‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk geen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن فعل «werk» باید niet بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk niet geen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik werk geen niet vandaag.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای فعل درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk niet vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "choosing_best_niet_geen_correction",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij hebben niet koffie.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "بهترین اصلاح جمله «Wij hebben niet koffie.» گزینه «Wij hebben geen koffie.» است، چون اینجا موضوع اسم غیرقابل‌شمارش/مقدار نامشخص است و باید قاعده درست niet/geen رعایت شود.",
+    "correction_rule_fa": "در انتخاب بهترین اصلاح، جمله‌ای درست است که همان معنی جمله اصلی را حفظ کند و فقط خطای niet/geen را اصلاح کند.",
+    "extra_example_nl": "Ik drink geen melk.",
+    "extra_example_fa": "من شیر نمی‌نوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben geen koffie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hebben niet koffie.",
+        "is_correct": false,
+        "feedback_fa": "برای «koffie» وقتی منظور هیچ قهوه‌ای است، geen لازم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben niet de koffie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی را به قهوه مشخص تغییر می‌دهد و اصلاح اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben niet geen koffie.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "choosing_best_niet_geen_correction",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Dit is geen het boek.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "بهترین اصلاح جمله «Dit is geen het boek.» گزینه «Dit is niet het boek.» است، چون اینجا موضوع اسم مشخص با het است و باید قاعده درست niet/geen رعایت شود.",
+    "correction_rule_fa": "در انتخاب بهترین اصلاح، جمله‌ای درست است که همان معنی جمله اصلی را حفظ کند و فقط خطای niet/geen را اصلاح کند.",
+    "extra_example_nl": "Dat is niet de vraag.",
+    "extra_example_fa": "آن سؤال نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is geen het boek.",
+        "is_correct": false,
+        "feedback_fa": "با het باید niet بیاید، نه geen."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is niet het boek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is geen boek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله اسم را نامشخص می‌کند و اصلاح دقیق جمله اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is niet geen het boek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد و درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "choosing_best_niet_geen_correction",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Dat is geen mijn tas.",
+    "question_text_nl": "Kies de zin met de juiste niet/geen.",
+    "question_text_fa": "در این جمله niet/geen اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "بهترین اصلاح جمله «Dat is geen mijn tas.» گزینه «Dat is niet mijn tas.» است، چون اینجا موضوع مالکیت است و باید قاعده درست niet/geen رعایت شود.",
+    "correction_rule_fa": "در انتخاب بهترین اصلاح، جمله‌ای درست است که همان معنی جمله اصلی را حفظ کند و فقط خطای niet/geen را اصلاح کند.",
+    "extra_example_nl": "Dit is niet jouw boek.",
+    "extra_example_fa": "این کتاب تو نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is geen mijn tas.",
+        "is_correct": false,
+        "feedback_fa": "با مالکیت مثل mijn باید niet بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is geen tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه مالکیت را حذف کرده و اصلاح دقیق نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is niet mijn tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is niet geen mijn tas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "choosing_best_niet_geen_correction",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Deze jas is geen duur.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "گزینه‌ای را انتخاب کن که niet/geen در آن درست استفاده شده است.",
+    "explanation_fa": "بهترین اصلاح جمله «Deze jas is geen duur.» گزینه «Deze jas is niet duur.» است، چون اینجا موضوع عبارت اشاره‌ای + صفت است و باید قاعده درست niet/geen رعایت شود.",
+    "correction_rule_fa": "در انتخاب بهترین اصلاح، جمله‌ای درست است که همان معنی جمله اصلی را حفظ کند و فقط خطای niet/geen را اصلاح کند.",
+    "extra_example_nl": "Die fiets is niet nieuw.",
+    "extra_example_fa": "آن دوچرخه نو نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze jas is geen duur.",
+        "is_correct": false,
+        "feedback_fa": "برای صفت «duur» باید niet بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze jas is niet geen duur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze jas is geen niet duur.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze jas is niet duur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "choosing_best_niet_geen_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik ben geen thuis.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "بهترین اصلاح جمله «Ik ben geen thuis.» گزینه «Ik ben niet thuis.» است، چون اینجا موضوع مکان است و باید قاعده درست niet/geen رعایت شود.",
+    "correction_rule_fa": "در انتخاب بهترین اصلاح، جمله‌ای درست است که همان معنی جمله اصلی را حفظ کند و فقط خطای niet/geen را اصلاح کند.",
+    "extra_example_nl": "Wij zijn niet op kantoor.",
+    "extra_example_fa": "ما در دفتر نیستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben niet thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben geen thuis.",
+        "is_correct": false,
+        "feedback_fa": "برای مکان «thuis» باید niet استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben niet geen thuis.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben geen niet thuis.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای مکان درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "choosing_best_niet_geen_correction",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij hebben niet vragen.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه niet/geen را اصلاح کن.",
+    "explanation_fa": "بهترین اصلاح جمله «Wij hebben niet vragen.» گزینه «Wij hebben geen vragen.» است، چون اینجا موضوع اسم جمع است و باید قاعده درست niet/geen رعایت شود.",
+    "correction_rule_fa": "در انتخاب بهترین اصلاح، جمله‌ای درست است که همان معنی جمله اصلی را حفظ کند و فقط خطای niet/geen را اصلاح کند.",
+    "extra_example_nl": "Ik heb geen boeken.",
+    "extra_example_fa": "من هیچ کتابی ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben niet vragen.",
+        "is_correct": false,
+        "feedback_fa": "برای اسم جمع با معنی «هیچ»، geen لازم است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hebben geen vragen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben niet de vragen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی را به سؤال‌های مشخص تغییر می‌دهد و اصلاح اصلی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben niet geen vragen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "choosing_best_niet_geen_correction",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Dit probleem is geen groot.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر niet/geen درست است؟",
+    "explanation_fa": "بهترین اصلاح جمله «Dit probleem is geen groot.» گزینه «Dit probleem is niet groot.» است، چون اینجا موضوع صفت است و باید قاعده درست niet/geen رعایت شود.",
+    "correction_rule_fa": "در انتخاب بهترین اصلاح، جمله‌ای درست است که همان معنی جمله اصلی را حفظ کند و فقط خطای niet/geen را اصلاح کند.",
+    "extra_example_nl": "De vraag is niet moeilijk.",
+    "extra_example_fa": "سؤال سخت نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit probleem is geen groot.",
+        "is_correct": false,
+        "feedback_fa": "برای منفی کردن صفت «groot» باید niet بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit probleem is niet geen groot.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit probleem is niet groot.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit probleem is geen niet groot.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "niet_geen_error",
+    "subtopic": "choosing_best_niet_geen_correction",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De afspraak is geen om negen uur.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "بهترین اصلاح جمله «De afspraak is geen om negen uur.» گزینه «De afspraak is niet om negen uur.» است، چون اینجا موضوع زمان است و باید قاعده درست niet/geen رعایت شود.",
+    "correction_rule_fa": "در انتخاب بهترین اصلاح، جمله‌ای درست است که همان معنی جمله اصلی را حفظ کند و فقط خطای niet/geen را اصلاح کند.",
+    "extra_example_nl": "De les is niet vandaag.",
+    "extra_example_fa": "کلاس امروز نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak is geen om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "برای عبارت زمانی «om negen uur» باید niet بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak is niet geen om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله دو منفی دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De afspraak is geen niet om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "ترکیب geen niet برای زمان درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De afspraak is niet om negen uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این گزینه niet/geen را مطابق قانون جمله اصلاح کرده است."
+      }
+    ]
+  }
+]

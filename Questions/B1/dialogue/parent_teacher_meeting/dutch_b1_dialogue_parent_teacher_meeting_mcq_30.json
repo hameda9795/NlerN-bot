@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Uw zoon doet het goed met rekenen, maar lezen vindt hij nog lastig.»  Ouder: «___»  Welke reactie toont oprechte betrokkenheid?",
+    "question_text_fa": "کدام واکنش نشان‌دهنده‌ی توجهِ واقعی است؟",
+    "explanation_fa": "بهترین واکنش، پرسیدنِ راهکارهای عملی برای بهبودِ مهارتِ خواندن است.",
+    "grammar_rule_fa": "درخواستِ راهنمایی: «Wat kunnen we thuis doen om te helpen?»",
+    "extra_example_nl": "Wat kunnen we thuis doen om hem te helpen met lezen?",
+    "extra_example_fa": "در خانه چه کار می‌توانیم بکنیم تا در خواندن به او کمک کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat kunnen we thuis doen om hem te helpen met lezen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توجهِ واقعی و درخواستِ راه‌حلِ عملی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Lezen is toch niet zo belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "اهمیتِ نگرانیِ معلم را دست‌کم می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Rekenen vind ik zelf ook moeilijk.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ اصلی، یعنی مشکلِ خواندن است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat interesseert me niet zo.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد، درحالی‌که موضوع مهم است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Uw dochter praat veel tijdens de les en stoort daarmee andere kinderen.»  Ouder: «Dat wist ik niet, hoe kunnen we dat samen aanpakken?»  Wat doet de ouder in deze reactie?",
+    "question_text_fa": "والد در این واکنش چه کار می‌کند؟",
+    "explanation_fa": "والد به‌جای دفاع کردن، مسئله را می‌پذیرد و به دنبال راه‌حلِ مشترک است.",
+    "grammar_rule_fa": "پیشنهادِ همکاری: «hoe kunnen we dat samen aanpakken?»",
+    "extra_example_nl": "Hoe kunnen we dat samen het beste aanpakken?",
+    "extra_example_fa": "چطور می‌توانیم با هم بهترین شکل این را حل کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Boos worden op zijn dochter.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و سازنده است، نه عصبانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het probleem erkennen en om een gezamenlijke aanpak vragen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het probleem volledig ontkennen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او می‌گوید «dat wist ik niet» و مسئله را می‌پذیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De schuld bij de leraar leggen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست؛ او همکاری می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ouder: «Ik merk dat mijn zoon het huiswerk vaak uitstelt, heeft u tips?»  Leraar: «Een vaste tijd en plek voor huiswerk helpt vaak goed.»  Wat is een logische vervolgvraag van de ouder?",
+    "question_text_fa": "کدام سؤالِ بعدیِ والد منطقی است؟",
+    "explanation_fa": "پرسیدنِ جزئیاتِ بیشتر درباره‌ی چگونگیِ اجرای این توصیه، سؤالِ منطقی است.",
+    "grammar_rule_fa": "درخواستِ جزئیات: «Hoe pakken we dat het beste aan?»",
+    "extra_example_nl": "Hoe pakken we dat het beste aan, elke dag op dezelfde tijd?",
+    "extra_example_fa": "چطور بهتر است این کار را انجام دهیم، هر روز سرِ ساعتِ مشخص؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb hier geen tijd voor.",
+        "is_correct": false,
+        "feedback_fa": "با درخواستِ کمکِ اولیه‌ی خودش در تضاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is de verantwoordelijkheid van de school.",
+        "is_correct": false,
+        "feedback_fa": "مسئولیت را به‌طور کامل به مدرسه واگذار می‌کند، درحالی‌که او خودش درخواستِ کمکِ عملی برای خانه کرده بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe pakken we dat het beste aan, elke dag op dezelfde tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ادامه‌ی منطقیِ گفتگو."
+      },
+      {
+        "key": "D",
+        "text_nl": "Huiswerk is toch niet zo belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "با نگرانیِ اولیه‌ی خودش در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Ik heb gemerkt dat uw zoon vaak alleen speelt tijdens de pauze.»  Ouder: «___»  Welke reactie toont bezorgdheid op een constructieve manier?",
+    "question_text_fa": "کدام واکنش نگرانی را به شکل سازنده نشان می‌دهد؟",
+    "explanation_fa": "پرسیدنِ اینکه آیا این رفتار مشکلی است یا نه، واکنشِ سازنده است.",
+    "grammar_rule_fa": "پرسیدنِ ارزیابی: «Vindt u dat zorgelijk, of is dat normaal?»",
+    "extra_example_nl": "Vindt u dat zorgelijk, of is dat op deze leeftijd normaal?",
+    "extra_example_fa": "شما این را نگران‌کننده می‌دانید یا در این سن طبیعی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is niet mijn probleem.",
+        "is_correct": false,
+        "feedback_fa": "بی‌مسئولیتی نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen spelen vind ik juist goed.",
+        "is_correct": false,
+        "feedback_fa": "نگرانیِ معلم را بدون بررسی رد می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Andere kinderen zijn vast het probleem.",
+        "is_correct": false,
+        "feedback_fa": "مسئولیت را زودهنگام به دیگران منتقل می‌کند بدون بررسیِ بیشتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vindt u dat zorgelijk, of is dat op deze leeftijd normaal?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نگرانیِ سازنده و درخواستِ ارزیابیِ حرفه‌ای."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ouder: «Ik maak me zorgen, mijn zoon zegt dat hij op school gepest wordt.»  Leraar: «Dat neem ik serieus, kunt u vertellen wat er precies gebeurt?»  Wat is een gepaste vervolgreactie van de ouder?",
+    "question_text_fa": "کدام واکنشِ بعدی برای والد مناسب است؟",
+    "explanation_fa": "توضیحِ دقیقِ آنچه فرزندش گفته، بهترین راه برای پیشبردِ گفتگوست.",
+    "grammar_rule_fa": "نقل‌قولِ فرزند: «Hij vertelde dat …»",
+    "extra_example_nl": "Hij vertelde dat een paar klasgenoten hem buitensluiten tijdens de pauze.",
+    "extra_example_fa": "او گفت چند تا از هم‌کلاسی‌هایش او را در زنگِ تفریح کنار می‌گذارند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij vertelde dat een paar klasgenoten hem buitensluiten tijdens de pauze.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اطلاعاتِ مشخص برای پیگیریِ بهتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het is vast niet zo erg.",
+        "is_correct": false,
+        "feedback_fa": "جدیتِ نگرانیِ اولیه‌ی خودش را کم‌اهمیت می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil er liever niet over praten.",
+        "is_correct": false,
+        "feedback_fa": "با نگرانیِ اولیه‌اش که خودش مطرح کرد در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kinderen pesten elkaar toch altijd.",
+        "is_correct": false,
+        "feedback_fa": "جدیتِ مسئله را نادیده می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Uw dochter zou baat kunnen hebben bij extra begeleiding voor spelling.»  Ouder: «___»  Welke reactie is het meest logisch?",
+    "question_text_fa": "کدام واکنش منطقی‌تر است؟",
+    "explanation_fa": "پرسیدنِ جزئیاتِ روش و زمانِ حمایتِ اضافی، واکنشِ منطقی است.",
+    "grammar_rule_fa": "پرسیدنِ جزئیات: «Hoe ziet die begeleiding eruit?»",
+    "extra_example_nl": "Hoe ziet die extra begeleiding er precies uit?",
+    "extra_example_fa": "این حمایتِ اضافی دقیقاً چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat lost zich vanzelf wel op.",
+        "is_correct": false,
+        "feedback_fa": "توصیه‌ی معلم را جدی نمی‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe ziet die extra begeleiding er precies uit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ عملی و منطقی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Spelling is toch niet zo belangrijk tegenwoordig.",
+        "is_correct": false,
+        "feedback_fa": "با توصیه‌ی معلم در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ze heeft geen enkel probleem.",
+        "is_correct": false,
+        "feedback_fa": "دیدگاهِ حرفه‌ایِ معلم را بدون دلیل رد می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «De laatste toets ging minder goed dan verwacht, hij scoorde een zes.»  Ouder: «Dat is prima om te weten, wat kunnen we samen doen om dat te verbeteren?»  Wat toont de reactie van de ouder?",
+    "question_text_fa": "واکنشِ والد چه چیزی نشان می‌دهد؟",
+    "explanation_fa": "او آرام و سازنده واکنش نشان می‌دهد و به دنبال راه‌حل است، نه سرزنش.",
+    "grammar_rule_fa": "واکنشِ سازنده: «Dat is prima om te weten, wat kunnen we doen?»",
+    "extra_example_nl": "Dat is goed om te weten, wat kunnen we thuis extra oefenen?",
+    "extra_example_fa": "خوب است که این را می‌دانم، در خانه چه تمرینِ اضافه‌ای می‌توانیم انجام دهیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Onverschilligheid over het cijfer.",
+        "is_correct": false,
+        "feedback_fa": "او فعالانه به دنبال راه‌حل است، بی‌تفاوت نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanhoop over de toekomst van het kind.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و امیدوارانه است، نه ناامید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een kalme, oplossingsgerichte houding.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نگرش را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Boosheid op de leraar.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام است، نه عصبانی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Uw zoon is de laatste weken vaker afwezig geweest, is daar een reden voor?»  Ouder: «Ja, hij heeft veel last van hoofdpijn gehad, we zijn ermee naar de huisarts geweest.»  Wat legt de ouder uit?",
+    "question_text_fa": "والد چه چیزی توضیح می‌دهد؟",
+    "explanation_fa": "او دلیلِ پزشکیِ غیبت‌های اخیرِ فرزندش را توضیح می‌دهد.",
+    "grammar_rule_fa": "توضیحِ دلیل: «Hij heeft veel last van …»",
+    "extra_example_nl": "Hij heeft veel last van hoofdpijn gehad de laatste tijd.",
+    "extra_example_fa": "اخیراً خیلی از سردرد رنج می‌برد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat het kind niet naar school wil.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat de school te ver weg is.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به دلیلِ گفته‌شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat de ouder het niet belangrijk vindt.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او با پزشک هم مشورت کرده، پس جدی گرفته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een medische reden voor de afwezigheid van het kind.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین دلیل را توضیح می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Uw dochter lijkt de laatste tijd wat gemotiveerder, ze doet actiever mee in de klas.»  Ouder: «Wat fijn om te horen, is er iets specifieks veranderd?»  Wat vraagt de ouder?",
+    "question_text_fa": "والد چه چیزی می‌پرسد؟",
+    "explanation_fa": "او می‌پرسد چه چیزِ خاصی باعثِ این پیشرفتِ اخیر شده است.",
+    "grammar_rule_fa": "سؤالِ علت: «Is er iets specifieks veranderd?»",
+    "extra_example_nl": "Is er iets specifieks veranderd waardoor ze meer meedoet?",
+    "extra_example_fa": "چیزِ خاصی تغییر کرده که او بیشتر مشارکت می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De reden achter de recente verbetering.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌پرسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer de volgende toets is.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ گفتگو است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Of de leraar tevreden is met zijn baan.",
+        "is_correct": false,
+        "feedback_fa": "کاملاً بی‌ربط به موضوع است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Of de klas te groot is.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ اصلیِ او درباره‌ی پیشرفت است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «We willen graag testen of uw zoon extra ondersteuning nodig heeft, bijvoorbeeld voor dyslexie.»  Ouder: «Dat lijkt me verstandig, wat houdt zo'n test precies in?»  Wat probeert de ouder te begrijpen?",
+    "question_text_fa": "والد سعی می‌کند چه چیزی را بفهمد؟",
+    "explanation_fa": "او می‌خواهد بداند دقیقاً این آزمایش شاملِ چه مراحلی است.",
+    "grammar_rule_fa": "درخواستِ توضیح: «Wat houdt dat precies in?»",
+    "extra_example_nl": "Wat houdt die test precies in, en hoelang duurt het?",
+    "extra_example_fa": "این آزمایش دقیقاً شاملِ چه چیزی است و چقدر طول می‌کشد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer de zomervakantie begint.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ گفتگو است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De inhoud en het verloop van de test.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌خواهد بفهمد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel de leraar verdient.",
+        "is_correct": false,
+        "feedback_fa": "کاملاً بی‌ربط به موضوعِ آزمایش است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Of zijn zoon de klas moet verlaten.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ouder: «Kan mijn dochter volgend jaar naar de groep met meer uitdaging, ze verveelt zich soms?»  Leraar: «Dat kunnen we bekijken, ik observeer haar de komende weken extra.»  Wat is een gepaste reactie van de ouder?",
+    "question_text_fa": "کدام واکنشِ والد مناسب است؟",
+    "explanation_fa": "تشکر و درخواستِ اطلاع از نتیجه‌ی مشاهده، واکنشِ مناسب و منطقی است.",
+    "grammar_rule_fa": "درخواستِ پیگیری: «Laat u ons weten wat u merkt?»",
+    "extra_example_nl": "Dank u wel, laat u ons weten wat u de komende weken merkt?",
+    "extra_example_fa": "ممنون، چیزی که در هفته‌های آینده متوجه می‌شوید به ما اطلاع می‌دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Uitdaging is toch niet zo belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "با نگرانیِ اولیه‌ی خودش در تضاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik vertrouw uw observatie niet.",
+        "is_correct": false,
+        "feedback_fa": "بی‌اعتمادیِ غیرضروری به یک پیشنهادِ منطقی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dank u wel, laat u ons weten wat u de komende weken merkt?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تشکر و پیگیریِ مناسب."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat moet nu meteen geregeld worden.",
+        "is_correct": false,
+        "feedback_fa": "بیش‌ازحد فشار می‌آورد، درحالی‌که معلم روندِ منطقی پیشنهاد داد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Ik zie dat hij veel moeite heeft om zich te concentreren, brengt hij thuis veel tijd door achter een scherm?»  Ouder: «___»  Welk antwoord geeft de meest eerlijke en bruikbare informatie?",
+    "question_text_fa": "کدام پاسخ اطلاعاتِ صادقانه و مفیدتری می‌دهد؟",
+    "explanation_fa": "بهترین پاسخ، اطلاعاتِ صادقانه درباره‌ی زمانِ استفاده از صفحه‌نمایش است.",
+    "grammar_rule_fa": "پاسخِ صادقانه: «Eerlijk gezegd wel, ongeveer …»",
+    "extra_example_nl": "Eerlijk gezegd wel, ongeveer twee uur per dag.",
+    "extra_example_fa": "راستش را بخواهید بله، تقریباً دو ساعت در روز.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, dat nooit, hij kijkt zelden naar een scherm.",
+        "is_correct": false,
+        "feedback_fa": "اگر واقعیت نباشد، از یافتنِ راه‌حلِ واقعی جلوگیری می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat gaat u niets aan.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و غیرسازنده است، درحالی‌که معلم سعی در کمک دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Schermtijd heeft niets met concentratie te maken.",
+        "is_correct": false,
+        "feedback_fa": "نگرانیِ منطقیِ معلم را بدون دلیل رد می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Eerlijk gezegd wel, ongeveer twee uur per dag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صادقانه و اطلاعاتِ مفید."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ouder: «Omdat wij thuis geen Nederlands spreken, heeft mijn zoon soms moeite met woordenschat.»  Leraar: «Dat begrijp ik, we hebben een taalprogramma dat daarbij kan helpen.»  Wat is een goede reactie van de ouder?",
+    "question_text_fa": "کدام واکنشِ والد مناسب است؟",
+    "explanation_fa": "پرسیدنِ جزئیاتِ بیشتر درباره‌ی برنامه‌ی زبانی، واکنشِ منطقی و مثبت است.",
+    "grammar_rule_fa": "سؤالِ عملی: «Hoe kunnen we daar thuis ook bij helpen?»",
+    "extra_example_nl": "Hoe kunnen we hem thuis ook helpen met zijn Nederlands?",
+    "extra_example_fa": "چطور می‌توانیم در خانه هم به هلندی‌اش کمک کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe kunnen we hem thuis ook helpen met zijn Nederlands?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سازنده و مرتبط."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nederlands is toch niet zo belangrijk voor ons.",
+        "is_correct": false,
+        "feedback_fa": "با نگرانیِ اولیه‌ی خودش درباره‌ی واژگان در تضاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is de taak van de school, niet de onze.",
+        "is_correct": false,
+        "feedback_fa": "مسئولیت را کاملاً به مدرسه واگذار می‌کند به‌جای همکاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil er niet over praten.",
+        "is_correct": false,
+        "feedback_fa": "از موضوعی که خودش مطرح کرده بود فرار می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Volgend jaar gaat uw dochter naar groep acht, de overgang naar de middelbare school begint dan.»  Ouder: «___»  Welke vraag toont de meeste betrokkenheid?",
+    "question_text_fa": "کدام سؤال بیشترین توجه را نشان می‌دهد؟",
+    "explanation_fa": "پرسیدنِ نحوه‌ی آمادگیِ فرزند برای این انتقال، نشانِ توجهِ واقعی است.",
+    "grammar_rule_fa": "سؤالِ آمادگی: «Hoe kunnen we haar daarop voorbereiden?»",
+    "extra_example_nl": "Hoe kunnen we haar het beste voorbereiden op de middelbare school?",
+    "extra_example_fa": "چطور بهتر است او را برای دبیرستان آماده کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is toch de taak van de leraar alleen.",
+        "is_correct": false,
+        "feedback_fa": "مسئولیتِ مشترک را نادیده می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe kunnen we haar het beste voorbereiden op deze overgang?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نشانِ توجهِ واقعی به آینده‌ی فرزند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Middelbare school is nog ver weg, het maakt niet uit.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد نسبت به موضوعِ مهمِ آینده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil er nu nog niet over nadenken.",
+        "is_correct": false,
+        "feedback_fa": "از موضوعِ مهمی که معلم مطرح کرده فرار می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Het pesten dat u had gemeld, is besproken met de betrokken kinderen en we houden het goed in de gaten.»  Ouder: «Bedankt voor de snelle actie, kunt u ons over twee weken laten weten hoe het gaat?»  Wat vraagt de ouder?",
+    "question_text_fa": "والد چه چیزی درخواست می‌کند؟",
+    "explanation_fa": "او درخواست می‌کند بعد از دو هفته درباره‌ی وضعیت به‌روزرسانی داده شود.",
+    "grammar_rule_fa": "درخواستِ پیگیریِ زمان‌بندی‌شده: «Kunt u ons over twee weken laten weten …?»",
+    "extra_example_nl": "Kunt u ons over een maand laten weten of het is opgelost?",
+    "extra_example_fa": "می‌شود یک ماه دیگر به ما بگویید که آیا حل شده؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat zijn dochter van school verandert.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat de andere kinderen gestraft worden.",
+        "is_correct": false,
+        "feedback_fa": "او فقط پیگیریِ نتیجه می‌خواهد، نه تنبیهِ مشخص."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een update over de situatie na een bepaalde periode.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat het pesten helemaal wordt genegeerd.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او پیگیری می‌خواهد، نه نادیده گرفتن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Uw zoon is heel goed in wiskunde, misschien zelfs boven zijn niveau.»  Ouder: «Zou hij extra opdrachten kunnen krijgen om uitgedaagd te blijven?»  Wat stelt de ouder voor?",
+    "question_text_fa": "والد چه پیشنهادی می‌دهد؟",
+    "explanation_fa": "او پیشنهاد می‌دهد تکالیفِ اضافه‌تری به فرزندش داده شود تا چالش داشته باشد.",
+    "grammar_rule_fa": "پیشنهادِ منطقی: «Zou hij … kunnen krijgen?»",
+    "extra_example_nl": "Zou hij extra moeilijke opdrachten kunnen krijgen?",
+    "extra_example_fa": "می‌شود تکالیفِ سخت‌تری به او داد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Minder wiskundeles voor zijn zoon.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او می‌خواهد چالشِ بیشتری باشد، نه کمتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat zijn zoon een klas overslaat.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat de wiskundetoets makkelijker wordt.",
+        "is_correct": false,
+        "feedback_fa": "برعکسِ خواسته‌ی اوست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Extra uitdagend werk voor zijn zoon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین پیشنهاد را می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ouder: «Mijn dochter is heel gespannen voor toetsen, ze slaapt er zelfs slecht van.»  Leraar: «Dat is goed om te weten, we kunnen samen kijken naar manieren om die spanning te verminderen.»  Wat toont de reactie van de leraar?",
+    "question_text_fa": "واکنشِ معلم چه چیزی نشان می‌دهد؟",
+    "explanation_fa": "معلم نگرانی را جدی می‌گیرد و همکاری برای یافتنِ راه‌حل پیشنهاد می‌دهد.",
+    "grammar_rule_fa": "پیشنهادِ همکاری: «We kunnen samen kijken naar …»",
+    "extra_example_nl": "We kunnen samen kijken naar een oplossing die voor haar werkt.",
+    "extra_example_fa": "بیا با هم دنبال راه‌حلی بگردیم که برای او مناسب باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een serieuze, samenwerkingsgerichte houding.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نگرش را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Onverschilligheid over de spanning van het kind.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او آن را جدی می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Twijfel of het probleem echt bestaat.",
+        "is_correct": false,
+        "feedback_fa": "چنین شکی در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Weigering om te helpen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او پیشنهادِ کمک می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Hij werkt goed samen in groepjes, maar neemt zelden zelf het initiatief.»  Ouder: «___»  Welke reactie is het meest bruikbaar voor het gesprek?",
+    "question_text_fa": "کدام واکنش برای پیشبردِ گفتگو مفیدتر است؟",
+    "explanation_fa": "پرسیدنِ راه‌های تشویق به ابتکارِ بیشتر، واکنشِ مفیدتری است.",
+    "grammar_rule_fa": "درخواستِ راهکار: «Hoe kunnen we hem stimuleren om …?»",
+    "extra_example_nl": "Hoe kunnen we hem stimuleren om vaker zelf initiatief te nemen?",
+    "extra_example_fa": "چطور می‌توانیم او را تشویق کنیم که بیشتر خودش ابتکار عمل داشته باشد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is normaal voor jongens.",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ نادرست است و به گفتگوی سازنده کمک نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe kunnen we hem stimuleren om vaker zelf initiatief te nemen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ سازنده و عملی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Initiatief nemen is niet zo belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "نکته‌ی مطرح‌شده توسط معلم را بی‌اهمیت جلوه می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij is thuis ook altijd stil.",
+        "is_correct": false,
+        "feedback_fa": "اطلاعاتِ اضافه می‌دهد اما به سؤالِ عملیِ بعدی نمی‌رسد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Zijn rapport is over het algemeen goed, alleen Engels kan wat meer aandacht gebruiken.»  Ouder: «___»  Welke reactie sluit het beste aan?",
+    "question_text_fa": "کدام واکنش بهترین تطابق را دارد؟",
+    "explanation_fa": "تشکر برای گزارشِ کلی و پرسیدنِ راهکار برای انگلیسی، واکنشِ متعادل و مناسب است.",
+    "grammar_rule_fa": "واکنشِ متعادل: «Fijn om te horen, en hoe kunnen we Engels verbeteren?»",
+    "extra_example_nl": "Fijn om te horen, en hoe kunnen we het Engels verbeteren?",
+    "extra_example_fa": "خوشحال‌کننده است، و چطور می‌توانیم انگلیسی‌اش را بهتر کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het hele rapport is waardeloos.",
+        "is_correct": false,
+        "feedback_fa": "با گزارشِ کلیِ مثبتِ معلم در تضاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb geen tijd om dit te bespreken.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد در یک لحظه‌ی مهمِ گفتگو."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijn om te horen, en hoe kunnen we het Engels verbeteren?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متعادل، مثبت و عملی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Engels is toch niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "توصیه‌ی معلم را بدون دلیل رد می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Uw zoon voetbalt bij de schoolcompetitie, hij is echt een aanwinst voor het team.»  Ouder: «Wat leuk om te horen, hij geniet er ook echt van thuis.»  Wat drukt de ouder uit?",
+    "question_text_fa": "والد چه چیزی را بیان می‌کند؟",
+    "explanation_fa": "او خوشحالی و تأییدِ خودِ فرزند از تجربه‌ی مثبتِ او را بیان می‌کند.",
+    "grammar_rule_fa": "بیانِ خوشحالی: «Wat leuk om te horen!»",
+    "extra_example_nl": "Wat leuk om te horen, dat doet me goed.",
+    "extra_example_fa": "چقدر خوشحال‌کننده، این خوشحالم می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zorgen over te veel sport.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او خوشحالی نشان می‌دهد، نه نگرانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Twijfel of het waar is.",
+        "is_correct": false,
+        "feedback_fa": "چنین شکی در متن نیامده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Onverschilligheid over voetbal.",
+        "is_correct": false,
+        "feedback_fa": "او علاقه‌ی روشنی نشان می‌دهد، بی‌تفاوت نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Blijdschap en bevestiging van het enthousiasme van het kind.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین احساس را بیان می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ouder: «Ik wil graag vaker updates krijgen, niet alleen bij de rapportgesprekken.»  Leraar: «Dat kan, zullen we een kort bericht per e-mail afspreken, elke maand?»  Wat wordt hier afgesproken?",
+    "question_text_fa": "در اینجا چه توافقی صورت می‌گیرد؟",
+    "explanation_fa": "توافق می‌شود که ماهانه یک پیامِ کوتاهِ ایمیلی برای به‌روزرسانی فرستاده شود.",
+    "grammar_rule_fa": "پیشنهادِ روتین: «zullen we … afspreken?»",
+    "extra_example_nl": "Zullen we een vast moment per maand afspreken voor een update?",
+    "extra_example_fa": "بیا یک زمانِ ثابت در ماه برای به‌روزرسانی تعیین کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een maandelijkse korte update per e-mail.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین توافق را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er komt geen enkele extra communicatie.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ توافق بر ارتباطِ بیشتر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een dagelijks telefoongesprek.",
+        "is_correct": false,
+        "feedback_fa": "در متن «elke maand» گفته شده، نه روزانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het kind moet elke week een test maken.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ توافق‌شده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Er was gisteren een incident, uw dochter heeft een klasgenoot geduwd tijdens de pauze.»  Ouder: «Dat verbaast me, mag ik weten wat daaraan voorafging?»  Wat vraagt de ouder?",
+    "question_text_fa": "والد چه چیزی می‌پرسد؟",
+    "explanation_fa": "او می‌خواهد کل زمینه و علتِ حادثه را بفهمد، نه فقط نتیجه‌ی آن.",
+    "grammar_rule_fa": "درخواستِ زمینه: «Mag ik weten wat daaraan voorafging?»",
+    "extra_example_nl": "Mag ik weten wat er precies aan voorafging?",
+    "extra_example_fa": "می‌شود بدانم دقیقاً قبل از آن چه اتفاقی افتاد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer de volgende pauze is.",
+        "is_correct": false,
+        "feedback_fa": "کاملاً بی‌ربط به موضوعِ گفتگو است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De context en aanleiding van het incident.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Of zijn dochter gestraft wordt.",
+        "is_correct": false,
+        "feedback_fa": "چنین سؤالی مطرح نشد؛ او به دنبالِ زمینه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wie de klasgenoot is.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ اصلیِ او درباره‌ی زمینه است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Uw zoon heeft de laatste maand elke keer zijn huiswerk op tijd ingeleverd.»  Ouder: «Dat is echt een vooruitgang, wat heeft daarbij geholpen, denkt u?»  Wat probeert de ouder te begrijpen?",
+    "question_text_fa": "والد سعی می‌کند چه چیزی را بفهمد؟",
+    "explanation_fa": "او می‌خواهد دلیلِ این پیشرفتِ اخیر را بفهمد تا بتواند آن را ادامه دهد.",
+    "grammar_rule_fa": "سؤالِ علت: «Wat heeft daarbij geholpen?»",
+    "extra_example_nl": "Wat heeft er precies geholpen bij die verbetering?",
+    "extra_example_fa": "دقیقاً چه چیزی به این پیشرفت کمک کرده؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Of het huiswerk te makkelijk is.",
+        "is_correct": false,
+        "feedback_fa": "چنین سؤالی مطرح نشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel huiswerk andere kinderen krijgen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ اصلیِ او است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De oorzaak van de recente vooruitgang.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌خواهد بفهمد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer de volgende vakantie begint.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ گفتگو است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ouder: «Wij zijn onlangs verhuisd, mijn zoon lijkt daardoor wat onrustiger op school.»  Leraar: «Bedankt dat u dat vertelt, dat helpt me zijn gedrag beter te begrijpen.»  Waarom deelt de ouder deze informatie?",
+    "question_text_fa": "چرا والد این اطلاعات را به اشتراک می‌گذارد؟",
+    "explanation_fa": "او می‌خواهد معلم زمینه‌ی رفتارِ اخیرِ فرزندش را بفهمد.",
+    "grammar_rule_fa": "دادنِ زمینه: «Wij zijn onlangs verhuisd, mijn zoon lijkt daardoor …»",
+    "extra_example_nl": "We hebben thuis wat veranderingen gehad, dat kan invloed hebben.",
+    "extra_example_fa": "در خانه چند تغییر داشتیم، ممکن است تأثیر گذاشته باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om over het huis zelf te praten.",
+        "is_correct": false,
+        "feedback_fa": "هدفِ اصلی، توضیحِ رفتارِ فرزند است، نه صحبت درباره‌ی خانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om de leraar te bekritiseren.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او همکاری‌جویانه است، نه انتقادی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om een excuus te hebben voor slechte cijfers.",
+        "is_correct": false,
+        "feedback_fa": "موضوع درباره‌ی نمرات نیست، بلکه رفتار است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om de leraar context te geven over recent gedrag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین هدف را دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Al met al ben ik erg tevreden over de ontwikkeling van uw dochter dit jaar.»  Ouder: «___»  Welke afsluitende reactie past het beste?",
+    "question_text_fa": "کدام واکنشِ پایانی بهترین است؟",
+    "explanation_fa": "تشکر صمیمانه از معلم برای همراهی و توجه، پایانِ مناسب است.",
+    "grammar_rule_fa": "تشکرِ پایانی: «Dank u wel voor alle aandacht en begeleiding.»",
+    "extra_example_nl": "Dank u wel voor alle aandacht en begeleiding dit jaar.",
+    "extra_example_fa": "ممنون بابت تمامِ توجه و راهنمایی‌تان امسال.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel voor alle aandacht en begeleiding dit jaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تشکرِ صمیمانه و مناسب."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat had wel beter gekund.",
+        "is_correct": false,
+        "feedback_fa": "با گزارشِ مثبتِ معلم در تضاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik geloof het pas als ik het rapport zie.",
+        "is_correct": false,
+        "feedback_fa": "بی‌اعتمادیِ غیرضروری به خبرِ خوب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het maakt me eigenlijk niet zo veel uit.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد در یک لحظه‌ی مثبتِ گفتگو."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Uw zoon komt regelmatig te laat op de eerste les.»  Ouder: «Sorry daarvoor, we zullen de ochtendroutine aanpassen.»  Wat belooft de ouder?",
+    "question_text_fa": "والد چه چیزی قول می‌دهد؟",
+    "explanation_fa": "او قول می‌دهد که برنامه‌ی صبحگاهی را تغییر می‌دهند تا دیرکرد رفع شود.",
+    "grammar_rule_fa": "قول با «we zullen …»",
+    "extra_example_nl": "We zullen ervoor zorgen dat hij op tijd vertrekt.",
+    "extra_example_fa": "مطمئن می‌شویم که او به‌موقع خانه را ترک کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat ze de leraar de schuld geven.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او مسئولیت را می‌پذیرد و عذرخواهی می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat ze thuis iets veranderen om op tijd te komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین قول را می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat hun zoon nooit meer naar school hoeft.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ برعکس، او مسئله را جدی می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat de school later moet beginnen.",
+        "is_correct": false,
+        "feedback_fa": "چنین درخواستی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «We willen graag dat u het huiswerkschema thuis ook bijhoudt, samen met de leerling.»  Ouder: «Dat is een goed idee, kunt u een voorbeeld van zo'n schema sturen?»  Wat vraagt de ouder?",
+    "question_text_fa": "والد چه چیزی درخواست می‌کند؟",
+    "explanation_fa": "او درخواست می‌کند نمونه‌ای از برنامه‌ی تکالیف برایش فرستاده شود.",
+    "grammar_rule_fa": "درخواستِ مثال: «Kunt u een voorbeeld sturen?»",
+    "extra_example_nl": "Kunt u een voorbeeld van het schema per e-mail sturen?",
+    "extra_example_fa": "می‌شود نمونه‌ی برنامه را با ایمیل بفرستید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een gesprek met de directeur.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به درخواستِ او است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat het huiswerk helemaal wordt afgeschaft.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او با ایده‌ی معلم موافق است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een voorbeeld van het huiswerkschema.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را درخواست می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Minder huiswerk voor haar dochter.",
+        "is_correct": false,
+        "feedback_fa": "چنین درخواستی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Uw dochter is heel creatief, maar heeft moeite om zich aan de opdracht te houden.»  Ouder: «___»  Welke reactie toont het beste begrip voor beide kanten?",
+    "question_text_fa": "کدام واکنش هر دو جنبه را بهتر درک می‌کند؟",
+    "explanation_fa": "بهترین واکنش، قدردانی از خلاقیت همراه با پرسیدنِ راهکار برای پایبندی به تکلیف است.",
+    "grammar_rule_fa": "واکنشِ متعادل: «Dat is mooi, en hoe kunnen we haar helpen om …?»",
+    "extra_example_nl": "Dat is mooi om te horen, en hoe kunnen we haar helpen zich beter aan de opdracht te houden?",
+    "extra_example_fa": "این خوب است، و چطور می‌توانیم کمکش کنیم بیشتر به تکلیف پایبند باشد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Creativiteit is toch belangrijker dan opdrachten volgen.",
+        "is_correct": false,
+        "feedback_fa": "نگرانیِ معلم را بدون بررسی رد می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ze moet gewoon harder haar best doen.",
+        "is_correct": false,
+        "feedback_fa": "ساده‌انگارانه است و به دنبالِ راه‌حلِ عملی نمی‌گردد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat interesseert me niet zo.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد، درحالی‌که موضوع مهم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is mooi om te horen, en hoe kunnen we haar helpen zich beter aan de opdracht te houden?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متعادل و سازنده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ouder: «Ik heb gehoord dat er een oudercommissie is, hoe kan ik daarbij helpen?»  Leraar: «Wat fijn dat u wilt meedenken, ik geef uw naam door aan de coördinator.»  Wat probeert de ouder te doen?",
+    "question_text_fa": "والد سعی می‌کند چه کار کند؟",
+    "explanation_fa": "او می‌خواهد فعالانه در فعالیت‌های مدرسه مشارکت کند.",
+    "grammar_rule_fa": "ابرازِ تمایل به همکاری: «Hoe kan ik daarbij helpen?»",
+    "extra_example_nl": "Hoe kan ik meehelpen bij activiteiten op school?",
+    "extra_example_fa": "چطور می‌توانم در فعالیت‌های مدرسه کمک کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zich actief inzetten voor de school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Klagen over de oudercommissie.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او با علاقه می‌پرسد، شکایت نمی‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "De oudercommissie laten opheffen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zijn kind uit de commissie halen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ مطرح‌شده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "parent_teacher_meeting",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leraar: «Soms lijkt uw zoon wat verdrietig in de klas, weet u of er thuis iets speelt?»  Ouder: «Dat is goed dat u het opmerkt, we hebben het inderdaad wat moeilijk gehad thuis.»  Wat doet de ouder in deze reactie?",
+    "question_text_fa": "والد در این واکنش چه کار می‌کند؟",
+    "explanation_fa": "او صادقانه تأیید می‌کند که در خانه دوره‌ی سختی داشته‌اند، بدون جزئیاتِ غیرضروری.",
+    "grammar_rule_fa": "پذیرفتنِ صادقانه: «Dat is goed dat u het opmerkt, we hebben …»",
+    "extra_example_nl": "Dat is goed dat u het opmerkt, we hebben het thuis inderdaad zwaar gehad.",
+    "extra_example_fa": "خوب است که متوجه شدید، ما واقعاً در خانه دورانِ سختی داشتیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het gesprek meteen beëindigen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او به گفتگو ادامه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Eerlijk bevestigen dat er thuis iets speelt, zonder te veel details.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alles ontkennen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او تأیید می‌کند، نه انکار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Boos worden op de leraar.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و قدردان است، نه عصبانی."
+      }
+    ]
+  }
+]

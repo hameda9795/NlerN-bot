@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Medewerker klantenservice: Goedemiddag, met de klantenservice van energiebedrijf Vattenval. Waarmee kan ik u helpen?\nBeller: Goedemiddag, ik bel omdat ik een vraag heb over mijn laatste rekening.\nMedewerker klantenservice: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه از مکالمه بهترین است؟",
+    "explanation_fa": "در این لحظه از تماس رسمی، کارمند باید مؤدبانه بپرسد که مشتری چه نوع کمکی نیاز دارد، با استفاده از فعل زمان حال و ضمیر رسمی «u». گزینه A دقیقاً این کار را انجام می‌دهد.",
+    "grammar_rule_fa": "در تماس‌های رسمی از ساختار مؤدبانه «Zou u... kunnen vertellen?» یا سؤال مستقیم با «u» در زمان حال استفاده می‌شود، مثل «Kunt u mij vertellen...»",
+    "extra_example_nl": "Kunt u mij vertellen om welke rekening het precies gaat?",
+    "extra_example_fa": "می‌توانید به من بگویید دقیقاً درباره‌ی کدام صورت‌حساب صحبت می‌کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Natuurlijk, kon u mij vertellen om welke rekening het ging?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: در این موقعیت باید زمان حال استفاده شود («kunt», «gaat»)، نه گذشته («kon», «ging»)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vertel me eerst maar welke rekening je bedoelt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله گزینه‌ی امری و غیررسمی است، به‌جای درخواست مؤدبانه با «u»؛ همچنین «je» به‌جای «u» استفاده شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Helaas kunnen wij u daarover geen informatie geven.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: کارمند خدمات مشتری باید کمک کند، نه این‌که کمک را رد کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Natuurlijk, kunt u mij vertellen om welke rekening het gaat, dan zoek ik het voor u op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند مؤدبانه و با «u» رسمی درخواست اطلاعات بیشتر می‌کند تا بتواند کمک کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ambtenaar gemeente: Goedemorgen, gemeente Utrecht, afdeling Burgerzaken.\nBeller: Goedemorgen, ik wil graag een afspraak maken voor het verlengen van mijn paspoort.\nAmbtenaar gemeente: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند شهرداری باید با فعل زمان حال و به‌صورت مؤدبانه بپرسد که چه روزی برای مراجعه‌کننده مناسب است. گزینه C این را با فرم رسمی و درست بیان می‌کند.",
+    "grammar_rule_fa": "برای پیشنهاد وقت ملاقات در مکالمه‌ی رسمی از فعل کمکی «kunnen» همراه با «u» استفاده می‌شود: «Wanneer zou het u het beste uitkomen?»",
+    "extra_example_nl": "Zou volgende week dinsdag u schikken voor een afspraak?",
+    "extra_example_fa": "آیا سه‌شنبه‌ی هفته‌ی آینده برای قرار ملاقات برایتان مناسب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kom morgen maar gewoon langs, dan zien we wel.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌رسمیت است؛ در تماس رسمی باید پیشنهاد مؤدبانه برای وقت ملاقات داده شود، نه دستور تصادفی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat kon helaas niet, het paspoort is al verlopen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی اشتباهی را نشان می‌دهد: در متن گفتگو چیزی درباره‌ی منقضی‌شدن پاسپورت گفته نشده، این نتیجه‌گیری نادرست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Natuurlijk, welke dag komt het u het beste uit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پرسش مؤدبانه با «u» و زمان حال، دقیقاً مناسب این مرحله از گفتگوی رسمی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Natuurlijk, welke dag kwam jou het beste uit?",
+        "is_correct": false,
+        "feedback_fa": "❌ اینجا باید از «u» رسمی استفاده شود، نه «jou»؛ همچنین زمان فعل باید حال باشد، نه گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Beller: Goedendag, ik bel met de tandartspraktijk. Ik zou graag mijn afspraak van morgen willen verzetten.\nMedewerker: Dat is geen probleem. ___\nMedewerker: Dan plannen we de afspraak in voor volgende week donderdag om tien uur.",
+    "question_text_fa": "کدام جمله بین این دو خط از کارمند بهترین است؟",
+    "explanation_fa": "کارمند باید مؤدبانه بپرسد که کدام روز جدید برای بیمار مناسب است، پیش از پیشنهاد وقت جدید. گزینه B دقیقاً این سؤال را با زمان حال و شکل رسمی می‌پرسد.",
+    "grammar_rule_fa": "سؤال مؤدبانه درباره‌ی ترجیح با ساختار «Wat zou u...» یا «Welke dag schikt u beter?» بیان می‌شود، نه با امر مستقیم.",
+    "extra_example_nl": "Welke dag schikt u beter, dinsdag of donderdag?",
+    "extra_example_fa": "کدام روز برایتان بهتر است، سه‌شنبه یا پنج‌شنبه؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bel morgen zelf maar terug als u een nieuwe datum weet.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌ادبانه است، در حالی که کارمند باید خودش با ادب پیگیری کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Welke dag zou voor u beter uitkomen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این پرسش مؤدبانه دقیقاً پیش از پیشنهاد وقت جدید قرار می‌گیرد و از فرم رسمی «u» استفاده می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Welke dag kwam voor u beter uit?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید از زمان حال «uitkomen» استفاده شود، نه گذشته «kwam uit»."
+      },
+      {
+        "key": "D",
+        "text_nl": "We annuleren de afspraak dan helemaal.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: هدف تماس جابه‌جایی افسپراک است، نه لغو کامل آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Medewerker bank: Goedemiddag, met ING klantenservice, u spreekt met Sanne.\nBeller: Goedemiddag, mijn bankpas doet het niet meer, ik kan geen geld pinnen.\nMedewerker bank: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند بانک باید مؤدبانه درخواست کند که مشتری اطلاعات بیشتری (مانند شماره حساب) ارائه دهد تا بتواند مشکل را بررسی کند. گزینه D این درخواست را به‌درستی و با فعل مناسب بیان می‌کند.",
+    "grammar_rule_fa": "برای درخواست مؤدبانه‌ی اطلاعات در تماس رسمی از فعل «kunnen» استفاده می‌شود: «Kunt u mij uw rekeningnummer geven?»، نه فعل نادرست مانند «vertellen» به‌جای «geven» وقتی منظور دادن شماره است.",
+    "extra_example_nl": "Kunt u mij uw klantnummer geven, zodat ik uw gegevens kan controleren?",
+    "extra_example_fa": "می‌توانید شماره مشتری‌تان را به من بدهید تا اطلاعاتتان را بررسی کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vervel me niet met dit soort problemen, bel de winkel maar.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بسیار بی‌ادبانه است و اصلاً در تماس رسمی بانکی مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat vind ik vervelend om te horen. Kunt u mij uw rekeningnummer doorgeven, zodat ik het voor u kan bekijken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند با همدلی و درخواست مؤدبانه‌ی اطلاعات لازم، به‌درستی به مشکل مشتری واکنش نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat vond ik vervelend om te horen. Kon u mij uw rekeningnummer doorgeven?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: در این موقعیت باید زمان حال به‌کار رود («vind», «kunt»)، نه گذشته («vond», «kon»)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geef me nu meteen je rekeningnummer door.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری است و از ضمیر غیررسمی «je» استفاده می‌کند، در حالی که باید درخواست مؤدبانه با «u» باشد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Beller: Goedemiddag, ik bel over mijn sollicitatie van vorige week. Ik wilde vragen of er al een beslissing is genomen.\nMedewerker HR: ___\nBeller: Oké, dank u wel, dan wacht ik dat rustig af.",
+    "question_text_fa": "کدام جمله از کارمند منابع انسانی مناسب‌ترین است؟",
+    "explanation_fa": "کارمند باید مؤدبانه توضیح دهد که هنوز تصمیمی گرفته نشده و کِی خبر می‌دهند، با استفاده از زمان درست. گزینه A این را دقیق و مؤدبانه بیان می‌کند.",
+    "grammar_rule_fa": "برای بیان وضعیت فعلی یک فرایند از زمان حال استفاده می‌شود: «We zijn nog in gesprek met andere kandidaten» نه زمان گذشته.",
+    "extra_example_nl": "We nemen uiterlijk volgende week contact met u op.",
+    "extra_example_fa": "حداکثر تا هفته‌ی آینده با شما تماس می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We waren nog in gesprek met andere kandidaten.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: وضعیت هنوز ادامه دارد، پس باید زمان حال «zijn» استفاده شود، نه گذشته «waren»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wacht maar rustig af tot je iets van ons hoort.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و غیررسمی است («wacht», «je») به‌جای پاسخ مؤدبانه با «u»."
+      },
+      {
+        "key": "C",
+        "text_nl": "U bent helaas afgewezen voor deze functie.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی را نشان می‌دهد: در ادامه‌ی گفتگو، تماس‌گیرنده می‌گوید که منتظر می‌ماند، پس هنوز تصمیمی اعلام نشده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "We zijn nog in gesprek met andere kandidaten, maar u hoort uiterlijk volgende week van ons.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله وضعیت واقعی فرایند را با زمان حال و لحن مؤدبانه توضیح می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Medewerker verzekering: Goedemiddag, met de schadeafdeling van Achmea.\nBeller: Goedemiddag, ik bel om een schade aan mijn auto te melden.\nMedewerker verzekering: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند بیمه باید مؤدبانه از تماس‌گیرنده بخواهد جزئیات حادثه را توضیح دهد، با فعل درست «vertellen». گزینه B این را به‌درستی انجام می‌دهد.",
+    "grammar_rule_fa": "برای درخواست توضیح در تماس رسمی از فعل «kunnen vertellen» استفاده می‌شود، نه فعل نامناسب مانند «zeggen» به تنهایی که کمی مستقیم و کمتر رسمی است.",
+    "extra_example_nl": "Kunt u mij vertellen wanneer en waar het ongeluk is gebeurd?",
+    "extra_example_fa": "می‌توانید به من بگویید حادثه کِی و کجا اتفاق افتاده است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vertel eens snel wat er precies is gebeurd.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری است، در حالی که باید یک درخواست مؤدبانه‌ی رسمی باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vervelend om te horen. Kunt u mij vertellen wat er precies is gebeurd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند با همدلی و درخواست مؤدبانه با «kunt u», اطلاعات لازم را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vervelend om te horen. Kon u mij vertellen wat er precies gebeurde?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: در این لحظه از تماس باید زمان حال به‌کار رود، نه گذشته «kon» و «gebeurde»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Helaas kunnen we geen schades meer in behandeling nemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: بخش خسارت باید به گزارش خسارت رسیدگی کند، نه آن را رد کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Beller: Goedemorgen, met Karim Rezaï. Ik zou graag een afspraak willen maken met mijn leidinggevende om mijn contract te bespreken.\nSecretaresse: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله از منشی بهترین پاسخ است؟",
+    "explanation_fa": "منشی باید مؤدبانه بپرسد که چه زمانی برای تماس‌گیرنده مناسب است تا آن را در تقویم بررسی کند. گزینه C این را با زمان حال و شکل رسمی انجام می‌دهد.",
+    "grammar_rule_fa": "برای پرسیدن زمان مناسب در تماس رسمی از فعل کمکی «zou» یا سؤال مستقیم با «u» در زمان حال استفاده می‌شود: «Wat komt u het beste uit?»",
+    "extra_example_nl": "Ik kijk even in de agenda welke dag hij vrij heeft.",
+    "extra_example_fa": "الان در تقویم نگاه می‌کنم که چه روزی وقت خالی دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ging even kijken. Wat kwam u het beste uit, deze of volgende week?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این کار همین الان انجام می‌شود، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kom morgen gewoon binnenlopen, dan zien we het wel.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری است، در حالی که یک ملاقات رسمی نیاز به قرار از پیش تعیین‌شده دارد، نه سرزده آمدن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Helaas heeft hij geen tijd deze maand voor gesprekken.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی می‌دهد: چیزی درباره‌ی نبود وقت در متن گفته نشده و این فرض اشتباه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ga even kijken. Wat zou u het beste uitkomen, deze of volgende week?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: منشی مؤدبانه و با زمان حال درباره‌ی ترجیح زمانی سؤال می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Voicemail: U spreekt met het antwoordapparaat van notariskantoor Jansen en De Vries. Wij zijn momenteel niet bereikbaar.\nBeller: Goedemiddag, met Yasmin Ahmadi. Ik bel over de afspraak van volgende week dinsdag. ___\nWelke afsluiting van het bericht past hier het beste?",
+    "question_text_fa": "کدام جمله بهترین پایان برای این پیغام صوتی رسمی است؟",
+    "explanation_fa": "در پیغام صوتی رسمی، تماس‌گیرنده باید مؤدبانه درخواست تماس مجدد کند و شماره تماس خود را بگذارد. گزینه A دقیقاً این ساختار مؤدبانه را دارد.",
+    "grammar_rule_fa": "در پایان یک پیغام صوتی رسمی از عبارت مؤدبانه «Zou u mij terug kunnen bellen?» یا «Graag hoor ik van u» استفاده می‌شود.",
+    "extra_example_nl": "Zou u mij terug kunnen bellen op nummer 06 1234 5678?",
+    "extra_example_fa": "می‌شود لطفاً با شماره‌ی ۰۶ ۱۲۳۴ ۵۶۷۸ با من تماس بگیرید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zou u mij terug kunnen bellen? Ik annuleer de afspraak van dinsdag.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی نشان می‌دهد: هدف پیام تأیید افسپراک است، نه لغو آن؛ این نتیجه با متن هم‌خوانی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "U belt mij terug op nummer 06 2233 4455.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌جای درخواست مؤدبانه، به‌صورت دستوری بیان شده («u belt» به‌جای سؤال با «zou u kunnen»)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zou u mij terug kunnen bellen om de afspraak te bevestigen? Mijn nummer is 06 2233 4455.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این درخواست مؤدبانه برای تماس مجدد، همراه با دلیل و شماره تماس، مناسب پیغام صوتی رسمی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bel me gewoon terug wanneer het uitkomt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بسیار غیررسمی است، در حالی که پیغام صوتی برای یک دفتر اسناد رسمی باید مؤدبانه‌تر باشد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Medewerker gemeente: Met de gemeente Rotterdam, afdeling Vergunningen.\nBeller: Goedemorgen, ik bel om te vragen of mijn aanvraag voor een parkeervergunning al is verwerkt.\nMedewerker gemeente: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه بگوید که بررسی می‌کند و از تماس‌گیرنده اطلاعات لازم (مانند شماره‌ی درخواست) را بخواهد. گزینه C این کار را با فعل درست و زمان حال انجام می‌دهد.",
+    "grammar_rule_fa": "برای بیان کاری که همین الان انجام می‌شود از زمان حال استفاده می‌شود: «Ik zoek het even voor u op», نه زمان گذشته.",
+    "extra_example_nl": "Heeft u toevallig uw aanvraagnummer bij de hand?",
+    "extra_example_fa": "آیا اتفاقاً شماره‌ی درخواستتان را در دسترس دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat zocht ik net voor u op, één moment.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این کار همین الان انجام می‌شود، پس باید زمان حال «zoek» به‌کار رود، نه گذشته «zocht»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zoek dat zelf maar op via de website.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌ادبانه است؛ کارمند باید خودش کمک کند، نه مسئولیت را به تماس‌گیرنده واگذار کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik zoek dat graag voor u op. Heeft u uw aanvraagnummer bij de hand?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند مؤدبانه پیشنهاد بررسی می‌دهد و با زمان حال اطلاعات لازم را می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Uw aanvraag is helaas afgewezen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی است: در متن گفتگو هنوز چیزی درباره‌ی رد یا تأیید درخواست بیان نشده."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Beller: Goedemiddag, ik bel met de klantenservice van de zorgverzekeraar. Ik heb een vraag over de vergoeding van mijn fysiotherapie.\nMedewerker: ___\nBeller: Dank u, dat is heel duidelijk.",
+    "question_text_fa": "کدام جمله از کارمند بیمه‌ی درمانی مناسب‌ترین است؟",
+    "explanation_fa": "کارمند باید مؤدبانه و با زمان حال توضیح دهد که پوشش بیمه چگونه است، دقیقاً همان‌طور که در گزینه A بیان شده است.",
+    "grammar_rule_fa": "برای توضیح یک قانون یا وضعیت کلی در زمینه‌ی رسمی، زمان حال ساده به‌کار می‌رود: «Uw verzekering vergoedt negen behandelingen per jaar.»",
+    "extra_example_nl": "Uw aanvullende verzekering vergoedt in totaal twaalf behandelingen per jaar.",
+    "extra_example_fa": "بیمه‌ی تکمیلی شما در مجموع دوازده جلسه‌ی درمان در سال را پوشش می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Uw aanvullende verzekering betaalt negen behandelingen fysiotherapie per jaar terug.",
+        "is_correct": false,
+        "feedback_fa": "❌ در این زمینه‌ی رسمی بیمه، فعل درست «vergoeden» است؛ «terugbetalen» معمولاً برای بازپرداخت مستقیم پول به‌کار می‌رود و در این متن فعل نامناسبی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Uw aanvullende verzekering vergoedt helaas geen fysiotherapie.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: در واقع بیمه هزینه را پوشش می‌دهد، نه این‌که آن را رد کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Uw aanvullende verzekering vergoedt negen behandelingen fysiotherapie per jaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این توضیح واضح و با زمان حال، دقیقاً اطلاعاتی است که مشتری درخواست کرده بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Uw aanvullende verzekering vergoedde negen behandelingen fysiotherapie per jaar.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: قانون بیمه هنوز معتبر است، پس باید زمان حال «vergoedt» به‌کار رود، نه گذشته «vergoedde»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Beller: Goedemiddag, ik bel omdat ik vorige week een klacht heb ingediend over de levering van mijn bestelling, en ik heb nog niets gehoord.\nMedewerker klantenservice: Excuses voor het ongemak. ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین است؟",
+    "explanation_fa": "کارمند باید مؤدبانه توضیح دهد که شکایت را بررسی می‌کند و کِی پاسخ خواهد داد، با استفاده از زمان حال و آینده. گزینه B این کار را به‌درستی انجام می‌دهد.",
+    "grammar_rule_fa": "برای وعده‌ی پیگیری در آینده از زمان آینده با «zullen» یا حال با معنای آینده استفاده می‌شود: «Ik zal dit vandaag nog navragen bij de afdeling logistiek.»",
+    "extra_example_nl": "Ik zal dit direct doorgeven aan de afdeling die verantwoordelijk is voor de levering.",
+    "extra_example_fa": "این موضوع را فوراً به بخشی که مسئول تحویل است، اطلاع می‌دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zal dit meteen navragen bij de betreffende afdeling en u hoort vandaag nog van ons.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با زمان آینده و لحن مسئولانه، دقیقاً وعده‌ی پیگیری مناسب برای یک شکایت را می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik navroeg dit meteen bij de betreffende afdeling.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این وعده باید در زمان آینده بیان شود، نه در زمان گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vraag dat zelf maar na bij de afdeling logistiek.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و نامؤدبانه است؛ کارمند باید مسئولیت پیگیری را بر عهده بگیرد، نه آن را به مشتری واگذار کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Helaas kunnen wij klachten over leveringen niet in behandeling nemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: خدمات مشتری باید به شکایت رسیدگی کند، نه آن را رد کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Werkgever: Goedemorgen, met Van Dijk van personeelszaken. Ik bel u over uw verzoek om tijdelijk minder uren te werken.\nWerknemer: Ja, fijn dat u belt. ___\nWerkgever: Dat begrijp ik helemaal, en we gaan kijken wat er mogelijk is.",
+    "question_text_fa": "کدام جمله از کارمند (تماس‌گیرنده) در این نقطه بهترین است؟",
+    "explanation_fa": "کارمند باید مؤدبانه و با جمله‌ی پیرو (subordinate clause) توضیح دهد چرا این درخواست را دارد. گزینه C دقیقاً چنین ساختاری با «omdat» دارد و با زمینه هم‌خوانی دارد.",
+    "grammar_rule_fa": "در سطح B2 از جمله‌های پیرو با «omdat» یا «doordat» برای توضیح دلیل در ثبت رسمی استفاده می‌شود: «Ik wil minder werken, omdat ik mijn studie wil afronden.»",
+    "extra_example_nl": "Ik zou dit graag willen bespreken, omdat mijn persoonlijke situatie de laatste maanden is veranderd.",
+    "extra_example_fa": "دوست دارم این موضوع را بررسی کنیم، چون وضعیت شخصی‌ام در چند ماه اخیر تغییر کرده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil minder werken omdat ik het gewoon wel makkelijker vind.",
+        "is_correct": false,
+        "feedback_fa": "❌ اگرچه این جمله دستوری درست است، اما فعل «vinden» در این ثبت رسمی کمی غیرمناسب و بیش از حد غیررسمی به نظر می‌رسد؛ فعل مناسب‌تری مانند «willen combineren» با دلیل روشن انتظار می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wilde minder werken, omdat mijn situatie was veranderd.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: درخواست هنوز فعلی و در حال بررسی است، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik zou graag minder uren willen werken, omdat ik meer tijd nodig heb voor de zorg voor mijn moeder.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با ساختار مؤدبانه‌ی «zou willen» و جمله‌ی پیرو با «omdat» دلیل روشنی ارائه می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil eigenlijk juist meer uren gaan werken vanaf volgende maand.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: موضوع تماس درباره‌ی کاهش ساعات کاری است، نه افزایش آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Beller: Goedemiddag, ik bel namens mijn moeder. Zij kan zelf niet goed Nederlands spreken, en ze heeft een brief van de Belastingdienst ontvangen die ze niet begrijpt.\nMedewerker: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه و با زمان حال بپرسد چه اطلاعاتی از نامه لازم است تا بتواند کمک کند. گزینه A این را دقیق و مرتبط با موقعیت انجام می‌دهد.",
+    "grammar_rule_fa": "در ثبت رسمی، درخواست اطلاعات با فعل «kunnen» و جمله‌ی پیرو با «zodat» می‌آید: «Kunt u mij het kenmerk van de brief geven, zodat ik het dossier kan opzoeken?»",
+    "extra_example_nl": "Kunt u mij het briefkenmerk doorgeven, zodat ik het dossier van uw moeder kan opzoeken?",
+    "extra_example_fa": "می‌توانید شماره‌ی مرجع نامه را به من بدهید، تا بتوانم پرونده‌ی مادرتان را پیدا کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Natuurlijk help ik u graag. Kunt u mij vertellen wat er precies in de brief staat?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند مؤدبانه کمک را می‌پذیرد و با زمان حال درباره‌ی محتوای نامه سؤال می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Natuurlijk hielp ik u graag. Kon u mij vertellen wat er in de brief stond?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این کمک همین الان در حال انجام است، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Lees die brief zelf maar goed door, dan snap je het vast wel.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌ادبانه است و از ضمیر غیررسمی «je» استفاده می‌کند، در حالی که باید پاسخ رسمی با «u» باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Helaas kunnen wij nooit telefonisch informatie geven over brieven.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: کارمند باید تلاش کند کمک کند، نه این‌که به‌طور کامل کمک تلفنی را رد کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Medewerker verhuurder: Met Woningcorporatie De Sleutel, u spreekt met Peter.\nBeller: Goedemiddag, ik bel omdat de verwarming in mijn appartement al drie dagen niet werkt, en het is best koud.\nMedewerker verhuurder: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید فوراً و مؤدبانه اعلام کند که یک تعمیرکار می‌فرستد، با زمان آینده. گزینه D این وعده‌ی مشخص و مناسب را می‌دهد.",
+    "grammar_rule_fa": "برای وعده‌ی اقدام فوری در تماس رسمی، از زمان آینده با «zullen» یا حال با معنای آینده استفاده می‌شود: «We sturen vandaag nog een monteur langs.»",
+    "extra_example_nl": "We zullen zo snel mogelijk een monteur naar u toe sturen.",
+    "extra_example_fa": "در اسرع وقت یک تعمیرکار نزد شما می‌فرستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is heel vervelend. We stuurden gisteren al een monteur langs.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است و نامناسب برای موقعیت: مشتری الان تماس می‌گیرد تا مشکل حل شود، پس صحبت از یک اقدام گذشته که ظاهراً کار نکرده، پاسخ مناسبی نیست؛ باید زمان آینده برای اقدام جدید به‌کار رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is heel vervelend. Wacht u zelf maar tot het weer warmer wordt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌مسئولیتی از طرف شرکت مسکن است؛ به‌جای وعده‌ی کمک، مشکل را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is heel vervelend. Helaas kunnen wij geen monteur sturen voor verwarmingsproblemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: شرکت مسکن مسئول تعمیر گرمایش است و باید کمک کند، نه این‌که آن را رد کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is heel vervelend. Ik zal er meteen voor zorgen dat er vandaag nog een monteur langskomt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با همدلی و وعده‌ی مشخص در زمان آینده، دقیقاً پاسخ مناسبی برای این شکایت فوری است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Beller: Goedemiddag, ik bel over de factuur die ik vorige maand heb ontvangen. Ik denk dat er een fout in staat, want het bedrag klopt niet met onze afspraak.\nMedewerker administratie: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند اداری باید مؤدبانه پیشنهاد بررسی مجدد فاکتور را بدهد و برای این کار اطلاعات لازم (شماره فاکتور) را بخواهد. گزینه B این کار را با زمان حال درست انجام می‌دهد.",
+    "grammar_rule_fa": "برای پیشنهاد بررسی چیزی در آینده‌ی نزدیک از فعل «controleren» با زمان حال یا آینده استفاده می‌شود: «Ik controleer dit graag voor u.»",
+    "extra_example_nl": "Ik controleer dit graag voor u en neem daarna contact met u op.",
+    "extra_example_fa": "این را با کمال میل برایتان بررسی می‌کنم و بعد با شما تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zoek dat verschil zelf maar even op in uw contract.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و غیررسمی است؛ کارمند باید کمک کند و بررسی را خودش انجام دهد، نه این‌که مسئولیت را به مشتری بدهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat controleer ik graag voor u. Heeft u het factuurnummer bij de hand?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند مؤدبانه پیشنهاد بررسی می‌دهد و با زمان حال شماره فاکتور را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat controleerde ik al voor u. Had u het factuurnummer bij de hand?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این بررسی هنوز شروع نشده، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het bedrag op de factuur klopt helemaal, er is zeker geen fout gemaakt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی می‌دهد: کارمند نمی‌تواند بدون بررسی فاکتور نتیجه‌گیری کند که هیچ اشتباهی وجود ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Beller: Goedemorgen, ik bel met de administratie van de universiteit. Ik wil graag weten of mijn inschrijving voor het nieuwe collegejaar al is verwerkt.\nMedewerker: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه بگوید که سیستم را بررسی می‌کند و اطلاعات لازم مانند شماره دانشجویی را بخواهد. گزینه A دقیقاً همین کار را با فعل و زمان درست انجام می‌دهد.",
+    "grammar_rule_fa": "برای درخواست مؤدبانه‌ی اطلاعات شناسایی از فعل «kunnen» با «u» استفاده می‌شود: «Kunt u mij uw studentnummer geven?»",
+    "extra_example_nl": "Kunt u mij uw studentnummer doorgeven, zodat ik het systeem kan raadplegen?",
+    "extra_example_fa": "می‌توانید شماره دانشجویی‌تان را بدهید تا سیستم را بررسی کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kijk dat graag voor u na. Kunt u mij uw studentnummer doorgeven?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند مؤدبانه پیشنهاد بررسی می‌دهد و شماره دانشجویی را با زمان حال درخواست می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik keek dat graag voor u na. Kon u mij uw studentnummer doorgeven?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این بررسی همین الان اتفاق می‌افتد، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kijk dat zelf maar na op de website van de universiteit.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و غیرمسئولانه است؛ کارمند باید کمک کند، نه مسئولیت را به تماس‌گیرنده واگذار کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Uw inschrijving is helaas geannuleerd.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی است: در متن گفتگو چیزی درباره‌ی لغو ثبت‌نام گفته نشده و کارمند هنوز بررسی نکرده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Beller: Goedemiddag, ik bel met de klantenservice van de internetprovider. Ik wil graag mijn abonnement opzeggen, omdat ik binnenkort verhuis naar het buitenland.\nMedewerker: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه و با زمان حال بپرسد که تاریخ دقیق نقل مکان چه زمانی است، تا تاریخ لغو قرارداد را تعیین کند. گزینه B این را درست انجام می‌دهد.",
+    "grammar_rule_fa": "در جمله‌ی پیرو با «omdat» فعل به انتهای جمله می‌رود: «omdat ik binnenkort verhuis»؛ در پاسخ کارمند نیز زمان حال برای پرسیدن جزئیات لازم است.",
+    "extra_example_nl": "Wat is de precieze datum waarop u vertrekt naar het buitenland?",
+    "extra_example_fa": "تاریخ دقیقِ سفرتان به خارج از کشور چه روزی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat is de precieze datum waarop u vertrekt, zodat ik de opzegging daarop kan afstemmen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این پرسش مؤدبانه و با زمان حال، دقیقاً اطلاعاتی است که برای پردازش لغو قرارداد لازم است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat was de precieze datum waarop u vertrok?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: نقل مکان هنوز اتفاق نیفتاده و در آینده است، پس باید زمان حال «vertrekt» به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geef me nu meteen de datum waarop je vertrekt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و غیررسمی است، از ضمیر «je» به‌جای «u» استفاده می‌کند و به‌جای درخواست مؤدبانه، دستور می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "We kunnen uw abonnement helaas nooit opzeggen bij verhuizing naar het buitenland.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: لغو قرارداد به دلیل مهاجرت معمولاً امکان‌پذیر است، و کارمند نباید بی‌دلیل آن را رد کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Ambtenaar UWV: Goedemiddag, met het UWV, u spreekt met mevrouw De Boer.\nBeller: Goedemiddag, ik bel omdat ik nog geen bericht heb ontvangen over mijn aanvraag voor een uitkering.\nAmbtenaar UWV: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه توضیح دهد که پرونده هنوز در حال بررسی است و کِی مشتری خبردار می‌شود، با زمان حال و آینده. گزینه C این را دقیق بیان می‌کند.",
+    "grammar_rule_fa": "برای بیان وضعیت جاری یک پرونده در متن رسمی از زمان حال استفاده می‌شود: «Uw dossier is nog in behandeling.»",
+    "extra_example_nl": "Uw aanvraag is nog in behandeling en de behandeltijd bedraagt maximaal acht weken.",
+    "extra_example_fa": "درخواست شما هنوز در حال بررسی است و مدت بررسی حداکثر هشت هفته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Uw aanvraag was nog in behandeling, dat duurde meestal acht weken.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: پرونده هنوز الان در حال بررسی است، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bel over twee maanden nog maar eens terug.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری است، در حالی که کارمند باید مؤدبانه توضیح دهد و اطلاعات دقیق‌تری درباره‌ی زمان بدهد، نه فقط دستور به تماس مجدد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Uw aanvraag is nog in behandeling. De behandeltijd bedraagt maximaal acht weken, dus u ontvangt zeker nog bericht van ons.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله وضعیت فعلی پرونده را با زمان حال توضیح می‌دهد و اطمینان می‌دهد که پاسخی خواهد آمد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Uw aanvraag is helaas afgewezen, u ontvangt geen uitkering.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی می‌دهد: در متن گفتگو گفته نشده که تصمیمی گرفته شده، پس این نتیجه‌گیری اشتباه است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Beller: Goedemiddag, ik bel met de klantenservice van de energieleverancier. Ik wil mijn contract graag verlengen, maar dan wel tegen een lager tarief, aangezien ik zie dat nieuwe klanten een betere aanbieding krijgen.\nMedewerker: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه و با زمان حال بگوید که پیشنهادهای موجود را بررسی می‌کند تا بهترین گزینه را ارائه دهد. گزینه D این را دقیق انجام می‌دهد.",
+    "grammar_rule_fa": "در جمله‌ی پیرو با «aangezien» (چون/با توجه به این‌که) فعل به انتهای جمله می‌رود: «aangezien ik zie dat...»؛ پاسخ کارمند باید با زمان حال و لحن مؤدبانه باشد.",
+    "extra_example_nl": "Ik bekijk graag samen met u welke actuele aanbiedingen mogelijk zijn.",
+    "extra_example_fa": "با کمال میل همراه شما پیشنهادهای فعلی موجود را بررسی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nieuwe klanten kregen altijd een betere aanbieding dan bestaande klanten.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این یک وضعیت کلی و جاری است، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zoek dan zelf maar een andere energieleverancier met een betere aanbieding.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌ادبانه است؛ کارمند باید تلاش کند مشتری را نگه دارد و کمک کند، نه او را به سمت رقیب هدایت کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Helaas kunnen we voor bestaande klanten nooit een aanbieding doen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: در واقعیت شرکت‌های انرژی معمولاً برای حفظ مشتری پیشنهاد می‌دهند، و این جواب بدون بررسی نادرست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp uw punt. Ik bekijk voor u welke aanbieding op dit moment mogelijk is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند با همدلی موقعیت را می‌پذیرد و مؤدبانه با زمان حال وعده‌ی بررسی می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Beller: Goedemorgen, ik bel met de administratie van het ziekenhuis. Ik zou de afspraak van mijn vader, die aanstaande vrijdag een controle heeft, willen bevestigen.\nMedewerker: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید افسپراک را در سیستم بررسی کند و با زمان حال تأیید کند. گزینه B این را با ذکر جزئیات صحیح انجام می‌دهد.",
+    "grammar_rule_fa": "برای تأیید یک قرار ملاقات از زمان حال با فعل «bevestigen» یا «kloppen» استفاده می‌شود: «Ik zie inderdaad een afspraak op vrijdag om elf uur.»",
+    "extra_example_nl": "Ik zie de afspraak inderdaad staan, vrijdag om elf uur bij dokter Smit.",
+    "extra_example_fa": "بله، آن قرار ملاقات را می‌بینم، جمعه ساعت یازده نزد دکتر اسمیت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zag geen afspraak staan voor aanstaande vrijdag.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: کارمند همین الان در سیستم بررسی می‌کند، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zie de afspraak inderdaad staan, vrijdag om elf uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با زمان حال، تأیید مشخص و درستی از قرار ملاقات ارائه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kijk dat zelf maar na in de bevestigingsmail die u heeft gekregen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌ادبانه است؛ کارمند باید خودش بررسی و تأیید کند، نه مسئولیت را به تماس‌گیرنده واگذار کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Die afspraak is helaas geannuleerd door het ziekenhuis.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی می‌دهد: در متن گفتگو چیزی درباره‌ی لغو افسپراک بیان نشده."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Beller: Goedemiddag, ik bel met de klachtenafdeling. Ondanks dat ik al twee keer eerder heb gebeld over hetzelfde probleem, is er nog steeds niets veranderd, en dat vind ik erg teleurstellend.\nMedewerker: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید صمیمانه عذرخواهی کند، مسئولیت را بپذیرد و با زمان آینده وعده‌ی اقدام قطعی بدهد. گزینه A این ترکیب مؤدبانه و مسئولانه را دارد.",
+    "grammar_rule_fa": "جمله‌ی پیرو با «ondanks dat» (با وجود این‌که) نیاز به فعل در انتهای بند دارد؛ پاسخ کارمند باید با زمان آینده برای وعده‌ی قطعی («zal») باشد، نه فقط عذرخواهی خالی.",
+    "extra_example_nl": "Ik begrijp dat dit al te lang duurt, en ik zal er persoonlijk voor zorgen dat dit deze week wordt opgelost.",
+    "extra_example_fa": "می‌فهمم که این موضوع خیلی طول کشیده، و شخصاً مطمئن می‌شوم که این هفته حل شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn oprechte excuses dat dit zo lang duurt. Ik zal er persoonlijk voor zorgen dat dit vandaag wordt opgepakt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله همدلی واقعی، پذیرش مسئولیت و وعده‌ی مشخص در زمان آینده را ترکیب می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn oprechte excuses dat dit zo lang duurde. Ik zorgde er persoonlijk voor dat dit werd opgepakt.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این وعده باید درباره‌ی اقدامی در آینده باشد، نه گذشته‌ای که ظاهراً هنوز حل نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bel dan nog maar een derde keer als er niets verandert.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌مسئولیتی است؛ کارمند باید مسئولیت پیگیری را بپذیرد، نه مشکل را دوباره به دوش مشتری بیندازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Helaas kunnen wij dit probleem nooit oplossen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: بخش شکایات باید تلاش برای حل مشکل کند، نه این‌که از ابتدا آن را غیرممکن اعلام کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Beller: Goedemiddag, ik bel met de gemeente over de subsidieaanvraag die mijn stichting heeft ingediend. Mocht de aanvraag onverhoopt zijn afgewezen, dan zou ik graag willen weten wat de reden daarvoor is.\nAmbtenaar: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه بگوید که وضعیت درخواست را بررسی می‌کند تا بتواند پاسخ درستی بدهد. گزینه C این را با زمان حال و لحن حرفه‌ای انجام می‌دهد.",
+    "grammar_rule_fa": "جمله‌ی شرطی رسمی با «mocht... dan zou» (اگر احیاناً... آنگاه) در ثبت رسمی به‌کار می‌رود؛ پاسخ کارمند باید متناسب و با زمان حال باشد، نه پیش‌داوری درباره‌ی نتیجه.",
+    "extra_example_nl": "Ik ga eerst de status van uw aanvraag opzoeken, voordat ik iets over de reden kan zeggen.",
+    "extra_example_fa": "ابتدا وضعیت درخواست شما را بررسی می‌کنم، پیش از این‌که چیزی درباره‌ی دلیل بگویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Uw aanvraag is sowieso afgewezen, dat kan ik u nu al vertellen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی می‌دهد: کارمند هنوز پرونده را بررسی نکرده و نمی‌تواند بدون بررسی نتیجه‌گیری کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Uw aanvraag was sowieso afgewezen, dat kon ik u toen al vertellen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است و همچنین یک نتیجه‌گیری زودهنگام نادرست است؛ باید زمان حال به‌کار رود و ابتدا بررسی شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga eerst de status van uw aanvraag bekijken, voordat ik iets over een eventuele afwijzing kan zeggen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند مؤدبانه و با زمان حال می‌گوید که ابتدا بررسی می‌کند، بدون پیش‌داوری درباره‌ی نتیجه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zoek dat zelf maar op in het digitale portaal van de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌مسئولیتی است؛ کارمند باید کمک کند، نه مسئولیت را به تماس‌گیرنده واگذار کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Beller: Goedemiddag, ik bel met de afdeling personeelszaken. Nadat ik het functioneringsgesprek met mijn leidinggevende had gehad, kreeg ik het gevoel dat er misverstanden waren ontstaan over mijn takenpakket.\nMedewerker HR: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه و با زمان حال پیشنهاد یک گفتگوی روشن‌کننده‌ی بیشتر بدهد. گزینه B این را درست انجام می‌دهد.",
+    "grammar_rule_fa": "جمله‌ی زمانی با «nadat» به معنای «پس از این‌که» با زمان گذشته‌ی کامل (had gehad) بیان می‌شود؛ در پاسخ کارمند باید از زمان حال برای پیشنهاد اقدام استفاده شود.",
+    "extra_example_nl": "Ik stel voor dat we een extra gesprek inplannen om deze misverstanden samen te bespreken.",
+    "extra_example_fa": "پیشنهاد می‌کنم یک جلسه‌ی اضافی برنامه‌ریزی کنیم تا این سوءتفاهم‌ها را با هم بررسی کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat soort misverstanden lossen we hier eigenlijk nooit op.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: بخش منابع انسانی باید به حل سوءتفاهم کمک کند، نه اعلام کند که هرگز حلش نمی‌کنند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik stel voor dat we samen met uw leidinggevende een extra gesprek inplannen om dit uit te praten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این پیشنهاد مؤدبانه و سازنده، دقیقاً پاسخ حرفه‌ای به این موقعیت پیچیده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik stelde voor dat we samen een extra gesprek inplanden om dit uit te praten.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این پیشنهاد همین الان مطرح می‌شود، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bespreek dat zelf nog maar een keer met je leidinggevende, wij bemoeien ons daar niet mee.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و غیررسمی است («je» به‌جای «u») و مسئولیت بخش منابع انسانی را در قبال چنین موضوعی نادیده می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Voicemail bank: U spreekt de voicemail van uw persoonlijke adviseur bij de bank. Ik ben op dit moment niet bereikbaar.\nBeller: Goedemiddag, met Farid Moradi. Ik bel u, omdat ik, voordat ik een beslissing neem over de hypotheek, nog een paar vragen zou willen stellen. ___\nWelke afsluiting van het bericht past hier het beste?",
+    "question_text_fa": "کدام جمله بهترین پایان برای این پیغام صوتی رسمی است؟",
+    "explanation_fa": "پیام باید با درخواست مؤدبانه‌ی تماس مجدد و ذکر بهترین زمان تماس پایان یابد. گزینه D این را به‌درستی و با ساختار مؤدبانه انجام می‌دهد.",
+    "grammar_rule_fa": "جمله‌ی پیرو «voordat ik een beslissing neem» (پیش از این‌که تصمیم بگیرم) نشان‌دهنده‌ی توالی زمانی است؛ پایان پیام باید با درخواست مؤدبانه‌ی «zou u... kunnen» باشد.",
+    "extra_example_nl": "Zou u mij terug kunnen bellen tussen negen en vijf uur, wanneer het u uitkomt?",
+    "extra_example_fa": "می‌شود لطفاً بین ساعت نه تا پنج، هر وقت برایتان مناسب بود، با من تماس بگیرید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bel me maar terug wanneer je zelf tijd hebt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و غیررسمی است و از ضمیر «je» استفاده می‌کند، در حالی که باید درخواست مؤدبانه با «u» باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zou u mij terug kunnen bellen? Ik heb inmiddels besloten om de hypotheek niet af te sluiten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: تماس‌گیرنده گفته که هنوز تصمیمی نگرفته و می‌خواهد سؤال بپرسد، نه این‌که قبلاً تصمیم گرفته باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zou u mij terug kon bellen op mijn mobiele nummer?",
+        "is_correct": false,
+        "feedback_fa": "❌ ترکیب فعل اشتباه است: با «zou u» باید مصدر «kunnen» بیاید («zou u... kunnen bellen»)، نه شکل گذشته‌ی «kon»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zou u mij terug kunnen bellen op mijn mobiele nummer, het liefst na vier uur?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این درخواست مؤدبانه با ساختار صحیح «zou u... kunnen» و ذکر زمان مناسب، پایان مناسبی برای پیام است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Beller: Goedemiddag, ik bel met de klantenservice. Ik wil mijn abonnement per direct opzeggen, aangezien ik de afgelopen maanden herhaaldelijk problemen heb ondervonden met de dienstverlening.\nMedewerker: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه نگرانی مشتری را جدی بگیرد و پیشنهاد بررسی یا راه‌حل بدهد پیش از پذیرش لغو، با زمان حال. گزینه C این را درست انجام می‌دهد.",
+    "grammar_rule_fa": "جمله‌ی پیرو با «aangezien» (از آنجا که) در ثبت رسمی نوشتاری/گفتاری استفاده می‌شود؛ پاسخ کارمند باید همدلانه و با زمان حال باشد، نه بی‌تفاوت.",
+    "extra_example_nl": "Ik snap dat u ontevreden bent. Zou u het op prijs stellen als ik eerst kijk of we een oplossing kunnen bieden?",
+    "extra_example_fa": "می‌فهمم که ناراضی هستید. آیا مایلید ابتدا بررسی کنم که آیا می‌توانیم راه‌حلی ارائه دهیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat spijt me te horen. Zou u het goed vinden als ik eerst kijk of we deze problemen alsnog kunnen oplossen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند با همدلی و پیشنهاد مؤدبانه، به‌جای پذیرش فوری لغو، ابتدا راه‌حل پیشنهاد می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat speet me te horen. Zou u het goed vinden als ik eerst keek of we deze problemen konden oplossen?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این پیشنهاد همین الان مطرح می‌شود، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zeg dan nu meteen op, wij doen daar verder niets aan.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌تفاوت است؛ کارمند باید تلاش کند مشتری را نگه دارد و مشکل را حل کند، نه بی‌تفاوت لغو را بپذیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Helaas kunnen wij abonnementen nooit per direct opzeggen, dat duurt altijd minstens een jaar.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی می‌دهد بدون بررسی شرایط قرارداد؛ چنین قانون کلی و اغراق‌آمیزی («altijd minstens een jaar») در این متن پشتیبانی نشده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Beller: Goedemorgen, ik bel met de gemeente. Ik heb begrepen dat, zodra de vergunning is goedgekeurd, ik binnen twee weken met de verbouwing mag beginnen. Klopt dat?\nAmbtenaar: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه با زمان حال تأیید یا اصلاح اطلاعات را انجام دهد، دقیقاً بر اساس آنچه در سیستم می‌بیند. گزینه A این را با تأیید دقیق انجام می‌دهد.",
+    "grammar_rule_fa": "جمله‌ی زمانی با «zodra» (به‌محض این‌که) رابطه‌ی علّی-زمانی نشان می‌دهد؛ پاسخ کارمند باید همان رابطه را با زمان حال تأیید یا تصحیح کند.",
+    "extra_example_nl": "Dat klopt, zodra de vergunning is verleend, ontvangt u een brief met de exacte startdatum.",
+    "extra_example_fa": "درست است، به‌محض صدور مجوز، نامه‌ای با تاریخ دقیق شروع دریافت خواهید کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat klopt, zodra de vergunning is goedgekeurd, ontvangt u een brief met de exacte startdatum.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند اطلاعات تماس‌گیرنده را با زمان حال و توضیح دقیق تأیید می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat klopte, zodra de vergunning was goedgekeurd, ontving u een brief met de exacte startdatum.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این قانون هنوز فعلی و جاری است، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zoek dat zelf nog maar even op in de vergunningsvoorwaarden.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌ادبانه است؛ کارمند باید مستقیماً پاسخ روشنی بدهد، نه مسئولیت را به تماس‌گیرنده واگذار کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, na goedkeuring van de vergunning mag u nooit meteen beginnen met verbouwen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد و بدون توضیح، اطلاعات صحیحی که تماس‌گیرنده ارائه داده را کاملاً رد می‌کند، که با روند معمول اداری مغایرت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Beller: Goedemiddag, ik bel met de afdeling salarisadministratie. Ik heb geconstateerd dat mijn salaris deze maand lager is uitbetaald dan overeengekomen, terwijl ik geen enkele wijziging in mijn contract heb doorgegeven.\nMedewerker: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مسئله را جدی بگیرد و مؤدبانه با زمان حال وعده‌ی بررسی و اصلاح بدهد. گزینه D این ترکیب مسئولانه را ارائه می‌کند.",
+    "grammar_rule_fa": "جمله‌ی پیرو با «terwijl» (در حالی که) تضاد را نشان می‌دهد؛ پاسخ کارمند باید مسئولیت را با فعل درست («onderzoeken», «corrigeren») در زمان حال/آینده بپذیرد.",
+    "extra_example_nl": "Ik ga dit direct onderzoeken en zorg ervoor dat een eventuele fout deze week wordt hersteld.",
+    "extra_example_fa": "این را فوراً بررسی می‌کنم و مطمئن می‌شوم که هر اشتباهی این هفته اصلاح شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat onderzocht ik direct en ik zorgde ervoor dat de fout werd hersteld.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این بررسی و اصلاح هنوز انجام نشده، پس باید زمان حال یا آینده به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zoek dat verschil zelf maar even op in uw loonstrook.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌مسئولیتی است؛ بخش حقوق و دستمزد باید خودش خطا را بررسی و اصلاح کند، نه این‌که مسئولیت را به کارمند واگذار کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Helaas kunnen wij fouten in de loonbetaling nooit met terugwerkende kracht corrigeren.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: در عمل، اشتباهات حقوقی معمولاً با اثر عطف‌به‌ماسبق اصلاح می‌شوند، و این ادعای کلی و رد کامل بدون بررسی اشتباه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat spijt me te horen. Ik ga dit vandaag nog uitzoeken en zorg dat een eventuele fout wordt hersteld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند مسئله را جدی می‌گیرد و با زمان حال/آینده وعده‌ی بررسی و اصلاح مشخص می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Beller: Goedemiddag, ik bel met de klantenservice van de verzekeraar. Hoewel ik al meerdere keren heb aangegeven dat ik geen reclame meer wil ontvangen, krijg ik nog steeds wekelijks een mailing.\nMedewerker: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید عذرخواهی کند و با زمان حال/آینده وعده‌ی اصلاح تنظیمات بدهد. گزینه B این کار را با فعل و زمان درست انجام می‌دهد.",
+    "grammar_rule_fa": "جمله‌ی پیرو با «hoewel» (اگرچه) تضاد را نشان می‌دهد؛ پاسخ کارمند باید مسئولیت را بپذیرد و با فعل «aanpassen» در زمان حال/آینده اقدام کند.",
+    "extra_example_nl": "Ik pas uw voorkeuren nu direct aan, zodat u geen mailings meer ontvangt.",
+    "extra_example_fa": "همین الان تنظیمات ترجیحات شما را اصلاح می‌کنم تا دیگر ایمیل تبلیغاتی دریافت نکنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meld u dan zelf maar telkens opnieuw af via de website.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌مسئولیتی است؛ کارمند باید مشکل را حل کند، نه این‌که آن را دوباره به تماس‌گیرنده واگذار کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn excuses voor het ongemak. Ik pas uw voorkeuren nu meteen aan, zodat dit niet meer gebeurt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند عذرخواهی می‌کند و با زمان حال وعده‌ی اصلاح فوری تنظیمات را می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn excuses voor het ongemak. Ik paste uw voorkeuren net aan.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این اصلاح باید همین الان یا بلافاصله انجام شود، پس زمان حال درست است، نه گذشته که به معنای انجام‌شده پیش از این تماس است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Helaas is het voor ons onmogelijk om mailings ooit stop te zetten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: شرکت باید بتواند اشتراک ایمیل تبلیغاتی را متوقف کند، این ادعای غیرممکن بودن نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Beller: Goedemiddag, ik bel u namens de directie. We zouden graag een vervolgafspraak inplannen om de resultaten van het onderzoek te bespreken, mits dat u schikt uiteraard.\nSecretaresse: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله از منشی مناسب‌ترین است؟",
+    "explanation_fa": "منشی باید مؤدبانه و با زمان حال بپرسد که چه تاریخی مناسب است و پیشنهاد بررسی تقویم بدهد. گزینه C این را درست انجام می‌دهد.",
+    "grammar_rule_fa": "«mits» (به‌شرط این‌که) یک حرف ربط شرطی رسمی است که فعل را به انتهای جمله می‌برد؛ پاسخ منشی باید با زمان حال و لحن رسمی باشد.",
+    "extra_example_nl": "Ik kijk direct in de agenda welke dag het beste zou uitkomen voor iedereen.",
+    "extra_example_fa": "همین الان در تقویم نگاه می‌کنم که چه روزی برای همه بهترین است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik keek al in de agenda en volgende week donderdag kwam goed uit.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این بررسی همین الان انجام می‌شود، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Regel dat verder zelf maar met de directie.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌ادبانه است؛ منشی باید کمک کند در تنظیم قرار ملاقات، نه مسئولیت را رد کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kijk direct in de agenda en kom er zo snel mogelijk op terug met een aantal opties.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: منشی مؤدبانه و با زمان حال، وعده‌ی بررسی سریع و ارائه‌ی گزینه‌ها را می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een vervolgafspraak is helaas nooit mogelijk na een onderzoek.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای معکوس دارد: قرار ملاقات پیگیری معمولاً امکان‌پذیر است و این رد کلی و غیرمنطقی است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "formal_call",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Beller: Goedemiddag, ik bel met de klantenservice van de telefoonprovider. Voor zover ik weet, heb ik recht op compensatie, aangezien het netwerk de afgelopen twee weken voortdurend uitviel.\nMedewerker: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام جمله در این نقطه بهترین پاسخ است؟",
+    "explanation_fa": "کارمند باید مؤدبانه و با زمان حال بگوید که مسئله را بررسی می‌کند تا معلوم شود آیا مشتری حق جبران خسارت دارد. گزینه A این را دقیق انجام می‌دهد.",
+    "grammar_rule_fa": "عبارت «voor zover ik weet» (تا آنجا که می‌دانم) یک قید محدودکننده‌ی رسمی است؛ پاسخ کارمند باید بدون پیش‌داوری و با زمان حال به بررسی اشاره کند.",
+    "extra_example_nl": "Ik ga na of u inderdaad recht heeft op compensatie voor deze storingen.",
+    "extra_example_fa": "بررسی می‌کنم که آیا واقعاً حق جبران خسارت برای این قطعی‌ها دارید یا نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga na of u inderdaad recht heeft op compensatie voor deze storingen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کارمند مؤدبانه و بدون پیش‌داوری، با زمان حال وعده‌ی بررسی حق جبران خسارت را می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ging al na of u recht had op compensatie voor deze storingen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این بررسی همین الان شروع می‌شود، پس باید زمان حال به‌کار رود، نه گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zoek dat zelf maar even op in de algemene voorwaarden.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله امری و بی‌ادبانه است؛ کارمند باید خودش بررسی را انجام دهد، نه مسئولیت را به مشتری واگذار کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "U heeft sowieso nooit recht op compensatie bij netwerkstoringen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله نتیجه‌ی نادرستی می‌دهد بدون هیچ بررسی؛ چنین قانون کلی و قطعی («sowieso nooit») در این متن پشتیبانی نشده و با رویه‌ی معمول ناسازگار است."
+      }
+    ]
+  }
+]

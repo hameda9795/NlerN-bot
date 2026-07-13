@@ -1,0 +1,512 @@
+[
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "broken_appliance", "life_context": "landlord",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "ماشین لباسشویی در خانه‌ات خراب شده. باید به صاحب‌خانه‌ات پیام بدهی و مشکل را توضیح بدهی.",
+    "question_text_nl": "De wasmachine in je huis is kapot.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "برای توضیح یک مشکل، بگو چه چیزی خراب است و چه می‌خواهی.",
+    "grammar_rule_fa": "از «De wasmachine is kapot» استفاده کن.",
+    "extra_example_nl": "De wasmachine is sinds gisteren kapot.",
+    "extra_example_fa": "ماشین لباسشویی از دیروز خراب است.",
+    "options": [
+      { "key": "A", "text_nl": "De wasmachine is kapot. Kunt u iemand sturen om het te repareren?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و درخواست هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik was mijn kleren nooit.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Wasmachines zijn duur.", "is_correct": false, "feedback_fa": "این جمله مشکل یا درخواست را بیان نمی‌کند." },
+      { "key": "D", "text_nl": "Alles is goed in huis.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "broken_appliance", "life_context": "landlord",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "بخاری خانه‌ات کار نمی‌کند و هوا سرد است. باید به صاحب‌خانه توضیح بدهی و بخواهی سریع تعمیر کند.",
+    "question_text_nl": "De verwarming in je huis werkt niet en het is koud.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو چه مشکلی هست و چرا مهم است که سریع درست شود.",
+    "grammar_rule_fa": "از «De verwarming werkt niet, het is erg koud» استفاده کن.",
+    "extra_example_nl": "De verwarming werkt niet, het is erg koud in huis.",
+    "extra_example_fa": "بخاری کار نمی‌کند، خانه خیلی سرد است.",
+    "options": [
+      { "key": "A", "text_nl": "De verwarming werkt niet en het is erg koud in huis. Kunt u dit snel repareren?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و فوریت هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik hou van kou.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط و نامناسب است." },
+      { "key": "C", "text_nl": "De winter is elk jaar koud.", "is_correct": false, "feedback_fa": "این جمله مشکل خاص خانه را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Ik heb een extra deken gekocht.", "is_correct": false, "feedback_fa": "این جمله درخواست تعمیر نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "broken_appliance", "life_context": "shop",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "لامپی که هفته‌ی پیش خریدی دیگر روشن نمی‌شود. باید به فروشگاه توضیح بدهی.",
+    "question_text_nl": "De lamp die je vorige week kocht, doet het niet meer.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو چه چیزی خریدی و چه مشکلی دارد.",
+    "grammar_rule_fa": "از «De lamp die ik vorige week kocht, doet het niet meer» استفاده کن.",
+    "extra_example_nl": "De lamp die ik vorige week kocht, doet het niet meer.",
+    "extra_example_fa": "لامپی که هفته‌ی پیش خریدم، دیگر روشن نمی‌شود.",
+    "options": [
+      { "key": "A", "text_nl": "De lamp die ik vorige week kocht, doet het niet meer.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن و کامل است." },
+      { "key": "B", "text_nl": "Ik hou van lampen.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "De winkel is groot.", "is_correct": false, "feedback_fa": "این جمله مشکل را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Ik koop nooit lampen.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "leaking_problem", "life_context": "landlord",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "از سقف خانه‌ات آب چکه می‌کند. باید به صاحب‌خانه توضیح بدهی.",
+    "question_text_nl": "Er lekt water uit het plafond in je huis.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو دقیقاً کجا آب چکه می‌کند.",
+    "grammar_rule_fa": "از «Er lekt water uit het plafond» استفاده کن.",
+    "extra_example_nl": "Er lekt water uit het plafond in de keuken.",
+    "extra_example_fa": "از سقف آشپزخانه آب چکه می‌کند.",
+    "options": [
+      { "key": "A", "text_nl": "Er lekt water uit het plafond in de keuken. Kunt u komen kijken?", "is_correct": true, "feedback_fa": "✅ درست؛ محل دقیق و درخواست هر دو دارد." },
+      { "key": "B", "text_nl": "Ik hou van regen.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Mijn huis is heel mooi.", "is_correct": false, "feedback_fa": "این جمله مشکل را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Er is geen water in huis.", "is_correct": false, "feedback_fa": "این جمله با مشکل واقعی تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "leaking_problem", "life_context": "landlord",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "زیر سینک آشپزخانه آب نشت می‌کند و کف زمین خیس شده. باید مشکل را کامل توضیح بدهی و بخواهی سریع بیایند.",
+    "question_text_nl": "Onder de gootsteen in de keuken lekt water en de vloer is nat.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "محل دقیق مشکل و درخواست کمک فوری را بنویس.",
+    "grammar_rule_fa": "از «Onder de gootsteen lekt water» استفاده کن.",
+    "extra_example_nl": "Onder de gootsteen lekt water, de vloer is al nat. Kunt u snel komen?",
+    "extra_example_fa": "زیر سینک آب نشت می‌کند، زمین خیس شده. می‌شود سریع بیایید؟",
+    "options": [
+      { "key": "A", "text_nl": "Onder de gootsteen lekt water en de vloer is al nat. Kunt u snel komen?", "is_correct": true, "feedback_fa": "✅ درست؛ محل دقیق و فوریت هر دو روشن است." },
+      { "key": "B", "text_nl": "De keuken is klein.", "is_correct": false, "feedback_fa": "این جمله مشکل را توضیح نمی‌دهد." },
+      { "key": "C", "text_nl": "Ik kook graag.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Alles werkt goed in de keuken.", "is_correct": false, "feedback_fa": "این جمله با مشکل واقعی تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "noise_complaint", "life_context": "neighbour",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "همسایه‌ی بالایی‌ات شب‌ها سر و صدای زیاد می‌کند. باید مؤدبانه به او پیام بدهی.",
+    "question_text_nl": "Je buren boven maken 's avonds veel lawaai.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "مشکل را مؤدبانه و بدون عصبانیت بگو.",
+    "grammar_rule_fa": "از «Kunt u iets stiller zijn?» استفاده کن.",
+    "extra_example_nl": "Kunt u 's avonds iets stiller zijn? Ik kan niet slapen.",
+    "extra_example_fa": "می‌شود شب‌ها کمی آرام‌تر باشید؟ نمی‌توانم بخوابم.",
+    "options": [
+      { "key": "A", "text_nl": "Kunt u 's avonds iets stiller zijn? Ik kan niet slapen.", "is_correct": true, "feedback_fa": "✅ درست؛ مؤدبانه است و مشکل روشن است." },
+      { "key": "B", "text_nl": "Jullie zijn altijd zo lawaaiig, dat is erg irritant!", "is_correct": false, "feedback_fa": "این جمله خیلی تند و بی‌ادبانه است." },
+      { "key": "C", "text_nl": "Ik hou van muziek.", "is_correct": false, "feedback_fa": "این جمله مشکل را بیان نمی‌کند." },
+      { "key": "D", "text_nl": "Het is stil in huis.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "noise_complaint", "life_context": "landlord",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "چند هفته است همسایه‌ی کناری سر و صدا می‌کند و حرفت را نشنیده گرفته. باید از صاحب‌خانه بخواهی کمک کند.",
+    "question_text_nl": "Al een paar weken maken de buren veel lawaai en ze luisteren niet naar je.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "مدت زمان مشکل و اینکه قبلاً خودت گفته‌ای اما فایده نداشته را بنویس.",
+    "grammar_rule_fa": "از «Al een paar weken hebben we veel last van lawaai» استفاده کن.",
+    "extra_example_nl": "Al een paar weken hebben we veel last van lawaai van de buren. Kunt u helpen?",
+    "extra_example_fa": "چند هفته است از سر و صدای همسایه‌ها اذیت می‌شویم. می‌شود کمک کنید؟",
+    "options": [
+      { "key": "A", "text_nl": "Al een paar weken hebben we veel last van lawaai van de buren. Ik heb het al gezegd, maar het helpt niet. Kunt u helpen?", "is_correct": true, "feedback_fa": "✅ درست؛ مدت زمان، تلاش قبلی و درخواست کمک هر سه دارد." },
+      { "key": "B", "text_nl": "De buren zijn altijd aardig.", "is_correct": false, "feedback_fa": "این جمله با مشکل واقعی تناقض دارد." },
+      { "key": "C", "text_nl": "Lawaai is normaal in de stad.", "is_correct": false, "feedback_fa": "این جمله درخواست کمک نیست." },
+      { "key": "D", "text_nl": "Ik verhuis wel een keer.", "is_correct": false, "feedback_fa": "این جمله مستقیم مشکل را حل نمی‌کند و کمک نمی‌خواهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "health_problem", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "چند روز است سردرد و گلودرد داری. باید علائم را برای دکتر بنویسی.",
+    "question_text_nl": "Je hebt al een paar dagen hoofdpijn en keelpijn.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "علائم را ساده و واضح بنویس.",
+    "grammar_rule_fa": "از «Ik heb al een paar dagen last van...» استفاده کن.",
+    "extra_example_nl": "Ik heb al een paar dagen last van hoofdpijn en keelpijn.",
+    "extra_example_fa": "چند روز است سردرد و گلودرد دارم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik heb al een paar dagen last van hoofdpijn en keelpijn.", "is_correct": true, "feedback_fa": "✅ درست؛ علائم و مدت زمان روشن است." },
+      { "key": "B", "text_nl": "Ik voel me altijd goed.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Dokters zijn druk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik ga morgen sporten.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "health_problem", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "معده‌ات درد می‌کند و حالت تهوع داری. باید علائم را بنویسی.",
+    "question_text_nl": "Je hebt buikpijn en voelt je misselijk.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "علائم را واضح و کامل بنویس.",
+    "grammar_rule_fa": "از «Ik heb buikpijn en ik voel me misselijk» استفاده کن.",
+    "extra_example_nl": "Ik heb buikpijn en ik voel me misselijk sinds vanmorgen.",
+    "extra_example_fa": "از امروز صبح معده درد دارم و حالت تهوع دارم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik heb buikpijn en ik voel me misselijk sinds vanmorgen.", "is_correct": true, "feedback_fa": "✅ درست؛ علائم و زمان شروع روشن است." },
+      { "key": "B", "text_nl": "Ik eet altijd gezond.", "is_correct": false, "feedback_fa": "این جمله علائم را توضیح نمی‌دهد." },
+      { "key": "C", "text_nl": "Buikpijn gaat vanzelf over.", "is_correct": false, "feedback_fa": "این جمله اطلاع‌رسانی به دکتر نیست." },
+      { "key": "D", "text_nl": "Ik heb honger.", "is_correct": false, "feedback_fa": "این جمله با حالت تهوع تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "health_problem", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "چند هفته است کمردرد داری و بدتر شده. باید کامل توضیح بدهی.",
+    "question_text_nl": "Je hebt al een paar weken rugpijn en het wordt erger.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "مدت زمان و تغییر وضعیت (بدتر شدن) را بنویس.",
+    "grammar_rule_fa": "از «Ik heb al een paar weken rugpijn en het wordt erger» استفاده کن.",
+    "extra_example_nl": "Ik heb al een paar weken rugpijn en het wordt steeds erger.",
+    "extra_example_fa": "چند هفته است کمردرد دارم و کم‌کم بدتر می‌شود.",
+    "options": [
+      { "key": "A", "text_nl": "Ik heb al een paar weken rugpijn en het wordt steeds erger.", "is_correct": true, "feedback_fa": "✅ درست؛ مدت زمان و روند بدتر شدن روشن است." },
+      { "key": "B", "text_nl": "Mijn rug is heel sterk.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Ik sport drie keer per week.", "is_correct": false, "feedback_fa": "این جمله مشکل را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Rugpijn is niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب است و کمک نمی‌خواهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "missing_item", "life_context": "gemeente",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "کارت اقامتت گم شده. باید به شهرداری گزارش بدهی.",
+    "question_text_nl": "Je verblijfsvergunning is kwijt.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "بگو چه چیزی گم شده و بخواه راهنمایی کنند.",
+    "grammar_rule_fa": "از «Mijn verblijfsvergunning is kwijt» استفاده کن.",
+    "extra_example_nl": "Mijn verblijfsvergunning is kwijt. Wat moet ik doen?",
+    "extra_example_fa": "کارت اقامتم گم شده. باید چه کار کنم؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn verblijfsvergunning is kwijt. Wat moet ik doen?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل روشن و راهنمایی خواسته شده." },
+      { "key": "B", "text_nl": "Ik heb alles nog.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Documenten zijn belangrijk.", "is_correct": false, "feedback_fa": "این جمله مشکل را گزارش نمی‌کند." },
+      { "key": "D", "text_nl": "Ik kom volgend jaar langs.", "is_correct": false, "feedback_fa": "این جمله فوریت مشکل را در نظر نمی‌گیرد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "missing_item", "life_context": "shop",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "سفارش آنلاینت هنوز نرسیده. باید به فروشگاه پیام بدهی.",
+    "question_text_nl": "Je online bestelling is nog niet aangekomen.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "بگو چه چیزی سفارش دادی و هنوز نرسیده.",
+    "grammar_rule_fa": "از «Mijn bestelling is nog niet aangekomen» استفاده کن.",
+    "extra_example_nl": "Mijn bestelling van vorige week is nog niet aangekomen.",
+    "extra_example_fa": "سفارش هفته‌ی پیشم هنوز نرسیده.",
+    "options": [
+      { "key": "A", "text_nl": "Mijn bestelling van vorige week is nog niet aangekomen.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن و کامل است." },
+      { "key": "B", "text_nl": "Ik winkel graag online.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Pakketjes zijn altijd snel.", "is_correct": false, "feedback_fa": "این جمله با مشکل واقعی تناقض دارد." },
+      { "key": "D", "text_nl": "Ik heb niets besteld.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "missing_item", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "کارت ورودی محل کارت را گم کرده‌ای. باید به بخش اداری اطلاع بدهی.",
+    "question_text_nl": "Je bent je toegangspas voor werk kwijt.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "بگو چه چیزی گم شده و بخواه کارت جدید بدهند.",
+    "grammar_rule_fa": "از «Ik ben mijn pas kwijt» استفاده کن.",
+    "extra_example_nl": "Ik ben mijn toegangspas kwijt. Kan ik een nieuwe krijgen?",
+    "extra_example_fa": "کارتم را گم کرده‌ام. می‌شود کارت جدید بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben mijn toegangspas kwijt. Kan ik een nieuwe krijgen?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و درخواست هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik heb mijn pas altijd bij me.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Passen zijn niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب است و کمک نمی‌خواهد." },
+      { "key": "D", "text_nl": "Ik kom morgen niet werken.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "broken_item_shop", "life_context": "shop",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "گوشی تازه‌خریده‌ات روشن نمی‌شود. باید به فروشگاه توضیح بدهی.",
+    "question_text_nl": "Je nieuwe telefoon gaat niet aan.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "بگو چه چیزی خریدی و چه مشکلی دارد.",
+    "grammar_rule_fa": "از «Mijn nieuwe telefoon gaat niet aan» استفاده کن.",
+    "extra_example_nl": "Mijn nieuwe telefoon gaat niet aan. Kan ik hem terugbrengen?",
+    "extra_example_fa": "گوشی جدیدم روشن نمی‌شود. می‌شود آن را پس بیاورم؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn nieuwe telefoon gaat niet aan. Kan ik hem terugbrengen?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و درخواست هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik hou van nieuwe telefoons.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Telefoons zijn duur tegenwoordig.", "is_correct": false, "feedback_fa": "این جمله مشکل خاص را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Mijn telefoon werkt perfect.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "broken_item_shop", "life_context": "shop",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "ماشین لباسشویی‌ای که هفته‌ی پیش خریدی، بعد از یک هفته کار کردن، دیگر روشن نمی‌شود. باید کامل توضیح بدهی و درخواست تعویض یا تعمیر کنی.",
+    "question_text_nl": "De wasmachine die je een week geleden kocht, doet het na een week niet meer.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "زمان خرید، مشکل و درخواست را کامل بنویس.",
+    "grammar_rule_fa": "از «De wasmachine die ik kocht, doet het niet meer. Kan ik...» استفاده کن.",
+    "extra_example_nl": "De wasmachine die ik vorige week kocht, doet het niet meer. Kan ik een nieuwe krijgen?",
+    "extra_example_fa": "ماشین لباسشویی‌ای که هفته‌ی پیش خریدم، دیگر کار نمی‌کند. می‌شود یکی جدید بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "De wasmachine die ik vorige week kocht, doet het niet meer. Kan ik een nieuwe krijgen?", "is_correct": true, "feedback_fa": "✅ درست؛ زمان، مشکل و درخواست هر سه دارد." },
+      { "key": "B", "text_nl": "Ik was mijn kleren met de hand.", "is_correct": false, "feedback_fa": "این جمله مشکل یا درخواست را بیان نمی‌کند." },
+      { "key": "C", "text_nl": "Wasmachines zijn handig.", "is_correct": false, "feedback_fa": "این جمله مشکل را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "De wasmachine werkte een week goed, dus alles is prima.", "is_correct": false, "feedback_fa": "این جمله با مشکل واقعی تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "internet_problem", "life_context": "internet_provider",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "اینترنت خانه‌ات کار نمی‌کند. باید به شرکت اینترنت پیام بدهی.",
+    "question_text_nl": "Het internet bij jou thuis werkt niet.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "بگو دقیقاً چه مشکلی هست و از کِی.",
+    "grammar_rule_fa": "از «Het internet werkt niet» استفاده کن.",
+    "extra_example_nl": "Het internet werkt niet sinds gisteren.",
+    "extra_example_fa": "از دیروز اینترنت کار نمی‌کند.",
+    "options": [
+      { "key": "A", "text_nl": "Het internet werkt niet sinds gisteren. Kunt u helpen?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و زمان شروع روشن است." },
+      { "key": "B", "text_nl": "Ik hou van internetten.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Internet is overal beschikbaar.", "is_correct": false, "feedback_fa": "این جمله مشکل را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Alles werkt goed thuis.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "internet_problem", "life_context": "internet_provider",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "چند روز است اینترنت خیلی کند شده و کار کردن سخت است. باید کامل توضیح بدهی.",
+    "question_text_nl": "Al een paar dagen is het internet heel langzaam en werken is moeilijk.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "مدت زمان مشکل و تأثیر آن را بنویس.",
+    "grammar_rule_fa": "از «Al een paar dagen is het internet heel langzaam» استفاده کن.",
+    "extra_example_nl": "Al een paar dagen is het internet heel langzaam. Kunt u dit oplossen?",
+    "extra_example_fa": "چند روز است اینترنت خیلی کند است. می‌شود این را حل کنید؟",
+    "options": [
+      { "key": "A", "text_nl": "Al een paar dagen is het internet heel langzaam. Kunt u dit oplossen?", "is_correct": true, "feedback_fa": "✅ درست؛ مدت زمان و درخواست هر دو دارد." },
+      { "key": "B", "text_nl": "Internet is soms snel.", "is_correct": false, "feedback_fa": "این جمله مبهم است و مشکل خاص را نمی‌گوید." },
+      { "key": "C", "text_nl": "Ik gebruik weinig internet.", "is_correct": false, "feedback_fa": "این جمله مشکل را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Alles werkt perfect deze week.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "heating_problem", "life_context": "landlord",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "زمستان است و بخاری خانه‌ات کار نمی‌کند. باید به صاحب‌خانه پیام بدهی.",
+    "question_text_nl": "Het is winter en de verwarming in je huis doet het niet.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "بگو بخاری کار نمی‌کند و از کِی.",
+    "grammar_rule_fa": "از «De verwarming doet het niet» استفاده کن.",
+    "extra_example_nl": "De verwarming doet het niet sinds gisteren.",
+    "extra_example_fa": "بخاری از دیروز کار نمی‌کند.",
+    "options": [
+      { "key": "A", "text_nl": "De verwarming doet het niet sinds gisteren. Kunt u dit repareren?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و درخواست هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik draag warme kleren.", "is_correct": false, "feedback_fa": "این جمله درخواست تعمیر نیست." },
+      { "key": "C", "text_nl": "De winter is koud dit jaar.", "is_correct": false, "feedback_fa": "این جمله مشکل خاص خانه را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "De verwarming werkt altijd goed.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "heating_problem", "life_context": "landlord",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "چند روز است آب گرم در خانه‌ات نیست. باید کامل توضیح بدهی و بخواهی سریع درست شود.",
+    "question_text_nl": "Al een paar dagen is er geen warm water in je huis.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "مدت زمان مشکل را بگو و بخواه سریع درست کنند.",
+    "grammar_rule_fa": "از «Al een paar dagen is er geen warm water» استفاده کن.",
+    "extra_example_nl": "Al een paar dagen is er geen warm water. Kunt u dit snel oplossen?",
+    "extra_example_fa": "چند روز است آب گرم نداریم. می‌شود سریع این را حل کنید؟",
+    "options": [
+      { "key": "A", "text_nl": "Al een paar dagen is er geen warm water. Kunt u dit snel oplossen?", "is_correct": true, "feedback_fa": "✅ درست؛ مدت زمان و درخواست فوری هر دو دارد." },
+      { "key": "B", "text_nl": "Koud water is ook prima.", "is_correct": false, "feedback_fa": "این جمله مشکل را کوچک نشان می‌دهد و کمک نمی‌خواهد." },
+      { "key": "C", "text_nl": "Ik douche niet vaak.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Warm water is niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "transport_problem", "life_context": "garage",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "ماشینت صدای عجیبی می‌دهد. باید به تعمیرگاه توضیح بدهی.",
+    "question_text_nl": "Je auto maakt een raar geluid.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "بگو ماشین چه صدایی می‌دهد و از کِی.",
+    "grammar_rule_fa": "از «Mijn auto maakt een raar geluid» استفاده کن.",
+    "extra_example_nl": "Mijn auto maakt sinds gisteren een raar geluid.",
+    "extra_example_fa": "ماشینم از دیروز صدای عجیبی می‌دهد.",
+    "options": [
+      { "key": "A", "text_nl": "Mijn auto maakt sinds gisteren een raar geluid. Kunt u kijken wat het is?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و درخواست هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik hou van rustige auto's.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Auto's maken altijd geluid.", "is_correct": false, "feedback_fa": "این جمله مشکل خاص را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Mijn auto rijdt perfect.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "transport_problem", "life_context": "garage",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "چرخ دوچرخه‌ات پنچر شده و نمی‌توانی سوار شوی. باید توضیح بدهی و وقت بخواهی.",
+    "question_text_nl": "De band van je fiets is lek en je kunt niet fietsen.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "مشکل را بگو و بخواه کمک کنند.",
+    "grammar_rule_fa": "از «De band van mijn fiets is lek» استفاده کن.",
+    "extra_example_nl": "De band van mijn fiets is lek. Kan ik langskomen om het te laten maken?",
+    "extra_example_fa": "چرخ دوچرخه‌ام پنچر شده. می‌شود بیایم تعمیرش کنید؟",
+    "options": [
+      { "key": "A", "text_nl": "De band van mijn fiets is lek. Kan ik langskomen om het te laten maken?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و درخواست هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik fiets graag in de zomer.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Fietsen zijn goedkoop.", "is_correct": false, "feedback_fa": "این جمله مشکل را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Mijn fiets werkt perfect.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "request_repair", "life_context": "landlord",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "پنجره‌ی خانه‌ات شکسته. باید از صاحب‌خانه بخواهی آن را تعمیر کند.",
+    "question_text_nl": "Het raam in je huis is kapot.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "مشکل و درخواست تعمیر را واضح بنویس.",
+    "grammar_rule_fa": "از «Het raam is kapot, kunt u het repareren?» استفاده کن.",
+    "extra_example_nl": "Het raam in de woonkamer is kapot. Kunt u het repareren?",
+    "extra_example_fa": "پنجره‌ی اتاق نشیمن شکسته. می‌شود تعمیرش کنید؟",
+    "options": [
+      { "key": "A", "text_nl": "Het raam in de woonkamer is kapot. Kunt u het repareren?", "is_correct": true, "feedback_fa": "✅ درست؛ محل و درخواست هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik hou van frisse lucht.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Ramen zijn belangrijk.", "is_correct": false, "feedback_fa": "این جمله مشکل خاص را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Het raam is heel mooi.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "request_repair", "life_context": "landlord",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "قفل در ورودی خانه‌ات خراب شده و نگران امنیت هستی. باید فوری از صاحب‌خانه بخواهی آن را تعمیر کند.",
+    "question_text_nl": "Het slot van de voordeur is kapot en je maakt je zorgen over de veiligheid.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "مشکل و نگرانی امنیتی را بگو و بخواه فوری تعمیر شود.",
+    "grammar_rule_fa": "از «Het slot is kapot, dit is niet veilig» استفاده کن.",
+    "extra_example_nl": "Het slot van de voordeur is kapot. Dit is niet veilig. Kunt u het snel repareren?",
+    "extra_example_fa": "قفل در ورودی خراب شده. این امن نیست. می‌شود سریع تعمیرش کنید؟",
+    "options": [
+      { "key": "A", "text_nl": "Het slot van de voordeur is kapot. Dit is niet veilig. Kunt u het snel repareren?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل، نگرانی امنیتی و فوریت هر سه دارد." },
+      { "key": "B", "text_nl": "Sloten zijn soms lastig.", "is_correct": false, "feedback_fa": "این جمله مبهم است و فوریت را نمی‌رساند." },
+      { "key": "C", "text_nl": "Ik voel me altijd veilig.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "D", "text_nl": "De deur is heel mooi.", "is_correct": false, "feedback_fa": "این جمله مشکل را توضیح نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "request_repair", "life_context": "shop",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "لپ‌تاپی که خریدی بعد از دو روز روشن نشد. باید بخواهی تعمیر یا تعویض کنند.",
+    "question_text_nl": "De laptop die je kocht, gaat na twee dagen niet meer aan.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "مشکل و درخواست تعمیر یا تعویض را بنویس.",
+    "grammar_rule_fa": "از «Kan ik hem laten repareren of omruilen?» استفاده کن.",
+    "extra_example_nl": "Mijn laptop gaat niet meer aan. Kan ik hem laten repareren of omruilen?",
+    "extra_example_fa": "لپ‌تاپم دیگر روشن نمی‌شود. می‌شود تعمیر یا تعویضش کنم؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn laptop gaat niet meer aan. Kan ik hem laten repareren of omruilen?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و درخواست هر دو روشن است." },
+      { "key": "B", "text_nl": "Laptops zijn heel handig.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Ik gebruik mijn laptop elke dag.", "is_correct": false, "feedback_fa": "این جمله مشکل را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Mijn laptop werkt goed.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "health_problem", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "فرزندت چند روز است تب دارد. باید علائم را برای دکتر بنویسی.",
+    "question_text_nl": "Je kind heeft al een paar dagen koorts.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "علائم فرزندت را ساده و واضح بنویس.",
+    "grammar_rule_fa": "از «Mijn kind heeft al een paar dagen koorts» استفاده کن.",
+    "extra_example_nl": "Mijn kind heeft al een paar dagen koorts en hoest ook.",
+    "extra_example_fa": "فرزندم چند روز است تب دارد و سرفه هم می‌کند.",
+    "options": [
+      { "key": "A", "text_nl": "Mijn kind heeft al een paar dagen koorts en hoest ook.", "is_correct": true, "feedback_fa": "✅ درست؛ علائم و مدت زمان روشن است." },
+      { "key": "B", "text_nl": "Mijn kind is heel gezond.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Kinderen worden vaak ziek.", "is_correct": false, "feedback_fa": "این جمله علائم خاص را توضیح نمی‌دهد." },
+      { "key": "D", "text_nl": "Ik ga volgende week op vakantie.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "broken_appliance", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "یخچالت خراب شده. باید به یکی از اعضای خانواده‌ات پیام بدهی و کمک بخواهی.",
+    "question_text_nl": "Je koelkast is kapot.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "به‌صورت دوستانه و ساده مشکل را بگو و کمک بخواه.",
+    "grammar_rule_fa": "از «Mijn koelkast is kapot, kun je helpen?» استفاده کن.",
+    "extra_example_nl": "Mijn koelkast is kapot. Kun je me helpen een nieuwe te zoeken?",
+    "extra_example_fa": "یخچالم خراب شده. می‌شود کمکم کنی یکی جدید پیدا کنم؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn koelkast is kapot. Kun je me helpen een nieuwe te zoeken?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و درخواست کمک هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik hou van koken.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Koelkasten zijn duur tegenwoordig.", "is_correct": false, "feedback_fa": "این جمله شکایت است، درخواست کمک روشنی نیست." },
+      { "key": "D", "text_nl": "Mijn koelkast werkt perfect.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "noise_complaint", "life_context": "neighbour",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "همسایه‌ات دیشب تا دیروقت موسیقی بلند گذاشته بود. باید پیام مؤدبانه اما جدی بنویسی.",
+    "question_text_nl": "De buren hadden gisteravond tot laat harde muziek aan.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "مشکل خاص شب گذشته را بگو و مؤدبانه بخواه دیگر تکرار نشود.",
+    "grammar_rule_fa": "از «Gisteravond was de muziek erg hard» استفاده کن.",
+    "extra_example_nl": "Gisteravond was de muziek erg hard tot laat. Kunt u hier rekening mee houden?",
+    "extra_example_fa": "دیشب موسیقی خیلی بلند بود تا دیروقت. می‌شود این را رعایت کنید؟",
+    "options": [
+      { "key": "A", "text_nl": "Gisteravond was de muziek erg hard tot laat. Kunt u hier rekening mee houden?", "is_correct": true, "feedback_fa": "✅ درست؛ مؤدبانه و جدی است، مشکل روشن است." },
+      { "key": "B", "text_nl": "Muziek is altijd leuk.", "is_correct": false, "feedback_fa": "این جمله مشکل را بیان نمی‌کند." },
+      { "key": "C", "text_nl": "Ik slaap heel goed altijd.", "is_correct": false, "feedback_fa": "این جمله با مشکل ضمنی تناقض دارد." },
+      { "key": "D", "text_nl": "Jullie zijn nooit stil, dat is verschrikkelijk!", "is_correct": false, "feedback_fa": "این جمله خیلی تند و بی‌ادبانه است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "missing_item", "life_context": "school",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "کیف مدرسه‌ی فرزندت در مدرسه گم شده. باید به مدرسه پیام بدهی.",
+    "question_text_nl": "De schooltas van je kind is kwijt op school.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "بگو چه چیزی گم شده و بخواه کمک کنند پیدا کنند.",
+    "grammar_rule_fa": "از «De schooltas van mijn kind is kwijt» استفاده کن.",
+    "extra_example_nl": "De schooltas van mijn kind is kwijt. Kunt u helpen zoeken?",
+    "extra_example_fa": "کیف مدرسه‌ی فرزندم گم شده. می‌شود کمک کنید پیدا شود؟",
+    "options": [
+      { "key": "A", "text_nl": "De schooltas van mijn kind is kwijt. Kunt u helpen zoeken?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و درخواست کمک هر دو روشن است." },
+      { "key": "B", "text_nl": "Mijn kind heeft alles bij zich.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Schooltassen zijn duur.", "is_correct": false, "feedback_fa": "این جمله درخواست کمک نیست." },
+      { "key": "D", "text_nl": "Mijn kind gaat morgen niet naar school.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط و معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "transport_problem", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "ماشینت خراب شده و نمی‌دانی امروز چطور سر کار بروی. باید به همکارت توضیح بدهی.",
+    "question_text_nl": "Je auto is kapot en je weet niet hoe je vandaag op werk komt.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو ماشین خراب شده و چه کمکی می‌خواهی.",
+    "grammar_rule_fa": "از «Mijn auto is kapot, ik weet niet hoe ik op werk kom» استفاده کن.",
+    "extra_example_nl": "Mijn auto is kapot. Kun je me misschien ophalen?",
+    "extra_example_fa": "ماشینم خراب شده. می‌شود مرا برداری؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn auto is kapot. Kun je me misschien ophalen?", "is_correct": true, "feedback_fa": "✅ درست؛ مشکل و درخواست کمک هر دو روشن است." },
+      { "key": "B", "text_nl": "Auto's zijn soms lastig.", "is_correct": false, "feedback_fa": "این جمله درخواست کمک نیست." },
+      { "key": "C", "text_nl": "Ik rijd nooit met de auto.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "D", "text_nl": "Mijn auto werkt perfect.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "short_problem_description", "subtopic": "request_repair", "life_context": "gemeente",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "چراغ خیابان جلوی خانه‌ات چند روز است روشن نمی‌شود. باید به شهرداری گزارش بدهی.",
+    "question_text_nl": "De straatlantaarn voor je huis doet het al een paar dagen niet.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "مکان دقیق و مدت زمان مشکل را بگو.",
+    "grammar_rule_fa": "از «De straatlantaarn doet het al een paar dagen niet» استفاده کن.",
+    "extra_example_nl": "De straatlantaarn voor mijn huis doet het al een paar dagen niet. Kunt u dit doorgeven?",
+    "extra_example_fa": "چراغ خیابان جلوی خانه‌ام چند روز است روشن نمی‌شود. می‌شود این را اطلاع دهید؟",
+    "options": [
+      { "key": "A", "text_nl": "De straatlantaarn voor mijn huis doet het al een paar dagen niet. Kunt u dit doorgeven?", "is_correct": true, "feedback_fa": "✅ درست؛ مکان، مدت زمان و درخواست هر سه دارد." },
+      { "key": "B", "text_nl": "Straten zijn 's avonds donker.", "is_correct": false, "feedback_fa": "این جمله مشکل خاص و محل را مشخص نمی‌کند." },
+      { "key": "C", "text_nl": "Ik loop niet graag in het donker.", "is_correct": false, "feedback_fa": "این جمله گزارش دقیقی از مشکل نیست." },
+      { "key": "D", "text_nl": "De straatlantaarn werkt goed.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  }
+]

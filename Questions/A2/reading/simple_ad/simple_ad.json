@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Te huur: appartement met 2 kamers, 850 euro per maand. Niet inclusief energie; dat is apart.»",
+    "question_text_fa": "طبق آگهی، اجاره‌ی ۸۵۰ یورو شامل چه چیزی نمی‌شود؟",
+    "explanation_fa": "متن می‌گوید هزینه‌ی انرژی جزو اجاره نیست و جداگانه پرداخت می‌شود.",
+    "grammar_rule_fa": "به کلمه‌ی «niet inclusief» توجه کن؛ چیزِ جدا شده را نشان می‌دهد.",
+    "extra_example_nl": "De prijs is niet inclusief internet; dat is apart.",
+    "extra_example_fa": "قیمت شامل اینترنت نمی‌شود؛ جداست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Energie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kamers",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alles is inclusief",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید انرژی جدا است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huur zelf",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Gezocht: schoonmaker voor 3 uur per week, niet op maandag. We zoeken iemand voor woensdagochtend.»",
+    "question_text_fa": "طبق آگهی، این کار چه روزی لازم است؟",
+    "explanation_fa": "متن می‌گوید کار برای دوشنبه نیست، بلکه برای چهارشنبه صبح لازم است.",
+    "grammar_rule_fa": "به کلمه‌ی «niet … we zoeken» توجه کن؛ روزِ درست بعد از آن می‌آید.",
+    "extra_example_nl": "We zoeken iemand voor donderdagmiddag, niet voor dinsdag.",
+    "extra_example_fa": "به دنبال کسی برای پنجشنبه بعدازظهر هستیم، نه سه‌شنبه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Maandag",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید برای این روز نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Woensdagochtend",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Woensdagavond",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Fiets te koop, twee jaar oud, 90 euro. Niet onderhandelbaar, want de fiets is al goedkoop.»",
+    "question_text_fa": "طبق آگهی، آیا می‌شود روی قیمت دوچرخه چانه زد؟",
+    "explanation_fa": "متن می‌گوید قیمت قابل چانه‌زنی نیست چون از قبل ارزان است.",
+    "grammar_rule_fa": "به کلمه‌ی «niet onderhandelbaar» توجه کن؛ این یعنی قیمت ثابت است.",
+    "extra_example_nl": "De prijs is niet onderhandelbaar, want het product is al in de aanbieding.",
+    "extra_example_fa": "قیمت قابل چانه‌زنی نیست، چون کالا از قبل تخفیف دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen als je contant betaalt",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, altijd",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, de prijs staat vast",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen op zaterdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Deze week 30 procent korting op jassen. Op schoenen is de korting maar 10 procent.»",
+    "question_text_fa": "طبق آگهی، تخفیف کفش چقدر است؟",
+    "explanation_fa": "متن می‌گوید کت ۳۰ درصد تخفیف دارد، اما کفش فقط ۱۰ درصد.",
+    "grammar_rule_fa": "به عددی که مربوط به کفش است توجه کن، نه کت.",
+    "extra_example_nl": "Op broeken is de korting maar 15 procent, op jassen 25 procent.",
+    "extra_example_fa": "شلوار فقط ۱۵ درصد تخفیف دارد، کت ۲۵ درصد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen korting",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "30 procent",
+        "is_correct": false,
+        "feedback_fa": "این تخفیفِ کت است."
+      },
+      {
+        "key": "C",
+        "text_nl": "20 procent",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "10 procent",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید کفش «maar 10 procent» دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Vacature: vakkenvuller, 16 uur per week, in de supermarkt. Geen ervaring nodig, wel op tijd kunnen komen.»",
+    "question_text_fa": "طبق آگهی، برای این شغل چه چیزی لازم نیست؟",
+    "explanation_fa": "متن می‌گوید تجربه لازم نیست، اما وقت‌شناسی مهم است.",
+    "grammar_rule_fa": "به کلمه‌ی «geen … nodig» توجه کن.",
+    "extra_example_nl": "Geen diploma nodig, wel goed kunnen samenwerken.",
+    "extra_example_fa": "مدرک لازم نیست، اما همکاری خوب مهم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ervaring",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید ارزوی تجربه لازم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op tijd komen",
+        "is_correct": false,
+        "feedback_fa": "این لازم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "16 uur beschikbaar zijn",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Werken in de supermarkt",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Bank te koop, weinig gebruikt, 120 euro. Ophalen kan alleen in het weekend, niet doordeweeks.»",
+    "question_text_fa": "طبق آگهی، چه زمانی می‌شود کاناپه را تحویل گرفت؟",
+    "explanation_fa": "متن می‌گوید تحویل فقط آخر هفته ممکن است، نه روزهای هفته.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen … niet» توجه کن؛ زمانِ رد شده مشخص است.",
+    "extra_example_nl": "Ophalen kan alleen 's avonds, niet overdag.",
+    "extra_example_fa": "تحویل فقط شب ممکن است، نه روز.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doordeweeks",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید این زمان ممکن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "In het weekend",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Elke dag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen 's ochtends",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Nieuw restaurant open vanaf zaterdag. De eerste week is er geen lunch, alleen diner.»",
+    "question_text_fa": "طبق آگهی، هفته‌ی اول این رستوران چه وعده‌ای ارائه نمی‌دهد؟",
+    "explanation_fa": "متن می‌گوید هفته‌ی اول فقط شام دارد، ناهار ندارد.",
+    "grammar_rule_fa": "به کلمه‌ی «geen … alleen» توجه کن.",
+    "extra_example_nl": "De eerste maand is er geen ontbijt, alleen lunch.",
+    "extra_example_fa": "ماه اول فقط ناهار دارد، صبحانه ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Diner",
+        "is_correct": false,
+        "feedback_fa": "این وعده ارائه می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Lunch",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید ناهار در هفته‌ی اول نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ontbijt en lunch",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Oppas gezocht voor twee kinderen, niet op dinsdag, zoals eerst gevraagd. Nu zoeken we iemand voor donderdagmiddag.»",
+    "question_text_fa": "طبق آگهی، پرستار بچه الان برای چه زمانی لازم است؟",
+    "explanation_fa": "متن می‌گوید درخواستِ اول سه‌شنبه بود، اما الان برای پنجشنبه بعدازظهر لازم است.",
+    "grammar_rule_fa": "زمانِ نهایی بعد از «nu zoeken we» می‌آید.",
+    "extra_example_nl": "We zoeken nu iemand voor maandagochtend, niet voor woensdag.",
+    "extra_example_fa": "الان به دنبال کسی برای دوشنبه صبح هستیم، نه چهارشنبه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Donderdagochtend",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dinsdag",
+        "is_correct": false,
+        "feedback_fa": "این درخواستِ قدیمی بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Donderdagmiddag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Auto te koop, 5 jaar oud, 4500 euro. De prijs is inclusief nieuwe banden, maar niet inclusief verzekering.»",
+    "question_text_fa": "طبق آگهی، قیمتِ خودرو شامل چه چیزی نمی‌شود؟",
+    "explanation_fa": "متن می‌گوید تایرهای نو شامل قیمت است، اما بیمه شامل نیست.",
+    "grammar_rule_fa": "به کلمه‌ی «niet inclusief» توجه کن.",
+    "extra_example_nl": "De prijs is inclusief bezorging, maar niet inclusief installatie.",
+    "extra_example_fa": "قیمت شاملِ ارسال است، اما شامل نصب نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Verzekering",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De auto zelf",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alles is inclusief",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nieuwe banden",
+        "is_correct": false,
+        "feedback_fa": "این شامل قیمت است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Gratis Nederlandse les voor nieuwkomers, elke woensdag. Voor gevorderden is er een aparte les op vrijdag, niet gratis.»",
+    "question_text_fa": "طبق آگهی، کدام کلاس رایگان نیست؟",
+    "explanation_fa": "متن می‌گوید کلاس چهارشنبه برای تازه‌واردان رایگان است، اما کلاس جمعه برای پیشرفته‌ها رایگان نیست.",
+    "grammar_rule_fa": "به کلمه‌ی «niet gratis» توجه کن.",
+    "extra_example_nl": "Voor gevorderden is er een cursus op zaterdag, niet gratis.",
+    "extra_example_fa": "برای پیشرفته‌ها دوره‌ای شنبه هست که رایگان نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De les op woensdag",
+        "is_correct": false,
+        "feedback_fa": "این کلاس رایگان است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De les op vrijdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Beide lessen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Wij zoeken een chauffeur met rijbewijs B, geen rijbewijs C nodig. Werktijden zijn overdag, niet 's nachts.»",
+    "question_text_fa": "طبق آگهی، این شغل چه ساعتی کار می‌کند؟",
+    "explanation_fa": "متن می‌گوید کار روزانه است، نه شبانه.",
+    "grammar_rule_fa": "به کلمه‌ی «overdag, niet 's nachts» توجه کن.",
+    "extra_example_nl": "Werktijden zijn 's avonds, niet overdag.",
+    "extra_example_fa": "ساعت کاری عصرها است، نه روزها.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In het weekend alleen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "'s Nachts",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید کار شبانه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Overdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "'s Ochtends vroeg alleen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Kledingwinkel zoekt verkoper voor het weekend. Ervaring is niet verplicht, maar wel een pré.»",
+    "question_text_fa": "طبق آگهی، تجربه برای این شغل چگونه است؟",
+    "explanation_fa": "متن می‌گوید تجربه اجباری نیست، اما یک امتیاز مثبت محسوب می‌شود.",
+    "grammar_rule_fa": "به تفاوتِ «niet verplicht» و «wel een pré» توجه کن.",
+    "extra_example_nl": "Een diploma is niet verplicht, maar wel een pré.",
+    "extra_example_fa": "مدرک اجباری نیست، اما امتیاز مثبت است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Helemaal niet belangrijk",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید یک مزیت است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen voor mannen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Verplicht",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید اجباری نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet verplicht, maar een pré",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Tafel en vier stoelen te koop, samen 60 euro. Losse stoelen verkopen wij niet.»",
+    "question_text_fa": "طبق آگهی، آیا می‌شود فقط صندلی‌ها را جداگانه خرید؟",
+    "explanation_fa": "متن می‌گوید صندلی‌های تکی به‌صورت جداگانه فروخته نمی‌شود.",
+    "grammar_rule_fa": "به کلمه‌ی «niet» در جمله‌ی آخر توجه کن.",
+    "extra_example_nl": "Losse onderdelen verkopen wij niet, alleen de hele set.",
+    "extra_example_fa": "قطعات جداگانه فروخته نمی‌شود، فقط کل ست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, alleen samen met de tafel",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, maar duurder",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen op bestelling",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, altijd mogelijk",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Sportschool: eerste maand gratis proberen. Na de eerste maand betaalt u 25 euro per maand.»",
+    "question_text_fa": "طبق آگهی، از ماه دوم چقدر باید پرداخت شود؟",
+    "explanation_fa": "متن می‌گوید ماه اول رایگان است، اما از ماه دوم باید ۲۵ یورو پرداخت شود.",
+    "grammar_rule_fa": "به عددی که بعد از «na de eerste maand» می‌آید توجه کن.",
+    "extra_example_nl": "Na de eerste week betaalt u 10 euro per week.",
+    "extra_example_fa": "بعد از هفته‌ی اول، هفته‌ای ۱۰ یورو پرداخت می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets, altijd gratis",
+        "is_correct": false,
+        "feedback_fa": "فقط ماه اول رایگان است."
+      },
+      {
+        "key": "B",
+        "text_nl": "25 euro per maand",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "50 euro per maand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "25 euro per week",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Wasmachine te koop wegens verhuizing, 75 euro. De droger is al verkocht, dus alleen de wasmachine is nog te koop.»",
+    "question_text_fa": "طبق آگهی، الان چه چیزی هنوز قابل خرید است؟",
+    "explanation_fa": "متن می‌گوید خشک‌کن قبلاً فروخته شده؛ فقط ماشین لباسشویی هنوز موجود است.",
+    "grammar_rule_fa": "به کلمه‌ی «al verkocht» توجه کن؛ آن چیز دیگر موجود نیست.",
+    "extra_example_nl": "De bank is al verkocht, dus alleen de stoel is nog te koop.",
+    "extra_example_fa": "کاناپه قبلاً فروخته شده؛ فقط صندلی هنوز موجود است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De droger",
+        "is_correct": false,
+        "feedback_fa": "این قبلاً فروخته شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De wasmachine",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Vacature: schoonmaakster, maandag en donderdag. Let op: de vacature voor dinsdag is al vervuld.»",
+    "question_text_fa": "طبق آگهی، برای کدام روز دیگر نیازی به کارمند نیست؟",
+    "explanation_fa": "متن می‌گوید موقعیتِ سه‌شنبه قبلاً پر شده؛ دوشنبه و پنجشنبه هنوز باز است.",
+    "grammar_rule_fa": "به کلمه‌ی «al vervuld» توجه کن؛ آن موقعیت دیگر باز نیست.",
+    "extra_example_nl": "Let op: de vacature voor vrijdag is al vervuld.",
+    "extra_example_fa": "توجه: موقعیتِ جمعه قبلاً پر شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Donderdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alle dagen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Maandag",
+        "is_correct": false,
+        "feedback_fa": "این روز هنوز باز است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dinsdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید این روز پر شده."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Nieuw in de winkel: verse groenten uit de regio. Fruit komt deze week nog uit het buitenland.»",
+    "question_text_fa": "طبق آگهی، میوه‌ی این هفته از کجا می‌آید؟",
+    "explanation_fa": "متن می‌گوید سبزیجات از منطقه است، اما میوه هنوز از خارج می‌آید.",
+    "grammar_rule_fa": "به تفاوتِ منشأِ سبزیجات و میوه دقت کن.",
+    "extra_example_nl": "Groenten komen uit Nederland, fruit komt nog uit het buitenland.",
+    "extra_example_fa": "سبزیجات از هلند، میوه هنوز از خارج می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Uit het buitenland",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید درباره‌ی میوه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Uit de tuin van de winkel",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Onbekend",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Uit de regio",
+        "is_correct": false,
+        "feedback_fa": "این منشأِ سبزیجات است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Kamer te huur voor een student, 400 euro per maand. Niet geschikt voor twee personen.»",
+    "question_text_fa": "طبق آگهی، اتاق برای چند نفر مناسب است؟",
+    "explanation_fa": "متن می‌گوید اتاق برای دو نفر مناسب نیست.",
+    "grammar_rule_fa": "به کلمه‌ی «niet geschikt voor» توجه کن.",
+    "extra_example_nl": "Deze kamer is niet geschikt voor huisdieren.",
+    "extra_example_fa": "این اتاق برای حیوان خانگی مناسب نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Twee personen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Eén persoon",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط یک نفر مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een gezin",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Drie studenten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Fietsenwinkel: gratis reparatie bij aankoop van een nieuwe fiets. Voor tweedehands fietsen is reparatie niet gratis.»",
+    "question_text_fa": "طبق آگهی، برای دوچرخه‌ی دست‌دوم تعمیر چگونه است؟",
+    "explanation_fa": "متن می‌گوید تعمیرِ رایگان فقط برای دوچرخه‌ی نو است؛ دست‌دوم رایگان نیست.",
+    "grammar_rule_fa": "به کلمه‌ی «niet gratis» توجه کن.",
+    "extra_example_nl": "Voor tweedehands producten is garantie niet gratis.",
+    "extra_example_fa": "برای کالای دست‌دوم گارانتی رایگان نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen op zaterdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gratis, net als nieuwe fietsen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید رایگان نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niet gratis",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Helemaal niet mogelijk",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Vacature: kok gezocht voor het weekend, ervaring gewenst. Voor doordeweeks hebben we al genoeg koks.»",
+    "question_text_fa": "طبق آگهی، چرا برای روزهای هفته دیگر آشپز لازم نیست؟",
+    "explanation_fa": "متن می‌گوید برای روزهای هفته از قبل به‌اندازه‌ی کافی آشپز دارند.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از «al» می‌آید.",
+    "extra_example_nl": "Voor de ochtend hebben we al genoeg medewerkers.",
+    "extra_example_fa": "برای صبح‌ها از قبل کارمند کافی داریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het restaurant is dan gesloten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Niemand wil doordeweeks werken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is geen budget meer",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er zijn al genoeg koks",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Kinderfiets te koop, klein beetje gebruikt, 40 euro. Een fietshelm hoort er gratis bij.»",
+    "question_text_fa": "طبق آگهی، همراه با خرید دوچرخه چه چیزی رایگان است؟",
+    "explanation_fa": "متن می‌گوید کلاه دوچرخه‌سواری رایگان همراه فروخته می‌شود.",
+    "grammar_rule_fa": "به کلمه‌ی «hoort er gratis bij» توجه کن.",
+    "extra_example_nl": "Een slot hoort er gratis bij bij aankoop van deze fiets.",
+    "extra_example_fa": "قفل رایگان همراه خرید این دوچرخه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een fietshelm",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een nieuwe fiets",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een tas",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets extra",
+        "is_correct": false,
+        "feedback_fa": "کلاه رایگان اضافه می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Deze maand: gratis bezorging bij bestellingen boven de 30 euro. Onder de 30 euro betaalt u 5 euro verzendkosten.»",
+    "question_text_fa": "طبق آگهی، اگر سفارش زیر ۳۰ یورو باشد چقدر باید برای ارسال پرداخت شود؟",
+    "explanation_fa": "متن می‌گوید فقط بالای ۳۰ یورو ارسال رایگان است؛ زیر آن ۵ یورو هزینه دارد.",
+    "grammar_rule_fa": "به عددی که برای سفارشِ کمتر از ۳۰ یورو ذکر شده توجه کن.",
+    "extra_example_nl": "Onder de 20 euro betaalt u 3 euro verzendkosten.",
+    "extra_example_fa": "زیر ۲۰ یورو، ۳ یورو هزینه‌ی ارسال دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets, altijd gratis",
+        "is_correct": false,
+        "feedback_fa": "این فقط بالای ۳۰ یورو است."
+      },
+      {
+        "key": "B",
+        "text_nl": "5 euro",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "10 euro",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "30 euro",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Taalcafé elke vrijdagavond, iedereen welkom. Koffie is gratis, andere drankjes kosten 1 euro.»",
+    "question_text_fa": "طبق آگهی، چه چیزی رایگان است در کافه‌ی زبان؟",
+    "explanation_fa": "متن می‌گوید فقط قهوه رایگان است؛ نوشیدنی‌های دیگر ۱ یورو هزینه دارند.",
+    "grammar_rule_fa": "به کلمه‌ی «gratis» و «kosten» توجه کن تا فرق دو مورد را بفهمی.",
+    "extra_example_nl": "Water is gratis, andere drankjes kosten 2 euro.",
+    "extra_example_fa": "آب رایگان است، نوشیدنی‌های دیگر ۲ یورو.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen thee",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alle drankjes",
+        "is_correct": false,
+        "feedback_fa": "فقط قهوه رایگان است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen koffie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets is gratis",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Boekenwinkel zoekt hulp voor twee middagen per week. Zaterdagen zijn al bezet door een andere medewerker.»",
+    "question_text_fa": "طبق آگهی، چرا شنبه در این آگهی مطرح نیست؟",
+    "explanation_fa": "متن می‌گوید شنبه‌ها از قبل توسط کارمند دیگری پر شده.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از «al bezet» می‌آید.",
+    "extra_example_nl": "Zondagen zijn al bezet door een andere collega.",
+    "extra_example_fa": "یکشنبه‌ها از قبل توسط همکار دیگری پر شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Er is geen budget",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Niemand wil zaterdag werken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De winkel is dan gesloten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een andere medewerker werkt dan al",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Te koop: bureau en bureaustoel, samen 45 euro. Alleen ophalen, wij bezorgen niet.»",
+    "question_text_fa": "طبق آگهی، آیا تحویل درب منزل امکان دارد؟",
+    "explanation_fa": "متن می‌گوید فقط تحویل حضوری ممکن است، ارسال به منزل انجام نمی‌شود.",
+    "grammar_rule_fa": "به کلمه‌ی «wij bezorgen niet» توجه کن.",
+    "extra_example_nl": "Alleen ophalen, wij versturen niet per post.",
+    "extra_example_fa": "فقط تحویل حضوری، با پست نمی‌فرستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, alleen zelf ophalen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, tegen betaling",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen in het weekend bezorgen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, gratis bezorging",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید ارسال نمی‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Vacature: pakketbezorger, eigen auto vereist. Werkdagen zijn maandag tot en met vrijdag, niet in het weekend.»",
+    "question_text_fa": "طبق آگهی، این شغل آخر هفته چگونه است؟",
+    "explanation_fa": "متن می‌گوید کار فقط روزهای هفته است، نه آخر هفته.",
+    "grammar_rule_fa": "به کلمه‌ی «niet in het weekend» توجه کن.",
+    "extra_example_nl": "Werkdagen zijn dinsdag tot en met zaterdag, niet op zondag.",
+    "extra_example_fa": "روزهای کاری سه‌شنبه تا شنبه است، نه یکشنبه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Werken in het weekend",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید آخر هفته کار نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vrij in het weekend",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen zaterdag werken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Elke dag werken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Nieuwe kapper in de straat, 10 procent korting deze maand. Alleen voor knippen, niet voor kleuren.»",
+    "question_text_fa": "طبق آگهی، تخفیف برای کدام خدمت است؟",
+    "explanation_fa": "متن می‌گوید تخفیف فقط برای کوتاه کردن است، نه رنگ کردن.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen … niet voor» توجه کن.",
+    "extra_example_nl": "Alleen voor wassen, niet voor knippen, is er korting.",
+    "extra_example_fa": "تخفیف فقط برای شست‌وشو است، نه کوتاهی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kleuren",
+        "is_correct": false,
+        "feedback_fa": "این تخفیف ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Knippen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alles",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Huisdier oppas gezocht voor het weekend van 12 en 13 juli. Alleen voor katten, geen honden.»",
+    "question_text_fa": "طبق آگهی، برای مراقبت از کدام حیوان به دنبال کسی هستند؟",
+    "explanation_fa": "متن می‌گوید فقط گربه، سگ نه.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen … geen» توجه کن.",
+    "extra_example_nl": "Alleen voor konijnen, geen vogels.",
+    "extra_example_fa": "فقط برای خرگوش، پرنده نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Beide dieren",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vogels",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Honden",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید سگ نه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Katten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Vacature: administratief medewerker, 24 uur per week. De uren zijn flexibel, behalve op vrijdag; dan moet u er zijn.»",
+    "question_text_fa": "طبق آگهی، کدام روز حضور اجباری است؟",
+    "explanation_fa": "متن می‌گوید ساعات کاری منعطف است، جز جمعه که حضور اجباری است.",
+    "grammar_rule_fa": "به کلمه‌ی «behalve» توجه کن؛ استثنا را نشان می‌دهد.",
+    "extra_example_nl": "De uren zijn flexibel, behalve op maandag; dan moet u aanwezig zijn.",
+    "extra_example_fa": "ساعت‌ها منعطف است، جز دوشنبه که حضور اجباری است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vrijdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین روز را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geen enkele dag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Maandag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Woensdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_ad",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Advertentie: «Gratis parkeren bij de supermarkt op zaterdag. Op andere dagen kost parkeren 1 euro per uur.»",
+    "question_text_fa": "طبق آگهی، پارک کردن روزهای دیگر (غیر شنبه) چقدر هزینه دارد؟",
+    "explanation_fa": "متن می‌گوید فقط شنبه رایگان است؛ روزهای دیگر ۱ یورو در ساعت هزینه دارد.",
+    "grammar_rule_fa": "به عددی که برای روزهای دیگر ذکر شده توجه کن.",
+    "extra_example_nl": "Op andere dagen kost parkeren 2 euro per uur.",
+    "extra_example_fa": "روزهای دیگر پارک ساعتی ۲ یورو هزینه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Gratis, net als zaterdag",
+        "is_correct": false,
+        "feedback_fa": "این فقط شنبه صادق است."
+      },
+      {
+        "key": "B",
+        "text_nl": "1 euro per uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "2 euro per uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "5 euro per uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  }
+]

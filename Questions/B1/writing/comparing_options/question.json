@@ -1,0 +1,1232 @@
+[
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "recommend_option_with_reason",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft een e-mail aan je manager over twee leveranciers. Je wilt voorstel A aanbevelen omdat het goedkoper is. Welke zin past het beste?",
+    "question_text_fa": "کدام جمله برای توصیه‌ی گزینه‌ی A با دلیل قیمت بهتر است؟",
+    "explanation_fa": "در ایمیل کاری، توصیه با «Ik stel voor dat we voor optie A kiezen, omdat …» طبیعی و حرفه‌ای است؛ دلیل هم روشن ذکر شده.",
+    "grammar_rule_fa": "توصیه در ایمیل رسمی: «Ik stel voor dat we … kiezen, omdat …».",
+    "extra_example_nl": "Ik stel voor dat we voor de goedkopere oplossing kiezen, omdat het budget beperkt is.",
+    "extra_example_fa": "پیشنهاد می‌کنم راه‌حل ارزان‌تر را انتخاب کنیم، چون بودجه محدود است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We moeten optie A nemen, het is goedkoop.",
+        "is_correct": false,
+        "feedback_fa": "لحن دستوری است و «goedkoper» باید باشد نه «goedkoop»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik stel voor dat we voor optie B kiezen, omdat het goedkoper is.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه B را توصیه می‌کند؛ معنی برعکس شد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Optie A is duurder, dus ik raad het aan.",
+        "is_correct": false,
+        "feedback_fa": "دلیل برعکس شد؛ «duurder» (گران‌تر) با «goedkoper» در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik stel voor dat we voor optie A kiezen, omdat het goedkoper is.",
+        "is_correct": true,
+        "feedback_fa": "✅ مودبانه، روشن و با دلیل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "In een e-mail vergelijk je twee softwarepakketten. Pakket 1 is gebruikersvriendelijker, pakket 2 is sneller. Je kiest pakket 1. Welke zin is het beste?",
+    "question_text_fa": "کدام جمله مقایسه و انتخابِ بسته‌ی ۱ را درست بیان می‌کند؟",
+    "explanation_fa": "برای مقایسه و انتخاب از «Hoewel …, kies ik voor …, omdat …» استفاده می‌شود: اعتراف به مزیت دیگر + انتخاب + دلیل.",
+    "grammar_rule_fa": "مقایسه و انتخاب: «Hoewel B sneller is, kies ik voor A, omdat …» (hoewel + bijzin, werkwoord aan het einde).",
+    "extra_example_nl": "Hoewel de trein goedkoper is, kies ik voor de auto, omdat het sneller is.",
+    "extra_example_fa": "هرچند قطار ارزان‌تر است، ماشین را انتخاب می‌کنم چون سریع‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoewel pakket 1 gebruikersvriendelijker is, kies ik voor pakket 2, omdat het sneller is.",
+        "is_correct": false,
+        "feedback_fa": "نتیجه‌ی برعکس؛ باید بسته‌ی ۱ انتخاب شود نه ۲."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kies voor pakket 1, hoewel pakket 2 sneller zijn.",
+        "is_correct": false,
+        "feedback_fa": "فعل «zijn» اشتباه صرف شده (باید «is» باشد) و ترتیب جمله‌ی فرعی نادرست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoewel pakket 2 sneller is, kies ik voor pakket 1, omdat het gebruikersvriendelijker is.",
+        "is_correct": true,
+        "feedback_fa": "✅ مقایسه‌ی متعادل + انتخاب + دلیل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Pakket 2 is sneller, maar ik kies pakket 1 omdat gebruikersvriendelijker.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «omdat» فعل «is» جا افتاده؛ جمله‌ی فرعی ناقص است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "pros_cons_summary",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft een korte notitie over twee cursussen. Welke zin vat de voor- en nadelen het beste samen?",
+    "question_text_fa": "کدام جمله مزایا و معایب دو دوره را بهترین خلاصه می‌کند؟",
+    "explanation_fa": "برای خلاصه‌ی مزایا و معایب از «A heeft als voordeel …, maar als nadeel …» استفاده می‌شود؛ ساختار متوازن و رسمی.",
+    "grammar_rule_fa": "خلاصه‌ی مزایا/معایب: «A heeft als voordeel …, maar als nadeel …».",
+    "extra_example_nl": "De online cursus heeft als voordeel flexibiliteit, maar als nadeel minder contact.",
+    "extra_example_fa": "دوره‌ی آنلاین مزیتش انعطاف است، اما عیبش ارتباط کمتر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Cursus A is goedkoper en heeft geen nadelen.",
+        "is_correct": false,
+        "feedback_fa": "یک‌سویه و غیرواقعی؛ ادعای «هیچ عیبی» نادرست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Cursus A heeft als nadeel de prijs, maar als voordeel de lange reistijd.",
+        "is_correct": false,
+        "feedback_fa": "مزیت و عیب جابه‌جا شدند؛ طول سفر عیب است نه مزیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Cursus A heeft als voordeel de prijs, maar als nadeel de lange reistijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ متوازن، طبیعی و دقیق."
+      },
+      {
+        "key": "D",
+        "text_nl": "Cursus A heeft als voordeel de prijs, maar als voordeel de reistijd.",
+        "is_correct": false,
+        "feedback_fa": "هر دو را «مزیت» نامیده؛ معایب فراموش شده و تکرار لغوی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "recommend_option_with_reason",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft een e-mail aan je partner over twee appartementen. Appartement 1 is goedkoper, appartement 2 is centraler. Je wilt appartement 1. Welke zin is het meest natuurlijk?",
+    "question_text_fa": "کدام جمله برای انتخاب خانه‌ی ۱ طبیعی‌تر است؟",
+    "explanation_fa": "در پیام غیررسمی به پارتنر، «Laten we voor … kiezen, want …» طبیعی است؛ «want» با لحن دوستانه دلیل را می‌گذارد.",
+    "grammar_rule_fa": "پیام غیررسمی: «Laten we voor A kiezen, want …».",
+    "extra_example_nl": "Laten we voor het goedkopere huis kiezen, want we willen graag geld besparen.",
+    "extra_example_fa": "خونه‌ی ارزان‌تر را بگیریم، چون می‌خواهیم پول ذخیره کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij moeten appartement 2 te kiezen, want het is centraler.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه و فعل اضافه «te» نادرست («moeten kiezen» بدون te)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kies appartement 1 omdat goedkoper.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «omdat» فعل «is» جا افتاده؛ جمله‌ی فرعی ناقص."
+      },
+      {
+        "key": "C",
+        "text_nl": "Laten we voor appartement 1 kiezen, want het is goedkoper en het centrale liggen is voor ons minder belangrijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ طبیعی، دوستانه و با دلیل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Appartement 1 is centraler, dus ik kies het.",
+        "is_correct": false,
+        "feedback_fa": "دلیل برعکس شد؛ خانه‌ی ۱ ارزان‌تر است نه مرکزی‌تر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je beantwoordt een klant die tussen twee abonnementen twijfelt. Welke zin is professioneel?",
+    "question_text_fa": "کدام جمله برای پاسخ حرفه‌ای به مشتری بهتر است؟",
+    "explanation_fa": "در پاسخ رسمی به مشتری، «Beide abonnementen hebben voordelen, maar … past beter bij uw behoeften» مودبانه و حرفه‌ای است.",
+    "grammar_rule_fa": "پاسخ رسمی به مشتری: «Beide … hebben voordelen, maar … past beter bij uw behoeften».",
+    "extra_example_nl": "Beide opties zijn geschikt, maar het basisabonnement past beter bij een klein gezin.",
+    "extra_example_fa": "هر دو گزینه مناسب‌اند، اما اشتراک پایه برای یک خانواده‌ی کوچک مناسب‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Beide abonnementen hebben nadelen, dus het maakt niet uit.",
+        "is_correct": false,
+        "feedback_fa": "بی‌تفاوتی به مشتری نادرست و غیرحرفه‌ای است."
+      },
+      {
+        "key": "B",
+        "text_nl": "U moet het premium abonnement nemen omdat duurder.",
+        "is_correct": false,
+        "feedback_fa": "توصیه‌ی بی‌دلیل به گران‌ترین، لحن دستوری و فعل «is» جا افتاده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Beide abonnementen hebben voordelen, maar het basisabonnement past beter bij uw behoeften.",
+        "is_correct": true,
+        "feedback_fa": "✅ مودبانه، متعادل و حرفه‌ای."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het premium abonnement is het beste voor iedereen.",
+        "is_correct": false,
+        "feedback_fa": "بدون توجه به نیاز مشتری؛ ادعای مطلق «برای همه» غیرحرفه‌ای است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "pros_cons_summary",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft een bericht aan je huisarts over twee behandelopties. Welke formulering is het meest gepast?",
+    "question_text_fa": "کدام جمله برای پیام به پزشک درباره‌ی دو درمان مناسب‌تر است؟",
+    "explanation_fa": "به پزشک لحن محترمانه و پرسشی بهتر است: بعد از ذکر دو گزینه، advies بخواهیم نه خودسرانه تصمیم بگیریم.",
+    "grammar_rule_fa": "پیام به دکتر: «Ik twijfel tussen A en B. Welke optie adviseert u?»",
+    "extra_example_nl": "Ik twijfel tussen de twee medicijnen. Welke optie adviseert u mij?",
+    "extra_example_fa": "بین دو دارو مردد هستم. کدام را توصیه می‌کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik twijfel tussen beide opties. Welke optie adviseer jij mij?",
+        "is_correct": false,
+        "feedback_fa": "ضمیر «jij» (غیررسمی) به پزشک نادرست است؛ باید «u» باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik weet al dat optie A beter is, dus dat doe ik.",
+        "is_correct": false,
+        "feedback_fa": "پزشک را نادیده می‌گیرد و تصمیم خودسرانه؛ لحن نامناسب."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik twijfel tussen beide opties. Welke optie adviseert u mij?",
+        "is_correct": true,
+        "feedback_fa": "✅ محترمانه، پرسشی و حرفه‌ای."
+      },
+      {
+        "key": "D",
+        "text_nl": "U moet optie B voor mij kiezen.",
+        "is_correct": false,
+        "feedback_fa": "دستوری به پزشک و انتخاب خودسرانه؛ لحن بی‌ادبانه."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "recommend_option_with_reason",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je mailt je collega over de reis naar een klant: de trein (rustig, kunt werken) of de auto (sneller bij file). Je wilt met de trein. Welke zin is het beste?",
+    "question_text_fa": "کدام جمله برای پیشنهاد قطار بهترین است؟",
+    "explanation_fa": "ترجیح + دلیل کارایی: «Ik heb liever dat we met de trein gaan, omdat …» طبیعی است و دلیل منطقی می‌دهد.",
+    "grammar_rule_fa": "ترجیح در ایمیل: «Ik heb liever dat we met A gaan, omdat …».",
+    "extra_example_nl": "Ik heb liever dat we met de trein gaan, omdat we dan kunnen werken.",
+    "extra_example_fa": "ترجیح می‌دهم با قطار برویم، چون آن‌وقت می‌توانیم کار کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb liever dat we met de auto gaan, omdat ik kan werken.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه (ماشین)؛ باید قطار باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb liever dat we met de trein gaan, omdat ik onderweg kan werken.",
+        "is_correct": true,
+        "feedback_fa": "✅ ترجیح + دلیل روشن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb liever dat we met de trein gaan, omdat het sneller is dan de auto.",
+        "is_correct": false,
+        "feedback_fa": "دلیل نادرست؛ قطار در این سناریو آرام‌تر است نه سریع‌تر."
+      },
+      {
+        "key": "D",
+        "text_nl": "We moeten met de auto gaan, want de trein is te rustig.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه (ماشین) و دلیل عجیب (خیلی آرام بودن قطار)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft een advies naar je team over twee data voor een evenement: 14 mei (ruimte beschikbaar) en 21 mei (meer deelnemers). Je kiest 14 mei. Welke zin?",
+    "question_text_fa": "کدام جمله برای انتخاب ۱۴ مه با دلیل بهترین است؟",
+    "explanation_fa": "«Mijn voorkeur gaat uit naar 14 mei, omdat …» یک ساختار رسمی و حرفه‌ای برای پیشنهاد تاریخ در ایمیل کاری است.",
+    "grammar_rule_fa": "ترجیح رسمی: «Mijn voorkeur gaat uit naar …, omdat …».",
+    "extra_example_nl": "Mijn voorkeur gaat uit naar dinsdag, omdat de zaal dan beschikbaar is.",
+    "extra_example_fa": "ترجیح من روز سه‌شنبه است، چون سالن آن روز آزاد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn voorkeur gaat uit naar 14 mei, omdat de ruimte op die datum beschikbaar is.",
+        "is_correct": true,
+        "feedback_fa": "✅ رسمی، روشن و با دلیل منطقی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kies 21 mei, want 14 mei is niet beschikbaar.",
+        "is_correct": false,
+        "feedback_fa": "نتیجه و دلیل هر دو برعکس؛ در صورت سؤال ۱۴ مه سالن آزاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn voorkeur gaat uit naar 14 mei, hoewel de ruimte op die datum beschikbaar is.",
+        "is_correct": false,
+        "feedback_fa": "حرف اضافه‌ی نادرست «hoewel»؛ باید «omdat» باشد چون دلیل مثبت است نه اعتراض."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn voorkeur gaat uit naar 21 mei, omdat de ruimte op die datum beschikbaar is.",
+        "is_correct": false,
+        "feedback_fa": "تاریخ اشتباه (۲۱ به‌جای ۱۴)؛ معنی برعکس شد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "pros_cons_summary",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "In een memo vergelijk je thuiswerken en op kantoor werken. Welke zin is het meest professioneel en evenwichtig?",
+    "question_text_fa": "کدام جمله درباره‌ی کار در خانه و دفتر متعادل و حرفه‌ای است؟",
+    "explanation_fa": "«Zowel … als … heeft voordelen; de keuze hangt af van …» ساختار رسمی و متوازن برای مقایسه و بستن به شرایط است.",
+    "grammar_rule_fa": "مقایسه‌ی متوازن: «Zowel A als B heeft voordelen; de keuze hangt af van …».",
+    "extra_example_nl": "Zowel de trein als de auto heeft voordelen; de keuze hangt af van de afstand.",
+    "extra_example_fa": "هم قطار هم ماشین مزایایی دارد؛ انتخاب به مسافت بستگی دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Thuiswerken is altijd beter dan op kantoor werken.",
+        "is_correct": false,
+        "feedback_fa": "یک‌سویه و مطلق؛ ادعای «همیشه بهتر» غیرحرفه‌ای و غلط است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op kantoor werken heeft zowel voordelen als thuiswerken.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب «zowel … als …» اشتباه به‌کار رفته؛ جمله نامفهوم می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zowel thuiswerken als op kantoor werken heeft nadelen; de keuze maakt niet uit.",
+        "is_correct": false,
+        "feedback_fa": "فقط معایب را ذکر کرده و نتیجه‌ی بی‌تفاوتی نادرست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zowel thuiswerken als op kantoor werken heeft voordelen; de keuze hangt af van de aard van het werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ متوازن، دقیق و حرفه‌ای."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "recommend_option_with_reason",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je mailt je collega die een nieuwe laptop moet kiezen: model A (lichter, duurder) of model B (zwaarder, goedkoper). Voor korte reizen stel je model A voor. Welke zin?",
+    "question_text_fa": "کدام جمله برای توصیه‌ی مدل A در سفرهای کوتاه بهترین است؟",
+    "explanation_fa": "ترکیب اعتراف به قیمت بالاتر + توصیه بر اساس کاربرد: «Voor korte reizen raad ik model A aan, ondanks de hogere prijs, omdat …».",
+    "grammar_rule_fa": "توصیه با اعتراف: «Ik raad A aan, ondanks …, omdat …».",
+    "extra_example_nl": "Ik raad de duurdere telefoon aan, ondanks de prijs, omdat hij langer meegaat.",
+    "extra_example_fa": "گوشی گران‌تر را توصیه می‌کنم با وجود قیمت، چون بیشتر دوام دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Model B is lichter, dus ik raad het aan voor reizen.",
+        "is_correct": false,
+        "feedback_fa": "مشخصات اشتباه؛ مدل B سنگین‌تر است و A سبک‌تر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor korte reizen raad ik model A aan, ondanks de lagere prijs, omdat het lichter is.",
+        "is_correct": false,
+        "feedback_fa": "«lagere prijs» برعکس شد؛ مدل A گران‌تر است نه ارزان‌تر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor korte reizen raad ik model B aan, omdat het goedkoper is.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه B؛ برای سفر سبک بودن مهم‌تر از قیمت است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor korte reizen raad ik model A aan, ondanks de hogere prijs, omdat het lichter is.",
+        "is_correct": true,
+        "feedback_fa": "✅ اعتراف به قیمت + دلیل منطقی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft aan een vriend die twijfelt tussen een avondcursus (flexibel) en een dagcursus (intensiever). Je kiest de avondcursus voor hem. Welke zin is natuurlijk?",
+    "question_text_fa": "کدام جمله در پیام به دوست طبیعی است؟",
+    "explanation_fa": "به دوست لحن غیررسمی و دلیل شخصی: «Ik zou voor de avondcursus kiezen, want … past beter bij jouw situatie.»",
+    "grammar_rule_fa": "توصیه دوستانه: «Ik zou voor A kiezen, want … past beter bij jou.»",
+    "extra_example_nl": "Ik zou voor de flexibele baan kiezen, want die past beter bij jouw gezin.",
+    "extra_example_fa": "من شغل منعطف را انتخاب می‌کردم، چون با خانواده‌ی تو مناسب‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zou voor de dagcursus kiezen, want die is intensiever.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه (روز)؛ با خواست صورت سؤال متناقض است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zou voor de avondcursus kiezen, want die past beter bij jouw situatie.",
+        "is_correct": true,
+        "feedback_fa": "✅ طبیعی، غیررسمی و با دلیل شخصی."
+      },
+      {
+        "key": "C",
+        "text_nl": "U zou voor de avondcursus kiezen, want die past beter bij uw situatie.",
+        "is_correct": false,
+        "feedback_fa": "ضمیر «u» (رسمی) به دوست نادرست است؛ باید «je/jouw» باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je moet de avondcursus kiezen, want die is intensiever.",
+        "is_correct": false,
+        "feedback_fa": "لحن دستوری (moet) و دلیل نادرست (intensiever مال دوره‌ی روز است نه شب)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "pros_cons_summary",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft een advies over twee spaarmogelijkheden: spaarrekening (flexibel, lage rente) en deposito (vast, hogere rente). Welke zin vat ze het beste samen?",
+    "question_text_fa": "کدام جمله دو روش پس‌انداز را بهترین خلاصه می‌کند؟",
+    "explanation_fa": "«De spaarrekening biedt meer flexibiliteit, terwijl het deposito een hogere rente geeft.» با «terwijl» مزیت هر دو را متوازن و طبیعی مطرح می‌کند.",
+    "grammar_rule_fa": "مقایسه با terwijl: «A biedt …, terwijl B … geeft» (terwijl + bijzin, werkwoord aan het einde).",
+    "extra_example_nl": "De trein is goedkoper, terwijl de auto sneller is.",
+    "extra_example_fa": "قطار ارزان‌تر است، در حالی که ماشین سریع‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het deposito biedt meer flexibiliteit omdat het vast is.",
+        "is_correct": false,
+        "feedback_fa": "تناقض درونی؛ «vast» (ثابت) با «flexibiliteit» (انعطاف) نمی‌خواند."
+      },
+      {
+        "key": "B",
+        "text_nl": "De spaarrekening biedt meer flexibiliteit, terwijl het deposito een hogere rente geeft.",
+        "is_correct": true,
+        "feedback_fa": "✅ متوازن و طبیعی با terwijl."
+      },
+      {
+        "key": "C",
+        "text_nl": "De spaarrekening geeft een hogere rente, terwijl het deposito flexibeler is.",
+        "is_correct": false,
+        "feedback_fa": "مزیت‌ها جابه‌جا شدند؛ deposito سود بالاتر دارد و spaarrekening منعطف‌تر است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beide opties zijn slecht, dus het maakt niet uit.",
+        "is_correct": false,
+        "feedback_fa": "نتیجه‌ی منفی و بی‌تفاوتی نادرست و غیرحرفه‌ای."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "recommend_option_with_reason",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je mailt reisinformatie over twee hotels. Hotel A ligt centraal, hotel B is rustiger. Voor jouw ouders stel je hotel B voor. Welke zin is gepast?",
+    "question_text_fa": "کدام جمله برای توصیه‌ی هتل B به پدر و مادر مناسب است؟",
+    "explanation_fa": "ترکیب احترام + دلیل آرامش: «Voor uw ouders lijkt hotel B mij geschikter, omdat het rustiger is.» لحن رسمی و محترمانه است.",
+    "grammar_rule_fa": "توصیه محترمانه: «Voor u/… lijkt B mij geschikter, omdat …».",
+    "extra_example_nl": "Voor een gezin met kinderen lijkt het park mij geschikter, omdat het veiliger is.",
+    "extra_example_fa": "برای خانواده‌ای با بچه پارک مناسب‌تر به‌نظر می‌رسد، چون ایمن‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor jou ouders lijkt hotel B mij geschikter, omdat het rustiger is.",
+        "is_correct": false,
+        "feedback_fa": "«jou» محstrictedه‌ی «jouw» است و اینجا «uw» رسمی لازم است؛ رجیستر اشتباه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor uw ouders lijkt hotel B mij geschikter, omdat het rustiger is.",
+        "is_correct": true,
+        "feedback_fa": "✅ محترمانه و با دلیل مناسب."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor uw ouders lijkt hotel A mij geschikter, omdat het rustiger is.",
+        "is_correct": false,
+        "feedback_fa": "هتل اشتباه (A) توصیه شده؛ A مرکزی است نه آرام."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hotel B is centraler, dus geschikter voor uw ouders.",
+        "is_correct": false,
+        "feedback_fa": "مشخصات نادرست؛ B آرام‌تر است نه centraler، و دلیل هم اشتباه."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "In een projectvoorstel vergelijk je outsourcing en intern ontwikkelen. Je kiest intern. Welke zin is het meest professioneel?",
+    "question_text_fa": "کدام جمله برای انتخابِ توسعه‌ی داخلی حرفه‌ای‌تر است؟",
+    "explanation_fa": "«Gezien … stel ik voor dat we intern ontwikkelen» با «gezien» (با توجه به) لحن رسمی و استدلالی است.",
+    "grammar_rule_fa": "استدلال رسمی: «Gezien … stel ik voor dat we …» + bijzin met dat.",
+    "extra_example_nl": "Gezien de korte termijn stel ik voor dat we met de huidige partner werken.",
+    "extra_example_fa": "با توجه به مهلت کوتاه پیشنهاد می‌کنم با شریک فعلی کار کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Gezien onze speciale behoeften stel ik voor dat we outsourcing doen.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه (outsourcing)؛ باید توسعه‌ی داخلی باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gezien onze speciale behoeften stel ik voor dat we intern ontwikkelen.",
+        "is_correct": true,
+        "feedback_fa": "✅ رسمی، استدلالی و منطقی."
+      },
+      {
+        "key": "C",
+        "text_nl": "We doen intern omdat outsourcing duur.",
+        "is_correct": false,
+        "feedback_fa": "لحن گفتاری و ناقص؛ «omdat» فعل «is» ندارد و «duur» باید «duurder» باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik stel voor dat we outsourcing doen, hoewel intern beter is.",
+        "is_correct": false,
+        "feedback_fa": "نتیجه با استدلال متناقض؛ اگر داخلی بهتر است باید آن پیشنهاد شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "pros_cons_summary",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je mailt een kennis die twijfelt tussen huren en kopen. Welke zin is het meest evenwichtig en professioneel?",
+    "question_text_fa": "کدام جمله درباره‌ی اجاره و خرید متعادل و حرفه‌ای است؟",
+    "explanation_fa": "«Huren biedt flexibiliteit, terwijl kopen op de lange termijn voordeliger kan zijn.» با «terwijl» و «op de lange termijn» متوازن و دقیق است.",
+    "grammar_rule_fa": "مقایسه‌ی متوازن: «A biedt …, terwijl B op de lange termijn … kan zijn».",
+    "extra_example_nl": "De bus biedt flexibiliteit, terwijl de eigen auto op lange termijn goedkoper is.",
+    "extra_example_fa": "اتوبوس انعطاف می‌دهد، در حالی که ماشین شخصی در بلندمدت ارزان‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Huren biedt flexibiliteit, terwijl kopen op de lange termijn voordeliger kan zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ متوازن و طبیعی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Huren is voordeliger op de lange termijn, terwijl kopen flexibeler is.",
+        "is_correct": false,
+        "feedback_fa": "مزیت‌ها جابه‌جاست؛ در واقع خرید در بلندمدت یهتره و اجاره منعطف‌تر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kopen is altijd beter dan huren.",
+        "is_correct": false,
+        "feedback_fa": "مطلق و یک‌سویه؛ «همیشه» در موقعیت‌های متنوع نادرست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Huren biedt flexibiliteit, en kopen biedt flexibiliteit.",
+        "is_correct": false,
+        "feedback_fa": "تکرار و نبودِ مقایسه‌ی واقعی؛ نکته‌ی خرید گم شده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "recommend_option_with_reason",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je helpt een klasgenoot die kiest tussen twee studiemethoden: alleen boek (sneller) of boek + video (grondiger). Voor het examen stel je boek + video voor. Welke zin?",
+    "question_text_fa": "کدام جمله برای توصیه‌ی کتاب + ویدیو برای امتحان بهترین است؟",
+    "explanation_fa": "برای امتحان فهم عمیق مهم‌تر از سرعت است؛ «Voor het examen raad ik boek + video aan, omdat …».",
+    "grammar_rule_fa": "توصیه با دلیل امتحانی: «Voor het examen raad ik A aan, omdat het grondiger is».",
+    "extra_example_nl": "Voor het rijexamen raad ik meer lessen aan, omdat oefening belangrijk is.",
+    "extra_example_fa": "برای امتحان رانندگی درس بیشتر توصیه می‌کنم، چون تمرین مهم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor het examen raad ik boek + video af, omdat het grondiger is.",
+        "is_correct": false,
+        "feedback_fa": "فعل نادرست «af raden» (منع کردن)؛ باید «aanraden» (توصیه) باشد؛ معنی برعکس شد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor het examen raad ik alleen het boek aan, omdat het sneller is.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه؛ سرعت برای امتحان کم‌اهمیت‌تر از فهم عمیق است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor het examen raad ik boek + video aan, omdat het sneller is.",
+        "is_correct": false,
+        "feedback_fa": "دلیل اشتباه؛ کتاب + ویدیو عمیق‌تر است نه سریع‌تر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor het examen raad ik boek + video aan, omdat het grondiger is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست و با دلیل منطقی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft een advies over twee telefoonabonnementen: met contract (vast, gratis toestel) of prepaid (flexibel, eigen toestel). Voor iemand die vaak belt kies je het contract. Welke zin?",
+    "question_text_fa": "کدام جمله برای انتخاب قرارداد به کسی که زیاد تماس می‌گیرد بهترین است؟",
+    "explanation_fa": "«Aangezien u vaak belt, is een contract voordeliger dan prepaid.» با «aangezien» دلیل را رسمی و روشن می‌گذارد.",
+    "grammar_rule_fa": "توصیه رسمی met aangezien: «Aangezien u vaak belt, is een contract voordeliger.»",
+    "extra_example_nl": "Aangezien je veel onderweg bent, is een kleinere laptop handiger.",
+    "extra_example_fa": "چون زیاد بیرون هستی، لپ‌تاپ کوچک‌تر کاربردی‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Omdat u veel belt, is een contract voordeliger.",
+        "is_correct": false,
+        "feedback_fa": "با «omdat» در BEGIN zin باید واجب‌وار باشد (inversie ontbreekt); «Aangezien …, is …» correcter is."
+      },
+      {
+        "key": "B",
+        "text_nl": "Aangezien u veel belt, is een contract voordeliger dan prepaid.",
+        "is_correct": true,
+        "feedback_fa": "✅ رسمی، دلیل‌دار و درست."
+      },
+      {
+        "key": "C",
+        "text_nl": "U belt veel, dus prepaid is goedkoper.",
+        "is_correct": false,
+        "feedback_fa": "نتیجه نادرست و ضعیف؛ برای تماس زیاد contract مقرون‌به‌صرفه‌تر است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangezien u veel belt, is prepaid voordeliger dan een contract.",
+        "is_correct": false,
+        "feedback_fa": "نتیجه برعکس؛ برای تماس زیاد قرارداد بهتر است نه prepaid."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "pros_cons_summary",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft een vergelijking van twee kantoorlocaties: centrum (duur, bereikbaar) en randstad (goedkoper, minder OV). Welke zin is professioneel en compleet?",
+    "question_text_fa": "کدام جمله دو مکان دفتر را حرفه‌ای و کامل مقایسه می‌کند؟",
+    "explanation_fa": "«Het centrum is goed bereikbaar maar duur, terwijl de randstad goedkoper is maar lastiger met het openbaar vervoer.» با terwijl و ذکر معایب، حرفه‌ای و کامل است.",
+    "grammar_rule_fa": "مقایسه‌ی کامل: «A is …, terwijl B …»؛ ذکر مزایا و معایب هر دو.",
+    "extra_example_nl": "De binnenstad is levendig maar duur, terwijl de buitenwijk rustiger en goedkoper is.",
+    "extra_example_fa": "مرکز شهر پرجنب‌وجوش ولی گران است، در حالی که حومه آرام‌تر و ارزان‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Beide locaties zijn slecht bereikbaar.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ مرکز به‌خوبی قابل دسترسی و نتیجه‌گیری نادرست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het centrum is goed bereikbaar maar duur, terwijl de randstad goedkoper is maar lastiger met het openbaar vervoer.",
+        "is_correct": true,
+        "feedback_fa": "✅ متوازن، کامل و حرفه‌ای."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het centrum is duur, terwijl de randstad goedkoper is.",
+        "is_correct": false,
+        "feedback_fa": "ناقص؛ مزیت «bereikbaar» و عیب «lastig OV» فراموش شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het centrum is goedkoper dan de randstad.",
+        "is_correct": false,
+        "feedback_fa": "معکوس؛ در صورت سؤال مرکز گران‌تر است نه ارزان‌تر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "recommend_option_with_reason",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft een rapport over twee locaties voor een nieuw buurthuis. Locatie A is groter, locatie B is centraler. Voor een groeiende wijk stel je A voor. Welke zin is gepast?",
+    "question_text_fa": "کدام جمله برای توصیه‌ی مکان A به‌خاطر رشد محله مناسب است؟",
+    "explanation_fa": "«Omdat de wijk groeit, adviseer ik locatie A: de grotere ruimte biedt meer mogelijkheden.» رسمی، دلیل‌محور و آینده‌نگر است.",
+    "grammar_rule_fa": "گزارش رسمی: «Omdat … groeit, adviseer ik A: … biedt meer mogelijkheden.»",
+    "extra_example_nl": "Omdat de vraag stijgt, adviseer ik een grotere opslag: die biedt ruimte voor groei.",
+    "extra_example_fa": "چون تقاضا بالا می‌رود، انبار بزرگ‌تر را توصیه می‌کنم: جا برای رشد می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Locatie B is groter, dus ik raad het aan.",
+        "is_correct": false,
+        "feedback_fa": "مشخصات اشتباه؛ A بزرگ‌تر است نه B و دلیل هم ناقص."
+      },
+      {
+        "key": "B",
+        "text_nl": "Omdat de wijk groeit, adviceer ik locatie A af.",
+        "is_correct": false,
+        "feedback_fa": "خطای املایی «adviceer» (یep «adviseer») و فعل معکوس «af raden»؛ معنی برعکس شد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat de wijk groeit, adviseer ik locatie A: de grotere ruimte biedt meer mogelijkheden.",
+        "is_correct": true,
+        "feedback_fa": "✅ رسمی، دلیل‌دار و آینده‌نگر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat de wijk groeit, adviseer ik locatie B: de centrale ligging biedt meer mogelijkheden.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه (B)؛ باید A باشد و دلیل با خصوصیات A سازگار."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft aan een vriendin die kiest tussen een sportschoolabonnement (€30/maand, vaste tijden) en thuis sporten (gratis, zelfdiscipline). Je kiest thuis sporten voor haar. Welke zin?",
+    "question_text_fa": "کدام جمله برای توصیه‌ی ورزش در خانه به دوست طبیعی است؟",
+    "explanation_fa": "به دوست با سبک غیررسمی: «Misschien is thuis sporten beter voor jou, omdat je van flexibiliteit houdt.»",
+    "grammar_rule_fa": "توصیه‌ی دوستانه: «Misschien is A beter voor jou, omdat …».",
+    "extra_example_nl": "Misschien is thuis koken beter voor je, omdat je dan geld bespaart.",
+    "extra_example_fa": "شاید آشپزی در خانه برایت بهتر باشد، چون آن‌وقت پول ذخیره می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Misschien is de sportschool beter voor u, omdat u van flexibiliteit houdt.",
+        "is_correct": false,
+        "feedback_fa": "ضمیر «u» رسمی نادرست و گزینه‌ی اشتباه (sportschool)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je moet thuis sporten, want het is gratis en beter.",
+        "is_correct": false,
+        "feedback_fa": "لحن دستوری (moet) برای دوست نامناسب."
+      },
+      {
+        "key": "C",
+        "text_nl": "Misschien is thuis sporten beter voor jou, omdat je van flexibiliteit houdt.",
+        "is_correct": true,
+        "feedback_fa": "✅ دوستانه، نرم و با دلیل شخصی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Misschien is de sportschool beter voor jou, omdat je van flexibiliteit houdt.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه؛ با خواست سؤال (ورزش خانگی) در تضاد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "pros_cons_summary",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft een vergelijking tussen krant (diepgaand) en nieuwsapp (snel) voor een schoolopdracht. Welke zin is evenwichtig en formeel?",
+    "question_text_fa": "کدام جمله مقایسه‌ی روزنامه و اپ خبری متعادل و رسمی است؟",
+    "explanation_fa": "«De krant biedt meer diepgang, terwijl een nieuwsapp sneller is.» با terwijl و صفت تفضیلی، متعادل و رسمی است.",
+    "grammar_rule_fa": "مقایسه‌ی رسمی: «A biedt meer …, terwijl B …er is».",
+    "extra_example_nl": "Het boek biedt meer diepgang, terwijl de film sneller te begrijpen is.",
+    "extra_example_fa": "کتاب عمق بیشتری می‌دهد، در حالی که فیلم سریع‌تر فهمیده می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De krant is sneller, terwijl een nieuwsapp meer diepgang biedt.",
+        "is_correct": false,
+        "feedback_fa": "مزیت‌ها جابه‌جا شدند؛ اپ سریع‌تر و روزنامه عمیق‌تر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De krant biedt meer diepgang, terwijl een nieuwsapp sneller is.",
+        "is_correct": true,
+        "feedback_fa": "✅ متوازن و طبیعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Beide zijn slecht, maar de krant is beter.",
+        "is_correct": false,
+        "feedback_fa": "نتیجه‌ی منفی و مطلق؛ «هر دو بد» نادرست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De krant biedt meer diepgang, en een nieuwsapp biedt meer diepgang.",
+        "is_correct": false,
+        "feedback_fa": "تکرار نکته‌ی مشترک؛ مقایسه‌ی واقعی نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "recommend_option_with_reason",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je helpt een collega die twijfelt tussen twee opleidingen: korte cursus (snel, basis) en lange cursus (traag, compleet). Voor een promotie stel je de lange cursus voor. Welke zin?",
+    "question_text_fa": "کدام جمله برای توصیه‌ی دوره‌ی طولانی به‌خاطر ارتقاء شغلی بهترین است؟",
+    "explanation_fa": "«Voor een promotie adviseer ik de lange cursus, omdat de completere basis belangrijk is.» رسمی و با دلیل مرتبط.",
+    "grammar_rule_fa": "توصیه رسمی: «Voor een promotie adviseer ik A, omdat … belangrijk is».",
+    "extra_example_nl": "Voor deze functie adviseer ik de langere opleiding, omdat meer ervaring helpt.",
+    "extra_example_fa": "برای این پست دوره‌ی طولانی‌تر را توصیه می‌کنم، چون تجربه‌ی بیشتر کمک می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor een promotie adviseer ik de lange cursus, omdat de completere basis belangrijk is.",
+        "is_correct": true,
+        "feedback_fa": "✅ رسمی و با دلیل منطقی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je moet de korte cursus nemen, want je hebt geen tijd.",
+        "is_correct": false,
+        "feedback_fa": "گزینه و دلیل اشتباه؛ فرض زمان نشده و لحن دستوری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor een promotie adviseer ik de lange cursus, omdat het sneller is.",
+        "is_correct": false,
+        "feedback_fa": "دلیل نادرست؛ طولانی یعنی کندتر، نه سریع‌تر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor een promotie adviseer ik de korte cursus, omdat de completere basis belangrijk is.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه (کوتاه) ولی دلیلِ دوره‌ی طولانی؛ تناقض داخلی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "In een e-mail kies je tussen twee fietsen: stadsfiets (comfortabel, trager) en racefiets (snel, oncomfortabel). Voor woon-werkverkeer kies je de stadsfiets. Welke zin?",
+    "question_text_fa": "کدام جمله برای انتخاب دوچرخه‌ی شهری به‌خاطر راحتی در مسیر کار بهترین است؟",
+    "explanation_fa": "«Omdat het om dagelijks woon-werkverkeer gaat, kies ik voor de stadsfiets: comfort is hier belangrijker dan snelheid.»",
+    "grammar_rule_fa": "انتخاب رسمی: «Omdat het om … gaat, kies ik voor A: … is belangrijk».",
+    "extra_example_nl": "Omdat het om lange afstanden gaat, kies ik voor de racefiets: snelheid is dan belangrijk.",
+    "extra_example_fa": "چون برای مسافت‌های طولانی است، ریس‌بایک را انتخاب می‌کنم: سرعت مهم می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Omdat het om dagelijks woon-werkverkeer gaat, kies ik voor de stadsfiets: comfort is hier belangrijker dan snelheid.",
+        "is_correct": true,
+        "feedback_fa": "✅ رسمی، دلیل‌دار و منطقی."
+      },
+      {
+        "key": "B",
+        "text_nl": "De stadsfiets is sneller, dus ik kies het.",
+        "is_correct": false,
+        "feedback_fa": "مشخصات اشتباه؛ stadsfiets راحت‌تر و کندتر است، نه سریع‌تر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat het om dagelijks woon-werkverkeer gaat, kies ik voor de racefiets: snelheid is hier belangrijker dan comfort.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه (racefiets) و اولویت برعکس؛ برای مسیر روزمره راحتی مهم‌تر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kies de racefiets omdat trager.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی «is» جا افتاده و گزینه و دلیل نادرست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "pros_cons_summary",
+    "life_context": "relationships_and_society",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft een essay waarin je online en fysieke bijeenkomsten vergelijkt. Welke zin vat de voor- en nadelen correct samen?",
+    "question_text_fa": "کدام جمله مقایسه‌ی جلسه‌ی آنلاین و حضوری را درست خلاصه می‌کند؟",
+    "explanation_fa": "«Online bijeenkomsten besparen reistijd, maar missen persoonlijk contact; fysieke bijeenkomsten bieden dat wel, maar kosten meer tijd.» متوازن.",
+    "grammar_rule_fa": "خلاصه‌ی متوازن: «A bespaart …, maar mist …; B biedt … wel, maar kost …».",
+    "extra_example_nl": "Online lessen besparen reistijd, maar missen face-to-face contact.",
+    "extra_example_fa": "کلاس آنلاین وقت سفر را ذخیره می‌کند ولی تماس رودررو را کم می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Online bijeenkomsten besparen reistijd, maar missen persoonlijk contact; fysieke bijeenkomsten bieden dat wel, maar kosten meer tijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ متوازن و دقیق."
+      },
+      {
+        "key": "B",
+        "text_nl": "Online bijeenkomsten zijn altijd beter dan fysieke.",
+        "is_correct": false,
+        "feedback_fa": "مطلق و یک‌سویه؛ نکته‌ی معایب و مزایای حضوری فراموش شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Online bijeenkomsten kosten meer tijd dan fysieke.",
+        "is_correct": false,
+        "feedback_fa": "معکوس؛ آنلاین وقت سفر را ذخیره می‌کند، نه بیشتر صرف."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fysieke bijeenkomsten missen persoonlijk contact, maar online bieden dat wel.",
+        "is_correct": false,
+        "feedback_fa": "مزیت‌ها برعکس شد؛ حضوری ارتباط شخصی را می‌دهد و آنلاین آن را کم می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "recommend_option_with_reason",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft een advies aan de gemeente over twee afvalbeleidopties: optie A (streng, duurzamer) en optie B (vrijwillig, populairder). Voor het klimaat stel je optie A voor. Welke zin is professioneel?",
+    "question_text_fa": "کدام جمله برای توصیه‌ی گزینه‌ی A به‌خاطر محیط زیست حرفه‌ای است؟",
+    "explanation_fa": "«Gezien de klimaatdoelstellingen adviseer ik optie A, ondanks dat deze minder populair is.» رسمی و آینده‌نگر.",
+    "grammar_rule_fa": "توصیه رسمی: «Gezien … adviseer ik A, ondanks dat …».",
+    "extra_example_nl": "Gezien de gezondheidsdoelen adviseer ik minder suiker, ondanks dat het minder lekker is.",
+    "extra_example_fa": "با توجه به اهداف سلامتی کمتر شکر را توصیه می‌کنم با وجود اینکه کمتر خوش‌مزه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Gezien de klimaatdoelstellingen adviceer ik optie A af.",
+        "is_correct": false,
+        "feedback_fa": "خطای املایی «adviceer» (یep «adviseer») و فعل معکوس «af raden»؛ معنی برعکس شد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gezien de klimaatdoelstellingen adviseer ik optie B, omdat deze populairder is.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه B و دلیل (محبوبیت) با klimaat همخوان نیست؛ باید A باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat het klimaat belangrijk is, raad ik optie B af.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه در خروجی: گزینه‌ی B را منع کرده ولی باید A را توصیه می‌کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gezien de klimaatdoelstellingen adviseer ik optie A, ondanks dat deze minder populair is.",
+        "is_correct": true,
+        "feedback_fa": "✅ رسمی و استدلالی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "In een rapport kies je tussen bouwen (duur, langdurig) en huren (snel, doorlopende kosten) voor een nieuw kantoor. Voor snelle groei kies je huren. Welke zin is professioneel?",
+    "question_text_fa": "کدام جمله برای انتخابِ اجاره به‌خاطر رشد سریع حرفه‌ای است؟",
+    "explanation_fa": "«Voor snelle groei is huren de beste keuze: we kunnen snel schalen en blijven flexibel.» رسمی و با کاربردی منطقی.",
+    "grammar_rule_fa": "گزارش رسمی: «Voor … is A de beste keuze: …».",
+    "extra_example_nl": "Voor een beginnend bedrijf is huren handiger: we blijven flexibel.",
+    "extra_example_fa": "برای یک شرکت تازه‌تاسیس اجاره کاربردی‌تر است: منعطف می‌مانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor snelle groei is huren de beste keuze: we kunnen snel schalen en blijven flexibel.",
+        "is_correct": true,
+        "feedback_fa": "✅ رسمی و با دلیل عملی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bouwen is goedkoper, dus ik kies het.",
+        "is_correct": false,
+        "feedback_fa": "معکوس و ناقص؛ ساختن گران‌تر و زمان‌بر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor snelle groei is bouwen de beste keuze: we kunnen snel schalen en blijven flexibel.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه (bouwen)؛ برعکس خواست سؤال و منطق (ساختن کند و گران)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Huren is stabieler dan bouwen.",
+        "is_correct": false,
+        "feedback_fa": "نادرست و مبهم؛ «stabiel» برای ساختن طبیعی‌تر است، نه اجاره."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "pros_cons_summary",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je vergelijkt in een verslag groepsonderwijs en individueel onderwijs. Welke zin vat de voor- en nadelen correct samen?",
+    "question_text_fa": "کدام جمله آموزش گروهی و انفرادی را درست خلاصه می‌کند؟",
+    "explanation_fa": "«Groepsonderwijs stimuleert samenwerking, terwijl individueel onderwijs meer persoonlijke aandacht biedt.» متوازن و رسمی.",
+    "grammar_rule_fa": "مقایسه‌ی رسمی: «A stimuleert …, terwijl B … biedt».",
+    "extra_example_nl": "Groepswerk stimuleert samenwerking, terwijl alleen werken meer zelfstandigheid biedt.",
+    "extra_example_fa": "کار گروهی همکاری را تقویت می‌کند، در حالی که کار تنها استقلال بیشتری می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Beide vormen zijn slecht.",
+        "is_correct": false,
+        "feedback_fa": "نتیجه‌ی مطلق نادرست و بدون دلیل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Groepsonderwijs biedt meer persoonlijke aandacht, terwijl individueel onderwijs samenwerking stimuleert.",
+        "is_correct": false,
+        "feedback_fa": "مزیت‌ها جابه‌جا شدند؛ گروه همکاری و فردی توجه شخصی می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Groepsonderwijs is altijd beter dan individueel onderwijs.",
+        "is_correct": false,
+        "feedback_fa": "مطلق و یک‌سویه؛ «همیشه» غیرحرفه‌ای."
+      },
+      {
+        "key": "D",
+        "text_nl": "Groepsonderwijs stimuleert samenwerking, terwijl individueel onderwijs meer persoonlijke aandacht biedt.",
+        "is_correct": true,
+        "feedback_fa": "✅ متوازن و دقیق."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je adviseert iemand over twee leningen: banklening (lage rente, streng) en familielening (flexibel, emotioneel belastend). Voor een zakelijk project stel je de banklening voor. Welke zin is gepast?",
+    "question_text_fa": "کدام جمله برای توصیه‌ی وام بانکی به‌خاطر پروژه‌ی تجاری مناسب است؟",
+    "explanation_fa": "«Voor een zakelijk project raad ik een banklening aan: zakelijk blijft zakelijk, ondanks de strengere voorwaarden.»",
+    "grammar_rule_fa": "توصیه رسمی: «Voor … raad ik A aan: … blijft …, ondanks …».",
+    "extra_example_nl": "Voor een formele gelegenheid raad ik een pak aan: het past bij de sfeer.",
+    "extra_example_fa": "برای یک مناسبتی رسمی کت را توصیه می‌کنم: به فضا می‌خورد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor een zakelijk project raad ik een banklening aan: zakelijk blijft zakelijk, ondanks de strengere voorwaarden.",
+        "is_correct": true,
+        "feedback_fa": "✅ رسمی، منطقی و حرفه‌ای."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een familielening is zakelijker dan een banklening.",
+        "is_correct": false,
+        "feedback_fa": "نادرست؛ وام خانوادگی نه «تجاری‌تر» از وام بانکی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor een zakelijk project raad ik een banklening af.",
+        "is_correct": false,
+        "feedback_fa": "فعل معکوس «af raden»؛ باید توصیه (aanraden) شود نه منع."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor een zakelijk project raad ik een familielening aan, omdat het flexibeler is.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه؛ برای کار تجاری وام بانکی جدا保留 بهتر است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "recommend_option_with_reason",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je mailt je team over twee vergadertijden: ochtend (frisser) en middag (meer collega's aanwezig). Je stelt ochtend voor om snel beslissingen te nemen. Welke zin?",
+    "question_text_fa": "کدام جمله برای پیشنهاد جلسه‌ی صبحی به‌خاطر تصمیم‌گیری سریع بهترین است؟",
+    "explanation_fa": "«Ik stel voor dat we 's ochtends vergaderen: dan zijn we frisser en nemen we sneller beslissingen.» طبیعی و آینده‌نگر.",
+    "grammar_rule_fa": "پیشنهاد رسمی: «Ik stel voor dat we … vergaderen: …» + reden.",
+    "extra_example_nl": "Ik stel voor dat we 's ochtends plannen: dan zijn we frisser.",
+    "extra_example_fa": "پیشنهاد می‌کنم صبح برنامه‌ریزی کنیم: آن‌وقت تازه‌تریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik stel voor dat we 's middags vergaderen: dan zijn we frisser en nemen we sneller beslissingen.",
+        "is_correct": false,
+        "feedback_fa": "زمان اشتباه (middag) و دلیل ناهماهنگ؛ عصر تازه‌تر نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik stel voor dat we 's ochtends vergaderen, hoewel we frisser zijn.",
+        "is_correct": false,
+        "feedback_fa": "حرف اضافه‌ی نادرست «hoewel»؛ باید «omdat» باشد چون فرش‌بودن دلیل است نه اعتراض."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij moeten 's ochtends vergaderen, want dat is goed.",
+        "is_correct": false,
+        "feedback_fa": "لحن دستوری و دلیل مبهم «goed»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik stel voor dat we 's ochtends vergaderen: dan zijn we frisser en nemen we sneller beslissingen.",
+        "is_correct": true,
+        "feedback_fa": "✅ طبیعی و با دلیل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "comparing_options",
+    "subtopic": "compare_then_decide",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft aan een student die kiest tussen een stage in het buitenland (ervaring, ver) en een stage lokaal (dichtbij, netwerk). Voor carrière-stijging stel je buitenland voor. Welke zin?",
+    "question_text_fa": "کدام جمله برای توصیه‌ی کارآموزی خارج به‌خاطر رشد شغلی مناسب است؟",
+    "explanation_fa": "«Voor je carrière raad ik de buitenlandstage aan: internationale ervaring is een sterk pluspunt op je cv.» طبیعی و رسمی.",
+    "grammar_rule_fa": "توصیه رسمی: «Voor je carrière raad ik A aan: … is een sterk pluspunt».",
+    "extra_example_nl": "Voor je cv raad ik vrijwilligerswerk aan: het toont inzet.",
+    "extra_example_fa": "برای رزومه کار داوطلبانه را توصیه می‌کنم: نشان‌دهنده‌ی انگیزه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor je carrière raad ik de buitenlandstage aan: internationale ervaring is een sterk pluspunt op je cv.",
+        "is_correct": true,
+        "feedback_fa": "✅ رسمی، روشن و با دلیل منطقی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor je carrière raad ik de buitenlandstage af: het is te ver.",
+        "is_correct": false,
+        "feedback_fa": "فعل معکوس «af raden»؛ باید توصیه شود نه منع."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor je carrière raad ik de lokale stage aan: internationale ervaring is een sterk pluspunt op je cv.",
+        "is_correct": false,
+        "feedback_fa": "گزینه‌ی اشتباه (lokaal) ولی دلیلِ خارج؛ تناقض داخلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je moet de lokale stage nemen, want dichtbij is beter.",
+        "is_correct": false,
+        "feedback_fa": "گزینه و دلیل اشتباه؛ برای رشد شغلی تجربه‌ی بین‌المللی بهتر است."
+      }
+    ]
+  }
+]

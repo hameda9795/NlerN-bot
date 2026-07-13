@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat ik de broek koop, wil ik weten of hij goed zit. Ik ga hem eerst ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پوشیدنِ آزمایشیِ لباس قبل از خرید، «passen» نامیده می‌شود.",
+    "grammar_rule_fa": "passen=امتحان‌کردنِ لباس.",
+    "extra_example_nl": "Ik pas de broek in de paskamer.",
+    "extra_example_fa": "شلوار رو توی اتاقِ پرو امتحان می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "passen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ امتحان‌کردنِ لباس قبل از خرید."
+      },
+      {
+        "key": "B",
+        "text_nl": "ruilen",
+        "is_correct": false,
+        "feedback_fa": "این تعویضِ کالای خریداری‌شده است، نه امتحانِ قبل از خرید."
+      },
+      {
+        "key": "C",
+        "text_nl": "retourneren",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "wassen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De broek past niet goed, dus ga ik terug naar de winkel voor dezelfde broek in een andere maat. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "تعویضِ کالای خریداری‌شده با یک نمونه‌ی دیگر (مثلاً سایزِ دیگر)، «ruilen» نامیده می‌شود.",
+    "grammar_rule_fa": "ruilen=تعویض کردن.",
+    "extra_example_nl": "Ik ruil de broek voor een grotere maat.",
+    "extra_example_fa": "شلوار رو با سایزِ بزرگ‌تر عوض می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "passen",
+        "is_correct": false,
+        "feedback_fa": "این امتحانِ لباس قبل از خرید است، نه تعویض بعد از خرید."
+      },
+      {
+        "key": "B",
+        "text_nl": "retourneren",
+        "is_correct": false,
+        "feedback_fa": "این پس‌دادن برای گرفتنِ پول است، نه گرفتنِ نمونه‌ی دیگر."
+      },
+      {
+        "key": "C",
+        "text_nl": "wassen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "ruilen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تعویض با نمونه‌ای دیگر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil de trui niet meer en ook geen andere maat; ik wil gewoon mijn geld terug. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پس‌دادنِ کالا برای گرفتنِ پول، «retourneren» نامیده می‌شود.",
+    "grammar_rule_fa": "retourneren=پس‌دادن برای بازپرداخت.",
+    "extra_example_nl": "Ik retourneer de trui voor mijn geld.",
+    "extra_example_fa": "پلیور رو برمی‌گردونم برای پس‌گرفتنِ پولم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "passen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "wassen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "retourneren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پس‌دادن برای گرفتنِ پول."
+      },
+      {
+        "key": "D",
+        "text_nl": "ruilen",
+        "is_correct": false,
+        "feedback_fa": "این گرفتنِ نمونه‌ی دیگر است، نه پول، برعکسِ متن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze schoenen zijn maat 44, maar ik heb maat 40 nodig. Ze zijn veel te ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "سایزِ بزرگ‌تر از نیازِ فرد، «groot» نامیده می‌شود.",
+    "grammar_rule_fa": "groot=بزرگ.",
+    "extra_example_nl": "Deze schoenen zijn te groot voor mij.",
+    "extra_example_fa": "این کفش‌ها برام خیلی بزرگه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "lang",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "groot",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سایزِ بزرگ‌تر از نیاز."
+      },
+      {
+        "key": "C",
+        "text_nl": "klein",
+        "is_correct": false,
+        "feedback_fa": "این کوچک‌تر است، برعکسِ متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "kort",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze jas is maat 36, maar ik heb maat 44 nodig. Hij is veel te ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "سایزِ کوچک‌تر از نیازِ فرد، «klein» نامیده می‌شود.",
+    "grammar_rule_fa": "klein=کوچک.",
+    "extra_example_nl": "Deze jas is te klein, hij past niet.",
+    "extra_example_fa": "این کت خیلی کوچیکه، اندازه نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "klein",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سایزِ کوچک‌تر از نیاز."
+      },
+      {
+        "key": "B",
+        "text_nl": "groot",
+        "is_correct": false,
+        "feedback_fa": "این بزرگ‌تر است، برعکسِ متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "kort",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "lang",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze winkel verkoopt aan het einde van het seizoen alles voor de halve prijs. Dit heet de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "رویدادِ فروشِ ویژه‌ی پایانِ فصل با تخفیفِ زیاد، «uitverkoop» نامیده می‌شود.",
+    "grammar_rule_fa": "uitverkoop=حراج.",
+    "extra_example_nl": "Tijdens de uitverkoop is alles goedkoper.",
+    "extra_example_fa": "توی حراج همه‌چیز ارزون‌تره.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این فقط درصدِ کاهشِ قیمتِ یک کالاست، نه کلِ رویدادِ فروشِ فصلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "paskamer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "maat",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "uitverkoop",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رویدادِ فروشِ ویژه‌ی پایانِ فصل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Op dit T-shirt krijg ik 20% minder te betalen dan de normale prijs. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "درصدِ کاهشِ قیمتِ یک کالای خاص، «korting» نامیده می‌شود.",
+    "grammar_rule_fa": "korting=تخفیف.",
+    "extra_example_nl": "Ik krijg 20% korting op dit shirt.",
+    "extra_example_fa": "روی این تی‌شرت ۲۰٪ تخفیف می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "paskamer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "maat",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "korting",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ درصدِ کاهشِ قیمتِ یک کالا."
+      },
+      {
+        "key": "D",
+        "text_nl": "uitverkoop",
+        "is_correct": false,
+        "feedback_fa": "این کلِ رویدادِ فروشِ فصلی است، نه فقط یک درصدِ خاص."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat ik de kleren koop, ga ik naar een klein hokje om ze aan te passen. Dit heet de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "اتاقکِ کوچک برای امتحان‌کردنِ لباس، «paskamer» نامیده می‌شود.",
+    "grammar_rule_fa": "paskamer=اتاقِ پرو.",
+    "extra_example_nl": "De paskamer is achter in de winkel.",
+    "extra_example_fa": "اتاقِ پرو ته‌ی مغازه‌ست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "این محلِ پرداختِ پول است، نه امتحان‌کردنِ لباس."
+      },
+      {
+        "key": "B",
+        "text_nl": "paskamer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اتاقکِ امتحان‌کردنِ لباس."
+      },
+      {
+        "key": "C",
+        "text_nl": "uitverkoop",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze stof komt van een plant en is heel licht, perfect voor de zomer. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پارچه‌ای که از گیاه به‌دست می‌آید و برای تابستان سبک است، «katoen» (پنبه) نامیده می‌شود.",
+    "grammar_rule_fa": "katoen=پنبه.",
+    "extra_example_nl": "Dit shirt is van katoen gemaakt.",
+    "extra_example_fa": "این تی‌شرت از پنبه‌ست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "katoen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پارچه‌ی سبکِ گیاهی."
+      },
+      {
+        "key": "B",
+        "text_nl": "wol",
+        "is_correct": false,
+        "feedback_fa": "این از گوسفند و برای زمستان گرم است، نه سبکِ تابستانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "leer",
+        "is_correct": false,
+        "feedback_fa": "این از پوستِ حیوان است، نه گیاه."
+      },
+      {
+        "key": "D",
+        "text_nl": "polyester",
+        "is_correct": false,
+        "feedback_fa": "این پارچه‌ی مصنوعی است، نه گیاهی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze trui komt van schapen en is heel warm voor de winter. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پارچه‌ای که از پشمِ گوسفند به‌دست می‌آید و گرم است، «wol» نامیده می‌شود.",
+    "grammar_rule_fa": "wol=پشم.",
+    "extra_example_nl": "In de winter draag ik een wollen trui.",
+    "extra_example_fa": "زمستون یک پلیورِ پشمی می‌پوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "katoen",
+        "is_correct": false,
+        "feedback_fa": "این سبک و مناسبِ تابستان است، نه گرمِ زمستانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "leer",
+        "is_correct": false,
+        "feedback_fa": "این از پوستِ حیوان است، نه پشم."
+      },
+      {
+        "key": "C",
+        "text_nl": "zijde",
+        "is_correct": false,
+        "feedback_fa": "این ابریشمِ نازک و لطیف است، نه پشمِ گرم."
+      },
+      {
+        "key": "D",
+        "text_nl": "wol",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پارچه‌ی گرمِ پشمی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze jas is gemaakt van dierenhuid en voelt stevig en glad aan. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پارچه‌ای که از پوستِ حیوان ساخته می‌شود، «leer» (چرم) نامیده می‌شود.",
+    "grammar_rule_fa": "leer=چرم.",
+    "extra_example_nl": "Mijn jas is van echt leer.",
+    "extra_example_fa": "کتم از چرمِ واقعیه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wol",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "zijde",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "leer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پارچه‌ی چرمی از پوستِ حیوان."
+      },
+      {
+        "key": "D",
+        "text_nl": "katoen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb dit shirt niet goed opgehangen en nu zit het vol vouwen. Het shirt is erg ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پارچه‌ای پر از چین‌وچروک، «kreukelig» نامیده می‌شود.",
+    "grammar_rule_fa": "kreukelig=چروک.",
+    "extra_example_nl": "Het shirt is heel kreukelig na de reis.",
+    "extra_example_fa": "بعدِ سفر تی‌شرت خیلی چروکه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "strak",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "kreukelig",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پر از چین‌وچروک."
+      },
+      {
+        "key": "C",
+        "text_nl": "gestreept",
+        "is_correct": false,
+        "feedback_fa": "این نوعِ طرح است، نه وضعیتِ چروک."
+      },
+      {
+        "key": "D",
+        "text_nl": "effen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit shirt heeft lijnen die van boven naar beneden lopen in twee kleuren. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پارچه‌ای با خطوطِ موازی، «gestreept» (راه‌راه) نامیده می‌شود.",
+    "grammar_rule_fa": "gestreept=راه‌راه.",
+    "extra_example_nl": "Hij draagt een gestreept overhemd.",
+    "extra_example_fa": "او یک پیراهنِ راه‌راه می‌پوشه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "gestreept",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ طرحِ خطوطِ موازی."
+      },
+      {
+        "key": "B",
+        "text_nl": "geblokt",
+        "is_correct": false,
+        "feedback_fa": "این طرحِ چهارخانه است، نه خطوط."
+      },
+      {
+        "key": "C",
+        "text_nl": "effen",
+        "is_correct": false,
+        "feedback_fa": "این بدونِ طرح است، برعکسِ متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "kreukelig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit overhemd heeft vierkantjes in twee kleuren, zoals een schaakbord. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پارچه‌ای با طرحِ چهارخانه‌ای، «geblokt» نامیده می‌شود.",
+    "grammar_rule_fa": "geblokt=چهارخانه.",
+    "extra_example_nl": "Een geblokt overhemd is populair.",
+    "extra_example_fa": "پیراهنِ چهارخانه محبوبه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "gestreept",
+        "is_correct": false,
+        "feedback_fa": "این خطوطِ موازی است، نه مربع."
+      },
+      {
+        "key": "B",
+        "text_nl": "effen",
+        "is_correct": false,
+        "feedback_fa": "این بدونِ طرح است، برعکسِ متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "kreukelig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "geblokt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ طرحِ چهارخانه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze trui heeft geen patroon en geen print, gewoon één kleur. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پارچه‌ای بدونِ هیچ طرح یا نقشی، «effen» (ساده) نامیده می‌شود.",
+    "grammar_rule_fa": "effen=یکدست/ساده.",
+    "extra_example_nl": "Ik draag graag effen kleding.",
+    "extra_example_fa": "دوست دارم لباسِ ساده و یکدست بپوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "geblokt",
+        "is_correct": false,
+        "feedback_fa": "این دارای طرحِ مربعی است، برعکسِ متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "kreukelig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "effen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بدونِ هیچ طرح، فقط یک رنگ."
+      },
+      {
+        "key": "D",
+        "text_nl": "gestreept",
+        "is_correct": false,
+        "feedback_fa": "این دارای خطوط است، برعکسِ متن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het is zomer en erg warm, dus draag ik een shirt met ___ mouwen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "آستینِ کوتاه برای هوای گرم، «korte» نامیده می‌شود.",
+    "grammar_rule_fa": "korte mouwen=آستینِ کوتاه.",
+    "extra_example_nl": "In de zomer draag ik shirts met korte mouwen.",
+    "extra_example_fa": "توی تابستون تی‌شرتِ آستین‌کوتاه می‌پوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dikke",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "korte",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ آستینِ کوتاه برای هوای گرم."
+      },
+      {
+        "key": "C",
+        "text_nl": "lange",
+        "is_correct": false,
+        "feedback_fa": "این برای هوای سرد مناسب‌تر است، نه گرمِ تابستان."
+      },
+      {
+        "key": "D",
+        "text_nl": "geen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het is winter en koud, dus draag ik een trui met ___ mouwen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "آستینِ بلند برای هوای سرد، «lange» نامیده می‌شود.",
+    "grammar_rule_fa": "lange mouwen=آستینِ بلند.",
+    "extra_example_nl": "In de winter draag ik truien met lange mouwen.",
+    "extra_example_fa": "توی زمستون پلیورِ آستین‌بلند می‌پوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "lange",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ آستینِ بلند برای هوای سرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "korte",
+        "is_correct": false,
+        "feedback_fa": "این برای هوای گرم مناسب‌تر است، نه سردِ زمستان."
+      },
+      {
+        "key": "C",
+        "text_nl": "geen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "dunne",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het gedeelte van het overhemd rond mijn nek noemen we de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "قسمتِ دورِ گردنِ پیراهن، «kraag» (یقه) نامیده می‌شود.",
+    "grammar_rule_fa": "kraag=یقه.",
+    "extra_example_nl": "De kraag van het overhemd is wit.",
+    "extra_example_fa": "یقه‌ی پیراهن سفیده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mouw",
+        "is_correct": false,
+        "feedback_fa": "این برای بازوهاست، نه گردن."
+      },
+      {
+        "key": "B",
+        "text_nl": "zak",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "knoop",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "kraag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ قسمتِ دورِ گردن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze jas sluit niet met knopen, maar met een metalen schuifje. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "وسیله‌ی فلزیِ کشویی برای بستنِ لباس، «rits» (زیپ) نامیده می‌شود.",
+    "grammar_rule_fa": "rits=زیپ.",
+    "extra_example_nl": "De rits van mijn jas is kapot.",
+    "extra_example_fa": "زیپِ کتم خرابه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kraag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "zak",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "rits",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ وسیله‌ی فلزیِ کشویی."
+      },
+      {
+        "key": "D",
+        "text_nl": "knoop",
+        "is_correct": false,
+        "feedback_fa": "این دکمه است، برعکسِ متن که می‌گوید بدونِ دکمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit overhemd sluit niet met een rits, maar met kleine ronde dingen die je door een gaatje doet. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دکمه‌ی کوچکِ گردی که از سوراخ رد می‌شود، «knoop» نامیده می‌شود.",
+    "grammar_rule_fa": "knoop=دکمه.",
+    "extra_example_nl": "Er ontbreekt een knoop aan mijn overhemd.",
+    "extra_example_fa": "یه دکمه از پیراهنم افتاده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zak",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "knoop",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دکمه‌ی گرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "rits",
+        "is_correct": false,
+        "feedback_fa": "این زیپ است، برعکسِ متن که می‌گوید بدونِ زیپ."
+      },
+      {
+        "key": "D",
+        "text_nl": "kraag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Onder mijn broek draag ik dunne kousen die tot aan mijn enkel komen. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "جورابِ کوتاه تا مچِ پا، «sok» نامیده می‌شود.",
+    "grammar_rule_fa": "sok=جوراب.",
+    "extra_example_nl": "Ik draag witte sokken.",
+    "extra_example_fa": "جورابِ سفید می‌پوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "sok",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ جورابِ کوتاه تا مچ."
+      },
+      {
+        "key": "B",
+        "text_nl": "panty",
+        "is_correct": false,
+        "feedback_fa": "این جورابِ نازکِ بلند تا کمر است، نه فقط تا مچ."
+      },
+      {
+        "key": "C",
+        "text_nl": "sjaal",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "handschoen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Onder haar jurk draagt ze dunne, doorzichtige kousen die haar hele benen bedekken. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "جورابِ نازکِ بلند که کلِ پا را می‌پوشاند، «panty» نامیده می‌شود.",
+    "grammar_rule_fa": "panty=جورابِ‌شلواری.",
+    "extra_example_nl": "Ze draagt een zwarte panty onder haar jurk.",
+    "extra_example_fa": "زیرِ لباسش جورابِ‌شلواریِ مشکی می‌پوشه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "sok",
+        "is_correct": false,
+        "feedback_fa": "این فقط کوتاه تا مچ است، نه کلِ پا."
+      },
+      {
+        "key": "B",
+        "text_nl": "sjaal",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "handschoen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "panty",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ جورابِ نازکِ بلند تا کمر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als het regent, trek ik een speciale jas aan die waterdicht is. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کتِ ضدآب برای روزهای بارانی، «regenjas» نامیده می‌شود.",
+    "grammar_rule_fa": "regenjas=بارانی.",
+    "extra_example_nl": "Neem je regenjas mee, het gaat regenen.",
+    "extra_example_fa": "بارانی‌ات رو بردار، قراره بارون بیاد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zomerjas",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "ondergoed",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "regenjas",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کتِ ضدآبِ مخصوصِ باران."
+      },
+      {
+        "key": "D",
+        "text_nl": "winterjas",
+        "is_correct": false,
+        "feedback_fa": "این برای سرما است، نه لزوماً ضدآب."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als het heel koud is buiten in december, draag ik een dikke ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کتِ ضخیم برای هوای سردِ زمستان، «winterjas» نامیده می‌شود.",
+    "grammar_rule_fa": "winterjas=کتِ زمستانی.",
+    "extra_example_nl": "Mijn winterjas is heel warm.",
+    "extra_example_fa": "کتِ زمستانی‌ام خیلی گرمه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "sok",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "winterjas",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کتِ ضخیمِ زمستانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "regenjas",
+        "is_correct": false,
+        "feedback_fa": "این ضدِ آب است، نه لزوماً گرم برای سرمای شدید."
+      },
+      {
+        "key": "D",
+        "text_nl": "zomerjas",
+        "is_correct": false,
+        "feedback_fa": "این برای هوای گرم است، برعکسِ متن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Wat ik als eerste aantrek, direct op mijn huid, onder al mijn andere kleren, heet mijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "لباسِ زیرینی که مستقیم روی پوست پوشیده می‌شود، «ondergoed» نامیده می‌شود.",
+    "grammar_rule_fa": "ondergoed=لباسِ زیر.",
+    "extra_example_nl": "Ik koop nieuw ondergoed.",
+    "extra_example_fa": "لباسِ زیرِ جدید می‌خرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "ondergoed",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ لباسِ زیرینِ روی پوست."
+      },
+      {
+        "key": "B",
+        "text_nl": "overhemd",
+        "is_correct": false,
+        "feedback_fa": "این پیراهنِ بیرونی است، نه زیرین."
+      },
+      {
+        "key": "C",
+        "text_nl": "jas",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "pak",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voor het zakelijke gesprek draag ik een nette broek met bijpassend jasje. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "شلوار و کتِ ست‌شده برای موقعیت‌های رسمی، «pak» (کت‌وشلوار) نامیده می‌شود.",
+    "grammar_rule_fa": "pak=کت‌وشلوار.",
+    "extra_example_nl": "Hij draagt een pak naar het gesprek.",
+    "extra_example_fa": "برای مصاحبه کت‌وشلوار می‌پوشه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "jurk",
+        "is_correct": false,
+        "feedback_fa": "این یک‌تکه و مخصوصِ زنان است، نه شلوار و کتِ جدا."
+      },
+      {
+        "key": "B",
+        "text_nl": "ondergoed",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "regenjas",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "pak",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کت‌وشلوارِ ست‌شده."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Zij draagt geen aparte rok en blouse, maar één stuk kleding dat van boven tot beneden aan elkaar zit. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "لباسِ یک‌تکه‌ی زنانه، «jurk» (پیراهن/لباس) نامیده می‌شود.",
+    "grammar_rule_fa": "jurk=لباسِ یک‌تکه‌ی زنانه.",
+    "extra_example_nl": "Ze draagt een blauwe jurk.",
+    "extra_example_fa": "یک لباسِ یک‌تکه‌ی آبی می‌پوشه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "ondergoed",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "sok",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "jurk",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ لباسِ یک‌تکه."
+      },
+      {
+        "key": "D",
+        "text_nl": "pak",
+        "is_correct": false,
+        "feedback_fa": "این معمولاً دو تکه‌ی جدا (کت و شلوار) است، نه یک‌تکه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Op het label van dit shirt staat dat ik het maximaal op 30 graden mag ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "قرار دادنِ لباس در ماشینِ لباسشویی، فعلِ «wassen» است.",
+    "grammar_rule_fa": "wassen=شستن.",
+    "extra_example_nl": "Ik was dit shirt op 30 graden.",
+    "extra_example_fa": "این تی‌شرت رو روی ۳۰ درجه می‌شورم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "passen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "wassen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شستنِ لباس در ماشین."
+      },
+      {
+        "key": "C",
+        "text_nl": "drogen",
+        "is_correct": false,
+        "feedback_fa": "این مرحله‌ی بعد از شستن است، نه خودِ شستن."
+      },
+      {
+        "key": "D",
+        "text_nl": "strijken",
+        "is_correct": false,
+        "feedback_fa": "این اتوکردن است، نه شستن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Na het wassen hangt de was buiten in de wind, of gaat in de machine om vocht kwijt te raken. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "خشک‌کردنِ لباسِ شسته‌شده، «drogen» نامیده می‌شود.",
+    "grammar_rule_fa": "drogen=خشک‌کردن.",
+    "extra_example_nl": "Ik hang de was buiten te drogen.",
+    "extra_example_fa": "لباس‌ها رو بیرون آویزون می‌کنم تا خشک بشن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "drogen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خشک‌کردنِ لباسِ شسته‌شده."
+      },
+      {
+        "key": "B",
+        "text_nl": "wassen",
+        "is_correct": false,
+        "feedback_fa": "این مرحله‌ی قبلی است، نه خشک‌کردن."
+      },
+      {
+        "key": "C",
+        "text_nl": "strijken",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "ruilen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "clothing",
+    "life_context": "clothing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Om de kreukels uit mijn overhemd te halen, gebruik ik een heet apparaat dat ik over de stof beweeg. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "استفاده از دستگاهِ داغ برای صافکردنِ چروک‌ها، «strijken» (اتوکردن) نامیده می‌شود.",
+    "grammar_rule_fa": "strijken=اتوکردن.",
+    "extra_example_nl": "Ik strijk mijn overhemd voor het werk.",
+    "extra_example_fa": "قبل از کار پیراهنم رو اتو می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "wassen",
+        "is_correct": false,
+        "feedback_fa": "این شستن با آب است، نه صافکردنِ چروک با حرارت."
+      },
+      {
+        "key": "B",
+        "text_nl": "drogen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "passen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "strijken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ استفاده از اتوی داغ."
+      }
+    ]
+  }
+]

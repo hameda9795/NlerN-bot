@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Dit apparaat is na twee weken al kapot, en ik heb er veel geld voor betaald.»  Medewerker: «Wat vervelend om te horen, mag ik de bon zien, dan kijk ik wat we kunnen doen?»  Wat is de meest gepaste reactie van de klant?",
+    "question_text_fa": "کدام واکنش مشتری مناسب‌تر است؟",
+    "explanation_fa": "بهترین واکنش، همکاری با درخواستِ فروشنده و دادن رسید است، نه پرخاش یا موضوعی نامرتبط.",
+    "grammar_rule_fa": "«mag ik … zien?» درخواستِ مودبانه برای دیدن چیزی است.",
+    "extra_example_nl": "Mag ik uw legitimatie zien, alstublieft?",
+    "extra_example_fa": "می‌شود کارت شناسایی‌تان را ببینم؟",
+    "options": [
+      {
+        "text_nl": "Natuurlijk, hier is de bon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همکاریِ مناسب با درخواستِ فروشنده.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Ik heb geen bon nodig, geef me gewoon mijn geld terug.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه است و به درخواستِ منطقیِ فروشنده توجه نمی‌کند.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Dat is niet mijn probleem.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط و غیرمودبانه است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Ik kom morgen wel terug voor iets anders.",
+        "is_correct": false,
+        "feedback_fa": "موضوع را عوض می‌کند و به شکایت پاسخ نمی‌دهد.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Excuseer, maar ik had de vegetarische pasta besteld, en dit is duidelijk met vlees.»  Ober: «Oh, wat vervelend, mijn excuses, ik laat het meteen aanpassen.»  Wat is een passende reactie van de klant?",
+    "question_text_fa": "کدام واکنش مشتری مناسب است؟",
+    "explanation_fa": "پذیرفتنِ مودبانه‌ی عذرخواهی و تشکر برای اصلاح مسئله بهترین واکنش است.",
+    "grammar_rule_fa": "پذیرفتنِ عذرخواهی: «Dat is goed, dank u wel.»",
+    "extra_example_nl": "Geen probleem, bedankt dat u het oplost.",
+    "extra_example_fa": "مشکلی نیست، ممنون که حلش می‌کنید.",
+    "options": [
+      {
+        "text_nl": "Dit is echt onacceptabel, ik ga hier nooit meer eten!",
+        "is_correct": false,
+        "feedback_fa": "واکنش بیش‌ازحد شدید است، درحالی‌که ابر عذرخواهی کرد و پیشنهاد اصلاح داد.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Dank u wel, dat waardeer ik.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پذیرفتنِ مودبانه‌ی عذرخواهی و همکاری.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik wil niet meer eten, breng de rekening.",
+        "is_correct": false,
+        "feedback_fa": "واکنش بیش از حد و بی‌ربط به پیشنهادِ ابر است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Waarom kunnen jullie nooit iets goed doen?",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و کلی‌گویی، نه واکنش مناسب به این موقعیت خاص.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Kan ik dit product terugbrengen? Het werkt niet zoals beschreven.»  Verkoper: «Helaas kunnen we het niet terugnemen, want de verpakking is al open.»  Wat is de meest natuurlijke, beleefde reactie van de klant?",
+    "question_text_fa": "کدام واکنش مؤدبانه و طبیعی مشتری است؟",
+    "explanation_fa": "بهترین واکنش، مودبانه پرسیدن درباره‌ی راه‌حلِ جایگزین است، نه پذیرفتن ساکت یا پرخاش.",
+    "grammar_rule_fa": "درخواستِ راه‌حلِ جایگزین: «Is er dan een andere oplossing mogelijk?»",
+    "extra_example_nl": "Is er misschien een andere oplossing mogelijk?",
+    "extra_example_fa": "شاید راه‌حل دیگری ممکن باشد؟",
+    "options": [
+      {
+        "text_nl": "Oké, dan niet.",
+        "is_correct": false,
+        "feedback_fa": "مشتری خیلی زود تسلیم می‌شود بدون پرسیدنِ راه‌حل دیگر.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Dat is belachelijk, ik bel de politie.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد و نامتناسب با موقعیت است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik begrijp het, maar is er dan een andere oplossing mogelijk, zoals ruilen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مودبانه و سازنده، به دنبال راه‌حل جایگزین.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Ik koop hier nooit meer iets, doei.",
+        "is_correct": false,
+        "feedback_fa": "مکالمه را زودتر از موعد قطع می‌کند و راه‌حلی نمی‌جوید.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Reiziger: «Mijn trein had een uur vertraging en ik heb daardoor een belangrijke afspraak gemist.»  Medewerker: «Dat spijt ons, u kunt een vergoeding aanvragen via onze website.»  Wat vraagt de reiziger het best hierna?",
+    "question_text_fa": "مسافر بعد از این چه سؤالی بهتر است بپرسد؟",
+    "explanation_fa": "پرسیدنِ روند دقیقِ درخواست غرامت منطقی‌ترین ادامه‌ی مکالمه است.",
+    "grammar_rule_fa": "سؤال درباره‌ی روند: «Hoe werkt dat precies?»",
+    "extra_example_nl": "Hoe werkt de aanvraag precies, en hoelang duurt het?",
+    "extra_example_fa": "این درخواست دقیقاً چطور کار می‌کند و چقدر طول می‌کشد؟",
+    "options": [
+      {
+        "text_nl": "Ik wil helemaal geen vergoeding.",
+        "is_correct": false,
+        "feedback_fa": "بی‌منطق است؛ مسافر شکایت کرده و طبیعتاً غرامت می‌خواهد.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Dat is uw probleem, niet het mijne.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و غیرسازنده است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Waarom is de trein zo langzaam?",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به مرحله‌ی بعدی، یعنی درخواستِ غرامت است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Hoe werkt die aanvraag precies?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ادامه‌ی منطقیِ گفتگو درباره‌ی روند درخواست.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Bewoner belt de bouwfirma: «De verbouwing bij de buren zorgt al drie weken voor enorme herrie, ook 's avonds.»  Medewerker: «Dat mag inderdaad niet na 19:00 uur, ik geef dit door aan de aannemer.»  Wat is een goede afsluitende zin van de bewoner?",
+    "question_text_fa": "کدام جمله‌ی پایانی برای ساکن مناسب است؟",
+    "explanation_fa": "تشکر برای پیگیری و درخواستِ اطلاع از نتیجه، پایانِ منطقی و مودبانه است.",
+    "grammar_rule_fa": "درخواستِ پیگیری: «Kunt u mij laten weten wat er gebeurt?»",
+    "extra_example_nl": "Bedankt, kunt u mij laten weten of het is opgelost?",
+    "extra_example_fa": "ممنون، می‌شود بگویید حل شده یا نه؟",
+    "options": [
+      {
+        "text_nl": "Bedankt, kunt u mij laten weten of het wordt opgelost?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تشکر و درخواستِ پیگیریِ نتیجه.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Het interesseert me niet wat u doet.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه است، در حالی‌که کارمند همکاری کرده.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik bel wel een advocaat.",
+        "is_correct": false,
+        "feedback_fa": "واکنش بیش‌ازحد شدید برای این مرحله از گفتگو است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Laat maar, het is niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "با لحنِ شکایتِ اولیه در تضاد است؛ او واقعاً پیگیری می‌خواهد.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Werknemer tegen IT: «Mijn laptop is nu al twee dagen kapot en ik kan mijn werk niet doen.»  IT-medewerker: «Sorry voor het ongemak, ik kijk er direct naar, kunt u hem naar mijn bureau brengen?»  Wat is de beste reactie van de werknemer?",
+    "question_text_fa": "کدام واکنش کارمند مناسب است؟",
+    "explanation_fa": "بهترین واکنش، موافقتِ ساده و مشخص‌کردنِ زمان است.",
+    "grammar_rule_fa": "توافقِ ساده: «Ja, ik breng hem zo langs.»",
+    "extra_example_nl": "Ja, ik breng hem zo naar u toe.",
+    "extra_example_fa": "بله، الان آن را برایتان می‌آورم.",
+    "options": [
+      {
+        "text_nl": "Waarom duurt dit al zo lang?",
+        "is_correct": false,
+        "feedback_fa": "این عصبانیت مناسب نیست چون کارمند IT همین الان کمک پیشنهاد داد.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Ja, ik breng hem zo langs, bedankt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ موافقتِ ساده و مودبانه.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik heb geen tijd hiervoor.",
+        "is_correct": false,
+        "feedback_fa": "غیرسازنده است؛ کارمند خودش شکایت را مطرح کرده بود.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Doe maar wat u wilt.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد، در حالی‌که موضوع برای او مهم بود.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Ik heb twee weken geleden iets besteld, en het is nog steeds niet aangekomen.»  Medewerker: «Wat is uw ordernummer? Dan zoek ik het meteen op.»  Wat is de logische reactie van de klant?",
+    "question_text_fa": "کدام واکنش منطقی مشتری است؟",
+    "explanation_fa": "دادن شماره‌ی سفارش، همکاری منطقی با درخواستِ کارمند است.",
+    "grammar_rule_fa": "پاسخِ مستقیم به سؤال: دادنِ اطلاعاتِ خواسته‌شده.",
+    "extra_example_nl": "Mijn ordernummer is 48213.",
+    "extra_example_fa": "شماره‌ی سفارشم ۴۸۲۱۳ است.",
+    "options": [
+      {
+        "text_nl": "Ik weet het niet meer, zoekt u het zelf maar op.",
+        "is_correct": false,
+        "feedback_fa": "غیرهمکاری‌جویانه است؛ باید تلاش کند اطلاعات را بدهد.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Dat maakt niet uit, stuur gewoon iets anders.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به درخواستِ کارمند است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Momentje, ik zoek het even op, het is 48213.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همکاری و دادنِ اطلاعاتِ لازم.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Waarom vraagt u dat?",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط؛ درخواست شماره‌ی سفارش کاملاً منطقی است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Ik heb maat M besteld, maar er zit maat S in de doos.»  Verkoper: «Wat vervelend, wilt u ruilen of liever het geld terug?»  Wat is een duidelijke, beleefde reactie?",
+    "question_text_fa": "کدام واکنش روشن و مودبانه است؟",
+    "explanation_fa": "بهترین واکنش، بیانِ روشنِ ترجیح (تعویض یا بازپرداخت) است.",
+    "grammar_rule_fa": "بیانِ ترجیح: «Ik wil liever ruilen dan mijn geld terug.»",
+    "extra_example_nl": "Ik wil liever ruilen voor de juiste maat.",
+    "extra_example_fa": "ترجیح می‌دهم با سایز درست تعویض کنم.",
+    "options": [
+      {
+        "text_nl": "Dit is de schuld van de fabriek, niet van u.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به تصمیمِ درخواست‌شده است.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Laat maar zitten.",
+        "is_correct": false,
+        "feedback_fa": "مشکل را حل‌نشده رها می‌کند، در حالی‌که فروشنده راه‌حل پیشنهاد داد.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Maakt niet uit, doet u maar iets.",
+        "is_correct": false,
+        "feedback_fa": "مبهم است و به فروشنده کمکی نمی‌کند.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Ik wil liever ruilen voor maat M, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ روشن، مودبانه و مشخص.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Sorry, maar dit gerecht is helemaal koud.»  Ober: «Oei, dat hoort niet zo, ik breng u direct een warm bord.»  Wat past het beste als reactie van de klant?",
+    "question_text_fa": "کدام جمله بهترین واکنش مشتری است؟",
+    "explanation_fa": "تشکر ساده و پذیرفتنِ راه‌حلِ پیشنهادی بهترین واکنش است.",
+    "grammar_rule_fa": "تشکرِ ساده: «Dat is fijn, dank u wel.»",
+    "extra_example_nl": "Dat is fijn, dank u wel voor de moeite.",
+    "extra_example_fa": "عالیه، ممنون بابت زحمتتون.",
+    "options": [
+      {
+        "text_nl": "Dat is fijn, dank u wel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پذیرشِ مودبانه و ساده‌ی راه‌حل.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Het maakt niet uit, ik eet het toch koud.",
+        "is_correct": false,
+        "feedback_fa": "با لحنِ شکایتِ اولیه در تضاد است؛ او دیگر شکایتی نمی‌کند بی‌دلیل.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik wil helemaal niets meer eten.",
+        "is_correct": false,
+        "feedback_fa": "واکنش بیش از حد است، درحالی‌که راه‌حل ساده‌ای پیشنهاد شد.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Dit restaurant is altijd slecht.",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ نامنصفانه و بی‌ادبانه است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Passagier bij de luchthavenbalie: «Mijn koffer is niet aangekomen, en ik heb hem echt nodig voor morgen.»  Medewerker: «Vult u dit formulier in, dan sturen we hem zodra we hem vinden naar uw adres.»  Wat is een logische vervolgvraag van de passagier?",
+    "question_text_fa": "کدام سؤالِ منطقیِ بعدی برای مسافر مناسب است؟",
+    "explanation_fa": "پرسیدنِ بازه‌ی زمانیِ تحویل، منطقی‌ترین ادامه‌ی مکالمه است.",
+    "grammar_rule_fa": "سؤالِ زمان: «Hoelang duurt dat ongeveer?»",
+    "extra_example_nl": "Hoelang duurt het ongeveer voordat de koffer terug is?",
+    "extra_example_fa": "تقریباً چقدر طول می‌کشد تا چمدان برگردد؟",
+    "options": [
+      {
+        "text_nl": "Dat is niet mijn koffer.",
+        "is_correct": false,
+        "feedback_fa": "با موقعیتِ مکالمه (خودِ مسافر شکایت کرده) تناقض دارد.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Hoelang duurt dat ongeveer?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ادامه‌ی منطقیِ مکالمه درباره‌ی زمان.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Waarom vliegen jullie eigenlijk?",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوع چمدانِ گم‌شده است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Ik wil geen formulier invullen.",
+        "is_correct": false,
+        "feedback_fa": "همکاری نمی‌کند، درحالی‌که این تنها راهِ پیگیری است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Bewoner: «De straatverlichting bij ons doet het al twee maanden niet, dat is echt onveilig.»  Ambtenaar: «Dat begrijp ik, ik meld dit vandaag nog bij de technische dienst.»  Wat is een passende afsluiting van de bewoner?",
+    "question_text_fa": "کدام جمله‌ی پایانی برای ساکن مناسب است؟",
+    "explanation_fa": "تشکر و درخواستِ به‌روزرسانی، پایانِ مناسب و مودبانه است.",
+    "grammar_rule_fa": "درخواستِ به‌روزرسانی: «Houdt u mij op de hoogte?»",
+    "extra_example_nl": "Bedankt, houdt u mij op de hoogte van de voortgang?",
+    "extra_example_fa": "ممنون، می‌شود مرا از پیشرفت کار مطلع کنید؟",
+    "options": [
+      {
+        "text_nl": "Ik geef het zelf niet meer door.",
+        "is_correct": false,
+        "feedback_fa": "بی‌معنا است؛ او خودش الان شکایت کرد.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Het interesseert me niet meer.",
+        "is_correct": false,
+        "feedback_fa": "با نگرانیِ اولیه‌ی ساکن در تضاد است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Bedankt, houdt u mij op de hoogte?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تشکر و پیگیریِ مودبانه.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Twee maanden, wat een schande, jullie doen nooit iets!",
+        "is_correct": false,
+        "feedback_fa": "بیش‌ازحد شدید است درحالی‌که آمبتنار همکاری کرد.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Ik zie dat ik dit abonnement twee keer betaald heb deze maand.»  Medewerker: «Dat klopt niet, ik zoek het meteen uit en zorg voor terugbetaling.»  Welke reactie van de klant is het meest gepast?",
+    "question_text_fa": "کدام واکنش مشتری مناسب‌تر است؟",
+    "explanation_fa": "خواستنِ زمانِ تقریبیِ بازپرداخت، ادامه‌ی طبیعیِ گفتگو است.",
+    "grammar_rule_fa": "سؤال درباره‌ی مهلت: «Binnen hoeveel dagen krijg ik het terug?»",
+    "extra_example_nl": "Binnen hoeveel dagen krijg ik mijn geld terug?",
+    "extra_example_fa": "طی چند روز پولم را پس می‌گیرم؟",
+    "options": [
+      {
+        "text_nl": "Het maakt niet uit, ik betaal toch te veel.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ شکایتِ اولیه در تضاد است.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Ik zeg mijn abonnement meteen op vanwege dit ene foutje.",
+        "is_correct": false,
+        "feedback_fa": "واکنش بیش‌ازحد است؛ کارمند وعده‌ی حل مسئله داد.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik geloof u niet.",
+        "is_correct": false,
+        "feedback_fa": "بی‌اعتمادیِ بی‌دلیل، درحالی‌که کارمند مشکل را پذیرفت.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Binnen hoeveel dagen krijg ik het terug?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ منطقی و مرتبط با راه‌حلِ پیشنهادی.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Op de website zag dit product er heel anders uit dan wat ik heb ontvangen.»  Verkoper: «Kunt u een foto sturen? Dan bekijken we of het klopt met de beschrijving.»  Wat is een logische reactie van de klant?",
+    "question_text_fa": "کدام واکنش منطقی مشتری است؟",
+    "explanation_fa": "موافقت با فرستادنِ عکس، همکاری منطقی با درخواستِ فروشنده است.",
+    "grammar_rule_fa": "پیشنهادِ همکاری: «Natuurlijk, ik stuur meteen een foto.»",
+    "extra_example_nl": "Natuurlijk, ik stuur u meteen een foto van het product.",
+    "extra_example_fa": "البته، همین الان یک عکس از محصول می‌فرستم.",
+    "options": [
+      {
+        "text_nl": "Natuurlijk, ik stuur meteen een foto.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همکاری فوری با درخواستِ فروشنده.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Ik heb geen foto, geloof me maar.",
+        "is_correct": false,
+        "feedback_fa": "از همکاری با درخواستِ منطقی سرباز می‌زند.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Dat is niet nodig, stuur gewoon een nieuw product.",
+        "is_correct": false,
+        "feedback_fa": "از پروسه‌ی منطقیِ بررسی صرف‌نظر می‌کند.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Waarom moet ik iets bewijzen?",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه است؛ درخواستِ فروشنده منطقی و استاندارد است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Werknemer aan de manager: «Ik heb dit al drie keer gemeld, maar er verandert niets.»  Manager: «U heeft gelijk, dat had al opgelost moeten zijn, ik pak het vandaag persoonlijk op.»  Wat is een passende reactie?",
+    "question_text_fa": "کدام واکنش مناسب است؟",
+    "explanation_fa": "تشکر و ابراز امیدواری برای حلِ سریع، پاسخِ مناسب و حرفه‌ای است.",
+    "grammar_rule_fa": "امیدواری مودبانه: «Ik hoop dat het snel wordt opgelost.»",
+    "extra_example_nl": "Bedankt, ik hoop dat het deze keer wel snel wordt opgelost.",
+    "extra_example_fa": "ممنون، امیدوارم این بار زود حل شود.",
+    "options": [
+      {
+        "text_nl": "Ik ga meteen ontslag nemen.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید و نامتناسب با موقعیت است.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Bedankt, ik hoop dat het deze keer echt wordt opgelost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ حرفه‌ای، مودبانه و صادقانه.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Dat zei u de vorige keer ook al, ik geloof er niets van.",
+        "is_correct": false,
+        "feedback_fa": "بیش‌ازحد تند است، درحالی‌که مدیر مسئولیت را پذیرفت.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Het maakt me niet meer uit.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد، در حالی‌که او خودش سه بار شکایت کرده بود.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «We hebben hier al twintig minuten gewacht zonder dat iemand onze bestelling is komen opnemen.»  Ober: «Mijn excuses, we zijn vanavond onderbezet, ik neem uw bestelling nu meteen op.»  Wat is een redelijke reactie van de klant?",
+    "question_text_fa": "کدام واکنشِ منطقی مشتری است؟",
+    "explanation_fa": "پذیرفتنِ عذرخواهی و ادامه‌ی سفارش‌دادن، واکنشِ منطقی و آرام است.",
+    "grammar_rule_fa": "پذیرفتنِ عذرخواهی همراه با ادامه: «Oké, dan bestellen we nu.»",
+    "extra_example_nl": "Oké, dat begrijpen we, dan bestellen we nu.",
+    "extra_example_fa": "باشه، درک می‌کنیم، پس الان سفارش می‌دهیم.",
+    "options": [
+      {
+        "text_nl": "Onderbezet is niet ons probleem.",
+        "is_correct": false,
+        "feedback_fa": "بی‌رحمانه است و همکاری نمی‌کند.",
+        "key": "A"
+      },
+      {
+        "text_nl": "We willen nu gratis eten.",
+        "is_correct": false,
+        "feedback_fa": "درخواستِ نامتناسب برای این مرحله از شکایت است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Oké, dat begrijpen we, dan bestellen we nu.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ آرام، منطقی و همکاری‌جویانه.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Twintig minuten wachten is een schandaal, we gaan weg.",
+        "is_correct": false,
+        "feedback_fa": "واکنش بیش‌ازحد است، درحالی‌که ابر عذرخواهی کرد و راه‌حل ارائه داد.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Ik heb al twee keer gebeld over hetzelfde probleem, en het is nog steeds niet opgelost.»  Medewerker: «Ik snap uw frustratie, ik zorg dat een specialist u vandaag terugbelt.»  Wat vraagt de klant het beste als vervolg?",
+    "question_text_fa": "کدام سؤالِ بعدیِ مشتری منطقی‌تر است؟",
+    "explanation_fa": "پرسیدنِ زمانِ دقیقِ تماس، ادامه‌ی منطقیِ گفتگو است.",
+    "grammar_rule_fa": "سؤالِ زمان‌بندی: «Rond welk tijdstip ongeveer?»",
+    "extra_example_nl": "Rond welk tijdstip ongeveer kan ik het bericht verwachten?",
+    "extra_example_fa": "تقریباً چه ساعتی می‌توانم منتظر پیام باشم؟",
+    "options": [
+      {
+        "text_nl": "Ik bel gewoon nooit meer.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ گفتگو، یعنی حلِ مشکل، در تضاد است.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Waarom werkt niemand bij jullie goed?",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ نامنصفانه و غیرسازنده است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Het maakt niet uit, laat maar.",
+        "is_correct": false,
+        "feedback_fa": "با تلاشِ اولیه‌ی مشتری برای حلِ مشکل تناقض دارد.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Rond welk tijdstip ongeveer?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ عملی و مرتبط با وعده‌ی داده‌شده.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «De taxichauffeur heeft een veel langere route gereden dan nodig, en nu is de rit veel duurder.»  Klantenservice: «Dat spijt ons, kunt u de route van uw rit doorsturen? Dan bekijken we een gedeeltelijke terugbetaling.»  Wat is een gepaste reactie?",
+    "question_text_fa": "کدام واکنش مناسب است؟",
+    "explanation_fa": "موافقت با ارسالِ اطلاعاتِ مسیر، همکاری منطقی با فرآیندِ بررسی است.",
+    "grammar_rule_fa": "همکاری با فرآیند: «Ja, ik stuur de route meteen door.»",
+    "extra_example_nl": "Ja, ik stuur de route meteen door via de app.",
+    "extra_example_fa": "بله، همین الان مسیر را از طریق اپلیکیشن می‌فرستم.",
+    "options": [
+      {
+        "text_nl": "Ja, ik stuur de route meteen door.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همکاریِ سریع با روند بررسی.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Ik heb geen bewijs, maar geloof me toch.",
+        "is_correct": false,
+        "feedback_fa": "از همکاری با فرآیندِ منطقی سرباز می‌زند.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Vergeet het maar, taxi's zijn altijd oneerlijk.",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ نامنصفانه و غیرسازنده است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Ik wil de chauffeur ontslagen zien.",
+        "is_correct": false,
+        "feedback_fa": "درخواستِ نامتناسب و بیش‌ازحد شدید است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant belt de internetprovider: «Al drie dagen heb ik geen internet, en ik werk thuis, dit kost me geld.»  Medewerker: «Dat begrijp ik goed, ik plan vandaag nog een monteur in.»  Wat is een logische vervolgvraag?",
+    "question_text_fa": "کدام سؤالِ بعدی منطقی است؟",
+    "explanation_fa": "پرسیدنِ ساعتِ تقریبیِ حضورِ تعمیرکار، سؤالِ عملی و منطقی است.",
+    "grammar_rule_fa": "سؤالِ زمان: «Om hoe laat komt de monteur ongeveer?»",
+    "extra_example_nl": "Om hoe laat komt de monteur ongeveer langs?",
+    "extra_example_fa": "تعمیرکار تقریباً چه ساعتی می‌آید؟",
+    "options": [
+      {
+        "text_nl": "Stuur maar geen monteur.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ تماس، یعنی رفعِ مشکل، در تضاد است.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Om hoe laat komt de monteur ongeveer?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ عملی و مرتبط.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik zeg mijn abonnement per direct op.",
+        "is_correct": false,
+        "feedback_fa": "واکنش بیش‌ازحد است؛ مشکل در حالِ حل شدن است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Internet is toch niet zo belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "با نگرانیِ اولیه‌ی مشتری (کار از خانه) در تضاد است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Een medewerker was net erg onbeleefd tegen mij bij de kassa.»  Manager: «Dat spijt me te horen, kunt u vertellen wat er precies gebeurde?»  Wat is een gepaste reactie van de klant?",
+    "question_text_fa": "کدام واکنش مناسب مشتری است؟",
+    "explanation_fa": "توضیحِ آرام و روشنِ ماجرا، بهترین واکنش برای پیگیریِ شکایت است.",
+    "grammar_rule_fa": "توضیحِ رویداد با ترتیبِ زمانی: «Ik vroeg … en toen zei ze …»",
+    "extra_example_nl": "Ik vroeg iets over de prijs, en toen zei ze erg bot dat ik zelf moest kijken.",
+    "extra_example_fa": "درباره‌ی قیمت چیزی پرسیدم و او خیلی بی‌ادبانه گفت خودم نگاه کنم.",
+    "options": [
+      {
+        "text_nl": "Het maakt niet uit, vergeet het.",
+        "is_correct": false,
+        "feedback_fa": "مکالمه را زودتر از موعد قطع می‌کند، درحالی‌که مدیر پیگیری می‌خواهد.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Ontsla haar onmiddellijk.",
+        "is_correct": false,
+        "feedback_fa": "درخواستِ بیش‌ازحد شدید قبل از شرح دادنِ ماجرا.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik vroeg iets over de prijs, en ze reageerde erg bot.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توضیحِ آرام و واضح از رویداد.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Al uw medewerkers zijn onbeleefd.",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ نامنصفانه، درحالی‌که شکایت درباره‌ی یک نفر است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Mijn garantieclaim is afgewezen, maar het product was echt binnen de garantietermijn kapot.»  Medewerker: «Kunt u het aankoopbewijs opnieuw sturen? Misschien is er een fout gemaakt.»  Wat is de beste reactie van de klant?",
+    "question_text_fa": "کدام واکنش بهترین برای مشتری است؟",
+    "explanation_fa": "همکاری با فرستادنِ دوباره‌ی مدرک خرید، بهترین راه برای حلِ اختلاف است.",
+    "grammar_rule_fa": "پیشنهادِ همکاری: «Ik stuur het meteen opnieuw.»",
+    "extra_example_nl": "Ik stuur het aankoopbewijs meteen opnieuw op.",
+    "extra_example_fa": "همین الان مدرک خرید را دوباره می‌فرستم.",
+    "options": [
+      {
+        "text_nl": "Garantie is toch altijd onzin.",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ منفی و غیرسازنده است.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Vergeet de garantie, ik koop toch nooit meer hier.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ اولیه‌ی مشتری، یعنی گرفتنِ گارانتی، در تضاد است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Nee, ik heb het al één keer gestuurd, zoek het zelf op.",
+        "is_correct": false,
+        "feedback_fa": "از همکاری سرباز می‌زند، درحالی‌که کارمند دلیلِ منطقی داد (احتمال اشتباه).",
+        "key": "C"
+      },
+      {
+        "text_nl": "Ik stuur het meteen opnieuw op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همکاریِ ساده و مؤثر برای حلِ مسئله.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Ik heb duidelijk gezegd dat ik een notenallergie heb, maar er zitten noten in dit gerecht.»  Ober: «Dat is heel ernstig, mijn excuses, ik haal het meteen weg en informeer de keuken.»  Wat is een gepaste reactie van de klant?",
+    "question_text_fa": "کدام واکنش مناسب مشتری است؟",
+    "explanation_fa": "تأکید بر جدی‌بودنِ موضوع همراه با لحن آرام، مناسب‌ترین واکنش است.",
+    "grammar_rule_fa": "تأکیدِ مودبانه: «Dit moet echt niet meer gebeuren.»",
+    "extra_example_nl": "Dit moet echt niet meer gebeuren, het kan gevaarlijk zijn.",
+    "extra_example_fa": "این واقعاً نباید دوباره اتفاق بیفتد، می‌تواند خطرناک باشد.",
+    "options": [
+      {
+        "text_nl": "Dit moet echt niet meer gebeuren, het kan gevaarlijk zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ جدیت موضوع را بدون پرخاش نشان می‌دهد.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Het is maar een klein foutje.",
+        "is_correct": false,
+        "feedback_fa": "جدی‌بودنِ خطرِ آلرژی را دست‌کم می‌گیرد.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik eet het toch wel op.",
+        "is_correct": false,
+        "feedback_fa": "خطرناک است و با نگرانیِ آلرژی در تضاد است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Waarom hebben jullie geen keuken?",
+        "is_correct": false,
+        "feedback_fa": "بی‌معنا و بی‌ربط به موضوع آلرژی است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Bewoner: «Het huisvuil is nu al twee weken op rij niet opgehaald bij onze straat.»  Ambtenaar: «Dat is niet de bedoeling, ik geef dit vandaag door aan de afvaldienst.»  Wat vraagt de bewoner het best?",
+    "question_text_fa": "کدام سؤالِ بعدیِ ساکن منطقی‌تر است؟",
+    "explanation_fa": "پرسیدنِ زمانِ تقریبیِ جمع‌آوریِ زباله، سؤالِ عملی و منطقی است.",
+    "grammar_rule_fa": "سؤالِ زمان‌بندی: «Wanneer wordt het dan opgehaald?»",
+    "extra_example_nl": "Wanneer wordt het afval dan alsnog opgehaald?",
+    "extra_example_fa": "پس چه زمانی زباله جمع‌آوری می‌شود؟",
+    "options": [
+      {
+        "text_nl": "Waarom heeft de gemeente eigenlijk een afvaldienst?",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط و طعنه‌آمیز است، کمکی به حلِ مشکل نمی‌کند.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Wanneer wordt het dan alsnog opgehaald?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ عملی و مرتبط با وعده‌ی داده‌شده.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik gooi het gewoon op straat.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ غیرمنطقی و مخرب است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Het maakt niet uit, twee weken is niets.",
+        "is_correct": false,
+        "feedback_fa": "با نگرانیِ اولیه‌ی ساکن در تضاد است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant schrijft een vervolgmail: «Ik heb twee weken geleden een klacht ingediend, maar nog niets van u gehoord.»  Wat is de meest gepaste toon voor de rest van de e-mail?",
+    "question_text_fa": "لحنِ مناسب برای ادامه‌ی این ایمیل کدام است؟",
+    "explanation_fa": "لحنِ محکم اما مودبانه، با درخواستِ روشن برای پاسخ، بهترین رویکرد در ایمیل رسمی است.",
+    "grammar_rule_fa": "ادامه‌ی رسمی: «Graag verneem ik zo snel mogelijk van u.»",
+    "extra_example_nl": "Graag verneem ik zo snel mogelijk van u over de voortgang.",
+    "extra_example_fa": "خوشحال می‌شوم هرچه زودتر درباره‌ی پیشرفتِ کار از شما بشنوم.",
+    "options": [
+      {
+        "text_nl": "Doei, ik reken er niet meer op.",
+        "is_correct": false,
+        "feedback_fa": "بیش‌ازحد غیررسمی برای ایمیل شکایتِ رسمی است.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Het is prima, u hoeft niet te reageren.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ ایمیل، یعنی پیگیریِ پاسخ، در تضاد است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Graag verneem ik zo snel mogelijk van u wat de status is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رسمی، محکم و مودبانه.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Jullie zijn echt heel slecht in klantenservice.",
+        "is_correct": false,
+        "feedback_fa": "برای ایمیل رسمی بیش‌ازحد تند و شخصی است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Op het schap stond een prijs van 15 euro, maar bij de kassa moest ik 20 euro betalen.»  Kassamedewerker: «Dat controleer ik meteen, mag ik even meelopen naar het schap?»  Wat is de beste reactie van de klant?",
+    "question_text_fa": "کدام واکنش مشتری بهترین است؟",
+    "explanation_fa": "موافقتِ ساده با همراهی به قفسه، همکاریِ منطقی برای حلِ مسئله است.",
+    "grammar_rule_fa": "موافقتِ ساده: «Ja, natuurlijk, kom maar mee.»",
+    "extra_example_nl": "Ja, natuurlijk, het schap is hier vlakbij.",
+    "extra_example_fa": "بله، البته، قفسه همین نزدیکی است.",
+    "options": [
+      {
+        "text_nl": "Nee, ik heb geen tijd om mee te lopen.",
+        "is_correct": false,
+        "feedback_fa": "از فرآیندِ منطقیِ بررسی سرباز می‌زند.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Ik betaal toch gewoon 20 euro.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ اولیه‌ی شکایت، یعنی اصلاحِ قیمت، در تضاد است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Winkels doen dit altijd expres.",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ نامنصفانه و بی‌ربط به این موقعیتِ خاص است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Ja, natuurlijk, kom maar mee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همکاریِ ساده و مؤثر.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Medewerker: «Ik heb het probleem gevonden en uw geld is vandaag teruggestort.»  Klant: «___»  Welke reactie is het meest natuurlijk?",
+    "question_text_fa": "کدام واکنشِ مشتری طبیعی‌ترین است؟",
+    "explanation_fa": "تشکرِ صمیمانه، واکنشِ طبیعی بعد از حلِ موفقیت‌آمیزِ شکایت است.",
+    "grammar_rule_fa": "تشکرِ نهایی: «Dank u wel voor de snelle hulp.»",
+    "extra_example_nl": "Dank u wel voor de snelle hulp, fijn dat het is opgelost.",
+    "extra_example_fa": "ممنون بابت کمک سریع‌تان، خوشحالم که حل شد.",
+    "options": [
+      {
+        "text_nl": "Dank u wel voor de snelle hulp.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تشکرِ طبیعی و مناسب بعد از حل مشکل.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Waarom duurde dit zo lang?",
+        "is_correct": false,
+        "feedback_fa": "با لحنِ مثبتِ پایانِ گفتگو تناسبی ندارد.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik geloof het pas als ik het zie.",
+        "is_correct": false,
+        "feedback_fa": "بی‌اعتمادیِ غیرضروری بعد از دریافت خبر خوب است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Dat had ook wel iets eerder gemogen.",
+        "is_correct": false,
+        "feedback_fa": "با لحنِ مثبتِ نتیجه ناسازگار و کمی گلایه‌آمیز است.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Wij hadden een reservering voor 19:00, maar er is geen tafel voor ons vrij.»  Gastvrouw: «Mijn excuses, dat had niet mogen gebeuren, ik zoek meteen een oplossing.»  Wat is een geschikte reactie van de klant?",
+    "question_text_fa": "کدام واکنش مناسب مشتری است؟",
+    "explanation_fa": "پرسیدنِ زمانِ تقریبیِ انتظار، واکنشِ منطقی و آرام است.",
+    "grammar_rule_fa": "سؤالِ عملی: «Hoelang moeten we ongeveer wachten?»",
+    "extra_example_nl": "Hoelang moeten we ongeveer wachten op een tafel?",
+    "extra_example_fa": "تقریباً چقدر باید منتظر میز بمانیم؟",
+    "options": [
+      {
+        "text_nl": "Het is niet erg, we eten thuis wel niets vanavond.",
+        "is_correct": false,
+        "feedback_fa": "غیرطبیعی و بی‌ربط به موقعیت است.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Hoelang moeten we ongeveer wachten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ عملی و آرام.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Een reservering is dan toch zinloos!",
+        "is_correct": false,
+        "feedback_fa": "با واکنشِ خونسردانه‌تری که در این موقعیت بهتر است در تضاد است.",
+        "key": "C"
+      },
+      {
+        "text_nl": "We gaan gewoon ergens anders eten, zonder iets te zeggen.",
+        "is_correct": false,
+        "feedback_fa": "موقعیت را بدون گفتگو ترک می‌کند، درحالی‌که راه‌حل پیشنهاد شد.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «De verhuisfirma heeft mijn kast beschadigd tijdens het transport.»  Manager: «Dat spijt ons, kunt u foto's van de schade sturen voor de verzekering?»  Wat is de beste reactie?",
+    "question_text_fa": "کدام واکنش بهترین است؟",
+    "explanation_fa": "موافقت با فرستادنِ عکس، همکاریِ منطقی با روندِ رسیدگیِ بیمه است.",
+    "grammar_rule_fa": "همکاری با فرآیند: «Ja, die stuur ik vandaag nog.»",
+    "extra_example_nl": "Ja, die foto's stuur ik u vandaag nog per e-mail.",
+    "extra_example_fa": "بله، همین امروز آن عکس‌ها را برایتان ایمیل می‌کنم.",
+    "options": [
+      {
+        "text_nl": "Verhuizen is toch altijd een ramp.",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ نامرتبط و غیرسازنده است.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Het is een oude kast, het maakt niet uit.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ اولیه‌ی شکایت در تضاد است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ja, die foto's stuur ik vandaag nog.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همکاریِ سریع با روندِ بیمه.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Ik heb geen foto's, koop maar een nieuwe kast voor mij.",
+        "is_correct": false,
+        "feedback_fa": "از فرآیندِ منطقی سرباز می‌زند.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Passagier: «Mijn vlucht is geannuleerd en niemand vertelt me wat de volgende stap is.»  Medewerker: «U heeft recht op een andere vlucht of terugbetaling, wat heeft uw voorkeur?»  Wat is een duidelijke reactie?",
+    "question_text_fa": "کدام واکنشِ روشن مناسب است؟",
+    "explanation_fa": "بیانِ روشنِ ترجیح (پرواز جایگزین یا بازپرداخت)، پاسخِ مناسب است.",
+    "grammar_rule_fa": "بیانِ ترجیح: «Ik heb liever een andere vlucht.»",
+    "extra_example_nl": "Ik heb liever een andere vlucht vandaag nog.",
+    "extra_example_fa": "ترجیح می‌دهم همین امروز پروازِ دیگری داشته باشم.",
+    "options": [
+      {
+        "text_nl": "Maakt niet uit, doet u maar wat.",
+        "is_correct": false,
+        "feedback_fa": "مبهم است و کمکی به تصمیم‌گیری نمی‌کند.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Vluchten annuleren is altijd jullie schuld.",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ نادرست و غیرسازنده است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Ik wil helemaal niet meer vliegen.",
+        "is_correct": false,
+        "feedback_fa": "به سؤالِ مستقیمِ کارمند پاسخ نمی‌دهد.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Ik heb liever een andere vlucht, het liefst vandaag nog.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ روشن، مستقیم و مؤدبانه.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: «Ik snap dat fouten kunnen gebeuren, maar dit is al de derde keer met dezelfde bestelling.»  Medewerker: «U heeft helemaal gelijk, dat is niet oké, ik zorg voor een oplossing én een kleine compensatie.»  Wat is een passende reactie?",
+    "question_text_fa": "کدام واکنش مناسب مشتری است؟",
+    "explanation_fa": "پذیرفتنِ مودبانه‌ی عذرخواهی و جبران، واکنشِ متعادل و منطقی است.",
+    "grammar_rule_fa": "پذیرفتنِ جبران: «Dat stel ik op prijs, dank u.»",
+    "extra_example_nl": "Dat stel ik op prijs, dank u voor de coulance.",
+    "extra_example_fa": "این را قدر می‌دانم، ممنون بابت انعطاف‌پذیری‌تان.",
+    "options": [
+      {
+        "text_nl": "Dat stel ik op prijs, dank u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متعادل، مودبانه و مناسب.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Compensatie is niet genoeg, ik wil meer.",
+        "is_correct": false,
+        "feedback_fa": "حریصانه و نامتناسب با لحنِ مودبانه‌ی مشتری در ابتدای گفتگو است.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Dit bedrijf deugt totaal niet.",
+        "is_correct": false,
+        "feedback_fa": "با لحنِ آرامِ خودِ مشتری در جمله‌ی اول تناقض دارد.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Het maakt verder niet uit.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد، درحالی‌که شکایت برای او مهم بود.",
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "complaint_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Werknemer: «Het is zo druk en luidruchtig in dit open kantoor dat ik me niet meer kan concentreren.»  Facilitair medewerker: «Dat begrijp ik, we hebben sinds kort ook stille werkplekken, wilt u die proberen?»  Wat is een gepaste reactie?",
+    "question_text_fa": "کدام واکنش مناسب است؟",
+    "explanation_fa": "پذیرفتنِ پیشنهاد و امتحان‌کردنِ فضای ساکت، واکنشِ سازنده و منطقی است.",
+    "grammar_rule_fa": "پذیرفتنِ پیشنهاد: «Ja, dat wil ik graag proberen.»",
+    "extra_example_nl": "Ja, dat wil ik graag proberen, waar zijn die plekken?",
+    "extra_example_fa": "بله، دوست دارم امتحان کنم، آن فضاها کجا هستند؟",
+    "options": [
+      {
+        "text_nl": "Het maakt niet uit, ik zeg toch niets meer.",
+        "is_correct": false,
+        "feedback_fa": "با نگرانیِ اولیه‌ی کارمند در تضاد است.",
+        "key": "A"
+      },
+      {
+        "text_nl": "Ja, dat wil ik graag proberen, waar zijn die?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پذیرشِ سازنده‌ی پیشنهاد.",
+        "key": "B"
+      },
+      {
+        "text_nl": "Nee, ik werk toch nooit meer geconcentreerd.",
+        "is_correct": false,
+        "feedback_fa": "بدبینانه و غیرسازنده است، درحالی‌که راه‌حلی پیشنهاد شد.",
+        "key": "C"
+      },
+      {
+        "text_nl": "Een open kantoor is altijd een slecht idee.",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ کلی است و به پیشنهادِ مشخص پاسخ نمی‌دهد.",
+        "key": "D"
+      }
+    ]
+  }
+]

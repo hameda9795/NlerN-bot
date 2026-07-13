@@ -1,0 +1,4102 @@
+[
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_full_hours",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De afspraak is om 8:00. Kies de juiste tijd.",
+    "question_text_fa": "قرار ساعت 8:00 است. شکل درست ساعت کدام است؟",
+    "explanation_fa": "برای ساعت کامل در هلندی می‌گوییم: عدد + «uur».",
+    "grammar_rule_fa": "ساعت کامل: getal + uur.",
+    "extra_example_nl": "De afspraak is om acht uur.",
+    "extra_example_fa": "قرار ساعت هشت است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "acht uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این ساعت کامل با «acht uur» گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "half acht",
+        "is_correct": false,
+        "feedback_fa": "«half acht» یعنی 7:30، نه 8:00."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwart over acht",
+        "is_correct": false,
+        "feedback_fa": "«kwart over acht» یعنی 8:15."
+      },
+      {
+        "key": "D",
+        "text_nl": "kwart voor acht",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor acht» یعنی 7:45."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_full_hours",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De les begint om 9:00. Kies de juiste tijd.",
+    "question_text_fa": "کلاس ساعت 9:00 شروع می‌شود. شکل درست ساعت کدام است؟",
+    "explanation_fa": "برای ساعت کامل در هلندی می‌گوییم: عدد + «uur».",
+    "grammar_rule_fa": "ساعت کامل: getal + uur.",
+    "extra_example_nl": "De les begint om negen uur.",
+    "extra_example_fa": "کلاس ساعت نه شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "half negen",
+        "is_correct": false,
+        "feedback_fa": "«half negen» یعنی 8:30، نه 9:00."
+      },
+      {
+        "key": "B",
+        "text_nl": "negen uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این ساعت کامل با «negen uur» گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwart over negen",
+        "is_correct": false,
+        "feedback_fa": "«kwart over negen» یعنی 9:15."
+      },
+      {
+        "key": "D",
+        "text_nl": "tien voor negen",
+        "is_correct": false,
+        "feedback_fa": "«tien voor negen» یعنی 8:50."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_full_hours",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik begin om 7:00 met werken. Kies de juiste tijd.",
+    "question_text_fa": "من ساعت 7:00 کار را شروع می‌کنم. شکل درست کدام است؟",
+    "explanation_fa": "برای ساعت کامل در هلندی می‌گوییم: عدد + «uur».",
+    "grammar_rule_fa": "ساعت کامل: getal + uur.",
+    "extra_example_nl": "Ik begin om zeven uur.",
+    "extra_example_fa": "من ساعت هفت شروع می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "half zeven",
+        "is_correct": false,
+        "feedback_fa": "«half zeven» یعنی 6:30."
+      },
+      {
+        "key": "B",
+        "text_nl": "kwart voor zeven",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor zeven» یعنی 6:45."
+      },
+      {
+        "key": "C",
+        "text_nl": "zeven uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این ساعت کامل با «zeven uur» گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "kwart over zeven",
+        "is_correct": false,
+        "feedback_fa": "«kwart over zeven» یعنی 7:15."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_full_hours",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De bus vertrekt om 10:00. Kies de juiste tijd.",
+    "question_text_fa": "اتوبوس ساعت 10:00 حرکت می‌کند. شکل درست کدام است؟",
+    "explanation_fa": "برای ساعت کامل در هلندی می‌گوییم: عدد + «uur».",
+    "grammar_rule_fa": "ساعت کامل: getal + uur.",
+    "extra_example_nl": "De bus vertrekt om tien uur.",
+    "extra_example_fa": "اتوبوس ساعت ده حرکت می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "half tien",
+        "is_correct": false,
+        "feedback_fa": "«half tien» یعنی 9:30."
+      },
+      {
+        "key": "B",
+        "text_nl": "tien over tien",
+        "is_correct": false,
+        "feedback_fa": "«tien over tien» یعنی 10:10."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwart voor tien",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor tien» یعنی 9:45."
+      },
+      {
+        "key": "D",
+        "text_nl": "tien uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این ساعت کامل با «tien uur» گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_full_hours",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik sta om 6:00 op. Kies de juiste tijd.",
+    "question_text_fa": "من ساعت 6:00 بیدار می‌شوم. شکل درست کدام است؟",
+    "explanation_fa": "برای ساعت کامل در هلندی می‌گوییم: عدد + «uur».",
+    "grammar_rule_fa": "ساعت کامل: getal + uur.",
+    "extra_example_nl": "Ik sta om zes uur op.",
+    "extra_example_fa": "من ساعت شش بیدار می‌شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zes uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این ساعت کامل با «zes uur» گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "half zes",
+        "is_correct": false,
+        "feedback_fa": "«half zes» یعنی 5:30."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwart over zes",
+        "is_correct": false,
+        "feedback_fa": "«kwart over zes» یعنی 6:15."
+      },
+      {
+        "key": "D",
+        "text_nl": "tien voor zes",
+        "is_correct": false,
+        "feedback_fa": "«tien voor zes» یعنی 5:50."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_full_hours",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Wij eten om 12:00. Kies de juiste tijd.",
+    "question_text_fa": "ما ساعت 12:00 غذا می‌خوریم. شکل درست کدام است؟",
+    "explanation_fa": "برای ساعت کامل در هلندی می‌گوییم: عدد + «uur».",
+    "grammar_rule_fa": "ساعت کامل: getal + uur.",
+    "extra_example_nl": "Wij eten om twaalf uur.",
+    "extra_example_fa": "ما ساعت دوازده غذا می‌خوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "half twaalf",
+        "is_correct": false,
+        "feedback_fa": "«half twaalf» یعنی 11:30."
+      },
+      {
+        "key": "B",
+        "text_nl": "twaalf uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این ساعت کامل با «twaalf uur» گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwart over twaalf",
+        "is_correct": false,
+        "feedback_fa": "«kwart over twaalf» یعنی 12:15."
+      },
+      {
+        "key": "D",
+        "text_nl": "kwart voor twaalf",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor twaalf» یعنی 11:45."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_full_hours",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De winkel opent om 11:00. Kies de juiste tijd.",
+    "question_text_fa": "فروشگاه ساعت 11:00 باز می‌شود. شکل درست کدام است؟",
+    "explanation_fa": "برای ساعت کامل در هلندی می‌گوییم: عدد + «uur».",
+    "grammar_rule_fa": "ساعت کامل: getal + uur.",
+    "extra_example_nl": "De winkel opent om elf uur.",
+    "extra_example_fa": "فروشگاه ساعت یازده باز می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "half elf",
+        "is_correct": false,
+        "feedback_fa": "«half elf» یعنی 10:30."
+      },
+      {
+        "key": "B",
+        "text_nl": "kwart over elf",
+        "is_correct": false,
+        "feedback_fa": "«kwart over elf» یعنی 11:15."
+      },
+      {
+        "key": "C",
+        "text_nl": "elf uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این ساعت کامل با «elf uur» گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "tien voor elf",
+        "is_correct": false,
+        "feedback_fa": "«tien voor elf» یعنی 10:50."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_full_hours",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De dokter belt om 3:00. Kies de juiste tijd.",
+    "question_text_fa": "دکتر ساعت 3:00 زنگ می‌زند. شکل درست کدام است؟",
+    "explanation_fa": "برای ساعت کامل در هلندی می‌گوییم: عدد + «uur».",
+    "grammar_rule_fa": "ساعت کامل: getal + uur.",
+    "extra_example_nl": "De dokter belt om drie uur.",
+    "extra_example_fa": "دکتر ساعت سه زنگ می‌زند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "half drie",
+        "is_correct": false,
+        "feedback_fa": "«half drie» یعنی 2:30."
+      },
+      {
+        "key": "B",
+        "text_nl": "kwart voor drie",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor drie» یعنی 2:45."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwart over drie",
+        "is_correct": false,
+        "feedback_fa": "«kwart over drie» یعنی 3:15."
+      },
+      {
+        "key": "D",
+        "text_nl": "drie uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این ساعت کامل با «drie uur» گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_full_hours",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Mijn broer komt om 5:00. Kies de juiste tijd.",
+    "question_text_fa": "برادرم ساعت 5:00 می‌آید. شکل درست کدام است؟",
+    "explanation_fa": "برای ساعت کامل در هلندی می‌گوییم: عدد + «uur».",
+    "grammar_rule_fa": "ساعت کامل: getal + uur.",
+    "extra_example_nl": "Mijn broer komt om vijf uur.",
+    "extra_example_fa": "برادرم ساعت پنج می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vijf uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این ساعت کامل با «vijf uur» گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "half vijf",
+        "is_correct": false,
+        "feedback_fa": "«half vijf» یعنی 4:30."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwart over vijf",
+        "is_correct": false,
+        "feedback_fa": "«kwart over vijf» یعنی 5:15."
+      },
+      {
+        "key": "D",
+        "text_nl": "tien voor vijf",
+        "is_correct": false,
+        "feedback_fa": "«tien voor vijf» یعنی 4:50."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_full_hours",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het nieuws begint om 4:00. Kies de juiste tijd.",
+    "question_text_fa": "اخبار ساعت 4:00 شروع می‌شود. شکل درست کدام است؟",
+    "explanation_fa": "برای ساعت کامل در هلندی می‌گوییم: عدد + «uur».",
+    "grammar_rule_fa": "ساعت کامل: getal + uur.",
+    "extra_example_nl": "Het nieuws begint om vier uur.",
+    "extra_example_fa": "اخبار ساعت چهار شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "half vier",
+        "is_correct": false,
+        "feedback_fa": "«half vier» یعنی 3:30."
+      },
+      {
+        "key": "B",
+        "text_nl": "vier uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این ساعت کامل با «vier uur» گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwart voor vier",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor vier» یعنی 3:45."
+      },
+      {
+        "key": "D",
+        "text_nl": "kwart over vier",
+        "is_correct": false,
+        "feedback_fa": "«kwart over vier» یعنی 4:15."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_half_quarter",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het is 8:30. Welke tijd is juist?",
+    "question_text_fa": "ساعت 8:30 است. در هلندی کدام درست است؟",
+    "explanation_fa": "در ساعت هلندی، «half» به ساعت بعدی اشاره می‌کند و «kwart over/voor» برای ربع بعد/قبل است.",
+    "grammar_rule_fa": "نیم و ربع: half negen = 8:30، kwart over acht = 8:15، kwart voor negen = 8:45.",
+    "extra_example_nl": "De afspraak is om half negen.",
+    "extra_example_fa": "قرار ساعت 8:30 است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "half acht",
+        "is_correct": false,
+        "feedback_fa": "«half acht» یعنی 7:30."
+      },
+      {
+        "key": "B",
+        "text_nl": "negen uur",
+        "is_correct": false,
+        "feedback_fa": "«negen uur» یعنی 9:00."
+      },
+      {
+        "key": "C",
+        "text_nl": "half negen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این زمان در هلندی «half negen» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "half tien",
+        "is_correct": false,
+        "feedback_fa": "«half tien» یعنی 9:30."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_half_quarter",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De les begint om 8:15. Kies de juiste tijd.",
+    "question_text_fa": "کلاس ساعت 8:15 شروع می‌شود. شکل درست کدام است؟",
+    "explanation_fa": "در ساعت هلندی، «half» به ساعت بعدی اشاره می‌کند و «kwart over/voor» برای ربع بعد/قبل است.",
+    "grammar_rule_fa": "نیم و ربع: half negen = 8:30، kwart over acht = 8:15، kwart voor negen = 8:45.",
+    "extra_example_nl": "De les begint om kwart over acht.",
+    "extra_example_fa": "کلاس ساعت 8:15 شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kwart voor acht",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor acht» یعنی 7:45."
+      },
+      {
+        "key": "B",
+        "text_nl": "half negen",
+        "is_correct": false,
+        "feedback_fa": "«half negen» یعنی 8:30."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwart voor negen",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor negen» یعنی 8:45."
+      },
+      {
+        "key": "D",
+        "text_nl": "kwart over acht",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این زمان در هلندی «kwart over acht» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_half_quarter",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De trein vertrekt om 8:45. Kies de juiste tijd.",
+    "question_text_fa": "قطار ساعت 8:45 حرکت می‌کند. شکل درست کدام است؟",
+    "explanation_fa": "در ساعت هلندی، «half» به ساعت بعدی اشاره می‌کند و «kwart over/voor» برای ربع بعد/قبل است.",
+    "grammar_rule_fa": "نیم و ربع: half negen = 8:30، kwart over acht = 8:15، kwart voor negen = 8:45.",
+    "extra_example_nl": "De trein vertrekt om kwart voor negen.",
+    "extra_example_fa": "قطار ساعت 8:45 حرکت می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kwart voor negen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این زمان در هلندی «kwart voor negen» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "kwart over acht",
+        "is_correct": false,
+        "feedback_fa": "«kwart over acht» یعنی 8:15."
+      },
+      {
+        "key": "C",
+        "text_nl": "half negen",
+        "is_correct": false,
+        "feedback_fa": "«half negen» یعنی 8:30."
+      },
+      {
+        "key": "D",
+        "text_nl": "negen uur",
+        "is_correct": false,
+        "feedback_fa": "«negen uur» یعنی 9:00."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_half_quarter",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik begin om 8:10. Kies de juiste tijd.",
+    "question_text_fa": "من ساعت 8:10 شروع می‌کنم. شکل درست کدام است؟",
+    "explanation_fa": "در ساعت هلندی، «half» به ساعت بعدی اشاره می‌کند و «kwart over/voor» برای ربع بعد/قبل است.",
+    "grammar_rule_fa": "نیم و ربع: half negen = 8:30، kwart over acht = 8:15، kwart voor negen = 8:45.",
+    "extra_example_nl": "Ik begin om tien over acht.",
+    "extra_example_fa": "من ساعت 8:10 شروع می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "tien voor acht",
+        "is_correct": false,
+        "feedback_fa": "«tien voor acht» یعنی 7:50."
+      },
+      {
+        "key": "B",
+        "text_nl": "tien over acht",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این زمان در هلندی «tien over acht» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "tien voor negen",
+        "is_correct": false,
+        "feedback_fa": "«tien voor negen» یعنی 8:50."
+      },
+      {
+        "key": "D",
+        "text_nl": "kwart over acht",
+        "is_correct": false,
+        "feedback_fa": "«kwart over acht» یعنی 8:15."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_half_quarter",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De winkel sluit om 8:50. Kies de juiste tijd.",
+    "question_text_fa": "فروشگاه ساعت 8:50 بسته می‌شود. شکل درست کدام است؟",
+    "explanation_fa": "در ساعت هلندی، «half» به ساعت بعدی اشاره می‌کند و «kwart over/voor» برای ربع بعد/قبل است.",
+    "grammar_rule_fa": "نیم و ربع: half negen = 8:30، kwart over acht = 8:15، kwart voor negen = 8:45.",
+    "extra_example_nl": "De winkel sluit om tien voor negen.",
+    "extra_example_fa": "فروشگاه ساعت 8:50 بسته می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "tien over acht",
+        "is_correct": false,
+        "feedback_fa": "«tien over acht» یعنی 8:10."
+      },
+      {
+        "key": "B",
+        "text_nl": "kwart voor negen",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor negen» یعنی 8:45."
+      },
+      {
+        "key": "C",
+        "text_nl": "tien voor negen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این زمان در هلندی «tien voor negen» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "negen uur",
+        "is_correct": false,
+        "feedback_fa": "«negen uur» یعنی 9:00."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_half_quarter",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De afspraak is om 9:30. Welke tijd is juist?",
+    "question_text_fa": "قرار ساعت 9:30 است. در هلندی کدام درست است؟",
+    "explanation_fa": "در ساعت هلندی، «half» به ساعت بعدی اشاره می‌کند و «kwart over/voor» برای ربع بعد/قبل است.",
+    "grammar_rule_fa": "نیم و ربع: half negen = 8:30، kwart over acht = 8:15، kwart voor negen = 8:45.",
+    "extra_example_nl": "Ik heb om half tien een afspraak.",
+    "extra_example_fa": "من ساعت 9:30 قرار دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "half negen",
+        "is_correct": false,
+        "feedback_fa": "«half negen» یعنی 8:30."
+      },
+      {
+        "key": "B",
+        "text_nl": "tien uur",
+        "is_correct": false,
+        "feedback_fa": "«tien uur» یعنی 10:00."
+      },
+      {
+        "key": "C",
+        "text_nl": "kwart over negen",
+        "is_correct": false,
+        "feedback_fa": "«kwart over negen» یعنی 9:15."
+      },
+      {
+        "key": "D",
+        "text_nl": "half tien",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این زمان در هلندی «half tien» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_half_quarter",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Wij eten om 6:15. Kies de juiste tijd.",
+    "question_text_fa": "ما ساعت 6:15 غذا می‌خوریم. شکل درست کدام است؟",
+    "explanation_fa": "در ساعت هلندی، «half» به ساعت بعدی اشاره می‌کند و «kwart over/voor» برای ربع بعد/قبل است.",
+    "grammar_rule_fa": "نیم و ربع: half negen = 8:30، kwart over acht = 8:15، kwart voor negen = 8:45.",
+    "extra_example_nl": "Wij eten om kwart over zes.",
+    "extra_example_fa": "ما ساعت 6:15 غذا می‌خوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kwart over zes",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این زمان در هلندی «kwart over zes» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "kwart voor zes",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor zes» یعنی 5:45."
+      },
+      {
+        "key": "C",
+        "text_nl": "half zeven",
+        "is_correct": false,
+        "feedback_fa": "«half zeven» یعنی 6:30."
+      },
+      {
+        "key": "D",
+        "text_nl": "kwart voor zeven",
+        "is_correct": false,
+        "feedback_fa": "«kwart voor zeven» یعنی 6:45."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_half_quarter",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De koffie is klaar om 2:45. Kies de juiste tijd.",
+    "question_text_fa": "قهوه ساعت 2:45 آماده است. شکل درست کدام است؟",
+    "explanation_fa": "در ساعت هلندی، «half» به ساعت بعدی اشاره می‌کند و «kwart over/voor» برای ربع بعد/قبل است.",
+    "grammar_rule_fa": "نیم و ربع: half negen = 8:30، kwart over acht = 8:15، kwart voor negen = 8:45.",
+    "extra_example_nl": "De koffie is klaar om kwart voor drie.",
+    "extra_example_fa": "قهوه ساعت 2:45 آماده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kwart over twee",
+        "is_correct": false,
+        "feedback_fa": "«kwart over twee» یعنی 2:15."
+      },
+      {
+        "key": "B",
+        "text_nl": "kwart voor drie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این زمان در هلندی «kwart voor drie» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "half drie",
+        "is_correct": false,
+        "feedback_fa": "«half drie» یعنی 2:30."
+      },
+      {
+        "key": "D",
+        "text_nl": "drie uur",
+        "is_correct": false,
+        "feedback_fa": "«drie uur» یعنی 3:00."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_half_quarter",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ga om 7:20 weg. Kies de juiste tijd.",
+    "question_text_fa": "من ساعت 7:20 می‌روم. شکل درست کدام است؟",
+    "explanation_fa": "در ساعت هلندی، «half» به ساعت بعدی اشاره می‌کند و «kwart over/voor» برای ربع بعد/قبل است.",
+    "grammar_rule_fa": "نیم و ربع: half negen = 8:30، kwart over acht = 8:15، kwart voor negen = 8:45.",
+    "extra_example_nl": "Ik ga om twintig over zeven weg.",
+    "extra_example_fa": "من ساعت 7:20 می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "twintig voor zeven",
+        "is_correct": false,
+        "feedback_fa": "«twintig voor zeven» یعنی 6:40."
+      },
+      {
+        "key": "B",
+        "text_nl": "tien over zeven",
+        "is_correct": false,
+        "feedback_fa": "«tien over zeven» یعنی 7:10."
+      },
+      {
+        "key": "C",
+        "text_nl": "twintig over zeven",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این زمان در هلندی «twintig over zeven» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "half acht",
+        "is_correct": false,
+        "feedback_fa": "«half acht» یعنی 7:30."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "clock_half_quarter",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De afspraak is om 10:40. Kies de juiste tijd.",
+    "question_text_fa": "قرار ساعت 10:40 است. شکل درست کدام است؟",
+    "explanation_fa": "در ساعت هلندی، «half» به ساعت بعدی اشاره می‌کند و «kwart over/voor» برای ربع بعد/قبل است.",
+    "grammar_rule_fa": "نیم و ربع: half negen = 8:30، kwart over acht = 8:15، kwart voor negen = 8:45.",
+    "extra_example_nl": "De afspraak is om twintig voor elf.",
+    "extra_example_fa": "قرار ساعت 10:40 است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "twintig over tien",
+        "is_correct": false,
+        "feedback_fa": "«twintig over tien» یعنی 10:20."
+      },
+      {
+        "key": "B",
+        "text_nl": "half elf",
+        "is_correct": false,
+        "feedback_fa": "«half elf» یعنی 10:30."
+      },
+      {
+        "key": "C",
+        "text_nl": "elf uur",
+        "is_correct": false,
+        "feedback_fa": "«elf uur» یعنی 11:00."
+      },
+      {
+        "key": "D",
+        "text_nl": "twintig voor elf",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این زمان در هلندی «twintig voor elf» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_prepositions_om_op_in",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ik begin ___ acht uur.",
+    "question_text_fa": "برای ساعت مشخص کدام حرف اضافه درست است؟",
+    "explanation_fa": "حرف اضافه زمان به نوع زمان بستگی دارد: ساعت، روز/تاریخ، یا ماه/سال/فصل.",
+    "grammar_rule_fa": "om + ساعت، op + روز/تاریخ، in + ماه/سال/فصل.",
+    "extra_example_nl": "Ik kom om tien uur.",
+    "extra_example_fa": "من ساعت ده می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساعت مشخص از «om» استفاده می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ است، نه ساعت."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه ساعت."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه زمان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_prepositions_om_op_in",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ik heb les ___ maandag.",
+    "question_text_fa": "برای روز هفته کدام حرف اضافه درست است؟",
+    "explanation_fa": "حرف اضافه زمان به نوع زمان بستگی دارد: ساعت، روز/تاریخ، یا ماه/سال/فصل.",
+    "grammar_rule_fa": "om + ساعت، op + روز/تاریخ، in + ماه/سال/فصل.",
+    "extra_example_nl": "Ik heb les op dinsdag.",
+    "extra_example_fa": "من سه‌شنبه کلاس دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "D",
+        "text_nl": "bij",
+        "is_correct": false,
+        "feedback_fa": "«bij» یعنی نزد/کنار و برای روز هفته استفاده نمی‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_prepositions_om_op_in",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Mijn verjaardag is ___ juli.",
+    "question_text_fa": "برای ماه کدام حرف اضافه درست است؟",
+    "explanation_fa": "حرف اضافه زمان به نوع زمان بستگی دارد: ساعت، روز/تاریخ، یا ماه/سال/فصل.",
+    "grammar_rule_fa": "om + ساعت، op + روز/تاریخ، in + ماه/سال/فصل.",
+    "extra_example_nl": "Ik ben in april jarig.",
+    "extra_example_fa": "تولد من در ماه آوریل است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه فقط ماه."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "met",
+        "is_correct": false,
+        "feedback_fa": "«met» یعنی با و برای ماه استفاده نمی‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_prepositions_om_op_in",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "De afspraak is ___ 5 mei.",
+    "question_text_fa": "برای تاریخ مشخص کدام حرف اضافه درست است؟",
+    "explanation_fa": "حرف اضافه زمان به نوع زمان بستگی دارد: ساعت، روز/تاریخ، یا ماه/سال/فصل.",
+    "grammar_rule_fa": "om + ساعت، op + روز/تاریخ، in + ماه/سال/فصل.",
+    "extra_example_nl": "De afspraak is op 3 april.",
+    "extra_example_fa": "قرار در تاریخ 3 آوریل است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_prepositions_om_op_in",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "___ de winter is het koud.",
+    "question_text_fa": "برای فصل کدام حرف اضافه درست است؟",
+    "explanation_fa": "حرف اضافه زمان به نوع زمان بستگی دارد: ساعت، روز/تاریخ، یا ماه/سال/فصل.",
+    "grammar_rule_fa": "om + ساعت، op + روز/تاریخ، in + ماه/سال/فصل.",
+    "extra_example_nl": "In de zomer is het warm.",
+    "extra_example_fa": "در تابستان هوا گرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای فصل از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ مشخص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "aan",
+        "is_correct": false,
+        "feedback_fa": "«aan» برای فصل در این جمله درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_prepositions_om_op_in",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "De trein komt ___ half negen.",
+    "question_text_fa": "برای ساعت 8:30 کدام حرف اضافه درست است؟",
+    "explanation_fa": "حرف اضافه زمان به نوع زمان بستگی دارد: ساعت، روز/تاریخ، یا ماه/سال/فصل.",
+    "grammar_rule_fa": "om + ساعت، op + روز/تاریخ، in + ماه/سال/فصل.",
+    "extra_example_nl": "De trein komt om kwart over acht.",
+    "extra_example_fa": "قطار ساعت 8:15 می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز یا تاریخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای هر ساعت مشخص، از جمله «half negen»، از «om» استفاده می‌کنیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "D",
+        "text_nl": "voor",
+        "is_correct": false,
+        "feedback_fa": "«voor» در این جمله حرف اضافه زمانِ شروع نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_prepositions_om_op_in",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "De markt is ___ zaterdag.",
+    "question_text_fa": "برای روز هفته کدام حرف اضافه درست است؟",
+    "explanation_fa": "حرف اضافه زمان به نوع زمان بستگی دارد: ساعت، روز/تاریخ، یا ماه/سال/فصل.",
+    "grammar_rule_fa": "om + ساعت، op + روز/تاریخ، in + ماه/سال/فصل.",
+    "extra_example_nl": "De markt is op vrijdag.",
+    "extra_example_fa": "بازار جمعه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت است."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "C",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "tot",
+        "is_correct": false,
+        "feedback_fa": "«tot» یعنی تا، نه برای روز هفته در این جمله."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_prepositions_om_op_in",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ik heb een afspraak ___ maart.",
+    "question_text_fa": "برای ماه کدام حرف اضافه درست است؟",
+    "explanation_fa": "حرف اضافه زمان به نوع زمان بستگی دارد: ساعت، روز/تاریخ، یا ماه/سال/فصل.",
+    "grammar_rule_fa": "om + ساعت، op + روز/تاریخ، in + ماه/سال/فصل.",
+    "extra_example_nl": "Ik heb in maart een afspraak.",
+    "extra_example_fa": "من در ماه مارس قرار دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای تاریخ دقیق مثل 3 maart است."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت است."
+      },
+      {
+        "key": "C",
+        "text_nl": "door",
+        "is_correct": false,
+        "feedback_fa": "«door» در این معنی زمانی درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. وقتی فقط ماه می‌آید از «in» استفاده می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_prepositions_om_op_in",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Het examen is ___ 2026.",
+    "question_text_fa": "برای سال کدام حرف اضافه درست است؟",
+    "explanation_fa": "حرف اضافه زمان به نوع زمان بستگی دارد: ساعت، روز/تاریخ، یا ماه/سال/فصل.",
+    "grammar_rule_fa": "om + ساعت، op + روز/تاریخ، in + ماه/سال/فصل.",
+    "extra_example_nl": "Ik woon in 2026 in Utrecht.",
+    "extra_example_fa": "من در سال 2026 در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای سال از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز یا تاریخ مشخص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "van",
+        "is_correct": false,
+        "feedback_fa": "«van» به تنهایی برای سال در این جمله درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_prepositions_om_op_in",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Wij eten ___ zes uur.",
+    "question_text_fa": "برای ساعت غذا خوردن کدام حرف اضافه درست است؟",
+    "explanation_fa": "حرف اضافه زمان به نوع زمان بستگی دارد: ساعت، روز/تاریخ، یا ماه/سال/فصل.",
+    "grammar_rule_fa": "om + ساعت، op + روز/تاریخ، in + ماه/سال/فصل.",
+    "extra_example_nl": "Wij eten om zeven uur.",
+    "extra_example_fa": "ما ساعت هفت غذا می‌خوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز یا تاریخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساعت مشخص از «om» استفاده می‌کنیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "D",
+        "text_nl": "met",
+        "is_correct": false,
+        "feedback_fa": "«met» یعنی با و برای ساعت استفاده نمی‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "days_of_week_usage",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik heb les ___ maandag.",
+    "question_text_fa": "برای روز هفته کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی معمولاً از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "روز هفته: op + dag.",
+    "extra_example_nl": "Ik heb les op maandag.",
+    "extra_example_fa": "من دوشنبه کلاس دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه روز هفته."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "C",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه روز هفته."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "days_of_week_usage",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik werk ___ dinsdag.",
+    "question_text_fa": "برای روز سه‌شنبه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی معمولاً از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "روز هفته: op + dag.",
+    "extra_example_nl": "Ik werk op dinsdag.",
+    "extra_example_fa": "من سه‌شنبه کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه روز هفته."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "C",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه روز هفته."
+      },
+      {
+        "key": "D",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "days_of_week_usage",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De afspraak is ___ woensdag.",
+    "question_text_fa": "برای روز چهارشنبه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی معمولاً از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "روز هفته: op + dag.",
+    "extra_example_nl": "De afspraak is op woensdag.",
+    "extra_example_fa": "قرار چهارشنبه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه روز هفته."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه روز هفته."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "days_of_week_usage",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De winkel is open ___ donderdag.",
+    "question_text_fa": "برای روز پنجشنبه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی معمولاً از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "روز هفته: op + dag.",
+    "extra_example_nl": "De winkel is open op donderdag.",
+    "extra_example_fa": "فروشگاه پنجشنبه باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه روز هفته."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه روز هفته."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "days_of_week_usage",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Mijn ouders komen ___ vrijdag.",
+    "question_text_fa": "برای روز جمعه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی معمولاً از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "روز هفته: op + dag.",
+    "extra_example_nl": "Mijn ouders komen op vrijdag.",
+    "extra_example_fa": "والدینم جمعه می‌آیند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه روز هفته."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "C",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه روز هفته."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "days_of_week_usage",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Wij eten samen ___ zaterdag.",
+    "question_text_fa": "برای روز شنبه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی معمولاً از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "روز هفته: op + dag.",
+    "extra_example_nl": "Wij eten samen op zaterdag.",
+    "extra_example_fa": "ما شنبه با هم غذا می‌خوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه روز هفته."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "C",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه روز هفته."
+      },
+      {
+        "key": "D",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "days_of_week_usage",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik ben thuis ___ zondag.",
+    "question_text_fa": "برای روز یکشنبه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی معمولاً از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "روز هفته: op + dag.",
+    "extra_example_nl": "Ik ben thuis op zondag.",
+    "extra_example_fa": "من یکشنبه خانه هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه روز هفته."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه روز هفته."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "days_of_week_usage",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De bus rijdt niet ___ zondag.",
+    "question_text_fa": "برای روز یکشنبه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی معمولاً از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "روز هفته: op + dag.",
+    "extra_example_nl": "De bus rijdt op zondag minder vaak.",
+    "extra_example_fa": "اتوبوس یکشنبه کمتر می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه روز هفته."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه روز هفته."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "days_of_week_usage",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De afspraak is ___ maandagmorgen.",
+    "question_text_fa": "برای «دوشنبه صبح» کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی معمولاً از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "روز هفته: op + dag.",
+    "extra_example_nl": "De afspraak is op maandagmorgen.",
+    "extra_example_fa": "قرار دوشنبه صبح است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه روز هفته."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "C",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه روز هفته."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "days_of_week_usage",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik heb een vergadering ___ vrijdagmiddag.",
+    "question_text_fa": "برای «جمعه بعدازظهر» کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی معمولاً از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "روز هفته: op + dag.",
+    "extra_example_nl": "Ik heb een vergadering op vrijdagmiddag.",
+    "extra_example_fa": "من جمعه بعدازظهر جلسه دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه روز هفته."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "C",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه روز هفته."
+      },
+      {
+        "key": "D",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از «op» استفاده می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "months_and_seasons",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik ben jarig ___ januari.",
+    "question_text_fa": "برای ماه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای ماه‌ها و فصل‌ها در هلندی از «in» استفاده می‌کنیم.",
+    "grammar_rule_fa": "ماه و فصل: in + maand/seizoen.",
+    "extra_example_nl": "Ik ben in januari jarig.",
+    "extra_example_fa": "تولد من در ژانویه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه یا فصل از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه ماه/فصل."
+      },
+      {
+        "key": "C",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه ماه یا فصل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "months_and_seasons",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ februari is het vaak koud.",
+    "question_text_fa": "برای ماه فوریه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای ماه‌ها و فصل‌ها در هلندی از «in» استفاده می‌کنیم.",
+    "grammar_rule_fa": "ماه و فصل: in + maand/seizoen.",
+    "extra_example_nl": "In februari is het vaak koud.",
+    "extra_example_fa": "در فوریه هوا اغلب سرد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه ماه/فصل."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه یا فصل از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه ماه یا فصل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "months_and_seasons",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De cursus begint ___ maart.",
+    "question_text_fa": "برای ماه مارس کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای ماه‌ها و فصل‌ها در هلندی از «in» استفاده می‌کنیم.",
+    "grammar_rule_fa": "ماه و فصل: in + maand/seizoen.",
+    "extra_example_nl": "De cursus begint in maart.",
+    "extra_example_fa": "دوره در مارس شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه ماه/فصل."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه یا فصل از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه ماه یا فصل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "months_and_seasons",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De nieuwe winkel opent ___ april.",
+    "question_text_fa": "برای ماه آوریل کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای ماه‌ها و فصل‌ها در هلندی از «in» استفاده می‌کنیم.",
+    "grammar_rule_fa": "ماه و فصل: in + maand/seizoen.",
+    "extra_example_nl": "De winkel opent in april.",
+    "extra_example_fa": "فروشگاه در آوریل باز می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه ماه/فصل."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه ماه یا فصل."
+      },
+      {
+        "key": "D",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه یا فصل از «in» استفاده می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "months_and_seasons",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Wij maken een afspraak ___ mei.",
+    "question_text_fa": "برای ماه مه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای ماه‌ها و فصل‌ها در هلندی از «in» استفاده می‌کنیم.",
+    "grammar_rule_fa": "ماه و فصل: in + maand/seizoen.",
+    "extra_example_nl": "Wij maken een afspraak in mei.",
+    "extra_example_fa": "ما در مه قرار می‌گذاریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه یا فصل از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه ماه/فصل."
+      },
+      {
+        "key": "C",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه ماه یا فصل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "months_and_seasons",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ de lente is het vaak mooi weer.",
+    "question_text_fa": "برای فصل بهار کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای ماه‌ها و فصل‌ها در هلندی از «in» استفاده می‌کنیم.",
+    "grammar_rule_fa": "ماه و فصل: in + maand/seizoen.",
+    "extra_example_nl": "In de lente is het vaak mooi weer.",
+    "extra_example_fa": "در بهار هوا اغلب خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه ماه/فصل."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه یا فصل از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه ماه یا فصل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "months_and_seasons",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ de zomer gaan wij zwemmen.",
+    "question_text_fa": "برای فصل تابستان کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای ماه‌ها و فصل‌ها در هلندی از «in» استفاده می‌کنیم.",
+    "grammar_rule_fa": "ماه و فصل: in + maand/seizoen.",
+    "extra_example_nl": "In de zomer zwemmen wij vaak.",
+    "extra_example_fa": "در تابستان ما اغلب شنا می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه ماه/فصل."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه یا فصل از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه ماه یا فصل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "months_and_seasons",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ de herfst regent het vaak.",
+    "question_text_fa": "برای فصل پاییز کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای ماه‌ها و فصل‌ها در هلندی از «in» استفاده می‌کنیم.",
+    "grammar_rule_fa": "ماه و فصل: in + maand/seizoen.",
+    "extra_example_nl": "In de herfst regent het vaak.",
+    "extra_example_fa": "در پاییز اغلب باران می‌بارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه ماه/فصل."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه ماه یا فصل."
+      },
+      {
+        "key": "D",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه یا فصل از «in» استفاده می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "months_and_seasons",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ de winter draag ik een jas.",
+    "question_text_fa": "برای فصل زمستان کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای ماه‌ها و فصل‌ها در هلندی از «in» استفاده می‌کنیم.",
+    "grammar_rule_fa": "ماه و فصل: in + maand/seizoen.",
+    "extra_example_nl": "In de winter draag ik een jas.",
+    "extra_example_fa": "در زمستان کت می‌پوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه یا فصل از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه ماه/فصل."
+      },
+      {
+        "key": "C",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه ماه یا فصل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "months_and_seasons",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Mijn vakantie is ___ augustus.",
+    "question_text_fa": "برای ماه اوت کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای ماه‌ها و فصل‌ها در هلندی از «in» استفاده می‌کنیم.",
+    "grammar_rule_fa": "ماه و فصل: in + maand/seizoen.",
+    "extra_example_nl": "Mijn vakantie is in augustus.",
+    "extra_example_fa": "تعطیلات من در اوت است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز هفته یا تاریخ دقیق است، نه ماه/فصل."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه یا فصل از «in» استفاده می‌کنیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه ماه یا فصل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "dates_basic",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn afspraak is ___ 1 januari.",
+    "question_text_fa": "برای تاریخ مشخص کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای تاریخ مشخص در هلندی از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "تاریخ مشخص: op + datum.",
+    "extra_example_nl": "Mijn afspraak is op 1 januari.",
+    "extra_example_fa": "قرار من در تاریخ 1 ژانویه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه تاریخ."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "dates_basic",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De toets is ___ 3 april.",
+    "question_text_fa": "برای تاریخ 3 آوریل کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای تاریخ مشخص در هلندی از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "تاریخ مشخص: op + datum.",
+    "extra_example_nl": "De toets is op 3 april.",
+    "extra_example_fa": "امتحان در تاریخ 3 آوریل است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه تاریخ."
+      },
+      {
+        "key": "D",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "dates_basic",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn verjaardag is ___ 12 juni.",
+    "question_text_fa": "برای تاریخ 12 ژوئن کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای تاریخ مشخص در هلندی از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "تاریخ مشخص: op + datum.",
+    "extra_example_nl": "Mijn verjaardag is op 12 juni.",
+    "extra_example_fa": "تولد من در تاریخ 12 ژوئن است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه تاریخ."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "dates_basic",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De aanbieding begint ___ 15 augustus.",
+    "question_text_fa": "برای تاریخ 15 اوت کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای تاریخ مشخص در هلندی از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "تاریخ مشخص: op + datum.",
+    "extra_example_nl": "De aanbieding begint op 15 augustus.",
+    "extra_example_fa": "تخفیف در تاریخ 15 اوت شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه تاریخ."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "dates_basic",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het feest is ___ 25 december.",
+    "question_text_fa": "برای تاریخ 25 دسامبر کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای تاریخ مشخص در هلندی از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "تاریخ مشخص: op + datum.",
+    "extra_example_nl": "Het feest is op 25 december.",
+    "extra_example_fa": "مهمانی در تاریخ 25 دسامبر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه تاریخ."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "dates_basic",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De afspraak is ___ 5 mei.",
+    "question_text_fa": "برای تاریخ 5 مه کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای تاریخ مشخص در هلندی از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "تاریخ مشخص: op + datum.",
+    "extra_example_nl": "De afspraak is op 5 mei.",
+    "extra_example_fa": "قرار در تاریخ 5 مه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه تاریخ."
+      },
+      {
+        "key": "D",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "dates_basic",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn contract begint ___ 1 september.",
+    "question_text_fa": "برای تاریخ 1 سپتامبر کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای تاریخ مشخص در هلندی از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "تاریخ مشخص: op + datum.",
+    "extra_example_nl": "Mijn contract begint op 1 september.",
+    "extra_example_fa": "قرارداد من در تاریخ 1 سپتامبر شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه تاریخ."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "dates_basic",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ga naar de dokter ___ 10 oktober.",
+    "question_text_fa": "برای تاریخ 10 اکتبر کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای تاریخ مشخص در هلندی از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "تاریخ مشخص: op + datum.",
+    "extra_example_nl": "Ik ga op 10 oktober naar de dokter.",
+    "extra_example_fa": "من در تاریخ 10 اکتبر پیش دکتر می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "B",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه تاریخ."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "dates_basic",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De reis is ___ 20 november.",
+    "question_text_fa": "برای تاریخ 20 نوامبر کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای تاریخ مشخص در هلندی از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "تاریخ مشخص: op + datum.",
+    "extra_example_nl": "De reis is op 20 november.",
+    "extra_example_fa": "سفر در تاریخ 20 نوامبر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه تاریخ."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "dates_basic",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De les stopt ___ 30 juni.",
+    "question_text_fa": "برای تاریخ 30 ژوئن کدام حرف اضافه درست است؟",
+    "explanation_fa": "برای تاریخ مشخص در هلندی از «op» استفاده می‌کنیم.",
+    "grammar_rule_fa": "تاریخ مشخص: op + datum.",
+    "extra_example_nl": "De les stopt op 30 juni.",
+    "extra_example_fa": "کلاس در تاریخ 30 ژوئن تمام می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "om",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه تاریخ."
+      },
+      {
+        "key": "B",
+        "text_nl": "in",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه تاریخ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "naar",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است، نه تاریخ."
+      },
+      {
+        "key": "D",
+        "text_nl": "op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تاریخ مشخص از «op» استفاده می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "relative_time_words",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vandaag is maandag. De dag daarna is mijn afspraak. Ik kom ___.",
+    "question_text_fa": "امروز دوشنبه است. روز بعد قرار من است. کدام کلمه درست است؟",
+    "explanation_fa": "کلمات زمانی نسبی مثل امروز، فردا، دیروز و هفته بعد معمولاً بدون حرف اضافه در جمله می‌آیند.",
+    "grammar_rule_fa": "قیدهای زمانی نسبی مثل vandaag/morgen/gisteren معمولاً preposition نمی‌خواهند.",
+    "extra_example_nl": "Ik kom morgen.",
+    "extra_example_fa": "من فردا می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "morgen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «morgen» با معنی زمان جمله هماهنگ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "gisteren",
+        "is_correct": false,
+        "feedback_fa": "«gisteren» یعنی دیروز، نه روز بعد."
+      },
+      {
+        "key": "C",
+        "text_nl": "vorige week",
+        "is_correct": false,
+        "feedback_fa": "«vorige week» یعنی هفته قبل."
+      },
+      {
+        "key": "D",
+        "text_nl": "vandaag",
+        "is_correct": false,
+        "feedback_fa": "«vandaag» یعنی امروز، نه روز بعد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "relative_time_words",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik was gisteren ziek. Nu ben ik beter. Kies de juiste zin.",
+    "question_text_fa": "دیروز مریض بودم. الان بهترم. کدام جمله درست است؟",
+    "explanation_fa": "کلمات زمانی نسبی مثل امروز، فردا، دیروز و هفته بعد معمولاً بدون حرف اضافه در جمله می‌آیند.",
+    "grammar_rule_fa": "قیدهای زمانی نسبی مثل vandaag/morgen/gisteren معمولاً preposition نمی‌خواهند.",
+    "extra_example_nl": "Gisteren was ik ziek.",
+    "extra_example_fa": "دیروز مریض بودم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Morgen was ik ziek.",
+        "is_correct": false,
+        "feedback_fa": "«morgen» یعنی فردا و با «was» برای دیروز جور نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gisteren was ik ziek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Gisteren was ik ziek.» با معنی زمان جمله هماهنگ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Volgende week was ik ziek.",
+        "is_correct": false,
+        "feedback_fa": "«volgende week» یعنی هفته بعد و با گذشته ساده مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vanavond was ik ziek.",
+        "is_correct": false,
+        "feedback_fa": "«vanavond» یعنی امشب و با این معنی دیروز یکی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "relative_time_words",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb niet deze week, maar de week hierna examen. Ik heb ___ examen.",
+    "question_text_fa": "این هفته نه، هفته بعد امتحان دارم. کدام عبارت درست است؟",
+    "explanation_fa": "کلمات زمانی نسبی مثل امروز، فردا، دیروز و هفته بعد معمولاً بدون حرف اضافه در جمله می‌آیند.",
+    "grammar_rule_fa": "قیدهای زمانی نسبی مثل vandaag/morgen/gisteren معمولاً preposition نمی‌خواهند.",
+    "extra_example_nl": "Ik heb volgende week examen.",
+    "extra_example_fa": "من هفته بعد امتحان دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vorige week",
+        "is_correct": false,
+        "feedback_fa": "«vorige week» یعنی هفته قبل."
+      },
+      {
+        "key": "B",
+        "text_nl": "gisteren",
+        "is_correct": false,
+        "feedback_fa": "«gisteren» یعنی دیروز."
+      },
+      {
+        "key": "C",
+        "text_nl": "volgende week",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «volgende week» با معنی زمان جمله هماهنگ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "vandaag",
+        "is_correct": false,
+        "feedback_fa": "«vandaag» یعنی امروز."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "relative_time_words",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik werkte niet deze week, maar de week hiervoor. Ik werkte ___.",
+    "question_text_fa": "این هفته کار نکردم، هفته قبل کار کردم. کدام عبارت درست است؟",
+    "explanation_fa": "کلمات زمانی نسبی مثل امروز، فردا، دیروز و هفته بعد معمولاً بدون حرف اضافه در جمله می‌آیند.",
+    "grammar_rule_fa": "قیدهای زمانی نسبی مثل vandaag/morgen/gisteren معمولاً preposition نمی‌خواهند.",
+    "extra_example_nl": "Ik werkte vorige week.",
+    "extra_example_fa": "من هفته قبل کار کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "volgende week",
+        "is_correct": false,
+        "feedback_fa": "«volgende week» یعنی هفته بعد، نه هفته قبل."
+      },
+      {
+        "key": "B",
+        "text_nl": "morgen",
+        "is_correct": false,
+        "feedback_fa": "«morgen» یعنی فردا."
+      },
+      {
+        "key": "C",
+        "text_nl": "overmorgen",
+        "is_correct": false,
+        "feedback_fa": "«overmorgen» یعنی پس‌فردا."
+      },
+      {
+        "key": "D",
+        "text_nl": "vorige week",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «vorige week» با معنی زمان جمله هماهنگ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "relative_time_words",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vandaag is maandag. Twee dagen later bezoek ik mijn broer. Ik kom ___.",
+    "question_text_fa": "امروز دوشنبه است. دو روز بعد برادرم را می‌بینم. کدام کلمه درست است؟",
+    "explanation_fa": "کلمات زمانی نسبی مثل امروز، فردا، دیروز و هفته بعد معمولاً بدون حرف اضافه در جمله می‌آیند.",
+    "grammar_rule_fa": "قیدهای زمانی نسبی مثل vandaag/morgen/gisteren معمولاً preposition نمی‌خواهند.",
+    "extra_example_nl": "Ik kom overmorgen.",
+    "extra_example_fa": "من پس‌فردا می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "overmorgen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «overmorgen» با معنی زمان جمله هماهنگ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "morgen",
+        "is_correct": false,
+        "feedback_fa": "«morgen» یعنی فردا، فقط یک روز بعد."
+      },
+      {
+        "key": "C",
+        "text_nl": "gisteren",
+        "is_correct": false,
+        "feedback_fa": "«gisteren» یعنی دیروز."
+      },
+      {
+        "key": "D",
+        "text_nl": "vandaag",
+        "is_correct": false,
+        "feedback_fa": "«vandaag» یعنی امروز."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "relative_time_words",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vandaag is woensdag. Twee dagen geleden was ik thuis. Ik was ___ thuis.",
+    "question_text_fa": "امروز چهارشنبه است. دو روز قبل خانه بودم. کدام کلمه درست است؟",
+    "explanation_fa": "کلمات زمانی نسبی مثل امروز، فردا، دیروز و هفته بعد معمولاً بدون حرف اضافه در جمله می‌آیند.",
+    "grammar_rule_fa": "قیدهای زمانی نسبی مثل vandaag/morgen/gisteren معمولاً preposition نمی‌خواهند.",
+    "extra_example_nl": "Ik was eergisteren thuis.",
+    "extra_example_fa": "من پریروز خانه بودم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "morgen",
+        "is_correct": false,
+        "feedback_fa": "«morgen» یعنی فردا."
+      },
+      {
+        "key": "B",
+        "text_nl": "eergisteren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «eergisteren» با معنی زمان جمله هماهنگ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "overmorgen",
+        "is_correct": false,
+        "feedback_fa": "«overmorgen» یعنی پس‌فردا."
+      },
+      {
+        "key": "D",
+        "text_nl": "vandaag",
+        "is_correct": false,
+        "feedback_fa": "«vandaag» یعنی امروز."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "relative_time_words",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik bel je vandaag in de avond. Ik bel je ___.",
+    "question_text_fa": "امروز عصر/امشب به تو زنگ می‌زنم. کدام کلمه درست است؟",
+    "explanation_fa": "کلمات زمانی نسبی مثل امروز، فردا، دیروز و هفته بعد معمولاً بدون حرف اضافه در جمله می‌آیند.",
+    "grammar_rule_fa": "قیدهای زمانی نسبی مثل vandaag/morgen/gisteren معمولاً preposition نمی‌خواهند.",
+    "extra_example_nl": "Ik bel je vanavond.",
+    "extra_example_fa": "من امشب به تو زنگ می‌زنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vanmorgen",
+        "is_correct": false,
+        "feedback_fa": "«vanmorgen» یعنی امروز صبح."
+      },
+      {
+        "key": "B",
+        "text_nl": "vanmiddag",
+        "is_correct": false,
+        "feedback_fa": "«vanmiddag» یعنی امروز بعدازظهر."
+      },
+      {
+        "key": "C",
+        "text_nl": "vanavond",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «vanavond» با معنی زمان جمله هماهنگ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "vannacht",
+        "is_correct": false,
+        "feedback_fa": "«vannacht» یعنی در شب، نه معمولاً عصر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "relative_time_words",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik had vandaag in de ochtend les. Ik had ___ les.",
+    "question_text_fa": "امروز صبح کلاس داشتم. کدام کلمه درست است؟",
+    "explanation_fa": "کلمات زمانی نسبی مثل امروز، فردا، دیروز و هفته بعد معمولاً بدون حرف اضافه در جمله می‌آیند.",
+    "grammar_rule_fa": "قیدهای زمانی نسبی مثل vandaag/morgen/gisteren معمولاً preposition نمی‌خواهند.",
+    "extra_example_nl": "Ik had vanmorgen les.",
+    "extra_example_fa": "من امروز صبح کلاس داشتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vanavond",
+        "is_correct": false,
+        "feedback_fa": "«vanavond» یعنی امشب."
+      },
+      {
+        "key": "B",
+        "text_nl": "vannacht",
+        "is_correct": false,
+        "feedback_fa": "«vannacht» یعنی در شب."
+      },
+      {
+        "key": "C",
+        "text_nl": "volgende week",
+        "is_correct": false,
+        "feedback_fa": "«volgende week» یعنی هفته بعد."
+      },
+      {
+        "key": "D",
+        "text_nl": "vanmorgen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «vanmorgen» با معنی زمان جمله هماهنگ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "relative_time_words",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb vandaag na de lunch een afspraak. Ik heb ___ een afspraak.",
+    "question_text_fa": "امروز بعد از ناهار قرار دارم. کدام کلمه درست است؟",
+    "explanation_fa": "کلمات زمانی نسبی مثل امروز، فردا، دیروز و هفته بعد معمولاً بدون حرف اضافه در جمله می‌آیند.",
+    "grammar_rule_fa": "قیدهای زمانی نسبی مثل vandaag/morgen/gisteren معمولاً preposition نمی‌خواهند.",
+    "extra_example_nl": "Ik heb vanmiddag een afspraak.",
+    "extra_example_fa": "من امروز بعدازظهر قرار دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vanmiddag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «vanmiddag» با معنی زمان جمله هماهنگ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "vanmorgen",
+        "is_correct": false,
+        "feedback_fa": "«vanmorgen» یعنی امروز صبح."
+      },
+      {
+        "key": "C",
+        "text_nl": "gisteren",
+        "is_correct": false,
+        "feedback_fa": "«gisteren» یعنی دیروز."
+      },
+      {
+        "key": "D",
+        "text_nl": "vannacht",
+        "is_correct": false,
+        "feedback_fa": "«vannacht» یعنی در شب."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "relative_time_words",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Zaterdag en zondag ben ik thuis. Ik ben ___ thuis.",
+    "question_text_fa": "شنبه و یکشنبه خانه هستم. کدام عبارت درست است؟",
+    "explanation_fa": "کلمات زمانی نسبی مثل امروز، فردا، دیروز و هفته بعد معمولاً بدون حرف اضافه در جمله می‌آیند.",
+    "grammar_rule_fa": "قیدهای زمانی نسبی مثل vandaag/morgen/gisteren معمولاً preposition نمی‌خواهند.",
+    "extra_example_nl": "Ik ben dit weekend thuis.",
+    "extra_example_fa": "من این آخر هفته خانه هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vorige week",
+        "is_correct": false,
+        "feedback_fa": "«vorige week» یعنی هفته قبل."
+      },
+      {
+        "key": "B",
+        "text_nl": "dit weekend",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «dit weekend» با معنی زمان جمله هماهنگ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "morgen",
+        "is_correct": false,
+        "feedback_fa": "«morgen» یعنی فردا، نه کل آخر هفته."
+      },
+      {
+        "key": "D",
+        "text_nl": "eergisteren",
+        "is_correct": false,
+        "feedback_fa": "«eergisteren» یعنی پریروز."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "parts_of_day",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ontbijt meestal ___.",
+    "question_text_fa": "برای صبح‌ها کدام عبارت درست است؟",
+    "explanation_fa": "عبارت‌های بخش‌های روز می‌توانند عادت کلی یا زمان امروز را نشان دهند.",
+    "grammar_rule_fa": "’s morgens/middags/avonds/nachts = زمان‌های کلی؛ vanmorgen/vanmiddag/vanavond/vannacht = امروز یا همین بازه زمانی.",
+    "extra_example_nl": "Ik ontbijt ’s morgens.",
+    "extra_example_fa": "من صبح‌ها صبحانه می‌خورم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "’s nachts",
+        "is_correct": false,
+        "feedback_fa": "«’s nachts» یعنی شب‌ها، نه صبح‌ها."
+      },
+      {
+        "key": "B",
+        "text_nl": "vanavond",
+        "is_correct": false,
+        "feedback_fa": "«vanavond» یعنی امشب، نه صبح‌ها به طور کلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "’s morgens",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «’s morgens» با زمان جمله هماهنگ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "’s avonds",
+        "is_correct": false,
+        "feedback_fa": "«’s avonds» یعنی عصرها/شب‌ها."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "parts_of_day",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik werk vaak na de lunch. Ik werk vaak ___.",
+    "question_text_fa": "بعد از ناهار اغلب کار می‌کنم. کدام عبارت درست است؟",
+    "explanation_fa": "عبارت‌های بخش‌های روز می‌توانند عادت کلی یا زمان امروز را نشان دهند.",
+    "grammar_rule_fa": "’s morgens/middags/avonds/nachts = زمان‌های کلی؛ vanmorgen/vanmiddag/vanavond/vannacht = امروز یا همین بازه زمانی.",
+    "extra_example_nl": "Ik werk ’s middags.",
+    "extra_example_fa": "من بعدازظهرها کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "’s morgens",
+        "is_correct": false,
+        "feedback_fa": "«’s morgens» یعنی صبح‌ها."
+      },
+      {
+        "key": "B",
+        "text_nl": "’s nachts",
+        "is_correct": false,
+        "feedback_fa": "«’s nachts» یعنی شب‌ها."
+      },
+      {
+        "key": "C",
+        "text_nl": "vanmorgen",
+        "is_correct": false,
+        "feedback_fa": "«vanmorgen» یعنی امروز صبح، نه عادت کلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "’s middags",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «’s middags» با زمان جمله هماهنگ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "parts_of_day",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Wij eten meestal om zeven uur in de avond. Wij eten meestal ___.",
+    "question_text_fa": "ما معمولاً ساعت هفت عصر غذا می‌خوریم. کدام عبارت درست است؟",
+    "explanation_fa": "عبارت‌های بخش‌های روز می‌توانند عادت کلی یا زمان امروز را نشان دهند.",
+    "grammar_rule_fa": "’s morgens/middags/avonds/nachts = زمان‌های کلی؛ vanmorgen/vanmiddag/vanavond/vannacht = امروز یا همین بازه زمانی.",
+    "extra_example_nl": "Wij eten ’s avonds.",
+    "extra_example_fa": "ما عصرها/شب‌ها غذا می‌خوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "’s avonds",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «’s avonds» با زمان جمله هماهنگ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "’s morgens",
+        "is_correct": false,
+        "feedback_fa": "«’s morgens» یعنی صبح‌ها."
+      },
+      {
+        "key": "C",
+        "text_nl": "vanmiddag",
+        "is_correct": false,
+        "feedback_fa": "«vanmiddag» یعنی امروز بعدازظهر، نه عادت کلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "’s nachts",
+        "is_correct": false,
+        "feedback_fa": "«’s nachts» یعنی شب‌ها/نیمه‌شب."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "parts_of_day",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik slaap meestal ___.",
+    "question_text_fa": "برای شب‌ها کدام عبارت درست است؟",
+    "explanation_fa": "عبارت‌های بخش‌های روز می‌توانند عادت کلی یا زمان امروز را نشان دهند.",
+    "grammar_rule_fa": "’s morgens/middags/avonds/nachts = زمان‌های کلی؛ vanmorgen/vanmiddag/vanavond/vannacht = امروز یا همین بازه زمانی.",
+    "extra_example_nl": "Ik slaap ’s nachts.",
+    "extra_example_fa": "من شب‌ها می‌خوابم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "’s middags",
+        "is_correct": false,
+        "feedback_fa": "«’s middags» یعنی بعدازظهرها."
+      },
+      {
+        "key": "B",
+        "text_nl": "’s nachts",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «’s nachts» با زمان جمله هماهنگ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "vanmorgen",
+        "is_correct": false,
+        "feedback_fa": "«vanmorgen» یعنی امروز صبح."
+      },
+      {
+        "key": "D",
+        "text_nl": "vanavond",
+        "is_correct": false,
+        "feedback_fa": "«vanavond» یعنی امشب، نه عادت کلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "parts_of_day",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vandaag om 9:00 had ik les. Ik had ___ les.",
+    "question_text_fa": "امروز ساعت 9 صبح کلاس داشتم. کدام عبارت درست است؟",
+    "explanation_fa": "عبارت‌های بخش‌های روز می‌توانند عادت کلی یا زمان امروز را نشان دهند.",
+    "grammar_rule_fa": "’s morgens/middags/avonds/nachts = زمان‌های کلی؛ vanmorgen/vanmiddag/vanavond/vannacht = امروز یا همین بازه زمانی.",
+    "extra_example_nl": "Ik had vanmorgen les.",
+    "extra_example_fa": "من امروز صبح کلاس داشتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vanavond",
+        "is_correct": false,
+        "feedback_fa": "«vanavond» یعنی امشب."
+      },
+      {
+        "key": "B",
+        "text_nl": "vannacht",
+        "is_correct": false,
+        "feedback_fa": "«vannacht» یعنی در شب."
+      },
+      {
+        "key": "C",
+        "text_nl": "vanmorgen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «vanmorgen» با زمان جمله هماهنگ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "’s avonds",
+        "is_correct": false,
+        "feedback_fa": "«’s avonds» یعنی عصرها/شب‌ها، نه امروز صبح."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "parts_of_day",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vandaag om 14:00 heb ik een afspraak. Ik heb ___ een afspraak.",
+    "question_text_fa": "امروز ساعت 14:00 قرار دارم. کدام عبارت درست است؟",
+    "explanation_fa": "عبارت‌های بخش‌های روز می‌توانند عادت کلی یا زمان امروز را نشان دهند.",
+    "grammar_rule_fa": "’s morgens/middags/avonds/nachts = زمان‌های کلی؛ vanmorgen/vanmiddag/vanavond/vannacht = امروز یا همین بازه زمانی.",
+    "extra_example_nl": "Ik heb vanmiddag een afspraak.",
+    "extra_example_fa": "من امروز بعدازظهر قرار دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vanmorgen",
+        "is_correct": false,
+        "feedback_fa": "«vanmorgen» یعنی امروز صبح."
+      },
+      {
+        "key": "B",
+        "text_nl": "vannacht",
+        "is_correct": false,
+        "feedback_fa": "«vannacht» یعنی در شب."
+      },
+      {
+        "key": "C",
+        "text_nl": "’s morgens",
+        "is_correct": false,
+        "feedback_fa": "«’s morgens» یعنی صبح‌ها."
+      },
+      {
+        "key": "D",
+        "text_nl": "vanmiddag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «vanmiddag» با زمان جمله هماهنگ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "parts_of_day",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik bel je vandaag na het eten. Ik bel je ___.",
+    "question_text_fa": "امروز بعد از شام به تو زنگ می‌زنم. کدام عبارت درست است؟",
+    "explanation_fa": "عبارت‌های بخش‌های روز می‌توانند عادت کلی یا زمان امروز را نشان دهند.",
+    "grammar_rule_fa": "’s morgens/middags/avonds/nachts = زمان‌های کلی؛ vanmorgen/vanmiddag/vanavond/vannacht = امروز یا همین بازه زمانی.",
+    "extra_example_nl": "Ik bel je vanavond.",
+    "extra_example_fa": "من امشب به تو زنگ می‌زنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vanavond",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «vanavond» با زمان جمله هماهنگ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "vanmorgen",
+        "is_correct": false,
+        "feedback_fa": "«vanmorgen» یعنی امروز صبح."
+      },
+      {
+        "key": "C",
+        "text_nl": "vanmiddag",
+        "is_correct": false,
+        "feedback_fa": "«vanmiddag» یعنی امروز بعدازظهر."
+      },
+      {
+        "key": "D",
+        "text_nl": "’s middags",
+        "is_correct": false,
+        "feedback_fa": "«’s middags» یعنی بعدازظهرها، نه امشب."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "parts_of_day",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik had om 2:00 in de nacht pijn. Ik had ___ pijn.",
+    "question_text_fa": "ساعت 2 شب درد داشتم. کدام عبارت درست است؟",
+    "explanation_fa": "عبارت‌های بخش‌های روز می‌توانند عادت کلی یا زمان امروز را نشان دهند.",
+    "grammar_rule_fa": "’s morgens/middags/avonds/nachts = زمان‌های کلی؛ vanmorgen/vanmiddag/vanavond/vannacht = امروز یا همین بازه زمانی.",
+    "extra_example_nl": "Ik had vannacht pijn.",
+    "extra_example_fa": "من دیشب/در شب درد داشتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vanmorgen",
+        "is_correct": false,
+        "feedback_fa": "«vanmorgen» یعنی امروز صبح."
+      },
+      {
+        "key": "B",
+        "text_nl": "vannacht",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «vannacht» با زمان جمله هماهنگ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "vanmiddag",
+        "is_correct": false,
+        "feedback_fa": "«vanmiddag» یعنی امروز بعدازظهر."
+      },
+      {
+        "key": "D",
+        "text_nl": "vanavond",
+        "is_correct": false,
+        "feedback_fa": "«vanavond» یعنی امشب، نه ساعت 2 شب در این جمله."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "parts_of_day",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "In de ochtend is het koud. ___ is het koud.",
+    "question_text_fa": "صبح هوا سرد است. کدام عبارت درست است؟",
+    "explanation_fa": "عبارت‌های بخش‌های روز می‌توانند عادت کلی یا زمان امروز را نشان دهند.",
+    "grammar_rule_fa": "’s morgens/middags/avonds/nachts = زمان‌های کلی؛ vanmorgen/vanmiddag/vanavond/vannacht = امروز یا همین بازه زمانی.",
+    "extra_example_nl": "’s morgens is het koud.",
+    "extra_example_fa": "صبح‌ها هوا سرد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "’s avonds",
+        "is_correct": false,
+        "feedback_fa": "«’s avonds» یعنی عصرها/شب‌ها."
+      },
+      {
+        "key": "B",
+        "text_nl": "’s nachts",
+        "is_correct": false,
+        "feedback_fa": "«’s nachts» یعنی شب‌ها."
+      },
+      {
+        "key": "C",
+        "text_nl": "’s morgens",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «’s morgens» با زمان جمله هماهنگ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "vanmiddag",
+        "is_correct": false,
+        "feedback_fa": "«vanmiddag» یعنی امروز بعدازظهر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "parts_of_day",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Na 18:00 kijk ik vaak televisie. Ik kijk vaak ___ televisie.",
+    "question_text_fa": "بعد از ساعت 18 اغلب تلویزیون نگاه می‌کنم. کدام عبارت درست است؟",
+    "explanation_fa": "عبارت‌های بخش‌های روز می‌توانند عادت کلی یا زمان امروز را نشان دهند.",
+    "grammar_rule_fa": "’s morgens/middags/avonds/nachts = زمان‌های کلی؛ vanmorgen/vanmiddag/vanavond/vannacht = امروز یا همین بازه زمانی.",
+    "extra_example_nl": "Ik kijk ’s avonds televisie.",
+    "extra_example_fa": "من عصرها/شب‌ها تلویزیون نگاه می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "’s morgens",
+        "is_correct": false,
+        "feedback_fa": "«’s morgens» یعنی صبح‌ها."
+      },
+      {
+        "key": "B",
+        "text_nl": "vanmorgen",
+        "is_correct": false,
+        "feedback_fa": "«vanmorgen» یعنی امروز صبح."
+      },
+      {
+        "key": "C",
+        "text_nl": "’s middags",
+        "is_correct": false,
+        "feedback_fa": "«’s middags» یعنی بعدازظهرها."
+      },
+      {
+        "key": "D",
+        "text_nl": "’s avonds",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «’s avonds» با زمان جمله هماهنگ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_order_in_sentence",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin met «Morgen» aan het begin.",
+    "question_text_fa": "کدام جمله با «فردا» در ابتدای جمله درست است؟",
+    "explanation_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل صرف‌شده باید جای دوم جمله باشد.",
+    "grammar_rule_fa": "Time first → verb second: Morgen werk ik.",
+    "extra_example_nl": "Morgen werk ik.",
+    "extra_example_fa": "فردا من کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Morgen werk ik.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت زمانی اول آمده و فعل در جای دوم است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen ik werk.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل باید جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Morgen ik ben werk.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب و فعل در جمله ساده درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Morgen werk ik niet ik.",
+        "is_correct": false,
+        "feedback_fa": "جای کلمات در این جمله درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_order_in_sentence",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin met «Vandaag» aan het begin.",
+    "question_text_fa": "کدام جمله با «امروز» در ابتدای جمله درست است؟",
+    "explanation_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل صرف‌شده باید جای دوم جمله باشد.",
+    "grammar_rule_fa": "Time first → verb second: Morgen werk ik.",
+    "extra_example_nl": "Vandaag heb ik les.",
+    "extra_example_fa": "امروز من کلاس دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vandaag ik ga naar school.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با «Vandaag» شروع می‌شود، فعل باید بعد از آن بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag ga ik naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت زمانی اول آمده و فعل در جای دوم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag naar school ga ik.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید جای دوم باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vandaag ik naar school ga.",
+        "is_correct": false,
+        "feedback_fa": "فعل در جای دوم نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_order_in_sentence",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin met «Op maandag» aan het begin.",
+    "question_text_fa": "کدام جمله با «دوشنبه» در ابتدای جمله درست است؟",
+    "explanation_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل صرف‌شده باید جای دوم جمله باشد.",
+    "grammar_rule_fa": "Time first → verb second: Morgen werk ik.",
+    "extra_example_nl": "Op maandag heb ik les.",
+    "extra_example_fa": "دوشنبه من کلاس دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op maandag ik heb les.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمانی، فعل باید جای دوم بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op maandag les heb ik.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب عادی جمله خبری درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Op maandag heb ik les.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت زمانی اول آمده و فعل در جای دوم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op maandag ik les heb.",
+        "is_correct": false,
+        "feedback_fa": "فعل در جای دوم نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_order_in_sentence",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin met «Om acht uur» aan het begin.",
+    "question_text_fa": "کدام جمله با «ساعت هشت» در ابتدای جمله درست است؟",
+    "explanation_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل صرف‌شده باید جای دوم جمله باشد.",
+    "grammar_rule_fa": "Time first → verb second: Morgen werk ik.",
+    "extra_example_nl": "Om tien uur begint de afspraak.",
+    "extra_example_fa": "ساعت ده قرار شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om acht uur de les begint.",
+        "is_correct": false,
+        "feedback_fa": "وقتی زمان اول جمله است، فعل باید جای دوم باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om acht uur de les begin.",
+        "is_correct": false,
+        "feedback_fa": "فعل در جای درست نیست و صرف هم درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om acht uur les begint de.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات نادرست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om acht uur begint de les.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت زمانی اول آمده و فعل در جای دوم است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_order_in_sentence",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin met «Vanavond» aan het begin.",
+    "question_text_fa": "کدام جمله با «امشب» در ابتدای جمله درست است؟",
+    "explanation_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل صرف‌شده باید جای دوم جمله باشد.",
+    "grammar_rule_fa": "Time first → verb second: Morgen werk ik.",
+    "extra_example_nl": "Vanavond bel ik jou.",
+    "extra_example_fa": "امشب به تو زنگ می‌زنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vanavond bel ik mijn moeder.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت زمانی اول آمده و فعل در جای دوم است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vanavond ik bel mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "فعل باید بعد از عبارت زمانی بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vanavond mijn moeder bel ik.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، فعل جای دوم است؛ این ترتیب طبیعی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vanavond ik mijn moeder bel.",
+        "is_correct": false,
+        "feedback_fa": "فعل در جای دوم نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_order_in_sentence",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin met «Morgen» aan het begin.",
+    "question_text_fa": "کدام جمله با «فردا» درباره قطار درست است؟",
+    "explanation_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل صرف‌شده باید جای دوم جمله باشد.",
+    "grammar_rule_fa": "Time first → verb second: Morgen werk ik.",
+    "extra_example_nl": "Morgen neem ik de bus.",
+    "extra_example_fa": "فردا اتوبوس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Morgen ik neem de trein.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «Morgen» باید فعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen neem ik de trein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت زمانی اول آمده و فعل در جای دوم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Morgen de trein neem ik.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای A2 و جمله ساده مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Morgen ik de trein neem.",
+        "is_correct": false,
+        "feedback_fa": "فعل در جای دوم نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_order_in_sentence",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin met «Volgende week» aan het begin.",
+    "question_text_fa": "کدام جمله با «هفته بعد» در ابتدای جمله درست است؟",
+    "explanation_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل صرف‌شده باید جای دوم جمله باشد.",
+    "grammar_rule_fa": "Time first → verb second: Morgen werk ik.",
+    "extra_example_nl": "Volgende week heb ik een afspraak.",
+    "extra_example_fa": "هفته بعد قرار دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volgende week ik ga naar de dokter.",
+        "is_correct": false,
+        "feedback_fa": "وقتی زمان اول جمله است، فعل باید جای دوم باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Volgende week naar de dokter ga ik.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله ساده معمولی درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Volgende week ga ik naar de dokter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت زمانی اول آمده و فعل در جای دوم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volgende week ik naar de dokter ga.",
+        "is_correct": false,
+        "feedback_fa": "فعل در جای دوم نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_order_in_sentence",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin met «Zaterdag» aan het begin.",
+    "question_text_fa": "کدام جمله با «شنبه» در ابتدای جمله درست است؟",
+    "explanation_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل صرف‌شده باید جای دوم جمله باشد.",
+    "grammar_rule_fa": "Time first → verb second: Morgen werk ik.",
+    "extra_example_nl": "Zaterdag koop ik groente.",
+    "extra_example_fa": "شنبه سبزی می‌خرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zaterdag ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمانی، فعل باید جای دوم باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zaterdag brood koop ik.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده طبیعی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zaterdag ik brood koop.",
+        "is_correct": false,
+        "feedback_fa": "فعل در جای دوم نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zaterdag koop ik brood.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت زمانی اول آمده و فعل در جای دوم است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_order_in_sentence",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin met «In de winter» aan het begin.",
+    "question_text_fa": "کدام جمله با «در زمستان» در ابتدای جمله درست است؟",
+    "explanation_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل صرف‌شده باید جای دوم جمله باشد.",
+    "grammar_rule_fa": "Time first → verb second: Morgen werk ik.",
+    "extra_example_nl": "In de winter is het koud.",
+    "extra_example_fa": "در زمستان هوا سرد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In de winter draag ik een jas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت زمانی اول آمده و فعل در جای دوم است."
+      },
+      {
+        "key": "B",
+        "text_nl": "In de winter ik draag een jas.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمانی، فعل باید جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "In de winter een jas draag ik.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای جمله ساده درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "In de winter ik een jas draag.",
+        "is_correct": false,
+        "feedback_fa": "فعل در جای دوم نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "time_order_in_sentence",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin met «’s Avonds» aan het begin.",
+    "question_text_fa": "کدام جمله با «عصرها/شب‌ها» در ابتدای جمله درست است؟",
+    "explanation_fa": "وقتی جمله با عبارت زمانی شروع می‌شود، فعل صرف‌شده باید جای دوم جمله باشد.",
+    "grammar_rule_fa": "Time first → verb second: Morgen werk ik.",
+    "extra_example_nl": "’s Avonds eet ik soep.",
+    "extra_example_fa": "شب‌ها سوپ می‌خورم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "’s Avonds ik drink thee.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمانی، فعل باید بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "’s Avonds drink ik thee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت زمانی اول آمده و فعل در جای دوم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "’s Avonds thee drink ik.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب در جمله ساده A2 مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "’s Avonds ik thee drink.",
+        "is_correct": false,
+        "feedback_fa": "فعل در جای دوم نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "sentence_choice_time_days_dates",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله درباره ساعت درست است؟",
+    "explanation_fa": "در جمله‌های زمانی باید حرف اضافه و جای فعل درست باشد.",
+    "grammar_rule_fa": "ساعت: om، روز/تاریخ: op، ماه/سال/فصل: in؛ زمان اول جمله → فعل دوم.",
+    "extra_example_nl": "Ik begin om negen uur.",
+    "extra_example_fa": "من ساعت نه شروع می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik begin op acht uur.",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز یا تاریخ است، نه ساعت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik begin in acht uur.",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است، نه ساعت مشخص."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begin om acht uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله از نظر زمان، حرف اضافه یا ترتیب کلمات درست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begin naar acht uur.",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "sentence_choice_time_days_dates",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله درباره روز هفته درست است؟",
+    "explanation_fa": "در جمله‌های زمانی باید حرف اضافه و جای فعل درست باشد.",
+    "grammar_rule_fa": "ساعت: om، روز/تاریخ: op، ماه/سال/فصل: in؛ زمان اول جمله → فعل دوم.",
+    "extra_example_nl": "Ik heb les op vrijdag.",
+    "extra_example_fa": "من جمعه کلاس دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb les om maandag.",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb les in maandag.",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه، سال یا فصل است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb les naar maandag.",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb les op maandag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله از نظر زمان، حرف اضافه یا ترتیب کلمات درست است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "sentence_choice_time_days_dates",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله درباره ماه درست است؟",
+    "explanation_fa": "در جمله‌های زمانی باید حرف اضافه و جای فعل درست باشد.",
+    "grammar_rule_fa": "ساعت: om، روز/تاریخ: op، ماه/سال/فصل: in؛ زمان اول جمله → فعل دوم.",
+    "extra_example_nl": "Ik ben in maart jarig.",
+    "extra_example_fa": "تولد من در مارس است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben in juli jarig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله از نظر زمان، حرف اضافه یا ترتیب کلمات درست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben op juli jarig.",
+        "is_correct": false,
+        "feedback_fa": "«op» برای تاریخ دقیق است، نه فقط ماه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben om juli jarig.",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben naar juli jarig.",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "sentence_choice_time_days_dates",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله درباره تاریخ درست است؟",
+    "explanation_fa": "در جمله‌های زمانی باید حرف اضافه و جای فعل درست باشد.",
+    "grammar_rule_fa": "ساعت: om، روز/تاریخ: op، ماه/سال/فصل: in؛ زمان اول جمله → فعل دوم.",
+    "extra_example_nl": "De afspraak is op 12 juni.",
+    "extra_example_fa": "قرار در تاریخ 12 ژوئن است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak is om 5 mei.",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت است، نه تاریخ."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak is op 5 mei.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله از نظر زمان، حرف اضافه یا ترتیب کلمات درست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De afspraak is in 5 mei.",
+        "is_correct": false,
+        "feedback_fa": "برای تاریخ مشخص «op» می‌آید، نه «in»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De afspraak is naar 5 mei.",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "sentence_choice_time_days_dates",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله درباره فصل درست است؟",
+    "explanation_fa": "در جمله‌های زمانی باید حرف اضافه و جای فعل درست باشد.",
+    "grammar_rule_fa": "ساعت: om، روز/تاریخ: op، ماه/سال/فصل: in؛ زمان اول جمله → فعل دوم.",
+    "extra_example_nl": "In de zomer is het warm.",
+    "extra_example_fa": "در تابستان هوا گرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op de winter is het koud.",
+        "is_correct": false,
+        "feedback_fa": "برای فصل از «in» استفاده می‌کنیم، نه «op»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om de winter is het koud.",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "In de winter is het koud.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله از نظر زمان، حرف اضافه یا ترتیب کلمات درست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar de winter is het koud.",
+        "is_correct": false,
+        "feedback_fa": "«naar» در این جمله درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "sentence_choice_time_days_dates",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله درباره ساعت حرکت درست است؟",
+    "explanation_fa": "در جمله‌های زمانی باید حرف اضافه و جای فعل درست باشد.",
+    "grammar_rule_fa": "ساعت: om، روز/تاریخ: op، ماه/سال/فصل: in؛ زمان اول جمله → فعل دوم.",
+    "extra_example_nl": "De trein komt om kwart over acht.",
+    "extra_example_fa": "قطار ساعت 8:15 می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bus komt op half negen.",
+        "is_correct": false,
+        "feedback_fa": "«op» برای روز/تاریخ است، نه ساعت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus komt in half negen.",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه/سال/فصل است، نه ساعت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bus komt naar half negen.",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای مقصد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bus komt om half negen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله از نظر زمان، حرف اضافه یا ترتیب کلمات درست است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "sentence_choice_time_days_dates",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله با «morgen» درست است؟",
+    "explanation_fa": "در جمله‌های زمانی باید حرف اضافه و جای فعل درست باشد.",
+    "grammar_rule_fa": "ساعت: om، روز/تاریخ: op، ماه/سال/فصل: in؛ زمان اول جمله → فعل دوم.",
+    "extra_example_nl": "Ik kom morgen.",
+    "extra_example_fa": "من فردا می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik maak morgen schoon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله از نظر زمان، حرف اضافه یا ترتیب کلمات درست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik maak op morgen schoon.",
+        "is_correct": false,
+        "feedback_fa": "«morgen» معمولاً قید زمان است و «op» نمی‌خواهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik maak om morgen schoon.",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص است، نه «morgen»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik maak in morgen schoon.",
+        "is_correct": false,
+        "feedback_fa": "«in» برای ماه/سال/فصل است، نه فردا."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "sentence_choice_time_days_dates",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله درباره بخش روز درست است؟",
+    "explanation_fa": "در جمله‌های زمانی باید حرف اضافه و جای فعل درست باشد.",
+    "grammar_rule_fa": "ساعت: om، روز/تاریخ: op، ماه/سال/فصل: in؛ زمان اول جمله → فعل دوم.",
+    "extra_example_nl": "Wij drinken koffie ’s morgens.",
+    "extra_example_fa": "ما صبح‌ها قهوه می‌نوشیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij eten op ’s avonds.",
+        "is_correct": false,
+        "feedback_fa": "«’s avonds» به تنهایی قید زمان است و «op» نمی‌خواهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij eten ’s avonds.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله از نظر زمان، حرف اضافه یا ترتیب کلمات درست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij eten om ’s avonds.",
+        "is_correct": false,
+        "feedback_fa": "«om» برای ساعت مشخص مثل «om acht uur» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij eten in ’s avonds.",
+        "is_correct": false,
+        "feedback_fa": "«in» اینجا درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "sentence_choice_time_days_dates",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله با عبارت زمانی در اول جمله درست است؟",
+    "explanation_fa": "در جمله‌های زمانی باید حرف اضافه و جای فعل درست باشد.",
+    "grammar_rule_fa": "ساعت: om، روز/تاریخ: op، ماه/سال/فصل: in؛ زمان اول جمله → فعل دوم.",
+    "extra_example_nl": "Vandaag ga ik naar de dokter.",
+    "extra_example_fa": "امروز پیش دکتر می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volgende week ik ga naar de dokter.",
+        "is_correct": false,
+        "feedback_fa": "وقتی عبارت زمانی اول است، فعل باید جای دوم باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Volgende week naar de dokter ga ik.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله ساده A2 مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Volgende week ga ik naar de dokter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله از نظر زمان، حرف اضافه یا ترتیب کلمات درست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volgende week ik naar de dokter ga.",
+        "is_correct": false,
+        "feedback_fa": "فعل در جای دوم نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "time_days_dates",
+    "subtopic": "sentence_choice_time_days_dates",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "کدام جمله درباره روز و ساعت درست است؟",
+    "explanation_fa": "در جمله‌های زمانی باید حرف اضافه و جای فعل درست باشد.",
+    "grammar_rule_fa": "ساعت: om، روز/تاریخ: op، ماه/سال/فصل: in؛ زمان اول جمله → فعل دوم.",
+    "extra_example_nl": "Op maandag begint de les om negen uur.",
+    "extra_example_fa": "دوشنبه کلاس ساعت نه شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om zaterdag opent de winkel op tien uur.",
+        "is_correct": false,
+        "feedback_fa": "برای روز «op» و برای ساعت «om» می‌آید؛ این جمله برعکس است."
+      },
+      {
+        "key": "B",
+        "text_nl": "In zaterdag opent de winkel in tien uur.",
+        "is_correct": false,
+        "feedback_fa": "«in» برای روز و ساعت مشخص درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Naar zaterdag opent de winkel naar tien uur.",
+        "is_correct": false,
+        "feedback_fa": "«naar» برای زمان در این جمله درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op zaterdag opent de winkel om tien uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله از نظر زمان، حرف اضافه یا ترتیب کلمات درست است."
+      }
+    ]
+  }
+]

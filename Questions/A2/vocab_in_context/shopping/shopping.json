@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit product is niet in de aanbieding, maar we geven wel 10 procent ___ aan nieuwe klanten.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "درصدِ کاهشِ قیمت را «korting» می‌گویند؛ «actie» به خودِ کمپینِ تبلیغاتی اشاره دارد، نه به عدد.",
+    "grammar_rule_fa": "korting=درصد/مبلغِ تخفیف.",
+    "extra_example_nl": "U krijgt 10 procent korting met deze code.",
+    "extra_example_fa": "با این کد ۱۰ درصد تخفیف می‌گیرید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "korting",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ عددِ درصد همیشه با «korting» می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "actie",
+        "is_correct": false,
+        "feedback_fa": "«actie» به کمپین اشاره دارد، نه به عددِ درصد."
+      },
+      {
+        "key": "C",
+        "text_nl": "prijs",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "bon",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil dit shirt niet kopen, ik wil het alleen even ___ om te zien of het past.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای دیدنِ اندازه‌ی لباس بدونِ خرید، از فعلِ «passen» (پرو کردن) استفاده می‌شود.",
+    "grammar_rule_fa": "passen=پرو کردنِ لباس.",
+    "extra_example_nl": "Ik pas het shirt in de paskamer.",
+    "extra_example_fa": "لباس رو تو اتاقِ پرو پرو می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "ruilen",
+        "is_correct": false,
+        "feedback_fa": "این برای بعد از خرید است، نه قبل از آن."
+      },
+      {
+        "key": "B",
+        "text_nl": "betalen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید نمی‌خواهد بخرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "retourneren",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "passen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط پرو کردن نیاز به خرید ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het shirt paste niet goed. Ik ga het niet teruggeven voor geld, ik wil het ___ voor een andere maat.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون می‌خواهد اندازه‌ی دیگری بگیرد نه پول، فعلِ درست «ruilen» (تعویض کردن) است.",
+    "grammar_rule_fa": "ruilen=تعویض با کالای دیگر، retourneren=بازگرداندن برای پول.",
+    "extra_example_nl": "Ik ruil het shirt voor een grotere maat.",
+    "extra_example_fa": "شرت رو با اندازه‌ی بزرگ‌تر عوض می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "passen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "betalen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "ruilen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ می‌خواهد اندازه‌ی دیگری بگیرد، نه پول."
+      },
+      {
+        "key": "D",
+        "text_nl": "retourneren",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet teruggeven voor geld»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil mijn geld terug, ik wil het product niet ruilen. Ik ga het ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون پول می‌خواهد، نه کالای دیگر، فعلِ درست «retourneren» (بازگرداندن برای بازپرداخت) است.",
+    "grammar_rule_fa": "retourneren=بازگرداندن برای دریافتِ پول.",
+    "extra_example_nl": "Ik retourneer de schoenen, ze passen niet.",
+    "extra_example_fa": "کفش‌ها رو برمی‌گردونم، اندازه نیستن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "bestellen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "retourneren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای دریافتِ پول، نه کالای دیگر."
+      },
+      {
+        "key": "C",
+        "text_nl": "ruilen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet ruilen»."
+      },
+      {
+        "key": "D",
+        "text_nl": "passen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bewaar de ___, want zonder dat papiertje kun je niet ruilen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برگه‌ی کوچکِ اثباتِ خرید که کنارِ صندوق داده می‌شود، «bon» (رسید) نامیده می‌شود.",
+    "grammar_rule_fa": "bon=رسیدِ خرید.",
+    "extra_example_nl": "Zonder bon kun je niets ruilen.",
+    "extra_example_fa": "بدونِ رسید نمی‌تونی چیزی رو عوض کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "bon",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رسید برای ثابت کردنِ خرید لازم است."
+      },
+      {
+        "key": "B",
+        "text_nl": "factuur",
+        "is_correct": false,
+        "feedback_fa": "این برگه‌ی رسمی‌تر برای شرکت‌هاست، نه خریدِ روزانه."
+      },
+      {
+        "key": "C",
+        "text_nl": "garantie",
+        "is_correct": false,
+        "feedback_fa": "این کارتِ گارانتی است، نه رسید."
+      },
+      {
+        "key": "D",
+        "text_nl": "prijskaartje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit product heeft één jaar ___. Als het kapot gaat, repareren ze het gratis.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "تعهدِ رایگانِ تعمیر در صورتِ خرابی، «garantie» (گارانتی) نامیده می‌شود.",
+    "grammar_rule_fa": "garantie=تعهدِ تعمیرِ رایگان.",
+    "extra_example_nl": "De garantie op deze telefoon is twee jaar.",
+    "extra_example_fa": "گارانتیِ این گوشی دو سال است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "bon",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "levering",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "garantie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تعهدِ تعمیرِ رایگان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De winkel is heel druk. Ik moet lang in de ___ staan voor de kassa.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "خطِ افرادی که منتظرِ صندوق هستند، «rij» (صف) نامیده می‌شود.",
+    "grammar_rule_fa": "rij=صف.",
+    "extra_example_nl": "Er staat een lange rij bij de kassa.",
+    "extra_example_fa": "صفِ درازی کنارِ صندوق است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "paskamer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "voorraad",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "rij",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ منتظرِ صندوق بودن یعنی در صف ایستادن."
+      },
+      {
+        "key": "D",
+        "text_nl": "etalage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat ik het shirt koop, wil ik het passen. Waar is de ___?",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای پرو کردنِ لباس، به اتاقِ مخصوصِ همان، «paskamer» می‌روند.",
+    "grammar_rule_fa": "paskamer=اتاقِ پرو.",
+    "extra_example_nl": "De paskamers zijn achter in de winkel.",
+    "extra_example_fa": "اتاق‌های پرو ته فروشگاه هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "opslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "paskamer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اتاقِ مخصوصِ پرو کردن."
+      },
+      {
+        "key": "C",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "صندوق برای پرداخت است، نه پرو کردن."
+      },
+      {
+        "key": "D",
+        "text_nl": "etalage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit product is niet meer op voorraad. We moeten het voor u ___ bij de fabriek.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون کالا موجود نیست، باید از کارخانه سفارش داده شود.",
+    "grammar_rule_fa": "bestellen=سفارش دادن.",
+    "extra_example_nl": "We bestellen de kast bij de fabriek.",
+    "extra_example_fa": "کمد را از کارخانه سفارش می‌دهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "bestellen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ چون موجود نیست، باید سفارش داده شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "ruilen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "retourneren",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "passen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb 50 euro betaald met een briefje van 50, maar het kostte 45 euro. Ik krijg 5 euro ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پولی که هنگام پرداختِ نقدی بابتِ مابه‌التفاوت پس داده می‌شود، «wisselgeld» (پول خرد/بازگشتی) است.",
+    "grammar_rule_fa": "wisselgeld=پولِ بازگشتی هنگامِ پرداختِ نقد.",
+    "extra_example_nl": "De kassière geeft me twee euro wisselgeld.",
+    "extra_example_fa": "صندوق‌دار دو یورو پولِ خرد پس می‌ده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این ربطی به پرداختِ نقد ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "terugbetaling",
+        "is_correct": false,
+        "feedback_fa": "این بازپرداختِ خریدِ برگشتی است، نه پولِ خرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "bon",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "wisselgeld",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پولِ بازگشتی از پرداختِ نقد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb dit product online besteld. Het wordt niet bij mij thuis ___, ik moet het zelf ophalen bij de winkel.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "آوردنِ کالا به درِ خانه «bezorgen» (تحویل دادن) نامیده می‌شود؛ این‌جا رد شده چون خودش باید برود.",
+    "grammar_rule_fa": "bezorgen=آوردنِ کالا به آدرسِ مشتری.",
+    "extra_example_nl": "Het pakket wordt morgen bezorgd.",
+    "extra_example_fa": "بسته فردا تحویل داده می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "geretourneerd",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "gepast",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "bezorgd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تحویل به درِ خانه، که این‌جا رد شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "geruild",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze tas kost eigenlijk 80 euro, maar deze week is er een speciale ___ van 20 euro korting.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کمپینِ فروشِ ویژه که تخفیف در آن اعلام می‌شود، «actie» نامیده می‌شود؛ خودِ عدد را «korting» می‌گویند که در جمله جداگانه آمده.",
+    "grammar_rule_fa": "actie=کمپینِ فروشِ ویژه.",
+    "extra_example_nl": "Deze week is er een actie op alle schoenen.",
+    "extra_example_fa": "این هفته روی همه‌ی کفش‌ها کمپینِ تخفیف است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "bon",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "actie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کمپینِ فروشِ ویژه که شاملِ تخفیف می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "garantie",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "factuur",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb geen geld, maar mijn tante gaf me een ___ van 25 euro om in deze winkel te besteden.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کارتِ هدیه‌ای با مبلغِ مشخص برای خرج کردن در فروشگاه، «cadeaubon» نامیده می‌شود.",
+    "grammar_rule_fa": "cadeaubon=کارتِ هدیه با مبلغِ ثابت.",
+    "extra_example_nl": "Ik kreeg een cadeaubon voor mijn verjaardag.",
+    "extra_example_fa": "برای تولدم یک کارتِ هدیه گرفتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "cadeaubon",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کارتِ هدیه با مبلغِ مشخص."
+      },
+      {
+        "key": "B",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این درصد است، نه مبلغِ ثابتِ هدیه."
+      },
+      {
+        "key": "C",
+        "text_nl": "factuur",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "garantie",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Op het prijskaartje staat 39,99 euro. Dat is de ___, niet de korting.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "عددِ روی برچسبِ کالا، «prijs» (قیمت) نامیده می‌شود، نه میزانِ تخفیف.",
+    "grammar_rule_fa": "prijs=قیمتِ کالا.",
+    "extra_example_nl": "De prijs van dit boek is 15 euro.",
+    "extra_example_fa": "قیمتِ این کتاب ۱۵ یوروست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet de korting»."
+      },
+      {
+        "key": "B",
+        "text_nl": "bon",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "wisselgeld",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "prijs",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ عددِ روی برچسب، قیمت است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat je iets koopt, kun je in de ___ kijken om te zien welke kleren de winkel heeft, zonder naar binnen te gaan.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "شیشه‌ی جلوی فروشگاه که کالاها را نشان می‌دهد، «etalage» (ویترین) نامیده می‌شود.",
+    "grammar_rule_fa": "etalage=ویترینِ فروشگاه.",
+    "extra_example_nl": "De etalage laat de nieuwe collectie zien.",
+    "extra_example_fa": "ویترین کلکسیونِ جدید رو نشون می‌ده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "voorraad",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "etalage",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ می‌شود بدونِ ورود، از بیرون دید."
+      },
+      {
+        "key": "D",
+        "text_nl": "paskamer",
+        "is_correct": false,
+        "feedback_fa": "این داخلِ فروشگاه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Normaal komt het pakket in twee dagen. Dit keer is de ___ langer: drie dagen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "مدتِ زمانِ لازم تا رسیدنِ بسته، «levertijd» (زمانِ تحویل) نامیده می‌شود.",
+    "grammar_rule_fa": "levertijd=مدتِ زمانِ لازم برای تحویلِ کالا.",
+    "extra_example_nl": "De levertijd is deze week langer wegens drukte.",
+    "extra_example_fa": "زمانِ تحویل این هفته به‌خاطر شلوغی بیشتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "prijs",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "levertijd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مدتِ زمانِ تحویل."
+      },
+      {
+        "key": "C",
+        "text_nl": "garantie",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil compensatie voor het kapotte product. Het bedrijf moet mijn geld ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بازگرداندنِ پول به دلیلِ کالای معیوب، «terugbetalen» (بازپرداخت کردن) نامیده می‌شود.",
+    "grammar_rule_fa": "terugbetalen=پس دادنِ پول.",
+    "extra_example_nl": "Het bedrijf moet mijn geld terugbetalen.",
+    "extra_example_fa": "شرکت باید پولم رو پس بده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "terugbetalen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پس دادنِ پول به‌خاطرِ کالای معیوب."
+      },
+      {
+        "key": "B",
+        "text_nl": "wisselen",
+        "is_correct": false,
+        "feedback_fa": "این تعویضِ پول/ارز است، نه بازپرداخت."
+      },
+      {
+        "key": "C",
+        "text_nl": "ruilen",
+        "is_correct": false,
+        "feedback_fa": "پول را «ruilen» نمی‌کنند."
+      },
+      {
+        "key": "D",
+        "text_nl": "korten",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit shirt heeft geen maat meer in het magazijn. Het is niet meer ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "وقتی کالایی در انبار موجود نیست، می‌گویند «niet meer op voorraad» (دیگر موجود نیست).",
+    "grammar_rule_fa": "op voorraad=موجود در انبار.",
+    "extra_example_nl": "Deze maat is niet meer op voorraad.",
+    "extra_example_fa": "این اندازه دیگر موجود نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "in de aanbieding",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "in de etalage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "bij de kassa",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "op voorraad",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ یعنی در انبار موجود است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb een fout op de rekening gezien. Ik bel de ___ om het te laten corrigeren.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بخشی که به شکایات و مشکلاتِ مشتریان رسیدگی می‌کند، «klantenservice» (خدماتِ مشتریان) نامیده می‌شود.",
+    "grammar_rule_fa": "klantenservice=بخشِ خدماتِ مشتریان.",
+    "extra_example_nl": "Bel de klantenservice bij problemen.",
+    "extra_example_fa": "در صورتِ مشکل به خدماتِ مشتریان زنگ بزن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "etalage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "voorraad",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "klantenservice",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بخشِ رسیدگی به مشکلاتِ مشتری."
+      },
+      {
+        "key": "D",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "صندوق فقط برای پرداخت است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De winkel is 's avonds dicht. Kijk op de website voor de precieze ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "ساعاتی که فروشگاه باز است، «openingstijden» نامیده می‌شود.",
+    "grammar_rule_fa": "openingstijden=ساعاتِ بازِ فروشگاه.",
+    "extra_example_nl": "De openingstijden staan op de deur.",
+    "extra_example_fa": "ساعاتِ کاری روی در نوشته شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "leveringen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "openingstijden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ساعاتِ بازِ فروشگاه."
+      },
+      {
+        "key": "C",
+        "text_nl": "prijzen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "kortingen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik zet dit product in mijn ___ en ga daarna afrekenen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "جایی که کالاهای انتخاب‌شده قبل از پرداخت قرار می‌گیرند، «winkelwagen» (سبد/کارت خرید) نامیده می‌شود.",
+    "grammar_rule_fa": "winkelwagen=سبدِ خرید (فیزیکی یا آنلاین).",
+    "extra_example_nl": "Ik leg de melk in mijn winkelwagen.",
+    "extra_example_fa": "شیر رو تو سبدِ خریدم می‌ذارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "winkelwagen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محلِ کالاها قبل از پرداخت."
+      },
+      {
+        "key": "B",
+        "text_nl": "paskamer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "etalage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "voorraad",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Met deze speciale code krijg je 15 procent korting bij het afrekenen online. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کدی که هنگامِ پرداختِ آنلاین درصدی تخفیف می‌دهد، «kortingscode» نامیده می‌شود.",
+    "grammar_rule_fa": "kortingscode=کدِ تخفیفِ آنلاین.",
+    "extra_example_nl": "Voer de kortingscode in bij het afrekenen.",
+    "extra_example_fa": "کدِ تخفیف رو موقعِ پرداخت وارد کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "cadeaubon",
+        "is_correct": false,
+        "feedback_fa": "این مبلغِ ثابت است، نه درصدِ تخفیف."
+      },
+      {
+        "key": "B",
+        "text_nl": "factuur",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "garantie",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "kortingscode",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کدِ مخصوصِ تخفیف."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Nadat ik alles gekocht heb, moet ik ___ bij de kassa.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پرداختِ نهاییِ کالاها کنارِ صندوق، «afrekenen» نامیده می‌شود.",
+    "grammar_rule_fa": "afrekenen=پرداختِ نهایی کنارِ صندوق.",
+    "extra_example_nl": "Ik reken af met mijn pinpas.",
+    "extra_example_fa": "با کارتم پرداخت می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "ruilen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "bestellen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "afrekenen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پرداختِ نهایی کنارِ صندوق."
+      },
+      {
+        "key": "D",
+        "text_nl": "passen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bij grote aankopen krijg je geen kassabon, maar een officiële ___ met alle details voor de belasting.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برگه‌ی رسمی‌تر برای خریدهای بزرگ که برای امور مالیاتی استفاده می‌شود، «factuur» نامیده می‌شود.",
+    "grammar_rule_fa": "factuur=برگه‌ی رسمیِ خرید (برای شرکت‌ها/مالیات).",
+    "extra_example_nl": "De winkel stuurt een factuur voor de nieuwe bank.",
+    "extra_example_fa": "فروشگاه برای کاناپه‌ی جدید فاکتور می‌فرستد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "factuur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برگه‌ی رسمیِ خرید برای مالیات."
+      },
+      {
+        "key": "C",
+        "text_nl": "bon",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «geen kassabon»."
+      },
+      {
+        "key": "D",
+        "text_nl": "garantie",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil geen ander shirt, ik wil gewoon mijn geld terug voor het te grote shirt. Ik ga het ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چون فقط پول می‌خواهد نه کالای دیگر، باید کالا را «retourneren» کند، نه «ruilen».",
+    "grammar_rule_fa": "retourneren=برگرداندن برای پول؛ ruilen=تعویض با کالای دیگر.",
+    "extra_example_nl": "Ik retourneer de jas, hij is te klein.",
+    "extra_example_fa": "کت رو برمی‌گردونم، کوچیکه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "retourneren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط پول می‌خواهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "ruilen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «geen ander shirt»."
+      },
+      {
+        "key": "C",
+        "text_nl": "passen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "bewaren",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit product was heel populair, dus nu is de ___ leeg. We krijgen morgen nieuwe voorraad.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "محلِ نگه‌داریِ کالاهای فروشگاه، «voorraad» (انبار/موجودی) نامیده می‌شود.",
+    "grammar_rule_fa": "voorraad=موجودیِ کالا در انبار.",
+    "extra_example_nl": "Onze voorraad is bijna leeg.",
+    "extra_example_fa": "موجودیِ ما تقریباً تمام شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "etalage",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "paskamer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "voorraad",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ موجودیِ کالا در انبار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bij deze winkel betaal je voor twee shirts de prijs van één. Dit heet een '2-voor-1' ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چنین پیشنهادِ ویژه‌ای، «actie» (کمپینِ فروش) نامیده می‌شود.",
+    "grammar_rule_fa": "actie=کمپینِ فروشِ ویژه.",
+    "extra_example_nl": "Deze actie geldt alleen dit weekend.",
+    "extra_example_fa": "این کمپین فقط این آخر هفته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "factuur",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "bon",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "actie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نامِ پیشنهادِ ویژه‌ی فروش."
+      },
+      {
+        "key": "D",
+        "text_nl": "garantie",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb het pakket zelf niet ontvangen. Volgens de bezorgdienst hebben ze het bij de buren ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "تحویل دادنِ بسته به مقصد، «afleveren» (تحویل دادن) نامیده می‌شود.",
+    "grammar_rule_fa": "afleveren=رساندنِ بسته به مقصد.",
+    "extra_example_nl": "De bezorger heeft het pakket bij de buren afgeleverd.",
+    "extra_example_fa": "پیک بسته رو نزدِ همسایه تحویل داده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "geruild",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "afgeleverd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رساندنِ بسته به مقصد."
+      },
+      {
+        "key": "C",
+        "text_nl": "geretourneerd",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "opgehaald",
+        "is_correct": false,
+        "feedback_fa": "این جهتِ عکس است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze winkel geeft geen geld terug, maar wel een ___ die je later kunt gebruiken om iets anders te kopen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کارتِ اعتباری که به‌جای پول نقد داده می‌شود و بعداً قابلِ استفاده است، «tegoedbon» نامیده می‌شود.",
+    "grammar_rule_fa": "tegoedbon=کارتِ اعتباری برای خریدِ بعدی.",
+    "extra_example_nl": "In plaats van geld kreeg ik een tegoedbon.",
+    "extra_example_fa": "به‌جای پول، یک کارتِ اعتباری گرفتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "tegoedbon",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اعتبار برای خریدِ بعدی، نه پولِ نقد."
+      },
+      {
+        "key": "B",
+        "text_nl": "kassabon",
+        "is_correct": false,
+        "feedback_fa": "این فقط رسیدِ خرید است."
+      },
+      {
+        "key": "C",
+        "text_nl": "garantie",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "factuur",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "shopping",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb een fout gemaakt bij het bestellen. Ik wil de bestelling ___ voordat hij verstuurd wordt.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "متوقف کردنِ یک سفارش قبل از ارسال، «annuleren» (لغو کردن) نامیده می‌شود.",
+    "grammar_rule_fa": "annuleren=لغو کردن.",
+    "extra_example_nl": "Ik annuleer mijn bestelling, ik heb me vergist.",
+    "extra_example_fa": "سفارشم رو لغو می‌کنم، اشتباه کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "bezorgen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "ophalen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "passen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "annuleren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ لغو کردنِ سفارش قبل از ارسال."
+      }
+    ]
+  }
+]

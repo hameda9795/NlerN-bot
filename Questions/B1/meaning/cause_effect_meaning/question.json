@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "simple_cause_connectors",
+    "life_context": "travel_and_culture",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ik kom later, omdat de trein vertraging heeft.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "دیرتر می‌آیم، چون قطار تأخیر دارد.",
+    "usage_note_fa": "«omdat» علت یک اتفاق را بیان می‌کند.",
+    "extra_example_nl": "Ze bleef thuis, omdat ze ziek was.",
+    "extra_example_fa": "او در خانه ماند، چون مریض بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "دیرتر می‌آیم، چون قطار تأخیر دارد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "من دیرتر می‌آیم، اما قطار به‌موقع است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با علت جمله (تأخیر قطار) در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "قطار دیر آمد، چون من دیر رسیدم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه علت و معلول را برعکس کرده است."
+      },
+      {
+        "key": "D",
+        "text_fa": "من با قطار نمی‌روم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "simple_cause_connectors",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Doordat het hard regende, kwam ik te laat op mijn werk.",
+    "question_text_nl": "Wat is de oorzaak of het gevolg hier?",
+    "question_text_fa": "علت یا معلول در این جمله چیست؟",
+    "meaning_fa": "به دلیل اینکه باران شدید می‌بارید، دیر به سر کارم رسیدم.",
+    "usage_note_fa": "«doordat» علت یک اتفاق را نشان می‌دهد.",
+    "extra_example_nl": "Doordat de weg was afgesloten, moest ik omrijden.",
+    "extra_example_fa": "به دلیل اینکه جاده بسته بود، مجبور شدم دور بزنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "چون دیر به سر کار رسیدم، باران بارید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه علت و معلول را جابه‌جا کرده است."
+      },
+      {
+        "key": "B",
+        "text_fa": "به دلیل اینکه باران شدید می‌بارید، دیر به سر کارم رسیدم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "با اینکه باران می‌بارید، به‌موقع رسیدم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معلول جمله (دیر رسیدن) در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "هوا آفتابی بود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "simple_cause_connectors",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Dankzij de nieuwe app kan ik makkelijker mijn uitgaven bijhouden.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "به لطف اپلیکیشن جدید، راحت‌تر می‌توانم هزینه‌هایم را پیگیری کنم.",
+    "usage_note_fa": "«dankzij» علت مثبت یک نتیجه را بیان می‌کند.",
+    "extra_example_nl": "Dankzij haar hulp is alles goed gegaan.",
+    "extra_example_fa": "به لطف کمک او همه‌چیز خوب پیش رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "با وجود اپلیکیشن جدید، پیگیری هزینه‌ها سخت‌تر شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "اپلیکیشن جدید هزینه‌هایم را بیشتر کرده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "C",
+        "text_fa": "به لطف اپلیکیشن جدید، راحت‌تر می‌توانم هزینه‌هایم را پیگیری کنم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "من دیگر از اپلیکیشن استفاده نمی‌کنم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "simple_cause_connectors",
+    "life_context": "housing_and_neighborhood",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Vanwege de drukte nam ze een andere route naar huis.",
+    "question_text_nl": "Wat wordt hier uitgelegd?",
+    "question_text_fa": "این جمله چه چیزی را توضیح می‌دهد؟",
+    "meaning_fa": "به‌خاطر شلوغی، او مسیر دیگری را برای رفتن به خانه انتخاب کرد.",
+    "usage_note_fa": "«vanwege» علت یک تصمیم را نشان می‌دهد.",
+    "extra_example_nl": "Vanwege het slechte weer bleven we binnen.",
+    "extra_example_fa": "به‌خاطر هوای بد، داخل خانه ماندیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "با اینکه شلوغ نبود، مسیر دیگری رفت.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با علت جمله (شلوغی) در تناقض است."
+      },
+      {
+        "key": "B",
+        "text_fa": "او مسیر همیشگی را انتخاب کرد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با تغییر مسیر در جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "شلوغی باعث شد او زودتر به خانه برسد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی جمله را کاملاً تغییر داده است."
+      },
+      {
+        "key": "D",
+        "text_fa": "به‌خاطر شلوغی، او مسیر دیگری را برای رفتن به خانه انتخاب کرد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "simple_cause_connectors",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Omdat de prijzen stijgen, kopen mensen minder producten.",
+    "question_text_nl": "Wat is het gevolg in deze zin?",
+    "question_text_fa": "نتیجه در این جمله چیست؟",
+    "meaning_fa": "چون قیمت‌ها بالا می‌روند، مردم کالای کمتری می‌خرند.",
+    "usage_note_fa": "«omdat» رابطهٔ علت و معلول را بین دو رویداد نشان می‌دهد.",
+    "extra_example_nl": "Omdat het duurder werd, stopte hij met roken.",
+    "extra_example_fa": "چون گران‌تر شد، او سیگار کشیدن را ترک کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "چون قیمت‌ها بالا می‌روند، مردم کالای کمتری می‌خرند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "با اینکه قیمت‌ها بالا رفته، مردم بیشتر می‌خرند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "قیمت‌ها پایین آمده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با علت جمله (افزایش قیمت‌ها) در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "مردم دیگر هیچ‌چیز نمی‌خرند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه اغراق نادرستی از معنی جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "simple_cause_connectors",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ze is blij, omdat ze een nieuwe baan heeft gevonden.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "او خوشحال است، چون شغل جدیدی پیدا کرده است.",
+    "usage_note_fa": "این جمله علت خوشحالی شخص را بیان می‌کند.",
+    "extra_example_nl": "Hij is trots, omdat hij is geslaagd voor zijn examen.",
+    "extra_example_fa": "او افتخار می‌کند، چون در امتحانش قبول شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "او ناراحت است، چون شغلش را از دست داده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "او خوشحال است، چون شغل جدیدی پیدا کرده است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "او هنوز دنبال کار می‌گردد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معلول جمله (پیدا کردن شغل) در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "او شغلش را عوض نکرده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معلول جمله در تناقض است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "result_connectors",
+    "life_context": "environment_and_sustainability",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Het regende hard, daardoor stond de straat blank.",
+    "question_text_nl": "Wat is de oorzaak of het gevolg hier?",
+    "question_text_fa": "علت یا معلول در این جمله چیست؟",
+    "meaning_fa": "باران شدید بارید، به همین دلیل خیابان زیر آب رفت.",
+    "usage_note_fa": "«daardoor» نتیجهٔ یک اتفاق را نشان می‌دهد.",
+    "extra_example_nl": "De rivier steeg, daardoor overstroomde het park.",
+    "extra_example_fa": "رودخانه بالا آمد، به همین دلیل پارک سیل زد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "خیابان زیر آب رفت، به همین دلیل باران بارید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه علت و معلول را جابه‌جا کرده است."
+      },
+      {
+        "key": "B",
+        "text_fa": "باران بارید، اما خیابان خشک ماند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با نتیجهٔ جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "باران شدید بارید، به همین دلیل خیابان زیر آب رفت.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "هوا آفتابی بود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "result_connectors",
+    "life_context": "education_and_courses",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Ik had geen tijd om te studeren, hierdoor haalde ik het examen niet.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "وقت درس خواندن نداشتم، به همین دلیل امتحان را قبول نشدم.",
+    "usage_note_fa": "«hierdoor» نتیجهٔ مستقیم یک وضعیت را نشان می‌دهد.",
+    "extra_example_nl": "Ik was ziek, hierdoor miste ik de les.",
+    "extra_example_fa": "مریض بودم، به همین دلیل کلاس را از دست دادم.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "امتحان را قبول نشدم، به همین دلیل وقت نداشتم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه علت و معلول را جابه‌جا کرده است."
+      },
+      {
+        "key": "B",
+        "text_fa": "وقت زیادی برای درس خواندن داشتم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با علت جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "من امتحان را قبول شدم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با نتیجهٔ جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "وقت درس خواندن نداشتم، به همین دلیل امتحان را قبول نشدم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "result_connectors",
+    "life_context": "housing_and_neighborhood",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "De huizenprijzen stijgen, daarom verhuizen veel jongeren naar kleinere steden.",
+    "question_text_nl": "Wat wordt hier uitgelegd?",
+    "question_text_fa": "این جمله چه چیزی را توضیح می‌دهد؟",
+    "meaning_fa": "قیمت خانه‌ها بالا می‌رود، به همین دلیل بسیاری از جوانان به شهرهای کوچک‌تر نقل مکان می‌کنند.",
+    "usage_note_fa": "«daarom» نتیجهٔ منطقی یک وضعیت را نشان می‌دهد.",
+    "extra_example_nl": "De huren zijn hoog, daarom zoeken mensen samen een woning.",
+    "extra_example_fa": "اجاره‌ها بالاست، به همین دلیل مردم دنبال خانهٔ مشترک می‌گردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "قیمت خانه‌ها بالا می‌رود، به همین دلیل بسیاری از جوانان به شهرهای کوچک‌تر نقل مکان می‌کنند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "قیمت خانه‌ها پایین آمده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با علت جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "جوانان دیگر نقل مکان نمی‌کنند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با نتیجهٔ جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "شهرهای کوچک گران‌تر شده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "result_connectors",
+    "life_context": "technology_and_internet",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Er was een storing, als gevolg daarvan konden we niet inloggen.",
+    "question_text_nl": "Wat is het gevolg in deze zin?",
+    "question_text_fa": "نتیجه در این جمله چیست؟",
+    "meaning_fa": "یک اختلال فنی رخ داد، در نتیجه نتوانستیم وارد سیستم شویم.",
+    "usage_note_fa": "«als gevolg daarvan» نتیجهٔ رسمی یک رویداد را نشان می‌دهد.",
+    "extra_example_nl": "Er was onderhoud, als gevolg daarvan was de site tijdelijk offline.",
+    "extra_example_fa": "تعمیرات انجام شد، در نتیجه سایت موقتاً آفلاین بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نتوانستیم وارد سیستم شویم، به همین دلیل اختلال رخ داد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه علت و معلول را جابه‌جا کرده است."
+      },
+      {
+        "key": "B",
+        "text_fa": "یک اختلال فنی رخ داد، در نتیجه نتوانستیم وارد سیستم شویم.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "سیستم به‌خوبی کار می‌کرد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با علت جمله (اختلال) در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "ما وارد سیستم شدیم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با نتیجهٔ جمله در تناقض است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "result_connectors",
+    "life_context": "health_and_lifestyle",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Ze at te snel, daardoor kreeg ze buikpijn.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "او خیلی سریع غذا خورد، به همین دلیل دل‌دردش گرفت.",
+    "usage_note_fa": "این جمله رابطهٔ علت و معلول بین سرعت خوردن و دل‌درد را نشان می‌دهد.",
+    "extra_example_nl": "Hij sliep te weinig, daardoor was hij de hele dag moe.",
+    "extra_example_fa": "او خیلی کم خوابید، به همین دلیل تمام روز خسته بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "دلش درد گرفت، به همین دلیل سریع غذا خورد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه علت و معلول را جابه‌جا کرده است."
+      },
+      {
+        "key": "B",
+        "text_fa": "او آهسته غذا خورد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با علت جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "او خیلی سریع غذا خورد، به همین دلیل دل‌دردش گرفت.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "او هیچ دردی نداشت.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با نتیجهٔ جمله در تناقض است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "result_connectors",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Het bedrijf maakte verlies, daarom moesten er mensen ontslagen worden.",
+    "question_text_nl": "Wat is de oorzaak of het gevolg hier?",
+    "question_text_fa": "علت یا معلول در این جمله چیست؟",
+    "meaning_fa": "شرکت ضرر کرد، به همین دلیل مجبور شدند افرادی را اخراج کنند.",
+    "usage_note_fa": "این جمله نتیجهٔ مالی یک وضعیت را برای کارکنان نشان می‌دهد.",
+    "extra_example_nl": "De vraag daalde, daarom werd de productie verminderd.",
+    "extra_example_fa": "تقاضا کاهش یافت، به همین دلیل تولید کم شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "افراد اخراج شدند، به همین دلیل شرکت ضرر کرد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه علت و معلول را جابه‌جا کرده است."
+      },
+      {
+        "key": "B",
+        "text_fa": "شرکت سود زیادی کرد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با علت جمله (ضرر کردن) در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "هیچ‌کس اخراج نشد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با نتیجهٔ جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "شرکت ضرر کرد، به همین دلیل مجبور شدند افرادی را اخراج کنند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "reason_explanation",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "De reden hiervoor is dat de kosten te hoog zijn geworden.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "دلیل این موضوع این است که هزینه‌ها خیلی بالا رفته‌اند.",
+    "usage_note_fa": "«De reden hiervoor is dat...» برای توضیح صریح علت یک موضوع استفاده می‌شود.",
+    "extra_example_nl": "De reden hiervoor is dat er te weinig vraag was.",
+    "extra_example_fa": "دلیل این موضوع این است که تقاضا خیلی کم بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "دلیل این موضوع این است که هزینه‌ها خیلی بالا رفته‌اند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "دلیلش این است که هزینه‌ها پایین آمده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "هزینه‌ها هیچ تغییری نکرده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این موضوع دلیلی ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "reason_explanation",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Dit komt doordat er te weinig personeel is.",
+    "question_text_nl": "Wat wordt hier uitgelegd?",
+    "question_text_fa": "این جمله چه چیزی را توضیح می‌دهد؟",
+    "meaning_fa": "این به این دلیل است که پرسنل خیلی کم است.",
+    "usage_note_fa": "«dit komt doordat...» برای توضیح علت یک مشکل استفاده می‌شود.",
+    "extra_example_nl": "Dit komt doordat de planning niet goed was.",
+    "extra_example_fa": "این به این دلیل است که برنامه‌ریزی خوب نبود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این به این دلیل است که پرسنل زیاد است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این به این دلیل است که پرسنل خیلی کم است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "پرسنل هیچ نقشی ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این موضوع کاملاً تصادفی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله (بیان علت مشخص) در تناقض است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "reason_explanation",
+    "life_context": "environment_and_sustainability",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Dit heeft te maken met de klimaatverandering.",
+    "question_text_nl": "Wat is het gevolg in deze zin?",
+    "question_text_fa": "نتیجه در این جمله چیست؟",
+    "meaning_fa": "این موضوع به تغییرات آب‌وهوایی مربوط است.",
+    "usage_note_fa": "«dit heeft te maken met...» ارتباط بین دو موضوع را نشان می‌دهد.",
+    "extra_example_nl": "Dit heeft te maken met de stijgende zeespiegel.",
+    "extra_example_fa": "این موضوع به بالا آمدن سطح دریا مربوط است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این موضوع هیچ ربطی به آب‌وهوا ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "آب‌وهوا هیچ تغییری نکرده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این موضوع به تغییرات آب‌وهوایی مربوط است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این موضوع کاملاً تصادفی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله (بیان ارتباط مشخص) در تناقض است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "reason_explanation",
+    "life_context": "technology_and_internet",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "De oorzaak van het probleem ligt bij de verouderde software.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "علت مشکل به نرم‌افزار قدیمی مربوط است.",
+    "usage_note_fa": "«de oorzaak ligt bij...» علت مشخص یک مشکل را نشان می‌دهد.",
+    "extra_example_nl": "De oorzaak van de storing ligt bij de server.",
+    "extra_example_fa": "علت اختلال به سرور مربوط است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "نرم‌افزار جدید مشکل ایجاد کرده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله (نرم‌افزار قدیمی) در تناقض است."
+      },
+      {
+        "key": "B",
+        "text_fa": "مشکل هیچ ربطی به نرم‌افزار ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "نرم‌افزار به‌روزرسانی شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "علت مشکل به نرم‌افزار قدیمی مربوط است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "reason_explanation",
+    "life_context": "education_and_courses",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Dit verklaart waarom veel studenten stress ervaren.",
+    "question_text_nl": "Wat is de oorzaak of het gevolg hier?",
+    "question_text_fa": "علت یا معلول در این جمله چیست؟",
+    "meaning_fa": "این توضیح می‌دهد که چرا بسیاری از دانشجویان استرس دارند.",
+    "usage_note_fa": "«dit verklaart waarom...» یک توضیح منطقی برای یک پدیده ارائه می‌دهد.",
+    "extra_example_nl": "Dit verklaart waarom de resultaten zo laag zijn.",
+    "extra_example_fa": "این توضیح می‌دهد که چرا نتایج این‌قدر پایین است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این توضیح می‌دهد که چرا بسیاری از دانشجویان استرس دارند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این توضیح می‌دهد که چرا دانشجویان استرس ندارند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "دانشجویان هیچ مشکلی ندارند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این موضوع هیچ توضیحی ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "reason_explanation",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "De oorzaak van haar goede humeur is de promotie die ze kreeg.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "علت خلق‌وخوی خوب او ترفیعی است که گرفته است.",
+    "usage_note_fa": "این جمله علت مشخصی برای یک حالت روحی ارائه می‌دهد.",
+    "extra_example_nl": "De oorzaak van zijn stress is de deadline.",
+    "extra_example_fa": "علت استرس او مهلت زمانی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "او خلق‌وخوی بدی دارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "علت خلق‌وخوی خوب او ترفیعی است که گرفته است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "او ترفیع نگرفته است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با علت بیان‌شده در جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "خلق‌وخوی او هیچ دلیلی ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "consequence_warning",
+    "life_context": "health_and_lifestyle",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Als je te veel werkt, kan dat leiden tot een burn-out.",
+    "question_text_nl": "Wat wordt hier uitgelegd?",
+    "question_text_fa": "این جمله چه چیزی را توضیح می‌دهد؟",
+    "meaning_fa": "اگر بیش‌ازحد کار کنی، ممکن است به فرسودگی شغلی منجر شود.",
+    "usage_note_fa": "«kan leiden tot» نتیجهٔ احتمالی یک عمل را به‌صورت هشدار نشان می‌دهد.",
+    "extra_example_nl": "Als je te weinig slaapt, kan dat leiden tot concentratieproblemen.",
+    "extra_example_fa": "اگر خیلی کم بخوابی، ممکن است به مشکل تمرکز منجر شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "کار زیاد هرگز مشکلی ایجاد نمی‌کند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "فرسودگی شغلی باعث کار زیاد می‌شود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه علت و معلول را جابه‌جا کرده است."
+      },
+      {
+        "key": "C",
+        "text_fa": "اگر بیش‌ازحد کار کنی، ممکن است به فرسودگی شغلی منجر شود.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ استراحت کافی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "consequence_warning",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Met als gevolg dat de kosten flink stegen.",
+    "question_text_nl": "Wat is het gevolg in deze zin?",
+    "question_text_fa": "نتیجه در این جمله چیست؟",
+    "meaning_fa": "با این نتیجه که هزینه‌ها به‌شدت افزایش یافت.",
+    "usage_note_fa": "«met als gevolg dat...» نتیجهٔ نهایی یک وضعیت را بیان می‌کند.",
+    "extra_example_nl": "Met als gevolg dat veel klanten vertrokken.",
+    "extra_example_fa": "با این نتیجه که بسیاری از مشتریان رفتند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "با این نتیجه که هزینه‌ها کاهش یافت.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "هزینه‌ها هیچ تغییری نکردند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این جمله دربارهٔ درآمد شرکت است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "با این نتیجه که هزینه‌ها به‌شدت افزایش یافت.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "consequence_warning",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Wat ertoe leidt dat veel mensen hun baan verliezen.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "که منجر به این می‌شود که بسیاری از مردم شغل خود را از دست بدهند.",
+    "usage_note_fa": "«wat ertoe leidt dat...» یک نتیجهٔ جدی و منفی را نشان می‌دهد.",
+    "extra_example_nl": "Wat ertoe leidt dat de productie stopgezet wordt.",
+    "extra_example_fa": "که منجر به این می‌شود که تولید متوقف شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "که منجر به این می‌شود که بسیاری از مردم شغل خود را از دست بدهند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "که منجر به این می‌شود که مردم شغل جدید پیدا کنند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "هیچ‌کس شغلش را از دست نمی‌دهد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ استخدام افراد جدید است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "consequence_warning",
+    "life_context": "education_and_courses",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Als gevolg hiervan moesten scholen tijdelijk sluiten.",
+    "question_text_nl": "Wat is de oorzaak of het gevolg hier?",
+    "question_text_fa": "علت یا معلول در این جمله چیست؟",
+    "meaning_fa": "در نتیجهٔ این موضوع، مدارس موقتاً باید تعطیل می‌شدند.",
+    "usage_note_fa": "«als gevolg hiervan» نتیجهٔ مستقیم یک اتفاق را نشان می‌دهد.",
+    "extra_example_nl": "Als gevolg hiervan werden de lessen online gegeven.",
+    "extra_example_fa": "در نتیجهٔ این موضوع، کلاس‌ها به‌صورت آنلاین برگزار شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مدارس هرگز تعطیل نشدند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "در نتیجهٔ این موضوع، مدارس موقتاً باید تعطیل می‌شدند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "مدارس برای همیشه تعطیل شدند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه اغراق نادرستی از معنی جمله است، چون تعطیلی موقت بود."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ باز شدن مدارس است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "consequence_warning",
+    "life_context": "environment_and_sustainability",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Dit kan ernstige gevolgen hebben voor het milieu.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "این می‌تواند پیامدهای جدی برای محیط‌زیست داشته باشد.",
+    "usage_note_fa": "این جمله هشداری دربارهٔ نتایج منفی احتمالی است.",
+    "extra_example_nl": "Dit kan grote gevolgen hebben voor de economie.",
+    "extra_example_fa": "این می‌تواند پیامدهای بزرگی برای اقتصاد داشته باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این هیچ تأثیری بر محیط‌زیست ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "محیط‌زیست هیچ مشکلی ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این می‌تواند پیامدهای جدی برای محیط‌زیست داشته باشد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ اقتصاد است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "consequence_warning",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Wat kan resulteren in hogere kosten voor de consument.",
+    "question_text_nl": "Wat wordt hier uitgelegd?",
+    "question_text_fa": "این جمله چه چیزی را توضیح می‌دهد؟",
+    "meaning_fa": "که می‌تواند منجر به هزینه‌های بالاتر برای مصرف‌کننده شود.",
+    "usage_note_fa": "«wat kan resulteren in...» نتیجهٔ احتمالی یک تصمیم یا اتفاق را نشان می‌دهد.",
+    "extra_example_nl": "Wat kan resulteren in langere wachttijden.",
+    "extra_example_fa": "که می‌تواند منجر به زمان انتظار طولانی‌تر شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "که می‌تواند منجر به هزینه‌های کمتر برای مصرف‌کننده شود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "هزینه‌ها ثابت خواهند ماند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این جمله دربارهٔ تولیدکننده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "که می‌تواند منجر به هزینه‌های بالاتر برای مصرف‌کننده شود.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "cause_effect_formal",
+    "life_context": "environment_and_sustainability",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Ten gevolge van de storm zijn er veel bomen omgevallen.",
+    "question_text_nl": "Wat is het gevolg in deze zin?",
+    "question_text_fa": "نتیجه در این جمله چیست؟",
+    "meaning_fa": "در نتیجهٔ طوفان، درختان زیادی افتاده‌اند.",
+    "usage_note_fa": "«ten gevolge van» شکل رسمی برای بیان نتیجهٔ یک اتفاق است.",
+    "extra_example_nl": "Ten gevolge van de droogte was er watertekort.",
+    "extra_example_fa": "در نتیجهٔ خشکسالی، کمبود آب وجود داشت.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "در نتیجهٔ طوفان، درختان زیادی افتاده‌اند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "درختان باعث طوفان شدند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه علت و معلول را جابه‌جا کرده است."
+      },
+      {
+        "key": "C",
+        "text_fa": "هیچ درختی نیفتاده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "طوفان هنوز شروع نشده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "cause_effect_formal",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Hetgeen ertoe heeft geleid dat het project werd uitgesteld.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "که این باعث شد پروژه به تأخیر بیفتد.",
+    "usage_note_fa": "«hetgeen ertoe heeft geleid dat...» شکل رسمی برای بیان نتیجه در متون رسمی است.",
+    "extra_example_nl": "Hetgeen ertoe heeft geleid dat de kosten stegen.",
+    "extra_example_fa": "که این باعث شد هزینه‌ها افزایش یابد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "که این باعث شد پروژه زودتر تمام شود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "که این باعث شد پروژه به تأخیر بیفتد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "پروژه هیچ تأخیری نداشت.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ شروع پروژه است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "cause_effect_formal",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Wat resulteerde in een aanzienlijke stijging van de energieprijzen.",
+    "question_text_nl": "Wat is de oorzaak of het gevolg hier?",
+    "question_text_fa": "علت یا معلول در این جمله چیست؟",
+    "meaning_fa": "که منجر به افزایش قابل‌توجه قیمت انرژی شد.",
+    "usage_note_fa": "«wat resulteerde in...» شکل رسمی برای بیان نتیجهٔ نهایی یک وضعیت است.",
+    "extra_example_nl": "Wat resulteerde in een tekort aan grondstoffen.",
+    "extra_example_fa": "که منجر به کمبود مواد اولیه شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "که منجر به کاهش قیمت انرژی شد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "قیمت انرژی ثابت ماند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "که منجر به افزایش قابل‌توجه قیمت انرژی شد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ آب‌وهوا است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "cause_effect_formal",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Ten gevolge van de nieuwe wet moeten bedrijven meer belasting betalen.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "در نتیجهٔ قانون جدید، شرکت‌ها باید مالیات بیشتری بپردازند.",
+    "usage_note_fa": "این جمله نتیجهٔ رسمی یک تغییر قانونی را بیان می‌کند.",
+    "extra_example_nl": "Ten gevolge van de nieuwe regels moeten winkels eerder sluiten.",
+    "extra_example_fa": "در نتیجهٔ قوانین جدید، مغازه‌ها باید زودتر ببندند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شرکت‌ها باید مالیات کمتری بپردازند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "قانون جدید هیچ تأثیری ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این جمله دربارهٔ کاهش مالیات است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "در نتیجهٔ قانون جدید، شرکت‌ها باید مالیات بیشتری بپردازند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "cause_effect_formal",
+    "life_context": "environment_and_sustainability",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Dit heeft ertoe bijgedragen dat de luchtkwaliteit is verbeterd.",
+    "question_text_nl": "Wat wordt hier uitgelegd?",
+    "question_text_fa": "این جمله چه چیزی را توضیح می‌دهد؟",
+    "meaning_fa": "این کمک کرده است که کیفیت هوا بهتر شود.",
+    "usage_note_fa": "«heeft ertoe bijgedragen dat...» شکل رسمی برای بیان یک تأثیر مثبت است.",
+    "extra_example_nl": "Dit heeft ertoe bijgedragen dat de verkeersveiligheid is toegenomen.",
+    "extra_example_fa": "این کمک کرده است که ایمنی ترافیک افزایش یابد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این کمک کرده است که کیفیت هوا بهتر شود.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این باعث بدتر شدن کیفیت هوا شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "کیفیت هوا هیچ تغییری نکرده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ کیفیت آب است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "cause_effect_meaning",
+    "subtopic": "cause_effect_formal",
+    "life_context": "travel_and_culture",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Als direct gevolg hiervan daalde het aantal bezoekers sterk.",
+    "question_text_nl": "Wat is het gevolg in deze zin?",
+    "question_text_fa": "نتیجه در این جمله چیست؟",
+    "meaning_fa": "به‌عنوان نتیجهٔ مستقیم این موضوع، تعداد بازدیدکنندگان به‌شدت کاهش یافت.",
+    "usage_note_fa": "«als direct gevolg hiervan» نتیجهٔ فوری و مستقیم یک اتفاق را نشان می‌دهد.",
+    "extra_example_nl": "Als direct gevolg hiervan werden veel evenementen geannuleerd.",
+    "extra_example_fa": "به‌عنوان نتیجهٔ مستقیم این موضوع، بسیاری از رویدادها لغو شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "تعداد بازدیدکنندگان به‌شدت افزایش یافت.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "به‌عنوان نتیجهٔ مستقیم این موضوع، تعداد بازدیدکنندگان به‌شدت کاهش یافت.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "تعداد بازدیدکنندگان هیچ تغییری نکرد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ افزایش قیمت بلیط است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  }
+]

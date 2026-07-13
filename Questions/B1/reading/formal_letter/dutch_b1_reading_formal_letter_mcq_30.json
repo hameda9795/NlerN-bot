@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief gemeente: «Wij hebben uw adreswijziging nog niet ontvangen. U bent verplicht dit binnen vijf werkdagen na de verhuizing door te geven.»  Wat moet de lezer doen?",
+    "question_text_fa": "خواننده باید چه کاری انجام دهد؟",
+    "explanation_fa": "او باید ظرف پنج روز کاری پس از نقل‌مکان، آدرس جدیدش را به شهرداری اطلاع دهد.",
+    "grammar_rule_fa": "«verplicht zijn om …» یعنی وظیفه‌ی قانونی، نه پیشنهاد.",
+    "extra_example_nl": "Geef uw nieuwe adres binnen vijf dagen door.",
+    "extra_example_fa": "آدرس جدیدت را ظرف پنج روز اطلاع بده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vijf dagen wachten voordat hij verhuist.",
+        "is_correct": false,
+        "feedback_fa": "متن درباره‌ی صبر کردن قبل از نقل‌مکان نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een boete van vijf euro per dag betalen.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی جریمه چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zijn nieuwe adres binnen vijf werkdagen doorgeven aan de gemeente.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان اقدام خواسته‌شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar het gemeentehuis bellen om te verhuizen.",
+        "is_correct": false,
+        "feedback_fa": "او باید آدرس را اطلاع دهد، نه تماس برای نقل‌مکان."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "tax",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief Belastingdienst: «U dient uw aangifte inkomstenbelasting vóór 1 mei in te dienen. Bij een te late aangifte kan een boete worden opgelegd.»  Wat is het gevolg van te laat indienen?",
+    "question_text_fa": "پیامد ارسال دیرهنگام اظهارنامه چیست؟",
+    "explanation_fa": "اگر اظهارنامه بعد از اول مه ارسال شود، ممکن است جریمه اعمال شود.",
+    "grammar_rule_fa": "«kan worden opgelegd» یعنی احتمال دارد، نه قطعی.",
+    "extra_example_nl": "Bij een late aangifte krijgt hij misschien een boete.",
+    "extra_example_fa": "با اظهارنامه‌ی دیر، ممکن است جریمه بگیرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij krijgt automatisch uitstel tot 1 juni.",
+        "is_correct": false,
+        "feedback_fa": "چنین مهلت خودکاری در متن نیامده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij kan een boete krijgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij hoeft geen belasting meer te betalen.",
+        "is_correct": false,
+        "feedback_fa": "این عکس معنای متن است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zijn aangifte wordt automatisch geannuleerd.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی لغو اظهارنامه چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief zorgverzekeraar: «Uw eigen risico wijzigt per 1 januari van 385 euro naar 400 euro. Deze wijziging geldt automatisch, tenzij u vóór 31 december overstapt naar een andere verzekeraar.»  Wat moet iemand doen die niet akkoord gaat?",
+    "question_text_fa": "کسی که موافق نیست باید چه کاری انجام دهد؟",
+    "explanation_fa": "اگر کسی موافق افزایش نیست، باید پیش از ۳۱ دسامبر به بیمه‌ی دیگری تغییر دهد.",
+    "grammar_rule_fa": "«tenzij» شرط استثنا را نشان می‌دهد و راه فرار از تغییر را مشخص می‌کند.",
+    "extra_example_nl": "Wie niet akkoord gaat, kan voor 31 december overstappen.",
+    "extra_example_fa": "کسی که موافق نیست، می‌تواند پیش از ۳۱ دسامبر تغییر دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een brief sturen naar de verzekeraar met bezwaar.",
+        "is_correct": false,
+        "feedback_fa": "چنین گزینه‌ای در متن ذکر نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vóór 31 december overstappen naar een andere verzekeraar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تنها راه ذکرشده برای جلوگیری از تغییر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niets doen; het eigen risico blijft dan hetzelfde.",
+        "is_correct": false,
+        "feedback_fa": "عدم اقدام یعنی تغییر خودکار اعمال می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "300 euro extra betalen om het oude bedrag te behouden.",
+        "is_correct": false,
+        "feedback_fa": "چنین گزینه‌ای در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief woningcorporatie: «Op 14 maart voeren wij onderhoud uit aan de verwarming. Wij vragen u om die dag tussen 9:00 en 12:00 uur thuis te zijn.»  Wat wordt er van de bewoner gevraagd?",
+    "question_text_fa": "از ساکن چه خواسته شده است؟",
+    "explanation_fa": "از ساکن خواسته شده تا در روز مشخص بین ساعت ۹ تا ۱۲ در خانه حضور داشته باشد.",
+    "grammar_rule_fa": "«wij vragen u om …» درخواست مودبانه است، نه امر مطلق.",
+    "extra_example_nl": "Wees op 14 maart tussen 9:00 en 12:00 uur thuis.",
+    "extra_example_fa": "چهاردهم مارس بین ساعت ۹ تا ۱۲ در خانه باش.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zelf de verwarming repareren.",
+        "is_correct": false,
+        "feedback_fa": "تعمیر بر عهده‌ی شرکت است، نه ساکن."
+      },
+      {
+        "key": "B",
+        "text_nl": "De hele dag niet thuis zijn.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een nieuwe verwarming kopen.",
+        "is_correct": false,
+        "feedback_fa": "چنین درخواستی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op 14 maart tussen 9:00 en 12:00 uur thuis blijven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً درخواست متن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Brief school: «Wij nodigen u uit voor de ouderavond op donderdag 9 oktober om 19:30 uur. Wilt u zich vóór 5 oktober aanmelden via de e-mail?»  Wat moeten ouders vóór 5 oktober doen?",
+    "question_text_fa": "والدین باید قبل از پنجم اکتبر چه کاری انجام دهند؟",
+    "explanation_fa": "والدین باید پیش از ۵ اکتبر از طریق ایمیل ثبت‌نام کنند.",
+    "grammar_rule_fa": "«zich aanmelden via …» یعنی ثبت‌نام از طریق یک وسیله‌ی مشخص.",
+    "extra_example_nl": "Meld u aan via de e-mail vóór 5 oktober.",
+    "extra_example_fa": "قبل از پنجم اکتبر از طریق ایمیل ثبت‌نام کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hun kind ophalen om 19:30 uur.",
+        "is_correct": false,
+        "feedback_fa": "این جلسه‌ی والدین است، نه زمانِ تحویل بچه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een cadeau meenemen naar de ouderavond.",
+        "is_correct": false,
+        "feedback_fa": "چنین درخواستی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zich per e-mail aanmelden voor de ouderavond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ همان چیزی که متن می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar school bellen om te annuleren.",
+        "is_correct": false,
+        "feedback_fa": "متن درباره‌ی لغو صحبت نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Herinnering huisartsenpraktijk: «Kunt u een afspraak niet nakomen? Zeg deze dan minimaal 24 uur van tevoren af, anders worden er kosten in rekening gebracht.»  Iemand belt drie uur voor de afspraak af. Wat gebeurt er?",
+    "question_text_fa": "کسی سه ساعت قبل از نوبت تماس می‌گیرد و لغو می‌کند؛ چه اتفاقی می‌افتد؟",
+    "explanation_fa": "چون کمتر از ۲۴ ساعت مانده به نوبت لغو کرده، طبق متن هزینه از او دریافت می‌شود.",
+    "grammar_rule_fa": "«minimaal 24 uur van tevoren» یعنی حداقل یک روز پیش از قرار.",
+    "extra_example_nl": "Bij te laat afzeggen betaalt de patiënt kosten.",
+    "extra_example_fa": "با لغو دیرهنگام، بیمار باید هزینه بپردازد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Er worden kosten in rekening gebracht, want het is te laat afgezegd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سه ساعت خیلی کمتر از ۲۴ ساعت است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De praktijk belt hem terug om te controleren.",
+        "is_correct": false,
+        "feedback_fa": "چنین اقدامی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er gebeurt niets, want hij heeft toch afgezegd.",
+        "is_correct": false,
+        "feedback_fa": "افزودن به‌موقع مهم است، نه صرفِ اطلاع‌رسانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij krijgt een nieuwe afspraak zonder kosten.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی نوبت جدید چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Brief werkgever: «Wij hebben besloten uw tijdelijke arbeidsovereenkomst niet te verlengen. Uw laatste werkdag is 30 juni. Wij bedanken u voor uw inzet.»  Wat betekent deze brief voor de werknemer?",
+    "question_text_fa": "این نامه برای کارمند به چه معناست؟",
+    "explanation_fa": "قرارداد موقت او تمدید نمی‌شود و ۳۰ ژوئن آخرین روز کاری‌اش خواهد بود.",
+    "grammar_rule_fa": "«niet verlengen» یعنی تمدید نمی‌شود؛ با اخراج فوری فرق دارد.",
+    "extra_example_nl": "Zijn contract wordt niet verlengd na 30 juni.",
+    "extra_example_fa": "قراردادش بعد از ۳۰ ژوئن تمدید نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zijn contract stopt op 30 juni en wordt niet verlengd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که نامه می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij moet zelf ontslag nemen.",
+        "is_correct": false,
+        "feedback_fa": "این تصمیم کارفرماست، نه استعفای کارمند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zijn contract wordt automatisch vast.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij wordt per direct ontslagen, vandaag nog.",
+        "is_correct": false,
+        "feedback_fa": "متن یک تاریخ مشخص (۳۰ ژوئن) می‌دهد، نه اخراج فوری."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "bank",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Brief bank: «Uw rekening is tijdelijk geblokkeerd omdat wij uw identiteitsbewijs niet konden verifiëren. Stuur een kopie van een geldig legitimatiebewijs om de rekening te deblokkeren.»  Wat moet de klant doen om weer bij zijn geld te kunnen?",
+    "question_text_fa": "مشتری برای دسترسی دوباره به پولش باید چه کاری انجام دهد؟",
+    "explanation_fa": "باید کپی یک مدرک هویتی معتبر برای بانک ارسال کند تا حساب دوباره باز شود.",
+    "grammar_rule_fa": "«om … te deblokkeren» ساختار هدف را نشان می‌دهد: این کار برای چه انجام می‌شود.",
+    "extra_example_nl": "Stuur uw paspoort op om de rekening te deblokkeren.",
+    "extra_example_fa": "پاسپورتت را بفرست تا حساب باز شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "500 euro betalen om de rekening te deblokkeren.",
+        "is_correct": false,
+        "feedback_fa": "چنین پرداختی در متن نیامده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een kopie van een geldig identiteitsbewijs opsturen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان اقدام خواسته‌شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wachten tot de bank vanzelf contact opneemt.",
+        "is_correct": false,
+        "feedback_fa": "مشتری باید خودش اقدام کند، نه منتظر بماند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een nieuwe bankrekening openen.",
+        "is_correct": false,
+        "feedback_fa": "متن درباره‌ی حساب جدید صحبت نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "energy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Jaarafrekening energiebedrijf: «U heeft in het afgelopen jaar minder verbruikt dan verwacht. Wij betalen 145 euro aan u terug binnen tien werkdagen.»  Wat gaat er gebeuren?",
+    "question_text_fa": "چه اتفاقی می‌افتد؟",
+    "explanation_fa": "چون مصرف کمتر از حد پیش‌بینی‌شده بوده، ۱۴۵ یورو ظرف ده روز کاری به مشتری بازگردانده می‌شود.",
+    "grammar_rule_fa": "«terugbetalen aan u» یعنی پول به حساب مشتری بازمی‌گردد.",
+    "extra_example_nl": "Het bedrag wordt binnen tien dagen teruggestort.",
+    "extra_example_fa": "مبلغ ظرف ده روز بازگردانده می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De klant moet 145 euro bijbetalen.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De klant krijgt 145 euro terug.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De klant krijgt een korting op de volgende jaarafrekening.",
+        "is_correct": false,
+        "feedback_fa": "پول بلافاصله بازگردانده می‌شود، نه به‌صورت تخفیف بعدی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het contract van de klant wordt beëindigd.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief gemeente: «Uw parkeervergunning is verlopen op 1 juni. Zonder geldige vergunning riskeert u een boete bij parkeren in de vergunningszone.»  Wat is het risico als iemand niets doet?",
+    "question_text_fa": "اگر کسی اقدامی نکند چه خطری متوجه او است؟",
+    "explanation_fa": "اگر مجوز را تمدید نکند، در صورت پارک کردن در منطقه‌ی مجاز ممکن است جریمه شود.",
+    "grammar_rule_fa": "«riskeert u een boete» یعنی احتمال جریمه وجود دارد، نه قطعیت.",
+    "extra_example_nl": "Zonder vergunning riskeert hij een boete.",
+    "extra_example_fa": "بدون مجوز، احتمال جریمه شدن دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergunning wordt automatisch verlengd.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij kan een boete krijgen bij het parkeren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً خطرِ ذکرشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij mag nooit meer parkeren in de stad.",
+        "is_correct": false,
+        "feedback_fa": "این اغراق است؛ متن فقط درباره‌ی جریمه صحبت می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zijn auto wordt automatisch weggehaald.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "insurance",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Brief verzekeraar: «Wij passen de voorwaarden van uw polis aan per 1 januari. Bent u het niet eens met deze wijziging? Dan kunt u binnen dertig dagen na deze brief bezwaar maken.»  Wat moet iemand doen die het oneens is?",
+    "question_text_fa": "کسی که مخالف است باید چه کاری انجام دهد؟",
+    "explanation_fa": "او باید ظرف سی روز پس از دریافت این نامه اعتراض کتبی ثبت کند.",
+    "grammar_rule_fa": "«binnen dertig dagen na deze brief» یعنی مهلت از تاریخ نامه شمرده می‌شود، نه از اول ژانویه.",
+    "extra_example_nl": "Hij maakt bezwaar binnen dertig dagen na de brief.",
+    "extra_example_fa": "او ظرف سی روز پس از نامه اعتراض می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De polis onmiddellijk opzeggen zonder bezwaar te maken.",
+        "is_correct": false,
+        "feedback_fa": "متن راهِ اعتراض را پیشنهاد می‌دهد، نه فسخ فوری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Binnen dertig dagen na de brief bezwaar maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً شرط متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wachten tot 1 januari om te reageren.",
+        "is_correct": false,
+        "feedback_fa": "مهلت از تاریخ نامه است، نه اول ژانویه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een nieuwe polis afsluiten bij dezelfde verzekeraar.",
+        "is_correct": false,
+        "feedback_fa": "چنین اقدامی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "finance",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Betalingsherinnering incassobureau: «Uw factuur van 89 euro is nog niet betaald. Betaalt u niet binnen veertien dagen, dan komen daar 25 euro administratiekosten bij.»  Wat gebeurt er als iemand na twintig dagen betaalt?",
+    "question_text_fa": "اگر کسی بعد از بیست روز پرداخت کند چه اتفاقی می‌افتد؟",
+    "explanation_fa": "چون بیست روز بیشتر از مهلت چهارده‌روزه است، ۲۵ یورو هزینه‌ی اداری اضافه می‌شود.",
+    "grammar_rule_fa": "«dan komen daar … bij» یعنی مبلغ اضافه به هزینه‌ی اصلی افزوده می‌شود.",
+    "extra_example_nl": "Na veertien dagen komen er extra kosten bij.",
+    "extra_example_fa": "بعد از چهارده روز، هزینه‌ی اضافه اضافه می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij krijgt korting omdat hij zelf heeft betaald.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij hoeft alleen de 89 euro te betalen.",
+        "is_correct": false,
+        "feedback_fa": "چون مهلت گذشته، هزینه‌ی اضافه هم اعمال می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De hele factuur vervalt na veertien dagen.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید هزینه اضافه می‌شود، نه اینکه فاکتور باطل شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij moet 89 euro plus 25 euro extra betalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ چون از مهلت گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief UWV: «Wij hebben uw aanvraag voor een WW-uitkering ontvangen. Binnen vier weken ontvangt u een besluit.»  Wat kan de aanvrager in de tussentijd verwachten?",
+    "question_text_fa": "متقاضی در این فاصله چه انتظاری می‌تواند داشته باشد؟",
+    "explanation_fa": "او فقط باید صبر کند تا ظرف چهار هفته تصمیم نهایی به او اعلام شود.",
+    "grammar_rule_fa": "«binnen vier weken» یعنی حداکثر مدت زمان، نه مدت دقیق.",
+    "extra_example_nl": "Binnen vier weken krijgt hij bericht over zijn aanvraag.",
+    "extra_example_fa": "ظرف چهار هفته درباره‌ی درخواستش خبر می‌گیرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Direct geld ontvangen op zijn rekening.",
+        "is_correct": false,
+        "feedback_fa": "ابتدا باید تصمیم اعلام شود، نه فوراً پول."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zijn aanvraag is automatisch afgewezen.",
+        "is_correct": false,
+        "feedback_fa": "متن هنوز درباره‌ی نتیجه چیزی نگفته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij moet de aanvraag opnieuw indienen.",
+        "is_correct": false,
+        "feedback_fa": "چنین درخواستی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Binnen vier weken een besluit ontvangen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Brief gemeente: «Uw aanvraag voor kwijtschelding van de gemeentelijke belastingen is goedgekeurd voor dit kalenderjaar. Volgend jaar moet u opnieuw een aanvraag indienen.»  Geldt de kwijtschelding ook automatisch voor volgend jaar?",
+    "question_text_fa": "آیا معافیت برای سال بعد هم به‌طور خودکار اعمال می‌شود؟",
+    "explanation_fa": "نه، معافیت فقط برای همین سال است و برای سال بعد باید دوباره درخواست داد.",
+    "grammar_rule_fa": "«dit kalenderjaar» زمان را محدود می‌کند؛ سال بعد شامل نمی‌شود.",
+    "extra_example_nl": "Volgend jaar moet hij een nieuwe aanvraag doen.",
+    "extra_example_fa": "سال بعد باید دوباره درخواست بدهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, de kwijtschelding geldt voor altijd.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید فقط برای همین سال است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, maar alleen als hij verhuist.",
+        "is_correct": false,
+        "feedback_fa": "چنین شرطی درباره‌ی نقل‌مکان در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, hij moet volgend jaar opnieuw een aanvraag indienen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً شرط ذکرشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, de kwijtschelding is per direct ingetrokken.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید برای همین سال تأیید شده، نه لغو شده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief school: «De inschrijving van uw kind is bevestigd. Wij vragen u vóór 1 augustus een kopie van het identiteitsbewijs en het inentingsbewijs op te sturen.»  Wat moet de ouder nog doen?",
+    "question_text_fa": "والد هنوز باید چه کاری انجام دهد؟",
+    "explanation_fa": "والد باید پیش از اول اوت کپی مدرک هویت و کارت واکسیناسیون را ارسال کند.",
+    "grammar_rule_fa": "«een kopie … opsturen» یعنی ارسال نسخه‌ی مدرک، نه اصل آن.",
+    "extra_example_nl": "Stuur een kopie van het identiteitsbewijs vóór 1 augustus.",
+    "extra_example_fa": "پیش از اول اوت کپی مدرک هویت را بفرست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Schoolgeld betalen vóór 1 augustus.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی پرداخت شهریه چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het kind persoonlijk naar school brengen om in te schrijven.",
+        "is_correct": false,
+        "feedback_fa": "ثبت‌نام قبلاً تأیید شده؛ فقط مدارک لازم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een kopie van het identiteitsbewijs en het inentingsbewijs opsturen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان درخواست متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wachten op een telefoontje van de school.",
+        "is_correct": false,
+        "feedback_fa": "والد باید خودش اقدام کند، نه منتظر بماند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief ziekenhuis: «Uw afspraak van 12 maart is helaas verzet naar 19 maart om dezelfde tijd. Kunt u niet op deze nieuwe datum? Neem dan contact op met de polikliniek.»  Wat moet de patiënt doen als 19 maart niet uitkomt?",
+    "question_text_fa": "اگر تاریخ ۱۹ مارس برای بیمار مناسب نباشد، باید چه کند؟",
+    "explanation_fa": "اگر تاریخ جدید مناسب نیست، باید با کلینیک سرپایی تماس بگیرد.",
+    "grammar_rule_fa": "«neem dan contact op met …» درخواستی شرطی است که فقط در آن حالت اجرا می‌شود.",
+    "extra_example_nl": "Bel de polikliniek als de nieuwe datum niet past.",
+    "extra_example_fa": "اگر تاریخ جدید مناسب نبود، با کلینیک تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zelf een nieuwe datum kiezen zonder te bellen.",
+        "is_correct": false,
+        "feedback_fa": "باید از طریق تماس هماهنگ شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gewoon niet komen op 19 maart.",
+        "is_correct": false,
+        "feedback_fa": "او باید اطلاع دهد، نه بدون خبر غایب شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wachten tot het ziekenhuis opnieuw belt.",
+        "is_correct": false,
+        "feedback_fa": "بیمار باید خودش تماس بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Contact opnemen met de polikliniek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان اقدام خواسته‌شده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Brief werkgever: «Wij nodigen u uit voor een functioneringsgesprek op maandag 5 mei om 14:00 uur. Wilt u dit bevestigen via e-mail?»  Wat wordt er gevraagd?",
+    "question_text_fa": "چه چیزی خواسته شده است؟",
+    "explanation_fa": "از کارمند خواسته شده حضورش را برای جلسه‌ی ارزیابی از طریق ایمیل تأیید کند.",
+    "grammar_rule_fa": "«bevestigen via e-mail» یعنی تأیید کتبی از طریق ایمیل.",
+    "extra_example_nl": "Bevestig de afspraak per e-mail.",
+    "extra_example_fa": "قرار را از طریق ایمیل تأیید کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afspraak bevestigen per e-mail.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان خواسته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zelf een nieuwe datum voorstellen.",
+        "is_correct": false,
+        "feedback_fa": "درخواست فقط تأیید است، نه تغییر تاریخ."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een schriftelijk verslag van vorig jaar meenemen.",
+        "is_correct": false,
+        "feedback_fa": "چنین درخواستی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op 5 mei niet komen werken.",
+        "is_correct": false,
+        "feedback_fa": "این جلسه است، نه روز مرخصی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "legal",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief notaris: «Wij verzoeken u op 20 april om 10:00 uur op ons kantoor aanwezig te zijn voor het ondertekenen van de koopakte. Neemt u een geldig legitimatiebewijs mee.»  Wat moet de klant meenemen?",
+    "question_text_fa": "مشتری باید چه چیزی همراه داشته باشد؟",
+    "explanation_fa": "مشتری باید یک مدرک هویتی معتبر همراه داشته باشد.",
+    "grammar_rule_fa": "«neemt u … mee» شکل مودبانه‌ی امر است.",
+    "extra_example_nl": "Neem uw paspoort mee naar de afspraak.",
+    "extra_example_fa": "پاسپورتت را همراه بیاور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een kopie van de koopakte van de vorige eigenaar.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی درخواست نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een geldig legitimatiebewijs.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان درخواست متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een getuige die het contract ondertekent.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی شاهد چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het volledige aankoopbedrag in contanten.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی پرداخت نقدی چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "tax",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Brief gemeentelijke belastingdienst: «De WOZ-waarde van uw woning is vastgesteld op 310.000 euro. Bent u het hier niet mee eens? Dan kunt u binnen zes weken na dagtekening bezwaar maken.»  Vanaf wanneer telt de termijn van zes weken?",
+    "question_text_fa": "مهلت شش‌هفته‌ای از چه زمانی شمرده می‌شود؟",
+    "explanation_fa": "مهلت شش هفته از تاریخِ درجِ‌شده روی نامه شمرده می‌شود، نه از تاریخ دریافت آن.",
+    "grammar_rule_fa": "«na dagtekening» یعنی از تاریخِ نوشته‌شده روی نامه، نه از روز خواندن آن.",
+    "extra_example_nl": "De termijn begint op de datum die op de brief staat.",
+    "extra_example_fa": "مهلت از تاریخِ نوشته‌شده روی نامه شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vanaf 1 januari van het lopende jaar.",
+        "is_correct": false,
+        "feedback_fa": "چنین قاعده‌ای در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vanaf het moment dat de woning wordt verkocht.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ متن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vanaf de datum die op de brief staat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان شرط متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vanaf de dag dat de bewoner de brief leest.",
+        "is_correct": false,
+        "feedback_fa": "«dagtekening» یعنی تاریخ نامه، نه تاریخ خواندن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "library",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief bibliotheek: «Het boek dat u geleend heeft, is niet op tijd ingeleverd. Voor elke dag te laat betaalt u 0,30 euro boete, tot een maximum van 15 euro per boek.»  Iemand levert het boek 60 dagen te laat in. Hoeveel boete betaalt hij?",
+    "question_text_fa": "اگر کتاب ۶۰ روز دیر برگردانده شود، چقدر جریمه پرداخت می‌شود؟",
+    "explanation_fa": "چون ۶۰ روز ضرب در ۰٫۳۰ یورو بیشتر از ۱۵ یورو می‌شود، جریمه در سقف ۱۵ یورو باقی می‌ماند.",
+    "grammar_rule_fa": "«tot een maximum van …» یعنی مبلغ هرگز از این سقف بیشتر نمی‌شود.",
+    "extra_example_nl": "Ook na honderd dagen betaalt hij nooit meer dan 15 euro.",
+    "extra_example_fa": "حتی بعد از صد روز، بیشتر از ۱۵ یورو پرداخت نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "15 euro, want dat is het maximum.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سقف جریمه محدود است."
+      },
+      {
+        "key": "B",
+        "text_nl": "18 euro, want 60 keer 0,30 euro is 18 euro.",
+        "is_correct": false,
+        "feedback_fa": "این محاسبه سقفِ ۱۵ یورویی را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niets, want het boek is uiteindelijk ingeleverd.",
+        "is_correct": false,
+        "feedback_fa": "تأخیر همچنان جریمه دارد، حتی اگر کتاب برگردانده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "0,30 euro, want dat is het bedrag per dag.",
+        "is_correct": false,
+        "feedback_fa": "این فقط هزینه‌ی یک روز است، نه کل مبلغ."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Brief zorgverzekeraar: «Uw aanvraag voor vergoeding van de behandeling is afgewezen, omdat de behandeling niet in het basispakket zit. U kunt binnen zes weken schriftelijk bezwaar maken.»  Kan de klant nog iets doen na de afwijzing?",
+    "question_text_fa": "آیا مشتری بعد از رد درخواست هنوز می‌تواند کاری کند؟",
+    "explanation_fa": "بله، او می‌تواند ظرف شش هفته اعتراض کتبی ارسال کند.",
+    "grammar_rule_fa": "«bezwaar maken» یعنی رسماً اعتراض کردن به یک تصمیم.",
+    "extra_example_nl": "Hij kan binnen zes weken schriftelijk bezwaar indienen.",
+    "extra_example_fa": "او می‌تواند ظرف شش هفته اعتراض کتبی بدهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, de beslissing is definitief en niet te veranderen.",
+        "is_correct": false,
+        "feedback_fa": "متن راه اعتراض را باز می‌گذارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, tenzij hij een andere verzekeraar kiest.",
+        "is_correct": false,
+        "feedback_fa": "تغییر بیمه ربطی به این اعتراض ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, hij kan binnen zes weken schriftelijk bezwaar maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً راهِ ذکرشده در متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, door de behandeling zelf te veranderen.",
+        "is_correct": false,
+        "feedback_fa": "راهِ درست، اعتراض کتبی است، نه تغییر درمان."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "childcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief kinderopvang: «Per 1 september wordt het uurtarief verhoogd van 8,50 euro naar 9,20 euro. Deze wijziging geldt voor alle huidige klanten.»  Voor wie geldt de nieuwe prijs?",
+    "question_text_fa": "قیمت جدید برای چه کسانی اعمال می‌شود؟",
+    "explanation_fa": "طبق متن، افزایش قیمت برای همه‌ی مشتریانِ فعلی اعمال می‌شود.",
+    "grammar_rule_fa": "«voor alle huidige klanten» یعنی همه، بدون استثنا.",
+    "extra_example_nl": "Iedere klant betaalt vanaf 1 september de nieuwe prijs.",
+    "extra_example_fa": "همه‌ی مشتریان از اول سپتامبر قیمت جدید می‌پردازند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor niemand, het is slechts een voorstel.",
+        "is_correct": false,
+        "feedback_fa": "متن قطعی است، نه پیشنهادی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen voor klanten met meer dan twee kinderen.",
+        "is_correct": false,
+        "feedback_fa": "چنین تفکیکی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen voor nieuwe klanten die zich na 1 september aanmelden.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید برای همه‌ی مشتریانِ فعلی، نه فقط جدید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor alle huidige klanten van de kinderopvang.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن استثنایی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Brief gemeente: «Uw subsidieaanvraag is goedgekeurd, op voorwaarde dat het project uiterlijk 1 december wordt afgerond. Wordt deze datum niet gehaald, dan vervalt de subsidie.»  Wat gebeurt er als het project pas in januari klaar is?",
+    "question_text_fa": "اگر پروژه تا ژانویه تمام نشود چه اتفاقی می‌افتد؟",
+    "explanation_fa": "چون مهلت اول دسامبر رعایت نشده، طبق شرط متن، کمک‌هزینه از بین می‌رود.",
+    "grammar_rule_fa": "«op voorwaarde dat …» یعنی تأیید مشروط است، نه قطعی.",
+    "extra_example_nl": "Als het project te laat klaar is, vervalt de subsidie.",
+    "extra_example_fa": "اگر پروژه دیر تمام شود، کمک‌هزینه از بین می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De subsidie vervalt, want de deadline is niet gehaald.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً شرط ذکرشده در متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "De subsidie blijft geldig, ongeacht de einddatum.",
+        "is_correct": false,
+        "feedback_fa": "عکس شرط صریح متن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De subsidie wordt automatisch verdubbeld als straf.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gemeente geeft automatisch een maand extra.",
+        "is_correct": false,
+        "feedback_fa": "متن هیچ تمدید خودکاری اعلام نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Brief werkgever: «Vanaf 1 juli ontvangt u een salarisverhoging van 3%. Dit wordt automatisch verwerkt in uw salaris van juli.»  Wat moet de werknemer zelf doen om de verhoging te krijgen?",
+    "question_text_fa": "کارمند برای دریافت افزایش حقوق باید چه کاری انجام دهد؟",
+    "explanation_fa": "چون افزایش خودکار اعمال می‌شود، کارمند لازم نیست کاری انجام دهد.",
+    "grammar_rule_fa": "«automatisch verwerkt» یعنی بدون نیاز به اقدام از سوی کارمند.",
+    "extra_example_nl": "Hij hoeft niets te doen; het gebeurt automatisch.",
+    "extra_example_fa": "او نیازی به انجام کاری ندارد؛ خودکار انجام می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een formulier invullen bij de HR-afdeling.",
+        "is_correct": false,
+        "feedback_fa": "چنین اقدامی خواسته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zelf zijn salaris aanpassen in het systeem.",
+        "is_correct": false,
+        "feedback_fa": "کارفرما این کار را انجام می‌دهد، نه خود کارمند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wachten tot januari volgend jaar.",
+        "is_correct": false,
+        "feedback_fa": "افزایش از اول ژوئیه اعمال می‌شود، نه سال بعد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets; de verhoging wordt automatisch verwerkt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Brief verhuurder: «Per 1 januari verhogen wij de huur met 3,5%, conform de wettelijke maximale huurverhoging voor dit jaar. Deze verhoging is minimaal twee maanden van tevoren aangekondigd.»  Waarom mag deze huurverhoging worden doorgevoerd?",
+    "question_text_fa": "چرا این افزایش اجاره مجاز است؟",
+    "explanation_fa": "چون افزایش با نرخ قانونی مطابقت دارد و حداقل دو ماه پیش اعلام شده است.",
+    "grammar_rule_fa": "«conform de wettelijke …» یعنی مطابق با قانون، نه دلخواه موجر.",
+    "extra_example_nl": "De verhoging is conform de wet en op tijd aangekondigd.",
+    "extra_example_fa": "افزایش مطابق قانون و به‌موقع اعلام شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Omdat het percentage wettelijk toegestaan is en op tijd is aangekondigd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ هر دو شرط رعایت شده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Omdat de woning is gerenoveerd.",
+        "is_correct": false,
+        "feedback_fa": "دلیل بازسازی در متن نیامده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat de huurder hiermee al akkoord is gegaan.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی موافقتِ مستأجر چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat de huurder een nieuw contract heeft getekend.",
+        "is_correct": false,
+        "feedback_fa": "این افزایش در قرارداد فعلی رخ می‌دهد، نه قرارداد جدید."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Brief gemeente: «Uw paspoort verloopt op 15 augustus. Maak op tijd een afspraak om een nieuw paspoort aan te vragen.»  Wat wordt er van de lezer verwacht?",
+    "question_text_fa": "از خواننده چه انتظاری می‌رود؟",
+    "explanation_fa": "او باید به‌موقع برای درخواست پاسپورت جدید وقت بگیرد.",
+    "grammar_rule_fa": "«op tijd een afspraak maken» یعنی پیش از انقضا اقدام کردن.",
+    "extra_example_nl": "Maak op tijd een afspraak voor uw nieuwe paspoort.",
+    "extra_example_fa": "برای پاسپورت جدید به‌موقع وقت بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets doen, want het paspoort blijft geldig.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید پاسپورت منقضی می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op tijd een afspraak maken voor een nieuw paspoort.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان انتظار متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zijn oude paspoort per post terugsturen.",
+        "is_correct": false,
+        "feedback_fa": "چنین درخواستی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een boete betalen voor het verlopen paspoort.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی جریمه چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "tax",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief Belastingdienst: «U ontvangt een voorlopige aanslag van 620 euro. Dit bedrag moet u in zes maandelijkse termijnen betalen, te beginnen op 1 februari.»  Hoeveel betaalt iemand per maand?",
+    "question_text_fa": "هر ماه چقدر باید پرداخت شود؟",
+    "explanation_fa": "چون مبلغ کل باید در شش قسط ماهانه پرداخت شود، هر قسط حدود ۱۰۳٫۳۳ یورو می‌شود.",
+    "grammar_rule_fa": "«in zes maandelijkse termijnen» یعنی مبلغ کل به شش قسط تقسیم می‌شود.",
+    "extra_example_nl": "620 euro gedeeld door zes is ongeveer 103 euro per maand.",
+    "extra_example_fa": "۶۲۰ یورو تقسیم بر شش، تقریباً ۱۰۳ یورو در ماه می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "62 euro per maand.",
+        "is_correct": false,
+        "feedback_fa": "این محاسبه اشتباه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "620 euro per maand.",
+        "is_correct": false,
+        "feedback_fa": "این کل مبلغ است، نه هر قسط."
+      },
+      {
+        "key": "C",
+        "text_nl": "310 euro per maand.",
+        "is_correct": false,
+        "feedback_fa": "این نصف مبلغ است، نه تقسیم بر شش."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ongeveer 103 euro per maand.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ۶۲۰ تقسیم بر ۶."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief zorgverzekeraar: «Wilt u overstappen naar een andere zorgverzekeraar? Dit kan alleen vóór 31 december; daarna bent u het hele jaar aan deze polis gebonden.»  Iemand wil op 15 januari overstappen. Kan dit?",
+    "question_text_fa": "کسی می‌خواهد ۱۵ ژانویه بیمه‌اش را تغییر دهد؛ آیا امکان‌پذیر است؟",
+    "explanation_fa": "چون این تاریخ بعد از ۳۱ دسامبر است، طبق متن او تا پایان سال به همین بیمه متعهد است.",
+    "grammar_rule_fa": "«gebonden zijn aan …» یعنی موظف به ماندن، نه آزاد بودن.",
+    "extra_example_nl": "Na 31 december kan hij niet meer overstappen.",
+    "extra_example_fa": "بعد از ۳۱ دسامبر، دیگر نمی‌تواند تغییر دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, hij moet wachten tot het einde van het jaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ چون از مهلت گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, overstappen is dit jaar helemaal niet meer mogelijk, ook niet volgend jaar.",
+        "is_correct": false,
+        "feedback_fa": "او فقط باید صبر کند تا مهلتِ بعدی، نه اینکه هرگز نتواند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, maar hij betaalt een boete van 100 euro.",
+        "is_correct": false,
+        "feedback_fa": "چنین جریمه‌ای در متن ذکر نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, overstappen kan altijd, op elk moment.",
+        "is_correct": false,
+        "feedback_fa": "متن یک مهلت مشخص دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Brief werkgever: «Uw verzoek voor twee weken vakantie in augustus is goedgekeurd. Wij wensen u een fijne vakantie.»  Wat is het gevolg van deze brief?",
+    "question_text_fa": "نتیجه‌ی این نامه چیست؟",
+    "explanation_fa": "درخواست دو هفته مرخصی در ماه اوت تأیید شده است.",
+    "grammar_rule_fa": "«goedgekeurd» یعنی تأیید شده، مخالفِ «afgewezen» (رد شده).",
+    "extra_example_nl": "Zijn vakantieaanvraag is goedgekeurd.",
+    "extra_example_fa": "درخواست مرخصی‌اش تأیید شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij mag twee weken op vakantie in augustus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان تأیید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zijn vakantieaanvraag is afgewezen.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij krijgt maar één week vakantie in plaats van twee.",
+        "is_correct": false,
+        "feedback_fa": "متن دو هفته را تأیید می‌کند، نه یک هفته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij moet extra dagen werken in augustus.",
+        "is_correct": false,
+        "feedback_fa": "خلاف معنای متن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "formal_letter",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Brief gemeente: «Omdat u ouder bent dan 75 jaar, dient u om de vijf jaar een medische keuring te laten doen om uw rijbewijs te verlengen.»  Wat is de reden voor deze verplichte keuring?",
+    "question_text_fa": "دلیل این معاینه‌ی اجباری چیست؟",
+    "explanation_fa": "چون سن فرد بالای ۷۵ سال است، برای تمدید گواهینامه هر پنج سال باید معاینه‌ی پزشکی انجام شود.",
+    "grammar_rule_fa": "«omdat u ouder bent dan …» دلیل را با omdat بیان می‌کند.",
+    "extra_example_nl": "Hij moet een keuring doen omdat hij ouder is dan 75.",
+    "extra_example_fa": "چون بالای ۷۵ سال است، باید معاینه شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zijn rijbewijs is voor het eerst aangevraagd.",
+        "is_correct": false,
+        "feedback_fa": "این تمدید است، نه اولین درخواست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft een verkeersovertreding begaan.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zijn leeftijd; hij is ouder dan 75 jaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دلیل ذکرشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gemeente controleert alle inwoners elk jaar.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید هر پنج سال، نه هر سال، و فقط برای افراد بالای ۷۵ سال."
+      }
+    ]
+  }
+]

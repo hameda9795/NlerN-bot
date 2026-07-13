@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Contract: «De opzegtermijn voor deze huurovereenkomst is één kalendermaand. Opzeggen kan alleen schriftelijk, per de eerste van de maand.»  Wat betekent dit voor de huurder?",
+    "question_text_fa": "این متن برای مستأجر چه معنایی دارد؟",
+    "explanation_fa": "مستأجر باید فسخ قرارداد را کتبی و از اول ماه با یک ماه فاصله اعلام کند؛ تماس تلفنی یا زمان دلخواه کافی نیست.",
+    "grammar_rule_fa": "در متن‌های قراردادی، «schriftelijk» و «per de eerste van de maand» شرط‌های اجباری‌اند، نه پیشنهادی.",
+    "extra_example_nl": "Ik heb de huur schriftelijk opgezegd per 1 maart.",
+    "extra_example_fa": "اجاره را کتبی از اول مارس فسخ کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij mag de huur op elk moment mondeling opzeggen.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید فقط کتبی، نه شفاهی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij hoeft de huur niet op te zeggen; die stopt automatisch.",
+        "is_correct": false,
+        "feedback_fa": "متن درباره‌ی توقف خودکار چیزی نمی‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij moet de huur schriftelijk opzeggen, met een maand opzegtermijn vanaf de eerste van de maand.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان شرط متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij moet drie maanden van tevoren opzeggen.",
+        "is_correct": false,
+        "feedback_fa": "مدت اشتباه است؛ متن یک ماه می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "sport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Contract sportschool: «Een lidmaatschap kan alleen tijdelijk worden gepauzeerd bij een medische reden, aangetoond met een doktersverklaring.»  Wanneer mag een lid het abonnement pauzeren?",
+    "question_text_fa": "عضو چه زمانی می‌تواند عضویت را متوقف کند؟",
+    "explanation_fa": "توقف موقت فقط با دلیل پزشکی و ارائه‌ی گواهی پزشک ممکن است.",
+    "grammar_rule_fa": "«aangetoond met …» یعنی باید مدرک ارائه شود؛ صرفِ ادعا کافی نیست.",
+    "extra_example_nl": "Zij heeft haar abonnement gepauzeerd met een doktersverklaring.",
+    "extra_example_fa": "او عضویتش را با گواهی پزشک متوقف کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen tijdens de zomervakantie.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی تعطیلات چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen als hij een doktersverklaring kan laten zien.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً شرط متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als hij zelf een briefje schrijft.",
+        "is_correct": false,
+        "feedback_fa": "باید گواهی دکتر باشد، نه نامه‌ی شخصی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Altijd, zonder reden op te geven.",
+        "is_correct": false,
+        "feedback_fa": "متن یک دلیل پزشکی الزامی می‌داند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Arbeidscontract: «Tijdens de proeftijd van één maand kunnen beide partijen de arbeidsovereenkomst zonder opgaaf van reden per direct beëindigen.»  Wat klopt volgens deze regel?",
+    "question_text_fa": "طبق این قانون کدام گزینه درست است؟",
+    "explanation_fa": "در دوره‌ی آزمایشی هر دو طرف می‌توانند بدون ذکر دلیل و فوراً قرارداد را فسخ کنند.",
+    "grammar_rule_fa": "«beide partijen» یعنی هم کارفرما هم کارمند، نه فقط یکی.",
+    "extra_example_nl": "De werkgever heeft het contract tijdens de proeftijd per direct beëindigd.",
+    "extra_example_fa": "کارفرما قرارداد را در دوره‌ی آزمایشی فوراً فسخ کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen de werkgever mag tijdens de proeftijd stoppen.",
+        "is_correct": false,
+        "feedback_fa": "«beide partijen» یعنی هر دو طرف، نه فقط کارفرما."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zowel de werkgever als de werknemer mag tijdens de proeftijd direct stoppen, zonder reden te geven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Stoppen mag alleen met een opzegtermijn van één maand.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «per direct»، یعنی فوری، نه با فاصله."
+      },
+      {
+        "key": "D",
+        "text_nl": "De werknemer moet altijd een reden geven om te stoppen.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «zonder opgaaf van reden» یعنی نیازی به دلیل نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "telecom",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Contract telefoonabonnement: «Dit abonnement wordt na de looptijd van één jaar automatisch verlengd, tenzij u minimaal één maand van tevoren schriftelijk opzegt.»  Wat gebeurt er als de klant niets doet?",
+    "question_text_fa": "اگر مشتری هیچ کاری نکند چه اتفاقی می‌افتد؟",
+    "explanation_fa": "اگر مشتری کاری نکند و کتبی فسخ نکند، قرارداد به‌طور خودکار تمدید می‌شود.",
+    "grammar_rule_fa": "«tenzij» یعنی «مگر اینکه»؛ شرط استثناء را نشان می‌دهد.",
+    "extra_example_nl": "Het abonnement stopt niet, tenzij je het op tijd opzegt.",
+    "extra_example_fa": "اشتراک متوقف نمی‌شود، مگر اینکه به‌موقع فسخش کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het abonnement stopt automatisch.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنی متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het abonnement wordt tijdelijk gepauzeerd.",
+        "is_correct": false,
+        "feedback_fa": "متن درباره‌ی توقف موقت صحبت نمی‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "De klant krijgt een boete voor niets doen.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی جریمه چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het abonnement wordt automatisch verlengd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ عدم اقدام یعنی تمدید خودکار."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "energy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Energiecontract: «U betaalt het eerste jaar een vast tarief. Daarna gaat u automatisch over op het variabele tarief van dat moment.»  Wat verandert er na het eerste jaar?",
+    "question_text_fa": "بعد از سال اول چه چیزی تغییر می‌کند؟",
+    "explanation_fa": "بعد از سال اول، نرخ ثابت تبدیل به نرخ متغیر روز می‌شود.",
+    "grammar_rule_fa": "«automatisch overgaan op …» یعنی تغییر خودکار بدون اقدام مشتری.",
+    "extra_example_nl": "Na het eerste jaar betaal je het variabele tarief.",
+    "extra_example_fa": "بعد از سال اول، نرخ متغیر پرداخت می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het contract stopt automatisch na één jaar.",
+        "is_correct": false,
+        "feedback_fa": "متن درباره‌ی توقف قرارداد چیزی نگفته."
+      },
+      {
+        "key": "B",
+        "text_nl": "De klant moet zelf een nieuw tarief kiezen.",
+        "is_correct": false,
+        "feedback_fa": "تغییر خودکار است، نیازی به انتخاب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De klant krijgt automatisch het variabele tarief.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De klant blijft altijd op het vaste tarief.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید فقط سال اول ثابت است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "car_rental",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Contract autoverhuur: «Schade aan de auto die het eigen risico van 500 euro overschrijdt, komt volledig voor rekening van de huurder.»  Wie betaalt bij schade van 800 euro?",
+    "question_text_fa": "اگر خسارت ۸۰۰ یورو باشد چه کسی باید پرداخت کند؟",
+    "explanation_fa": "چون خسارت از سقف ۵۰۰ یورویی بیشتر است، تمام هزینه به عهده‌ی اجاره‌کننده است.",
+    "grammar_rule_fa": "«volledig voor rekening van …» یعنی تمام هزینه بر عهده‌ی آن شخص است.",
+    "extra_example_nl": "De schade komt voor rekening van de huurder.",
+    "extra_example_fa": "خسارت بر عهده‌ی اجاره‌کننده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De huurder betaalt de volledige 800 euro zelf.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ چون از سقف بیشتر است، همه بر عهده‌ی مستأجر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kosten worden gelijk verdeeld.",
+        "is_correct": false,
+        "feedback_fa": "چنین تقسیمی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De verhuurmaatschappij betaalt alles.",
+        "is_correct": false,
+        "feedback_fa": "خلاف متن است؛ خسارت بر عهده‌ی huurder است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huurder betaalt alleen de eerste 500 euro.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید تمامِ خسارت، نه فقط ۵۰۰ یورو."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Cursuscontract: «Na de startdatum van de cursus is terugbetaling van het cursusgeld niet meer mogelijk, ook niet bij annulering door de deelnemer.»  Iemand annuleert twee dagen na de start. Wat gebeurt er?",
+    "question_text_fa": "کسی دو روز بعد از شروع دوره را کنسل می‌کند؛ چه اتفاقی می‌افتد؟",
+    "explanation_fa": "چون بعد از شروع کنسل کرده، طبق متن هیچ بازپرداختی صورت نمی‌گیرد.",
+    "grammar_rule_fa": "«ook niet bij …» تأکیدی است که استثنایی وجود ندارد.",
+    "extra_example_nl": "Zij annuleerde te laat en kreeg geen geld terug.",
+    "extra_example_fa": "او دیر کنسل کرد و پولش را پس نگرفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij krijgt geen cursusgeld terug.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن هیچ استثنایی برای این حالت نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij mag de cursus gratis opnieuw volgen.",
+        "is_correct": false,
+        "feedback_fa": "چنین امکانی در متن ذکر نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij krijgt al het geld terug, omdat hij snel annuleerde.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید پس از شروع، بازپرداختی نیست، مهم نیست چقدر سریع."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij krijgt de helft van het geld terug.",
+        "is_correct": false,
+        "feedback_fa": "چنین بازپرداخت نصفی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "insurance",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Verzekeringspolis: «Bij elke schademelding geldt een eigen risico van 200 euro, ongeacht de hoogte van de schade.»  Wat betaalt de verzekerde bij een schade van 150 euro?",
+    "question_text_fa": "اگر خسارت ۱۵۰ یورو باشد، بیمه‌شده چقدر می‌پردازد؟",
+    "explanation_fa": "چون خسارت از سقف فرانشیز ۲۰۰ یورویی کمتر است، بیمه‌شده باید کل مبلغ ۱۵۰ یورو را خودش بپردازد.",
+    "grammar_rule_fa": "«ongeacht de hoogte» یعنی صرف‌نظر از میزان مبلغ، قانون همیشه یکسان است.",
+    "extra_example_nl": "Bij kleine schade betaalt hij alles zelf, want het is minder dan het eigen risico.",
+    "extra_example_fa": "در خسارت کوچک، همه را خودش می‌پردازد چون کمتر از فرانشیز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kosten worden gedeeld tussen hem en de verzekering.",
+        "is_correct": false,
+        "feedback_fa": "چنین تقسیمی در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij betaalt de volledige 150 euro zelf.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ چون کمتر از فرانشیز ۲۰۰ یورویی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij betaalt 200 euro en krijgt geld terug.",
+        "is_correct": false,
+        "feedback_fa": "خسارت کمتر از فرانشیز است، پس این محاسبه اشتباه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De verzekering betaalt alles.",
+        "is_correct": false,
+        "feedback_fa": "خلاف قانونِ eigen risico است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "telecom",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Contract internet: «Bij opzegging binnen de eerste zes maanden worden de installatiekosten van 75 euro alsnog in rekening gebracht.»  Iemand zegt op na vier maanden. Wat gebeurt er?",
+    "question_text_fa": "کسی بعد از چهار ماه اشتراک را فسخ می‌کند؛ چه اتفاقی می‌افتد؟",
+    "explanation_fa": "چون فسخ در ماه چهارم و پیش از شش‌ماهه است، هزینه‌ی نصب ۷۵ یورویی باید پرداخت شود.",
+    "grammar_rule_fa": "«alsnog in rekening brengen» یعنی باز هم باید پرداخت شود، هرچند قبلاً رایگان به‌نظر می‌رسید.",
+    "extra_example_nl": "Omdat hij te vroeg opzegde, moest hij alsnog betalen.",
+    "extra_example_fa": "چون خیلی زود فسخ کرد، بازهم باید پرداخت می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij hoeft niets te betalen, want de installatie was gratis.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید در این بازه هزینه باز هم گرفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij moet de 75 euro installatiekosten alsnog betalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فسخ در چهار ماه هنوز داخل بازه‌ی شش‌ماهه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij moet dubbele installatiekosten betalen.",
+        "is_correct": false,
+        "feedback_fa": "مبلغ دوبرابر در متن ذکر نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij krijgt korting op de laatste maand.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی تخفیف چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "consumer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Garantiebewijs wasmachine: «De garantie vervalt bij schade door verkeerd gebruik of eigen reparatiepogingen.»  Een klant probeert zelf de machine te repareren en er ontstaat schade. Heeft hij nog garantie?",
+    "question_text_fa": "مشتری خودش دستگاه را تعمیر می‌کند و خرابی رخ می‌دهد؛ آیا هنوز گارانتی دارد؟",
+    "explanation_fa": "چون خودش تلاش برای تعمیر کرده، طبق متن گارانتی باطل می‌شود.",
+    "grammar_rule_fa": "«vervalt bij …» یعنی در آن شرایط از بین می‌رود.",
+    "extra_example_nl": "De garantie vervalt als je het apparaat zelf openmaakt.",
+    "extra_example_fa": "اگر خودت دستگاه را باز کنی، گارانتی از بین می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, want de garantieperiode is al voorbij.",
+        "is_correct": false,
+        "feedback_fa": "دلیلِ متن ربطی به پایان مدت زمان ندارد، بلکه به تعمیر خودسرانه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, de garantie is vervallen door zijn eigen reparatiepoging.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً یکی از شرایطِ باطل شدن گارانتی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, maar alleen voor de motor van de machine.",
+        "is_correct": false,
+        "feedback_fa": "چنین تفکیکی در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, garantie geldt altijd, ongeacht wat de klant doet.",
+        "is_correct": false,
+        "feedback_fa": "متن استثنای واضحی برای این حالت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurcontract: «De borg wordt binnen dertig dagen na afloop van de huurovereenkomst teruggestort, mits de woning zonder schade wordt achtergelaten.»  De woning heeft schade bij vertrek. Wat gebeurt er met de borg?",
+    "question_text_fa": "اگر خانه هنگام تخلیه آسیب داشته باشد چه اتفاقی برای ودیعه می‌افتد؟",
+    "explanation_fa": "چون شرط «بدون آسیب» برآورده نشده، ودیعه به‌طور کامل و خودکار در ۳۰ روز بازگردانده نمی‌شود.",
+    "grammar_rule_fa": "«mits» یعنی «به‌شرط اینکه»؛ اگر شرط برآورده نشود، نتیجه فرق می‌کند.",
+    "extra_example_nl": "De borg wordt niet volledig teruggestort, want er was schade.",
+    "extra_example_fa": "چون آسیب وجود داشت، ودیعه کامل بازگردانده نشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De huurder krijgt dubbele borg terug.",
+        "is_correct": false,
+        "feedback_fa": "چیزی درباره‌ی مبلغ دوبرابر گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De borg wordt niet automatisch volledig teruggestort.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شرط بدون‌آسیب برآورده نشده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De borg wordt sowieso binnen dertig dagen volledig teruggestort.",
+        "is_correct": false,
+        "feedback_fa": "این فقط وقتی صادق است که خانه بدون آسیب باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De borg gaat automatisch naar de volgende huurder.",
+        "is_correct": false,
+        "feedback_fa": "این موضوع در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Arbeidscontract: «Overwerk wordt alleen vergoed als dit vooraf schriftelijk is goedgekeurd door de leidinggevende.»  Een werknemer werkt over zonder toestemming te vragen. Krijgt hij betaald?",
+    "question_text_fa": "کارمندی بدون اجازه اضافه‌کاری می‌کند؛ آیا دستمزد می‌گیرد؟",
+    "explanation_fa": "چون از قبل تأییدیه‌ی کتبی مدیر نگرفته، طبق قرارداد اضافه‌کاری‌اش پرداخت نمی‌شود.",
+    "grammar_rule_fa": "«vooraf goedgekeurd» یعنی تأیید باید پیش از انجام کار باشد، نه بعد از آن.",
+    "extra_example_nl": "Zonder vooraf toestemming krijg je het overwerk niet uitbetaald.",
+    "extra_example_fa": "بدون اجازه‌ی قبلی، اضافه‌کاری پرداخت نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, want overwerk is bij deze werkgever helemaal niet toegestaan.",
+        "is_correct": false,
+        "feedback_fa": "متن نمی‌گوید اضافه‌کاری ممنوع است، فقط شرط تأیید دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, overwerk wordt altijd automatisch uitbetaald.",
+        "is_correct": false,
+        "feedback_fa": "خلاف شرط صریح متن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, maar hij moet dit achteraf per e-mail melden.",
+        "is_correct": false,
+        "feedback_fa": "متن تأیید پیشین را الزامی می‌داند، نه گزارش بعدی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, want hij had geen vooraf goedkeuring.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شرط اصلی برآورده نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "sport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Contract sportschool: «Het lidmaatschap kan op elk moment worden opgezegd, met een opzegtermijn van twee maanden.»  Iemand zegt op 1 juni op. Wanneer stopt het lidmaatschap?",
+    "question_text_fa": "اگر کسی اول ژوئن عضویت را فسخ کند، عضویت چه زمانی متوقف می‌شود؟",
+    "explanation_fa": "چون فاصله‌ی فسخ دو ماه است، عضویت از اول اوت (دو ماه بعد از ژوئن) متوقف می‌شود.",
+    "grammar_rule_fa": "«opzegtermijn van twee maanden» یعنی باید دو ماه پس از اعلام صبر کرد.",
+    "extra_example_nl": "Bij opzegging op 1 juni stopt het lidmaatschap op 1 augustus.",
+    "extra_example_fa": "با فسخ در اول ژوئن، عضویت از اول اوت متوقف می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meteen op 1 juni.",
+        "is_correct": false,
+        "feedback_fa": "با opzegtermijn دو ماهه سازگار نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op 1 juli.",
+        "is_correct": false,
+        "feedback_fa": "این فقط یک ماه است، نه دو ماه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Op 1 september.",
+        "is_correct": false,
+        "feedback_fa": "این سه ماه بعد است، نه دو ماه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op 1 augustus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دو ماه بعد از ۱ ژوئن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Contract parkeervergunning: «Parkeren zonder geldige vergunning wordt bestraft met een boete van 60 euro per overtreding.»  Iemand parkeert drie keer zonder vergunning. Hoeveel boete krijgt hij?",
+    "question_text_fa": "کسی سه بار بدون مجوز پارک می‌کند؛ چقدر جریمه می‌شود؟",
+    "explanation_fa": "چون جریمه برای هر بار تخلف جداگانه است، در سه تخلف باید ۱۸۰ یورو (۳×۶۰) پرداخت شود.",
+    "grammar_rule_fa": "«per overtreding» یعنی به‌ازای هر بار، نه یک‌بار برای همیشه.",
+    "extra_example_nl": "Bij twee overtredingen betaalt hij 120 euro.",
+    "extra_example_fa": "در دو تخلف، ۱۲۰ یورو پرداخت می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "60 euro in totaal, ongeacht het aantal keer.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید هر بار جداگانه، نه یک‌بار برای همیشه."
+      },
+      {
+        "key": "B",
+        "text_nl": "120 euro, want de eerste keer is gratis.",
+        "is_correct": false,
+        "feedback_fa": "چنین معافیتی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "180 euro, want het is per overtreding.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سه تخلف در سه ۶۰ یورو."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen boete, want hij wist het niet.",
+        "is_correct": false,
+        "feedback_fa": "ندانستن باعث معافیت نمی‌شود؛ متن شرطی برای این نگذاشته."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "car_lease",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Leasecontract auto: «Onderhoud en reparaties zijn inbegrepen in het leasebedrag. Brandstofkosten zijn voor eigen rekening van de bestuurder.»  Wat moet de bestuurder zelf betalen?",
+    "question_text_fa": "راننده باید چه چیزی را خودش پرداخت کند؟",
+    "explanation_fa": "طبق متن، تعمیر و نگهداری در قیمت لیز است، اما بنزین را خود راننده باید بپردازد.",
+    "grammar_rule_fa": "«voor eigen rekening» یعنی خرج آن به عهده‌ی خود شخص است.",
+    "extra_example_nl": "De benzine betaalt hij zelf, het onderhoud niet.",
+    "extra_example_fa": "بنزین را خودش می‌پردازد، ولی هزینه‌ی نگهداری نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zowel onderhoud als brandstof.",
+        "is_correct": false,
+        "feedback_fa": "نگهداری شامل قیمت لیز است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen de reparatiekosten.",
+        "is_correct": false,
+        "feedback_fa": "تعمیرات جزو قیمت لیز است، نه هزینه‌ی جداگانه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen de brandstofkosten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط سوخت بر عهده‌ی راننده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets; alles is inbegrepen.",
+        "is_correct": false,
+        "feedback_fa": "بنزین جزو قیمت لیز نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Cursuscontract: «Bij ziekte kan de deelnemer de cursusdag één keer kosteloos verzetten, mits dit minstens 24 uur van tevoren wordt gemeld.»  Iemand meldt zich twee uur van tevoren ziek. Kan hij gratis verzetten?",
+    "question_text_fa": "کسی دو ساعت قبل اعلام بیماری می‌کند؛ آیا می‌تواند رایگان جابه‌جا کند؟",
+    "explanation_fa": "چون اعلام کمتر از ۲۴ ساعت پیش بوده، شرط زمانی برآورده نشده و جابه‌جایی رایگان امکان‌پذیر نیست.",
+    "grammar_rule_fa": "«mits» شرطِ لازم را نشان می‌دهد؛ بدون آن، نتیجه فرق می‌کند.",
+    "extra_example_nl": "Omdat hij te laat meldde, kon hij niet gratis verzetten.",
+    "extra_example_fa": "چون دیر اعلام کرد، نتوانست رایگان جابه‌جا کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, maar hij moet extra betalen.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی پرداخت اضافه چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, ziekte is altijd een geldige reden, ongeacht de tijd.",
+        "is_correct": false,
+        "feedback_fa": "متن شرط زمانی مشخصی دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, want ziekte is geen geldige reden bij deze cursus.",
+        "is_correct": false,
+        "feedback_fa": "بیماری دلیل معتبری است، فقط زمان اعلام مهم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, want hij heeft het niet 24 uur van tevoren gemeld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شرط زمانی رعایت نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "insurance",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Reisverzekering: «Annuleringskosten worden alleen vergoed als de reden voor annulering medisch is en met een doktersverklaring wordt aangetoond.»  Iemand annuleert de reis omdat hij het werk te druk vindt. Krijgt hij zijn geld terug?",
+    "question_text_fa": "اگر کسی به دلیل شلوغی کاری سفر را کنسل کند، آیا پولش را پس می‌گیرد؟",
+    "explanation_fa": "چون دلیل کنسلی پزشکی نیست، طبق شرایط بیمه هزینه‌ی کنسلی پرداخت نمی‌شود.",
+    "grammar_rule_fa": "«alleen als …» یعنی این تنها شرط پذیرفته‌شده است؛ دلایل دیگر شامل نمی‌شوند.",
+    "extra_example_nl": "Zonder doktersverklaring krijgt hij niets terug.",
+    "extra_example_fa": "بدون گواهی پزشک، چیزی پس نمی‌گیرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, want drukte op het werk is geen medische reden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط دلیل پزشکی پذیرفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, als hij dit schriftelijk uitlegt aan zijn werkgever.",
+        "is_correct": false,
+        "feedback_fa": "باید گواهی پزشک باشد، نه توضیح به کارفرما."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij krijgt de helft van het bedrag terug.",
+        "is_correct": false,
+        "feedback_fa": "چنین بازپرداخت نصفی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, elke reden voor annulering wordt vergoed.",
+        "is_correct": false,
+        "feedback_fa": "متن یک شرط سخت‌گیرانه دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "telecom",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Telefoonabonnement: «Bij overschrijding van de databundel worden extra kosten van 2 euro per gigabyte in rekening gebracht.»  Iemand gebruikt 3 GB meer dan zijn bundel. Wat betaalt hij extra?",
+    "question_text_fa": "کسی ۳ گیگابایت بیشتر از بسته‌اش مصرف می‌کند؛ چقدر اضافه پرداخت می‌کند؟",
+    "explanation_fa": "چون هر گیگابایت اضافه ۲ یورو هزینه دارد، برای ۳ گیگابایت باید ۶ یورو پرداخت شود.",
+    "grammar_rule_fa": "«per gigabyte» یعنی به‌ازای هر واحد، پس باید ضرب شود.",
+    "extra_example_nl": "Bij 1 GB extra betaalt hij 2 euro.",
+    "extra_example_fa": "برای ۱ گیگابایت اضافه، ۲ یورو می‌پردازد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "10 euro extra.",
+        "is_correct": false,
+        "feedback_fa": "محاسبه اشتباه است؛ باید ۳ در ۲ ضرب شود، نه ۵."
+      },
+      {
+        "key": "B",
+        "text_nl": "6 euro extra.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ۳ گیگابایت × ۲ یورو."
+      },
+      {
+        "key": "C",
+        "text_nl": "2 euro extra, ongeacht het aantal gigabytes.",
+        "is_correct": false,
+        "feedback_fa": "هزینه به‌ازای هر گیگابایت است، نه یک‌بار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets, de eerste 3 GB extra zijn gratis.",
+        "is_correct": false,
+        "feedback_fa": "چنین معافیتی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurcontract: «Huisdieren zijn alleen toegestaan met schriftelijke toestemming van de verhuurder, vooraf gegeven.»  Een huurder haalt een hond zonder iets te vragen. Wat is het geval volgens het contract?",
+    "question_text_fa": "مستأجری بدون اجازه سگ می‌آورد؛ طبق قرارداد وضعیت چیست؟",
+    "explanation_fa": "چون اجازه‌ی کتبی از موجر پیش از آن گرفته نشده، این کار مطابق قرارداد مجاز نیست.",
+    "grammar_rule_fa": "«vooraf gegeven» یعنی اجازه باید پیش از عمل گرفته شود.",
+    "extra_example_nl": "Zonder schriftelijke toestemming mag hij geen huisdier houden.",
+    "extra_example_fa": "بدون اجازه‌ی کتبی، نمی‌تواند حیوان خانگی نگه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit mag, als hij het mondeling aan de buren vertelt.",
+        "is_correct": false,
+        "feedback_fa": "اجازه باید از موجر باشد، نه همسایه‌ها."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit mag pas na een jaar wonen in de woning.",
+        "is_correct": false,
+        "feedback_fa": "چنین شرط زمانی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit mag niet, want hij heeft geen schriftelijke toestemming gevraagd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شرط لازم رعایت نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit mag, want honden zijn altijd toegestaan.",
+        "is_correct": false,
+        "feedback_fa": "خلاف متن است؛ نیاز به اجازه‌ی کتبی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Arbeidscontract: «Niet-opgenomen vakantiedagen vervallen zes maanden na het einde van het kalenderjaar waarin ze zijn opgebouwd.»  Vakantiedagen van 2025 vervallen wanneer?",
+    "question_text_fa": "روزهای مرخصیِ سال ۲۰۲۵ چه زمانی از بین می‌روند؟",
+    "explanation_fa": "چون شش ماه پس از پایان سال ۲۰۲۵ محاسبه می‌شود، این روزها در اول ژوئیه‌ی ۲۰۲۶ باطل می‌شوند.",
+    "grammar_rule_fa": "«zes maanden na het einde van het kalenderjaar» یعنی از اول ژانویه‌ی سال بعد شش ماه بشمار.",
+    "extra_example_nl": "Vakantiedagen van 2024 vervielen op 1 juli 2025.",
+    "extra_example_fa": "روزهای مرخصی ۲۰۲۴ در اول ژوئیه‌ی ۲۰۲۵ باطل شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op 1 juli 2026.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شش ماه بعد از پایان ۲۰۲۵."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op 31 december 2025.",
+        "is_correct": false,
+        "feedback_fa": "این پایان سال است، نه شش ماه بعد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Op 1 juli 2025.",
+        "is_correct": false,
+        "feedback_fa": "این هنوز داخل همان سال است، قانون از پایان سال حساب می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op 1 januari 2026.",
+        "is_correct": false,
+        "feedback_fa": "این شروع سال بعد است، نه شش ماه بعد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "energy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Energiecontract: «Bij een te late betaling wordt eenmalig een boete van 15 euro in rekening gebracht, plus de wettelijke rente per dag.»  Wat gebeurt er als een klant te laat betaalt?",
+    "question_text_fa": "اگر مشتری دیر پرداخت کند چه اتفاقی می‌افتد؟",
+    "explanation_fa": "او هم جریمه‌ی یک‌باره‌ی ۱۵ یورویی و هم بهره‌ی روزانه‌ی قانونی را باید پرداخت کند.",
+    "grammar_rule_fa": "«eenmalig» یعنی فقط یک‌بار، اما «plus» نشان می‌دهد چیز دیگری هم اضافه می‌شود.",
+    "extra_example_nl": "Naast de boete betaalt hij ook rente per dag.",
+    "extra_example_fa": "علاوه بر جریمه، بهره‌ی روزانه هم می‌پردازد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij betaalt alleen 15 euro boete, verder niets.",
+        "is_correct": false,
+        "feedback_fa": "بهره‌ی روزانه هم اضافه می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij betaalt niets zolang het bedrag klein is.",
+        "is_correct": false,
+        "feedback_fa": "چنین استثنایی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij betaalt 15 euro boete én dagelijkse rente.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ هر دو با هم اعمال می‌شوند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij betaalt alleen dagelijkse rente, geen boete.",
+        "is_correct": false,
+        "feedback_fa": "جریمه‌ی ۱۵ یورویی هم اعمال می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Studiecontract: «Het collegegeld moet volledig zijn betaald vóór 1 september. Bij te late betaling wordt de inschrijving opgeschort.»  Iemand betaalt op 3 september. Wat is het gevolg?",
+    "question_text_fa": "اگر کسی سوم سپتامبر پرداخت کند چه اتفاقی می‌افتد؟",
+    "explanation_fa": "چون بعد از اول سپتامبر پرداخت کرده، ثبت‌نامش به‌طور موقت متوقف می‌شود.",
+    "grammar_rule_fa": "«opschorten» یعنی متوقف کردن موقت، نه لغو کامل.",
+    "extra_example_nl": "Bij te late betaling wordt zijn inschrijving tijdelijk stopgezet.",
+    "extra_example_fa": "با پرداخت دیرهنگام، ثبت‌نامش موقتاً متوقف می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij krijgt automatisch uitstel tot 1 oktober.",
+        "is_correct": false,
+        "feedback_fa": "چنین مهلت خودکاری در متن ذکر نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zijn inschrijving wordt definitief geannuleerd.",
+        "is_correct": false,
+        "feedback_fa": "«opgeschort» یعنی موقت، نه لغو دائمی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er gebeurt niets, want twee dagen te laat is geen probleem.",
+        "is_correct": false,
+        "feedback_fa": "متن هیچ مهلتِ اضافه‌ای اجازه نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zijn inschrijving wordt opgeschort.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً پیامد ذکرشده در متن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Huurcontract: «Kleine reparaties tot een bedrag van 100 euro zijn voor rekening van de huurder, grotere reparaties voor de verhuurder.»  Wie betaalt een reparatie van 250 euro?",
+    "question_text_fa": "چه کسی هزینه‌ی تعمیر ۲۵۰ یورویی را می‌پردازد؟",
+    "explanation_fa": "چون مبلغ از سقف ۱۰۰ یورویی بیشتر است، تعمیر بزرگ محسوب می‌شود و بر عهده‌ی موجر است.",
+    "grammar_rule_fa": "«tot een bedrag van …» سقف مبلغ را مشخص می‌کند؛ بالاتر از آن قانون دیگری اعمال می‌شود.",
+    "extra_example_nl": "Een reparatie van 300 euro is voor de verhuurder.",
+    "extra_example_fa": "تعمیر ۳۰۰ یورویی بر عهده‌ی موجر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De verhuurder, want het bedrag is hoger dan 100 euro.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ چون بالاتر از سقف کوچک است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De huurder betaalt de eerste 100 euro, de rest blijft onbetaald.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید تعمیر بزرگ کامل بر عهده‌ی موجر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De huurder, want alle reparaties zijn voor de huurder.",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای تعمیرات کوچک صادق است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beiden betalen elk 125 euro.",
+        "is_correct": false,
+        "feedback_fa": "چنین تقسیمی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "insurance",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Autoverzekering: «Schade veroorzaakt door eigen schuld, zoals rijden onder invloed, wordt niet vergoed door de verzekering.»  Iemand veroorzaakt schade terwijl hij te veel alcohol heeft gedronken. Wordt dit vergoed?",
+    "question_text_fa": "کسی در حالت مستی خسارت وارد می‌کند؛ آیا بیمه پرداخت می‌کند؟",
+    "explanation_fa": "چون رانندگی در حالت مستی به‌عنوان تقصیر شخصی ذکر شده، بیمه این خسارت را پوشش نمی‌دهد.",
+    "grammar_rule_fa": "«zoals» مثال می‌دهد؛ رانندگی مست دقیقاً همان نمونه‌ی ذکرشده است.",
+    "extra_example_nl": "Bij rijden onder invloed betaalt de verzekering niets.",
+    "extra_example_fa": "در رانندگی حین مستی، بیمه چیزی پرداخت نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, alle schade wordt altijd vergoed.",
+        "is_correct": false,
+        "feedback_fa": "متن یک استثنای صریح دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, maar hij moet een boete betalen aan de verzekering.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی جریمه به بیمه چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen de schade aan andermans auto wordt vergoed.",
+        "is_correct": false,
+        "feedback_fa": "متن چنین تفکیکی نمی‌کند؛ به‌طور کلی خسارتِ ناشیِ از تقصیر پوشش داده نمی‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, deze schade wordt niet vergoed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نمونه‌ی ذکرشده در متن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "consumer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Abonnement streamingdienst: «De eerste maand is gratis. Daarna wordt het abonnementsgeld automatisch van uw rekening afgeschreven, tenzij u binnen de proefperiode opzegt.»  Wat gebeurt er als iemand niets doet tijdens de proefmaand?",
+    "question_text_fa": "اگر کسی در ماه آزمایشی هیچ کاری نکند چه اتفاقی می‌افتد؟",
+    "explanation_fa": "اگر در دوره‌ی آزمایشی فسخ نکند، از ماه دوم به‌طور خودکار پول از حسابش کسر می‌شود.",
+    "grammar_rule_fa": "«tenzij» شرط استثنا را نشان می‌دهد؛ بدون اقدام، حالت پیش‌فرض اجرا می‌شود.",
+    "extra_example_nl": "Zonder opzegging wordt het geld automatisch afgeschreven.",
+    "extra_example_fa": "بدون فسخ، پول به‌طور خودکار کسر می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het abonnementsgeld wordt vanaf de tweede maand automatisch afgeschreven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ عدم اقدام یعنی پرداخت خودکار."
+      },
+      {
+        "key": "B",
+        "text_nl": "De gebruiker krijgt een herinnering en moet dan zelf betalen.",
+        "is_correct": false,
+        "feedback_fa": "پرداخت خودکار است، نیازی به یادآوری یا اقدام دستی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het abonnement stopt automatisch na de gratis maand.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنی متن است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De eerste maand wordt met terugwerkende kracht in rekening gebracht.",
+        "is_correct": false,
+        "feedback_fa": "ماه اول رایگان اعلام شده و چنین چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Arbeidscontract: «Na een dienstverband van twaalf maanden wordt dit tijdelijke contract automatisch omgezet in een vast contract, tenzij de werkgever uiterlijk één maand van tevoren schriftelijk anders aangeeft.»  De werkgever doet niets. Wat gebeurt er na twaalf maanden?",
+    "question_text_fa": "اگر کارفرما هیچ کاری نکند، بعد از ۱۲ ماه چه اتفاقی می‌افتد؟",
+    "explanation_fa": "چون کارفرما اقدام کتبی نکرده، قرارداد به‌طور خودکار به قرارداد دائم تبدیل می‌شود.",
+    "grammar_rule_fa": "«tenzij … anders aangeeft» یعنی فقط با اقدام صریح می‌توان نتیجه‌ی پیش‌فرض را تغییر داد.",
+    "extra_example_nl": "Zonder tegenbericht wordt het contract vast.",
+    "extra_example_fa": "بدون اطلاعیه‌ی مخالف، قرارداد دائم می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De werknemer moet zelf een verzoek indienen voor een vast contract.",
+        "is_correct": false,
+        "feedback_fa": "تبدیل خودکار است، نیازی به درخواست کارمند نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het contract wordt automatisch een vast contract.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سکوت کارفرما یعنی تبدیل خودکار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het contract stopt automatisch na twaalf maanden.",
+        "is_correct": false,
+        "feedback_fa": "خلاف متن است؛ متن درباره‌ی توقف نیست، بلکه تبدیل به دائم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het contract wordt verlengd met nog twaalf maanden tijdelijk werk.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید دائم می‌شود، نه تمدید موقت."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huurcontract: «Onderverhuur van de woning, geheel of gedeeltelijk, is niet toegestaan zonder voorafgaande schriftelijke toestemming van de verhuurder.»  Een huurder verhuurt één kamer aan een vriend zonder iets te vragen. Mag dit volgens het contract?",
+    "question_text_fa": "مستأجری بدون پرسیدن یک اتاق را به دوستش اجاره می‌دهد؛ آیا طبق قرارداد مجاز است؟",
+    "explanation_fa": "چون «geheel of gedeeltelijk» را شامل می‌شود، اجاره‌ی حتی یک اتاق هم بدون اجازه‌ی کتبی موجر ممنوع است.",
+    "grammar_rule_fa": "«geheel of gedeeltelijk» یعنی چه کل خانه چه بخشی از آن، هر دو مشمول قانون‌اند.",
+    "extra_example_nl": "Ook één kamer onderverhuren mag niet zonder toestemming.",
+    "extra_example_fa": "حتی اجاره‌ی یک اتاق هم بدون اجازه ممنوع است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, zolang de vriend geen huur betaalt.",
+        "is_correct": false,
+        "feedback_fa": "این شرط در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, want het is maar één kamer, niet de hele woning.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «geheel of gedeeltelijk»، پس بخشی هم شامل است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, onderverhuur is nooit toegestaan, met of zonder toestemming.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید با اجازه‌ی کتبی ممکن است، پس همیشه ممنوع نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, ook een deel van de woning onderverhuren mag niet zonder toestemming.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن هر دو حالت را پوشش می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Cursuscontract: «Bij minder dan vijf aanmeldingen gaat de cursus niet door en wordt het cursusgeld volledig terugbetaald.»  Er zijn vier aanmeldingen. Wat gebeurt er?",
+    "question_text_fa": "اگر فقط چهار نفر ثبت‌نام کرده باشند، چه اتفاقی می‌افتد؟",
+    "explanation_fa": "چون تعداد ثبت‌نام‌کنندگان کمتر از پنج نفر است، دوره برگزار نمی‌شود و پول به‌طور کامل بازگردانده می‌شود.",
+    "grammar_rule_fa": "«minder dan vijf» یعنی کمتر از ۵، پس چهار نفر هم شامل می‌شود.",
+    "extra_example_nl": "Met vier deelnemers gaat de cursus niet door.",
+    "extra_example_fa": "با چهار شرکت‌کننده، دوره برگزار نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De cursus gaat niet door en het geld wordt teruggestort.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ چهار کمتر از پنج است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De deelnemers moeten extra betalen om door te laten gaan.",
+        "is_correct": false,
+        "feedback_fa": "چنین گزینه‌ای در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De cursus gaat door, want vier is bijna vijf.",
+        "is_correct": false,
+        "feedback_fa": "قانون دقیق است: کمتر از پنج یعنی لغو، نزدیک بودن اهمیتی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De cursus gaat wel door, maar met minder lesuren.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید در این شرایط دوره اصلاً برگزار نمی‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Zorgverzekering: «Fysiotherapie wordt alleen vergoed als er een verwijzing van de huisarts aanwezig is, behalve bij de eerste twintig behandelingen per kalenderjaar.»  Iemand gaat voor de tiende keer dit jaar naar de fysiotherapeut, zonder verwijzing. Wordt dit vergoed?",
+    "question_text_fa": "کسی برای دهمین بار در همین سال بدون معرفی‌نامه به فیزیوتراپ می‌رود؛ آیا هزینه پرداخت می‌شود؟",
+    "explanation_fa": "چون این بار دهم است و کمتر از بیست جلسه‌ی اول است، طبق استثنا نیازی به معرفی‌نامه نیست و پوشش داده می‌شود.",
+    "grammar_rule_fa": "«behalve» یک استثنا معرفی می‌کند که قانون اصلی را تغییر می‌دهد.",
+    "extra_example_nl": "De eerste twintig behandelingen zijn ook zonder verwijzing gedekt.",
+    "extra_example_fa": "بیست جلسه‌ی اول حتی بدون معرفی‌نامه هم پوشش داده می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, want het valt binnen de eerste twintig behandelingen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ استثنای بیست جلسه‌ی اول شاملش می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, want er is geen verwijzing van de huisarts.",
+        "is_correct": false,
+        "feedback_fa": "این قانون فقط بعد از بیست جلسه اعمال می‌شود، نه از همان ابتدا."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, maar hij moet de helft van de kosten zelf betalen.",
+        "is_correct": false,
+        "feedback_fa": "چنین تقسیم هزینه‌ای در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, fysiotherapie wordt nooit vergoed zonder verwijzing.",
+        "is_correct": false,
+        "feedback_fa": "متن یک استثنای صریح دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "contract_excerpt",
+    "life_context": "telecom",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Contract internetleverancier: «Bij verhuizing binnen het dekkingsgebied kan het abonnement kosteloos worden meegenomen naar het nieuwe adres.»  Iemand verhuist naar een adres buiten het dekkingsgebied. Kan hij het abonnement gratis meenemen?",
+    "question_text_fa": "کسی به آدرسی خارج از منطقه‌ی پوشش نقل مکان می‌کند؛ آیا می‌تواند اشتراک را رایگان منتقل کند؟",
+    "explanation_fa": "چون آدرس جدید خارج از منطقه‌ی پوشش است، شرط متن برآورده نشده و انتقال رایگان تضمین نمی‌شود.",
+    "grammar_rule_fa": "«binnen het dekkingsgebied» شرط مکانی است؛ خارج از آن، قانون دیگری صدق می‌کند.",
+    "extra_example_nl": "Buiten het dekkingsgebied gelden andere voorwaarden.",
+    "extra_example_fa": "خارج از منطقه‌ی پوشش، شرایط دیگری اعمال می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, verhuizen met internet is nooit mogelijk.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید در همان منطقه ممکن و رایگان است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, verhuizen is altijd gratis, overal in Nederland.",
+        "is_correct": false,
+        "feedback_fa": "متن شرط مکانی مشخصی دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niet zeker; de gratis regel geldt alleen binnen het dekkingsgebied.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن فقط برای همان منطقه تضمین رایگان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, maar alleen als hij een nieuw contract van twee jaar tekent.",
+        "is_correct": false,
+        "feedback_fa": "چنین شرطی در متن نیامده."
+      }
+    ]
+  }
+]

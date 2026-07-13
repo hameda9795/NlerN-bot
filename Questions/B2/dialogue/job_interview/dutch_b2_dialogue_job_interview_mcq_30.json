@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: Kunt u vertellen waarom u solliciteert naar deze functie?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا از نظر گرامری و محتوایی بهترین است؟",
+    "explanation_fa": "پاسخ درست از زمان حال کامل (present perfect: 'heb... gevolgd') درست استفاده می‌کند تا تجربه‌ای را که تا امروز ادامه دارد یا تأثیرش باقی است نشان دهد، و به‌طور منطقی آن را به علاقه به این شغل ربط می‌دهد.",
+    "grammar_rule_fa": "برای بیان تجربه‌ای که در گذشته اتفاق افتاده و ارتباطش با حال باقی مانده، از زمان حال کامل استفاده می‌شود: «Ik heb altijd interesse gehad in...»",
+    "extra_example_nl": "Ik heb de afgelopen jaren veel ervaring opgedaan in de klantenservice.",
+    "extra_example_fa": "من در سال‌های اخیر تجربه زیادی در خدمات مشتریان کسب کرده‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik had altijd interesse in deze sector, maar deze functie sluit niet aan bij mijn opleiding.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: این جمله می‌گوید شغل با تحصیلات او تطابق ندارد، در حالی که منظور جمله باید عکس آن باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vertelt u eerst maar wat het salaris is voor deze functie.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله یک دستور امری به مصاحبه‌کننده است، نه یک پاسخ مؤدبانه و حرفه‌ای به سؤال."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heeft altijd interesse gehad in deze sector.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه است: با «ik» باید «heb» بیاید، نه «heeft» (که برای hij/zij/u است)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb altijd interesse gehad in deze sector en deze functie sluit goed aan bij mijn opleiding.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: زمان حال کامل به‌درستی برای تجربه‌ای با تأثیر تا امروز استفاده شده و پاسخ منطقی و حرفه‌ای است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: Wat zijn volgens u uw grootste sterke punten?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست از فعل درستی («beschouw» به معنای «می‌دانم/در نظر می‌گیرم») استفاده می‌کند و با ذکر یک مثال مشخص (کار زیر فشار)، محتوایی منطقی و حرفه‌ای ارائه می‌دهد.",
+    "grammar_rule_fa": "فعل «beschouwen als» به معنای دانستن یا در نظر گرفتن چیزی به‌عنوان کیفیتی خاص است: «Ik beschouw mezelf als een goede planner.»",
+    "extra_example_nl": "Wij beschouwen deze samenwerking als zeer waardevol.",
+    "extra_example_fa": "ما این همکاری را بسیار ارزشمند می‌دانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik verzin mezelf als iemand die goed onder druk kan werken.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعل اشتباه: «verzinnen» به معنای «اختراع کردن/از خود درآوردن» است، نه توصیف واقعی خود؛ فعل درست «beschouwen» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vertelt u mij eerst wat de werktijden zijn.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری/امری است و اصلاً به سؤال درباره نقاط قوت پاسخ نمی‌دهد؛ پاسخی مؤدبانه و مرتبط لازم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik beschouw mezelf als iemand die goed onder druk kan werken en snel schakelt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: فعل «beschouwen als» به‌درستی استفاده شده و مثالی منطقی و مرتبط با محل کار ارائه می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik beschouw mezelf als iemand die niet goed onder druk kan werken.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: این جمله یک نقطه ضعف را به‌عنوان نقطه قوت معرفی می‌کند، که منطقاً اشتباه است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: En wat zou u zelf willen verbeteren, als u eerlijk bent?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست از حالت شرطی «zou willen» به‌درستی استفاده می‌کند تا یک هدف بهبود را با فروتنی و ادب مطرح کند، بدون اینکه به سؤال با لحنی نامناسب پاسخ دهد.",
+    "grammar_rule_fa": "برای بیان مؤدبانه یک آرزو یا هدف در حال حاضر، از فعل کمکی شرطی «zou» + مصدر استفاده می‌شود: «Ik zou graag beter willen worden in...»",
+    "extra_example_nl": "Ik zou in de toekomst graag meer leiding willen geven aan projecten.",
+    "extra_example_fa": "من در آینده دوست دارم بیشتر مسئولیت رهبری پروژه‌ها را بر عهده بگیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werd graag wat vaardiger in het geven van presentaties.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: باید از حالت شرطی «zou worden» استفاده شود، نه گذشته ساده «werd»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Noem zelf maar een zwak punt, dat is uw taak.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و بی‌ادبانه به مصاحبه‌کننده است، نه پاسخی حرفه‌ای به سؤال."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik zou graag wat vaardiger willen worden in het geven van presentaties aan grote groepen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: فعل شرطی «zou willen» به‌خوبی یک هدف بهبود واقع‌بینانه و مؤدبانه را بیان می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zou graag wat vaardiger willen worden, maar ik heb eigenlijk geen enkel verbeterpunt.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری نادرست/غیرمنطقی: جمله ابتدا یک نقطه بهبود ذکر می‌کند اما بلافاصله می‌گوید هیچ نقطه ضعفی ندارد، که تناقض ایجاد می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: Kunt u een voorbeeld geven van een situatie waarin u onder tijdsdruk moest werken?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست ساختار STAR (موقعیت، اقدام، نتیجه) را با استفاده صحیح از زمان گذشته کامل (had... moeten) برای رویدادی که قبل از رویداد اصلیِ گذشته اتفاق افتاده، رعایت می‌کند.",
+    "grammar_rule_fa": "برای توصیف رویدادی که پیش از رویداد دیگری در گذشته رخ داده، از گذشته کامل استفاده می‌شود: «Ik had een deadline moeten halen, dus ik heb overuren gemaakt.»",
+    "extra_example_nl": "Nadat de klant had gebeld, hebben we direct een oplossing gezocht.",
+    "extra_example_fa": "بعد از اینکه مشتری تماس گرفته بود، ما فوراً به دنبال راه‌حل رفتیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vorig jaar heb ik een belangrijke deadline moeten halen, dus ga ik samen met collega's een strak schema opstellen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: بخش دوم جمله زمان آینده (ga...opstellen) دارد در حالی که کل رویداد در گذشته اتفاق افتاده و باید زمان گذشته باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vertel me niet over deadlines, die interesseren me niet.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و بی‌احترامی به مصاحبه‌کننده است و هیچ پاسخی به سؤال نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vorig jaar had ik een belangrijke deadline moeten halen, dus heb ik samen met collega's een strak schema opgesteld en gehaald.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: ساختار زمانی صحیح و پاسخی مشخص با نتیجه منطقی (رسیدن به ددلاین با برنامه‌ریزی) ارائه می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorig jaar had ik een deadline moeten halen, maar dat is helaas niet gelukt door mijn eigen onverschilligheid.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی/نامناسب: این جمله شکست را به بی‌تفاوتی خودِ داوطلب نسبت می‌دهد، که تأثیر منفی نامناسبی در مصاحبه ایجاد می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: Werkt u liever alleen of in een team?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست هم به کار تیمی و هم به کار مستقل با فعل درست «waardeer» (قدر می‌دانم) اشاره می‌کند و تصویری متعادل و مثبت ارائه می‌دهد.",
+    "grammar_rule_fa": "فعل «waarderen» به معنای «قدردانی کردن/ارزش قائل شدن» است و در ساختار «ik waardeer + اسم» به کار می‌رود.",
+    "extra_example_nl": "Ik waardeer het als collega's open feedback durven geven.",
+    "extra_example_fa": "من قدر می‌دانم وقتی همکاران جرأت می‌کنند بازخورد صادقانه بدهند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik vermijd teamwork, maar ik kan ook goed zelfstandig werken als dat nodig is.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: فعل «vermijden» به معنای «اجتناب کردن» است، در حالی که پاسخ باید نگرش مثبت به کار تیمی نشان دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zoekt u maar iemand anders als teamwork zo belangrijk voor u is.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله لحنی دستوری و نامؤدبانه دارد و عملاً از پاسخ‌دادن طفره می‌رود؛ اصلاً حرفه‌ای نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik waardeer teamwork, maar ik kan ook goed zelfstandig werken als dat nodig is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: فعل مناسب و پاسخی متعادل که هم انعطاف‌پذیری و هم مثبت‌بودن نسبت به کار تیمی را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik waarderen teamwork, maar ik kan ook goed zelfstandig werken.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه: با «ik» باید «waardeer» بیاید، نه «waarderen» (شکل مصدر/جمع)."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: Wanneer zou u kunnen beginnen als we u de baan aanbieden?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با اشاره به دوره اطلاع قانونی («opzegtermijn») و استفاده صحیح از فعل «kunnen beginnen»، اطلاعات دقیق و واقع‌بینانه‌ای درباره زمان شروع ارائه می‌دهد.",
+    "grammar_rule_fa": "فعل کمکی «kunnen» برای بیان امکان یا توانایی در آینده به کار می‌رود: «Ik kan over een maand beginnen.»",
+    "extra_example_nl": "Vanwege mijn opzegtermijn kan ik pas over zes weken starten.",
+    "extra_example_fa": "به دلیل دوره اطلاع قانونی‌ام، فقط می‌توانم شش هفته دیگر شروع کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kon een maand na ondertekening van het contract beginnen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: از گذشته «kon» استفاده شده، در حالی که باید زمان حال/آینده «kan» به کار رود زیرا درباره امکانی در آینده صحبت می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Begin gewoon volgende week met de administratie voor mijn contract.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌صورت دستوری/امری خطاب به مصاحبه‌کننده است، نه پاسخی که زمان شروع خودِ داوطلب را مشخص کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een opzegtermijn van een maand, dus ik kan ongeveer een maand na ondertekening van het contract beginnen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: اطلاعاتی دقیق، واقع‌بینانه و حرفه‌ای درباره زمان شروع با ساختار درست ارائه می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een opzegtermijn van een maand, dus ik kan helaas nooit beginnen bij een nieuwe werkgever.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی: داشتن دوره اطلاع یک‌ماهه به این معنا نیست که هرگز نمی‌تواند شروع کند؛ این نتیجه‌گیری کاملاً نامعقول است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: Heeft u nog vragen voor ons?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست یک سؤال مشخص و حرفه‌ای درباره فرهنگ سازمانی مطرح می‌کند که نشان‌دهنده علاقه واقعی داوطلب به شغل است.",
+    "grammar_rule_fa": "برای پرسیدن مؤدبانه سؤال از یک شخص رسمی («u»)، از ساختار «Zou u kunnen vertellen...» یا «Hoe ziet... eruit?» استفاده می‌شود.",
+    "extra_example_nl": "Zou u kunnen vertellen hoe een gemiddelde werkdag er in dit team uitziet?",
+    "extra_example_fa": "می‌توانید بگویید یک روز کاری معمولی در این تیم چگونه است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, ik heb geen enkele interesse in hoe het team is opgebouwd.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: این پاسخ بی‌علاقگی کامل نشان می‌دهد، در حالی که در مصاحبه باید علاقه به شرکت نشان داده شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, ik ben benieuwd hoe het team is opgebouwd en hoe de samenwerking met andere afdelingen verloopt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: سؤالی مشخص، مرتبط و حرفه‌ای که علاقه واقعی به محیط کار را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geeft u mij nu maar meteen antwoord op al mijn vragen over het salaris.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله لحنی امری و ناشیانه دارد به‌جای پرسیدن مؤدبانه یک سؤال."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, ik was benieuwd hoe het team is opgebouwd.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: از گذشته «was benieuwd» استفاده شده، در حالی که کنجکاوی هنوز در همین لحظه وجود دارد و باید زمان حال «ben benieuwd» به کار رود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: Waarom wilt u van sector veranderen, na tien jaar in de zorg?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل درست «merkte» (متوجه شدم) و ساختار روشن، تغییر شغل را با دلیلی مثبت و منطقی (کشف علاقه جدید) توضیح می‌دهد.",
+    "grammar_rule_fa": "فعل «merken» به معنای «متوجه شدن/پی بردن» است و برای بیان یک کشف تدریجی در گذشته به کار می‌رود: «Ik merkte dat ik meer affiniteit had met...»",
+    "extra_example_nl": "Tijdens een vrijwilligersproject merkte ik dat techniek me meer boeide dan verwacht.",
+    "extra_example_fa": "در طول یک پروژه داوطلبانه متوجه شدم که فناوری بیشتر از حد انتظار برایم جذاب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik merkte de laatste jaren dat ik meer affiniteit kreeg met techniek, en daarom wil ik die interesse nu een kans geven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: توضیحی منطقی و مثبت برای تغییر مسیر شغلی با فعل و زمان مناسب ارائه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik merk de laatste jaren dat ik meer affiniteit kreeg met techniek.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: ترکیب زمان حال «merk» با گذشته «kreeg» ناهماهنگ است؛ باید هر دو در یک زمان منسجم (مثلاً گذشته) باشند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Stel die vraag niet meer, mijn verleden in de zorg is niet relevant.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و بی‌ادبانه است و از پاسخ دادن به سؤال طفره می‌رود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik merkte de laatste jaren dat ik steeds minder affiniteit kreeg met techniek.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: این جمله می‌گوید علاقه او به فناوری کمتر شده، در حالی که باید دلیل روی‌آوردن به سمت فناوری را نشان دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: Hoe gaat u om met kritiek van een leidinggevende?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست از فعل «probeer» به‌درستی برای نشان دادن نگرشی سازنده و باز نسبت به بازخورد استفاده می‌کند، بدون اینکه دفاعی یا منفی به نظر برسد.",
+    "grammar_rule_fa": "فعل «proberen te + مصدر» برای بیان تلاش مستمر در زمان حال به کار می‌رود: «Ik probeer er altijd van te leren.»",
+    "extra_example_nl": "Ik probeer feedback altijd te zien als een kans om te groeien.",
+    "extra_example_fa": "من همیشه سعی می‌کنم بازخورد را فرصتی برای رشد ببینم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik negeer kritiek altijd en ga gewoon door op mijn eigen manier.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: این جمله نشان می‌دهد او بازخورد را نادیده می‌گیرد، که دقیقاً عکسِ نگرش مطلوب در مصاحبه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geef mij dan maar geen kritiek als u met mij wilt samenwerken.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌صورت دستوری از مصاحبه‌کننده می‌خواهد بازخورد ندهد، که کاملاً نامناسب و غیرحرفه‌ای است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik probeert kritiek altijd serieus te nemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه: با «ik» باید «probeer» بیاید، نه «probeert» (که برای hij/zij/u است)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik probeer kritiek altijd serieus te nemen en er concreet iets van te leren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: نگرشی باز و سازنده نسبت به بازخورد با فعل و ساختار مناسب نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Interviewer: Wat verwacht u qua salaris voor deze functie?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با استفاده از حالت شرطی «zou passen» به‌طور مؤدبانه بازه حقوقی مشخصی را پیشنهاد می‌دهد و آن را به تجربه خود ربط می‌دهد.",
+    "grammar_rule_fa": "حالت شرطی «zou + مصدر» برای ارائه پیشنهاد مؤدبانه و غیرقطعی به کار می‌رود: «Een salaris tussen X en Y zou passen bij mijn ervaring.»",
+    "extra_example_nl": "Een salaris rond de drieduizend euro bruto zou goed passen bij mijn achtergrond.",
+    "extra_example_fa": "حقوقی حدود سه هزار یورو ناخالص با سابقه من تناسب خوبی دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op basis van mijn ervaring denk ik dat een salaris tussen de drie- en drieënhalfduizend euro bruto paste.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: از گذشته ساده «paste» استفاده شده، در حالی که باید حالت شرطی حال «zou passen» برای پیشنهادی درباره آینده به کار رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Betaal me gewoon zoveel mogelijk, dat is uw probleem.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله لحنی دستوری و بسیار غیرحرفه‌ای دارد و اصلاً پاسخی مؤدبانه به سؤال درباره انتظار حقوق نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Op basis van mijn ervaring denkt ik dat een salaris rond de drieduizend euro zou passen.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه: با «ik» باید «denk» بیاید، نه «denkt» (که برای hij/zij/u است)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op basis van mijn ervaring denk ik dat een salaris tussen de drie- en drieënhalfduizend euro bruto zou passen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پیشنهادی مشخص، مؤدبانه و مرتبط با تجربه شخصی با ساختار شرطی درست ارائه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: Stel dat een collega structureel te laat komt en dit uw project vertraagt, wat zou u doen?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست از ساختار شرطی درست («zou... bespreken») برای پاسخ به یک سؤال فرضی استفاده می‌کند و رویکردی سازنده و حرفه‌ای (گفتگوی مستقیم و آرام) پیشنهاد می‌دهد.",
+    "grammar_rule_fa": "در پاسخ به سؤالات فرضی با «stel dat», باید از حالت شرطی «zou + مصدر» استفاده شود: «Ik zou dit rustig met mijn collega bespreken.»",
+    "extra_example_nl": "Als een collega een fout zou maken, zou ik dit eerst rustig met hem bespreken.",
+    "extra_example_fa": "اگر همکاری اشتباهی مرتکب شود، ابتدا آن را با آرامش با او در میان می‌گذارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik besprak dit eerst rustig en persoonlijk met mijn collega.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: از گذشته ساده «besprak» استفاده شده، در حالی که سؤال فرضی («stel dat») نیاز به حالت شرطی «zou bespreken» دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zou dit eerst rustig en persoonlijk met mijn collega bespreken, voordat ik het eventueel bij de leidinggevende zou aankaarten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: ساختار شرطی درست و رویکردی متعادل و حرفه‌ای (اول گفتگوی مستقیم، سپس در صورت لزوم اطلاع به مدیر) ارائه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kom gewoon op tijd, dan hebben we dit gesprek niet nodig.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌صورت دستوری خطاب به همکار (نه پاسخی به مصاحبه‌کننده) است و کاملاً نامناسب برای این بافت رسمی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zou dit gewoon negeren, want te laat komen heeft nooit gevolgen voor een project.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی: نادیده گرفتن مشکل و ادعای بی‌تأثیر بودن تأخیر بر پروژه، نگرشی غیرحرفه‌ای و نامعقول نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: Kunt u een moment beschrijven waarop u een fout maakte en hoe u daarmee omging?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با ساختار STAR و زمان‌های صحیح گذشته (had gestuurd، heb gemeld، heb opgelost) نشان می‌دهد داوطلب مسئولیت اشتباه را پذیرفته و راه‌حلی فعال ارائه داده است.",
+    "grammar_rule_fa": "زمان گذشته کامل «had gestuurd» برای رویدادی که پیش از رویداد دیگر در گذشته اتفاق افتاده به کار می‌رود، در حالی که پیامد و اقدام بعدی با حال کامل «heb gemeld» بیان می‌شود.",
+    "extra_example_nl": "Ik had de verkeerde bijlage verstuurd, dus heb ik direct excuses aangeboden en het rechtgezet.",
+    "extra_example_fa": "من فایل پیوست اشتباه را فرستاده بودم، پس فوراً عذرخواهی کردم و آن را اصلاح کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb ooit een verkeerde factuur naar een klant gestuurd; ik zal dit morgen melden bij mijn leidinggevende.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون اتفاق در گذشته رخ داده، واکنش هم باید در گذشته باشد، نه زمان آینده «zal melden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik had ooit een verkeerde factuur naar een klant gestuurd; ik heb dit direct gemeld en samen met mijn leidinggevende opgelost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: زمان‌بندی صحیح گذشته کامل و حال کامل، همراه با پذیرش مسئولیت و راه‌حل فعال، پاسخی نمونه ارائه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Praat niet meer over fouten uit het verleden, dat is niet relevant voor deze sollicitatie.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و از پاسخ‌دادن طفره‌رونده است، درست برخلاف چیزی که در مصاحبه شغلی انتظار می‌رود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik had ooit een verkeerde factuur naar een klant gestuurd, maar ik heb dit nooit gemeld, want het leek me niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی/نامناسب: عدم گزارش یک اشتباه و کم‌اهمیت دانستن آن، تصویری بسیار نامطلوب و غیرمسئولانه از داوطلب نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: Waarom heeft u uw vorige baan opgezegd?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل مناسب «bood» (پیشنهاد داد) و لحنی خنثی و حرفه‌ای، دلیل ترک شغل قبلی را بدون انتقاد منفی از کارفرمای قبلی توضیح می‌دهد.",
+    "grammar_rule_fa": "فعل «bieden/bood» (پیشنهاد دادن/داد) در توصیف محدودیت‌های شغل قبلی به شکلی خنثی و حرفه‌ای به کار می‌رود، برخلاف انتقاد مستقیم.",
+    "extra_example_nl": "Mijn vorige werkgever bood helaas geen mogelijkheden meer tot doorgroeien.",
+    "extra_example_fa": "کارفرمای قبلی من متأسفانه دیگر امکان پیشرفت شغلی ارائه نمی‌داد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn vorige functie biedt helaas weinig ruimte voor groei.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون او دیگر در آن شغل نیست، باید از زمان گذشته «bood» استفاده شود، نه زمان حال «biedt»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn vorige functie bood helaas weinig ruimte voor groei, terwijl ik juist op zoek ben naar meer verantwoordelijkheid.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: دلیلی خنثی، حرفه‌ای و بدون انتقاد مستقیم از کارفرمای قبلی، با فعل مناسب ارائه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vraag dat maar aan mijn vorige werkgever, ik wil er niet over praten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله لحنی دستوری و ناراضی دارد و از پاسخ‌دادن به یک سؤال کاملاً معمولی مصاحبه طفره می‌رود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn vorige functie bood juist heel veel ruimte voor groei, dus daarom ben ik vertrokken.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی: اگر شغل قبلی فرصت رشد زیادی داشت، دلیلی منطقی برای ترک آن نیست؛ این جمله تناقض ایجاد می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: Hoe zorgt u ervoor dat u meerdere prioriteiten tegelijk goed beheert?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست فعل «hanteer» (به کار می‌برم) را درست صرف می‌کند و روشی مشخص و منطقی (اولویت‌بندی بر اساس فوریت و اهمیت) را توصیف می‌کند.",
+    "grammar_rule_fa": "فعل «hanteren» به معنای «به کار بردن/استفاده کردن از یک روش» است: «Ik hanteer een systeem waarbij ik taken prioriteer.»",
+    "extra_example_nl": "Ik hanteer altijd een duidelijke planning, zodat ik overzicht houd bij meerdere taken.",
+    "extra_example_fa": "من همیشه یک برنامه‌ریزی مشخص را به کار می‌برم تا در انجام چند وظیفه همزمان نظم داشته باشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik hanteert een systeem waarbij ik taken indeel op basis van urgentie.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه: با «ik» باید «hanteer» بیاید، نه «hanteert» (که برای hij/zij/u است)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik hanteer een systeem waarbij ik taken indeel op basis van urgentie en belang, zodat ik overzicht blijf houden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: فعل مناسب و روشی مشخص و منطقی برای مدیریت اولویت‌ها ارائه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geef mij maar minder taken, dan hoef ik niet te prioriteren.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله به‌صورت دستوری از مصاحبه‌کننده تقاضا می‌کند و اصلاً روشی برای مدیریت اولویت‌ها نشان نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik hanteer geen enkel systeem en ik verlies vaak het overzicht bij meerdere taken.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: این پاسخ ضعف در مدیریت اولویت‌ها را نشان می‌دهد، دقیقاً برخلاف چیزی که سؤال به دنبال آن است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: Wat zou u doen als u het na een maand niet naar uw zin zou hebben in deze functie?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با استفاده صحیح از شخص اول («ik zou het gesprek aangaan») و لحنی سازنده، رویکردی حرفه‌ای برای حل مشکل احتمالی نشان می‌دهد.",
+    "grammar_rule_fa": "در پاسخ اول‌شخص به سؤال فرضی، فعل شرطی باید با فاعل «ik» صرف شود: «Ik zou eerst het gesprek aangaan», نه شکل «u» یا زمان دیگر.",
+    "extra_example_nl": "Als er problemen zouden ontstaan, zou ik dit eerst open bespreken met mijn leidinggevende.",
+    "extra_example_fa": "اگر مشکلی پیش می‌آمد، ابتدا آن را صادقانه با مدیرم در میان می‌گذاشتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zou eerst het gesprek aangaan met mijn leidinggevende om te kijken waar het precies aan ligt, voordat ik conclusies zou trekken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی سازنده و منطقی که نشان می‌دهد داوطلب قبل از هر تصمیمی، ابتدا با گفتگو مشکل را بررسی می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "U zou eerst het gesprek aangaan met mijn leidinggevende.",
+        "is_correct": false,
+        "feedback_fa": "❌ شخص/صرف فعل اشتباه: فاعل باید «ik» باشد چون درباره اقدام خودِ داوطلب صحبت می‌شود، نه «u» (مصاحبه‌کننده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zoek dan maar meteen een vervanger voor mij, dat lijkt me het beste.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و بسیار منفی است و بلافاصله به فکر ترک شغل می‌افتد، که تأثیر بسیار بدی در مصاحبه دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zou meteen ontslag nemen zonder er met iemand over te praten, want gesprekken lossen toch niets op.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی/نامناسب: استعفای فوری بدون گفتگو و بی‌اعتمادی به مکالمه، رویکردی غیرحرفه‌ای و ناپخته نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: Hoe gaat u om met stressvolle periodes op het werk?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل درست «behoud» (حفظ می‌کنم) روشی مشخص برای مدیریت استرس (اولویت‌بندی و ارتباط باز) را با لحنی خونسرد و حرفه‌ای شرح می‌دهد.",
+    "grammar_rule_fa": "فعل «behouden» به معنای «حفظ کردن» است و در ساختار «ik behoud het overzicht» برای نشان دادن کنترل در شرایط دشوار به کار می‌رود.",
+    "extra_example_nl": "Zelfs in drukke periodes probeer ik rustig te blijven en het overzicht te behouden.",
+    "extra_example_fa": "حتی در دوره‌های پرمشغله سعی می‌کنم آرام بمانم و نگاه کلی را حفظ کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In drukke periodes probeerde ik rustig te blijven en prioriteiten te stellen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون سؤال درباره رفتار عمومی و مکرر در حال حاضر است، باید زمان حال «probeer» به کار رود، نه گذشته «probeerde»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Laat mij gewoon met rust tijdens drukke periodes, dan komt het wel goed.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله لحنی دستوری دارد و به‌جای توصیف یک راهبرد مثبت، درخواستی نامناسب از مصاحبه‌کننده مطرح می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "In drukke periodes raak ik meestal in paniek en verlies ik snel het overzicht.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: این پاسخ نشان می‌دهد داوطلب در استرس کنترل خود را از دست می‌دهد، دقیقاً برخلاف تصویر مطلوب برای این سؤال."
+      },
+      {
+        "key": "D",
+        "text_nl": "In drukke periodes probeer ik rustig te blijven, prioriteiten te stellen en waar nodig collega's om hulp te vragen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: روشی مشخص، خونسرد و همکاری‌محور برای مدیریت استرس با فعل و ساختار مناسب ارائه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: Waar ziet u zichzelf over vijf jaar?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل شرطی «zou willen» یک هدف بلندمدت واقع‌بینانه و مرتبط با شرکت را با لحنی مؤدبانه بیان می‌کند.",
+    "grammar_rule_fa": "برای بیان یک آرزوی محتاطانه درباره آینده، از حالت شرطی «zou willen» استفاده می‌شود: «Over vijf jaar zou ik graag meer verantwoordelijkheid willen dragen.»",
+    "extra_example_nl": "Over een paar jaar zou ik graag een specialistische rol willen vervullen binnen dit vakgebied.",
+    "extra_example_fa": "چند سال دیگر دوست دارم نقشی تخصصی‌تر در این حوزه بر عهده بگیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Over vijf jaar ben ik graag doorgegroeid naar een rol met meer verantwoordelijkheid.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: برای بیان محتاطانه یک هدف آینده باید از حالت شرطی «zou willen zijn» استفاده شود، نه زمان حال ساده «ben»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Over vijf jaar zou ik graag doorgegroeid willen zijn naar een rol met meer verantwoordelijkheid binnen dit vakgebied.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی واقع‌بینانه، مرتبط با موقعیت شغلی و با لحنی مؤدبانه درباره آینده مطرح می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zeg mij liever waar dit bedrijf over vijf jaar staat, dat is interessanter.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری است و اصلاً به سؤال شخصی درباره اهداف خودِ داوطلب پاسخ نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Over vijf jaar zou ik graag willen stoppen met werken in dit vakgebied.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی/نامناسب: بیان تمایل به ترک این حوزه شغلی در مصاحبه برای همان حوزه، پیامی بسیار نامناسب و ضدهدف است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: U heeft weinig ervaring in deze branche. Waarom zouden wij u toch moeten aannemen?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل درست «compenseer» (جبران می‌کنم)، کمبود تجربه را با نقاط قوت دیگر (یادگیری سریع، انگیزه) به‌طور منطقی و متقاعدکننده جبران می‌کند.",
+    "grammar_rule_fa": "فعل «compenseren» به معنای «جبران کردن» است: «Ik compenseer mijn gebrek aan ervaring met een groot leervermogen.»",
+    "extra_example_nl": "Mijn beperkte ervaring compenseer ik met enthousiasme en een sterke motivatie om snel te leren.",
+    "extra_example_fa": "کمبود تجربه‌ام را با اشتیاق و انگیزه قوی برای یادگیری سریع جبران می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn beperkte ervaring in deze branche compenseerde ik met een groot leervermogen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون این یک ویژگی مداوم و در حال حاضر است، باید زمان حال «compenseer» به کار رود، نه گذشته «compenseerde»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn beperkte ervaring in deze branche compenseer ik met een groot leervermogen en relevante vaardigheden uit mijn vorige functie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: کمبود تجربه را به‌طور منطقی و متقاعدکننده با نقاط قوت دیگر جبران می‌کند و فعل مناسب استفاده شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Neem mij toch maar aan, u zult er geen spijt van krijgen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و بدون هیچ استدلال محتوایی است؛ فقط درخواستی مستقیم بدون توجیه منطقی مطرح می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn beperkte ervaring in deze branche compenseer ik niet, dus u kunt beter iemand anders aannemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی: این پاسخ عملاً از خود مصاحبه‌کننده می‌خواهد کاندیدای دیگری را انتخاب کند، که کاملاً برخلاف هدف مصاحبه است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: Hoe reageert u als een collega uw idee tijdens een vergadering afkraakt?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست فعل «sta open voor» (پذیرا هستم) را درست صرف می‌کند و نگرشی حرفه‌ای برای گوش دادن به انتقاد و ادامه گفتگوی سازنده نشان می‌دهد.",
+    "grammar_rule_fa": "عبارت فعلی «openstaan voor» به معنای «پذیرا بودن نسبت به چیزی» است: «Ik sta open voor kritiek en probeer ervan te leren.»",
+    "extra_example_nl": "Ik sta altijd open voor een andere mening, ook als die kritisch is.",
+    "extra_example_fa": "من همیشه پذیرای نظر متفاوت هستم، حتی اگر انتقادی باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik stond open voor kritiek en vroeg door naar de reden.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: سؤال درباره یک رفتار عمومی و مکرر است، پس باید زمان حال «sta» و «vraag» به کار رود، نه گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Houd uw mening voortaan maar voor uzelf tijdens vergaderingen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و بسیار بی‌ادبانه خطاب به همکار است و نگرشی کاملاً بسته و تدافعی نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik sta open voor kritiek en vraag door naar de reden, zodat we samen tot een beter idee kunnen komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: نگرشی باز، سازنده و حرفه‌ای نسبت به انتقاد در جلسه با فعل و ساختار درست نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik sta helemaal niet open voor kritiek en ik negeer meestal wat collega's zeggen.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: این پاسخ دقیقاً عکس نگرش مطلوب (پذیرا بودن نسبت به بازخورد) را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: Wij zoeken iemand die flexibel kan reizen naar andere vestigingen. Is dat voor u haalbaar?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست از فعل «lukt» به‌درستی استفاده می‌کند تا نشان دهد سفرکاری برای او امکان‌پذیر است، همراه با جزئیاتی واقع‌بینانه (پیش‌اطلاع لازم).",
+    "grammar_rule_fa": "فعل «lukken» (امکان‌پذیر بودن/موفق شدن) با ساختار غیرشخصی «het lukt mij om...» به کار می‌رود: «Het lukt mij goed om regelmatig te reizen.»",
+    "extra_example_nl": "Het lukt mij prima om af en toe naar andere vestigingen te reizen, mits ik dit van tevoren weet.",
+    "extra_example_fa": "برایم کاملاً امکان‌پذیر است که گاهی به شعبه‌های دیگر سفر کنم، به شرطی که از قبل بدانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het lukte mij goed om regelmatig naar andere vestigingen te reizen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: سؤال درباره امکان‌پذیری در آینده/حال است، پس باید زمان حال «lukt» به کار رود، نه گذشته «lukte»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Plan mij dan maar meteen niet in voor andere vestigingen, dat wil ik niet.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و منفی است و بدون هیچ توضیحی، درخواستی مستقیم و غیرمنعطف به مصاحبه‌کننده می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het lukt mij goed om regelmatig naar andere vestigingen te reizen, zolang ik dit tijdig kan inplannen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی واقع‌بینانه که هم انعطاف‌پذیری و هم نیاز منطقی به برنامه‌ریزی از قبل را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het lukt mij totaal niet om te reizen, dus reizen naar andere vestigingen is voor mij juist ideaal.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی: جمله ابتدا می‌گوید سفر برایش ممکن نیست، اما بلافاصله می‌گوید ایده‌آل است، که تناقضی آشکار ایجاد می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Interviewer: Kunt u toelichten hoe u een project succesvol heeft afgerond ondanks beperkte middelen?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل «heb... herverdeeld» (بازتوزیع کردم) و ساختار STAR، نشان می‌دهد داوطلب با خلاقیت منابع محدود را مدیریت کرده و پروژه را به موفقیت رسانده است.",
+    "grammar_rule_fa": "برای توصیف یک اقدام کامل‌شده در گذشته که نتیجه‌اش مشخص است، از حال کامل استفاده می‌شود: «Ik heb de taken herverdeeld en het project op tijd afgerond.»",
+    "extra_example_nl": "Ondanks een klein budget heb ik de prioriteiten herzien en het project toch op tijd afgerond.",
+    "extra_example_fa": "با وجود بودجه کم، اولویت‌ها را بازنگری کردم و در نهایت پروژه را به‌موقع به پایان رساندم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik herverdeel de taken slim onder het team en de belangrijkste onderdelen pak ik eerst aan.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون سؤال درباره یک پروژه خاص در گذشته است، باید از حال کامل «heb herverdeeld» استفاده شود، نه زمان حال ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb de taken slim herverdeeld onder het team en de belangrijkste onderdelen eerst aangepakt, waardoor we de deadline toch hebben gehaald.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: ساختار STAR با زمان صحیح حال کامل و نتیجه‌ای منطقی و موفق ارائه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geef mij gewoon meer budget, dan hoef ik dit soort problemen niet op te lossen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری است و به‌جای توصیف یک روش موفق در گذشته، درخواستی نامرتبط برای آینده مطرح می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb de taken slim herverdeeld onder het team, maar we hebben de deadline uiteindelijk niet gehaald.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی/نامناسب: با وجود اقدام هوشمندانه، نتیجه شکست ذکر شده، که با عنوان «موفق» در سؤال مصاحبه‌کننده همخوانی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Interviewer: Stel dat u en een collega het compleet oneens zijn over de aanpak van een project, hoe zou u dit oplossen?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با استفاده صحیح از حالت شرطی («zou voorstellen») در جمله شرطی نوع دوم، رویکردی متعادل (شنیدن هر دو دیدگاه، یافتن راه میانه) پیشنهاد می‌دهد.",
+    "grammar_rule_fa": "در جملات شرطی فرضی (نوع دوم)، هر دو بخش جمله باید حالت شرطی داشته باشند: «Als we het oneens zouden zijn, zou ik voorstellen om...»",
+    "extra_example_nl": "Als we het niet eens zouden worden, zou ik voorstellen om de voor- en nadelen samen op een rij te zetten.",
+    "extra_example_fa": "اگر به توافق نمی‌رسیدیم، پیشنهاد می‌دادم که مزایا و معایب را با هم بررسی کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zou voorstellen dat we beide standpunten eerst rustig toelichten, zodat we samen een afgewogen keuze zouden kunnen maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: ساختار شرطی درست در هر دو بخش جمله و رویکردی متعادل و سازنده برای حل اختلاف‌نظر ارائه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik stel voor dat we beide standpunten eerst rustig toelichten, zodat we samen een afgewogen keuze maakten.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: در پاسخ به سؤال فرضی «stel dat» باید حالت شرطی به‌طور منسجم در کل جمله حفظ شود، نه ترکیب حال و گذشته ساده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Doe het dan maar op uw eigen manier, ik wil geen ruzie over projecten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و منفعلانه است و از حل واقعی اختلاف‌نظر طفره می‌رود، به‌جای ارائه راه‌حلی سازنده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zou voorstellen dat we het gewoon oneens blijven en nooit meer met elkaar samenwerken.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی/نامناسب: این پاسخ عملاً پیشنهاد قطع همکاری می‌دهد که راه‌حلی کاملاً غیرحرفه‌ای و مخرب برای یک اختلاف نظر ساده در محل کار است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Interviewer: Als u vandaag zou horen dat u de baan krijgt, maar pas over drie maanden zou kunnen beginnen, wat zou u dan doen?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست در جمله شرطی نوع دوم به‌درستی از «zou accepteren» و «zou gebruiken» استفاده می‌کند و راه‌حلی منطقی (استفاده مثبت از زمان انتظار) ارائه می‌دهد.",
+    "grammar_rule_fa": "در جمله شرطی فرضی با «als... zou», فعل اصلی جمله پاسخ نیز باید در حالت شرطی «zou + مصدر» بیاید تا با بخش شرط هماهنگ باشد.",
+    "extra_example_nl": "Als ik drie maanden zou moeten wachten, zou ik die tijd gebruiken om me alvast in te lezen over het vakgebied.",
+    "extra_example_fa": "اگر مجبور بودم سه ماه صبر کنم، از آن زمان استفاده می‌کردم تا از قبل درباره این حوزه مطالعه کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zou dat prima vinden en die drie maanden zou ik gebruiken om me alvast te verdiepen in het vakgebied en mijn huidige taken netjes over te dragen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: ساختار شرطی منسجم و پاسخی منطقی و سازنده برای استفاده مفید از دوره انتظار ارائه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik vind dat prima en die drie maanden gebruik ik om me alvast te verdiepen in het vakgebied.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون سؤال یک سناریوی فرضی با «als... zou» است، پاسخ نیز باید حالت شرطی «zou vinden / zou gebruiken» داشته باشد، نه زمان حال ساده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Laat mij dan toch liever meteen beginnen, wachten heeft geen enkel nut voor mij.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله لحنی دستوری دارد و به‌جای پاسخ منعطف به یک سناریوی فرضی، تقاضایی مستقیم و غیرمنعطف مطرح می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zou dat vervelend vinden en ik zou die drie maanden waarschijnlijk gebruiken om een andere baan te zoeken.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی/نامناسب: این پاسخ نشان می‌دهد داوطلب در همان زمان به دنبال شغل دیگری می‌گردد، که تعهد او به این موقعیت شغلی را زیر سؤال می‌برد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Interviewer: Uw cv laat een gat van acht maanden zien tussen twee banen. Kunt u dat toelichten?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل «heb... gezorgd» (مراقبت کردم) و لحنی خنثی و شفاف، دلیل وقفه در سابقه کاری را به‌طور حرفه‌ای و بدون توجیه ضعیف توضیح می‌دهد.",
+    "grammar_rule_fa": "برای توضیح دوره‌ای در گذشته که تأثیرش (مثلاً آماده‌بودن اکنون) هنوز مطرح است، از حال کامل استفاده می‌شود: «Ik heb in die periode voor een familielid gezorgd.»",
+    "extra_example_nl": "In die maanden heb ik voor mijn vader gezorgd; inmiddels ben ik weer volledig beschikbaar.",
+    "extra_example_fa": "در آن ماه‌ها از پدرم مراقبت کردم؛ در حال حاضر دوباره کاملاً در دسترس هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In die periode heb ik voor een ziek familielid gezorgd; inmiddels is de situatie stabiel en ben ik weer volledig beschikbaar voor werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: توضیحی شفاف، خنثی و حرفه‌ای درباره وقفه در سابقه کاری با زمان درست ارائه می‌دهد و اطمینان می‌دهد که اکنون آماده کار است."
+      },
+      {
+        "key": "B",
+        "text_nl": "In die periode zorg ik voor een ziek familielid; inmiddels is de situatie stabiel.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون این وضعیت مربوط به گذشته است و اکنون تمام شده، باید حال کامل «heb gezorgd» به کار رود، نه زمان حال ساده «zorg»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waarom kijkt u naar dit soort details, dat gaat u niets aan.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله لحنی تدافعی و دستوری دارد و از پاسخ به یک سؤال کاملاً معمول مصاحبه طفره می‌رود؛ کاملاً غیرحرفه‌ای است."
+      },
+      {
+        "key": "D",
+        "text_nl": "In die periode heb ik voor een ziek familielid gezorgd, en daardoor ben ik helaas nog steeds niet beschikbaar voor een nieuwe baan.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی: این جمله می‌گوید او هنوز برای کار در دسترس نیست، در حالی که او به همین مصاحبه آمده و باید در دسترس بودن فعلی‌اش را تأیید کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Interviewer: Waarom denkt u dat u geschikter bent dan de andere kandidaten die wij spreken?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل «kan... inschatten» (نمی‌توانم قضاوت کنم) به‌طور فروتنانه از مقایسه مستقیم با رقبا اجتناب می‌کند و به‌جای آن، نقاط قوت خودش را با دلیل مشخص می‌سازد.",
+    "grammar_rule_fa": "فعل کمکی «kunnen» با نفی برای بیان فروتنانه محدودیت دانش («ik kan dat niet inschatten») به کار می‌رود، به‌جای ادعای مستقیم و متکبرانه.",
+    "extra_example_nl": "Ik kan niet inschatten hoe de andere kandidaten zijn, maar ik weet wel wat ik zelf kan bijdragen.",
+    "extra_example_fa": "نمی‌توانم قضاوت کنم دیگر داوطلبان چگونه‌اند، اما می‌دانم خودم چه چیزی می‌توانم ارائه دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kon niet inschatten hoe de andere kandidaten waren, maar ik weet wel dat mijn ervaring goed past.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون این ارزیابی مربوط به همین لحظه (حال) است، باید «kan» به کار رود، نه گذشته «kon»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vergelijk mij toch niet met andere kandidaten, dat is niet eerlijk.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله لحنی دستوری و تدافعی دارد و به‌جای پاسخ محتوایی، مصاحبه‌کننده را از انجام کار طبیعی‌اش (مقایسه کاندیداها) منع می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik weet zeker dat ik minder geschikt ben dan de andere kandidaten, maar ik hoop toch op de baan.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: این جمله ادعا می‌کند داوطلب از دیگران ضعیف‌تر است، که دقیقاً برخلاف چیزی است که او باید در مصاحبه نشان دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan niet inschatten hoe de andere kandidaten zijn, maar ik weet wel dat mijn combinatie van ervaring en motivatie goed bij deze functie past.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی فروتنانه و منطقی که از مقایسه مستقیم اجتناب کرده و به نقاط قوت شخصی با دلیل روشن اشاره می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Interviewer: Wat zou u anders doen als u opnieuw aan dat mislukte project zou beginnen?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با حالت شرطی کامل («zou hebben ingepland») به‌طور دقیق به یک سناریوی فرضی گذشته (اگر دوباره شروع می‌کردم) پاسخ می‌دهد و درسی مشخص از تجربه قبلی نشان می‌دهد.",
+    "grammar_rule_fa": "برای بیان اینکه در گذشته چه کاری را متفاوت انجام می‌داد (فرضیِ گذشته)، از حالت شرطی کامل استفاده می‌شود: «Ik zou eerder een risicoanalyse hebben gemaakt.»",
+    "extra_example_nl": "Als ik het opnieuw zou doen, zou ik veel eerder met de klant hebben overlegd over de planning.",
+    "extra_example_fa": "اگر دوباره آن را انجام می‌دادم، خیلی زودتر با مشتری درباره برنامه‌ریزی مشورت می‌کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Achteraf zou ik veel eerder een risicoanalyse hebben gemaakt, zodat we mogelijke problemen op tijd hadden kunnen zien aankomen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: حالت شرطی کامل به‌درستی برای یک سناریوی فرضی گذشته استفاده شده و درسی مشخص و منطقی از تجربه قبلی نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Achteraf maak ik veel eerder een risicoanalyse, zodat we problemen op tijd zien aankomen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون سؤال درباره یک فرض در گذشته است («als u opnieuw zou beginnen»)، پاسخ باید حالت شرطی کامل «zou hebben gemaakt» داشته باشد، نه زمان حال ساده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Begin zelf maar met risicoanalyses als u dat zo belangrijk vindt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و بی‌ارتباط با تجربه شخصی داوطلب است و به سؤال درباره درس‌گرفته از پروژه قبلی پاسخ نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Achteraf zou ik precies hetzelfde hebben gedaan, want het project is zonder enig probleem verlopen.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی/نامناسب: سؤال صراحتاً از یک پروژه «شکست‌خورده» صحبت می‌کند، پس ادعای اینکه هیچ مشکلی وجود نداشت و همه‌چیز باید تکرار شود، با واقعیت مطرح‌شده در تناقض است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Interviewer: Wij verwachten dat medewerkers soms in het weekend bereikbaar zijn. Hoe staat u daartegenover?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل «begrijp» و ساختار مؤدبانه، پذیرش این شرط را با یک محدودیت واقع‌بینانه و مؤدبانه (فقط در موارد ضروری) ترکیب می‌کند.",
+    "grammar_rule_fa": "برای بیان پذیرش مؤدبانه همراه با یک شرط، از ساختار «ik begrijp dat..., zolang...» استفاده می‌شود که ادب و وضوح را با هم ترکیب می‌کند.",
+    "extra_example_nl": "Ik begrijp dat bereikbaarheid soms nodig is, zolang dit geen dagelijkse gewoonte wordt.",
+    "extra_example_fa": "می‌فهمم که گاهی در دسترس بودن لازم است، به شرطی که به عادتی روزانه تبدیل نشود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik begreep dat bereikbaarheid in het weekend soms nodig is bij spoedeisende zaken.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون این نگرشی است که همین الان دارد، باید زمان حال «begrijp» به کار رود، نه گذشته «begreep»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bel mij dan maar nooit in het weekend, dat is voor mij niet bespreekbaar.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله لحنی دستوری و کاملاً غیرمنعطف دارد و به‌جای پاسخی متعادل، یک ممنوعیت مطلق اعلام می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begrijp dat bereikbaarheid in het weekend nodig is, maar ik neem sowieso nooit meer op als iemand belt.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی/متناقض: جمله ابتدا می‌گوید موضوع را درک می‌کند، اما سپس می‌گوید هرگز پاسخ نخواهد داد، که کاملاً با پذیرش اولیه در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp dat bereikbaarheid in het weekend soms nodig is bij spoedeisende zaken, en daar sta ik open voor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی مؤدبانه که هم انعطاف‌پذیری منطقی و هم پذیرش شرط شرکت را با ساختار درست نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Interviewer: Na afloop van dit gesprek, hoe zou u de vervolgstappen graag zien verlopen?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل «zou... waarderen» (قدردانی می‌کنم) درخواستی مؤدبانه و حرفه‌ای برای پیگیری (مثلاً ایمیل تشکر و مهلت مشخص) مطرح می‌کند.",
+    "grammar_rule_fa": "برای بیان مؤدبانه یک درخواست یا ترجیح، از ساختار شرطی «ik zou het waarderen als...» استفاده می‌شود.",
+    "extra_example_nl": "Ik zou het waarderen als ik ook bij een afwijzing korte feedback zou krijgen.",
+    "extra_example_fa": "قدردانی می‌کنم اگر حتی در صورت رد شدن، بازخورد کوتاهی دریافت کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zou het waarderen als ik binnen een week een terugkoppeling zou krijgen, en ik stuur u vandaag nog een bedankmail.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: درخواستی مؤدبانه و حرفه‌ای برای پیگیری، همراه با پیشنهاد ارسال ایمیل تشکر، با ساختار شرطی صحیح ارائه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zou het waarderen als ik binnen een week een terugkoppeling kreeg, en ik stuurde u gisteren al een bedankmail.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: ارسال ایمیل تشکر مربوط به آینده نزدیک (بعد از این گفتگو) است، پس نباید از گذشته «stuurde... gisteren» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bel mij morgenvroeg meteen met de uitslag, ik wil niet langer wachten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله لحنی دستوری و مطالبه‌گرانه دارد، به‌جای درخواستی مؤدبانه که در پایان یک مصاحبه شغلی مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het maakt mij niets uit of ik ooit nog iets van u hoor, dus een bedankmail is niet nodig.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس: این جمله بی‌علاقگی کامل به نتیجه مصاحبه نشان می‌دهد، در حالی که پاسخ باید علاقه و پیگیری حرفه‌ای را نشان دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Interviewer: Sommige collega's vinden u soms te direct in feedback. Hoe kijkt u daarnaar?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با فعل «heb geleerd» به‌طور صادقانه این بازخورد را می‌پذیرد و نشان می‌دهد داوطلب از آن درس گرفته و رفتارش را تطبیق داده، که نگرشی بالغ و حرفه‌ای است.",
+    "grammar_rule_fa": "برای نشان‌دادن یادگیری از یک تجربه گذشته که تأثیرش تا امروز باقی است، از حال کامل استفاده می‌شود: «Ik heb geleerd om mijn feedback vriendelijker te verpakken.»",
+    "extra_example_nl": "Ik heb geleerd om eerst het positieve te benoemen voordat ik kritiekpunten geef.",
+    "extra_example_fa": "یاد گرفته‌ام که ابتدا نکات مثبت را بیان کنم و سپس نقدها را مطرح کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Die feedback herken ik; ik leerde inmiddels om directheid te combineren met meer aandacht voor de toon.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: چون این یادگیری تا امروز ادامه دارد و تأثیرش الان مشهود است، باید حال کامل «heb geleerd» به کار رود، نه گذشته ساده «leerde»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zeg tegen die collega's dat ze zelf maar wat gevoeliger moeten worden.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری و تدافعی است و مسئولیت را کاملاً به همکاران منتقل می‌کند، به‌جای پذیرش سازنده بازخورد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Die feedback herken ik niet, ik ben juist altijd de zachtaardigste van het hele team.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای برعکس/انکار: این پاسخ کاملاً بازخورد مطرح‌شده را رد می‌کند و ادعایی متضاد و غیرقابل‌باور ارائه می‌دهد، که نشان‌دهنده عدم خودآگاهی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Die feedback herken ik; ik heb inmiddels geleerd om directheid te combineren met meer aandacht voor de toon waarop ik iets breng.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پذیرش صادقانه بازخورد همراه با نشان‌دادن رشد و یادگیری واقعی، با زمان و ساختار درست ارائه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "job_interview",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Interviewer: Als u zou moeten kiezen tussen een hoger salaris of meer flexibele werktijden, wat zou u kiezen en waarom?\nSollicitant: ___\nWelk antwoord is hier grammaticaal en inhoudelijk het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست در جمله شرطی نوع دوم به‌طور منسجم از «zou kiezen» استفاده می‌کند و انتخاب خود را با دلیلی شخصی و منطقی (تعادل کار و زندگی) توجیه می‌کند.",
+    "grammar_rule_fa": "در پاسخ به سؤال فرضی «als u zou moeten kiezen», فعل اصلی پاسخ نیز باید حالت شرطی «zou kiezen» داشته باشد تا با ساختار شرطی سؤال هماهنگ بماند.",
+    "extra_example_nl": "Als ik zou moeten kiezen, zou ik voor flexibiliteit kiezen, omdat dit beter past bij mijn gezinssituatie.",
+    "extra_example_fa": "اگر مجبور به انتخاب بودم، انعطاف‌پذیری را انتخاب می‌کردم، چون با شرایط خانوادگی‌ام سازگارتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als ik zou moeten kiezen, zou ik voor flexibele werktijden kiezen, omdat een goede werk-privébalans voor mij op lange termijn belangrijker is dan een iets hoger salaris.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: ساختار شرطی منسجم در کل جمله و دلیلی شخصی، منطقی و متقاعدکننده برای انتخاب ارائه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als ik moet kiezen, kies ik voor flexibele werktijden, omdat een goede werk-privébalans voor mij belangrijker was.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه: بخش پایانی جمله («belangrijker was») از گذشته استفاده می‌کند در حالی که کل جمله باید در حالت شرطی/حال منسجم بماند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kies dat zelf maar voor mij uit, ik heb daar geen mening over.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله دستوری است و مسئولیت تصمیم‌گیری را کاملاً به مصاحبه‌کننده منتقل می‌کند، به‌جای پاسخ‌دادن با نظر شخصی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als ik zou moeten kiezen, zou ik voor een hoger salaris kiezen, maar geld interesseert mij eigenlijk helemaal niet.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه غیرمنطقی/متناقض: جمله ابتدا حقوق بالاتر را انتخاب می‌کند، اما بلافاصله می‌گوید پول اصلاً برایش مهم نیست، که تناقضی آشکار در استدلال ایجاد می‌کند."
+      }
+    ]
+  }
+]

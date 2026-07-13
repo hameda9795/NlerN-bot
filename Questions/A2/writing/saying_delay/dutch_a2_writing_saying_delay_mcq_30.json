@@ -1,0 +1,512 @@
+[
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_traffic", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "در ترافیک گیر افتاده‌ای و می‌دانی دیر به سر کار می‌رسی. باید به مدیرت پیام بدهی.",
+    "question_text_nl": "Je zit vast in het verkeer en komt te laat op je werk.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو کجا گیر افتاده‌ای و تقریباً چه زمانی می‌رسی.",
+    "grammar_rule_fa": "از «Ik sta in de file, ik ben iets later» استفاده کن.",
+    "extra_example_nl": "Ik sta in de file. Ik ben over 20 minuten er.",
+    "extra_example_fa": "در ترافیک هستم. تا ۲۰ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Hoi, ik sta in de file. Ik ben ongeveer 20 minuten later op werk.", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و زمان تقریبی هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik kom vandaag niet werken.", "is_correct": false, "feedback_fa": "این جمله معنی اشتباهی دارد، فقط دیر می‌رسی، غایب نیستی." },
+      { "key": "C", "text_nl": "Het verkeer is altijd druk.", "is_correct": false, "feedback_fa": "این جمله زمان تقریبی رسیدن را نمی‌گوید." },
+      { "key": "D", "text_nl": "Ik ben al op mijn werk.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_traffic", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "در راه مطب دکتر در ترافیک گیر افتاده‌ای. باید پیام بدهی که کمی دیر می‌رسی.",
+    "question_text_nl": "Je bent op weg naar de dokter, maar je staat vast in het verkeer.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو در ترافیک هستی و چند دقیقه دیر می‌رسی.",
+    "grammar_rule_fa": "از «Ik sta in de file en ben iets later» استفاده کن.",
+    "extra_example_nl": "Ik sta in de file, ik ben ongeveer 10 minuten later.",
+    "extra_example_fa": "در ترافیک هستم، حدود ۱۰ دقیقه دیرتر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik sta in de file. Ik ben ongeveer 10 minuten later.", "is_correct": true, "feedback_fa": "✅ درست؛ کوتاه و روشن است." },
+      { "key": "B", "text_nl": "Ik kom morgen wel.", "is_correct": false, "feedback_fa": "این جمله معنای متفاوتی دارد، الغای وقت است نه اطلاع تأخیر." },
+      { "key": "C", "text_nl": "Het verkeer interesseert me niet.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik ben er al.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_traffic", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "برای دیدن دوستت در ترافیک گیر افتاده‌ای. باید پیام بدهی که کمی دیرتر می‌رسی و دلیلش را بگویی.",
+    "question_text_nl": "Je bent op weg naar je vriendin, maar er is veel verkeer.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "دلیل تأخیر و زمان تقریبی رسیدن را بنویس.",
+    "grammar_rule_fa": "از «Sorry, ik sta in de file, ik ben er over...» استفاده کن.",
+    "extra_example_nl": "Sorry, ik sta in de file. Ik ben er over 15 minuten.",
+    "extra_example_fa": "ببخشید، در ترافیک هستم. تا ۱۵ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik sta in de file. Ik ben er over 15 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی، دلیل و زمان تقریبی هر سه دارد." },
+      { "key": "B", "text_nl": "Ik kom vandaag helemaal niet.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد، لغو کردن است نه تأخیر." },
+      { "key": "C", "text_nl": "Het verkeer is jouw schuld niet.", "is_correct": false, "feedback_fa": "این جمله عجیب و بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik rijd graag auto.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_public_transport", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "قطارت تأخیر داشته و دیر به سر کار می‌رسی. باید به همکارت پیام بدهی.",
+    "question_text_nl": "Je trein heeft vertraging en je komt te laat op je werk.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو قطار تأخیر دارد و تقریباً چه زمانی می‌رسی.",
+    "grammar_rule_fa": "از «Mijn trein heeft vertraging» استفاده کن.",
+    "extra_example_nl": "Mijn trein heeft vertraging, ik ben er over 30 minuten.",
+    "extra_example_fa": "قطارم تأخیر دارد، تا ۳۰ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Mijn trein heeft vertraging, ik ben er over 30 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و زمان تقریبی هر دو دارد." },
+      { "key": "B", "text_nl": "Treinen zijn altijd op tijd.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Ik neem vandaag de auto.", "is_correct": false, "feedback_fa": "این جمله زمان تقریبی رسیدن را نمی‌دهد." },
+      { "key": "D", "text_nl": "Ik ben net wakker geworden.", "is_correct": false, "feedback_fa": "این جمله دلیل دیگری است و با موقعیت مطابقت ندارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_public_transport", "life_context": "school",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "اتوبوس تأخیر داشته و دیر می‌رسی تا فرزندت را از مدرسه بگیری. باید به مدرسه پیام بدهی.",
+    "question_text_nl": "De bus heeft vertraging en je komt te laat om je kind op te halen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو اتوبوس تأخیر دارد و کمی دیرتر می‌رسی.",
+    "grammar_rule_fa": "از «De bus heeft vertraging, ik ben iets later» استفاده کن.",
+    "extra_example_nl": "De bus heeft vertraging, ik ben ongeveer 10 minuten later.",
+    "extra_example_fa": "اتوبوس تأخیر دارد، حدود ۱۰ دقیقه دیرتر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "De bus heeft vertraging, ik ben ongeveer 10 minuten later.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن و مؤدبانه است." },
+      { "key": "B", "text_nl": "Mijn kind kan wel wachten.", "is_correct": false, "feedback_fa": "این جمله درست اطلاع‌رسانی نمی‌کند و نامناسب است." },
+      { "key": "C", "text_nl": "Bussen zijn niet betrouwbaar.", "is_correct": false, "feedback_fa": "این جمله شکایت است، نه اطلاع‌رسانی." },
+      { "key": "D", "text_nl": "Ik kom morgen ophalen.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_public_transport", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "مترو تأخیر داشته و برای دیدن دوستت دیر می‌رسی. باید پیام بدهی و زمان تقریبی رسیدن را بگویی.",
+    "question_text_nl": "De metro heeft vertraging en je komt te laat bij je vriend.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "دلیل و زمان تقریبی رسیدن را بنویس.",
+    "grammar_rule_fa": "از «Sorry, de metro heeft vertraging» استفاده کن.",
+    "extra_example_nl": "Sorry, de metro heeft vertraging. Ik ben er over 20 minuten.",
+    "extra_example_fa": "ببخشید، مترو تأخیر دارد. تا ۲۰ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, de metro heeft vertraging. Ik ben er over 20 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی، دلیل و زمان هر سه دارد." },
+      { "key": "B", "text_nl": "Ik neem de metro nooit meer.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Metro's zijn snel.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "D", "text_nl": "Ik kom een andere dag wel.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_appointment", "life_context": "dentist",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "کمی دیر به وقت دندان‌پزشکی می‌رسی. باید به مطب پیام بدهی.",
+    "question_text_nl": "Je bent iets later voor je afspraak bij de tandarts.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو کمی دیر می‌رسی و تقریباً چه زمانی.",
+    "grammar_rule_fa": "از «Ik ben helaas iets later» استفاده کن.",
+    "extra_example_nl": "Ik ben helaas iets later, ongeveer 10 minuten.",
+    "extra_example_fa": "متأسفانه کمی دیر می‌رسم، حدود ۱۰ دقیقه.",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben helaas iets later, ongeveer 10 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ مؤدبانه و روشن است." },
+      { "key": "B", "text_nl": "Ik kom niet meer vandaag.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "C", "text_nl": "Mijn tanden zijn gezond.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "De tandarts kan wel wachten.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه و نامناسب است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_appointment", "life_context": "gemeente",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "برای وقت شهرداری کمی دیر می‌رسی چون جای پارک پیدا نکردی. باید توضیح بدهی.",
+    "question_text_nl": "Je bent later voor je afspraak bij de gemeente, want je kon geen parkeerplaats vinden.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "دلیل تأخیر را بگو و زمان تقریبی رسیدن را بنویس.",
+    "grammar_rule_fa": "از «Ik kon geen parkeerplek vinden, ik ben iets later» استفاده کن.",
+    "extra_example_nl": "Ik kon geen parkeerplek vinden. Ik ben over 10 minuten bij u.",
+    "extra_example_fa": "جای پارک پیدا نکردم. تا ۱۰ دقیقه‌ی دیگر آنجا هستم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik kon geen parkeerplek vinden. Ik ben over 10 minuten bij u.", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و زمان تقریبی هر دو دارد." },
+      { "key": "B", "text_nl": "Parkeren is duur in de stad.", "is_correct": false, "feedback_fa": "این جمله شکایت است، نه اطلاع‌رسانی روشن." },
+      { "key": "C", "text_nl": "Ik kom volgende week wel.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "D", "text_nl": "Auto's zijn lastig.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_appointment", "life_context": "hairdresser",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "برای وقت آرایشگاه کمی دیر می‌رسی. باید پیام بدهی.",
+    "question_text_nl": "Je bent iets later voor je afspraak bij de kapper.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو کمی دیر می‌رسی و چقدر.",
+    "grammar_rule_fa": "از «Ik ben ongeveer 5 minuten later» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben ongeveer 5 minuten later.",
+    "extra_example_fa": "ببخشید، حدود ۵ دقیقه دیرتر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben ongeveer 5 minuten later.", "is_correct": true, "feedback_fa": "✅ درست؛ کوتاه، مؤدبانه و روشن است." },
+      { "key": "B", "text_nl": "Ik knip mijn haar zelf wel.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "C", "text_nl": "Kappers zijn duur.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik kom morgen wel langs.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_work", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیشب دیر خوابیدی و صبح دیر بیدار شدی. باید به مدیرت پیام بدهی که دیر می‌رسی.",
+    "question_text_nl": "Je bent te laat opgestaan en komt later op je werk.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "دلیل کوتاه بگو و زمان تقریبی رسیدن را بنویس.",
+    "grammar_rule_fa": "از «Sorry, ik ben te laat opgestaan» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben te laat opgestaan. Ik ben er over 30 minuten.",
+    "extra_example_fa": "ببخشید، دیر بیدار شدم. تا ۳۰ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben te laat opgestaan. Ik ben er over 30 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی، دلیل و زمان هر سه دارد." },
+      { "key": "B", "text_nl": "Ik kom vandaag niet.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "C", "text_nl": "Slapen is belangrijk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik ben nooit te laat.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_work", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "فرزندت صبح مریض شده و باید ابتدا او را به پزشک ببری، پس دیرتر سر کار می‌رسی.",
+    "question_text_nl": "Je kind is ziek geworden en je moet eerst naar de dokter, dus je komt later op je werk.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "دلیل و زمان تقریبی رسیدن را بنویس.",
+    "grammar_rule_fa": "از «Mijn kind is ziek, ik ben later op werk» استفاده کن.",
+    "extra_example_nl": "Mijn kind is ziek. Ik ben er rond 11:00 uur.",
+    "extra_example_fa": "فرزندم مریض است. حدود ساعت ۱۱ می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Mijn kind is ziek, ik moet eerst naar de dokter. Ik ben er rond 11:00 uur.", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و زمان تقریبی هر دو روشن است." },
+      { "key": "B", "text_nl": "Ik kom vandaag helemaal niet werken.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد، غیبت است نه تأخیر." },
+      { "key": "C", "text_nl": "Kinderen worden vaak ziek.", "is_correct": false, "feedback_fa": "این جمله اطلاع‌رسانی درستی نیست." },
+      { "key": "D", "text_nl": "Ik ga vandaag niet naar de dokter.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_meeting", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "برای جلسه‌ی صبح کمی دیر می‌رسی. باید به همکارانت پیام بدهی.",
+    "question_text_nl": "Je bent iets later voor de vergadering vanochtend.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو کمی دیر می‌رسی و زمان تقریبی.",
+    "grammar_rule_fa": "از «Ik ben iets later voor de vergadering» استفاده کن.",
+    "extra_example_nl": "Ik ben ongeveer 10 minuten later voor de vergadering.",
+    "extra_example_fa": "حدود ۱۰ دقیقه برای جلسه دیرتر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben ongeveer 10 minuten later voor de vergadering.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن و کوتاه است." },
+      { "key": "B", "text_nl": "Vergaderingen duren te lang.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Ik kom morgen naar de vergadering.", "is_correct": false, "feedback_fa": "این جمله روز اشتباه را می‌گوید." },
+      { "key": "D", "text_nl": "Ik ben al in de vergadering.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_meeting", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "قبل از یک جلسه‌ی مهم با یک مشتری تلفنی صحبت داشتی و کمی دیر به جلسه می‌رسی. باید توضیح بدهی.",
+    "question_text_nl": "Je had een telefoongesprek met een klant en bent daardoor later voor de belangrijke vergadering.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "دلیل تأخیر را کوتاه بگو و زمان تقریبی رسیدن را بنویس.",
+    "grammar_rule_fa": "از «Ik had een gesprek met een klant, ik ben iets later» استفاده کن.",
+    "extra_example_nl": "Ik had een gesprek met een klant. Ik ben er over 5 minuten.",
+    "extra_example_fa": "با یک مشتری صحبت داشتم. تا ۵ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik had een gesprek met een klant. Ik ben er over 5 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و زمان تقریبی هر دو دارد." },
+      { "key": "B", "text_nl": "Klanten bellen te veel.", "is_correct": false, "feedback_fa": "این جمله شکایت است، اطلاع‌رسانی نیست." },
+      { "key": "C", "text_nl": "Ik kom niet naar de vergadering.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "D", "text_nl": "De vergadering is niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه و نامناسب است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_short_time", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "فقط چند دقیقه دیر می‌رسی برای دیدن دوستت. باید پیام کوتاه بدهی.",
+    "question_text_nl": "Je bent maar een paar minuten later bij je vriend.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "برای تأخیر کوتاه، پیام ساده و کوتاه کافی است.",
+    "grammar_rule_fa": "از «Ik ben er over 5 minuutjes» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben er over 5 minuutjes!",
+    "extra_example_fa": "ببخشید، تا ۵ دقیقه‌ی دیگر می‌رسم!",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben er over 5 minuutjes!", "is_correct": true, "feedback_fa": "✅ درست؛ کوتاه و دوستانه است." },
+      { "key": "B", "text_nl": "Ik kom vandaag niet meer.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "C", "text_nl": "Vriendschap is belangrijk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik weet niet hoe laat ik kom.", "is_correct": false, "feedback_fa": "این جمله برای تأخیر کوتاه مبهم است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_short_time", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "چند دقیقه دیرتر به خانه‌ی خانواده می‌رسی. باید پیام کوتاه بدهی.",
+    "question_text_nl": "Je bent een paar minuten later bij je familie thuis.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "پیام کوتاه با زمان تقریبی کافی است.",
+    "grammar_rule_fa": "از «Ik ben er zo, over 10 minuten» استفاده کن.",
+    "extra_example_nl": "Ik ben er zo, over 10 minuten!",
+    "extra_example_fa": "الان می‌رسم، تا ۱۰ دقیقه‌ی دیگر!",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben er zo, over 10 minuten!", "is_correct": true, "feedback_fa": "✅ درست؛ کوتاه و روشن است." },
+      { "key": "B", "text_nl": "Ik kom vanavond niet.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "C", "text_nl": "Familie is belangrijk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik weet het echt niet.", "is_correct": false, "feedback_fa": "این جمله زمان تقریبی نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_long_time", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "به‌خاطر یک تصادف کوچک خیلی دیر می‌رسی به مطب دکتر. شاید بهتر باشد وقت را عوض کنی.",
+    "question_text_nl": "Door een klein ongeluk ben je heel laat voor je afspraak bij de dokter.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "وقتی تأخیر خیلی زیاد است، دلیل بگو و بپرس آیا باید وقت را عوض کنی.",
+    "grammar_rule_fa": "از «Ik ben veel te laat, kan ik een nieuwe afspraak maken?» استفاده کن.",
+    "extra_example_nl": "Ik ben veel te laat door een ongeluk. Kan ik een nieuwe afspraak maken?",
+    "extra_example_fa": "به‌خاطر یک تصادف خیلی دیر شده. می‌شود وقت جدید بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben veel te laat door een klein ongeluk. Kan ik een nieuwe afspraak maken?", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و راه‌حل هر دو دارد." },
+      { "key": "B", "text_nl": "Ik kom over een paar minuten.", "is_correct": false, "feedback_fa": "این جمله شدت تأخیر را کم نشان می‌دهد." },
+      { "key": "C", "text_nl": "Ongelukken gebeuren vaak.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik ga niet meer naar de dokter.", "is_correct": false, "feedback_fa": "این جمله با هدف تو تناقض دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_long_time", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "به‌خاطر مشکل بزرگ در حمل‌ونقل، خیلی دیر سر کار می‌رسی، شاید ظهر. باید توضیح کامل بدهی.",
+    "question_text_nl": "Door grote problemen met het openbaar vervoer kom je pas rond de middag op je werk.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "برای تأخیر طولانی، دلیل و زمان تقریبی جدید را کامل بنویس.",
+    "grammar_rule_fa": "از «Door grote problemen met het vervoer ben ik pas rond... er» استفاده کن.",
+    "extra_example_nl": "Door grote problemen met het vervoer ben ik pas rond 12:00 uur op werk.",
+    "extra_example_fa": "به‌خاطر مشکلات بزرگ حمل‌ونقل، تازه حدود ساعت ۱۲ سر کار می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Door grote problemen met het vervoer ben ik pas rond 12:00 uur op werk.", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و زمان تقریبی کامل است." },
+      { "key": "B", "text_nl": "Ik kom morgen wel werken.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "C", "text_nl": "Het openbaar vervoer is soms lastig.", "is_correct": false, "feedback_fa": "این جمله زمان تقریبی رسیدن را نمی‌دهد." },
+      { "key": "D", "text_nl": "Ik ben ziek vandaag.", "is_correct": false, "feedback_fa": "این جمله دلیل اشتباهی است و با وضعیت مطابقت ندارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_apology_included", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیر به دیدار دوستت می‌رسی. باید هم عذرخواهی کنی هم زمان بگویی.",
+    "question_text_nl": "Je bent later bij je vriendin en wilt het combineren met een excuus.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی و زمان تقریبی را با هم بنویس.",
+    "grammar_rule_fa": "از «Sorry dat ik later ben, ik ben er over...» استفاده کن.",
+    "extra_example_nl": "Sorry dat ik later ben, ik ben er over 10 minuten.",
+    "extra_example_fa": "ببخشید که دیرتر می‌رسم، تا ۱۰ دقیقه‌ی دیگر می‌آیم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry dat ik later ben, ik ben er over 10 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و زمان تقریبی هر دو دارد." },
+      { "key": "B", "text_nl": "Het is jouw schuld dat ik later ben.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و تقصیر را به دوستت می‌اندازد." },
+      { "key": "C", "text_nl": "Ik kom vandaag niet meer, doei.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد و بدون عذرخواهی است." },
+      { "key": "D", "text_nl": "Tijd is niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی یا اطلاع‌رسانی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_apology_included", "life_context": "neighbour",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "قرار بود وسیله‌ای را به همسایه‌ات پس بدهی اما دیر می‌رسی. باید عذرخواهی کنی و زمان بگویی.",
+    "question_text_nl": "Je zou iets terugbrengen naar je buurvrouw, maar je bent later.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کوتاه و زمان تقریبی بنویس.",
+    "grammar_rule_fa": "از «Sorry, ik ben iets later» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben iets later. Ik kom over 15 minuten langs.",
+    "extra_example_fa": "ببخشید، کمی دیرتر می‌رسم. تا ۱۵ دقیقه‌ی دیگر می‌آیم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben iets later. Ik kom over 15 minuten langs.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و زمان تقریبی همان روز را دارد." },
+      { "key": "B", "text_nl": "Ik kom het morgen wel terugbrengen.", "is_correct": false, "feedback_fa": "این جمله برنامه را کاملاً تغییر می‌دهد، پیام تأخیر همان روز نیست." },
+      { "key": "C", "text_nl": "Buren moeten geduldig zijn.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است." },
+      { "key": "D", "text_nl": "Ik heb het spullen niet meer.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است و با وضعیت مطابقت ندارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_apology_included", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "دیر به سر کار می‌رسی چون ماشینت روشن نشد. باید عذرخواهی کنی، دلیل بگویی و زمان تقریبی رسیدن را بنویسی.",
+    "question_text_nl": "Je auto startte niet en je bent daardoor later op je werk.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی، دلیل و زمان تقریبی، هر سه را با هم بنویس.",
+    "grammar_rule_fa": "از «Sorry, mijn auto startte niet, ik ben iets later» استفاده کن.",
+    "extra_example_nl": "Sorry, mijn auto startte niet. Ik ben er over 20 minuten.",
+    "extra_example_fa": "ببخشید، ماشینم روشن نشد. تا ۲۰ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, mijn auto startte niet. Ik ben er over 20 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی، دلیل و زمان هر سه دارد." },
+      { "key": "B", "text_nl": "Auto's zijn soms lastig.", "is_correct": false, "feedback_fa": "این جمله مبهم است و زمان تقریبی نمی‌دهد." },
+      { "key": "C", "text_nl": "Ik kom vandaag niet werken.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "D", "text_nl": "Het is niet mijn schuld.", "is_correct": false, "feedback_fa": "این جمله دفاعی و نامناسب است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_new_eta", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیر شده و باید زمان جدید رسیدن را به دوستت بگویی.",
+    "question_text_nl": "Je bent later en wilt een nieuwe aankomsttijd doorgeven aan je vriend.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "زمان تقریبی جدید را واضح بنویس.",
+    "grammar_rule_fa": "از «Ik ben er om...» استفاده کن.",
+    "extra_example_nl": "Ik ben er om 19:30 uur in plaats van 19:00 uur.",
+    "extra_example_fa": "ساعت ۱۹:۳۰ می‌رسم به‌جای ۱۹:۰۰.",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben er om 19:30 uur in plaats van 19:00 uur.", "is_correct": true, "feedback_fa": "✅ درست؛ زمان جدید دقیق داده شده." },
+      { "key": "B", "text_nl": "Ik kom later, misschien.", "is_correct": false, "feedback_fa": "این جمله مبهم است." },
+      { "key": "C", "text_nl": "Tijd gaat snel.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik weet het niet zeker.", "is_correct": false, "feedback_fa": "این جمله زمان جدید را نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_new_eta", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیر شده و باید زمان جدید رسیدن را به خانواده بگویی.",
+    "question_text_nl": "Je bent later en wilt een nieuwe aankomsttijd doorgeven aan je familie.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "زمان تقریبی جدید را واضح بنویس.",
+    "grammar_rule_fa": "از «Ik ben er rond...» استفاده کن.",
+    "extra_example_nl": "Ik ben er rond 20:00 uur.",
+    "extra_example_fa": "حدود ساعت ۲۰:۰۰ می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben er rond 20:00 uur.", "is_correct": true, "feedback_fa": "✅ درست؛ زمان جدید روشن است." },
+      { "key": "B", "text_nl": "Ik kom vanavond niet.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "C", "text_nl": "Ik hou van mijn familie.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Misschien kom ik, misschien niet.", "is_correct": false, "feedback_fa": "این جمله مبهم است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_new_eta", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیر شده و باید زمان جدید رسیدن سرکار را به مدیرت بگویی.",
+    "question_text_nl": "Je bent later en wilt een nieuwe aankomsttijd doorgeven aan je manager.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "زمان تقریبی جدید ورود به کار را واضح بنویس.",
+    "grammar_rule_fa": "از «Ik ben er rond...» استفاده کن.",
+    "extra_example_nl": "Ik ben er rond 09:30 uur op werk.",
+    "extra_example_fa": "حدود ساعت ۹:۳۰ سر کار می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben er rond 09:30 uur op werk.", "is_correct": true, "feedback_fa": "✅ درست؛ زمان جدید روشن است." },
+      { "key": "B", "text_nl": "Ik kom vandaag niet werken.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "C", "text_nl": "Werk is belangrijk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik weet niet hoe laat ik kom.", "is_correct": false, "feedback_fa": "این جمله زمان جدید نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_asking_to_wait", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیر رسیدی و می‌خواهی از دوستت بخواهی کمی صبر کند.",
+    "question_text_nl": "Je bent later en wilt je vriend vragen om even te wachten.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "مؤدبانه بخواه صبر کند و زمان تقریبی بگو.",
+    "grammar_rule_fa": "از «Kun je even wachten?» استفاده کن.",
+    "extra_example_nl": "Kun je even wachten? Ik ben er over 10 minuten.",
+    "extra_example_fa": "می‌شود کمی صبر کنی؟ تا ۱۰ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Kun je even wachten? Ik ben er over 10 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ درخواست صبر و زمان تقریبی هر دو دارد." },
+      { "key": "B", "text_nl": "Ga maar naar huis.", "is_correct": false, "feedback_fa": "این جمله درخواست صبر کردن نیست." },
+      { "key": "C", "text_nl": "Wachten is niet leuk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik kom niet meer.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_asking_to_wait", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "دیر رسیدی به یک مراسم خانوادگی و می‌خواهی از خانواده بخواهی شروع را کمی به تأخیر بیندازند.",
+    "question_text_nl": "Je bent later voor een familiefeest en wilt vragen om nog even te wachten met beginnen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "مؤدبانه بخواه صبر کنند و دلیل کوتاه بگو.",
+    "grammar_rule_fa": "از «Kunnen jullie nog even wachten?» استفاده کن.",
+    "extra_example_nl": "Kunnen jullie nog even wachten? Ik ben er over 15 minuten.",
+    "extra_example_fa": "می‌شود کمی صبر کنید؟ تا ۱۵ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Kunnen jullie nog even wachten met beginnen? Ik ben er over 15 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ درخواست مؤدبانه و زمان تقریبی هر دو دارد." },
+      { "key": "B", "text_nl": "Begin maar zonder mij, voor altijd.", "is_correct": false, "feedback_fa": "این جمله عجیب و غیرطبیعی است." },
+      { "key": "C", "text_nl": "Feesten zijn leuk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik kom niet naar het feest.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_traffic", "life_context": "school",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "در ترافیک هستی و دیر می‌رسی تا فرزندت را از مدرسه بگیری. باید به مدرسه پیام بدهی.",
+    "question_text_nl": "Je zit in het verkeer en komt te laat om je kind op te halen van school.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو در ترافیک هستی و کمی دیرتر می‌رسی.",
+    "grammar_rule_fa": "از «Ik sta in de file, ik ben iets later» استفاده کن.",
+    "extra_example_nl": "Ik sta in de file, ik ben over 10 minuten bij school.",
+    "extra_example_fa": "در ترافیک هستم، تا ۱۰ دقیقه‌ی دیگر به مدرسه می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Ik sta in de file, ik ben over 10 minuten bij school.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن و مسئولانه است." },
+      { "key": "B", "text_nl": "Mijn kind kan wel alleen naar huis lopen.", "is_correct": false, "feedback_fa": "این جمله نامناسب و غیرمسئولانه است." },
+      { "key": "C", "text_nl": "Het verkeer is normaal druk vandaag.", "is_correct": false, "feedback_fa": "این جمله زمان تقریبی رسیدن را نمی‌دهد." },
+      { "key": "D", "text_nl": "Ik haal mijn kind morgen op.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_public_transport", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "قطارت لغو شده و باید با اتوبوس بروی، پس دیرتر به مطب دکتر می‌رسی. باید توضیح بدهی.",
+    "question_text_nl": "Je trein is uitgevallen en je moet de bus nemen, dus je bent later bij de dokter.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "دلیل و زمان تقریبی رسیدن را بنویس.",
+    "grammar_rule_fa": "از «Mijn trein is uitgevallen, ik ben iets later» استفاده کن.",
+    "extra_example_nl": "Mijn trein is uitgevallen. Ik ben er over 25 minuten.",
+    "extra_example_fa": "قطارم لغو شده. تا ۲۵ دقیقه‌ی دیگر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Mijn trein is uitgevallen. Ik ben er over 25 minuten.", "is_correct": true, "feedback_fa": "✅ درست؛ دلیل و زمان تقریبی هر دو دارد." },
+      { "key": "B", "text_nl": "Treinen rijden altijd op tijd.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "C", "text_nl": "Ik neem de bus nooit.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "D", "text_nl": "Ik kom een andere dag.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_appointment", "life_context": "sports_club",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "برای تمرین ورزشی کمی دیر می‌رسی. باید به مربی پیام بدهی.",
+    "question_text_nl": "Je bent iets later voor de training bij de sportclub.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "بگو کمی دیر می‌رسی و چند دقیقه.",
+    "grammar_rule_fa": "از «Ik ben ongeveer 10 minuten later» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben ongeveer 10 minuten later voor de training.",
+    "extra_example_fa": "ببخشید، حدود ۱۰ دقیقه برای تمرین دیرتر می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben ongeveer 10 minuten later voor de training.", "is_correct": true, "feedback_fa": "✅ درست؛ کوتاه و روشن است." },
+      { "key": "B", "text_nl": "Sport is gezond.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "C", "text_nl": "Ik kom vandaag niet trainen.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "D", "text_nl": "Trainingen zijn altijd op tijd.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_long_time", "life_context": "restaurant",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "برای شام با دوستانت در رستوران خیلی دیر می‌رسی. باید توضیح بدهی و زمان جدید بگویی.",
+    "question_text_nl": "Je bent heel laat voor het avondeten met vrienden in het restaurant.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کن و زمان تقریبی جدید بنویس.",
+    "grammar_rule_fa": "از «Sorry, ik ben veel later» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben veel later. Ik ben er om 20:00 uur.",
+    "extra_example_fa": "ببخشید، خیلی دیرتر می‌رسم. ساعت ۲۰:۰۰ می‌رسم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben veel later. Ik ben er om 20:00 uur.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و زمان جدید هر دو دارد." },
+      { "key": "B", "text_nl": "Begin maar te eten zonder mij, ik kom niet.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد، لغو کردن است نه تأخیر." },
+      { "key": "C", "text_nl": "Restaurants zijn duur.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik hou niet van wachten.", "is_correct": false, "feedback_fa": "این جمله اطلاع‌رسانی نیست و بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "saying_delay", "subtopic": "delay_new_eta", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیر شده و باید زمان جدید رسیدن به مطب دکتر را بگویی.",
+    "question_text_nl": "Je bent later en wilt een nieuwe aankomsttijd doorgeven aan de dokterspraktijk.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "زمان تقریبی جدید رسیدن را واضح بنویس.",
+    "grammar_rule_fa": "از «Ik ben er rond...» استفاده کن.",
+    "extra_example_nl": "Ik ben er rond 11:15 uur in plaats van 11:00 uur.",
+    "extra_example_fa": "حدود ساعت ۱۱:۱۵ می‌رسم به‌جای ۱۱:۰۰.",
+    "options": [
+      { "key": "A", "text_nl": "Ik ben er rond 11:15 uur in plaats van 11:00 uur.", "is_correct": true, "feedback_fa": "✅ درست؛ زمان جدید دقیق داده شده." },
+      { "key": "B", "text_nl": "Ik kom vandaag niet meer.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." },
+      { "key": "C", "text_nl": "Dokters wachten graag.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط و نامناسب است." },
+      { "key": "D", "text_nl": "Ik weet niet hoe laat ik kom.", "is_correct": false, "feedback_fa": "این جمله زمان جدید نمی‌دهد." }
+    ]
+  }
+]

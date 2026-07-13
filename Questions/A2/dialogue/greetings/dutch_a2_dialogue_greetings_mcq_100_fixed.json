@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "basic_greetings",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Hallo.\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "شخصی به تو می‌گوید «Hallo». بهترین پاسخ چیست؟",
+    "explanation_fa": "برای جواب دادن به یک سلام ساده، می‌توانی همان سلام را برگردانی.",
+    "dialogue_rule_fa": "در سلام ساده، پاسخ کوتاه و طبیعی هم می‌تواند «Hallo» باشد.",
+    "extra_example_nl": "Hallo, hoe gaat het?",
+    "extra_example_fa": "سلام، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hallo.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hallo.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "basic_greetings",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je vriend op straat.",
+    "question_text_nl": "Kies de beste informele groet.",
+    "question_text_fa": "دوستت را در خیابان می‌بینی. بهترین سلام غیررسمی چیست؟",
+    "explanation_fa": "برای دوست و آشنا، «Hoi» یک سلام کوتاه و غیررسمی است.",
+    "dialogue_rule_fa": "برای دوست یا آشنا می‌توانی از «Hoi» استفاده کنی.",
+    "extra_example_nl": "Hoi, alles goed?",
+    "extra_example_fa": "سلام، همه‌چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoi.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoi.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "basic_greetings",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt een bekende tegen in de bibliotheek.",
+    "question_text_nl": "Wat zeg je om te groeten?",
+    "question_text_fa": "یک آشنا را در کتابخانه می‌بینی. برای سلام چه می‌گویی؟",
+    "explanation_fa": "«Dag» می‌تواند یک سلام ساده و خنثی باشد.",
+    "dialogue_rule_fa": "«Dag» در هلندی هم برای سلام و هم برای خداحافظی به کار می‌رود؛ در شروع دیدار هم مناسب است.",
+    "extra_example_nl": "Dag, hoe gaat het?",
+    "extra_example_fa": "سلام، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Dag.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "basic_greetings",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begroet een klant op een nette manier.",
+    "question_text_nl": "Kies de beste groet.",
+    "question_text_fa": "می‌خواهی به یک مشتری مؤدبانه سلام کنی. بهترین گزینه چیست؟",
+    "explanation_fa": "«Goedendag» سلامی مؤدبانه و عمومی است.",
+    "dialogue_rule_fa": "برای سلام رسمی یا مؤدبانه می‌توانی «Goedendag» بگویی.",
+    "extra_example_nl": "Goedendag, hoe gaat het met u?",
+    "extra_example_fa": "روز بخیر، حالتان چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoi.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام غیررسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی و دیدار بعدی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heet Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedendag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedendag.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "basic_greetings",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Hoi, alles goed?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه به شکل دوستانه احوال‌پرسی می‌کند. بهترین پاسخ چیست؟",
+    "explanation_fa": "در پاسخ به سلام و احوال‌پرسی دوستانه، می‌توانی کوتاه جواب بدهی.",
+    "dialogue_rule_fa": "در مکالمه غیررسمی، پاسخ کوتاه مثل «Hoi, ja goed» طبیعی است.",
+    "extra_example_nl": "Hoi, alles goed? Ja, prima.",
+    "extra_example_fa": "سلام، همه‌چیز خوب است؟ بله، خوبم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoi, ja goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoi, ja goed.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل مؤدبانه و رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "basic_greetings",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet een bekende in de straat.",
+    "question_text_nl": "Kies de beste groet.",
+    "question_text_fa": "یک آشنا را در خیابان می‌بینی. بهترین سلام ساده چیست؟",
+    "explanation_fa": "«Hallo» برای سلام عمومی و روزمره مناسب است.",
+    "dialogue_rule_fa": "برای سلام عمومی و ساده از «Hallo» استفاده می‌کنیم.",
+    "extra_example_nl": "Hallo, leuk je te zien.",
+    "extra_example_fa": "سلام، خوشحالم می‌بینمت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Fijne avond.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی عصر یا شب خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hallo.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hallo.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat is uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Prettig kennis te maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یعنی «از آشنایی خوشوقتم» و برای اولین ملاقات است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "basic_greetings",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je komt je klasgenoot tegen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همکلاسی‌ات را می‌بینی. چه می‌گویی؟",
+    "explanation_fa": "برای همکلاسی می‌توانی غیررسمی سلام و احوال‌پرسی کنی.",
+    "dialogue_rule_fa": "با هم‌سن یا همکلاسی معمولاً از «je» و جمله‌های غیررسمی استفاده می‌شود.",
+    "extra_example_nl": "Hoi, hoe gaat het?",
+    "extra_example_fa": "سلام، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoi, alles goed?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoi, alles goed?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemiddag, mevrouw.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام رسمی در ظهر یا بعدازظهر است، اما برای context فعلی بهترین گزینه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "basic_greetings",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begint een telefoongesprek met een bekende.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "با یک آشنا تماس تلفنی را شروع می‌کنی. بهترین شروع چیست؟",
+    "explanation_fa": "در تماس تلفنی می‌توانی با «Hallo, met ...» خودت را معرفی کنی.",
+    "dialogue_rule_fa": "برای شروع تماس تلفنی ساده می‌گویی: «Hallo, met + naam».",
+    "extra_example_nl": "Hallo, met Sara.",
+    "extra_example_fa": "سلام، سارا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doei, tot later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hallo, met Amir.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hallo, met Amir.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "basic_greetings",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je komt een kleine winkel binnen en groet de medewerker netjes.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "وارد یک مغازه کوچک می‌شوی و مؤدبانه سلام می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "«Goedendag» برای سلام مؤدبانه در مغازه مناسب است.",
+    "dialogue_rule_fa": "در موقعیت‌های نیمه‌رسمی مثل مغازه، «Goedendag» طبیعی است.",
+    "extra_example_nl": "Goedendag, hoe gaat het?",
+    "extra_example_fa": "روز بخیر، حالتان چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedendag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedendag.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben moe.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یعنی «خسته‌ام» و ممکن است در پاسخ به احوال‌پرسی بیاید، اما برای این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "basic_greetings",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Hoi!\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "کسی به تو می‌گوید «Hoi!». کدام جواب مناسب است؟",
+    "explanation_fa": "برای جواب به «Hoi»، تکرار همان سلام طبیعی است.",
+    "dialogue_rule_fa": "در پاسخ به سلام غیررسمی، می‌توانی همان سلام را بگویی.",
+    "extra_example_nl": "Hoi! Leuk je te zien.",
+    "extra_example_fa": "سلام! خوشحالم می‌بینمت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoi!",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoi!» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heet Reza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "time_of_day_greetings",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt om 08:30 op je werk.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "ساعت ۸:۳۰ صبح وارد محل کار می‌شوی. چه می‌گویی؟",
+    "explanation_fa": "صبح برای سلام از «Goedemorgen» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "صبح: Goedemorgen.",
+    "extra_example_nl": "Goedemorgen, hoe gaat het?",
+    "extra_example_fa": "صبح بخیر، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemorgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedemorgen.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijne avond.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی عصر یا شب خوب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "time_of_day_greetings",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt om 14:00 een winkel binnen.",
+    "question_text_nl": "Kies de beste groet.",
+    "question_text_fa": "ساعت ۱۴ وارد مغازه می‌شوی. بهترین سلام چیست؟",
+    "explanation_fa": "بعدازظهر از «Goedemiddag» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "ظهر و بعدازظهر: Goedemiddag.",
+    "extra_example_nl": "Goedemiddag, kan ik u helpen?",
+    "extra_example_fa": "بعدازظهر بخیر، می‌توانم کمکتان کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot straks.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی کمی بعد دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemiddag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedemiddag.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "time_of_day_greetings",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je buurman om 19:30.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "ساعت ۱۹:۳۰ همسایه‌ات را می‌بینی. چه می‌گویی؟",
+    "explanation_fa": "عصر و شب برای سلام از «Goedenavond» استفاده می‌شود.",
+    "dialogue_rule_fa": "عصر/شب: Goedenavond.",
+    "extra_example_nl": "Goedenavond, hoe gaat het?",
+    "extra_example_fa": "عصر بخیر، حالتان چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenavond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedenavond.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام ظهر یا بعدازظهر است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "time_of_day_greetings",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je gaat slapen en zegt dag tegen je familie.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی بخوابی و با خانواده خداحافظی می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "قبل از خواب یا پایان شب از «Goedenacht» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "قبل از خواب: Goedenacht.",
+    "extra_example_nl": "Goedenacht, slaap lekker.",
+    "extra_example_fa": "شب بخیر، خوب بخوابی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام ظهر یا بعدازظهر است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedenacht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedenacht.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hallo.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام کردن است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال است، نه پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "time_of_day_greetings",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je neemt in de ochtend afscheid na een kort gesprek.",
+    "question_text_nl": "Kies de beste wens.",
+    "question_text_fa": "صبح بعد از یک گفت‌وگوی کوتاه خداحافظی می‌کنی. بهترین آرزو چیست؟",
+    "explanation_fa": "برای آرزو کردن روز خوب می‌گویی «Fijne dag».",
+    "dialogue_rule_fa": "برای پایان مکالمه در روز: Fijne dag.",
+    "extra_example_nl": "Fijne dag en tot ziens!",
+    "extra_example_fa": "روز خوبی داشته باش و خداحافظ!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijne dag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Fijne dag.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "time_of_day_greetings",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je gaat om 18:00 naar huis en zegt dag tegen je collega.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "ساعت ۱۸ از محل کار می‌روی و با همکارت خداحافظی می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "در پایان روز یا عصر می‌توانی «Fijne avond» بگویی.",
+    "dialogue_rule_fa": "برای خداحافظی در عصر: Fijne avond.",
+    "extra_example_nl": "Tot morgen, fijne avond!",
+    "extra_example_fa": "تا فردا، عصر خوبی داشته باش!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijne avond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Fijne avond.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "time_of_day_greetings",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet je docent om 09:00.",
+    "question_text_nl": "Kies de beste formele groet.",
+    "question_text_fa": "ساعت ۹ صبح معلمت را می‌بینی. بهترین سلام رسمی چیست؟",
+    "explanation_fa": "برای معلم در صبح، «Goedemorgen» مؤدبانه و مناسب است.",
+    "dialogue_rule_fa": "در context رسمی، سلام بر اساس زمان روز طبیعی است.",
+    "extra_example_nl": "Goedemorgen, meneer.",
+    "extra_example_fa": "صبح بخیر، آقا.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedemorgen.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoi.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام غیررسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "time_of_day_greetings",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt om 12:30 iemand tegen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "ساعت ۱۲:۳۰ کسی را می‌بینی. چه می‌گویی؟",
+    "explanation_fa": "برای حوالی ظهر و بعدازظهر از «Goedemiddag» استفاده می‌شود.",
+    "dialogue_rule_fa": "ظهر/بعدازظهر: Goedemiddag.",
+    "extra_example_nl": "Goedemiddag, alles goed?",
+    "extra_example_fa": "ظهر بخیر، همه‌چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenavond.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام عصر یا شب است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemiddag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedemiddag.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "time_of_day_greetings",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet je buurvrouw laat in de avond bij de deur.",
+    "question_text_nl": "Kies de beste groet.",
+    "question_text_fa": "آخر شب همسایه‌ات را جلوی در می‌بینی. بهترین سلام چیست؟",
+    "explanation_fa": "وقتی هنوز سلام می‌کنی و مکالمه شروع می‌شود، «Goedenavond» مناسب است.",
+    "dialogue_rule_fa": "برای سلام شبانه از «Goedenavond» استفاده کن؛ «Goedenacht» بیشتر قبل از خواب است.",
+    "extra_example_nl": "Goedenavond, mevrouw.",
+    "extra_example_fa": "شب بخیر، خانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام ظهر یا بعدازظهر است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedenavond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedenavond.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot straks.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی کمی بعد دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "time_of_day_greetings",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je sluit een gesprek af voordat iemand naar bed gaat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "گفت‌وگو را تمام می‌کنی و طرف مقابل می‌خواهد بخوابد. چه می‌گویی؟",
+    "explanation_fa": "در پایان شب و قبل از خواب «Goedenacht» مناسب است.",
+    "dialogue_rule_fa": "قبل از خواب یا پایان شب: Goedenacht.",
+    "extra_example_nl": "Goedenacht, tot morgen.",
+    "extra_example_fa": "شب بخیر، تا فردا.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedendag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک سلام عمومی و کمی رسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heet Reza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedenacht.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "introductions_name",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ontmoet iemand voor het eerst.",
+    "question_text_nl": "Hoe stel je jezelf voor?",
+    "question_text_fa": "برای اولین بار کسی را می‌بینی. چطور خودت را معرفی می‌کنی؟",
+    "explanation_fa": "برای معرفی ساده خودت می‌توانی بگویی «Ik ben + naam».",
+    "dialogue_rule_fa": "برای معرفی خود: Ik ben + naam.",
+    "extra_example_nl": "Ik ben Amir.",
+    "extra_example_fa": "من امیر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben Sara.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Ik ben Sara.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "introductions_name",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je begint een kennismaking in een groep.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "در یک گروه جدید خودت را معرفی می‌کنی. بهترین جمله چیست؟",
+    "explanation_fa": "«Mijn naam is ...» یعنی «نام من ... است» و برای معرفی مناسب است.",
+    "dialogue_rule_fa": "برای گفتن نام: Mijn naam is + naam.",
+    "extra_example_nl": "Mijn naam is Sara.",
+    "extra_example_fa": "نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Mijn naam is Amir.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijne dag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی روز خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "introductions_name",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zegt je naam tegen een nieuwe klasgenoot.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "به یک همکلاسی جدید اسمت را می‌گویی. چه می‌گویی؟",
+    "explanation_fa": "«Ik heet ...» برای گفتن اسم خودت استفاده می‌شود.",
+    "dialogue_rule_fa": "برای معرفی خود می‌توانی بگویی: Ik heet + naam.",
+    "extra_example_nl": "Ik heet Lina.",
+    "extra_example_fa": "اسم من لینا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heet Reza.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Ik heet Reza.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "introductions_name",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je stelt jezelf netjes voor aan een collega.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "خودت را مؤدبانه به یک همکار معرفی می‌کنی. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله هم سلام دارد و هم معرفی ساده خود.",
+    "dialogue_rule_fa": "در شروع آشنایی، سلام + معرفی نام طبیعی است.",
+    "extra_example_nl": "Hallo, ik ben Sara.",
+    "extra_example_fa": "سلام، من سارا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doei, tot later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goed weekend.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی آخرهفته خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hallo, ik ben Amir.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hallo, ik ben Amir.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "introductions_name",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begint een telefoongesprek en zegt wie je bent.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "تماس تلفنی را شروع می‌کنی و می‌گویی چه کسی هستی. چه می‌گویی؟",
+    "explanation_fa": "در تماس تلفنی، «met + naam» یعنی «... هستم».",
+    "dialogue_rule_fa": "در تلفن: Hallo, met + naam.",
+    "extra_example_nl": "Hallo, met Amir.",
+    "extra_example_fa": "سلام، امیر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hallo, met Sara.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hallo, met Sara.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "introductions_name",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ontmoet een nieuwe buur.",
+    "question_text_nl": "Hoe stel je jezelf voor?",
+    "question_text_fa": "با همسایه جدید آشنا می‌شوی. چطور خودت را معرفی می‌کنی؟",
+    "explanation_fa": "«Ik ben Ali» معرفی ساده و طبیعی است.",
+    "dialogue_rule_fa": "برای معرفی ساده از «Ik ben ...» استفاده می‌کنیم.",
+    "extra_example_nl": "Ik ben Nadia.",
+    "extra_example_fa": "من نادیا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben Ali.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Ik ben Ali.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijne avond.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی عصر یا شب خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "introductions_name",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zit in een taalgroep en iedereen zegt zijn naam.",
+    "question_text_nl": "Kies jouw zin.",
+    "question_text_fa": "در گروه زبان، همه اسم خود را می‌گویند. جمله تو چیست؟",
+    "explanation_fa": "برای گفتن اسم در گروه، «Mijn naam is ...» مناسب است.",
+    "dialogue_rule_fa": "برای معرفی رسمی‌تر: Mijn naam is + naam.",
+    "extra_example_nl": "Mijn naam is Reza.",
+    "extra_example_fa": "نام من رضا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alles goed?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل غیررسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot straks.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی کمی بعد دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn naam is Mina.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Mijn naam is Mina.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام ظهر یا بعدازظهر است، اما برای context فعلی بهترین گزینه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "introductions_name",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je vriend stelt je voor aan iemand nieuw.",
+    "question_text_nl": "Wat zeg je over jezelf?",
+    "question_text_fa": "دوستت تو را به یک نفر جدید معرفی می‌کند. درباره خودت چه می‌گویی؟",
+    "explanation_fa": "«Ik heet Daan» یعنی «اسم من دان است».",
+    "dialogue_rule_fa": "برای گفتن اسم خودت: Ik heet + naam.",
+    "extra_example_nl": "Ik heet Sara.",
+    "extra_example_fa": "اسم من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat is uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijne dag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی روز خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heet Daan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Ik heet Daan.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "introductions_name",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begint een korte kennismaking op je werk.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "در محل کار یک آشنایی کوتاه را شروع می‌کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله سلام مؤدبانه و معرفی ساده دارد.",
+    "dialogue_rule_fa": "در موقعیت کاری، سلام مؤدبانه + معرفی نام مناسب است.",
+    "extra_example_nl": "Goedendag, ik ben Sara.",
+    "extra_example_fa": "روز بخیر، من سارا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedendag, ik ben Amir.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedendag, ik ben Amir.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe is het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل غیررسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "introductions_name",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Hallo, ik ben Sara.\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "سارا خودش را معرفی می‌کند. بهترین پاسخ چیست؟",
+    "explanation_fa": "وقتی کسی خودش را معرفی می‌کند، تو هم می‌توانی با سلام و نام خودت جواب بدهی.",
+    "dialogue_rule_fa": "در معرفی دوطرفه، می‌گویی: Hallo, ik ben + naam.",
+    "extra_example_nl": "Hallo, ik ben Reza.",
+    "extra_example_fa": "سلام، من رضا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hallo, ik ben Amir.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hallo, ik ben Amir.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijne avond.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی عصر یا شب خوب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_name",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je praat met een nieuwe klasgenoot van jouw leeftijd.",
+    "question_text_nl": "Hoe vraag je zijn naam?",
+    "question_text_fa": "با یک همکلاسی جدید هم‌سن صحبت می‌کنی. چطور اسمش را می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن اسم به‌صورت غیررسمی از «Hoe heet je?» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "با دوست یا هم‌سن: Hoe heet je?",
+    "extra_example_nl": "Hoe heet je? Ik heet Amir.",
+    "extra_example_fa": "اسمت چیست؟ اسم من امیر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe heet je?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_name",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je spreekt een klant netjes aan.",
+    "question_text_nl": "Hoe vraag je zijn naam?",
+    "question_text_fa": "با یک مشتری مؤدبانه صحبت می‌کنی. چطور اسمش را می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن اسم در موقعیت رسمی از «u» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "رسمی: Hoe heet u?",
+    "extra_example_nl": "Hoe heet u, alstublieft?",
+    "extra_example_fa": "نام شما چیست، لطفاً؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heet Reza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe heet u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe heet u?» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_name",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zit naast een nieuwe student.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کنار یک دانش‌آموز جدید نشسته‌ای. چه می‌پرسی؟",
+    "explanation_fa": "«Wat is je naam?» پرسیدن نام به شکل غیررسمی است.",
+    "dialogue_rule_fa": "غیررسمی: Wat is je naam?",
+    "extra_example_nl": "Wat is je naam? Mijn naam is Amir.",
+    "extra_example_fa": "اسمت چیست؟ اسم من امیر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat is je naam?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Wat is je naam?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn naam is Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای پرسیدن اسم یا context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijne dag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی روز خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_name",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je helpt bij een balie en wilt de naam van iemand weten.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "در یک میز پذیرش کمک می‌کنی و می‌خواهی نام کسی را بدانی. بهترین سؤال چیست؟",
+    "explanation_fa": "برای موقعیت رسمی و مؤدبانه از «uw» استفاده می‌شود.",
+    "dialogue_rule_fa": "رسمی: Wat is uw naam?",
+    "extra_example_nl": "Wat is uw naam?",
+    "extra_example_fa": "نام شما چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat is je naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat is uw naam?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Wat is uw naam?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoi.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام غیررسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی و دیدار بعدی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_name",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent aan de telefoon en wilt beleefd de naam vragen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در تماس تلفنی می‌خواهی مؤدبانه نام را بپرسی. چه می‌گویی؟",
+    "explanation_fa": "«Mag ik uw naam?» یک جمله مؤدبانه برای پرسیدن نام است.",
+    "dialogue_rule_fa": "برای پرسیدن نام مؤدبانه: Mag ik uw naam?",
+    "extra_example_nl": "Mag ik uw naam, alstublieft?",
+    "extra_example_fa": "ممکن است نامتان را بفرمایید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben moe.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یعنی «خسته‌ام» و ممکن است در پاسخ به احوال‌پرسی بیاید، اما برای این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw naam?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Mag ik uw naam?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_name",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Ik ben Sara.\nB: ___",
+    "question_text_nl": "Kies het beste antwoord om ook haar naam te vragen.",
+    "question_text_fa": "سارا خودش را معرفی می‌کند. برای پرسیدن اسم طرف مقابل چه می‌گویی؟",
+    "explanation_fa": "بعد از گفتن نام، «En jij?» یعنی «و تو؟» و غیررسمی است.",
+    "dialogue_rule_fa": "با دوست یا آشنا می‌توانی کوتاه بپرسی: En jij?",
+    "extra_example_nl": "Ik ben Amir. En jij?",
+    "extra_example_fa": "من امیر هستم. تو چی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "En jij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «En jij?» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_name",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ontmoet een nieuwe buurvrouw en spreekt netjes.",
+    "question_text_nl": "Hoe vraag je haar naam?",
+    "question_text_fa": "با همسایه جدید آشنا می‌شوی و مؤدبانه صحبت می‌کنی. چطور نامش را می‌پرسی؟",
+    "explanation_fa": "برای فردی که رسمی‌تر خطاب می‌شود، از «u» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "در موقعیت مؤدبانه: Hoe heet u?",
+    "extra_example_nl": "Hoe heet u? Ik ben Amir.",
+    "extra_example_fa": "نام شما چیست؟ من امیر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe heet u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe heet u?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoi, alles goed?",
+        "is_correct": false,
+        "feedback_fa": "این جمله سلام و احوال‌پرسی غیررسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot straks.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی کمی بعد دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_name",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je praat met een kind in de straat en vraagt zijn naam vriendelijk.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "با یک کودک در خیابان دوستانه صحبت می‌کنی و اسمش را می‌پرسی. چه می‌گویی؟",
+    "explanation_fa": "برای کودک یا هم‌سن، «je» طبیعی‌تر است.",
+    "dialogue_rule_fa": "غیررسمی: Hoe heet je?",
+    "extra_example_nl": "Hoi, hoe heet je?",
+    "extra_example_fa": "سلام، اسمت چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe heet je?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijne avond.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی عصر یا شب خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_name",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je vraagt in een formele afspraak naar de naam.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "در یک قرار رسمی نام طرف مقابل را می‌پرسی. کدام جمله مناسب است؟",
+    "explanation_fa": "در قرار رسمی باید از «uw» استفاده شود.",
+    "dialogue_rule_fa": "رسمی: Wat is uw naam?",
+    "extra_example_nl": "Goedemorgen, wat is uw naam?",
+    "extra_example_fa": "صبح بخیر، نام شما چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat is je naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat is uw naam?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Wat is uw naam?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heet Ali.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_name",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Iemand zegt: Mijn naam is Amir. Je wilt kort terugvragen.",
+    "question_text_nl": "Wat zeg je informeel?",
+    "question_text_fa": "کسی می‌گوید نامم امیر است. تو غیررسمی و کوتاه می‌پرسی اسم طرف مقابل چیست. چه می‌گویی؟",
+    "explanation_fa": "«En jij?» در گفت‌وگوی غیررسمی برای برگرداندن سؤال مناسب است.",
+    "dialogue_rule_fa": "بعد از معرفی غیررسمی می‌توانی بپرسی: En jij?",
+    "extra_example_nl": "Ik heet Sara. En jij?",
+    "extra_example_fa": "اسم من سارا است. تو چی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل مؤدبانه و رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "En jij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «En jij?» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_how_are_you",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet een bekende en wilt vragen hoe het gaat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک آشنا را می‌بینی و می‌خواهی حالش را بپرسی. چه می‌گویی؟",
+    "explanation_fa": "«Hoe gaat het?» پرسش ساده برای احوال‌پرسی است.",
+    "dialogue_rule_fa": "برای پرسیدن حال عمومی: Hoe gaat het?",
+    "extra_example_nl": "Hallo, hoe gaat het?",
+    "extra_example_fa": "سلام، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe gaat het?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_how_are_you",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je praat met een vriend.",
+    "question_text_nl": "Kies de beste informele vraag.",
+    "question_text_fa": "با یک دوست صحبت می‌کنی. بهترین سؤال غیررسمی چیست؟",
+    "explanation_fa": "برای دوست، از «je» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "غیررسمی: Hoe gaat het met je?",
+    "extra_example_nl": "Hoi, hoe gaat het met je?",
+    "extra_example_fa": "سلام، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe gaat het met je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe gaat het met je?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijne dag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی روز خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heet Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_how_are_you",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je praat beleefd met een klant.",
+    "question_text_nl": "Hoe vraag je hoe het gaat?",
+    "question_text_fa": "با یک مشتری مؤدبانه صحبت می‌کنی. چطور حالش را می‌پرسی؟",
+    "explanation_fa": "برای مشتری یا موقعیت رسمی از «u» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "رسمی: Hoe gaat het met u?",
+    "extra_example_nl": "Goedendag, hoe gaat het met u?",
+    "extra_example_fa": "روز بخیر، حالتان چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het met je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل غیررسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe gaat het met u?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn naam is Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای پرسیدن اسم یا context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_how_are_you",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je buurman en vraagt kort of alles goed is.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همسایه‌ات را می‌بینی و کوتاه می‌پرسی همه‌چیز خوب است یا نه. چه می‌گویی؟",
+    "explanation_fa": "«Alles goed?» احوال‌پرسی کوتاه و روزمره است.",
+    "dialogue_rule_fa": "برای احوال‌پرسی کوتاه غیررسمی: Alles goed?",
+    "extra_example_nl": "Hoi, alles goed?",
+    "extra_example_fa": "سلام، همه‌چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alles goed?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Alles goed?» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_how_are_you",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet iemand die een beetje moe lijkt.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "کسی را می‌بینی که کمی خسته به نظر می‌رسد. بهترین سؤال احوال‌پرسی چیست؟",
+    "explanation_fa": "«Gaat het goed?» یعنی «حالت خوب است؟» و برای پرسیدن حال مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن حال با نگرانی ساده: Gaat het goed?",
+    "extra_example_nl": "Gaat het goed met je?",
+    "extra_example_fa": "حالت خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Gaat het goed?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Gaat het goed?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat is uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben moe.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یعنی «خسته‌ام» و ممکن است در پاسخ به احوال‌پرسی بیاید، اما برای این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_how_are_you",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je begint een kort gesprek met een vriend.",
+    "question_text_nl": "Wat zeg je na Hoi?",
+    "question_text_fa": "بعد از «Hoi» با یک دوست گفت‌وگو را شروع می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "«Hoe is het?» یک احوال‌پرسی غیررسمی و کوتاه است.",
+    "dialogue_rule_fa": "در گفت‌وگوی دوستانه، «Hoe is het?» طبیعی است.",
+    "extra_example_nl": "Hoi, hoe is het?",
+    "extra_example_fa": "سلام، چطوری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Fijne avond.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی عصر یا شب خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe is het?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe is het?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heet Reza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot straks.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی کمی بعد دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_how_are_you",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt een bekende en vraagt hoe het gaat.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "به یک آشنا زنگ می‌زنی و حالش را می‌پرسی. بهترین جمله چیست؟",
+    "explanation_fa": "در تماس با آشنا هم «Hoe gaat het?» برای احوال‌پرسی مناسب است.",
+    "dialogue_rule_fa": "برای شروع دوستانه تماس: Hallo, hoe gaat het?",
+    "extra_example_nl": "Hallo, hoe gaat het?",
+    "extra_example_fa": "سلام، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل مؤدبانه و رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe gaat het?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_how_are_you",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je praat met je docent en vraagt netjes hoe het gaat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "با معلمت صحبت می‌کنی و مؤدبانه حالش را می‌پرسی. چه می‌گویی؟",
+    "explanation_fa": "برای معلم معمولاً «u» مؤدبانه‌تر است.",
+    "dialogue_rule_fa": "با معلم یا فرد رسمی: Hoe gaat het met u?",
+    "extra_example_nl": "Goedemorgen, hoe gaat het met u?",
+    "extra_example_fa": "صبح بخیر، حالتان چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het met je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل غیررسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe gaat het met u?» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_how_are_you",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Hallo!\nB: Hallo! ___",
+    "question_text_nl": "Welke zin past om naar de ander te vragen?",
+    "question_text_fa": "بعد از سلام، می‌خواهی حال طرف مقابل را بپرسی. کدام جمله مناسب است؟",
+    "explanation_fa": "بعد از سلام می‌توانی با «Hoe gaat het?» احوال‌پرسی را ادامه بدهی.",
+    "dialogue_rule_fa": "سلام + Hoe gaat het? یک شروع مکالمه ساده است.",
+    "extra_example_nl": "Hallo, hoe gaat het?",
+    "extra_example_fa": "سلام، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe gaat het?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heet Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "asking_how_are_you",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je komt een collega tegen en vraagt vriendelijk hoe het gaat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک همکار را می‌بینی و دوستانه حالش را می‌پرسی. چه می‌گویی؟",
+    "explanation_fa": "بین همکاران، «Alles goed?» یک احوال‌پرسی کوتاه و طبیعی است.",
+    "dialogue_rule_fa": "برای احوال‌پرسی کوتاه: Alles goed?",
+    "extra_example_nl": "Hoi, alles goed?",
+    "extra_example_fa": "سلام، همه‌چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goed weekend.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی آخرهفته خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alles goed?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Alles goed?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای پرسیدن اسم یا context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "responding_how_are_you",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Hoe gaat het?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "کسی می‌پرسد حالت چطور است. بهترین پاسخ چیست؟",
+    "explanation_fa": "«Goed, dank je» پاسخ ساده و طبیعی به احوال‌پرسی است.",
+    "dialogue_rule_fa": "پاسخ ساده به Hoe gaat het?: Goed, dank je.",
+    "extra_example_nl": "Goed, dank je. En met jou?",
+    "extra_example_fa": "خوبم، ممنون. تو چطوری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goed, dank je.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goed, dank je.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "responding_how_are_you",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Hoe gaat het met u?\nB: ___",
+    "question_text_nl": "Kies het beste formele antwoord.",
+    "question_text_fa": "کسی مؤدبانه می‌پرسد حالتان چطور است. بهترین پاسخ رسمی چیست؟",
+    "explanation_fa": "وقتی با «u» صحبت می‌شود، «dank u» مؤدبانه‌تر است.",
+    "dialogue_rule_fa": "رسمی: Goed, dank u.",
+    "extra_example_nl": "Goed, dank u. En met u?",
+    "extra_example_fa": "خوبم، ممنون. شما چطورید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoi.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام غیررسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goed, dank u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goed, dank u.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "responding_how_are_you",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Alles goed?\nB: ___",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دوستت می‌پرسد همه‌چیز خوب است؟ چه می‌گویی؟",
+    "explanation_fa": "«Prima, dank je» یک پاسخ دوستانه به احوال‌پرسی است.",
+    "dialogue_rule_fa": "برای جواب دوستانه: Prima, dank je.",
+    "extra_example_nl": "Prima, dank je. En jij?",
+    "extra_example_fa": "خوبم، ممنون. تو چی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Prima, dank je.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Prima, dank je.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat is uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "responding_how_are_you",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Hoe gaat het?\nB: ___",
+    "question_text_nl": "Kies een passend antwoord.",
+    "question_text_fa": "همسایه می‌پرسد حالت چطور است. پاسخ مناسب چیست؟",
+    "explanation_fa": "«Het gaat goed» یعنی «خوب است» و پاسخ به احوال‌پرسی است.",
+    "dialogue_rule_fa": "برای جواب دادن می‌توانی بگویی: Het gaat goed.",
+    "extra_example_nl": "Het gaat goed, dank je.",
+    "extra_example_fa": "خوب است، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het gaat goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Het gaat goed.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی و دیدار بعدی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "responding_how_are_you",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Hoe gaat het?\nB: ___",
+    "question_text_nl": "Kies het antwoord als het niet perfect gaat.",
+    "question_text_fa": "اگر حالت خیلی عالی نیست، چه پاسخی مناسب است؟",
+    "explanation_fa": "«Het gaat wel» یعنی «بد نیست/می‌گذرد» و پاسخ طبیعی است.",
+    "dialogue_rule_fa": "اگر حالت متوسط است: Het gaat wel.",
+    "extra_example_nl": "Het gaat wel, dank je.",
+    "extra_example_fa": "بد نیست، ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het gaat wel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Het gaat wel.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijne dag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی روز خوب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "responding_how_are_you",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Alles goed?\nB: ___",
+    "question_text_nl": "Kies het antwoord als je je niet goed voelt.",
+    "question_text_fa": "اگر حالت خوب نیست، چه جواب کوتاهی می‌دهی؟",
+    "explanation_fa": "«Niet zo goed» یعنی «خیلی خوب نیستم» و پاسخ به احوال‌پرسی است.",
+    "dialogue_rule_fa": "برای حال بد: Niet zo goed.",
+    "extra_example_nl": "Niet zo goed vandaag.",
+    "extra_example_fa": "امروز خیلی خوب نیستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat is je naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet zo goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Niet zo goed.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "responding_how_are_you",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Hoe gaat het met u?\nB: Goed, dank u. ___",
+    "question_text_nl": "Kies de beste vervolgvraag.",
+    "question_text_fa": "بعد از پاسخ رسمی می‌خواهی حال طرف مقابل را هم بپرسی. چه می‌گویی؟",
+    "explanation_fa": "در موقعیت رسمی برای برگشت سؤال از «En met u?» استفاده می‌شود.",
+    "dialogue_rule_fa": "رسمی: En met u?",
+    "extra_example_nl": "Goed, dank u. En met u?",
+    "extra_example_fa": "خوبم، ممنون. شما چطورید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "En met u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «En met u?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "En met jou?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال طرف مقابل بعد از پاسخ به احوال‌پرسی است، اما برای context فعلی کامل‌ترین پاسخ نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "responding_how_are_you",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Hoe gaat het met je?\nB: Goed, dank je. ___",
+    "question_text_nl": "Kies de beste informele vervolgvraag.",
+    "question_text_fa": "در گفت‌وگوی دوستانه می‌خواهی بپرسی «تو چطوری؟». چه می‌گویی؟",
+    "explanation_fa": "برای دوست از «jou» استفاده می‌شود.",
+    "dialogue_rule_fa": "غیررسمی: En met jou?",
+    "extra_example_nl": "Prima, dank je. En met jou?",
+    "extra_example_fa": "خوبم، ممنون. تو چطوری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "En met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال طرف مقابل به شکل رسمی بعد از پاسخ به احوال‌پرسی است، اما برای context فعلی کامل‌ترین پاسخ نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "En met jou?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «En met jou?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل مؤدبانه و رسمی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "responding_how_are_you",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Hoe gaat het?\nB: ___",
+    "question_text_nl": "Kies het antwoord als je moe bent.",
+    "question_text_fa": "اگر خسته‌ای، در جواب احوال‌پرسی چه می‌گویی؟",
+    "explanation_fa": "«Ik ben moe» پاسخ ساده برای گفتن وضعیتت است.",
+    "dialogue_rule_fa": "در جواب حال، می‌توانی وضعیت ساده خودت را بگویی.",
+    "extra_example_nl": "Ik ben moe, maar het gaat.",
+    "extra_example_fa": "خسته‌ام، ولی می‌گذرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben moe.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Ik ben moe.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام ظهر یا بعدازظهر است، اما برای context فعلی بهترین گزینه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "responding_how_are_you",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Hallo, hoe gaat het?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord aan de telefoon.",
+    "question_text_fa": "در تماس تلفنی کسی می‌پرسد حالت چطور است. بهترین جواب چیست؟",
+    "explanation_fa": "در تماس دوستانه، «Prima, dank je» پاسخ طبیعی است.",
+    "dialogue_rule_fa": "به احوال‌پرسی می‌توانی کوتاه و دوستانه جواب بدهی.",
+    "extra_example_nl": "Prima, dank je. En met jou?",
+    "extra_example_fa": "خوبم، ممنون. تو چطوری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat is uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Prima, dank je.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Prima, dank je.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "formal_informal_greetings",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begroet je manager in de ochtend.",
+    "question_text_nl": "Kies de beste formele groet.",
+    "question_text_fa": "صبح به مدیرت سلام می‌کنی. بهترین سلام رسمی چیست؟",
+    "explanation_fa": "برای موقعیت رسمی در صبح، «Goedemorgen» مناسب است.",
+    "dialogue_rule_fa": "در موقعیت رسمی، از سلام مؤدبانه استفاده کن.",
+    "extra_example_nl": "Goedemorgen, hoe gaat het met u?",
+    "extra_example_fa": "صبح بخیر، حالتان چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedemorgen.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoi.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام غیررسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "formal_informal_greetings",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet een goede vriend.",
+    "question_text_nl": "Kies de beste informele groet.",
+    "question_text_fa": "یک دوست صمیمی را می‌بینی. بهترین سلام غیررسمی چیست؟",
+    "explanation_fa": "برای دوست صمیمی، «Hoi» طبیعی و غیررسمی است.",
+    "dialogue_rule_fa": "با دوست از «Hoi» و «je» استفاده می‌کنیم.",
+    "extra_example_nl": "Hoi, hoe gaat het met je?",
+    "extra_example_fa": "سلام، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedendag, mevrouw.",
+        "is_correct": false,
+        "feedback_fa": "این جمله سلام رسمی به خانم است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoi.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoi.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "formal_informal_greetings",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je vraagt netjes aan een klant hoe het gaat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "مؤدبانه از یک مشتری حالش را می‌پرسی. چه می‌گویی؟",
+    "explanation_fa": "برای مشتری از «u» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "رسمی: Hoe gaat het met u?",
+    "extra_example_nl": "Goedendag, hoe gaat het met u?",
+    "extra_example_fa": "روز بخیر، حالتان چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het met je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل غیررسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe gaat het met u?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "formal_informal_greetings",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je vraagt aan je vriend hoe het gaat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "از دوستت می‌پرسی حالت چطور است. چه می‌گویی؟",
+    "explanation_fa": "برای دوست از «je» استفاده می‌شود.",
+    "dialogue_rule_fa": "غیررسمی: Hoe gaat het met je?",
+    "extra_example_nl": "Hoi, hoe gaat het met je?",
+    "extra_example_fa": "سلام، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل مؤدبانه و رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe gaat het met je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoe gaat het met je?» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "formal_informal_greetings",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Een klant helpt jou en je wilt netjes bedanken.",
+    "question_text_nl": "Kies de formele zin.",
+    "question_text_fa": "یک مشتری به تو کمک می‌کند و می‌خواهی رسمی تشکر کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "در موقعیت رسمی یا با مشتری از «Dank u wel» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "رسمی: Dank u wel.",
+    "extra_example_nl": "Dank u wel, tot ziens.",
+    "extra_example_fa": "خیلی ممنون، خداحافظ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Dank u wel.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dank je.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoi.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام غیررسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "formal_informal_greetings",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je vriend helpt jou en je wilt kort bedanken.",
+    "question_text_nl": "Kies de informele zin.",
+    "question_text_fa": "دوستت به تو کمک می‌کند و می‌خواهی کوتاه و غیررسمی تشکر کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "برای دوست یا آشنا از «Dank je» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "غیررسمی: Dank je.",
+    "extra_example_nl": "Dank je, doei!",
+    "extra_example_fa": "ممنون، خداحافظ!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u wel.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تشکر رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dank je.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Dank je.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat is uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "formal_informal_greetings",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je neemt formeel afscheid van een klant.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "با یک مشتری رسمی خداحافظی می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "«Tot ziens» خداحافظی رسمی یا نیمه‌رسمی است.",
+    "dialogue_rule_fa": "برای خداحافظی رسمی: Tot ziens.",
+    "extra_example_nl": "Tot ziens, fijne dag.",
+    "extra_example_fa": "خداحافظ، روز خوبی داشته باشید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoi.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام غیررسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot ziens.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Tot ziens.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "formal_informal_greetings",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zegt informeel dag tegen je vriend.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "با دوستت غیررسمی خداحافظی می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "«Doei» خداحافظی غیررسمی است.",
+    "dialogue_rule_fa": "با دوست می‌توانی بگویی: Doei.",
+    "extra_example_nl": "Doei, tot later!",
+    "extra_example_fa": "خداحافظ، بعداً می‌بینمت!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot ziens, mevrouw.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی رسمی با خانم است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedendag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک سلام عمومی و کمی رسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Doei.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Doei.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "formal_informal_greetings",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begroet je docent netjes.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "به معلمت مؤدبانه سلام می‌کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "برای معلم، سلام مؤدبانه با «meneer/mevrouw» مناسب است.",
+    "dialogue_rule_fa": "در موقعیت رسمی، جمله را مؤدبانه و با «u» یا عنوان مناسب بگو.",
+    "extra_example_nl": "Goedemiddag, mevrouw.",
+    "extra_example_fa": "بعدازظهر بخیر، خانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemiddag, meneer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedemiddag, meneer.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoi vriend.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام غیررسمی به یک دوست است، اما برای context فعلی مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "formal_informal_greetings",
+    "life_context": "street",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je groet een buurkind informeel.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "به کودک همسایه غیررسمی سلام می‌کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "برای کودک یا آشنا، سلام غیررسمی طبیعی است.",
+    "dialogue_rule_fa": "در موقعیت غیررسمی از «Hoi» و «je» استفاده می‌کنیم.",
+    "extra_example_nl": "Hoi, hoe gaat het?",
+    "extra_example_fa": "سلام، حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedendag, meneer.",
+        "is_correct": false,
+        "feedback_fa": "این جمله سلام رسمی به آقا است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoi, alles goed?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hoi, alles goed?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "first_meeting_polite",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Hallo, ik ben Amir.\nB: ___",
+    "question_text_nl": "Kies het beste antwoord bij een eerste ontmoeting.",
+    "question_text_fa": "امیر خودش را معرفی می‌کند. در اولین ملاقات بهترین پاسخ چیست؟",
+    "explanation_fa": "در اولین ملاقات، «Aangenaam» یعنی «خوشوقتم» و مناسب است.",
+    "dialogue_rule_fa": "برای اولین ملاقات می‌گویی: Aangenaam.",
+    "extra_example_nl": "Aangenaam, ik ben Sara.",
+    "extra_example_fa": "خوشوقتم، من سارا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Aangenaam.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Aangenaam.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "first_meeting_polite",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je ontmoet een klant voor het eerst.",
+    "question_text_nl": "Kies de beste beleefde zin.",
+    "question_text_fa": "برای اولین بار یک مشتری را می‌بینی. بهترین جمله مؤدبانه چیست؟",
+    "explanation_fa": "برای مشتری یا موقعیت رسمی از «u» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "رسمی: Leuk u te ontmoeten.",
+    "extra_example_nl": "Leuk u te ontmoeten, meneer.",
+    "extra_example_fa": "از آشنایی با شما خوشحالم، آقا.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Leuk je te ontmoeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Leuk u te ontmoeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Leuk u te ontmoeten.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "first_meeting_polite",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ontmoet een vriend van je broer voor het eerst.",
+    "question_text_nl": "Wat zeg je informeel?",
+    "question_text_fa": "برای اولین بار دوست برادرت را می‌بینی. غیررسمی چه می‌گویی؟",
+    "explanation_fa": "برای فرد هم‌سن یا غیررسمی از «je» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "غیررسمی: Leuk je te ontmoeten.",
+    "extra_example_nl": "Leuk je te ontmoeten, ik ben Amir.",
+    "extra_example_fa": "خوشحالم می‌بینمت، من امیر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Leuk je te ontmoeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Leuk je te ontmoeten.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Leuk u te ontmoeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "first_meeting_polite",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je stelt je voor in een nette groep.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "در یک گروه مؤدبانه خودت را معرفی می‌کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "«Prettig kennis te maken» برای آشنایی رسمی و مؤدبانه است.",
+    "dialogue_rule_fa": "برای آشنایی مؤدبانه: Prettig kennis te maken.",
+    "extra_example_nl": "Prettig kennis te maken, ik ben Sara.",
+    "extra_example_fa": "از آشنایی خوشوقتم، من سارا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Prettig kennis te maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Prettig kennis te maken.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alles goed?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل غیررسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben moe.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یعنی «خسته‌ام» و ممکن است در پاسخ به احوال‌پرسی بیاید، اما برای این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "first_meeting_polite",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je ziet een docent voor het eerst.",
+    "question_text_nl": "Kies de beste formele zin.",
+    "question_text_fa": "برای اولین بار یک معلم را می‌بینی. بهترین جمله رسمی چیست؟",
+    "explanation_fa": "برای معلم یا فرد رسمی، «u» مناسب‌تر است.",
+    "dialogue_rule_fa": "رسمی: Fijn u te ontmoeten.",
+    "extra_example_nl": "Fijn u te ontmoeten, mevrouw.",
+    "extra_example_fa": "از ملاقات شما خوشحالم، خانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Fijn je te ontmoeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot straks.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی کمی بعد دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijn u te ontmoeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Fijn u te ontmoeten.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoi.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام غیررسمی است، اما برای context فعلی بهترین گزینه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "first_meeting_polite",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Ik ben Sara.\nB: ___",
+    "question_text_nl": "Kies het beste korte antwoord.",
+    "question_text_fa": "سارا خودش را معرفی می‌کند. بهترین پاسخ کوتاه چیست؟",
+    "explanation_fa": "این پاسخ هم خوشوقتی را نشان می‌دهد و هم تو را معرفی می‌کند.",
+    "dialogue_rule_fa": "در اولین ملاقات، «Aangenaam» + معرفی خود طبیعی است.",
+    "extra_example_nl": "Aangenaam, ik ben Reza.",
+    "extra_example_fa": "خوشوقتم، من رضا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot ziens, Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی با سارا است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijne avond.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی عصر یا شب خوب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam, ik ben Amir.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Aangenaam, ik ben Amir.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "first_meeting_polite",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je ontmoet een nieuwe collega voor het eerst.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "برای اولین بار همکار جدید را می‌بینی. چه می‌گویی؟",
+    "explanation_fa": "برای همکار جدید در فضای دوستانه، «Leuk je te ontmoeten» طبیعی است.",
+    "dialogue_rule_fa": "برای اولین ملاقات دوستانه: Leuk je te ontmoeten.",
+    "extra_example_nl": "Leuk je te ontmoeten, ik ben Sara.",
+    "extra_example_fa": "خوشحالم می‌بینمت، من سارا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Leuk je te ontmoeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Leuk je te ontmoeten.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل مؤدبانه و رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "first_meeting_polite",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je ontmoet een ouder persoon voor het eerst en wilt beleefd zijn.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "برای اولین بار یک فرد بزرگ‌تر را می‌بینی و می‌خواهی مؤدب باشی. کدام جمله مناسب است؟",
+    "explanation_fa": "برای فرد بزرگ‌تر یا رسمی، از «u» استفاده می‌کنیم.",
+    "dialogue_rule_fa": "مؤدبانه: Leuk u te ontmoeten.",
+    "extra_example_nl": "Leuk u te ontmoeten, mevrouw.",
+    "extra_example_fa": "از آشنایی با شما خوشحالم، خانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Leuk je te ontmoeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Leuk u te ontmoeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Leuk u te ontmoeten.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoi, alles goed?",
+        "is_correct": false,
+        "feedback_fa": "این جمله سلام و احوال‌پرسی غیررسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot later.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی و دیدار بعدی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "first_meeting_polite",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Een nieuwe student zegt: Hallo, ik ben Lina.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "یک دانش‌آموز جدید می‌گوید: سلام، من لینا هستم. بهترین جواب چیست؟",
+    "explanation_fa": "در آشنایی، خودت را هم معرفی می‌کنی و «Aangenaam» می‌گویی.",
+    "dialogue_rule_fa": "اولین آشنایی: Aangenaam + naam.",
+    "extra_example_nl": "Aangenaam, ik ben Amir.",
+    "extra_example_fa": "خوشوقتم، من امیر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Aangenaam, ik ben Sara.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Aangenaam, ik ben Sara.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "first_meeting_polite",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je begint een nette kennismaking met iemand nieuw.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک آشنایی مؤدبانه با فرد جدید شروع می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "این جمله مخصوص آشنایی و اولین ملاقات است.",
+    "dialogue_rule_fa": "در اولین ملاقات رسمی‌تر، «Prettig kennis te maken» مناسب است.",
+    "extra_example_nl": "Prettig kennis te maken, ik ben Amir.",
+    "extra_example_fa": "از آشنایی خوشوقتم، من امیر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alles goed?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل غیررسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heet Reza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Prettig kennis te maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Prettig kennis te maken.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "saying_goodbye",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je gaat weg van je werk en zegt dag tegen een klant.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "از محل کار می‌روی و با یک مشتری خداحافظی می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "«Tot ziens» خداحافظی رسمی یا نیمه‌رسمی است.",
+    "dialogue_rule_fa": "برای خداحافظی رسمی: Tot ziens.",
+    "extra_example_nl": "Tot ziens, fijne dag.",
+    "extra_example_fa": "خداحافظ، روز خوبی داشته باشید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot ziens.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Tot ziens.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "saying_goodbye",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je gaat weg bij je vriend.",
+    "question_text_nl": "Kies de beste informele afscheidsgroet.",
+    "question_text_fa": "از پیش دوستت می‌روی. بهترین خداحافظی غیررسمی چیست؟",
+    "explanation_fa": "«Doei» برای خداحافظی غیررسمی با دوست مناسب است.",
+    "dialogue_rule_fa": "غیررسمی: Doei.",
+    "extra_example_nl": "Doei, tot later!",
+    "extra_example_fa": "خداحافظ، بعداً می‌بینمت!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedendag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک سلام عمومی و کمی رسمی است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doei.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Doei.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "saying_goodbye",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je klasgenoot morgen weer.",
+    "question_text_nl": "Wat zeg je bij afscheid?",
+    "question_text_fa": "فردا دوباره همکلاسی‌ات را می‌بینی. هنگام خداحافظی چه می‌گویی؟",
+    "explanation_fa": "«Tot morgen» یعنی «تا فردا» و برای خداحافظی مناسب است.",
+    "dialogue_rule_fa": "اگر فردا همدیگر را می‌بینید: Tot morgen.",
+    "extra_example_nl": "Tot morgen, fijne avond.",
+    "extra_example_fa": "تا فردا، عصر خوبی داشته باش.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Tot morgen.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "saying_goodbye",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet je collega over een uur weer.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "یک ساعت دیگر همکارت را دوباره می‌بینی. کدام جمله مناسب است؟",
+    "explanation_fa": "«Tot straks» یعنی «تا کمی بعد» و برای دیدار نزدیک مناسب است.",
+    "dialogue_rule_fa": "اگر به‌زودی دوباره همدیگر را می‌بینید: Tot straks.",
+    "extra_example_nl": "Tot straks bij de koffie.",
+    "extra_example_fa": "تا کمی بعد کنار قهوه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heet Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot straks.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Tot straks.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "saying_goodbye",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je neemt afscheid van een vriend, maar weet niet wanneer je hem weer ziet.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "با دوستت خداحافظی می‌کنی، اما نمی‌دانی کی دوباره می‌بینی‌اش. چه می‌گویی؟",
+    "explanation_fa": "«Tot later» یعنی «بعداً می‌بینمت» و غیررسمی است.",
+    "dialogue_rule_fa": "برای خداحافظی غیررسمی: Tot later.",
+    "extra_example_nl": "Tot later, doei!",
+    "extra_example_fa": "بعداً می‌بینمت، خداحافظ!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot later.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Tot later.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام ظهر یا بعدازظهر است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat is uw naam?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "saying_goodbye",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je verlaat een winkel en wilt beleefd afscheid nemen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "از مغازه خارج می‌شوی و می‌خواهی مؤدبانه خداحافظی کنی. چه می‌گویی؟",
+    "explanation_fa": "«Fijne dag» در پایان مکالمه مؤدبانه و روزمره است.",
+    "dialogue_rule_fa": "برای پایان مکالمه در روز: Fijne dag.",
+    "extra_example_nl": "Tot ziens, fijne dag!",
+    "extra_example_fa": "خداحافظ، روز خوبی داشته باشید!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Fijne dag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Fijne dag.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben moe.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یعنی «خسته‌ام» و ممکن است در پاسخ به احوال‌پرسی بیاید، اما برای این context بهترین پاسخ نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "saying_goodbye",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zegt 's avonds dag tegen je buurvrouw.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "عصر با همسایه‌ات خداحافظی می‌کنی. بهترین جمله چیست؟",
+    "explanation_fa": "در عصر هنگام خداحافظی می‌توانی «Fijne avond» بگویی.",
+    "dialogue_rule_fa": "برای خداحافظی در عصر: Fijne avond.",
+    "extra_example_nl": "Fijne avond en tot ziens.",
+    "extra_example_fa": "عصر خوبی داشته باشید و خداحافظ.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijne avond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Fijne avond.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben Sara.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "saying_goodbye",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Het is vrijdag en je neemt afscheid van je collega.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "جمعه است و با همکارت خداحافظی می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "در پایان هفته می‌توانی «Goed weekend» بگویی.",
+    "dialogue_rule_fa": "برای آخر هفته: Goed weekend.",
+    "extra_example_nl": "Goed weekend, tot maandag!",
+    "extra_example_fa": "آخر هفته خوبی داشته باش، تا دوشنبه!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heet Reza.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود و گفتن اسم است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goed weekend.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goed weekend.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "saying_goodbye",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Ik ga nu weg.\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "کسی می‌گوید الان می‌روم. بهترین پاسخ خداحافظی چیست؟",
+    "explanation_fa": "وقتی کسی می‌رود، «Tot ziens» پاسخ مناسب خداحافظی است.",
+    "dialogue_rule_fa": "برای پایان مکالمه: Tot ziens.",
+    "extra_example_nl": "Tot ziens, fijne dag.",
+    "extra_example_fa": "خداحافظ، روز خوبی داشته باش.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot ziens.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Tot ziens.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "saying_goodbye",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Doei!\nB: ___",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "دوستت می‌گوید «Doei!». چه پاسخی مناسب است؟",
+    "explanation_fa": "در پاسخ به خداحافظی غیررسمی، می‌توانی همان «Doei» را بگویی.",
+    "dialogue_rule_fa": "در خداحافظی دوستانه، پاسخ کوتاه طبیعی است.",
+    "extra_example_nl": "Doei, tot later!",
+    "extra_example_fa": "خداحافظ، بعداً می‌بینمت!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doei!",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Doei!» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Leuk u te ontmoeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات به شکل رسمی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "choosing_best_greeting_dialogue_response",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Goedemorgen.\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "A می‌گوید صبح بخیر. بهترین پاسخ چیست؟",
+    "explanation_fa": "وقتی کسی صبح سلام می‌کند، می‌توانی همان سلام صبح را جواب بدهی.",
+    "dialogue_rule_fa": "در پاسخ به سلام، همان سلام مناسب است.",
+    "extra_example_nl": "Goedemorgen. Goedemorgen.",
+    "extra_example_fa": "صبح بخیر. صبح بخیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemorgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedemorgen.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "choosing_best_greeting_dialogue_response",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Hoi, hoe gaat het?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دوستت می‌پرسد حالت چطور است. بهترین جواب چیست؟",
+    "explanation_fa": "این پاسخ هم جواب احوال‌پرسی است و هم سؤال را برمی‌گرداند.",
+    "dialogue_rule_fa": "در مکالمه دوستانه: Goed, dank je. En met jou?",
+    "extra_example_nl": "Prima, dank je. En met jou?",
+    "extra_example_fa": "خوبم، ممنون. تو چطوری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goed, dank je. En met jou?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goed, dank je. En met jou?» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "choosing_best_greeting_dialogue_response",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Hallo, ik ben Sara.\nB: ___",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "سارا خودش را معرفی می‌کند. بهترین پاسخ چیست؟",
+    "explanation_fa": "در اولین ملاقات، «Aangenaam» و معرفی خود مناسب است.",
+    "dialogue_rule_fa": "اولین ملاقات: Aangenaam + معرفی نام.",
+    "extra_example_nl": "Aangenaam, ik ben Reza.",
+    "extra_example_fa": "خوشوقتم، من رضا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Aangenaam, ik ben Amir.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Aangenaam, ik ben Amir.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot straks.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی کمی بعد دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل رسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijne dag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پایان مکالمه و آرزوی روز خوب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "choosing_best_greeting_dialogue_response",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Hoe gaat het met u?\nB: ___",
+    "question_text_nl": "Kies het beste formele antwoord.",
+    "question_text_fa": "در مکالمه رسمی، کسی حالتان را می‌پرسد. بهترین پاسخ چیست؟",
+    "explanation_fa": "چون مکالمه رسمی است، «dank u» و «met u» مناسب‌تر است.",
+    "dialogue_rule_fa": "در موقعیت رسمی از «u» استفاده می‌کنیم.",
+    "extra_example_nl": "Goed, dank u. En met u?",
+    "extra_example_fa": "خوبم، ممنون. شما چطورید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goed, dank je. En met jou?",
+        "is_correct": false,
+        "feedback_fa": "این جمله پاسخ به احوال‌پرسی و پرسیدن متقابل است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goed, dank u. En met u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goed, dank u. En met u?» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "choosing_best_greeting_dialogue_response",
+    "life_context": "family_friends",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Tot morgen!\nB: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "دوستت می‌گوید «تا فردا!». بهترین پاسخ چیست؟",
+    "explanation_fa": "وقتی کسی می‌گوید «Tot morgen»، جواب طبیعی همان «Tot morgen» است.",
+    "dialogue_rule_fa": "برای دیدار فردا: Tot morgen.",
+    "extra_example_nl": "Tot morgen, fijne avond.",
+    "extra_example_fa": "تا فردا، عصر خوبی داشته باش.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot morgen!",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Tot morgen!» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "choosing_best_greeting_dialogue_response",
+    "life_context": "phone_call",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Hallo, met Amir.\nB: ___",
+    "question_text_nl": "Kies het beste antwoord aan de telefoon.",
+    "question_text_fa": "امیر تماس تلفنی را شروع می‌کند و خودش را معرفی می‌کند. بهترین پاسخ چیست؟",
+    "explanation_fa": "در تلفن می‌توانی با سلام و نام خودت پاسخ بدهی.",
+    "dialogue_rule_fa": "در تماس تلفنی: Hallo, met + naam.",
+    "extra_example_nl": "Hallo, met Reza.",
+    "extra_example_fa": "سلام، رضا هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet u?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل رسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hallo Amir, met Sara.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Hallo Amir, met Sara.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "choosing_best_greeting_dialogue_response",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Goedenavond.\nB: ___",
+    "question_text_nl": "Welke reactie past?",
+    "question_text_fa": "همسایه عصر سلام می‌کند. بهترین پاسخ چیست؟",
+    "explanation_fa": "به سلام عصر/شب با همان «Goedenavond» پاسخ می‌دهیم.",
+    "dialogue_rule_fa": "پاسخ سلام بر اساس زمان روز باید هماهنگ باشد.",
+    "extra_example_nl": "Goedenavond, hoe gaat het?",
+    "extra_example_fa": "عصر بخیر، حالتان چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedenavond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Goedenavond.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot straks.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی کمی بعد دوباره همدیگر را می‌بینید است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "choosing_best_greeting_dialogue_response",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Hoe heet je?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "کسی غیررسمی می‌پرسد اسمت چیست. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای پاسخ به «Hoe heet je?» اسم خودت را با «Ik heet ...» می‌گویی.",
+    "dialogue_rule_fa": "جواب پرسیدن اسم: Ik heet + naam.",
+    "extra_example_nl": "Ik heet Amir.",
+    "extra_example_fa": "اسم من امیر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heet Sara.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Ik heet Sara.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot ziens.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedenacht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر شب یا قبل از خواب است، نه برای context فعلی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "choosing_best_greeting_dialogue_response",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Leuk u te ontmoeten.\nB: ___",
+    "question_text_nl": "Wat zeg je terug?",
+    "question_text_fa": "کسی در اولین ملاقات رسمی می‌گوید از آشنایی با شما خوشحالم. پاسخ مناسب چیست؟",
+    "explanation_fa": "در اولین ملاقات رسمی می‌توانی همان جمله مؤدبانه را برگردانی.",
+    "dialogue_rule_fa": "در پاسخ به جمله آشنایی رسمی، همان عبارت مؤدبانه مناسب است.",
+    "extra_example_nl": "Leuk u te ontmoeten, mevrouw.",
+    "extra_example_fa": "از آشنایی با شما خوشحالم، خانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doei.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی غیررسمی است، نه برای شروع مکالمه یا پاسخ مناسب در این context."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alles goed?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن حال به شکل غیررسمی است، نه پاسخ مناسب در این context."
+      },
+      {
+        "key": "C",
+        "text_nl": "Leuk u te ontmoeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Leuk u te ontmoeten.» در این موقعیت طبیعی و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben moe.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یعنی «خسته‌ام» و ممکن است در پاسخ به احوال‌پرسی بیاید، اما برای این context بهترین پاسخ نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "greetings",
+    "subtopic": "choosing_best_greeting_dialogue_response",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Tot ziens, fijne dag!\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "کسی هنگام خداحافظی می‌گوید روز خوبی داشته باشید. بهترین پاسخ چیست؟",
+    "explanation_fa": "در خداحافظی رسمی، «Dank u, tot ziens» پاسخ مؤدبانه است.",
+    "dialogue_rule_fa": "در پایان مکالمه رسمی می‌توانی تشکر کنی و خداحافظی کنی.",
+    "extra_example_nl": "Dank u, fijne dag.",
+    "extra_example_fa": "ممنون، روز خوبی داشته باشید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام صبح است، اما برای context فعلی بهترین گزینه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe heet je?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن اسم به شکل غیررسمی است، نه برای context فعلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Aangenaam.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای اولین ملاقات و گفتن «خوشوقتم» است، نه برای context فعلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dank u, tot ziens.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «Dank u, tot ziens.» در این موقعیت طبیعی و مناسب است."
+      }
+    ]
+  }
+]

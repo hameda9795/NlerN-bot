@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de winkel: «Vandaag gesloten wegens een feestdag. Morgen zijn we vanaf 10:00 uur weer open, niet vanaf 9:00 uur zoals normaal.»",
+    "question_text_fa": "طبق تابلو، فروشگاه فردا از چه ساعتی باز است؟",
+    "explanation_fa": "متن می‌گوید فردا استثنائاً از ۱۰:۰۰ باز است، نه از ۹:۰۰ که ساعتِ معمول است.",
+    "grammar_rule_fa": "به زمانی که بعد از رد کردن زمانِ معمول می‌آید توجه کن.",
+    "extra_example_nl": "Morgen zijn we vanaf 11:00 uur open, niet vanaf 8:00 uur zoals normaal.",
+    "extra_example_fa": "فردا از ساعت ۱۱:۰۰ باز هستیم، نه ۸:۰۰ که معمول است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "10:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تابلو دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "11:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "12:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "9:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ معمول است، نه فردا."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Roken is hier niet toegestaan. Bellen mag wel, maar alleen buiten bij de deur.»",
+    "question_text_fa": "طبق تابلو، کدام کار در این‌جا مجاز است؟",
+    "explanation_fa": "متن می‌گوید سیگار کشیدن ممنوع است، اما تماس تلفنی فقط بیرون کنار در مجاز است.",
+    "grammar_rule_fa": "کلمه‌ی «wel» نشان می‌دهد این کار برخلاف مورد قبلی مجاز است.",
+    "extra_example_nl": "Eten is hier niet toegestaan. Drinken mag wel, maar alleen bij de tafel.",
+    "extra_example_fa": "خوردن این‌جا ممنوع است. نوشیدن فقط کنار میز مجاز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bellen, overal",
+        "is_correct": false,
+        "feedback_fa": "زنگ زدن فقط بیرون کنار در مجاز است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bellen, alleen buiten bij de deur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niets is toegestaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Roken, overal",
+        "is_correct": false,
+        "feedback_fa": "روکن ممنوع است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de deur: «Wacht hier niet als de deur open is. Kom dan meteen naar binnen. Is de deur dicht? Dan wachten.»",
+    "question_text_fa": "طبق تابلو، اگر در باز باشد کاربر باید چه کاری انجام دهد؟",
+    "explanation_fa": "متن می‌گوید اگر در باز است، باید بدون انتظار وارد شد؛ فقط اگر در بسته است باید صبر کرد.",
+    "grammar_rule_fa": "به شرطِ «als … dan» توجه کن؛ عمل بسته به وضعیتِ در تغییر می‌کند.",
+    "extra_example_nl": "Kom meteen binnen als het licht groen is. Wacht als het rood is.",
+    "extra_example_fa": "اگر چراغ سبز است بلافاصله وارد شو. اگر قرمز است صبر کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bellen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hier wachten",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای وقتی است که در بسته باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Meteen naar binnen gaan",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Weer weggaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Parkeren is hier verboden op werkdagen. In het weekend mag het wel, van 8:00 tot 20:00 uur.»",
+    "question_text_fa": "طبق تابلو، چه زمانی پارک کردن مجاز است؟",
+    "explanation_fa": "متن می‌گوید در روزهای هفته پارک ممنوع است، اما آخر هفته از ۸:۰۰ تا ۲۰:۰۰ مجاز است.",
+    "grammar_rule_fa": "کلمه‌ی «wel» نشان‌دهنده‌ی استثنایی است که مجاز شده.",
+    "extra_example_nl": "Fietsen is hier verboden op werkdagen. In het weekend mag het wel.",
+    "extra_example_fa": "دوچرخه‌سواری روزهای هفته ممنوع است، آخر هفته مجاز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nooit",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Altijd, de hele week",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen op werkdagen",
+        "is_correct": false,
+        "feedback_fa": "روزهای هفته ممنوع است."
+      },
+      {
+        "key": "D",
+        "text_nl": "In het weekend, van 8:00 tot 20:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de lift: «De lift is niet helemaal kapot. Hij werkt wel, maar alleen tot de derde verdieping.»",
+    "question_text_fa": "طبق تابلو، آسانسور تا کدام طبقه کار می‌کند؟",
+    "explanation_fa": "متن می‌گوید آسانسور کاملاً خراب نیست؛ فقط تا طبقه‌ی سوم کار می‌کند.",
+    "grammar_rule_fa": "کلمه‌ی «alleen tot» محدودیتِ دقیق را نشان می‌دهد.",
+    "extra_example_nl": "De wifi werkt wel, maar alleen op de eerste verdieping.",
+    "extra_example_fa": "وای‌فای کار می‌کند، اما فقط در طبقه‌ی اول.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot de derde verdieping",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot de vijfde verdieping",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Helemaal niet",
+        "is_correct": false,
+        "feedback_fa": "آسانسور کاملاً خراب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot de eerste verdieping",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de kassa: «Pinnen kan altijd. Contant geld accepteren wij niet meer op maandag en dinsdag.»",
+    "question_text_fa": "طبق تابلو، چه روزهایی نمی‌شود نقد پرداخت کرد؟",
+    "explanation_fa": "متن می‌گوید فقط دوشنبه و سه‌شنبه پرداخت نقدی پذیرفته نمی‌شود؛ کارت همیشه مجاز است.",
+    "grammar_rule_fa": "به روزهای دقیقی که بعد از «niet meer» می‌آید توجه کن.",
+    "extra_example_nl": "Wij accepteren geen contant geld op zaterdag en zondag.",
+    "extra_example_fa": "شنبه و یکشنبه پرداخت نقدی پذیرفته نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Woensdag en donderdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Maandag en dinsdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دو روزی که تابلو می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alle dagen",
+        "is_correct": false,
+        "feedback_fa": "کارت همیشه مجاز است، فقط نقد محدود است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nooit; contant is altijd mogelijk",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Pas op, natte vloer bij de ingang. Verderop in de winkel is de vloer wel droog.»",
+    "question_text_fa": "طبق تابلو، کجای فروشگاه کف نمناک است؟",
+    "explanation_fa": "متن می‌گوید فقط کنار ورودی کف خیس است؛ بقیه‌ی فروشگاه خشک است.",
+    "grammar_rule_fa": "کلمه‌ی «bij de ingang» محلِ دقیق را نشان می‌دهد.",
+    "extra_example_nl": "Pas op, gladde stoep bij de school. Verderop is de stoep droog.",
+    "extra_example_fa": "مراقب باش، پیاده‌رو کنار مدرسه لغزنده است. جلوتر خشک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nergens",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "In de hele winkel",
+        "is_correct": false,
+        "feedback_fa": "فقط کنار ورودی خیس است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij de ingang",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Verderop in de winkel",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید آن‌جا خشک است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij het ziekenhuis: «Stilte alstublieft tussen 13:00 en 15:00 uur. Op andere tijden mag u gewoon praten.»",
+    "question_text_fa": "طبق تابلو، سکوت چه زمانی لازم است؟",
+    "explanation_fa": "متن می‌گوید سکوت فقط بین ساعت ۱۳:۰۰ تا ۱۵:۰۰ لازم است؛ زمان‌های دیگر صحبت مجاز است.",
+    "grammar_rule_fa": "به بازه‌ی زمانیِ دقیق که در متن آمده توجه کن.",
+    "extra_example_nl": "Stilte alstublieft tussen 22:00 en 7:00 uur.",
+    "extra_example_fa": "سکوت لطفاً بین ساعت ۲۲:۰۰ تا ۷:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tussen 9:00 en 12:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nooit",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De hele dag",
+        "is_correct": false,
+        "feedback_fa": "فقط بین ۱۳:۰۰ تا ۱۵:۰۰ لازم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tussen 13:00 en 15:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان بازه‌ای که تابلو می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Openingstijden: maandag t/m vrijdag van 9:00 tot 18:00 uur. Op zaterdag zijn we korter open, tot 17:00 uur.»",
+    "question_text_fa": "طبق تابلو، شنبه فروشگاه تا چه ساعتی باز است؟",
+    "explanation_fa": "متن می‌گوید روزهای هفته تا ۱۸:۰۰ باز است، اما شنبه فقط تا ۱۷:۰۰.",
+    "grammar_rule_fa": "به تفاوتِ ساعتِ روزهای هفته و شنبه دقت کن.",
+    "extra_example_nl": "Op zondag zijn we korter open, tot 16:00 uur.",
+    "extra_example_fa": "یکشنبه کوتاه‌تر باز هستیم، تا ساعت ۱۶:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "17:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تابلو می‌گوید شنبه تا 17:00."
+      },
+      {
+        "key": "B",
+        "text_nl": "18:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ روزهای هفته است، نه شنبه."
+      },
+      {
+        "key": "C",
+        "text_nl": "19:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "16:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Honden mogen hier niet los lopen. Aan de lijn is het wel toegestaan.»",
+    "question_text_fa": "طبق تابلو، سگ‌ها چگونه مجاز به حضور هستند؟",
+    "explanation_fa": "متن می‌گوید سگ‌ها نباید آزاد باشند، اما با قلاده مجاز هستند.",
+    "grammar_rule_fa": "کلمه‌ی «wel» نشان‌دهنده‌ی استثنایی است که مجاز است.",
+    "extra_example_nl": "Fietsen mogen hier niet los staan. Op slot is het wel toegestaan.",
+    "extra_example_fa": "دوچرخه‌ها نباید بدون قفل رها شوند؛ با قفل مجاز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen los, zonder lijn",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید بدون قلاده ممنوع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen aan de lijn",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen 's ochtends",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Helemaal niet toegestaan",
+        "is_correct": false,
+        "feedback_fa": "با قلاده مجاز است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de bibliotheek: «Eten is niet toegestaan. Water drinken mag wel, andere dranken niet.»",
+    "question_text_fa": "طبق تابلو، در کتابخانه چه چیزی مجاز است؟",
+    "explanation_fa": "متن می‌گوید خوردن ممنوع است، نوشیدن آب مجاز است اما نوشیدنی‌های دیگر ممنوع است.",
+    "grammar_rule_fa": "به تفاوتِ «water» و «andere dranken» توجه کن.",
+    "extra_example_nl": "Koffie drinken mag niet, maar water drinken wel.",
+    "extra_example_fa": "قهوه نوشیدن ممنوع است، اما آب نوشیدن مجاز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Eten",
+        "is_correct": false,
+        "feedback_fa": "ممنوع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alle dranken",
+        "is_correct": false,
+        "feedback_fa": "فقط آب مجاز است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen water drinken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Let op: gladde stoep bij de brug. Op de rest van de straat is het droog.»",
+    "question_text_fa": "طبق تابلو، کدام قسمت خیابان لغزنده است؟",
+    "explanation_fa": "متن می‌گوید فقط کنار پل لغزنده است؛ بقیه‌ی خیابان خشک است.",
+    "grammar_rule_fa": "به محلِ دقیقِ ذکرشده در متن توجه کن.",
+    "extra_example_nl": "Let op: natte weg bij het tunnel. De rest van de weg is droog.",
+    "extra_example_fa": "مراقب باش: جاده کنار تونل خیس است. بقیه‌ی جاده خشک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij het station",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nergens",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De hele straat",
+        "is_correct": false,
+        "feedback_fa": "فقط کنار پل لغزنده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bij de brug",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij het station: «Spoor 3 is vandaag buiten gebruik. Spoor 4 werkt gewoon, maar treinen komen daar wel wat later aan.»",
+    "question_text_fa": "طبق تابلو، سکوی ۴ چگونه کار می‌کند؟",
+    "explanation_fa": "متن می‌گوید سکوی ۴ عادی کار می‌کند، فقط قطارها کمی دیرتر می‌رسند؛ سکوی ۳ کاملاً غیرفعال است.",
+    "grammar_rule_fa": "به تفاوتِ وضعیتِ دو سکو در متن دقت کن.",
+    "extra_example_nl": "Spoor 2 werkt gewoon, maar treinen komen daar later aan.",
+    "extra_example_fa": "سکوی ۲ عادی کار می‌کند، فقط قطارها دیرتر می‌رسند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Werkt gewoon, met wat vertraging",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gesloten tot morgen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen open in het weekend",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Helemaal buiten gebruik, zoals spoor 3",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید سکوی ۴ کار می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «De hoofdingang is dicht. Gebruik de zij-ingang, aan de kant van de parkeerplaats.»",
+    "question_text_fa": "طبق تابلو، ورودی جانبی کجاست؟",
+    "explanation_fa": "متن می‌گوید ورودی اصلی بسته است و ورودی جانبی کنار پارکینگ است.",
+    "grammar_rule_fa": "به مکانِ دقیقی که بعد از توضیح می‌آید توجه کن.",
+    "extra_example_nl": "Gebruik de achteringang, aan de kant van de tuin.",
+    "extra_example_fa": "از ورودی پشتی، کنار باغ استفاده کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Aan de voorkant",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Aan de kant van de parkeerplaats",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Aan de kant van de tuin",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bij de hoofdingang",
+        "is_correct": false,
+        "feedback_fa": "این ورودی بسته است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de supermarkt: «Maximaal 2 klanten tegelijk naar binnen. Kinderen tellen niet mee.»",
+    "question_text_fa": "طبق تابلو، اگر یک والد با دو فرزند بیاید، چند «مشتری» حساب می‌شود؟",
+    "explanation_fa": "متن می‌گوید کودکان جزو شمارش مشتری نیستند؛ پس فقط والدین حساب می‌شوند.",
+    "grammar_rule_fa": "به قانونِ استثنا در جمله‌ی آخر توجه کن.",
+    "extra_example_nl": "Maximaal 3 gasten tegelijk, kinderen tellen niet mee.",
+    "extra_example_fa": "حداکثر ۳ مهمان همزمان، بچه‌ها حساب نمی‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen enkele klant",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Drie klanten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Eén klant",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط والد حساب می‌شود، بچه‌ها نه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Twee klanten",
+        "is_correct": false,
+        "feedback_fa": "این عدد شاملِ بچه‌ها هم می‌شد، اما بچه‌ها حساب نمی‌شوند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Fietsen hier niet plaatsen op werkdagen. In het weekend mag het wel.»",
+    "question_text_fa": "طبق تابلو، آخر هفته گذاشتن دوچرخه چگونه است؟",
+    "explanation_fa": "متن می‌گوید روزهای هفته ممنوع است، اما آخر هفته مجاز است.",
+    "grammar_rule_fa": "کلمه‌ی «wel» نشان‌دهنده‌ی استثنای مجاز است.",
+    "extra_example_nl": "Auto's hier niet parkeren op werkdagen. In het weekend mag het wel.",
+    "extra_example_fa": "روزهای هفته پارک ماشین ممنوع است، آخر هفته مجاز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen 's ochtends toegestaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen met betaling",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Verboden, net als op werkdagen",
+        "is_correct": false,
+        "feedback_fa": "آخر هفته مجاز است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toegestaan",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de wc: «Dit toilet is buiten werking. Het andere toilet, naast de trap, werkt wel gewoon.»",
+    "question_text_fa": "طبق تابلو، کدام دستشویی کار می‌کند؟",
+    "explanation_fa": "متن می‌گوید این دستشویی کار نمی‌کند، اما دستشویی کنار پله عادی کار می‌کند.",
+    "grammar_rule_fa": "به مکانِ دقیقی که کار می‌کند توجه کن، نه آن‌که خراب است.",
+    "extra_example_nl": "Deze lift is buiten werking. De andere lift, bij de kassa, werkt wel gewoon.",
+    "extra_example_fa": "این آسانسور خراب است. آسانسور کنار صندوق عادی کار می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het toilet naast de trap",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Beide toiletten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit toilet",
+        "is_correct": false,
+        "feedback_fa": "این یکی خراب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Deze week alles 10 procent goedkoper, behalve boeken. Boeken zijn deze week niet in de aanbieding.»",
+    "question_text_fa": "طبق تابلو، این هفته چه چیزی تخفیف ندارد؟",
+    "explanation_fa": "متن می‌گوید همه چیز ۱۰ درصد ارزان‌تر است، جز کتاب‌ها.",
+    "grammar_rule_fa": "کلمه‌ی «behalve» استثنا را نشان می‌دهد.",
+    "extra_example_nl": "Alles is deze week 15 procent goedkoper, behalve speelgoed.",
+    "extra_example_fa": "همه چیز ۱۵ درصد ارزان‌تر است، جز اسباب‌بازی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kleding",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Boeken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تابلو می‌گوید «behalve boeken»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Schoenen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alles heeft korting, ook boeken",
+        "is_correct": false,
+        "feedback_fa": "کتاب‌ها استثنا هستند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij het zwembad: «Zwemmen zonder badmuts mag niet in het grote bad. In het kleine bad is een badmuts niet verplicht.»",
+    "question_text_fa": "طبق تابلو، در استخر کوچک چه چیزی لازم نیست؟",
+    "explanation_fa": "متن می‌گوید کلاه شنا فقط برای استخر بزرگ لازم است؛ در استخر کوچک لازم نیست.",
+    "grammar_rule_fa": "به تفاوتِ قانونِ دو استخر در متن دقت کن.",
+    "extra_example_nl": "In het kleine bad zijn zwemvliezen niet verplicht.",
+    "extra_example_fa": "در استخر کوچک فین اجباری نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Betalen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zwemmen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een badmuts",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een handdoek",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Let op, de winkel sluit vandaag om 17:00 uur, niet om 18:00 uur zoals normaal. Dit is wegens een personeelsvergadering.»",
+    "question_text_fa": "طبق تابلو، چرا فروشگاه امروز زودتر بسته می‌شود؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر جلسه‌ی کارکنان، امروز زودتر بسته می‌شود.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از «dit is wegens» می‌آید.",
+    "extra_example_nl": "De les stopt vandaag eerder wegens een teamvergadering.",
+    "extra_example_fa": "کلاس امروز به‌خاطر جلسه‌ی تیم زودتر تمام می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wegens een feestdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wegens een storing",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wegens het weer",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wegens een personeelsvergadering",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که تابلو می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de apotheek: «Wij zijn nu gesloten. Bij spoed belt u de huisartsenpost. Voor gewone vragen kunt u morgen terugkomen.»",
+    "question_text_fa": "کاربر با یک سؤال عادی (غیراورژانسی) طبق تابلو باید چه کند؟",
+    "explanation_fa": "متن می‌گوید برای سؤالات عادی باید فردا مراجعه کرد؛ اورژانس فقط برای موارد فوری است.",
+    "grammar_rule_fa": "به تفاوتِ «bij spoed» و «voor gewone vragen» در متن دقت کن.",
+    "extra_example_nl": "Voor gewone vragen kunt u morgen bellen. Bij spoed belt u het alarmnummer.",
+    "extra_example_fa": "برای سؤالات عادی فردا زنگ بزن. در موارد فوری با اورژانس تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Morgen terugkomen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nu wachten voor de deur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een e-mail sturen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huisartsenpost bellen",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای موارد اورژانسی است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Alstublieft uw ticket klaarhouden bij de ingang. Bij de uitgang hoeft dat niet meer.»",
+    "question_text_fa": "طبق تابلو، کجا باید بلیت آماده در دست نگه داشته شود؟",
+    "explanation_fa": "متن می‌گوید فقط کنار ورودی باید بلیت آماده باشد؛ کنار خروجی لازم نیست.",
+    "grammar_rule_fa": "کلمه‌ی «hoeft dat niet meer» نشان می‌دهد آن‌جا دیگر لازم نیست.",
+    "extra_example_nl": "Bij de kassa moet u pinnen, bij de deur hoeft dat niet meer.",
+    "extra_example_fa": "کنار صندوق باید کارت بکشی، کنار در لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij de uitgang",
+        "is_correct": false,
+        "feedback_fa": "آن‌جا دیگر لازم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij de ingang",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nergens",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Overal in het gebouw",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de ingang: «Alleen op afspraak naar binnen op werkdagen. In het weekend is iedereen welkom, zonder afspraak.»",
+    "question_text_fa": "طبق تابلو، آخر هفته برای ورود چه چیزی لازم است؟",
+    "explanation_fa": "متن می‌گوید روزهای هفته فقط با وقت قبلی می‌شود وارد شد، اما آخر هفته همه بدون وقت خوش‌آمدند.",
+    "grammar_rule_fa": "به تضادِ قانونِ روزهای هفته و آخر هفته دقت کن.",
+    "extra_example_nl": "In het weekend is iedereen welkom, zonder lidmaatschap.",
+    "extra_example_fa": "آخر هفته همه بدون عضویت خوش‌آمدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een pasje",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een afspraak",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای روزهای هفته است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niets, iedereen mag naar binnen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geld",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Deze plek is gereserveerd voor mindervaliden. De andere plekken ernaast zijn voor iedereen.»",
+    "question_text_fa": "طبق تابلو، جاهای کنار این محل برای چه کسی است؟",
+    "explanation_fa": "متن می‌گوید فقط این یک جا برای افراد دارای معلولیت است؛ جاهای کناری برای همه است.",
+    "grammar_rule_fa": "به تفاوتِ «deze plek» و «de andere plekken» توجه کن.",
+    "extra_example_nl": "Deze plaats is gereserveerd voor ouderen. De andere plaatsen zijn voor iedereen.",
+    "extra_example_fa": "این جا برای سالمندان است. جاهای دیگر برای همه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor personeel",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor niemand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ook voor mindervaliden",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor iedereen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de bank: «Wij zijn vandaag eerder gesloten, om 15:00 uur, wegens een storing. Morgen zijn we weer gewoon open, tot 17:00 uur.»",
+    "question_text_fa": "طبق تابلو، فردا بانک تا چه ساعتی باز است؟",
+    "explanation_fa": "متن می‌گوید امروز به‌خاطر خرابی زودتر بسته می‌شود، اما فردا عادی تا ۱۷:۰۰ باز است.",
+    "grammar_rule_fa": "به تفاوتِ ساعتِ امروز و فردا در متن دقت کن.",
+    "extra_example_nl": "Morgen zijn we weer gewoon open, tot 18:00 uur.",
+    "extra_example_fa": "فردا دوباره عادی، تا ۱۸:۰۰ باز هستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "17:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تابلو می‌گوید فردا تا 17:00."
+      },
+      {
+        "key": "B",
+        "text_nl": "18:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "15:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ بسته شدنِ امروز است."
+      },
+      {
+        "key": "D",
+        "text_nl": "16:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Verboden toegang voor onbevoegden. Bezoekers met een afspraak mogen wel naar binnen, bij de balie melden.»",
+    "question_text_fa": "طبق تابلو، بازدیدکنندگانی که وقت قبلی دارند باید چه کاری انجام دهند؟",
+    "explanation_fa": "متن می‌گوید بازدیدکنندگانی که وقت دارند می‌توانند وارد شوند، اما باید در باجه اعلام حضور کنند.",
+    "grammar_rule_fa": "کلمه‌ی «wel» نشان‌دهنده‌ی استثنایی است که مجاز است.",
+    "extra_example_nl": "Bezoekers met een pasje mogen wel naar binnen, bij de deur melden.",
+    "extra_example_fa": "بازدیدکنندگان با کارت می‌توانند وارد شوند، کنار در اعلام کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Buiten wachten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zich melden bij de balie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌خواهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Meteen weer weggaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bellen naar de manager",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij het park: «Honden aan de lijn houden bij de kinderspeelplaats. In de rest van het park mogen ze los lopen.»",
+    "question_text_fa": "طبق تابلو، در بقیه‌ی پارک سگ‌ها چگونه باید باشند؟",
+    "explanation_fa": "متن می‌گوید فقط کنار زمین بازی بچه‌ها باید سگ با قلاده باشد؛ در بقیه‌ی پارک می‌توانند آزاد باشند.",
+    "grammar_rule_fa": "کلمه‌ی «rest van het park» نشان‌دهنده‌ی محلِ دیگری است.",
+    "extra_example_nl": "In de rest van het gebouw mag u wel bellen.",
+    "extra_example_fa": "در بقیه‌ی ساختمان می‌شود تماس گرفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Aan de lijn, overal",
+        "is_correct": false,
+        "feedback_fa": "این فقط کنار زمین بازی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Los, overal in het park",
+        "is_correct": false,
+        "feedback_fa": "کنار زمین بازی باید با قلاده باشند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Los, behalve bij de kinderspeelplaats",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nooit toegestaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Deze ingang is gesloten wegens verbouwing. Gebruik de ingang aan de Kerkstraat, die is wel open.»",
+    "question_text_fa": "طبق تابلو، کدام ورودی باز است؟",
+    "explanation_fa": "متن می‌گوید این ورودی به‌خاطر بازسازی بسته است؛ ورودیِ خیابان کرک باز است.",
+    "grammar_rule_fa": "کلمه‌ی «die is wel open» ورودیِ درست را مشخص می‌کند.",
+    "extra_example_nl": "Gebruik de andere trap, die is wel open.",
+    "extra_example_fa": "از پله‌ی دیگر استفاده کن، آن باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen enkele ingang",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen de nooduitgang",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze ingang",
+        "is_correct": false,
+        "feedback_fa": "این ورودی بسته است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De ingang aan de Kerkstraat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje bij de markt: «Vandaag extra vroeg open, vanaf 7:00 uur, wegens de feestdag morgen. Normaal beginnen we om 9:00 uur.»",
+    "question_text_fa": "طبق تابلو، ساعت معمولِ باز شدنِ بازار چه زمانی است؟",
+    "explanation_fa": "متن می‌گوید امروز استثنائاً از ۷:۰۰ باز است، اما ساعتِ معمول ۹:۰۰ است.",
+    "grammar_rule_fa": "کلمه‌ی «normaal» زمانِ همیشگی را نشان می‌دهد، نه امروز را.",
+    "extra_example_nl": "Normaal beginnen we om 10:00 uur, maar vandaag al om 8:00 uur.",
+    "extra_example_fa": "معمولاً ساعت ۱۰:۰۰ شروع می‌کنیم، اما امروز از ۸:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "9:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تابلو می‌گوید ساعتِ معمول 9:00 است."
+      },
+      {
+        "key": "B",
+        "text_nl": "10:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "7:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این فقط ساعتِ امروز است."
+      },
+      {
+        "key": "D",
+        "text_nl": "8:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "sign_notice",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bordje: «Deze fietsenstalling is alleen voor studenten. Andere bezoekers zetten hun fiets bij het plein neer.»",
+    "question_text_fa": "طبق تابلو، بازدیدکنندگانِ دیگر (غیر دانشجو) دوچرخه را کجا باید بگذارند؟",
+    "explanation_fa": "متن می‌گوید این پارکینگ فقط برای دانشجویان است؛ بقیه باید کنار میدان بگذارند.",
+    "grammar_rule_fa": "به کلمه‌ی «andere bezoekers» توجه کن که مکانِ دیگری برایشان مشخص شده.",
+    "extra_example_nl": "Deze parkeerplaats is alleen voor personeel. Andere bezoekers parkeren bij de weg.",
+    "extra_example_fa": "این پارکینگ فقط برای کارکنان است؛ بقیه کنار جاده پارک کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In de fietsenstalling",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای دانشجویان است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij het plein",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که تابلو می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij de ingang",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nergens, het is verboden",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  }
+]

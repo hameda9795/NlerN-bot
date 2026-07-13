@@ -1,0 +1,4102 @@
+[
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "yes_no_inversion_regular",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال بله/خیر درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل اول جمله می‌آید. اگر «jij/je» بعد از فعل بیاید، معمولاً -t حذف می‌شود.",
+    "grammar_rule_fa": "سؤال بله/خیر: verb + subject + rest?",
+    "extra_example_nl": "Kom jij morgen?",
+    "extra_example_fa": "آیا تو فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Werk jij vandaag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij werkt vandaag?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Werkt jij vandaag?",
+        "is_correct": false,
+        "feedback_fa": "با «jij» بعد از فعل، -t حذف می‌شود؛ باید «Werk jij» باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vandaag jij werkt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال بله/خیر درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "yes_no_inversion_regular",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال برای «فردا می‌آیی؟» درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل اول جمله می‌آید. اگر «jij/je» بعد از فعل بیاید، معمولاً -t حذف می‌شود.",
+    "grammar_rule_fa": "سؤال بله/خیر: verb + subject + rest?",
+    "extra_example_nl": "Werk je morgen?",
+    "extra_example_fa": "آیا فردا کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je komt morgen?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ در سؤال بله/خیر فعل باید اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kom je morgen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Komt je morgen?",
+        "is_correct": false,
+        "feedback_fa": "با «je» بعد از فعل، -t حذف می‌شود؛ باید «Kom je» باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Morgen je komt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال استاندارد غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "yes_no_inversion_regular",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره محل زندگی درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل اول جمله می‌آید. اگر «jij/je» بعد از فعل بیاید، معمولاً -t حذف می‌شود.",
+    "grammar_rule_fa": "سؤال بله/خیر: verb + subject + rest?",
+    "extra_example_nl": "Woon je in Nederland?",
+    "extra_example_fa": "آیا در هلند زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij woont in Utrecht?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Woont jij in Utrecht?",
+        "is_correct": false,
+        "feedback_fa": "با «jij» بعد از فعل، -t حذف می‌شود؛ باید «Woon jij» باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Woon jij in Utrecht?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "In Utrecht jij woont?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال بله/خیر درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "yes_no_inversion_regular",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال با «u» درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل اول جمله می‌آید. با «u»، پایان -t حذف نمی‌شود.",
+    "grammar_rule_fa": "سؤال بله/خیر: verb + subject + rest?",
+    "extra_example_nl": "Werkt u vandaag?",
+    "extra_example_fa": "آیا شما امروز کار می‌کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U drinkt koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ در سؤال باید فعل اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Drink u koffie?",
+        "is_correct": false,
+        "feedback_fa": "با «u»، -t حذف نمی‌شود؛ باید «Drinkt u» باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Koffie u drinkt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای سؤال هلندی درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Drinkt u koffie?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "yes_no_inversion_regular",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره بازی کردن درست است؟",
+    "explanation_fa": "برای «hij/zij»، فعل صرف‌شده با -t اول جمله می‌آید.",
+    "grammar_rule_fa": "سؤال بله/خیر: verb + subject + rest?",
+    "extra_example_nl": "Kijkt hij televisie?",
+    "extra_example_fa": "آیا او تلویزیون تماشا می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Speelt hij voetbal?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij speelt voetbal?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ سؤال بله/خیر با فعل شروع می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Speel hij voetbal?",
+        "is_correct": false,
+        "feedback_fa": "برای «hij»، فعل باید -t داشته باشد: «Speelt hij»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voetbal hij speelt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات در سؤال غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "yes_no_inversion_regular",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره خواندن درست است؟",
+    "explanation_fa": "برای «zij» مفرد، فعل صرف‌شده اول جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال بله/خیر: verb + subject + rest?",
+    "extra_example_nl": "Maakt zij huiswerk?",
+    "extra_example_fa": "آیا او تکلیف انجام می‌دهد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij leest de brief?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ در سؤال فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Leest zij de brief?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Lees zij de brief?",
+        "is_correct": false,
+        "feedback_fa": "برای «zij» مفرد، فعل باید -t داشته باشد: «Leest zij»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De brief zij leest?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "yes_no_inversion_regular",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره رفتن با دوچرخه درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل اول جمله می‌آید. اگر «jij/je» بعد از فعل بیاید، معمولاً -t حذف می‌شود.",
+    "grammar_rule_fa": "سؤال بله/خیر: verb + subject + rest?",
+    "extra_example_nl": "Reis jij met de trein?",
+    "extra_example_fa": "آیا تو با قطار سفر می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij fietst naar school?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال بله/خیر با فعل شروع می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Fietst jij naar school?",
+        "is_correct": false,
+        "feedback_fa": "با «jij» بعد از فعل، -t حذف می‌شود؛ باید «Fiets jij» باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fiets jij naar school?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar school jij fietst?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "yes_no_inversion_regular",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال با «u» از نظر ساختار درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل اول جمله می‌آید. با «u»، پایان -t حذف نمی‌شود.",
+    "grammar_rule_fa": "سؤال بله/خیر: verb + subject + rest?",
+    "extra_example_nl": "Woont u hier?",
+    "extra_example_fa": "آیا شما اینجا زندگی می‌کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U loopt naar het station?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ در سؤال فعل باید اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Loop u naar het station?",
+        "is_correct": false,
+        "feedback_fa": "با «u»، -t حذف نمی‌شود؛ باید «Loopt u» باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Naar het station u loopt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات سؤال استاندارد نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Loopt u naar het station?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "yes_no_inversion_regular",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال برای خرید نان درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل اول جمله می‌آید. اگر «jij/je» بعد از فعل بیاید، معمولاً -t حذف می‌شود.",
+    "grammar_rule_fa": "سؤال بله/خیر: verb + subject + rest?",
+    "extra_example_nl": "Betaal je contant?",
+    "extra_example_fa": "آیا نقدی پرداخت می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Koop je brood?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je koopt brood?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ در سؤال بله/خیر فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Koopt je brood?",
+        "is_correct": false,
+        "feedback_fa": "با «je» بعد از فعل، -t حذف می‌شود؛ باید «Koop je» باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Brood je koopt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "yes_no_inversion_regular",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال برای زنگ زدن به دکتر درست است؟",
+    "explanation_fa": "وقتی فاعل اسم باشد، در سؤال بله/خیر فعل قبل از اسم می‌آید.",
+    "grammar_rule_fa": "سؤال بله/خیر: verb + subject + rest?",
+    "extra_example_nl": "Werkt Ahmed vandaag?",
+    "extra_example_fa": "آیا احمد امروز کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sara belt de dokter?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال بله/خیر باید با فعل شروع شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Belt Sara de dokter?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bel Sara de dokter?",
+        "is_correct": false,
+        "feedback_fa": "برای فاعل سوم‌شخص مفرد، فعل باید -t داشته باشد: «Belt Sara»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De dokter Sara belt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_words_basic",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ doe je vanavond?",
+    "question_text_fa": "برای ساخت سؤال «امشب چه کار می‌کنی؟» کدام گزینه درست است؟",
+    "explanation_fa": "در سؤال با question word، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Wat eet je?",
+    "extra_example_fa": "چه می‌خوری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat je",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doe wat",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، سؤال باید با خود question word شروع شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je wat",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_words_basic",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ woon je?",
+    "question_text_fa": "برای پرسیدن محل زندگی کدام گزینه درست است؟",
+    "explanation_fa": "در سؤال با question word، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Waar werk je?",
+    "extra_example_fa": "کجا کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar je",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Woon waar",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، سؤال باید با خود question word شروع شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je waar",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_words_basic",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ kom je?",
+    "question_text_fa": "برای پرسیدن زمان آمدن کدام گزینه درست است؟",
+    "explanation_fa": "در سؤال با question word، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Wanneer begint de les?",
+    "extra_example_fa": "کلاس کی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer je",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kom wanneer",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، سؤال باید با خود question word شروع شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je wanneer",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_words_basic",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ gaat het?",
+    "question_text_fa": "برای سؤال «حالت چطور است؟» کدام گزینه درست است؟",
+    "explanation_fa": "در سؤال با question word، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Hoe gaat het met jou?",
+    "extra_example_fa": "حالت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe het",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gaat hoe",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، سؤال باید با خود question word شروع شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het hoe",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_words_basic",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ leer je Nederlands?",
+    "question_text_fa": "برای پرسیدن دلیل، کدام گزینه ساختار درست می‌سازد؟",
+    "explanation_fa": "در سؤال با question word، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Waarom werk je vandaag?",
+    "extra_example_fa": "چرا امروز کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waarom je",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Leer waarom",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، سؤال باید با خود question word شروع شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waarom",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je waarom",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_words_basic",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ is dat?",
+    "question_text_fa": "برای پرسیدن «او/آن کیست؟» کدام گزینه درست است؟",
+    "explanation_fa": "در سؤال با question word، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Wie komt morgen?",
+    "extra_example_fa": "چه کسی فردا می‌آید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wie dat",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is wie",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، سؤال باید با خود question word شروع شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat wie",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_words_basic",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ begint de afspraak?",
+    "question_text_fa": "برای پرسیدن ساعت شروع قرار، کدام گزینه درست است؟",
+    "explanation_fa": "در سؤال با question word، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Hoe laat kom je?",
+    "extra_example_fa": "ساعت چند می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat de afspraak",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Begint hoe laat",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، سؤال باید با خود question word شروع شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De afspraak hoe laat",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_words_basic",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ jas wil je?",
+    "question_text_fa": "برای پرسیدن «کدام کت را می‌خواهی؟» کدام گزینه درست است؟",
+    "explanation_fa": "در سؤال با question word، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Welke fiets heb je?",
+    "extra_example_fa": "کدام دوچرخه را داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Welke je",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Welke",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wil welke",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، سؤال باید با خود question word شروع شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je welke jas",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_words_basic",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ drink je?",
+    "question_text_fa": "کدام گزینه سؤال «چه می‌نوشی؟» را درست می‌کند؟",
+    "explanation_fa": "در سؤال با question word، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Wat koop je?",
+    "extra_example_fa": "چه می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat je",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Drink wat",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، سؤال باید با خود question word شروع شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je wat drinkt",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_words_basic",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ is het weer vandaag?",
+    "question_text_fa": "برای پرسیدن وضعیت هوا کدام گزینه درست است؟",
+    "explanation_fa": "در سؤال با question word، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Hoe is je dag?",
+    "extra_example_fa": "روزت چطور است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe het weer",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is hoe",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، سؤال باید با خود question word شروع شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het weer hoe is",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_word_with_subject",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال با question word و فاعل درست است؟",
+    "explanation_fa": "در سؤال با question word، فاعل بعد از فعل می‌آید، نه قبل از فعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar woon jij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar jij woont?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar woont jij?",
+        "is_correct": false,
+        "feedback_fa": "با «jij» بعد از فعل، -t حذف می‌شود؛ باید «woon jij» باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij woont waar?",
+        "is_correct": false,
+        "feedback_fa": "برای ساختار استاندارد A2، question word اول جمله می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_word_with_subject",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره زمان کار سارا درست است؟",
+    "explanation_fa": "در سؤال با question word، فاعل بعد از فعل می‌آید، نه قبل از فعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Wanneer komt de bus?",
+    "extra_example_fa": "اتوبوس کی می‌آید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer Sara werkt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer werkt Sara?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Werkt wanneer Sara?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sara werkt wanneer?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری با سؤال پایانی است، نه سؤال استاندارد A2."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_word_with_subject",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره خرید درست است؟",
+    "explanation_fa": "در سؤال با question word، فاعل بعد از فعل می‌آید، نه قبل از فعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Wat eet Sara?",
+    "extra_example_fa": "سارا چه می‌خورد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat hij koopt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Koopt wat hij?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat koopt hij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij koopt wat?",
+        "is_correct": false,
+        "feedback_fa": "برای این تمرین، ساختار استاندارد «Wat koopt hij?» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_word_with_subject",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره یادگیری درست است؟",
+    "explanation_fa": "در سؤال با question word، فاعل بعد از فعل می‌آید، نه قبل از فعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Waarom werkt hij vandaag?",
+    "extra_example_fa": "چرا او امروز کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waarom Ali leert Nederlands?",
+        "is_correct": false,
+        "feedback_fa": "بعد از «waarom» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waarom Ali Nederlands leert?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای سؤال اصلی A2 درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ali leert waarom Nederlands?",
+        "is_correct": false,
+        "feedback_fa": "question word در سؤال استاندارد باید اول بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waarom leert Ali Nederlands?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_word_with_subject",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره ساعت کلاس درست است؟",
+    "explanation_fa": "در سؤال با question word، فاعل بعد از فعل می‌آید، نه قبل از فعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Hoe laat opent de winkel?",
+    "extra_example_fa": "فروشگاه ساعت چند باز می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat begint de les?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat de les begint?",
+        "is_correct": false,
+        "feedback_fa": "بعد از «hoe laat» باید فعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Begint hoe laat de les?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De les begint hoe laat?",
+        "is_correct": false,
+        "feedback_fa": "برای A2، ساختار استاندارد question word اول جمله است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_word_with_subject",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره آمدن پدر درست است؟",
+    "explanation_fa": "در سؤال با question word، فاعل بعد از فعل می‌آید، نه قبل از فعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Wanneer belt je moeder?",
+    "extra_example_fa": "مادرت کی زنگ می‌زند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer je vader komt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer komt je vader?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Komt wanneer je vader?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je vader komt wanneer?",
+        "is_correct": false,
+        "feedback_fa": "این شکل برای تمرین ساختار اصلی سؤال مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_word_with_subject",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره قطار درست است؟",
+    "explanation_fa": "در سؤال با question word، فاعل بعد از فعل می‌آید، نه قبل از فعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Waar staat de bus?",
+    "extra_example_fa": "اتوبوس کجا ایستاده است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar de trein stopt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Stopt waar de trein?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar stopt de trein?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De trein stopt waar?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار استاندارد A2 برای سؤال اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_word_with_subject",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره غذا خوردن درست است؟",
+    "explanation_fa": "در سؤال با question word، فاعل بعد از فعل می‌آید، نه قبل از فعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Wat drinkt hij?",
+    "extra_example_fa": "او چه می‌نوشد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat Sara eet?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Eet wat Sara?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sara eet wat?",
+        "is_correct": false,
+        "feedback_fa": "برای این تمرین، ساختار استاندارد «Wat eet Sara?» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat eet Sara?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_word_with_subject",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره باران درست است؟",
+    "explanation_fa": "در سؤال با question word، فاعل بعد از فعل می‌آید، نه قبل از فعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Waarom waait het zo hard?",
+    "extra_example_fa": "چرا باد این‌قدر شدید می‌وزد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waarom regent het vandaag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waarom het regent vandaag?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Regent waarom het vandaag?",
+        "is_correct": false,
+        "feedback_fa": "question word باید ابتدای جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent waarom vandaag?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای سؤال استاندارد A2 درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "question_word_with_subject",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره دکتر درست است؟",
+    "explanation_fa": "در سؤال با question word، فاعل بعد از فعل می‌آید، نه قبل از فعل.",
+    "grammar_rule_fa": "Question word + verb + subject + rest?",
+    "extra_example_nl": "Wanneer komt de huisarts?",
+    "extra_example_fa": "پزشک خانواده کی می‌آید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer de dokter belt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از «wanneer» باید فعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer belt de dokter?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Belt wanneer de dokter?",
+        "is_correct": false,
+        "feedback_fa": "question word باید در ابتدای سؤال باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De dokter belt wanneer?",
+        "is_correct": false,
+        "feedback_fa": "این شکل، ساختار اصلی سؤال با question word نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_zijn",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag met zijn.",
+    "question_text_fa": "کدام سؤال با فعل «zijn» درست است؟",
+    "explanation_fa": "در سؤال با فعل «zijn»، شکل درست فعل اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با zijn: ben/is/zijn + subject + rest?",
+    "extra_example_nl": "Ben je klaar?",
+    "extra_example_fa": "آیا آماده‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij bent thuis?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ در سؤال باید فعل اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bent jij thuis?",
+        "is_correct": false,
+        "feedback_fa": "با «jij» می‌گوییم «Ben jij»، نه «Bent jij»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ben jij thuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thuis jij bent?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_zijn",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag met zijn.",
+    "question_text_fa": "کدام سؤال درباره مریض بودن درست است؟",
+    "explanation_fa": "در سؤال با فعل «zijn»، شکل درست فعل اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با zijn: ben/is/zijn + subject + rest?",
+    "extra_example_nl": "Is zij moe?",
+    "extra_example_fa": "آیا او خسته است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is ziek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری با علامت سؤال است؛ فعل باید اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zijn hij ziek?",
+        "is_correct": false,
+        "feedback_fa": "برای «hij» باید «is» بیاید، نه «zijn»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ziek hij is?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات سؤال درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is hij ziek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_zijn",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag met zijn.",
+    "question_text_fa": "کدام سؤال درباره آماده بودن درست است؟",
+    "explanation_fa": "در سؤال با فعل «zijn»، شکل درست فعل اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با zijn: ben/is/zijn + subject + rest?",
+    "extra_example_nl": "Zijn wij op tijd?",
+    "extra_example_fa": "آیا ما به‌موقع هستیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zijn jullie klaar?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie zijn klaar?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is jullie klaar?",
+        "is_correct": false,
+        "feedback_fa": "برای «jullie» باید «zijn» استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Klaar jullie zijn?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای سؤال هلندی غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_zijn",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال با question word و «zijn» درست است؟",
+    "explanation_fa": "در سؤال با فعل «zijn»، شکل درست فعل اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با zijn: ben/is/zijn + subject + rest?",
+    "extra_example_nl": "Waar is Sara?",
+    "extra_example_fa": "سارا کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar je bent?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar ben je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ben waar je?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، question word اول می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je bent waar?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار استاندارد A2 برای سؤال اصلی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_zijn",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال برای پرسیدن سن درست است؟",
+    "explanation_fa": "در سؤال با فعل «zijn»، شکل درست فعل اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با zijn: ben/is/zijn + subject + rest?",
+    "extra_example_nl": "Hoe oud is je broer?",
+    "extra_example_fa": "برادرت چند ساله است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe oud jij bent?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe oud bent jij?",
+        "is_correct": false,
+        "feedback_fa": "با «jij» در این سؤال، شکل رایج «ben jij» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe oud ben jij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij bent hoe oud?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب استاندارد سؤال A2 نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_zijn",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag met zijn.",
+    "question_text_fa": "کدام سؤال درباره هوا درست است؟",
+    "explanation_fa": "در سؤال با فعل «zijn»، شکل درست فعل اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با zijn: ben/is/zijn + subject + rest?",
+    "extra_example_nl": "Is het warm vandaag?",
+    "extra_example_fa": "آیا امروز هوا گرم است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het is koud?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل «is» باید اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zijn het koud?",
+        "is_correct": false,
+        "feedback_fa": "برای «het» باید «is» بیاید، نه «zijn»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Koud het is?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات سؤال غلط است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is het koud?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_zijn",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره حضور معلم درست است؟",
+    "explanation_fa": "در سؤال با فعل «zijn»، شکل درست فعل اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با zijn: ben/is/zijn + subject + rest?",
+    "extra_example_nl": "Is de les klaar?",
+    "extra_example_fa": "آیا کلاس تمام شده است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is de docent hier?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De docent is hier?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب خبری است؛ برای سؤال باید فعل اول باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zijn de docent hier?",
+        "is_correct": false,
+        "feedback_fa": "برای فاعل مفرد باید «is» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hier de docent is?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_zijn",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره دیر بودن درست است؟",
+    "explanation_fa": "در سؤال با فعل «zijn»، شکل درست فعل اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با zijn: ben/is/zijn + subject + rest?",
+    "extra_example_nl": "Ben je op tijd?",
+    "extra_example_fa": "آیا به‌موقع هستی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je bent te laat?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر باید فعل اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ben je te laat?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bent je te laat?",
+        "is_correct": false,
+        "feedback_fa": "با «je» بعد از فعل، شکل رایج «Ben je» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Te laat je bent?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_zijn",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره آماده بودن غذا درست است؟",
+    "explanation_fa": "در سؤال با فعل «zijn»، شکل درست فعل اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با zijn: ben/is/zijn + subject + rest?",
+    "extra_example_nl": "Is de koffie klaar?",
+    "extra_example_fa": "آیا قهوه آماده است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het eten is klaar?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال با فعل شروع می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zijn het eten klaar?",
+        "is_correct": false,
+        "feedback_fa": "برای «het eten» مفرد، «is» لازم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het eten klaar?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Klaar het eten is?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_zijn",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره اتوبوس درست است؟",
+    "explanation_fa": "در سؤال با فعل «zijn»، شکل درست فعل اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با zijn: ben/is/zijn + subject + rest?",
+    "extra_example_nl": "Waar is het station?",
+    "extra_example_fa": "ایستگاه کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar de bus is?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is waar de bus?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با question word، «waar» اول می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bus is waar?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار استاندارد سؤال A2 نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is de bus?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_hebben",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag met hebben.",
+    "question_text_fa": "کدام سؤال با فعل «hebben» درست است؟",
+    "explanation_fa": "در سؤال با «hebben»، فعل صرف‌شده اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با hebben: heb/heeft/hebben + subject + rest?",
+    "extra_example_nl": "Heb je morgen tijd?",
+    "extra_example_fa": "آیا فردا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heb jij tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij hebt tijd?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hebt jij tijd?",
+        "is_correct": false,
+        "feedback_fa": "با «jij» بعد از فعل، شکل رایج «Heb jij» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tijd jij hebt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات سؤال درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_hebben",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag met hebben.",
+    "question_text_fa": "کدام سؤال درباره داشتن دوچرخه درست است؟",
+    "explanation_fa": "در سؤال با «hebben»، فعل صرف‌شده اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با hebben: heb/heeft/hebben + subject + rest?",
+    "extra_example_nl": "Heeft zij een auto?",
+    "extra_example_fa": "آیا او ماشین دارد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft een fiets?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ در سؤال فعل اول می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft hij een fiets?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heb hij een fiets?",
+        "is_correct": false,
+        "feedback_fa": "برای «hij» باید «heeft» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een fiets hij heeft?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات سؤال غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_hebben",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag met hebben.",
+    "question_text_fa": "کدام سؤال درباره کلاس داشتن درست است؟",
+    "explanation_fa": "در سؤال با «hebben»، فعل صرف‌شده اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با hebben: heb/heeft/hebben + subject + rest?",
+    "extra_example_nl": "Hebben jullie huiswerk?",
+    "extra_example_fa": "آیا شما تکلیف دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie hebben les?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft jullie les?",
+        "is_correct": false,
+        "feedback_fa": "برای «jullie» باید «hebben» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hebben jullie les?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Les jullie hebben?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات در سؤال هلندی درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_hebben",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال با question word و «hebben» درست است؟",
+    "explanation_fa": "در سؤال با «hebben»، فعل صرف‌شده اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با hebben: heb/heeft/hebben + subject + rest?",
+    "extra_example_nl": "Wat heeft hij?",
+    "extra_example_fa": "او چه دارد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat je hebt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb wat je?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je hebt wat?",
+        "is_correct": false,
+        "feedback_fa": "برای این تمرین، ساختار استاندارد «Wat heb je?» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat heb je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_hebben",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره قرار سارا درست است؟",
+    "explanation_fa": "در سؤال با «hebben»، فعل صرف‌شده اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با hebben: heb/heeft/hebben + subject + rest?",
+    "extra_example_nl": "Wanneer heb je een afspraak?",
+    "extra_example_fa": "کی وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer heeft Sara een afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer Sara heeft een afspraak?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft wanneer Sara een afspraak?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول سؤال باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sara heeft een afspraak wanneer?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار استاندارد A2 برای question word نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_hebben",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال برای داشتن قهوه درست است؟",
+    "explanation_fa": "در سؤال با «hebben»، فعل صرف‌شده اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با hebben: heb/heeft/hebben + subject + rest?",
+    "extra_example_nl": "Heb je water?",
+    "extra_example_fa": "آب داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je hebt koffie?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb je koffie?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hebt je koffie?",
+        "is_correct": false,
+        "feedback_fa": "با «je» بعد از فعل، شکل رایج «Heb je» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Koffie je hebt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_hebben",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره کلید درست است؟",
+    "explanation_fa": "در سؤال با «hebben»، فعل صرف‌شده اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با hebben: heb/heeft/hebben + subject + rest?",
+    "extra_example_nl": "Heeft hij een kamer?",
+    "extra_example_fa": "آیا او یک اتاق دارد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij heeft de sleutel?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال با فعل شروع می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb zij de sleutel?",
+        "is_correct": false,
+        "feedback_fa": "برای «zij» مفرد باید «heeft» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft zij de sleutel?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sleutel zij heeft?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات سؤال غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_hebben",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره کار داشتن درست است؟",
+    "explanation_fa": "در سؤال با «hebben»، فعل صرف‌شده اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با hebben: heb/heeft/hebben + subject + rest?",
+    "extra_example_nl": "Hebben we morgen overleg?",
+    "extra_example_fa": "آیا فردا جلسه داریم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben vandaag werk?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل قبل از فاعل می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft wij vandaag werk?",
+        "is_correct": false,
+        "feedback_fa": "برای «wij» باید «hebben» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag wij hebben werk?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال غلط است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hebben wij vandaag werk?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_hebben",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره بچه داشتن درست است؟",
+    "explanation_fa": "در سؤال با «hebben»، فعل صرف‌شده اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با hebben: heb/heeft/hebben + subject + rest?",
+    "extra_example_nl": "Heeft je broer een baan?",
+    "extra_example_fa": "آیا برادرت کار دارد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft je zus kinderen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je zus heeft kinderen?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ در سؤال فعل باید اول باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heb je zus kinderen?",
+        "is_correct": false,
+        "feedback_fa": "برای فاعل سوم‌شخص مفرد «je zus» باید «heeft» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kinderen je zus heeft?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "questions_with_hebben",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام سؤال درباره چتر داشتن درست است؟",
+    "explanation_fa": "در سؤال با «hebben»، فعل صرف‌شده اول جمله می‌آید و فاعل بعد از آن قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با hebben: heb/heeft/hebben + subject + rest?",
+    "extra_example_nl": "Heb je een jas?",
+    "extra_example_fa": "آیا کت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je hebt een paraplu?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb je een paraplu?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hebt je een paraplu?",
+        "is_correct": false,
+        "feedback_fa": "با «je» بعد از فعل، شکل درست «Heb je» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een paraplu je hebt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "modal_question_structure",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag met een modal verb.",
+    "question_text_fa": "کدام سؤال با modal verb درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول جمله می‌آید و فعل اصلی به شکل infinitive در آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با modal verb: modal + subject + rest + infinitive?",
+    "extra_example_nl": "Kun je vandaag werken?",
+    "extra_example_fa": "آیا می‌توانی امروز کار کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij kunt morgen komen?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، modal verb باید اول جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun jij komen morgen?",
+        "is_correct": false,
+        "feedback_fa": "برای A2 بهتر است فعل اصلی آخر جمله باشد: «morgen komen»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kun jij morgen komen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Komen jij morgen kunt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب modal، فاعل و فعل اصلی غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "modal_question_structure",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag met een modal verb.",
+    "question_text_fa": "کدام سؤال با «moeten» درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول جمله می‌آید و فعل اصلی به شکل infinitive در آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با modal verb: modal + subject + rest + infinitive?",
+    "extra_example_nl": "Moet zij morgen bellen?",
+    "extra_example_fa": "آیا او باید فردا زنگ بزند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij moet vandaag werken?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، modal verb باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Moet hij werken vandaag?",
+        "is_correct": false,
+        "feedback_fa": "برای A2، فعل اصلی بهتر است آخر جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Werken hij vandaag moet?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل‌ها و فاعل غلط است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Moet hij vandaag werken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "modal_question_structure",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag met een modal verb.",
+    "question_text_fa": "کدام سؤال مؤدبانه با «mogen» درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول جمله می‌آید و فعل اصلی به شکل infinitive در آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با modal verb: modal + subject + rest + infinitive?",
+    "extra_example_nl": "Mag ik water drinken?",
+    "extra_example_fa": "آیا اجازه دارم آب بنوشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik hier zitten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik mag hier zitten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ در سؤال باید modal اول بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik zitten hier?",
+        "is_correct": false,
+        "feedback_fa": "در ساختار A2، فعل اصلی بهتر است آخر جمله بیاید: «hier zitten»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zitten ik hier mag?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات سؤال غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "modal_question_structure",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag met een modal verb.",
+    "question_text_fa": "کدام سؤال با «willen» درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول جمله می‌آید و فعل اصلی به شکل infinitive در آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با modal verb: modal + subject + rest + infinitive?",
+    "extra_example_nl": "Wil je thee drinken?",
+    "extra_example_fa": "می‌خواهی چای بنوشی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je wilt koffie drinken?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ سؤال بله/خیر با فعل شروع می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wil je koffie drinken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wil drinken je koffie?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از modal بیاید و فعل اصلی آخر جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Drink je koffie wil?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل‌ها برای سؤال modal درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "modal_question_structure",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag met een modal verb.",
+    "question_text_fa": "کدام سؤال با question word و modal درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول جمله می‌آید و فعل اصلی به شکل infinitive در آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با modal verb: modal + subject + rest + infinitive?",
+    "extra_example_nl": "Waar mag ik parkeren?",
+    "extra_example_fa": "کجا اجازه دارم پارک کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar ik moet wachten?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید modal verb بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Moet waar ik wachten?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet ik wachten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet wachten ik?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از modal بیاید: «moet ik»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "modal_question_structure",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag met een modal verb.",
+    "question_text_fa": "کدام سؤال درباره یادگیری درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول جمله می‌آید و فعل اصلی به شکل infinitive در آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با modal verb: modal + subject + rest + infinitive?",
+    "extra_example_nl": "Moeten we huiswerk maken?",
+    "extra_example_fa": "آیا باید تکلیف انجام بدهیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij moeten dit leren?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، modal verb باید اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Moet wij dit leren?",
+        "is_correct": false,
+        "feedback_fa": "برای «wij» باید «moeten» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Leren wij dit moeten?",
+        "is_correct": false,
+        "feedback_fa": "فعل اصلی نباید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Moeten wij dit leren?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "modal_question_structure",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag met een modal verb.",
+    "question_text_fa": "کدام سؤال درباره باز کردن پنجره درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول جمله می‌آید و فعل اصلی به شکل infinitive در آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با modal verb: modal + subject + rest + infinitive?",
+    "extra_example_nl": "Mag ik de deur sluiten?",
+    "extra_example_fa": "آیا اجازه دارم در را ببندم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik het raam openen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik mag het raam openen?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب خبری است، نه سؤال بله/خیر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag openen ik het raam?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از modal بیاید و فعل اصلی آخر باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Openen ik het raam mag?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب فعل‌ها غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "modal_question_structure",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag met een modal verb.",
+    "question_text_fa": "کدام سؤال هنگام خرید درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول جمله می‌آید و فعل اصلی به شکل infinitive در آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با modal verb: modal + subject + rest + infinitive?",
+    "extra_example_nl": "Kan ik hier betalen?",
+    "extra_example_fa": "آیا می‌توانم اینجا پرداخت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan pinnen?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، modal verb باید اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan pinnen ik?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از modal بیاید: «Kan ik»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Pinnen ik kan?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات در سؤال درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "modal_question_structure",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag met een modal verb.",
+    "question_text_fa": "کدام سؤال درباره بازی کردن بچه‌ها درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول جمله می‌آید و فعل اصلی به شکل infinitive در آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با modal verb: modal + subject + rest + infinitive?",
+    "extra_example_nl": "Willen jullie eten?",
+    "extra_example_fa": "آیا می‌خواهید غذا بخورید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen willen spelen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ در سؤال، modal اول می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wil de kinderen spelen?",
+        "is_correct": false,
+        "feedback_fa": "برای فاعل جمع باید «willen» باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Willen de kinderen spelen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Spelen de kinderen willen?",
+        "is_correct": false,
+        "feedback_fa": "فعل اصلی نباید در ابتدای سؤال modal بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "modal_question_structure",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste vraag met een modal verb.",
+    "question_text_fa": "کدام سؤال درباره دکتر رفتن درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول جمله می‌آید و فعل اصلی به شکل infinitive در آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال با modal verb: modal + subject + rest + infinitive?",
+    "extra_example_nl": "Moet ik medicijnen nemen?",
+    "extra_example_fa": "آیا باید دارو مصرف کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je moet naar de dokter gaan?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، modal verb باید اول جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Moet je gaan naar de dokter?",
+        "is_correct": false,
+        "feedback_fa": "برای A2 بهتر است فعل اصلی آخر جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gaan je naar de dokter moet?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب modal و فعل اصلی غلط است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Moet je naar de dokter gaan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "separable_verbs_questions",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag met een scheidbaar werkwoord.",
+    "question_text_fa": "کدام سؤال با فعل جداشدنی درست است؟",
+    "explanation_fa": "در فعل جداشدنی، بخش جداشدنی مثل op/aan/uit/mee/terug در سؤال معمولاً در پایان جمله می‌آید.",
+    "grammar_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر جمله قرار می‌گیرد.",
+    "extra_example_nl": "Sta je om zeven uur op?",
+    "extra_example_fa": "آیا ساعت هفت بیدار می‌شوی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sta jij vroeg op?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Opsta jij vroeg?",
+        "is_correct": false,
+        "feedback_fa": "فعل جداشدنی نباید به شکل کامل اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sta op jij vroeg?",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی «op» نباید بین فعل و فاعل بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij staat vroeg op?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال باید با فعل شروع شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "separable_verbs_questions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag met een scheidbaar werkwoord.",
+    "question_text_fa": "کدام سؤال درباره رسیدن قطار درست است؟",
+    "explanation_fa": "در فعل جداشدنی، بخش جداشدنی مثل op/aan/uit/mee/terug در سؤال معمولاً در پایان جمله می‌آید.",
+    "grammar_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر جمله قرار می‌گیرد.",
+    "extra_example_nl": "Komt de bus op tijd aan?",
+    "extra_example_fa": "آیا اتوبوس به‌موقع می‌رسد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Komt aan de trein om acht uur?",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی «aan» معمولاً آخر جمله می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Komt de trein om acht uur aan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Aankomt de trein om acht uur?",
+        "is_correct": false,
+        "feedback_fa": "فعل جداشدنی به شکل کامل «aankomt» اول جمله نمی‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De trein komt om acht uur aan?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب خبری است؛ سؤال بله/خیر با فعل شروع می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "separable_verbs_questions",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag met een scheidbaar werkwoord.",
+    "question_text_fa": "کدام سؤال درباره درآوردن کت درست است؟",
+    "explanation_fa": "در فعل جداشدنی، بخش جداشدنی مثل op/aan/uit/mee/terug در سؤال معمولاً در پایان جمله می‌آید.",
+    "grammar_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر جمله قرار می‌گیرد.",
+    "extra_example_nl": "Doe je je schoenen uit?",
+    "extra_example_fa": "کفش‌هایت را درمی‌آوری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Uitdoe je je jas?",
+        "is_correct": false,
+        "feedback_fa": "فعل جداشدنی نباید به شکل چسبیده اول جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doe uit je je jas?",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی «uit» باید آخر جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Doe je je jas uit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je doet je jas uit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال باید با فعل شروع شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "separable_verbs_questions",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag met een scheidbaar werkwoord.",
+    "question_text_fa": "کدام سؤال با question word و فعل جداشدنی درست است؟",
+    "explanation_fa": "در فعل جداشدنی، بخش جداشدنی مثل op/aan/uit/mee/terug در سؤال معمولاً در پایان جمله می‌آید.",
+    "grammar_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر جمله قرار می‌گیرد.",
+    "extra_example_nl": "Hoe laat sta je op?",
+    "extra_example_fa": "ساعت چند بیدار می‌شوی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer sta op je?",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی «op» باید آخر جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer je opstaat?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید؛ این ترتیب برای سؤال اصلی A2 درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Opsta je wanneer?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول و بخش جداشدنی آخر باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer sta je op?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "separable_verbs_questions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag met een scheidbaar werkwoord.",
+    "question_text_fa": "کدام سؤال درباره رسیدن اتوبوس درست است؟",
+    "explanation_fa": "در فعل جداشدنی، بخش جداشدنی مثل op/aan/uit/mee/terug در سؤال معمولاً در پایان جمله می‌آید.",
+    "grammar_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر جمله قرار می‌گیرد.",
+    "extra_example_nl": "Wanneer komt de trein aan?",
+    "extra_example_fa": "قطار کی می‌رسد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat komt de bus aan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat komt aan de bus?",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی «aan» باید آخر جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat de bus aankomt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Komt hoe laat de bus aan?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "separable_verbs_questions",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag met een scheidbaar werkwoord.",
+    "question_text_fa": "کدام سؤال درباره پوشیدن کت درست است؟",
+    "explanation_fa": "در فعل جداشدنی، بخش جداشدنی مثل op/aan/uit/mee/terug در سؤال معمولاً در پایان جمله می‌آید.",
+    "grammar_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر جمله قرار می‌گیرد.",
+    "extra_example_nl": "Doe je je trui aan?",
+    "extra_example_fa": "پلیورت را می‌پوشی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Aandoe je je jas?",
+        "is_correct": false,
+        "feedback_fa": "فعل جداشدنی به شکل چسبیده اول جمله نمی‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doe je je jas aan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Doe aan je je jas?",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی «aan» باید آخر جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je doet je jas aan?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ سؤال با فعل شروع می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "separable_verbs_questions",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag met een scheidbaar werkwoord.",
+    "question_text_fa": "کدام سؤال درباره مرتب کردن اتاق درست است؟",
+    "explanation_fa": "در فعل جداشدنی، بخش جداشدنی مثل op/aan/uit/mee/terug در سؤال معمولاً در پایان جمله می‌آید.",
+    "grammar_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر جمله قرار می‌گیرد.",
+    "extra_example_nl": "Ruim je de tafel op?",
+    "extra_example_fa": "آیا میز را جمع می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Opruim je je kamer?",
+        "is_correct": false,
+        "feedback_fa": "فعل جداشدنی نباید به شکل کامل اول جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ruim op je je kamer?",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی «op» باید آخر جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ruim je je kamer op?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je ruimt je kamer op?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال با فعل شروع می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "separable_verbs_questions",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag met een scheidbaar werkwoord.",
+    "question_text_fa": "کدام سؤال درباره آوردن کیف درست است؟",
+    "explanation_fa": "در فعل جداشدنی، بخش جداشدنی مثل op/aan/uit/mee/terug در سؤال معمولاً در پایان جمله می‌آید.",
+    "grammar_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر جمله قرار می‌گیرد.",
+    "extra_example_nl": "Neem je brood mee?",
+    "extra_example_fa": "آیا نان با خودت می‌بری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meeneem je je tas?",
+        "is_correct": false,
+        "feedback_fa": "فعل جداشدنی به شکل کامل اول جمله نمی‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neem mee je je tas?",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی «mee» باید آخر جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je neemt je tas mee?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است، نه سؤال بله/خیر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neem je je tas mee?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "separable_verbs_questions",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag met een scheidbaar werkwoord.",
+    "question_text_fa": "کدام سؤال درباره تمام کردن تکلیف درست است؟",
+    "explanation_fa": "در فعل جداشدنی، بخش جداشدنی مثل op/aan/uit/mee/terug در سؤال معمولاً در پایان جمله می‌آید.",
+    "grammar_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر جمله قرار می‌گیرد.",
+    "extra_example_nl": "Maak je de oefening af?",
+    "extra_example_fa": "آیا تمرین را تمام می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Maak je je huiswerk af?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Afmaak je je huiswerk?",
+        "is_correct": false,
+        "feedback_fa": "فعل جداشدنی به شکل چسبیده اول جمله نمی‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Maak af je je huiswerk?",
+        "is_correct": false,
+        "feedback_fa": "جزء جداشدنی «af» باید آخر جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je maakt je huiswerk af?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال باید با فعل شروع شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "separable_verbs_questions",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag met een scheidbaar werkwoord.",
+    "question_text_fa": "کدام سؤال درباره تماس گرفتن دوباره درست است؟",
+    "explanation_fa": "در فعل جداشدنی، بخش جداشدنی مثل op/aan/uit/mee/terug در سؤال معمولاً در پایان جمله می‌آید.",
+    "grammar_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر جمله قرار می‌گیرد.",
+    "extra_example_nl": "Bel je morgen terug?",
+    "extra_example_fa": "آیا فردا دوباره زنگ می‌زنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Terugbel je Sara?",
+        "is_correct": false,
+        "feedback_fa": "فعل جداشدنی به شکل کامل اول جمله نمی‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bel je Sara terug?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bel terug je Sara?",
+        "is_correct": false,
+        "feedback_fa": "جزء جداشدنی «terug» باید آخر جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je belt Sara terug?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال باید با فعل شروع شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "perfect_question_structure",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag in perfectum.",
+    "question_text_fa": "کدام سؤال در perfectum درست است؟",
+    "explanation_fa": "در perfectum، فعل کمکی اول جمله می‌آید و voltooid deelwoord معمولاً آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "Perfect question: hebben/zijn + subject + rest + voltooid deelwoord?",
+    "extra_example_nl": "Heb je koffie gedronken?",
+    "extra_example_fa": "آیا قهوه نوشیده‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je hebt gegeten?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال استاندارد perfectum، فعل کمکی باید اول جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb gegeten je?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل کمکی بیاید: «Heb je ...?»"
+      },
+      {
+        "key": "C",
+        "text_nl": "Heb je gegeten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gegeten heb je?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای سؤال A2 استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "perfect_question_structure",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag in perfectum.",
+    "question_text_fa": "کدام سؤال درباره رفتن به مدرسه درست است؟",
+    "explanation_fa": "در perfectum، فعل کمکی اول جمله می‌آید و voltooid deelwoord معمولاً آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "Perfect question: hebben/zijn + subject + rest + voltooid deelwoord?",
+    "extra_example_nl": "Ben je naar huis gegaan?",
+    "extra_example_fa": "آیا به خانه رفته‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je bent naar school gegaan?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ در سؤال فعل کمکی باید اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ben je gegaan naar school?",
+        "is_correct": false,
+        "feedback_fa": "برای A2 بهتر است participle آخر جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gegaan ben je naar school?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب سؤال استاندارد نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ben je naar school gegaan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "perfect_question_structure",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag in perfectum.",
+    "question_text_fa": "کدام سؤال درباره زنگ زدن درست است؟",
+    "explanation_fa": "در perfectum، فعل کمکی اول جمله می‌آید و voltooid deelwoord معمولاً آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "Perfect question: hebben/zijn + subject + rest + voltooid deelwoord?",
+    "extra_example_nl": "Heeft zij gewerkt?",
+    "extra_example_fa": "آیا او کار کرده است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft hij gebeld?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft gebeld?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب خبری است؛ سؤال با فعل کمکی شروع می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft gebeld hij?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل کمکی بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gebeld heeft hij?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای سؤال A2 درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "perfect_question_structure",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag in perfectum.",
+    "question_text_fa": "کدام سؤال با question word در perfectum درست است؟",
+    "explanation_fa": "در perfectum، فعل کمکی اول جمله می‌آید و voltooid deelwoord معمولاً آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "Perfect question: hebben/zijn + subject + rest + voltooid deelwoord?",
+    "extra_example_nl": "Waar heb je gewoond?",
+    "extra_example_fa": "کجا زندگی کرده‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar je bent geweest?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل کمکی بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar ben je geweest?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ben waar je geweest?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar geweest ben je?",
+        "is_correct": false,
+        "feedback_fa": "voltooid deelwoord جای فعل کمکی را نمی‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "perfect_question_structure",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag in perfectum.",
+    "question_text_fa": "کدام سؤال درباره خریدن درست است؟",
+    "explanation_fa": "در perfectum، فعل کمکی اول جمله می‌آید و voltooid deelwoord معمولاً آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "Perfect question: hebben/zijn + subject + rest + voltooid deelwoord?",
+    "extra_example_nl": "Wat heb je betaald?",
+    "extra_example_fa": "چه چیزی پرداخت کرده‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat je hebt gekocht?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل کمکی بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb wat je gekocht?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول سؤال باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat heb je gekocht?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat gekocht heb je?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل کمکی و participle غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "perfect_question_structure",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag in perfectum.",
+    "question_text_fa": "کدام سؤال درباره آمدن با اتوبوس درست است؟",
+    "explanation_fa": "در perfectum، فعل کمکی اول جمله می‌آید و voltooid deelwoord معمولاً آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "Perfect question: hebben/zijn + subject + rest + voltooid deelwoord?",
+    "extra_example_nl": "Ben je met de trein gegaan?",
+    "extra_example_fa": "آیا با قطار رفته‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je bent met de bus gekomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال باید با فعل کمکی شروع شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ben je gekomen met de bus?",
+        "is_correct": false,
+        "feedback_fa": "برای A2 بهتر است participle آخر جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gekomen ben je met de bus?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب سؤال استاندارد نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ben je met de bus gekomen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "perfect_question_structure",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag in perfectum.",
+    "question_text_fa": "کدام سؤال درباره دیدن مادر درست است؟",
+    "explanation_fa": "در perfectum، فعل کمکی اول جمله می‌آید و voltooid deelwoord معمولاً آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "Perfect question: hebben/zijn + subject + rest + voltooid deelwoord?",
+    "extra_example_nl": "Heb je je broer gesproken?",
+    "extra_example_fa": "آیا با برادرت صحبت کرده‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heb je je moeder gezien?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je hebt je moeder gezien?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال استاندارد، فعل کمکی باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heb gezien je je moeder?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل کمکی بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gezien heb je je moeder?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای سؤال A2 درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "perfect_question_structure",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag in perfectum.",
+    "question_text_fa": "کدام سؤال درباره دکتر رفتن درست است؟",
+    "explanation_fa": "در perfectum، فعل کمکی اول جمله می‌آید و voltooid deelwoord معمولاً آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "Perfect question: hebben/zijn + subject + rest + voltooid deelwoord?",
+    "extra_example_nl": "Ben je ziek geweest?",
+    "extra_example_fa": "آیا مریض بوده‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je bent naar de dokter geweest?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ سؤال با فعل کمکی شروع می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ben je naar de dokter geweest?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ben je geweest naar de dokter?",
+        "is_correct": false,
+        "feedback_fa": "برای A2 بهتر است participle آخر جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geweest ben je naar de dokter?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب سؤال استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "perfect_question_structure",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag in perfectum.",
+    "question_text_fa": "کدام سؤال درباره باران درست است؟",
+    "explanation_fa": "در perfectum، فعل کمکی اول جمله می‌آید و voltooid deelwoord معمولاً آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "Perfect question: hebben/zijn + subject + rest + voltooid deelwoord?",
+    "extra_example_nl": "Heeft het gesneeuwd?",
+    "extra_example_fa": "آیا برف آمده است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het heeft geregend?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل کمکی باید اول جمله باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft geregend het?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل کمکی بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft het geregend?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geregend heeft het?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای سؤال A2 درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "perfect_question_structure",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag in perfectum.",
+    "question_text_fa": "کدام سؤال درباره دیر آمدن درست است؟",
+    "explanation_fa": "در perfectum، فعل کمکی اول جمله می‌آید و voltooid deelwoord معمولاً آخر جمله قرار می‌گیرد.",
+    "grammar_rule_fa": "Perfect question: hebben/zijn + subject + rest + voltooid deelwoord?",
+    "extra_example_nl": "Ben je op tijd gekomen?",
+    "extra_example_fa": "آیا به‌موقع آمده‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je bent te laat gekomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال باید با فعل کمکی شروع شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ben je gekomen te laat?",
+        "is_correct": false,
+        "feedback_fa": "برای A2 بهتر است participle آخر جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gekomen ben je te laat?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب سؤال استاندارد نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ben je te laat gekomen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "negative_question_structure",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste negatieve vraag.",
+    "question_text_fa": "کدام سؤال منفی درست است؟",
+    "explanation_fa": "در سؤال منفی ساده، فعل اول جمله می‌آید، فاعل بعد از آن، و «niet/geen» بعد از فاعل یا قبل از اسم قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال منفی ساده: verb + subject + niet/geen + rest?",
+    "extra_example_nl": "Werk je niet vandaag?",
+    "extra_example_fa": "آیا امروز کار نمی‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kom je niet?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je komt niet?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kom niet je?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل بیاید، سپس «niet»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet kom je?",
+        "is_correct": false,
+        "feedback_fa": "«niet» نباید اول سؤال بله/خیر بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "negative_question_structure",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste negatieve vraag.",
+    "question_text_fa": "کدام سؤال با «geen» درست است؟",
+    "explanation_fa": "در سؤال منفی ساده، فعل اول جمله می‌آید، فاعل بعد از آن، و «niet/geen» بعد از فاعل یا قبل از اسم قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال منفی ساده: verb + subject + niet/geen + rest?",
+    "extra_example_nl": "Heb je geen geld?",
+    "extra_example_fa": "آیا پول نداری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je hebt geen tijd?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ سؤال باید با فعل شروع شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb je geen tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heb geen je tijd?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل بیاید: «Heb je ...?»"
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen heb je tijd?",
+        "is_correct": false,
+        "feedback_fa": "«geen» در ابتدای سؤال بله/خیر نمی‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "negative_question_structure",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste negatieve vraag.",
+    "question_text_fa": "کدام سؤال منفی درباره قهوه درست است؟",
+    "explanation_fa": "در سؤال منفی ساده، فعل اول جمله می‌آید، فاعل بعد از آن، و «niet/geen» بعد از فاعل یا قبل از اسم قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال منفی ساده: verb + subject + niet/geen + rest?",
+    "extra_example_nl": "Wil je geen thee?",
+    "extra_example_fa": "چای نمی‌خواهی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je wilt geen koffie?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wil geen je koffie?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل بیاید و «geen» قبل از اسم قرار می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wil je geen koffie?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen wil je koffie?",
+        "is_correct": false,
+        "feedback_fa": "«geen» نباید ابتدای سؤال بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "negative_question_structure",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste negatieve vraag.",
+    "question_text_fa": "کدام سؤال با «niet» درست است؟",
+    "explanation_fa": "در سؤال منفی ساده، فعل اول جمله می‌آید، فاعل بعد از آن، و «niet/geen» بعد از فاعل یا قبل از اسم قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال منفی ساده: verb + subject + niet/geen + rest?",
+    "extra_example_nl": "Is hij niet hier?",
+    "extra_example_fa": "آیا او اینجا نیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je bent niet thuis?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ در سؤال فعل باید اول باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ben niet je thuis?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل بیاید: «Ben je ...?»"
+      },
+      {
+        "key": "C",
+        "text_nl": "Niet ben je thuis?",
+        "is_correct": false,
+        "feedback_fa": "«niet» اول سؤال بله/خیر نمی‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ben je niet thuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "negative_question_structure",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste negatieve vraag.",
+    "question_text_fa": "کدام سؤال با question word و «niet» درست است؟",
+    "explanation_fa": "در سؤال منفی ساده، فعل اول جمله می‌آید، فاعل بعد از آن، و «niet/geen» بعد از فاعل یا قبل از اسم قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال منفی ساده: verb + subject + niet/geen + rest?",
+    "extra_example_nl": "Waarom kom je niet?",
+    "extra_example_fa": "چرا نمی‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waarom werk je niet?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waarom je werkt niet?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waarom niet werk je?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال اصلی، فعل باید بعد از question word بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Werk waarom je niet?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "negative_question_structure",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste negatieve vraag.",
+    "question_text_fa": "کدام سؤال درباره نداشتن تکلیف درست است؟",
+    "explanation_fa": "در سؤال منفی ساده، فعل اول جمله می‌آید، فاعل بعد از آن، و «niet/geen» بعد از فاعل یا قبل از اسم قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال منفی ساده: verb + subject + niet/geen + rest?",
+    "extra_example_nl": "Hebben we geen les?",
+    "extra_example_fa": "آیا کلاس نداریم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie hebben geen huiswerk?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب خبری است؛ سؤال با فعل شروع می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hebben jullie geen huiswerk?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft jullie geen huiswerk?",
+        "is_correct": false,
+        "feedback_fa": "برای «jullie» باید «hebben» استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen hebben jullie huiswerk?",
+        "is_correct": false,
+        "feedback_fa": "«geen» در ابتدای سؤال نمی‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "negative_question_structure",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste negatieve vraag.",
+    "question_text_fa": "کدام سؤال درباره نیامدن اتوبوس درست است؟",
+    "explanation_fa": "در سؤال منفی ساده، فعل اول جمله می‌آید، فاعل بعد از آن، و «niet/geen» بعد از فاعل یا قبل از اسم قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال منفی ساده: verb + subject + niet/geen + rest?",
+    "extra_example_nl": "Rijdt de trein niet?",
+    "extra_example_fa": "آیا قطار حرکت نمی‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bus komt niet?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ سؤال بله/خیر با فعل شروع می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Komt niet de bus?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل بیاید و بعد «niet»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Komt de bus niet?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet komt de bus?",
+        "is_correct": false,
+        "feedback_fa": "«niet» اول سؤال بله/خیر نمی‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "negative_question_structure",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste negatieve vraag.",
+    "question_text_fa": "کدام سؤال درباره درد نداشتن درست است؟",
+    "explanation_fa": "در سؤال منفی ساده، فعل اول جمله می‌آید، فاعل بعد از آن، و «niet/geen» بعد از فاعل یا قبل از اسم قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال منفی ساده: verb + subject + niet/geen + rest?",
+    "extra_example_nl": "Heb je geen koorts?",
+    "extra_example_fa": "آیا تب نداری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je hebt geen pijn?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb geen je pijn?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل بیاید: «Heb je ...?»"
+      },
+      {
+        "key": "C",
+        "text_nl": "Geen heb je pijn?",
+        "is_correct": false,
+        "feedback_fa": "«geen» نباید اول سؤال بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heb je geen pijn?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "negative_question_structure",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste negatieve vraag.",
+    "question_text_fa": "کدام سؤال درباره سرد نبودن هوا درست است؟",
+    "explanation_fa": "در سؤال منفی ساده، فعل اول جمله می‌آید، فاعل بعد از آن، و «niet/geen» بعد از فاعل یا قبل از اسم قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال منفی ساده: verb + subject + niet/geen + rest?",
+    "extra_example_nl": "Is het niet warm?",
+    "extra_example_fa": "آیا هوا گرم نیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is het niet koud?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het is niet koud?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال با فعل شروع می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is niet het koud?",
+        "is_correct": false,
+        "feedback_fa": "فاعل «het» باید بعد از فعل بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet is het koud?",
+        "is_correct": false,
+        "feedback_fa": "«niet» نباید اول سؤال بله/خیر بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "negative_question_structure",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kies de juiste negatieve vraag.",
+    "question_text_fa": "کدام سؤال درباره نخریدن نان درست است؟",
+    "explanation_fa": "در سؤال منفی ساده، فعل اول جمله می‌آید، فاعل بعد از آن، و «niet/geen» بعد از فاعل یا قبل از اسم قرار می‌گیرد.",
+    "grammar_rule_fa": "سؤال منفی ساده: verb + subject + niet/geen + rest?",
+    "extra_example_nl": "Wil je geen suiker?",
+    "extra_example_fa": "شکر نمی‌خواهی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je koopt geen brood?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ سؤال باید با فعل شروع شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Koop je geen brood?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Koop geen je brood?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل بیاید و «geen» قبل از اسم قرار می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen koop je brood?",
+        "is_correct": false,
+        "feedback_fa": "«geen» نباید اول سؤال بله/خیر بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "sentence_choice_question_structure",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام جمله کامل از نظر ساختار سؤال درست است؟",
+    "explanation_fa": "در انتخاب جمله سؤالی درست، باید بررسی کنیم فعل در جای درست آمده و فاعل بعد از فعل قرار گرفته باشد.",
+    "grammar_rule_fa": "جمله سؤالی درست باید inversion داشته باشد: فعل قبل از فاعل می‌آید.",
+    "extra_example_nl": "Kom jij morgen?",
+    "extra_example_fa": "آیا تو فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij werkt vandaag?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ در سؤال بله/خیر فعل باید اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Werkt jij vandaag?",
+        "is_correct": false,
+        "feedback_fa": "با «jij» بعد از فعل، -t حذف می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Werk jij vandaag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vandaag jij werkt?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "sentence_choice_question_structure",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام جمله سؤالی درست است؟",
+    "explanation_fa": "در انتخاب جمله سؤالی درست، باید بررسی کنیم فعل در جای درست آمده و فاعل بعد از فعل قرار گرفته باشد.",
+    "grammar_rule_fa": "جمله سؤالی درست باید inversion داشته باشد: فعل قبل از فاعل می‌آید.",
+    "extra_example_nl": "Waar ben je?",
+    "extra_example_fa": "کجایی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar je woont?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Woon waar je?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je waar woont?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات در سؤال غلط است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar woon je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "sentence_choice_question_structure",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام جمله با «zijn» درست است؟",
+    "explanation_fa": "در انتخاب جمله سؤالی درست، باید بررسی کنیم فعل در جای درست آمده و فاعل بعد از فعل قرار گرفته باشد.",
+    "grammar_rule_fa": "جمله سؤالی درست باید inversion داشته باشد: فعل قبل از فاعل می‌آید.",
+    "extra_example_nl": "Ben je moe?",
+    "extra_example_fa": "آیا خسته‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ben je ziek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je bent ziek?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bent je ziek?",
+        "is_correct": false,
+        "feedback_fa": "با «je» در این سؤال، شکل درست «Ben je» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ziek je bent?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات برای سؤال درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "sentence_choice_question_structure",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام جمله با modal verb درست است؟",
+    "explanation_fa": "در انتخاب جمله سؤالی درست، باید بررسی کنیم فعل در جای درست آمده و فاعل بعد از فعل قرار گرفته باشد.",
+    "grammar_rule_fa": "جمله سؤالی درست باید inversion داشته باشد: فعل قبل از فاعل می‌آید.",
+    "extra_example_nl": "Wil je koffie drinken?",
+    "extra_example_fa": "قهوه می‌خواهی بنوشی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je kunt morgen komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال باید با modal شروع شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun je morgen komen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kun je komen morgen?",
+        "is_correct": false,
+        "feedback_fa": "برای A2 فعل اصلی بهتر است آخر جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Komen je morgen kun?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب modal و فعل اصلی غلط است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "sentence_choice_question_structure",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام جمله با فعل جداشدنی درست است؟",
+    "explanation_fa": "در انتخاب جمله سؤالی درست، باید بررسی کنیم فعل در جای درست آمده و فاعل بعد از فعل قرار گرفته باشد.",
+    "grammar_rule_fa": "جمله سؤالی درست باید inversion داشته باشد: فعل قبل از فاعل می‌آید.",
+    "extra_example_nl": "Sta je vroeg op?",
+    "extra_example_fa": "آیا زود بیدار می‌شوی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Aankomt de trein?",
+        "is_correct": false,
+        "feedback_fa": "فعل جداشدنی به شکل چسبیده اول جمله نمی‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Komt aan de trein?",
+        "is_correct": false,
+        "feedback_fa": "جزء جداشدنی «aan» باید آخر جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Komt de trein aan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De trein komt aan?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ سؤال با فعل شروع می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "sentence_choice_question_structure",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام جمله در perfectum درست است؟",
+    "explanation_fa": "در انتخاب جمله سؤالی درست، باید بررسی کنیم فعل در جای درست آمده و فاعل بعد از فعل قرار گرفته باشد.",
+    "grammar_rule_fa": "جمله سؤالی درست باید inversion داشته باشد: فعل قبل از فاعل می‌آید.",
+    "extra_example_nl": "Heb je thee gedronken?",
+    "extra_example_fa": "آیا چای نوشیده‌ای؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je hebt gegeten?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ سؤال perfectum با فعل کمکی شروع می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb gegeten je?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل کمکی بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gegeten heb je?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب سؤال استاندارد A2 نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heb je gegeten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "sentence_choice_question_structure",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام جمله با question word درست است؟",
+    "explanation_fa": "در انتخاب جمله سؤالی درست، باید بررسی کنیم فعل در جای درست آمده و فاعل بعد از فعل قرار گرفته باشد.",
+    "grammar_rule_fa": "جمله سؤالی درست باید inversion داشته باشد: فعل قبل از فاعل می‌آید.",
+    "extra_example_nl": "Waarom kom je te laat?",
+    "extra_example_fa": "چرا دیر می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waarom leer je Nederlands?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waarom je leert Nederlands?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Leer waarom je Nederlands?",
+        "is_correct": false,
+        "feedback_fa": "question word باید اول جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je leert waarom Nederlands?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب سؤال استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "sentence_choice_question_structure",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام جمله درباره خرید درست است؟",
+    "explanation_fa": "در انتخاب جمله سؤالی درست، باید بررسی کنیم فعل در جای درست آمده و فاعل بعد از فعل قرار گرفته باشد.",
+    "grammar_rule_fa": "جمله سؤالی درست باید inversion داشته باشد: فعل قبل از فاعل می‌آید.",
+    "extra_example_nl": "Wat wil je?",
+    "extra_example_fa": "چه می‌خواهی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat je koopt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از question word باید فعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat koop je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Koop wat je?",
+        "is_correct": false,
+        "feedback_fa": "question word باید ابتدای سؤال باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je koopt wat?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار برای تمرین سؤال استاندارد مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "sentence_choice_question_structure",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام جمله منفی درست است؟",
+    "explanation_fa": "در انتخاب جمله سؤالی درست، باید بررسی کنیم فعل در جای درست آمده و فاعل بعد از فعل قرار گرفته باشد.",
+    "grammar_rule_fa": "جمله سؤالی درست باید inversion داشته باشد: فعل قبل از فاعل می‌آید.",
+    "extra_example_nl": "Is het niet koud?",
+    "extra_example_fa": "آیا هوا سرد نیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het is niet warm?",
+        "is_correct": false,
+        "feedback_fa": "این جمله خبری است؛ سؤال باید با فعل شروع شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is niet het warm?",
+        "is_correct": false,
+        "feedback_fa": "فاعل باید بعد از فعل بیاید، سپس «niet»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is het niet warm?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet is het warm?",
+        "is_correct": false,
+        "feedback_fa": "«niet» ابتدای سؤال بله/خیر نمی‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "grammar",
+    "topic": "question_structure",
+    "subtopic": "sentence_choice_question_structure",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "کدام جمله درباره خانواده درست است؟",
+    "explanation_fa": "در انتخاب جمله سؤالی درست، باید بررسی کنیم فعل در جای درست آمده و فاعل بعد از فعل قرار گرفته باشد.",
+    "grammar_rule_fa": "جمله سؤالی درست باید inversion داشته باشد: فعل قبل از فاعل می‌آید.",
+    "extra_example_nl": "Heeft je zus tijd?",
+    "extra_example_fa": "آیا خواهرت وقت دارد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je broer heeft werk?",
+        "is_correct": false,
+        "feedback_fa": "این ساختار خبری است؛ سؤال با فعل شروع می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb je broer werk?",
+        "is_correct": false,
+        "feedback_fa": "برای فاعل سوم‌شخص مفرد باید «heeft» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Werk je broer heeft?",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب کلمات سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft je broer werk?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب کلمات در این سؤال هلندی صحیح است."
+      }
+    ]
+  }
+]

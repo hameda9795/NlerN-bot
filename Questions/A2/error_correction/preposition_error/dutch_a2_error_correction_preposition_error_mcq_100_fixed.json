@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "in_op_places",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik ben op de keuken.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن. در جمله حرف اضافه اشتباه است.",
+    "explanation_fa": "چون شخص داخل آشپزخانه است، باید از «in de keuken» استفاده شود.",
+    "correction_rule_fa": "برای داخل یک فضا یا چیز از in استفاده می‌شود.",
+    "extra_example_nl": "Zij is in de kamer.",
+    "extra_example_fa": "او داخل اتاق است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben in de keuken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben op de keuken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de keuken» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben naar de keuken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de keuken» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben bij de keuken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de keuken» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "in_op_places",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De kinderen zijn in school.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای حضور در مدرسه، عبارت طبیعی و ساده «op school» است.",
+    "correction_rule_fa": "برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود.",
+    "extra_example_nl": "Ik ben vandaag op school.",
+    "extra_example_fa": "من امروز در مدرسه هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen zijn in school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op school» باشد. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen zijn op school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen zijn naar school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op school» باشد. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen zijn bij school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op school» باشد. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "in_op_places",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik werk in kantoor.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "برای گفتن «در دفتر کار می‌کنم» معمولاً «op kantoor» می‌آید.",
+    "correction_rule_fa": "برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود.",
+    "extra_example_nl": "Mijn vader is op kantoor.",
+    "extra_example_fa": "پدرم در دفتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk in kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op kantoor» باشد. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk naar kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op kantoor» باشد. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik werk op kantoor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk bij kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op kantoor» باشد. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "in_op_places",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn laptop ligt in tafel.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "لپ‌تاپ روی سطح میز است، پس «op tafel» درست است.",
+    "correction_rule_fa": "برای قرار داشتن روی سطح از op استفاده می‌شود.",
+    "extra_example_nl": "Het bord staat op tafel.",
+    "extra_example_fa": "بشقاب روی میز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn laptop ligt in tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn laptop ligt aan tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn laptop ligt bij tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn laptop ligt op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "in_op_places",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik koop brood op de winkel.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که حرف اضافه در آن درست است.",
+    "explanation_fa": "وقتی خرید داخل فروشگاه انجام می‌شود، «in de winkel» درست است.",
+    "correction_rule_fa": "برای داخل یک فضا یا چیز از in استفاده می‌شود.",
+    "extra_example_nl": "Wij zijn in de supermarkt.",
+    "extra_example_fa": "ما داخل سوپرمارکت هستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop brood in de winkel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik koop brood op de winkel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de winkel» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop brood naar de winkel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de winkel» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop brood bij de winkel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de winkel» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "in_op_places",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik wacht in het station.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن. در جمله حرف اضافه اشتباه است.",
+    "explanation_fa": "برای منتظر بودن در ایستگاه قطار، عبارت رایج «op het station» است.",
+    "correction_rule_fa": "برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود.",
+    "extra_example_nl": "Ik ben op het station.",
+    "extra_example_fa": "من در ایستگاه هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wacht in het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op het station» باشد. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wacht op het station.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wacht naar het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op het station» باشد. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wacht aan het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op het station» باشد. برای این مکان ثابت یا سطح در این جمله از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "in_op_places",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn telefoon ligt in de stoel.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "تلفن روی صندلی قرار دارد، پس «op de stoel» درست است.",
+    "correction_rule_fa": "برای قرار داشتن روی سطح از op استفاده می‌شود.",
+    "extra_example_nl": "De tas ligt op de stoel.",
+    "extra_example_fa": "کیف روی صندلی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn telefoon ligt in de stoel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op de stoel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn telefoon ligt aan de stoel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op de stoel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn telefoon ligt op de stoel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn telefoon ligt naar de stoel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op de stoel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "in_op_places",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De sleutels zitten op de tas.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "در این جمله کلیدها داخل کیف هستند، پس «in de tas» درست است.",
+    "correction_rule_fa": "برای داخل یک فضا یا چیز از in استفاده می‌شود.",
+    "extra_example_nl": "Mijn portemonnee zit in mijn tas.",
+    "extra_example_fa": "کیف پولم داخل کیفم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De sleutels zitten op de tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de tas» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De sleutels zitten aan de tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de tas» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De sleutels zitten bij de tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de tas» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sleutels zitten in de tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "in_op_places",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De man zit in de bushalte.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "برای کنار یا نزدِ ایستگاه اتوبوس بودن، «bij de bushalte» درست است.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Ik wacht bij de bushalte.",
+    "extra_example_fa": "من کنار ایستگاه اتوبوس منتظر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De man zit bij de bushalte.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De man zit in de bushalte.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de bushalte» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De man zit op de bushalte.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de bushalte» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De man zit naar de bushalte.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de bushalte» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "in_op_places",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik woon op dit huis.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که حرف اضافه در آن درست است.",
+    "explanation_fa": "چون محل زندگی داخل خانه است، باید از «in dit huis» استفاده شود.",
+    "correction_rule_fa": "برای داخل یک فضا یا چیز از in استفاده می‌شود.",
+    "extra_example_nl": "Zij woont in een klein huis.",
+    "extra_example_fa": "او در یک خانه کوچک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik woon op dit huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in dit huis» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik woon in dit huis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik woon naar dit huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in dit huis» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik woon bij dit huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in dit huis» باشد. برای داخل یک فضا یا چیز از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "naar_movement",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik ga in school.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "منظور حرکت به سمت مکان است، نه حضور در آنجا. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "چون حرکت به سمت مدرسه داریم، «naar school» درست است.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "Zij gaat naar de les.",
+    "extra_example_fa": "او به کلاس می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga in school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar school» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ga op school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar school» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ga bij school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar school» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "naar_movement",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij gaat in huis.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "منظور حرکت به سمت مکان است، نه حضور در آنجا. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "برای رفتن به خانه، عبارت درست و ساده «naar huis» است.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "Ik ga naar huis.",
+    "extra_example_fa": "من به خانه می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij gaat in huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar huis» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij gaat op huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar huis» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij gaat bij huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar huis» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij gaat naar huis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "naar_movement",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij gaan bij de dokter.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "منظور حرکت به سمت مکان است، نه حضور در آنجا. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "وقتی حرکت به سمت دکتر یا مطب داریم، «naar de dokter» درست است.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "Ik ga morgen naar de tandarts.",
+    "extra_example_fa": "من فردا به دندان‌پزشک می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij gaan naar de dokter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij gaan bij de dokter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de dokter» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij gaan in de dokter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de dokter» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij gaan op de dokter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de dokter» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "naar_movement",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij loopt in de winkel.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور حرکت به سمت مکان است، نه حضور در آنجا. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "چون شخص به سمت فروشگاه می‌رود، باید «naar de winkel» استفاده شود.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "Wij lopen naar de markt.",
+    "extra_example_fa": "ما به بازار می‌رویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij loopt in de winkel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de winkel» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij loopt naar de winkel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij loopt op de winkel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de winkel» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij loopt bij de winkel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de winkel» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "naar_movement",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik fiets op kantoor.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور حرکت به سمت مکان است، نه حضور در آنجا. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "فعل fietsen اینجا حرکت به سمت محل کار را نشان می‌دهد، پس «naar kantoor» درست است.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "Hij rijdt naar zijn werk.",
+    "extra_example_fa": "او به محل کارش می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik fiets op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar kantoor» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik fiets in kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar kantoor» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik fiets naar kantoor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik fiets bij kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar kantoor» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "naar_movement",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De trein gaat in Utrecht.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "منظور حرکت به سمت مکان است، نه حضور در آنجا. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "برای مقصد یک شهر از «naar» استفاده می‌شود.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "De bus gaat naar Amsterdam.",
+    "extra_example_fa": "اتوبوس به آمستردام می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De trein gaat in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar Utrecht» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De trein gaat op Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar Utrecht» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De trein gaat bij Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar Utrecht» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De trein gaat naar Utrecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "naar_movement",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "We gaan op de markt.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "منظور حرکت به سمت مکان است، نه حضور در آنجا. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "وقتی می‌خواهیم بگوییم به بازار می‌رویم، «naar de markt» درست است.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "Ik ga naar de supermarkt.",
+    "extra_example_fa": "من به سوپرمارکت می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We gaan naar de markt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "We gaan op de markt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de markt» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "We gaan in de markt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de markt» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "We gaan bij de markt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de markt» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "naar_movement",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik loop op het station.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "منظور حرکت به سمت مکان است، نه حضور در آنجا. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "چون مقصد حرکت ایستگاه است، باید «naar het station» بیاید.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "Zij loopt naar de bus.",
+    "extra_example_fa": "او به سمت اتوبوس می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik loop op het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar het station» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik loop naar het station.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik loop in het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar het station» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik loop bij het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar het station» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "naar_movement",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn broer gaat bij zijn werk.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور حرکت به سمت مکان است، نه حضور در آنجا. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "برای حرکت به سمت محل کار از «naar zijn werk» استفاده می‌شود.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "Ik ga naar mijn werk.",
+    "extra_example_fa": "من به محل کارم می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn broer gaat bij zijn werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar zijn werk» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn broer gaat in zijn werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar zijn werk» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn broer gaat naar zijn werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn broer gaat op zijn werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar zijn werk» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "naar_movement",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij gaat in de supermarkt.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور حرکت به سمت مکان است، نه حضور در آنجا. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "چون حرکت به سمت سوپرمارکت داریم، «naar de supermarkt» درست است.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "Wij gaan naar de winkel.",
+    "extra_example_fa": "ما به فروشگاه می‌رویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij gaat in de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de supermarkt» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij gaat op de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de supermarkt» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij gaat bij de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «naar de supermarkt» باشد. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij gaat naar de supermarkt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "transport_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik ga naar school in de fiets.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "منظور استفاده از وسیله برای رفتن/رسیدن است، نه داخل وسیله بودن یا کنار آن. اصلاح درست کدام است؟",
+    "explanation_fa": "برای رفتن با دوچرخه در این تمرین «op de fiets» شکل هدف و طبیعی است.",
+    "correction_rule_fa": "برای دوچرخه معمولاً op de fiets استفاده می‌شود.",
+    "extra_example_nl": "Zij gaat op de fiets naar school.",
+    "extra_example_fa": "او با دوچرخه به مدرسه می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga naar school op de fiets.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای دوچرخه معمولاً op de fiets استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ga naar school in de fiets.",
+        "is_correct": false,
+        "feedback_fa": "in de fiets درست نیست؛ برای رفتن با دوچرخه باید «op de fiets» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar school aan de fiets.",
+        "is_correct": false,
+        "feedback_fa": "aan de fiets برای رفتن با دوچرخه درست نیست؛ برای دوچرخه در این تمرین «op de fiets» لازم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ga naar school bij de fiets.",
+        "is_correct": false,
+        "feedback_fa": "bij de fiets یعنی کنار دوچرخه؛ برای رفتن با دوچرخه باید «op de fiets» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "transport_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij reizen op de trein.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "منظور استفاده از وسیله برای رفتن/رسیدن است، نه داخل وسیله بودن یا کنار آن. اصلاح درست کدام است؟",
+    "explanation_fa": "برای گفتن «با قطار سفر می‌کنیم» از «met de trein» استفاده می‌شود.",
+    "correction_rule_fa": "برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود.",
+    "extra_example_nl": "Ik reis met de bus.",
+    "extra_example_fa": "من با اتوبوس سفر می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij reizen op de trein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de trein» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij reizen met de trein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij reizen naar de trein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de trein» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij reizen bij de trein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de trein» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "transport_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij komt naar de bus.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "منظور استفاده از وسیله برای رفتن/رسیدن است، نه داخل وسیله بودن یا کنار آن. اصلاح درست کدام است؟",
+    "explanation_fa": "برای گفتن اینکه او با اتوبوس می‌آید، «met de bus» درست است.",
+    "correction_rule_fa": "برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود.",
+    "extra_example_nl": "Mijn vader komt met de trein.",
+    "extra_example_fa": "پدرم با قطار می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij komt naar de bus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de bus» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij komt op de bus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de bus» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij komt met de bus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij komt bij de bus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de bus» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "transport_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik ga op de auto naar mijn werk.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور استفاده از وسیله برای رفتن/رسیدن است، نه داخل وسیله بودن یا کنار آن. اصلاح درست کدام است؟",
+    "explanation_fa": "برای گفتن «با ماشین به محل کار می‌روم»، «met de auto» درست است.",
+    "correction_rule_fa": "برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود.",
+    "extra_example_nl": "Wij gaan met de auto naar huis.",
+    "extra_example_fa": "ما با ماشین به خانه می‌رویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga op de auto naar mijn werk.",
+        "is_correct": false,
+        "feedback_fa": "op de auto یعنی روی ماشین؛ برای سفر با ماشین باید «met de auto» استفاده شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ga aan de auto naar mijn werk.",
+        "is_correct": false,
+        "feedback_fa": "aan de auto برای سفر با ماشین درست نیست؛ برای رفتن با ماشین باید «met de auto» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga bij de auto naar mijn werk.",
+        "is_correct": false,
+        "feedback_fa": "bij de auto یعنی کنار ماشین؛ برای سفر با ماشین باید «met de auto» استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ga met de auto naar mijn werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "transport_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij reist aan de tram naar de stad.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور استفاده از وسیله برای رفتن/رسیدن است، نه داخل وسیله بودن یا کنار آن. اصلاح درست کدام است؟",
+    "explanation_fa": "برای وسیله نقلیه در جمله سفر، «met de tram» مناسب است.",
+    "correction_rule_fa": "برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود.",
+    "extra_example_nl": "Zij gaat met de tram naar kantoor.",
+    "extra_example_fa": "او با تراموا به دفتر می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij reist met de tram naar de stad.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij reist aan de tram naar de stad.",
+        "is_correct": false,
+        "feedback_fa": "aan de tram برای سفر با تراموا درست نیست؛ در جمله سفر باید «met de tram» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij reist op de tram naar de stad.",
+        "is_correct": false,
+        "feedback_fa": "op de tram برای سفر با تراموا درست نیست؛ باید «met de tram» استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij reist bij de tram naar de stad.",
+        "is_correct": false,
+        "feedback_fa": "bij de tram یعنی کنار تراموا؛ برای سفر با تراموا باید «met de tram» استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "transport_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "We zitten op de trein.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "منظور این است که شخص داخل وسیله نشسته است. اصلاح درست کدام است؟",
+    "explanation_fa": "چون داخل قطار نشسته‌ایم، «in de trein» درست است.",
+    "correction_rule_fa": "برای داخل وسیله نقلیه بودن از in استفاده می‌شود.",
+    "extra_example_nl": "Ik zit in de bus.",
+    "extra_example_fa": "من داخل اتوبوس نشسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We zitten op de trein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de trein» باشد. برای داخل وسیله نقلیه بودن از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "We zitten in de trein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای داخل وسیله نقلیه بودن از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "We zitten aan de trein.",
+        "is_correct": false,
+        "feedback_fa": "aan de trein برای نشستن داخل قطار درست نیست؛ وقتی داخل قطار هستیم باید «in de trein» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "We zitten bij de trein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de trein» باشد. برای داخل وسیله نقلیه بودن از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "transport_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik zit op de bus.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "منظور این است که شخص داخل وسیله نشسته است. اصلاح درست کدام است؟",
+    "explanation_fa": "برای نشستن داخل اتوبوس از «in de bus» استفاده می‌شود.",
+    "correction_rule_fa": "برای داخل وسیله نقلیه بودن از in استفاده می‌شود.",
+    "extra_example_nl": "Wij zitten in de trein.",
+    "extra_example_fa": "ما داخل قطار نشسته‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zit op de bus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de bus» باشد. برای داخل وسیله نقلیه بودن از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zit aan de bus.",
+        "is_correct": false,
+        "feedback_fa": "aan de bus برای نشستن داخل اتوبوس درست نیست؛ وقتی داخل اتوبوس هستیم باید «in de bus» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik zit in de bus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای داخل وسیله نقلیه بودن از in استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zit naar de bus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de bus» باشد. برای داخل وسیله نقلیه بودن از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "transport_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Mijn moeder gaat naar de taxi.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "منظور استفاده از وسیله برای رفتن/رسیدن است، نه داخل وسیله بودن یا کنار آن. اصلاح درست کدام است؟",
+    "explanation_fa": "برای گفتن اینکه مادرم با تاکسی می‌رود، «met de taxi» درست است.",
+    "correction_rule_fa": "برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود.",
+    "extra_example_nl": "Hij gaat met de taxi naar huis.",
+    "extra_example_fa": "او با تاکسی به خانه می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn moeder gaat naar de taxi.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de taxi» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn moeder gaat op de taxi.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de taxi» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn moeder gaat bij de taxi.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de taxi» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn moeder gaat met de taxi.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "transport_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij gaan op de metro naar het centrum.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور استفاده از وسیله برای رفتن/رسیدن است، نه داخل وسیله بودن یا کنار آن. اصلاح درست کدام است؟",
+    "explanation_fa": "برای گفتن «با مترو می‌رویم»، از «met de metro» استفاده می‌شود.",
+    "correction_rule_fa": "برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود.",
+    "extra_example_nl": "Ik ga met de metro naar school.",
+    "extra_example_fa": "من با مترو به مدرسه می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij gaan met de metro naar het centrum.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij gaan op de metro naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "op de metro برای رفتن با مترو درست نیست؛ باید «met de metro» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij gaan aan de metro naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "aan de metro برای رفتن با مترو درست نیست؛ برای سفر با وسیله نقلیه باید «met de metro» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij gaan bij de metro naar het centrum.",
+        "is_correct": false,
+        "feedback_fa": "bij de metro یعنی کنار مترو؛ برای رفتن با مترو باید «met de metro» استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "transport_prepositions",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij zit op de auto.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور این است که شخص داخل وسیله نشسته است. اصلاح درست کدام است؟",
+    "explanation_fa": "برای نشستن داخل ماشین از «in de auto» استفاده می‌شود.",
+    "correction_rule_fa": "برای داخل وسیله نقلیه بودن از in استفاده می‌شود.",
+    "extra_example_nl": "Zij zit in de auto.",
+    "extra_example_fa": "او داخل ماشین نشسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij zit op de auto.",
+        "is_correct": false,
+        "feedback_fa": "op de auto یعنی روی ماشین؛ برای نشستن داخل ماشین باید «in de auto» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij zit in de auto.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای داخل وسیله نقلیه بودن از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij zit aan de auto.",
+        "is_correct": false,
+        "feedback_fa": "aan de auto برای داخل ماشین بودن درست نیست؛ وقتی شخص داخل ماشین نشسته، باید «in de auto» استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij zit bij de auto.",
+        "is_correct": false,
+        "feedback_fa": "bij de auto یعنی کنار ماشین؛ برای داخل ماشین بودن باید «in de auto» استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "time_prepositions",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik begin op negen uur.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن. در جمله حرف اضافه اشتباه است.",
+    "explanation_fa": "برای گفتن ساعت شروع، در هلندی از «om» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای ساعت از om استفاده می‌شود.",
+    "extra_example_nl": "De les begint om tien uur.",
+    "extra_example_fa": "درس ساعت ده شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik begin op negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «om negen uur» باشد. برای ساعت از om استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik begin in negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «om negen uur» باشد. برای ساعت از om استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساعت از om استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begin naar negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «om negen uur» باشد. برای ساعت از om استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "time_prepositions",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De les begint in half acht.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای ساعت مانند «half acht» از «om» استفاده می‌شود.",
+    "correction_rule_fa": "برای ساعت از om استفاده می‌شود.",
+    "extra_example_nl": "Ik kom om half zes.",
+    "extra_example_fa": "من ساعت پنج و نیم می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De les begint in half acht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «om half acht» باشد. برای ساعت از om استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De les begint op half acht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «om half acht» باشد. برای ساعت از om استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De les begint bij half acht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «om half acht» باشد. برای ساعت از om استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De les begint om half acht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساعت از om استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "time_prepositions",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik werk in maandag.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "برای روزهای هفته در هلندی از «op» استفاده می‌شود.",
+    "correction_rule_fa": "برای روز هفته از op استفاده می‌شود.",
+    "extra_example_nl": "Wij hebben les op dinsdag.",
+    "extra_example_fa": "ما سه‌شنبه کلاس داریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk op maandag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk in maandag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op maandag» باشد. برای روز هفته از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik werk om maandag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op maandag» باشد. برای روز هفته از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk naar maandag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op maandag» باشد. برای روز هفته از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "time_prepositions",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij eten om vrijdag samen.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "چون «vrijdag» روز هفته است، حرف اضافه درست «op» است.",
+    "correction_rule_fa": "برای روز هفته از op استفاده می‌شود.",
+    "extra_example_nl": "Ik sport op zaterdag.",
+    "extra_example_fa": "من شنبه ورزش می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij eten om vrijdag samen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op vrijdag» باشد. برای روز هفته از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij eten op vrijdag samen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij eten in vrijdag samen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op vrijdag» باشد. برای روز هفته از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij eten naar vrijdag samen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op vrijdag» باشد. برای روز هفته از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "time_prepositions",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik drink koffie op de ochtend.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که حرف اضافه در آن درست است.",
+    "explanation_fa": "برای بخش روز مثل صبح، از «in de ochtend» استفاده می‌شود.",
+    "correction_rule_fa": "برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود.",
+    "extra_example_nl": "Zij leest in de avond.",
+    "extra_example_fa": "او عصر/شب مطالعه می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik drink koffie op de ochtend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de ochtend» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik drink koffie om de ochtend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de ochtend» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik drink koffie in de ochtend.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik drink koffie naar de ochtend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de ochtend» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "time_prepositions",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De vergadering is op de middag.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن. در جمله حرف اضافه اشتباه است.",
+    "explanation_fa": "برای «بعدازظهر» در این جمله باید «in de middag» بیاید.",
+    "correction_rule_fa": "برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود.",
+    "extra_example_nl": "Ik werk in de middag.",
+    "extra_example_fa": "من بعدازظهر کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergadering is op de middag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de middag» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vergadering is om de middag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de middag» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vergadering is naar de middag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de middag» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergadering is in de middag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "time_prepositions",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn verjaardag is op januari.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای ماه مانند januari از حرف اضافه «in» استفاده می‌شود.",
+    "correction_rule_fa": "برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود.",
+    "extra_example_nl": "Wij gaan in maart verhuizen.",
+    "extra_example_fa": "ما در ماه مارس اسباب‌کشی می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn verjaardag is in januari.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn verjaardag is op januari.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in januari» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn verjaardag is om januari.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in januari» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn verjaardag is naar januari.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in januari» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "time_prepositions",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij gaan zwemmen op de zomer.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "برای فصل‌ها مثل تابستان از «in de zomer» استفاده می‌شود.",
+    "correction_rule_fa": "برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود.",
+    "extra_example_nl": "Het is koud in de winter.",
+    "extra_example_fa": "در زمستان هوا سرد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij gaan zwemmen op de zomer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de zomer» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij gaan zwemmen in de zomer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij gaan zwemmen om de zomer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de zomer» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij gaan zwemmen bij de zomer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in de zomer» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "time_prepositions",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik ben vrij op het weekend.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "برای گفتن «در آخر هفته» معمولاً از «in het weekend» استفاده می‌شود.",
+    "correction_rule_fa": "برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود.",
+    "extra_example_nl": "Wij rusten in het weekend.",
+    "extra_example_fa": "ما آخر هفته استراحت می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben vrij op het weekend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in het weekend» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben vrij om het weekend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in het weekend» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben vrij in het weekend.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben vrij naar het weekend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «in het weekend» باشد. برای ماه، فصل یا بخش‌هایی از روز از in استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "time_prepositions",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik bezoek mijn moeder in zondag.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که حرف اضافه در آن درست است.",
+    "explanation_fa": "چون zondag روز هفته است، حرف اضافه درست «op» است.",
+    "correction_rule_fa": "برای روز هفته از op استفاده می‌شود.",
+    "extra_example_nl": "Ik bel mijn vader op maandag.",
+    "extra_example_fa": "من دوشنبه به پدرم زنگ می‌زنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik bezoek mijn moeder in zondag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op zondag» باشد. برای روز هفته از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik bezoek mijn moeder om zondag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op zondag» باشد. برای روز هفته از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bezoek mijn moeder bij zondag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op zondag» باشد. برای روز هفته از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik bezoek mijn moeder op zondag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "bij_people_and_places",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik ben in de dokter.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "منظور این است که شخص الان پیش دکتر است، نه اینکه به سمت دکتر می‌رود. اصلاح درست کدام است؟",
+    "explanation_fa": "برای گفتن اینکه پیش دکتر هستیم، از «bij de dokter» استفاده می‌شود.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Zij is bij de tandarts.",
+    "extra_example_fa": "او پیش دندان‌پزشک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben bij de dokter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben in de dokter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de dokter» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben naar de dokter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de dokter» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben op de dokter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de dokter» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "bij_people_and_places",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij is op de tandarts.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "منظور این است که شخص الان نزد دندان‌پزشک است. اصلاح درست کدام است؟",
+    "explanation_fa": "برای حضور نزد دندان‌پزشک، عبارت درست «bij de tandarts» است.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Ik ben bij de dokter.",
+    "extra_example_fa": "من پیش دکتر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij is op de tandarts.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de tandarts» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij is bij de tandarts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij is in de tandarts.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de tandarts» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij is naar de tandarts.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de tandarts» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "bij_people_and_places",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik wacht op de kassa.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "منظور ایستادن/منتظر بودن کنار صندوق است. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "برای گفتن کنار یا نزد صندوق، از «bij de kassa» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Wij staan bij de balie.",
+    "extra_example_fa": "ما کنار باجه ایستاده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wacht op de kassa.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de kassa» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wacht in de kassa.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de kassa» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wacht bij de kassa.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wacht naar de kassa.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de kassa» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "bij_people_and_places",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "We staan op de ingang.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور ایستادن کنار ورودی است. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "برای محل مشخص مثل ورودی، وقتی منظور کنار آن است، «bij de ingang» درست است.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Ik wacht bij de deur.",
+    "extra_example_fa": "من کنار/دم در منتظر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We staan op de ingang.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de ingang» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "We staan in de ingang.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de ingang» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "We staan naar de ingang.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de ingang» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "We staan bij de ingang.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "bij_people_and_places",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Mijn tas ligt naar de balie.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که حرف اضافه در آن درست است.",
+    "explanation_fa": "وقتی چیزی کنار باجه است، از «bij de balie» استفاده می‌شود.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "De stoel staat bij de tafel.",
+    "extra_example_fa": "صندلی کنار میز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn tas ligt bij de balie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn tas ligt naar de balie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de balie» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn tas ligt in de balie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de balie» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn tas ligt op de balie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de balie» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "bij_people_and_places",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik ben naar mijn moeder.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن. در جمله حرف اضافه اشتباه است.",
+    "explanation_fa": "برای گفتن اینکه پیش مادرم هستم، «bij mijn moeder» درست است.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Hij is bij zijn vader.",
+    "extra_example_fa": "او پیش پدرش است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben naar mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij mijn moeder» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben bij mijn moeder.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben in mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij mijn moeder» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben op mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij mijn moeder» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "bij_people_and_places",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij is in de buren.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای گفتن نزد یا خانه همسایه‌ها بودن، از «bij de buren» استفاده می‌شود.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Wij eten bij de buren.",
+    "extra_example_fa": "ما پیش همسایه‌ها غذا می‌خوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is in de buren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de buren» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij is naar de buren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de buren» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij is bij de buren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij is op de buren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de buren» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "bij_people_and_places",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De bus stopt op de bushalte.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "برای محل توقف اتوبوس کنار ایستگاه، «bij de bushalte» درست است.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Ik stap in bij de bushalte.",
+    "extra_example_fa": "من کنار ایستگاه سوار می‌شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bus stopt op de bushalte.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de bushalte» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus stopt in de bushalte.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de bushalte» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bus stopt naar de bushalte.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de bushalte» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bus stopt bij de bushalte.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "bij_people_and_places",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "We ontmoeten elkaar in de school.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور قرار گذاشتن کنار مدرسه است، نه داخل مدرسه. جمله درست کدام است؟",
+    "explanation_fa": "برای قرار ملاقات کنار یک مکان مشخص، از «bij» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Ik wacht bij de winkel.",
+    "extra_example_fa": "من کنار فروشگاه منتظر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We ontmoeten elkaar bij de school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "We ontmoeten elkaar in de school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de school» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "We ontmoeten elkaar op de school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de school» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "We ontmoeten elkaar naar de school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij de school» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "bij_people_and_places",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik zit naar mijn vriend.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور نشستن کنار/پیش دوست است. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "برای گفتن اینکه پیش دوستم هستم یا کنار او نشسته‌ام، «bij mijn vriend» درست است.",
+    "correction_rule_fa": "برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Zij zit bij haar zus.",
+    "extra_example_fa": "او کنار/پیش خواهرش نشسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zit naar mijn vriend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij mijn vriend» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zit bij mijn vriend.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik zit in mijn vriend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij mijn vriend» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zit op mijn vriend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «bij mijn vriend» باشد. برای نزدِ شخص یا کنار یک محل مشخص از bij استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "van_possession_origin",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit boek is voor mij.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "منظور این است که کتاب مال من است، نه اینکه برای من خریده شده. جمله درست را انتخاب کن.",
+    "explanation_fa": "برای بیان مالکیت، یعنی «کتاب مال من است»، باید از «van mij» استفاده شود.",
+    "correction_rule_fa": "برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود.",
+    "extra_example_nl": "Deze pen is van mij.",
+    "extra_example_fa": "این خودکار مال من است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit boek is voor mij.",
+        "is_correct": false,
+        "feedback_fa": "اگر منظور مالکیت باشد، voor mij درست نیست؛ باید «van mij» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit boek is bij mij.",
+        "is_correct": false,
+        "feedback_fa": "bij mij یعنی پیش من/نزد من است؛ برای مالکیت باید «van mij» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit boek is van mij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit boek is naar mij.",
+        "is_correct": false,
+        "feedback_fa": "naar mij یعنی به سمت من؛ برای مالکیت باید «van mij» استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "van_possession_origin",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Deze tas is voor Sara.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "منظور این است که کیف متعلق به سارا است، نه اینکه برای سارا خریده شده. اصلاح درست کدام است؟",
+    "explanation_fa": "برای گفتن اینکه کیف مال سارا است، باید از «van Sara» استفاده شود.",
+    "correction_rule_fa": "برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود.",
+    "extra_example_nl": "De jas is van mijn zus.",
+    "extra_example_fa": "کت مال خواهرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze tas is voor Sara.",
+        "is_correct": false,
+        "feedback_fa": "اگر منظور مالکیت باشد، voor Sara درست نیست؛ باید «van Sara» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze tas is bij Sara.",
+        "is_correct": false,
+        "feedback_fa": "bij Sara یعنی نزد سارا؛ برای مالکیت باید «van Sara» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze tas is naar Sara.",
+        "is_correct": false,
+        "feedback_fa": "naar Sara یعنی به سمت سارا؛ برای مالکیت باید «van Sara» استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze tas is van Sara.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "van_possession_origin",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De fiets is bij mijn broer.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "منظور مالکیت دوچرخه است، نه محل دوچرخه. اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "وقتی می‌گوییم دوچرخه مال برادرم است، «van mijn broer» درست است.",
+    "correction_rule_fa": "برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود.",
+    "extra_example_nl": "De auto is van mijn vader.",
+    "extra_example_fa": "ماشین مال پدرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De fiets is van mijn broer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De fiets is bij mijn broer.",
+        "is_correct": false,
+        "feedback_fa": "bij mijn broer یعنی دوچرخه نزد/کنار برادرم است؛ برای مالکیت باید «van mijn broer» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De fiets is voor mijn broer.",
+        "is_correct": false,
+        "feedback_fa": "voor mijn broer یعنی برای برادرم؛ برای مالکیت باید «van mijn broer» استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De fiets is naar mijn broer.",
+        "is_correct": false,
+        "feedback_fa": "naar mijn broer یعنی به سمت برادرم؛ برای مالکیت درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "van_possession_origin",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik krijg een bericht voor mijn manager.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "وقتی پیام از طرف کسی می‌آید، از «van» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود.",
+    "extra_example_nl": "Ik krijg een e-mail van mijn collega.",
+    "extra_example_fa": "من یک ایمیل از همکارم می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik krijg een bericht voor mijn manager.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mijn manager» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik krijg een bericht van mijn manager.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik krijg een bericht bij mijn manager.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mijn manager» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik krijg een bericht naar mijn manager.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mijn manager» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "van_possession_origin",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De sleutel is voor de deur.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور این است که این کلید، کلیدِ در است. جمله درست را انتخاب کن.",
+    "explanation_fa": "برای گفتن «کلیدِ در»، در این جمله «van de deur» درست است.",
+    "correction_rule_fa": "برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود.",
+    "extra_example_nl": "Dit is de sleutel van mijn kamer.",
+    "extra_example_fa": "این کلید اتاق من است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De sleutel is voor de deur.",
+        "is_correct": false,
+        "feedback_fa": "voor de deur یعنی جلوی در یا برای در؛ برای «کلیدِ در» باید «van de deur» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De sleutel is bij de deur.",
+        "is_correct": false,
+        "feedback_fa": "bij de deur یعنی کنار در؛ برای تعلق/مالکیت باید «van de deur» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De sleutel is van de deur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sleutel is naar de deur.",
+        "is_correct": false,
+        "feedback_fa": "naar de deur یعنی به سمت در؛ برای تعلق کلید درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "van_possession_origin",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik kom uit mijn werk.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن. در جمله حرف اضافه اشتباه است.",
+    "explanation_fa": "برای گفتن اینکه از محل کار می‌آیم، «van mijn werk» درست است.",
+    "correction_rule_fa": "برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود.",
+    "extra_example_nl": "Hij komt van kantoor.",
+    "extra_example_fa": "او از دفتر می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kom uit mijn werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mijn werk» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kom naar mijn werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mijn werk» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom bij mijn werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mijn werk» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom van mijn werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "van_possession_origin",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij is een collega voor mij.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای گفتن «یکی از همکاران من»، از «van mij» استفاده می‌شود.",
+    "correction_rule_fa": "برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود.",
+    "extra_example_nl": "Hij is een vriend van mij.",
+    "extra_example_fa": "او یکی از دوستان من است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij is een collega van mij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij is een collega voor mij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mij» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij is een collega bij mij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mij» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij is een collega naar mij.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mij» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "van_possession_origin",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij is een vriend voor mijn vader.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "برای گفتن «دوستِ پدرم» باید از «van mijn vader» استفاده کرد.",
+    "correction_rule_fa": "برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود.",
+    "extra_example_nl": "Zij is een vriendin van mijn moeder.",
+    "extra_example_fa": "او دوست مادرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is een vriend voor mijn vader.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mijn vader» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij is een vriend van mijn vader.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij is een vriend bij mijn vader.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mijn vader» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij is een vriend naar mijn vader.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «van mijn vader» باشد. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "van_possession_origin",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De auto is bij mijn buurman.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور این است که ماشین مال همسایه است، نه اینکه برای او خریده شده. جمله درست کدام است؟",
+    "explanation_fa": "برای بیان مالکیت ماشین، باید از «van mijn buurman» استفاده شود.",
+    "correction_rule_fa": "برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود.",
+    "extra_example_nl": "De fiets is van mijn buurvrouw.",
+    "extra_example_fa": "دوچرخه مال همسایه‌ام است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De auto is bij mijn buurman.",
+        "is_correct": false,
+        "feedback_fa": "bij mijn buurman یعنی ماشین نزد همسایه است؛ برای مالکیت باید «van mijn buurman» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De auto is voor mijn buurman.",
+        "is_correct": false,
+        "feedback_fa": "اگر منظور مالکیت باشد، voor mijn buurman درست نیست؛ باید «van mijn buurman» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De auto is van mijn buurman.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De auto is naar mijn buurman.",
+        "is_correct": false,
+        "feedback_fa": "naar mijn buurman یعنی به سمت همسایه؛ برای مالکیت درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "van_possession_origin",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit bericht is naar de gemeente.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور این است که پیام از طرف شهرداری آمده است، نه اینکه برای شهرداری است. جمله درست کدام است؟",
+    "explanation_fa": "وقتی پیام از طرف جایی می‌آید، از «van» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود.",
+    "extra_example_nl": "De brief is van de school.",
+    "extra_example_fa": "نامه از طرف مدرسه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit bericht is naar de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "naar de gemeente یعنی به سمت/برای ارسال به شهرداری؛ برای پیامِ از طرف شهرداری باید «van de gemeente» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit bericht is voor de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "voor de gemeente یعنی برای شهرداری؛ اما اینجا منظور پیام از طرف شهرداری است، پس «van de gemeente» درست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit bericht is bij de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "bij de gemeente یعنی نزد/در محل شهرداری؛ برای فرستنده پیام باید «van de gemeente» استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit bericht is van de gemeente.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای مالکیت، تعلق یا فرستنده از van استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "uit_origin_inside_out",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik kom van Iran.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "منظور اهل ایران بودن است. کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "برای گفتن اینکه اهل یک کشور هستیم، از «uit» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود.",
+    "extra_example_nl": "Zij komt uit Nederland.",
+    "extra_example_fa": "او اهل هلند است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kom uit Iran.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kom van Iran.",
+        "is_correct": false,
+        "feedback_fa": "برای اهل یک کشور بودن، van درست نیست؛ باید «uit Iran» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom naar Iran.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit Iran» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom bij Iran.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit Iran» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "uit_origin_inside_out",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij komt van Nederland.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "منظور اهل هلند بودن است. کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "برای گفتن اینکه کسی اهل یک کشور است، از «uit» استفاده می‌شود.",
+    "correction_rule_fa": "برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود.",
+    "extra_example_nl": "Ik kom uit Utrecht.",
+    "extra_example_fa": "من اهل اوترخت هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij komt van Nederland.",
+        "is_correct": false,
+        "feedback_fa": "برای اهل یک کشور بودن، van درست نیست؛ باید «uit Nederland» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij komt uit Nederland.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij komt naar Nederland.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit Nederland» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij komt bij Nederland.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit Nederland» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "uit_origin_inside_out",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik haal het boek van mijn tas.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "منظور این است که کتاب داخل کیف است و آن را از داخل کیف بیرون می‌آورم. اصلاح درست کدام است؟",
+    "explanation_fa": "وقتی چیزی را از داخل کیف بیرون می‌آوریم، از «uit mijn tas» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود.",
+    "extra_example_nl": "Zij haalt geld uit haar tas.",
+    "extra_example_fa": "او پول را از داخل کیفش بیرون می‌آورد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik haal het boek van mijn tas.",
+        "is_correct": false,
+        "feedback_fa": "van mijn tas می‌تواند معنی «از روی/از طرف کیف» بدهد؛ برای داخل کیف باید «uit mijn tas» استفاده شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik haal het boek naar mijn tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit mijn tas» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik haal het boek uit mijn tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik haal het boek bij mijn tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit mijn tas» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "uit_origin_inside_out",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij haalt melk van de koelkast.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور این است که شیر داخل یخچال است. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "وقتی چیزی را از داخل یخچال برمی‌داریم، باید از «uit de koelkast» استفاده کنیم.",
+    "correction_rule_fa": "برای بیرون آوردن چیزی از داخل یک مکان یا وسیله، از uit استفاده می‌شود.",
+    "extra_example_nl": "Ik haal water uit de koelkast.",
+    "extra_example_fa": "من آب را از داخل یخچال برمی‌دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij haalt melk van de koelkast.",
+        "is_correct": false,
+        "feedback_fa": "van de koelkast در این context درست نیست؛ وقتی چیزی داخل یخچال است باید «uit de koelkast» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij haalt melk naar de koelkast.",
+        "is_correct": false,
+        "feedback_fa": "naar de koelkast یعنی به سمت یخچال؛ برای بیرون آوردن از داخل یخچال باید «uit de koelkast» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij haalt melk bij de koelkast.",
+        "is_correct": false,
+        "feedback_fa": "bij de koelkast یعنی کنار یخچال؛ برای داخل یخچال باید «uit de koelkast» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij haalt melk uit de koelkast.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای بیرون آوردن چیزی از داخل یخچال از uit استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "uit_origin_inside_out",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De sleutel valt van mijn zak.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که حرف اضافه در آن درست است.",
+    "explanation_fa": "چون کلید از داخل جیب می‌افتد، «uit mijn zak» درست است.",
+    "correction_rule_fa": "برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود.",
+    "extra_example_nl": "Het geld valt uit mijn portemonnee.",
+    "extra_example_fa": "پول از کیف پولم می‌افتد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De sleutel valt uit mijn zak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De sleutel valt van mijn zak.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit mijn zak» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De sleutel valt naar mijn zak.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit mijn zak» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sleutel valt bij mijn zak.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit mijn zak» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "uit_origin_inside_out",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik stap van de bus.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن. در جمله حرف اضافه اشتباه است.",
+    "explanation_fa": "برای پیاده شدن از اتوبوس، «uit de bus» درست است.",
+    "correction_rule_fa": "برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود.",
+    "extra_example_nl": "Wij stappen uit de trein.",
+    "extra_example_fa": "ما از قطار پیاده می‌شویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik stap van de bus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit de bus» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik stap uit de bus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik stap naar de bus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit de bus» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik stap bij de bus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit de bus» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "uit_origin_inside_out",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij loopt van de kamer.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "منظور این است که او از داخل اتاق بیرون می‌رود. اصلاح درست کدام است؟",
+    "explanation_fa": "برای حرکت از داخل اتاق به بیرون، «uit de kamer» درست است.",
+    "correction_rule_fa": "برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود.",
+    "extra_example_nl": "Hij loopt uit de keuken.",
+    "extra_example_fa": "او از آشپزخانه بیرون می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij loopt van de kamer.",
+        "is_correct": false,
+        "feedback_fa": "van de kamer در این context درست نیست؛ برای بیرون رفتن از داخل اتاق باید «uit de kamer» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij loopt naar de kamer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit de kamer» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij loopt uit de kamer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij loopt bij de kamer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit de kamer» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "uit_origin_inside_out",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik neem het geld van mijn portemonnee.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "چون پول از داخل کیف پول برداشته می‌شود، «uit mijn portemonnee» درست است.",
+    "correction_rule_fa": "برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود.",
+    "extra_example_nl": "Ik haal mijn pas uit mijn portemonnee.",
+    "extra_example_fa": "من کارت خود را از کیف پولم بیرون می‌آورم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem het geld van mijn portemonnee.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit mijn portemonnee» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem het geld naar mijn portemonnee.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit mijn portemonnee» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem het geld bij mijn portemonnee.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit mijn portemonnee» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik neem het geld uit mijn portemonnee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "uit_origin_inside_out",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij komt van Utrecht.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور اهل شهر Utrecht بودن است، نه آمدن از سمت Utrecht. جمله درست کدام است؟",
+    "explanation_fa": "برای گفتن اینکه کسی اهل یک شهر است، از «uit» استفاده می‌شود.",
+    "correction_rule_fa": "برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود.",
+    "extra_example_nl": "Mijn vriend komt uit Rotterdam.",
+    "extra_example_fa": "دوستم اهل روتردام است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij komt uit Utrecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij komt van Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "برای اهل یک شهر بودن، van درست نیست؛ باید «uit Utrecht» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij komt naar Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit Utrecht» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij komt bij Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «uit Utrecht» باشد. برای اهل یک شهر/کشور بودن یا بیرون آمدن از داخل چیزی از uit استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "uit_origin_inside_out",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De kinderen lopen van de klas.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور این است که بچه‌ها از داخل کلاس بیرون می‌آیند. اصلاح درست کدام است؟",
+    "explanation_fa": "وقتی کودکان از داخل کلاس بیرون می‌آیند، باید از «uit de klas» استفاده شود.",
+    "correction_rule_fa": "برای بیرون آمدن از داخل یک مکان از uit استفاده می‌شود.",
+    "extra_example_nl": "De leraar loopt uit de klas.",
+    "extra_example_fa": "معلم از کلاس بیرون می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen lopen van de klas.",
+        "is_correct": false,
+        "feedback_fa": "van de klas در این context درست نیست؛ برای بیرون آمدن از داخل کلاس باید «uit de klas» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen lopen uit de klas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای بیرون آمدن از داخل کلاس از uit استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen lopen naar de klas.",
+        "is_correct": false,
+        "feedback_fa": "naar de klas یعنی به سمت کلاس؛ اینجا منظور بیرون آمدن از کلاس است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen lopen bij de klas.",
+        "is_correct": false,
+        "feedback_fa": "bij de klas یعنی کنار کلاس؛ برای بیرون آمدن از داخل کلاس باید «uit de klas» استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "aan_op_object_position",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De foto hangt op de muur.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن. در جمله حرف اضافه اشتباه است.",
+    "explanation_fa": "برای چیزی که به دیوار آویزان است، «aan de muur» استفاده می‌شود.",
+    "correction_rule_fa": "برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود.",
+    "extra_example_nl": "De klok hangt aan de muur.",
+    "extra_example_fa": "ساعت به دیوار آویزان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De foto hangt op de muur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de muur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De foto hangt in de muur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de muur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De foto hangt aan de muur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De foto hangt naar de muur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de muur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "aan_op_object_position",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het boek ligt aan tafel.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "چون کتاب روی سطح میز است، باید «op tafel» استفاده شود.",
+    "correction_rule_fa": "برای قرار داشتن روی سطح از op استفاده می‌شود.",
+    "extra_example_nl": "De sleutel ligt op tafel.",
+    "extra_example_fa": "کلید روی میز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het boek ligt aan tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het boek ligt in tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het boek ligt naar tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het boek ligt op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "aan_op_object_position",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij zitten op tafel.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "برای نشستن سر میز، در هلندی از «aan tafel» استفاده می‌شود.",
+    "correction_rule_fa": "برای نشستن یا غذا خوردن سر میز از aan tafel استفاده می‌شود.",
+    "extra_example_nl": "Wij eten aan tafel.",
+    "extra_example_fa": "ما سر میز غذا می‌خوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij zitten aan tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نشستن یا غذا خوردن سر میز از aan tafel استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij zitten op tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan tafel» باشد. برای نشستن یا غذا خوردن سر میز از aan tafel استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij zitten in tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan tafel» باشد. برای نشستن یا غذا خوردن سر میز از aan tafel استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij zitten naar tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan tafel» باشد. برای نشستن یا غذا خوردن سر میز از aan tafel استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "aan_op_object_position",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De jas hangt op de kapstok.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "برای چیزی که به چوب‌رختی آویزان است، «aan de kapstok» درست است.",
+    "correction_rule_fa": "برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود.",
+    "extra_example_nl": "Mijn jas hangt aan de deur.",
+    "extra_example_fa": "کت من به در آویزان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De jas hangt op de kapstok.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de kapstok» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De jas hangt aan de kapstok.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De jas hangt in de kapstok.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de kapstok» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De jas hangt naar de kapstok.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de kapstok» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "aan_op_object_position",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik sta op de deur.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که حرف اضافه در آن درست است.",
+    "explanation_fa": "برای گفتن «دم در ایستاده‌ام»، از «aan de deur» استفاده می‌شود.",
+    "correction_rule_fa": "برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود.",
+    "extra_example_nl": "Er staat iemand aan de deur.",
+    "extra_example_fa": "یک نفر دم در ایستاده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik sta op de deur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de deur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik sta in de deur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de deur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik sta aan de deur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik sta naar de deur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de deur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "aan_op_object_position",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De tas ligt aan de stoel.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن. در جمله حرف اضافه اشتباه است.",
+    "explanation_fa": "چون کیف روی صندلی قرار دارد، «op de stoel» درست است.",
+    "correction_rule_fa": "برای قرار داشتن روی سطح از op استفاده می‌شود.",
+    "extra_example_nl": "Mijn jas ligt op de stoel.",
+    "extra_example_fa": "کت من روی صندلی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De tas ligt aan de stoel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op de stoel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De tas ligt in de stoel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op de stoel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De tas ligt naar de stoel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op de stoel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De tas ligt op de stoel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "aan_op_object_position",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De sleutel ligt aan de grond.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای قرار داشتن روی زمین، از «op de grond» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای قرار داشتن روی سطح از op استفاده می‌شود.",
+    "extra_example_nl": "De bal ligt op de grond.",
+    "extra_example_fa": "توپ روی زمین است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De sleutel ligt op de grond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De sleutel ligt aan de grond.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op de grond» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De sleutel ligt in de grond.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op de grond» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sleutel ligt naar de grond.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op de grond» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "aan_op_object_position",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het bord staat aan tafel.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "چون بشقاب روی میز قرار دارد، «op tafel» درست است.",
+    "correction_rule_fa": "برای قرار داشتن روی سطح از op استفاده می‌شود.",
+    "extra_example_nl": "De kop staat op tafel.",
+    "extra_example_fa": "فنجان روی میز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het bord staat aan tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het bord staat op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het bord staat in tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het bord staat bij tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "aan_op_object_position",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De klok hangt op de muur.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "برای چیزی که به دیوار آویزان است، «aan de muur» درست است.",
+    "correction_rule_fa": "برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود.",
+    "extra_example_nl": "De foto hangt aan de muur.",
+    "extra_example_fa": "عکس به دیوار آویزان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De klok hangt op de muur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de muur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De klok hangt in de muur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de muur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De klok hangt aan de muur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De klok hangt naar de muur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de muur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "aan_op_object_position",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De spiegel hangt op de deur.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که حرف اضافه در آن درست است.",
+    "explanation_fa": "برای آویزان بودن آینه به در، باید «aan de deur» استفاده شود.",
+    "correction_rule_fa": "برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود.",
+    "extra_example_nl": "De jas hangt aan de deur.",
+    "extra_example_fa": "کت به در آویزان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De spiegel hangt op de deur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de deur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De spiegel hangt in de deur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de deur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De spiegel hangt naar de deur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan de deur» باشد. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De spiegel hangt aan de deur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای آویزان بودن به دیوار، در یا چیزی شبیه آن از aan استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "voor_purpose_person",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit cadeau is van mijn moeder.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "منظور این است که این هدیه برای مادرم است، نه از طرف مادرم. جمله درست را انتخاب کن.",
+    "explanation_fa": "برای معنی «هدیه برای مادرم است» باید از «voor mijn moeder» استفاده شود.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Deze bloemen zijn voor mijn zus.",
+    "extra_example_fa": "این گل‌ها برای خواهرم هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit cadeau is voor mijn moeder.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit cadeau is van mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "van mijn moeder یعنی از طرف/مال مادرم؛ اما اینجا منظور «برای مادرم» است، پس باید «voor mijn moeder» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit cadeau is bij mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor mijn moeder» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit cadeau is naar mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor mijn moeder» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "voor_purpose_person",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik koop brood van het ontbijt.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای بیان هدف خرید، از «voor het ontbijt» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Ik koop melk voor de koffie.",
+    "extra_example_fa": "من برای قهوه شیر می‌خرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop brood van het ontbijt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor het ontbijt» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik koop brood voor het ontbijt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop brood bij het ontbijt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor het ontbijt» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop brood naar het ontbijt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor het ontbijt» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "voor_purpose_person",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Deze stoel is van jou.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "منظور این است که این صندلی برای تو در نظر گرفته شده، نه اینکه مال توست. جمله درست کدام است؟",
+    "explanation_fa": "وقتی چیزی برای کسی در نظر گرفته شده، از «voor» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Deze plek is voor u.",
+    "extra_example_fa": "این جایگاه برای شماست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze stoel is van jou.",
+        "is_correct": false,
+        "feedback_fa": "van jou یعنی مال تو؛ اما اینجا منظور «برای تو» است، پس باید «voor jou» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze stoel is bij jou.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor jou» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze stoel is voor jou.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze stoel is naar jou.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor jou» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "voor_purpose_person",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik maak koffie van mijn collega.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "برای گفتن اینکه قهوه را برای همکارم درست می‌کنم، «voor mijn collega» درست است.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Zij maakt thee voor haar moeder.",
+    "extra_example_fa": "او برای مادرش چای درست می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik maak koffie van mijn collega.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor mijn collega» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik maak koffie bij mijn collega.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor mijn collega» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik maak koffie naar mijn collega.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor mijn collega» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik maak koffie voor mijn collega.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "voor_purpose_person",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit formulier is van de gemeente.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور این است که این فرم باید برای شهرداری باشد/فرستاده شود، نه اینکه از طرف شهرداری آمده است. جمله درست کدام است؟",
+    "explanation_fa": "برای نشان دادن مقصد یا کاربرد فرم، یعنی «برای شهرداری»، از «voor de gemeente» استفاده می‌شود.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Deze brief is voor de school.",
+    "extra_example_fa": "این نامه برای مدرسه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit formulier is voor de gemeente.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit formulier is van de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "van de gemeente یعنی از طرف شهرداری؛ اما اینجا منظور فرم برای شهرداری است، پس باید «voor de gemeente» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit formulier is bij de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor de gemeente» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit formulier is naar de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor de gemeente» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "voor_purpose_person",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik heb een afspraak van morgen.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن. در جمله حرف اضافه اشتباه است.",
+    "explanation_fa": "برای گفتن اینکه قراری برای فردا داریم، «voor morgen» درست است.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Ik heb een taak voor vandaag.",
+    "extra_example_fa": "من کاری برای امروز دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een afspraak van morgen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor morgen» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een afspraak voor morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een afspraak op morgen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor morgen» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een afspraak naar morgen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor morgen» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "voor_purpose_person",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik zoek een jas van mijn zoon.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای گفتن اینکه کت را برای پسرم می‌خواهم، «voor mijn zoon» درست است.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Ik koop schoenen voor mijn dochter.",
+    "extra_example_fa": "من برای دخترم کفش می‌خرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zoek een jas van mijn zoon.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor mijn zoon» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zoek een jas bij mijn zoon.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor mijn zoon» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik zoek een jas voor mijn zoon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zoek een jas naar mijn zoon.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor mijn zoon» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "voor_purpose_person",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik betaal van de boodschappen.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "برای پرداخت بابت چیزی، از «voor» استفاده می‌شود.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Hij betaalt voor de koffie.",
+    "extra_example_fa": "او بابت قهوه پول می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik betaal van de boodschappen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor de boodschappen» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik betaal bij de boodschappen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor de boodschappen» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik betaal naar de boodschappen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor de boodschappen» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaal voor de boodschappen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "voor_purpose_person",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Deze brief is van u.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور این است که این نامه برای شماست، نه اینکه از طرف شماست. جمله درست کدام است؟",
+    "explanation_fa": "وقتی نامه برای یک شخص است، از «voor» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Dit pakket is voor u.",
+    "extra_example_fa": "این بسته برای شماست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze brief is voor u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze brief is van u.",
+        "is_correct": false,
+        "feedback_fa": "van u یعنی از طرف شما؛ اما اینجا منظور «برای شما» است، پس باید «voor u» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze brief is bij u.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor u» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze brief is naar u.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor u» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "voor_purpose_person",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit geld is van de huur.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که حرف اضافه در آن درست است.",
+    "explanation_fa": "وقتی پول برای اجاره کنار گذاشته شده، از «voor de huur» استفاده می‌شود.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Deze envelop is voor de huur.",
+    "extra_example_fa": "این پاکت برای اجاره است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit geld is van de huur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor de huur» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit geld is voor de huur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit geld is bij de huur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor de huur» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit geld is naar de huur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor de huur» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "choosing_best_preposition_correction",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik ga in de bibliotheek.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "منظور حرکت به سمت کتابخانه است، نه حضور داخل آن. جمله درست را انتخاب کن.",
+    "explanation_fa": "برای حرکت به سمت کتابخانه، باید از «naar de bibliotheek» استفاده شود.",
+    "correction_rule_fa": "برای حرکت به سمت یک مکان از naar استفاده می‌شود.",
+    "extra_example_nl": "Zij gaat naar de supermarkt.",
+    "extra_example_fa": "او به سوپرمارکت می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga in de bibliotheek.",
+        "is_correct": false,
+        "feedback_fa": "in de bibliotheek حضور داخل کتابخانه را نشان می‌دهد؛ برای حرکت به سمت آن باید «naar de bibliotheek» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ga op de bibliotheek.",
+        "is_correct": false,
+        "feedback_fa": "op de bibliotheek برای حرکت به سمت کتابخانه درست نیست؛ باید «naar de bibliotheek» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de bibliotheek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای حرکت به سمت یک مکان از naar استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ga bij de bibliotheek.",
+        "is_correct": false,
+        "feedback_fa": "bij de bibliotheek یعنی کنار/نزدیک کتابخانه؛ برای رفتن به آنجا باید «naar de bibliotheek» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "choosing_best_preposition_correction",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Mijn afspraak is in maandag.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "منظور روز هفته است. اصلاح درست حرف اضافه کدام است؟",
+    "explanation_fa": "برای روزهای هفته در هلندی از «op» استفاده می‌کنیم.",
+    "correction_rule_fa": "برای روز هفته از op استفاده می‌شود.",
+    "extra_example_nl": "De afspraak is op vrijdag.",
+    "extra_example_fa": "قرار ملاقات روز جمعه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn afspraak is in maandag.",
+        "is_correct": false,
+        "feedback_fa": "برای روز هفته نباید in بیاید؛ باید «op maandag» استفاده شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn afspraak is om maandag.",
+        "is_correct": false,
+        "feedback_fa": "om برای ساعت است، نه برای روز هفته؛ باید «op maandag» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn afspraak is naar maandag.",
+        "is_correct": false,
+        "feedback_fa": "naar برای حرکت به سمت مکان است؛ برای روز هفته باید «op maandag» استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn afspraak is op maandag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای روز هفته از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "choosing_best_preposition_correction",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Sara komt van Spanje.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "منظور اهل اسپانیا بودن است. کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "برای گفتن اینکه کسی اهل یک کشور است، از «uit» استفاده می‌شود.",
+    "correction_rule_fa": "برای اهل یک کشور یا شهر بودن از uit استفاده می‌شود.",
+    "extra_example_nl": "Omar komt uit Marokko.",
+    "extra_example_fa": "عمر اهل مراکش است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sara komt uit Spanje.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اهل یک کشور بودن از uit استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sara komt van Spanje.",
+        "is_correct": false,
+        "feedback_fa": "برای اهل یک کشور بودن، van درست نیست؛ باید «uit Spanje» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sara komt naar Spanje.",
+        "is_correct": false,
+        "feedback_fa": "naar Spanje یعنی به سمت اسپانیا رفتن؛ برای اهل اسپانیا بودن باید «uit Spanje» استفاده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sara komt bij Spanje.",
+        "is_correct": false,
+        "feedback_fa": "bij Spanje برای اهل کشور بودن درست نیست؛ باید «uit Spanje» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "choosing_best_preposition_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De poster hangt op de muur.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "منظور این است که پوستر روی/به دیوار آویزان است. اصلاح درست کدام است؟",
+    "explanation_fa": "برای چیزی که به دیوار آویزان است، در هلندی «aan de muur» استفاده می‌شود.",
+    "correction_rule_fa": "برای آویزان بودن روی دیوار می‌گوییم: aan de muur.",
+    "extra_example_nl": "De kalender hangt aan de muur.",
+    "extra_example_fa": "تقویم به دیوار آویزان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De poster hangt op de muur.",
+        "is_correct": false,
+        "feedback_fa": "برای چیزی که به دیوار آویزان است، op de muur طبیعی نیست؛ باید «aan de muur» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De poster hangt aan de muur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای آویزان بودن روی دیوار از aan de muur استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De poster hangt in de muur.",
+        "is_correct": false,
+        "feedback_fa": "in de muur یعنی داخل دیوار؛ برای پوستر مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De poster hangt naar de muur.",
+        "is_correct": false,
+        "feedback_fa": "naar برای حرکت به سمت مکان است، نه آویزان بودن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "choosing_best_preposition_correction",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik wacht naar de balie.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور این است که کنار باجه منتظر هستم. اصلاح درست کدام است؟",
+    "explanation_fa": "برای منتظر بودن کنار یک مکان مشخص، در این جمله «bij de balie» درست است.",
+    "correction_rule_fa": "برای نزدِ شخص یا مکان مشخص از bij استفاده می‌شود.",
+    "extra_example_nl": "Zij wacht bij de ingang.",
+    "extra_example_fa": "او کنار ورودی منتظر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wacht naar de balie.",
+        "is_correct": false,
+        "feedback_fa": "naar de balie یعنی به سمت باجه؛ برای منتظر بودن کنار باجه باید «bij de balie» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wacht in de balie.",
+        "is_correct": false,
+        "feedback_fa": "in de balie یعنی داخل باجه؛ برای کنار باجه منتظر بودن درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wacht bij de balie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نزد/کنار مکان مشخص از bij استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wacht op de balie.",
+        "is_correct": false,
+        "feedback_fa": "op de balie یعنی روی باجه؛ برای منتظر بودن کنار باجه باید «bij de balie» استفاده شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "choosing_best_preposition_correction",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De sleutel is voor mijn fiets.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "منظور این است که این کلید، کلیدِ دوچرخه من است. جمله درست کدام است؟",
+    "explanation_fa": "برای گفتن «کلیدِ دوچرخه من»، در این جمله از «van mijn fiets» استفاده می‌شود.",
+    "correction_rule_fa": "برای تعلق یا مالکیت از van استفاده می‌شود.",
+    "extra_example_nl": "Deze sleutel is van mijn huis.",
+    "extra_example_fa": "این کلیدِ خانه من است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De sleutel is voor mijn fiets.",
+        "is_correct": false,
+        "feedback_fa": "voor mijn fiets در این context تعلق را نشان نمی‌دهد؛ برای «کلیدِ دوچرخه» باید «van mijn fiets» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De sleutel is bij mijn fiets.",
+        "is_correct": false,
+        "feedback_fa": "bij mijn fiets یعنی کلید کنار دوچرخه است؛ برای تعلق باید «van mijn fiets» استفاده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De sleutel is naar mijn fiets.",
+        "is_correct": false,
+        "feedback_fa": "naar mijn fiets یعنی به سمت دوچرخه؛ برای تعلق کلید درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sleutel is van mijn fiets.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای تعلق یا مالکیت از van استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "choosing_best_preposition_correction",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik reis op de trein.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "وقتی قطار وسیله سفر است، «met de trein» بهترین اصلاح است.",
+    "correction_rule_fa": "برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود.",
+    "extra_example_nl": "Wij reizen met de bus.",
+    "extra_example_fa": "ما با اتوبوس سفر می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik reis met de trein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik reis op de trein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de trein» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik reis naar de trein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de trein» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik reis bij de trein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «met de trein» باشد. برای رفتن یا سفر با وسیله نقلیه معمولاً از met استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "choosing_best_preposition_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De sleutels liggen in tafel.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه حرف اضافه را اصلاح کن.",
+    "explanation_fa": "چون کلیدها روی سطح میز هستند، بهترین اصلاح «op tafel» است.",
+    "correction_rule_fa": "برای قرار داشتن روی سطح از op استفاده می‌شود.",
+    "extra_example_nl": "Mijn telefoon ligt op tafel.",
+    "extra_example_fa": "تلفنم روی میز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De sleutels liggen in tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De sleutels liggen op tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De sleutels liggen aan tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De sleutels liggen naar tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «op tafel» باشد. برای قرار داشتن روی سطح از op استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "choosing_best_preposition_correction",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij eten op tafel.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر حرف اضافه درست است؟",
+    "explanation_fa": "برای غذا خوردن سر میز، جمله درست «Wij eten aan tafel» است.",
+    "correction_rule_fa": "برای نشستن یا غذا خوردن سر میز از aan tafel استفاده می‌شود.",
+    "extra_example_nl": "De kinderen zitten aan tafel.",
+    "extra_example_fa": "بچه‌ها سر میز نشسته‌اند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij eten op tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan tafel» باشد. برای نشستن یا غذا خوردن سر میز از aan tafel استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij eten in tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan tafel» باشد. برای نشستن یا غذا خوردن سر میز از aan tafel استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij eten aan tafel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای نشستن یا غذا خوردن سر میز از aan tafel استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij eten naar tafel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «aan tafel» باشد. برای نشستن یا غذا خوردن سر میز از aan tafel استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "preposition_error",
+    "subtopic": "choosing_best_preposition_correction",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik koop bloemen van mijn moeder.",
+    "question_text_nl": "Kies de zin met het juiste voorzetsel.",
+    "question_text_fa": "منظور این است که من گل‌ها را برای مادرم می‌خرم، نه از مادرم. کدام جمله درست است؟",
+    "explanation_fa": "برای خریدن چیزی برای یک شخص، از «voor» استفاده می‌شود.",
+    "correction_rule_fa": "برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود.",
+    "extra_example_nl": "Hij koopt een cadeau voor zijn vader.",
+    "extra_example_fa": "او برای پدرش هدیه می‌خرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop bloemen van mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "van mijn moeder یعنی از مادرم؛ اما اینجا منظور خریدن گل برای مادرم است، پس باید «voor mijn moeder» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik koop bloemen bij mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor mijn moeder» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop bloemen naar mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه حرف اضافه را درست اصلاح نمی‌کند؛ در این جمله باید «voor mijn moeder» باشد. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop bloemen voor mijn moeder.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای معنی «برایِ کسی یا چیزی» از voor استفاده می‌شود."
+      }
+    ]
+  }
+]

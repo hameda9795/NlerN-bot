@@ -1,0 +1,512 @@
+[
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_missed_appointment", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیروز وقت دکتر داشتی اما یادت رفت و نرفتی. باید عذرخواهی کنی.",
+    "question_text_nl": "Je had gisteren een afspraak bij de dokter, maar je vergat het en kwam niet.",
+    "question_text_fa": "کدام پیام عذرخواهی مناسب است؟",
+    "explanation_fa": "برای عذرخواهی از نرفتن به قرار، دلیل بگو و پوزش بخواه.",
+    "grammar_rule_fa": "از «Het spijt me, ik ben mijn afspraak vergeten» استفاده کن.",
+    "extra_example_nl": "Het spijt me, ik ben mijn afspraak gisteren vergeten.",
+    "extra_example_fa": "متأسفم، دیروز قرارم را فراموش کردم.",
+    "options": [
+      { "key": "A", "text_nl": "Het spijt me, ik ben mijn afspraak gisteren vergeten. Kan ik een nieuwe afspraak maken?", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و درخواست وقت جدید هر دو دارد." },
+      { "key": "B", "text_nl": "Ik had geen zin om te komen.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و عذرخواهی نیست." },
+      { "key": "C", "text_nl": "Afspraken zijn niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب و بی‌احترامی است." },
+      { "key": "D", "text_nl": "Ik kom morgen wel, geen probleem.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_missed_appointment", "life_context": "hairdresser",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "وقت آرایشگاه داشتی اما رفتنش را فراموش کردی. باید عذرخواهی کنی.",
+    "question_text_nl": "Je had een afspraak bij de kapper, maar je vergat te gaan.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کوتاه و صادقانه بنویس.",
+    "grammar_rule_fa": "از «Sorry, ik ben mijn afspraak vergeten» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben mijn afspraak vergeten. Kan ik een nieuwe maken?",
+    "extra_example_fa": "ببخشید، قرارم را فراموش کردم. می‌شود وقت جدید بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben mijn afspraak vergeten. Kan ik een nieuwe maken?", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی صادقانه و درخواست وقت جدید است." },
+      { "key": "B", "text_nl": "Ik knip mijn haar zelf.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." },
+      { "key": "C", "text_nl": "Kappers zijn duur.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik had het te druk om te bellen.", "is_correct": false, "feedback_fa": "این جمله فقط بهانه است، عذرخواهی روشنی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_missed_appointment", "life_context": "dentist",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "وقت دندان‌پزشکی داشتی و بدون اطلاع نرفتی. باید کامل عذرخواهی کنی و دلیل بگویی.",
+    "question_text_nl": "Je had een afspraak bij de tandarts en bent zonder bericht niet gekomen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کامل شامل دلیل و درخواست وقت جدید باشد.",
+    "grammar_rule_fa": "از «Mijn excuses, ik had een noodgeval» استفاده کن.",
+    "extra_example_nl": "Mijn excuses dat ik niet ben gekomen, ik had een noodgeval. Kan ik een nieuwe afspraak maken?",
+    "extra_example_fa": "عذرخواهی می‌کنم که نیامدم، یک وضعیت اضطراری پیش آمد. می‌شود وقت جدید بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn excuses dat ik niet ben gekomen, ik had een noodgeval. Kan ik een nieuwe afspraak maken?", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی کامل، دلیل و درخواست وقت جدید دارد." },
+      { "key": "B", "text_nl": "Ik was gewoon vergeten, dat gebeurt wel vaker.", "is_correct": false, "feedback_fa": "این جمله خیلی سرسری است و برای نیامدن بدون اطلاع مناسب نیست." },
+      { "key": "C", "text_nl": "Tandartsen hebben het altijd druk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik kom nooit meer terug.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_late_reply", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "چند روز است پیام دوستت را جواب نداده‌ای. باید عذرخواهی کنی.",
+    "question_text_nl": "Je hebt al een paar dagen niet gereageerd op het bericht van je vriend.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کوتاه برای دیر جواب دادن بنویس.",
+    "grammar_rule_fa": "از «Sorry voor de late reactie» استفاده کن.",
+    "extra_example_nl": "Sorry voor de late reactie, ik had het druk.",
+    "extra_example_fa": "ببخشید برای جواب دیرم، سرم شلوغ بود.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry voor de late reactie, ik had het druk.", "is_correct": true, "feedback_fa": "✅ درست؛ کوتاه و صادقانه است." },
+      { "key": "B", "text_nl": "Ik reageer nooit snel.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." },
+      { "key": "C", "text_nl": "Berichten zijn niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب و بی‌احترامی است." },
+      { "key": "D", "text_nl": "Waarom stuur je zoveel berichten?", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و تقصیر را به دوستت می‌اندازد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_late_reply", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیر به ایمیل مدیرت جواب دادی. باید عذرخواهی کنی.",
+    "question_text_nl": "Je hebt laat gereageerd op de e-mail van je manager.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "عذرخواهی رسمی کوتاه برای دیر جواب دادن بنویس.",
+    "grammar_rule_fa": "از «Excuses voor de late reactie» استفاده کن.",
+    "extra_example_nl": "Excuses voor de late reactie, ik had het erg druk deze week.",
+    "extra_example_fa": "عذرخواهی برای جواب دیر، این هفته خیلی سرم شلوغ بود.",
+    "options": [
+      { "key": "A", "text_nl": "Excuses voor de late reactie, ik had het erg druk deze week.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی رسمی و روشن است." },
+      { "key": "B", "text_nl": "Ik lees mijn e-mail nooit.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند و نامناسب است." },
+      { "key": "C", "text_nl": "E-mails zijn niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب است." },
+      { "key": "D", "text_nl": "U stuurt te veel e-mails.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و تقصیر را به مدیر می‌اندازد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_late_reply", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیر به پیام خواهرت جواب دادی. باید عذرخواهی کنی.",
+    "question_text_nl": "Je hebt laat gereageerd op het bericht van je zus.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی گرم و دوستانه بنویس.",
+    "grammar_rule_fa": "از «Sorry, ik zag je bericht pas nu» استفاده کن.",
+    "extra_example_nl": "Sorry, ik zag je bericht pas nu. Hoe gaat het met je?",
+    "extra_example_fa": "ببخشید، الان پیامت را دیدم. حالت چطوره؟",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik zag je bericht pas nu. Hoe gaat het met je?", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی گرم و دوستانه است." },
+      { "key": "B", "text_nl": "Ik kijk nooit op mijn telefoon.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی روشنی نیست." },
+      { "key": "C", "text_nl": "Berichten sturen kost tijd.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Ik heb het altijd druk.", "is_correct": false, "feedback_fa": "این جمله فقط بهانه است، عذرخواهی کامل نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_forgot_something", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "قرار بود کتابی برای دوستت بیاوری اما فراموش کردی. باید عذرخواهی کنی.",
+    "question_text_nl": "Je zou een boek meenemen voor je vriend, maar je bent het vergeten.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کن و بگو کِی آن را می‌آوری.",
+    "grammar_rule_fa": "از «Sorry, ik ben het boek vergeten» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben het boek vergeten! Ik breng het morgen mee.",
+    "extra_example_fa": "ببخشید، کتاب را فراموش کردم! فردا می‌آورمش.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben het boek vergeten! Ik breng het morgen mee.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و راه‌حل هر دو دارد." },
+      { "key": "B", "text_nl": "Boeken zijn zwaar om te dragen.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." },
+      { "key": "C", "text_nl": "Ik lees liever geen boeken.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Je hebt toch al genoeg boeken.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و موضوع را عوض می‌کند." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_forgot_something", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "فراموش کردی سندی را برای همکارت ایمیل کنی که قرار بود دیروز بفرستی. باید عذرخواهی کنی و بگویی الان می‌فرستی.",
+    "question_text_nl": "Je bent vergeten gisteren een document naar je collega te mailen.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی حرفه‌ای بنویس و بگو الان چه کار می‌کنی.",
+    "grammar_rule_fa": "از «Mijn excuses, ik ben vergeten het document te sturen» استفاده کن.",
+    "extra_example_nl": "Mijn excuses, ik ben vergeten het document te sturen. Ik stuur het nu meteen.",
+    "extra_example_fa": "عذرخواهی می‌کنم، فراموش کردم سند را بفرستم. همین الان می‌فرستم.",
+    "options": [
+      { "key": "A", "text_nl": "Mijn excuses, ik ben vergeten het document te sturen. Ik stuur het nu meteen.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی حرفه‌ای و راه‌حل فوری دارد." },
+      { "key": "B", "text_nl": "Documenten zijn niet zo belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب و بی‌مسئولیتی است." },
+      { "key": "C", "text_nl": "Ik had het te druk om te denken.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی روشن یا راه‌حل ندارد." },
+      { "key": "D", "text_nl": "U had het me niet gevraagd.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و تقصیر را به همکار می‌اندازد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_forgot_something", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "قول داده بودی به فرزندت کمک کنی با تکالیفش، اما فراموش کردی. باید عذرخواهی کنی.",
+    "question_text_nl": "Je had beloofd je kind te helpen met huiswerk, maar je bent het vergeten.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی گرم بنویس و بگو الان کمک می‌کنی.",
+    "grammar_rule_fa": "از «Sorry, ik ben het vergeten. Zullen we het nu doen?» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben het vergeten. Zullen we het nu samen doen?",
+    "extra_example_fa": "ببخشید، فراموش کردم. الان با هم انجامش بدهیم؟",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben het vergeten. Zullen we het nu samen doen?", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و راه‌حل هر دو دارد." },
+      { "key": "B", "text_nl": "Huiswerk is niet zo belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب است و عذرخواهی نیست." },
+      { "key": "C", "text_nl": "Ik heb het altijd druk.", "is_correct": false, "feedback_fa": "این جمله فقط بهانه است." },
+      { "key": "D", "text_nl": "Je moet het zelf doen.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و قول را زیر پا می‌گذارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_mistake_at_work", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "در گزارش کاری اشتباه عددی کرده‌ای. باید به مدیرت عذرخواهی کنی و بگویی درستش می‌کنی.",
+    "question_text_nl": "Je hebt een fout gemaakt met een getal in het werkrapport.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی حرفه‌ای و پیشنهاد راه‌حل بنویس.",
+    "grammar_rule_fa": "از «Mijn excuses voor de fout, ik ga het meteen corrigeren» استفاده کن.",
+    "extra_example_nl": "Mijn excuses voor de fout in het rapport. Ik ga het meteen corrigeren.",
+    "extra_example_fa": "عذرخواهی می‌کنم بابت اشتباه در گزارش. همین الان درستش می‌کنم.",
+    "options": [
+      { "key": "A", "text_nl": "Mijn excuses voor de fout in het rapport. Ik ga het meteen corrigeren.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و راه‌حل فوری هر دو دارد." },
+      { "key": "B", "text_nl": "Iedereen maakt fouten.", "is_correct": false, "feedback_fa": "این جمله مسئولیت را کامل نمی‌پذیرد." },
+      { "key": "C", "text_nl": "Het rapport was toch goed genoeg.", "is_correct": false, "feedback_fa": "این جمله اشتباه را انکار می‌کند." },
+      { "key": "D", "text_nl": "Ik ben niet goed met cijfers.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی یا راه‌حل نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_mistake_at_work", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "ایمیل را اشتباهی به شخص نادرست فرستادی. باید عذرخواهی کنی.",
+    "question_text_nl": "Je hebt per ongeluk een e-mail naar de verkeerde persoon gestuurd.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کوتاه برای اشتباه بنویس.",
+    "grammar_rule_fa": "از «Sorry, ik heb de e-mail per ongeluk naar de verkeerde persoon gestuurd» استفاده کن.",
+    "extra_example_nl": "Sorry, ik heb de e-mail per ongeluk naar de verkeerde persoon gestuurd.",
+    "extra_example_fa": "ببخشید، اشتباهی ایمیل را به شخص اشتباهی فرستادم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik heb de e-mail per ongeluk naar de verkeerde persoon gestuurd.", "is_correct": true, "feedback_fa": "✅ درست؛ روشن و صادقانه است." },
+      { "key": "B", "text_nl": "E-mails zijn soms lastig.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی روشنی نیست." },
+      { "key": "C", "text_nl": "Het is niet mijn schuld.", "is_correct": false, "feedback_fa": "این جمله مسئولیت را انکار می‌کند." },
+      { "key": "D", "text_nl": "Ik stuur nooit e-mails.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد و عذرخواهی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_noise", "life_context": "neighbour",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیشب مهمانی گرفته بودی و سر و صدا زیاد بود. باید از همسایه عذرخواهی کنی.",
+    "question_text_nl": "Je had gisteravond een feestje en er was veel lawaai.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی مؤدبانه و قول برای آینده بنویس.",
+    "grammar_rule_fa": "از «Sorry voor het lawaai gisteravond» استفاده کن.",
+    "extra_example_nl": "Sorry voor het lawaai gisteravond, het zal niet snel weer gebeuren.",
+    "extra_example_fa": "ببخشید بابت سر و صدای دیشب، دیگر زود تکرار نمی‌شود.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry voor het lawaai gisteravond, het zal niet snel weer gebeuren.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی مؤدبانه و قول برای آینده دارد." },
+      { "key": "B", "text_nl": "Feestjes zijn altijd leuk.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." },
+      { "key": "C", "text_nl": "Ik hoorde geen lawaai.", "is_correct": false, "feedback_fa": "این جمله مشکل را انکار می‌کند." },
+      { "key": "D", "text_nl": "Buren moeten geduldig zijn.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و عذرخواهی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_noise", "life_context": "neighbour",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "چند روز است در خانه‌ات کار تعمیراتی سر و صدا دارد. باید کامل عذرخواهی کنی و بگویی تا کِی طول می‌کشد.",
+    "question_text_nl": "Al een paar dagen is er veel lawaai door verbouwingswerk in je huis.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کامل شامل مدت زمان و پایان کار باشد.",
+    "grammar_rule_fa": "از «Sorry voor het lawaai, het duurt nog...» استفاده کن.",
+    "extra_example_nl": "Sorry voor het lawaai door de verbouwing, het duurt nog een week.",
+    "extra_example_fa": "ببخشید بابت سر و صدای بازسازی، یک هفته‌ی دیگر طول می‌کشد.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry voor het lawaai door de verbouwing, het duurt nog een week.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و مدت زمان دقیق دارد." },
+      { "key": "B", "text_nl": "Verbouwen is normaal.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." },
+      { "key": "C", "text_nl": "Ik hoor het lawaai niet.", "is_correct": false, "feedback_fa": "این جمله مشکل را انکار می‌کند." },
+      { "key": "D", "text_nl": "Het is bijna klaar, morgen misschien.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی ندارد و زمان دقیق نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_broken_item", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "کتابی که از دوستت قرض گرفته بودی را پاره کرده‌ای. باید عذرخواهی کنی.",
+    "question_text_nl": "Je hebt het boek dat je van je vriend had geleend, per ongeluk gescheurd.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کن و پیشنهاد جبران بده.",
+    "grammar_rule_fa": "از «Sorry, ik heb je boek per ongeluk gescheurd» استفاده کن.",
+    "extra_example_nl": "Sorry, ik heb je boek per ongeluk gescheurd. Ik koop een nieuwe voor je.",
+    "extra_example_fa": "ببخشید، کتابت را اشتباهی پاره کردم. یکی جدید برایت می‌خرم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik heb je boek per ongeluk gescheurd. Ik koop een nieuwe voor je.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و پیشنهاد جبران هر دو دارد." },
+      { "key": "B", "text_nl": "Boeken scheuren snel.", "is_correct": false, "feedback_fa": "این جمله مسئولیت را کنار می‌زند و عذرخواهی نمی‌کند." },
+      { "key": "C", "text_nl": "Het was al oud.", "is_correct": false, "feedback_fa": "این جمله بهانه است، نه عذرخواهی." },
+      { "key": "D", "text_nl": "Ik lees niet graag.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_broken_item", "life_context": "neighbour",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "توپ بازی فرزندت پنجره‌ی همسایه را شکسته. باید کامل عذرخواهی کنی و پیشنهاد جبران بدهی.",
+    "question_text_nl": "De bal van je kind heeft het raam van de buren gebroken.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کامل و پیشنهاد پرداخت خسارت بنویس.",
+    "grammar_rule_fa": "از «Het spijt me heel erg, ik betaal de schade» استفاده کن.",
+    "extra_example_nl": "Het spijt me heel erg, de bal van mijn kind heeft uw raam gebroken. Ik betaal de schade.",
+    "extra_example_fa": "خیلی متأسفم، توپ فرزندم پنجره‌تان را شکست. من خسارت را پرداخت می‌کنم.",
+    "options": [
+      { "key": "A", "text_nl": "Het spijt me heel erg, de bal van mijn kind heeft uw raam gebroken. Ik betaal de schade.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی کامل و پیشنهاد جبران هر دو دارد." },
+      { "key": "B", "text_nl": "Kinderen spelen nu eenmaal.", "is_correct": false, "feedback_fa": "این جمله مسئولیت را نمی‌پذیرد." },
+      { "key": "C", "text_nl": "Het was maar een kleinigheid.", "is_correct": false, "feedback_fa": "این جمله مشکل را کوچک می‌کند و عذرخواهی نیست." },
+      { "key": "D", "text_nl": "Uw bloempot stond in de weg.", "is_correct": false, "feedback_fa": "این جمله تقصیر را به همسایه می‌اندازد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_short_notice_cancel", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "چند دقیقه قبل از قرار با دوستت باید لغوش کنی. باید عذرخواهی کنی.",
+    "question_text_nl": "Je moet vlak voor de afspraak met je vriend annuleren.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی برای لغو دیرهنگام بنویس و دلیل کوتاه بگو.",
+    "grammar_rule_fa": "از «Sorry, ik moet toch afzeggen» استفاده کن.",
+    "extra_example_nl": "Sorry, ik moet toch afzeggen. Er kwam iets tussen.",
+    "extra_example_fa": "ببخشید، باید لغو کنم. چیزی پیش آمد.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik moet toch afzeggen. Er kwam iets tussen.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و دلیل کوتاه دارد." },
+      { "key": "B", "text_nl": "Ik kom gewoon niet.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." },
+      { "key": "C", "text_nl": "Afspraken zijn niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب است." },
+      { "key": "D", "text_nl": "Jij kunt toch ook wel wachten.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_short_notice_cancel", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "چند دقیقه قبل از جلسه باید آن را لغو کنی چون مشکل فوری پیش آمده. باید کامل عذرخواهی کنی.",
+    "question_text_nl": "Vlak voor de vergadering moet je deze annuleren vanwege een spoedgeval.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی حرفه‌ای بنویس، دلیل و پیشنهاد وقت جدید بده.",
+    "grammar_rule_fa": "از «Mijn excuses, ik moet de vergadering annuleren vanwege...» استفاده کن.",
+    "extra_example_nl": "Mijn excuses, ik moet de vergadering annuleren vanwege een spoedgeval. Kunnen we een nieuwe datum plannen?",
+    "extra_example_fa": "عذرخواهی می‌کنم، باید جلسه را به‌خاطر یک مورد فوری لغو کنم. می‌شود تاریخ جدید تعیین کنیم؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn excuses, ik moet de vergadering annuleren vanwege een spoedgeval. Kunnen we een nieuwe datum plannen?", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی، دلیل و پیشنهاد وقت جدید هر سه دارد." },
+      { "key": "B", "text_nl": "Vergaderingen duren altijd te lang.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." },
+      { "key": "C", "text_nl": "Ik kom niet, dat is duidelijk.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و عذرخواهی ندارد." },
+      { "key": "D", "text_nl": "Spoedgevallen gebeuren wel vaker.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی روشن یا وقت جدید نمی‌دهد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_misunderstanding", "life_context": "friend",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "پیام دوستت را اشتباه فهمیدی و جواب نامناسبی دادی. باید عذرخواهی کنی.",
+    "question_text_nl": "Je hebt het bericht van je vriend verkeerd begrepen en verkeerd gereageerd.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کن و بگو منظورت را اشتباه فهمیدی.",
+    "grammar_rule_fa": "از «Sorry, ik had het verkeerd begrepen» استفاده کن.",
+    "extra_example_nl": "Sorry, ik had het verkeerd begrepen. Ik bedoelde het niet zo.",
+    "extra_example_fa": "ببخشید، اشتباه فهمیدم. منظورم این نبود.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik had het verkeerd begrepen. Ik bedoelde het niet zo.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی روشن و مسئولانه است." },
+      { "key": "B", "text_nl": "Jij schreef het niet duidelijk.", "is_correct": false, "feedback_fa": "این جمله تقصیر را به دوستت می‌اندازد." },
+      { "key": "C", "text_nl": "Berichten zijn soms verwarrend.", "is_correct": false, "feedback_fa": "این جمله مسئولیت را کامل نمی‌پذیرد." },
+      { "key": "D", "text_nl": "Het maakt niet uit.", "is_correct": false, "feedback_fa": "این جمله نامناسب است و عذرخواهی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_misunderstanding", "life_context": "work",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "دستورالعمل مدیرت را اشتباه فهمیدی و کار را نادرست انجام دادی. باید عذرخواهی کنی و بپرسی چطور درستش کنی.",
+    "question_text_nl": "Je hebt de instructies van je manager verkeerd begrepen en de taak verkeerd gedaan.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی حرفه‌ای بنویس و بپرس چطور اصلاح کنی.",
+    "grammar_rule_fa": "از «Mijn excuses, ik had de instructies verkeerd begrepen» استفاده کن.",
+    "extra_example_nl": "Mijn excuses, ik had de instructies verkeerd begrepen. Hoe kan ik het corrigeren?",
+    "extra_example_fa": "عذرخواهی می‌کنم، دستورالعمل را اشتباه فهمیدم. چطور می‌توانم درستش کنم؟",
+    "options": [
+      { "key": "A", "text_nl": "Mijn excuses, ik had de instructies verkeerd begrepen. Hoe kan ik het corrigeren?", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و درخواست راهنمایی برای اصلاح هر دو دارد." },
+      { "key": "B", "text_nl": "U legde het niet goed uit.", "is_correct": false, "feedback_fa": "این جمله تقصیر را به مدیر می‌اندازد." },
+      { "key": "C", "text_nl": "Instructies zijn altijd moeilijk.", "is_correct": false, "feedback_fa": "این جمله مسئولیت را نمی‌پذیرد." },
+      { "key": "D", "text_nl": "Ik doe het gewoon opnieuw, zonder iets te zeggen.", "is_correct": false, "feedback_fa": "این جمله ارتباط و عذرخواهی را نادیده می‌گیرد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_child_behavior", "life_context": "school",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "فرزندت در کلاس رفتار خوبی نداشته. مدرسه به تو خبر داده. باید عذرخواهی کنی.",
+    "question_text_nl": "Je kind gedroeg zich niet goed in de klas. De school heeft je dit laten weten.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کن و بگو با فرزندت صحبت می‌کنی.",
+    "grammar_rule_fa": "از «Het spijt me, ik ga met mijn kind praten» استفاده کن.",
+    "extra_example_nl": "Het spijt me, ik ga vanavond met mijn kind praten.",
+    "extra_example_fa": "متأسفم، امشب با فرزندم صحبت می‌کنم.",
+    "options": [
+      { "key": "A", "text_nl": "Het spijt me, ik ga vanavond met mijn kind praten.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و اقدام روشن هر دو دارد." },
+      { "key": "B", "text_nl": "Mijn kind doet nooit iets fout.", "is_correct": false, "feedback_fa": "این جمله دفاعی است و عذرخواهی نیست." },
+      { "key": "C", "text_nl": "Scholen zijn te streng.", "is_correct": false, "feedback_fa": "این جمله تقصیر را به مدرسه می‌اندازد." },
+      { "key": "D", "text_nl": "Kinderen zijn soms lastig.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی یا اقدام روشنی ندارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_child_behavior", "life_context": "neighbour",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "فرزندت هنگام بازی چیزی از همسایه را شکسته. باید کامل عذرخواهی کنی و پیشنهاد جبران بدهی.",
+    "question_text_nl": "Je kind heeft tijdens het spelen iets van de buren kapotgemaakt.",
+    "question_text_fa": "کدام پیام مناسب است؟",
+    "explanation_fa": "عذرخواهی کامل و پیشنهاد جبران بنویس.",
+    "grammar_rule_fa": "از «Het spijt me, mijn kind heeft... kapotgemaakt» استفاده کن.",
+    "extra_example_nl": "Het spijt me, mijn kind heeft per ongeluk uw bloempot kapotgemaakt. Ik betaal het graag.",
+    "extra_example_fa": "متأسفم، فرزندم اشتباهی گلدانتان را شکست. با کمال میل هزینه‌اش را می‌دهم.",
+    "options": [
+      { "key": "A", "text_nl": "Het spijt me, mijn kind heeft per ongeluk uw bloempot kapotgemaakt. Ik betaal het graag.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی کامل و پیشنهاد جبران هر دو دارد." },
+      { "key": "B", "text_nl": "Kinderen spelen soms te wild.", "is_correct": false, "feedback_fa": "این جمله مسئولیت را نمی‌پذیرد." },
+      { "key": "C", "text_nl": "Het was maar een kleinigheid.", "is_correct": false, "feedback_fa": "این جمله مشکل را کوچک می‌کند." },
+      { "key": "D", "text_nl": "Uw bloempot stond in de weg.", "is_correct": false, "feedback_fa": "این جمله تقصیر را به همسایه می‌اندازد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_formal_written", "life_context": "gemeente",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "در فرمی که برای شهرداری فرستادی اشتباه کردی. باید رسمی عذرخواهی کنی و بگویی فرم اصلاح‌شده را می‌فرستی.",
+    "question_text_nl": "Je hebt een fout gemaakt in het formulier dat je naar de gemeente stuurde.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "عذرخواهی رسمی و پیشنهاد اصلاح بنویس.",
+    "grammar_rule_fa": "از «Mijn excuses voor de fout, ik stuur het gecorrigeerde formulier» استفاده کن.",
+    "extra_example_nl": "Mijn excuses voor de fout in het formulier. Ik stuur het gecorrigeerde formulier vandaag nog.",
+    "extra_example_fa": "عذرخواهی می‌کنم بابت اشتباه در فرم. همین امروز فرم اصلاح‌شده را می‌فرستم.",
+    "options": [
+      { "key": "A", "text_nl": "Geachte heer/mevrouw, mijn excuses voor de fout in het formulier. Ik stuur het gecorrigeerde formulier vandaag nog.", "is_correct": true, "feedback_fa": "✅ درست؛ رسمی، عذرخواهی و راه‌حل هر سه دارد." },
+      { "key": "B", "text_nl": "Formulieren zijn ingewikkeld.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی روشنی نیست." },
+      { "key": "C", "text_nl": "Het was niet mijn fout.", "is_correct": false, "feedback_fa": "این جمله مسئولیت را انکار می‌کند." },
+      { "key": "D", "text_nl": "Ik stuur het formulier nooit meer.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_formal_written", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "برای وقت دکتر رسمی عذرخواهی می‌کنی که نتوانستی بیایی. باید جمله‌ی شروع رسمی مناسب انتخاب کنی.",
+    "question_text_nl": "Je schrijft een formele e-mail om je te verontschuldigen dat je niet naar je afspraak kon komen.",
+    "question_text_fa": "کدام جمله برای شروع مؤدبانه‌ی عذرخواهی بهتر است؟",
+    "explanation_fa": "در نامه‌ی رسمی از «Geachte» و «mijn excuses» استفاده کن.",
+    "grammar_rule_fa": "از «Geachte heer/mevrouw, mijn excuses voor...» استفاده کن.",
+    "extra_example_nl": "Geachte heer/mevrouw, mijn excuses dat ik niet op mijn afspraak kon komen.",
+    "extra_example_fa": "با احترام، عذرخواهی می‌کنم که نتوانستم به قرارم بیایم.",
+    "options": [
+      { "key": "A", "text_nl": "Geachte heer/mevrouw, mijn excuses dat ik niet op mijn afspraak kon komen.", "is_correct": true, "feedback_fa": "✅ درست؛ شروع رسمی و عذرخواهی روشن است." },
+      { "key": "B", "text_nl": "Hoi, sorry hoor.", "is_correct": false, "feedback_fa": "این جمله برای ایمیل رسمی خیلی غیررسمی است." },
+      { "key": "C", "text_nl": "Yo, ik kwam niet.", "is_correct": false, "feedback_fa": "این جمله بسیار غیررسمی و نامناسب است." },
+      { "key": "D", "text_nl": "Dat is jullie probleem.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و عذرخواهی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_missed_appointment", "life_context": "gemeente",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "بدون اطلاع به وقت شهرداری نرفتی. باید رسمی عذرخواهی کنی و وقت جدید بخواهی.",
+    "question_text_nl": "Je bent zonder bericht niet naar je afspraak bij de gemeente gekomen.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "عذرخواهی رسمی و درخواست وقت جدید بنویس.",
+    "grammar_rule_fa": "از «Mijn excuses dat ik niet ben gekomen» استفاده کن.",
+    "extra_example_nl": "Mijn excuses dat ik niet ben gekomen. Kan ik een nieuwe afspraak maken?",
+    "extra_example_fa": "عذرخواهی می‌کنم که نیامدم. می‌شود وقت جدید بگیرم؟",
+    "options": [
+      { "key": "A", "text_nl": "Geachte heer/mevrouw, mijn excuses dat ik niet ben gekomen. Kan ik een nieuwe afspraak maken?", "is_correct": true, "feedback_fa": "✅ درست؛ رسمی، عذرخواهی و درخواست وقت جدید هر سه دارد." },
+      { "key": "B", "text_nl": "Ik had geen zin.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه و بدون عذرخواهی است." },
+      { "key": "C", "text_nl": "Afspraken bij de gemeente duren lang.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." },
+      { "key": "D", "text_nl": "Ik kom nooit meer naar de gemeente.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_late_reply", "life_context": "doctor",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "دیر به پیام منشی مطب دکتر جواب دادی. باید عذرخواهی کنی.",
+    "question_text_nl": "Je hebt laat gereageerd op het bericht van de assistente van de dokter.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "عذرخواهی کوتاه و مؤدبانه بنویس.",
+    "grammar_rule_fa": "از «Mijn excuses voor de late reactie» استفاده کن.",
+    "extra_example_nl": "Mijn excuses voor de late reactie, ik was het even vergeten.",
+    "extra_example_fa": "عذرخواهی می‌کنم برای جواب دیرم، لحظه‌ای فراموش کردم.",
+    "options": [
+      { "key": "A", "text_nl": "Mijn excuses voor de late reactie, ik was het even vergeten.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی کوتاه و مؤدبانه است." },
+      { "key": "B", "text_nl": "Ik lees mijn berichten nooit.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." },
+      { "key": "C", "text_nl": "Assistentes hebben het altijd druk.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." },
+      { "key": "D", "text_nl": "Berichten zijn niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_forgot_something", "life_context": "shop",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "برای پس دادن کالا باید رسید بیاوری اما فراموش کرده‌ای. باید عذرخواهی کنی.",
+    "question_text_nl": "Je moet de bon meenemen om iets terug te brengen, maar je bent het vergeten.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "عذرخواهی کن و بگو کِی رسید را می‌آوری.",
+    "grammar_rule_fa": "از «Sorry, ik ben de bon vergeten» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben de bon vergeten. Ik breng hem morgen mee.",
+    "extra_example_fa": "ببخشید، رسید را فراموش کردم. فردا می‌آورمش.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben de bon vergeten. Ik breng hem morgen mee.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و راه‌حل هر دو دارد." },
+      { "key": "B", "text_nl": "Bonnen zijn niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب است و کمکی نمی‌کند." },
+      { "key": "C", "text_nl": "Ik gooi bonnen altijd weg.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی یا راه‌حل نیست." },
+      { "key": "D", "text_nl": "Ik kom nooit meer naar deze winkel.", "is_correct": false, "feedback_fa": "این جمله معنای اشتباهی دارد." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_mistake_at_work", "life_context": "school",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "فراموش کردی برگه‌ی مدرسه‌ی فرزندت را امضا کنی. باید به معلم عذرخواهی کنی.",
+    "question_text_nl": "Je bent vergeten het schoolformulier van je kind te ondertekenen.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "عذرخواهی کن و بگو کِی امضا می‌کنی.",
+    "grammar_rule_fa": "از «Sorry, ik ben vergeten het formulier te ondertekenen» استفاده کن.",
+    "extra_example_nl": "Sorry, ik ben vergeten het formulier te ondertekenen. Ik doe het vandaag nog.",
+    "extra_example_fa": "ببخشید، فراموش کردم فرم را امضا کنم. همین امروز انجامش می‌دهم.",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik ben vergeten het formulier te ondertekenen. Ik doe het vandaag nog.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و راه‌حل روشن دارد." },
+      { "key": "B", "text_nl": "Formulieren zijn niet belangrijk.", "is_correct": false, "feedback_fa": "این جمله نامناسب است." },
+      { "key": "C", "text_nl": "Ik onderteken nooit iets.", "is_correct": false, "feedback_fa": "این جمله با وضعیت تناقض دارد." },
+      { "key": "D", "text_nl": "Mijn kind kan het zelf doen.", "is_correct": false, "feedback_fa": "این جمله نامناسب است و مسئولیت را رد می‌کند." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_noise", "life_context": "landlord",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "همسایه‌ات از تو شکایت کرده که خانه‌ات سر و صدا دارد. صاحب‌خانه به تو نامه فرستاده. باید عذرخواهی کنی.",
+    "question_text_nl": "Je buren hebben geklaagd over lawaai. Je huisbaas heeft je hierover geschreven.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "عذرخواهی کن و قول بده مراقب باشی.",
+    "grammar_rule_fa": "از «Mijn excuses voor het lawaai, ik zal voorzichtiger zijn» استفاده کن.",
+    "extra_example_nl": "Mijn excuses voor het lawaai, ik zal voortaan voorzichtiger zijn.",
+    "extra_example_fa": "عذرخواهی می‌کنم بابت سر و صدا، از این به بعد بیشتر مراقب هستم.",
+    "options": [
+      { "key": "A", "text_nl": "Mijn excuses voor het lawaai, ik zal voortaan voorzichtiger zijn.", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و قول برای آینده هر دو دارد." },
+      { "key": "B", "text_nl": "De buren overdrijven altijd.", "is_correct": false, "feedback_fa": "این جمله تقصیر را به همسایه‌ها می‌اندازد." },
+      { "key": "C", "text_nl": "Ik maak nooit lawaai.", "is_correct": false, "feedback_fa": "این جمله مشکل را انکار می‌کند." },
+      { "key": "D", "text_nl": "Dat is niet mijn probleem.", "is_correct": false, "feedback_fa": "این جمله بی‌ادبانه است و عذرخواهی نیست." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_broken_item", "life_context": "shop",
+    "question_type": "mcq_4", "difficulty": 3,
+    "writing_task_fa": "قبل از خرید، اتفاقی کالایی را در فروشگاه شکستی. باید عذرخواهی کنی و بپرسی چه باید کرد.",
+    "question_text_nl": "Voordat je het kocht, brak je per ongeluk een product in de winkel.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "عذرخواهی کن، مسئولیت را بپذیر و بپرس چه کار باید کنی.",
+    "grammar_rule_fa": "از «Het spijt me, ik heb per ongeluk...» استفاده کن.",
+    "extra_example_nl": "Het spijt me, ik heb dit per ongeluk laten vallen. Wat moet ik doen?",
+    "extra_example_fa": "متأسفم، اشتباهی این را انداختم. چه کار باید بکنم؟",
+    "options": [
+      { "key": "A", "text_nl": "Het spijt me, ik heb dit per ongeluk laten vallen. Wat moet ik doen?", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی، پذیرش مسئولیت و سؤال برای راه‌حل دارد." },
+      { "key": "B", "text_nl": "Producten zijn soms fragiel.", "is_correct": false, "feedback_fa": "این جمله مسئولیت را کنار می‌زند." },
+      { "key": "C", "text_nl": "Het was al kapot.", "is_correct": false, "feedback_fa": "این جمله مسئولیت را انکار می‌کند." },
+      { "key": "D", "text_nl": "Winkels zijn duur.", "is_correct": false, "feedback_fa": "این جمله بی‌ربط است." }
+    ]
+  },
+  {
+    "level": "A2", "section": "writing", "topic": "simple_apology", "subtopic": "apology_short_notice_cancel", "life_context": "family",
+    "question_type": "mcq_4", "difficulty": 2,
+    "writing_task_fa": "چند ساعت قبل از دیدار خانوادگی باید آن را لغو کنی. باید عذرخواهی کنی.",
+    "question_text_nl": "Een paar uur voor het familiebezoek moet je het annuleren.",
+    "question_text_fa": "کدام جمله مناسب است؟",
+    "explanation_fa": "عذرخواهی گرم و دلیل کوتاه بنویس.",
+    "grammar_rule_fa": "از «Sorry, ik moet toch afzeggen vandaag» استفاده کن.",
+    "extra_example_nl": "Sorry, ik moet toch afzeggen vandaag. Zullen we snel een nieuwe datum plannen?",
+    "extra_example_fa": "ببخشید، باید امروز را لغو کنم. زود یک تاریخ جدید تعیین کنیم؟",
+    "options": [
+      { "key": "A", "text_nl": "Sorry, ik moet toch afzeggen vandaag. Zullen we snel een nieuwe datum plannen?", "is_correct": true, "feedback_fa": "✅ درست؛ عذرخواهی و پیشنهاد وقت جدید هر دو دارد." },
+      { "key": "B", "text_nl": "Ik kom gewoon niet vandaag.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." },
+      { "key": "C", "text_nl": "Familie zien is niet altijd nodig.", "is_correct": false, "feedback_fa": "این جمله نامناسب است و عذرخواهی نیست." },
+      { "key": "D", "text_nl": "Jullie kunnen ook zonder mij beginnen.", "is_correct": false, "feedback_fa": "این جمله عذرخواهی نمی‌کند." }
+    ]
+  }
+]

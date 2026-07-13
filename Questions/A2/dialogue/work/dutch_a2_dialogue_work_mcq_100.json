@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "greeting_at_work",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt in de ochtend op kantoor en ziet je collega.",
+    "question_text_nl": "Kies de beste groet.",
+    "question_text_fa": "صبح وارد دفتر می‌شوی و همکارت را می‌بینی. بهترین سلام چیست؟",
+    "explanation_fa": "برای سلام صبح در محل کار، Goedemorgen طبیعی و مؤدبانه است.",
+    "dialogue_rule_fa": "در محل کار برای شروع یا پایان مکالمه از جمله‌های کوتاه مثل Goedemorgen، Tot morgen و Fijn weekend استفاده می‌کنیم.",
+    "extra_example_nl": "Goedemorgen, alles goed?",
+    "extra_example_fa": "صبح بخیر، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen, hoe gaat het?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben nieuw hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان فرد جدید است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نام هنگام معرفی است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben de nieuwe collega.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان همکار جدید است، نه سلام یا خداحافظی ساده در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "greeting_at_work",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt na de lunch op kantoor en ziet je manager.",
+    "question_text_nl": "Kies de beste groet.",
+    "question_text_fa": "بعد از ناهار وارد دفتر می‌شوی و مدیرت را می‌بینی. بهترین سلام چیست؟",
+    "explanation_fa": "بعدازظهر در محل کار، Goedemiddag سلام مناسب و ساده است.",
+    "dialogue_rule_fa": "در محل کار برای شروع یا پایان مکالمه از جمله‌های کوتاه مثل Goedemorgen، Tot morgen و Fijn weekend استفاده می‌کنیم.",
+    "extra_example_nl": "Goedemorgen, alles goed?",
+    "extra_example_fa": "صبح بخیر، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نام هنگام معرفی است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemiddag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben de nieuwe collega.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان همکار جدید است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk op de afdeling verkoop.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن بخش کاری است، نه سلام یا خداحافظی ساده در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "greeting_at_work",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Het is vrijdagmiddag en je gaat naar huis.",
+    "question_text_nl": "Wat zeg je tegen je collega?",
+    "question_text_fa": "جمعه بعدازظهر است و می‌خواهی به خانه بروی. به همکارت چه می‌گویی؟",
+    "explanation_fa": "در پایان هفته کاری، Fijn weekend جمله‌ای طبیعی برای خداحافظی است.",
+    "dialogue_rule_fa": "در محل کار برای شروع یا پایان مکالمه از جمله‌های کوتاه مثل Goedemorgen، Tot morgen و Fijn weekend استفاده می‌کنیم.",
+    "extra_example_nl": "Goedemorgen, alles goed?",
+    "extra_example_fa": "صبح بخیر، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای شروع یک سؤال کاری است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dit uitleggen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست توضیح از مدیر یا همکار است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijn weekend!",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat moet ik doen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن وظیفه کاری است، نه سلام یا خداحافظی ساده در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "greeting_at_work",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je gaat naar huis en je ziet je collega morgen weer.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی به خانه بروی و فردا دوباره همکارت را می‌بینی. چه می‌گویی؟",
+    "explanation_fa": "وقتی فردا دوباره کسی را می‌بینی، Tot morgen مناسب است.",
+    "dialogue_rule_fa": "در محل کار برای شروع یا پایان مکالمه از جمله‌های کوتاه مثل Goedemorgen، Tot morgen و Fijn weekend استفاده می‌کنیم.",
+    "extra_example_nl": "Goedemorgen, alles goed?",
+    "extra_example_fa": "صبح بخیر، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben klaar.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تمام شدن کار است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان جلسه است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل جلسه است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "greeting_at_work",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je collega aan het begin van de werkdag.",
+    "question_text_nl": "Hoe vraag je vriendelijk hoe het gaat?",
+    "question_text_fa": "اول روز کاری همکارت را می‌بینی. چطور دوستانه حالش را می‌پرسی؟",
+    "explanation_fa": "برای احوال‌پرسی ساده در محل کار، Hoe gaat het مناسب است.",
+    "dialogue_rule_fa": "در محل کار برای شروع یا پایان مکالمه از جمله‌های کوتاه مثل Goedemorgen، Tot morgen و Fijn weekend استفاده می‌کنیم.",
+    "extra_example_nl": "Goedemorgen, alles goed?",
+    "extra_example_fa": "صبح بخیر، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat begin ik?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت شروع کار است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat ben ik klaar?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت پایان کار است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ساعت شروع کار است، نه سلام یا خداحافظی ساده در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "greeting_at_work",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je collega vraagt: Hoe gaat het? Alles goed?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همکارت می‌پرسد حالت چطور است. بهترین جواب چیست؟",
+    "explanation_fa": "وقتی کسی حال تو را می‌پرسد، Goed, dank je پاسخ ساده و طبیعی است.",
+    "dialogue_rule_fa": "در محل کار برای شروع یا پایان مکالمه از جمله‌های کوتاه مثل Goedemorgen، Tot morgen و Fijn weekend استفاده می‌کنیم.",
+    "extra_example_nl": "Goedemorgen, alles goed?",
+    "extra_example_fa": "صبح بخیر، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de printer?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل پرینتر است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goed, dank je.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de kantine?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل غذاخوری محل کار است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een pen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست خودکار در محل کار است، نه سلام یا خداحافظی ساده در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "greeting_at_work",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Het is vrijdag en je ziet je collega pas maandag weer.",
+    "question_text_nl": "Wat zeg je bij het weggaan?",
+    "question_text_fa": "جمعه است و همکارت را دوباره دوشنبه می‌بینی. هنگام رفتن چه می‌گویی؟",
+    "explanation_fa": "وقتی دفعه بعد دوشنبه کسی را می‌بینی، Tot maandag مناسب است.",
+    "dialogue_rule_fa": "در محل کار برای شروع یا پایان مکالمه از جمله‌های کوتاه مثل Goedemorgen، Tot morgen و Fijn weekend استفاده می‌کنیم.",
+    "extra_example_nl": "Goedemorgen, alles goed?",
+    "extra_example_fa": "صبح بخیر، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل پرینتر است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben mijn wachtwoord vergeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن فراموش کردن رمز عبور است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot maandag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik stuur een e-mail.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال ایمیل کاری است، نه سلام یا خداحافظی ساده در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "greeting_at_work",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je collega begint net met werken.",
+    "question_text_nl": "Kies de beste wens.",
+    "question_text_fa": "همکارت تازه کارش را شروع می‌کند. بهترین جمله برای آرزوی روز کاری خوب چیست؟",
+    "explanation_fa": "برای شروع کار می‌توانی به همکار بگویی Fijne werkdag.",
+    "dialogue_rule_fa": "در محل کار برای شروع یا پایان مکالمه از جمله‌های کوتاه مثل Goedemorgen، Tot morgen و Fijn weekend استفاده می‌کنیم.",
+    "extra_example_nl": "Goedemorgen, alles goed?",
+    "extra_example_fa": "صبح بخیر، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een bericht gestuurd.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال پیام کاری است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben nieuw hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان فرد جدید است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نام هنگام معرفی است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijne werkdag!",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "greeting_at_work",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je loopt de werkplek binnen en ziet een collega.",
+    "question_text_nl": "Kies de eenvoudige groet.",
+    "question_text_fa": "وارد محل کار می‌شوی و یک همکار را می‌بینی. سلام ساده چیست؟",
+    "explanation_fa": "برای سلام ساده به همکار می‌توانی بگویی Hallo collega.",
+    "dialogue_rule_fa": "در محل کار برای شروع یا پایان مکالمه از جمله‌های کوتاه مثل Goedemorgen، Tot morgen و Fijn weekend استفاده می‌کنیم.",
+    "extra_example_nl": "Goedemorgen, alles goed?",
+    "extra_example_fa": "صبح بخیر، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hallo collega.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben nieuw hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان فرد جدید است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نام هنگام معرفی است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben de nieuwe collega.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان همکار جدید است، نه سلام یا خداحافظی ساده در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "greeting_at_work",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je collega zegt aan het eind van de dag: Tot morgen.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همکارت آخر روز می‌گوید: تا فردا. بهترین پاسخ چیست؟",
+    "explanation_fa": "پاسخ طبیعی به خداحافظی، تکرار خداحافظی و آرزوی خوب است.",
+    "dialogue_rule_fa": "در محل کار برای شروع یا پایان مکالمه از جمله‌های کوتاه مثل Goedemorgen، Tot morgen و Fijn weekend استفاده می‌کنیم.",
+    "extra_example_nl": "Goedemorgen, alles goed?",
+    "extra_example_fa": "صبح بخیر، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وقت از مدیر یا فرد رسمی است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot morgen, fijne avond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای شروع یک سؤال کاری است، نه سلام یا خداحافظی ساده در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit uitleggen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست توضیح از مدیر یا همکار است، نه سلام یا خداحافظی ساده در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "introducing_at_work",
+    "life_context": "workplace",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent nieuw op je werk en ontmoet een collega.",
+    "question_text_nl": "Hoe stel je jezelf voor?",
+    "question_text_fa": "در محل کار جدید هستی و یک همکار را می‌بینی. چطور خودت را معرفی می‌کنی؟",
+    "explanation_fa": "برای معرفی در محل کار می‌توانی بگویی که تازه هستی.",
+    "dialogue_rule_fa": "برای معرفی در محل کار می‌توانی نام، جدید بودن یا بخش کاری خود را بگویی.",
+    "extra_example_nl": "Hallo, mijn naam is Sara.",
+    "extra_example_fa": "سلام، نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik maak dit af.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه این کار را تمام می‌کنی است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben klaar.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تمام شدن کار است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hallo, ik ben nieuw hier.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان جلسه است، نه معرفی خود در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "introducing_at_work",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ontmoet voor het eerst een collega op kantoor.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "برای اولین بار یک همکار را در دفتر می‌بینی. چه می‌گویی؟",
+    "explanation_fa": "برای معرفی ساده، گفتن نام با Mijn naam is مناسب است.",
+    "dialogue_rule_fa": "برای معرفی در محل کار می‌توانی نام، جدید بودن یا بخش کاری خود را بگویی.",
+    "extra_example_nl": "Hallo, mijn naam is Sara.",
+    "extra_example_fa": "سلام، نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergadering is online.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن آنلاین بودن جلسه است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat begin ik?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت شروع کار است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat ben ik klaar?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت پایان کار است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "introducing_at_work",
+    "life_context": "workplace",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je begint vandaag in een nieuw team.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "امروز در یک تیم جدید شروع می‌کنی. بهترین جمله برای معرفی چیست؟",
+    "explanation_fa": "وقتی تازه وارد تیم شده‌ای، Ik ben de nieuwe collega واضح و ساده است.",
+    "dialogue_rule_fa": "برای معرفی در محل کار می‌توانی نام، جدید بودن یا بخش کاری خود را بگویی.",
+    "extra_example_nl": "Hallo, mijn naam is Sara.",
+    "extra_example_fa": "سلام، نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben de nieuwe collega.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is mijn bureau?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل میز کار است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de printer?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل پرینتر است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is de kantine?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل غذاخوری محل کار است، نه معرفی خود در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "introducing_at_work",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je manager vraagt op welke afdeling je werkt.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "مدیر می‌پرسد در کدام بخش کار می‌کنی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای گفتن بخش کاری از Ik werk op de afdeling استفاده می‌کنی.",
+    "dialogue_rule_fa": "برای معرفی در محل کار می‌توانی نام، جدید بودن یا بخش کاری خود را بگویی.",
+    "extra_example_nl": "Hallo, mijn naam is Sara.",
+    "extra_example_fa": "سلام، نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet inloggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل ورود به سیستم است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk op de afdeling verkoop.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل پرینتر است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben mijn wachtwoord vergeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن فراموش کردن رمز عبور است، نه معرفی خود در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "introducing_at_work",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Het is je eerste werkdag.",
+    "question_text_nl": "Hoe zeg je dat je vandaag begint?",
+    "question_text_fa": "اولین روز کاری توست. چطور می‌گویی امروز شروع می‌کنی؟",
+    "explanation_fa": "برای گفتن شروع کار در همان روز، Ik begin vandaag ساده است.",
+    "dialogue_rule_fa": "برای معرفی در محل کار می‌توانی نام، جدید بودن یا بخش کاری خود را بگویی.",
+    "extra_example_nl": "Hallo, mijn naam is Sara.",
+    "extra_example_fa": "سلام، نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u mij terugbellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تماس دوباره است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een bericht gestuurd.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال پیام کاری است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begin vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemorgen, hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام و احوال‌پرسی صبح در محل کار است، نه معرفی خود در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "introducing_at_work",
+    "life_context": "workplace",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je werkt vandaag op een andere locatie en ziet een collega.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "امروز در یک محل کاری دیگر هستی و یک همکار را می‌بینی. چه می‌گویی؟",
+    "explanation_fa": "وقتی امروز در یک محل کار می‌کنی، Ik werk vandaag hier مناسب است.",
+    "dialogue_rule_fa": "برای معرفی در محل کار می‌توانی نام، جدید بودن یا بخش کاری خود را بگویی.",
+    "extra_example_nl": "Hallo, mijn naam is Sara.",
+    "extra_example_fa": "سلام، نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun je mij helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همکار است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وقت از مدیر یا فرد رسمی است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk vandaag hier.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "introducing_at_work",
+    "life_context": "manager",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ontmoet je manager voor het eerst.",
+    "question_text_nl": "Kies de formele reactie.",
+    "question_text_fa": "برای اولین بار مدیرت را می‌بینی. پاسخ رسمی مناسب چیست؟",
+    "explanation_fa": "در آشنایی رسمی، Aangenaam کوتاه و مؤدبانه است.",
+    "dialogue_rule_fa": "برای معرفی در محل کار می‌توانی نام، جدید بودن یا بخش کاری خود را بگویی.",
+    "extra_example_nl": "Hallo, mijn naam is Sara.",
+    "extra_example_fa": "سلام، نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Aangenaam.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun je mij helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همکار است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وقت از مدیر یا فرد رسمی است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای شروع یک سؤال کاری است، نه معرفی خود در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "introducing_at_work",
+    "life_context": "manager",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je spreekt voor het eerst met een nieuwe manager.",
+    "question_text_nl": "Wat zeg je beleefd?",
+    "question_text_fa": "برای اولین بار با مدیر جدید صحبت می‌کنی. چه جمله مؤدبانه‌ای می‌گویی؟",
+    "explanation_fa": "برای آشنایی مؤدبانه با مدیر، Leuk u te ontmoeten مناسب است.",
+    "dialogue_rule_fa": "برای معرفی در محل کار می‌توانی نام، جدید بودن یا بخش کاری خود را بگویی.",
+    "extra_example_nl": "Hallo, mijn naam is Sara.",
+    "extra_example_fa": "سلام، نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben bezig met de lijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای توضیح کاری که در حال انجام است است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Leuk u te ontmoeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik maak dit af.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه این کار را تمام می‌کنی است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben klaar.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تمام شدن کار است، نه معرفی خود در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "introducing_at_work",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt in een nieuw team en zegt wie je bent.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "وارد تیم جدید می‌شوی و می‌خواهی بگویی چه کسی هستی. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله هم نام را می‌گوید و هم نشان می‌دهد تو همکار جدید هستی.",
+    "dialogue_rule_fa": "برای معرفی در محل کار می‌توانی نام، جدید بودن یا بخش کاری خود را بگویی.",
+    "extra_example_nl": "Hallo, mijn naam is Sara.",
+    "extra_example_fa": "سلام، نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergadering begint om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن زمان شروع جلسه است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vergadering is online.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن آنلاین بودن جلسه است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben Sara, de nieuwe collega.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat begin ik?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت شروع کار است، نه معرفی خود در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "introducing_at_work",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Een collega vraagt: Waar werk je?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همکار می‌پرسد کجا کار می‌کنی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای پاسخ ساده به محل کار، Ik werk op kantoor مناسب است.",
+    "dialogue_rule_fa": "برای معرفی در محل کار می‌توانی نام، جدید بودن یا بخش کاری خود را بگویی.",
+    "extra_example_nl": "Hallo, mijn naam is Sara.",
+    "extra_example_fa": "سلام، نام من سارا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer is de pauze?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان استراحت است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is mijn bureau?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل میز کار است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de printer?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل پرینتر است، نه معرفی خود در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk op kantoor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "asking_for_help_at_work",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je begrijpt een taak niet en vraagt je collega om hulp.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک وظیفه کاری را نمی‌فهمی و از همکارت کمک می‌خواهی. چه می‌گویی؟",
+    "explanation_fa": "برای کمک خواستن از همکار، Kun je mij helpen ساده و طبیعی است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همکار از je و با مدیر یا مشتری معمولاً از u استفاده می‌کنیم.",
+    "extra_example_nl": "Kunt u mij even helpen?",
+    "extra_example_fa": "می‌توانید کمی به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kun je mij helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn computer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کامپیوتر است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan niet inloggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل ورود به سیستم است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل پرینتر است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "asking_for_help_at_work",
+    "life_context": "manager",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt je manager iets vragen.",
+    "question_text_nl": "Hoe vraag je beleefd of hij tijd heeft?",
+    "question_text_fa": "می‌خواهی از مدیرت چیزی بپرسی. چطور مؤدبانه می‌پرسی که وقت دارد؟",
+    "explanation_fa": "برای پرسیدن مؤدبانه از مدیر، Heeft u even tijd مناسب است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همکار از je و با مدیر یا مشتری معمولاً از u استفاده می‌کنیم.",
+    "extra_example_nl": "Kunt u mij even helpen?",
+    "extra_example_fa": "می‌توانید کمی به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik bel de klant.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تماس با مشتری است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij terugbellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تماس دوباره است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een bericht gestuurd.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال پیام کاری است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "asking_for_help_at_work",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt een vraag over je taak.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "درباره وظیفه کاری‌ات یک سؤال داری. بهترین جمله چیست؟",
+    "explanation_fa": "برای شروع کمک خواستن، گفتن Ik heb een vraag طبیعی است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همکار از je و با مدیر یا مشتری معمولاً از u استفاده می‌کنیم.",
+    "extra_example_nl": "Kunt u mij even helpen?",
+    "extra_example_fa": "می‌توانید کمی به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Fijn weekend!",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر هفته با همکار است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben nieuw hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان فرد جدید است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "asking_for_help_at_work",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je begrijpt de uitleg van je collega niet.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "توضیح همکارت را نمی‌فهمی. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن اینکه متوجه نشدی، Ik begrijp het niet ساده و واضح است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همکار از je و با مدیر یا مشتری معمولاً از u استفاده می‌کنیم.",
+    "extra_example_nl": "Kunt u mij even helpen?",
+    "extra_example_fa": "می‌توانید کمی به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk op de afdeling verkoop.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن بخش کاری است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat moet ik doen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن وظیفه کاری است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben bezig met de lijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای توضیح کاری که در حال انجام است است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "asking_for_help_at_work",
+    "life_context": "manager",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt dat je manager de taak nog een keer uitlegt.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی مدیرت وظیفه را دوباره توضیح دهد. بهترین سؤال چیست؟",
+    "explanation_fa": "برای درخواست توضیح از مدیر، Kunt u dit uitleggen مؤدبانه و ساده است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همکار از je و با مدیر یا مشتری معمولاً از u استفاده می‌کنیم.",
+    "extra_example_nl": "Kunt u mij even helpen?",
+    "extra_example_fa": "می‌توانید کمی به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dit uitleggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat moet ik doen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن وظیفه کاری است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben bezig met de lijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای توضیح کاری که در حال انجام است است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik maak dit af.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه این کار را تمام می‌کنی است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "asking_for_help_at_work",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt een document op kantoor.",
+    "question_text_nl": "Wat vraag je aan je collega?",
+    "question_text_fa": "در دفتر دنبال یک سند هستی. از همکارت چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن محل چیزی در کار، Waar kan ik dit vinden مناسب است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همکار از je و با مدیر یا مشتری معمولاً از u استفاده می‌کنیم.",
+    "extra_example_nl": "Kunt u mij even helpen?",
+    "extra_example_fa": "می‌توانید کمی به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل جلسه است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar kan ik dit vinden?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vergadering begint om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن زمان شروع جلسه است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergadering is online.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن آنلاین بودن جلسه است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "asking_for_help_at_work",
+    "life_context": "computer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je scherm geeft een foutmelding en je wilt dat een collega kijkt.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "روی صفحه کامپیوتر خطا می‌بینی و می‌خواهی همکارت نگاه کند. بهترین سؤال چیست؟",
+    "explanation_fa": "برای درخواست اینکه همکار نگاه کند، Kun je even meekijken طبیعی است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همکار از je و با مدیر یا مشتری معمولاً از u استفاده می‌کنیم.",
+    "extra_example_nl": "Kunt u mij even helpen?",
+    "extra_example_fa": "می‌توانید کمی به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ساعت شروع کار است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer is de pauze?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان استراحت است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kun je even meekijken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is mijn bureau?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل میز کار است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "asking_for_help_at_work",
+    "life_context": "manager",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je vraagt je manager om hulp bij een taak.",
+    "question_text_nl": "Kies de beleefde zin.",
+    "question_text_fa": "برای یک وظیفه کاری از مدیرت کمک می‌خواهی. جمله مؤدبانه چیست؟",
+    "explanation_fa": "با مدیر بهتر است از Kunt u استفاده شود.",
+    "dialogue_rule_fa": "برای کمک خواستن از همکار از je و با مدیر یا مشتری معمولاً از u استفاده می‌کنیم.",
+    "extra_example_nl": "Kunt u mij even helpen?",
+    "extra_example_fa": "می‌توانید کمی به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een pen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست خودکار در محل کار است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn computer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کامپیوتر است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan niet inloggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل ورود به سیستم است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "asking_for_help_at_work",
+    "life_context": "workplace",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De printer heeft een probleem en je vraagt een collega om hulp.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "پرینتر مشکل دارد و از همکارت کمک می‌خواهی. چه می‌گویی؟",
+    "explanation_fa": "وقتی مشکل مشخص است، می‌توانی آن را در جمله کمک خواستن بگویی.",
+    "dialogue_rule_fa": "برای کمک خواستن از همکار از je و با مدیر یا مشتری معمولاً از u استفاده می‌کنیم.",
+    "extra_example_nl": "Kunt u mij even helpen?",
+    "extra_example_fa": "می‌توانید کمی به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kun je mij helpen met de printer?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik stuur een e-mail.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال ایمیل کاری است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bel de klant.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تماس با مشتری است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij terugbellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تماس دوباره است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "asking_for_help_at_work",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je collega is bezig, maar je hebt een korte vraag.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "همکارت مشغول است، اما تو یک سؤال کوتاه داری. بهترین جمله چیست؟",
+    "explanation_fa": "برای پرسیدن کوتاه از همکار، Heb je even tijd مناسب است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همکار از je و با مدیر یا مشتری معمولاً از u استفاده می‌کنیم.",
+    "extra_example_nl": "Kunt u mij even helpen?",
+    "extra_example_fa": "می‌توانید کمی به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام بعدازظهر در محل کار است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb je even tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijn weekend!",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر هفته با همکار است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه کمک خواستن یا درخواست توضیح در محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "talking_about_tasks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten wat je vandaag moet doen.",
+    "question_text_nl": "Wat vraag je aan je manager?",
+    "question_text_fa": "می‌خواهی بدانی امروز چه کاری باید انجام بدهی. از مدیر چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن وظیفه کاری، Wat moet ik doen ساده و مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن یا گزارش وظیفه از جمله‌هایی مثل Wat moet ik doen و Ik ben klaar استفاده می‌کنیم.",
+    "extra_example_nl": "Wat is mijn taak vandaag?",
+    "extra_example_fa": "وظیفه امروز من چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben de nieuwe collega.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان همکار جدید است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk op de afdeling verkoop.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن بخش کاری است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat moet ik doen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kun je mij helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همکار است، نه صحبت درباره وظیفه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "talking_about_tasks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je manager vraagt: Waar ben je mee bezig?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "مدیر می‌پرسد مشغول چه کاری هستی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای گفتن کاری که در حال انجامش هستی، از Ik ben bezig met استفاده می‌شود.",
+    "dialogue_rule_fa": "برای پرسیدن یا گزارش وظیفه از جمله‌هایی مثل Wat moet ik doen و Ik ben klaar استفاده می‌کنیم.",
+    "extra_example_nl": "Wat is mijn taak vandaag?",
+    "extra_example_fa": "وظیفه امروز من چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dit uitleggen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست توضیح از مدیر یا همکار است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان جلسه است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل جلسه است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben bezig met de lijst.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "talking_about_tasks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent nog bezig met een taak en wilt die eerst afmaken.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "هنوز مشغول یک وظیفه هستی و می‌خواهی اول آن را تمام کنی. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن اینکه این کار را تمام می‌کنی، Ik maak dit af مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن یا گزارش وظیفه از جمله‌هایی مثل Wat moet ik doen و Ik ben klaar استفاده می‌کنیم.",
+    "extra_example_nl": "Wat is mijn taak vandaag?",
+    "extra_example_fa": "وظیفه امروز من چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik maak dit af.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان جلسه است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل جلسه است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergadering begint om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن زمان شروع جلسه است، نه صحبت درباره وظیفه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "talking_about_tasks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt je taak afgemaakt.",
+    "question_text_nl": "Hoe zeg je dat?",
+    "question_text_fa": "وظیفه‌ات را تمام کرده‌ای. چطور می‌گویی؟",
+    "explanation_fa": "برای گفتن پایان کار، Ik ben klaar کوتاه و طبیعی است.",
+    "dialogue_rule_fa": "برای پرسیدن یا گزارش وظیفه از جمله‌هایی مثل Wat moet ik doen و Ik ben klaar استفاده می‌کنیم.",
+    "extra_example_nl": "Wat is mijn taak vandaag?",
+    "extra_example_fa": "وظیفه امروز من چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat ben ik klaar?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت پایان کار است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben klaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ساعت شروع کار است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer is de pauze?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان استراحت است، نه صحبت درباره وظیفه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "talking_about_tasks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt de taak nog niet gestart.",
+    "question_text_nl": "Wat zeg je tegen je collega?",
+    "question_text_fa": "هنوز وظیفه را شروع نکرده‌ای. به همکارت چه می‌گویی؟",
+    "explanation_fa": "برای گفتن اینکه هنوز شروع نکرده‌ای، Ik moet nog beginnen مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن یا گزارش وظیفه از جمله‌هایی مثل Wat moet ik doen و Ik ben klaar استفاده می‌کنیم.",
+    "extra_example_nl": "Wat is mijn taak vandaag?",
+    "extra_example_fa": "وظیفه امروز من چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de kantine?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل غذاخوری محل کار است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u een pen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست خودکار در محل کار است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik moet nog beginnen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn computer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کامپیوتر است، نه صحبت درباره وظیفه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "talking_about_tasks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je manager vraagt of de taak gedaan is.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "مدیر می‌پرسد آیا وظیفه انجام شده است. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای گفتن انجام شدن کار، Ik heb dit gedaan جمله ساده و مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن یا گزارش وظیفه از جمله‌هایی مثل Wat moet ik doen و Ik ben klaar استفاده می‌کنیم.",
+    "extra_example_nl": "Wat is mijn taak vandaag?",
+    "extra_example_fa": "وظیفه امروز من چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben mijn wachtwoord vergeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن فراموش کردن رمز عبور است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik stuur een e-mail.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال ایمیل کاری است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bel de klant.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تماس با مشتری است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb dit gedaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "talking_about_tasks",
+    "life_context": "manager",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent klaar en wilt weten wat daarna komt.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کارت تمام شده و می‌خواهی بدانی بعدش چه کاری باید بکنی. چه می‌پرسی؟",
+    "explanation_fa": "بعد از تمام شدن کار، برای وظیفه بعدی می‌پرسی: Wat is de volgende taak.",
+    "dialogue_rule_fa": "برای پرسیدن یا گزارش وظیفه از جمله‌هایی مثل Wat moet ik doen و Ik ben klaar استفاده می‌کنیم.",
+    "extra_example_nl": "Wat is mijn taak vandaag?",
+    "extra_example_fa": "وظیفه امروز من چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat is de volgende taak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen, hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام و احوال‌پرسی صبح در محل کار است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام بعدازظهر در محل کار است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijn weekend!",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر هفته با همکار است، نه صحبت درباره وظیفه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "talking_about_tasks",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je collega vraagt: Ben je klaar met deze taak?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همکارت می‌پرسد آیا این وظیفه را تمام کرده‌ای. بهترین پاسخ چیست؟",
+    "explanation_fa": "وقتی کار تمام شده، Ja, ik ben klaar پاسخ واضح است.",
+    "dialogue_rule_fa": "برای پرسیدن یا گزارش وظیفه از جمله‌هایی مثل Wat moet ik doen و Ik ben klaar استفاده می‌کنیم.",
+    "extra_example_nl": "Wat is mijn taak vandaag?",
+    "extra_example_fa": "وظیفه امروز من چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نام هنگام معرفی است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, ik ben klaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben de nieuwe collega.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان همکار جدید است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk op de afdeling verkoop.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن بخش کاری است، نه صحبت درباره وظیفه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "talking_about_tasks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je manager zegt dat je met een nieuwe taak mag starten.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "مدیر می‌گوید می‌توانی یک وظیفه جدید را شروع کنی. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن شروع کار در همین لحظه، Ik begin nu ساده است.",
+    "dialogue_rule_fa": "برای پرسیدن یا گزارش وظیفه از جمله‌هایی مثل Wat moet ik doen و Ik ben klaar استفاده می‌کنیم.",
+    "extra_example_nl": "Wat is mijn taak vandaag?",
+    "extra_example_fa": "وظیفه امروز من چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای شروع یک سؤال کاری است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dit uitleggen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست توضیح از مدیر یا همکار است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begin nu.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان جلسه است، نه صحبت درباره وظیفه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "talking_about_tasks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt een taak afgerond en zegt dit tegen je manager.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "یک وظیفه را به پایان رسانده‌ای و به مدیرت می‌گویی. بهترین جمله چیست؟",
+    "explanation_fa": "برای گفتن تمام شدن یک وظیفه، Ik heb de taak af قابل فهم و ساده است.",
+    "dialogue_rule_fa": "برای پرسیدن یا گزارش وظیفه از جمله‌هایی مثل Wat moet ik doen و Ik ben klaar استفاده می‌کنیم.",
+    "extra_example_nl": "Wat is mijn taak vandaag?",
+    "extra_example_fa": "وظیفه امروز من چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان جلسه است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل جلسه است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vergadering begint om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن زمان شروع جلسه است، نه صحبت درباره وظیفه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb de taak af.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "meetings_at_work",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten wanneer de vergadering begint.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی جلسه چه زمانی شروع می‌شود. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن زمان جلسه، Hoe laat is de vergadering مناسب است.",
+    "dialogue_rule_fa": "برای جلسه کاری معمولاً زمان، مکان یا حضور در جلسه را ساده می‌پرسیم یا پاسخ می‌دهیم.",
+    "extra_example_nl": "Hoe laat begint de vergadering?",
+    "extra_example_fa": "جلسه چه ساعتی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat is de vergadering?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat begin ik?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت شروع کار است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat ben ik klaar?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت پایان کار است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ساعت شروع کار است، نه صحبت درباره جلسه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "meetings_at_work",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je weet niet in welke ruimte de vergadering is.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "نمی‌دانی جلسه در کدام اتاق است. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن محل جلسه، Waar is de vergadering ساده و درست است.",
+    "dialogue_rule_fa": "برای جلسه کاری معمولاً زمان، مکان یا حضور در جلسه را ساده می‌پرسیم یا پاسخ می‌دهیم.",
+    "extra_example_nl": "Hoe laat begint de vergadering?",
+    "extra_example_fa": "جلسه چه ساعتی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de printer?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل پرینتر است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de vergadering?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de kantine?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل غذاخوری محل کار است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een pen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست خودکار در محل کار است، نه صحبت درباره جلسه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "meetings_at_work",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Een collega vraagt: Hoe laat begint de vergadering?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همکار می‌پرسد جلسه چه ساعتی شروع می‌شود. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای گفتن زمان شروع جلسه، از begint om ... uur استفاده می‌شود.",
+    "dialogue_rule_fa": "برای جلسه کاری معمولاً زمان، مکان یا حضور در جلسه را ساده می‌پرسیم یا پاسخ می‌دهیم.",
+    "extra_example_nl": "Hoe laat begint de vergadering?",
+    "extra_example_fa": "جلسه چه ساعتی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل پرینتر است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben mijn wachtwoord vergeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن فراموش کردن رمز عبور است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vergadering begint om tien uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik stuur een e-mail.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال ایمیل کاری است، نه صحبت درباره جلسه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "meetings_at_work",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De vergadering is via internet, niet in een kamer.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "جلسه از طریق اینترنت است، نه در اتاق. چه می‌گویی؟",
+    "explanation_fa": "برای جلسه اینترنتی، De vergadering is online جمله ساده‌ای است.",
+    "dialogue_rule_fa": "برای جلسه کاری معمولاً زمان، مکان یا حضور در جلسه را ساده می‌پرسیم یا پاسخ می‌دهیم.",
+    "extra_example_nl": "Hoe laat begint de vergadering?",
+    "extra_example_fa": "جلسه چه ساعتی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een bericht gestuurd.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال پیام کاری است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen, hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام و احوال‌پرسی صبح در محل کار است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام بعدازظهر در محل کار است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergadering is online.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "meetings_at_work",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je manager vraagt of je naar de vergadering komt.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "مدیر می‌پرسد آیا به جلسه می‌آیی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای گفتن اینکه در جلسه حاضر می‌شوی، Ik kom naar de vergadering مناسب است.",
+    "dialogue_rule_fa": "برای جلسه کاری معمولاً زمان، مکان یا حضور در جلسه را ساده می‌پرسیم یا پاسخ می‌دهیم.",
+    "extra_example_nl": "Hoe laat begint de vergadering?",
+    "extra_example_fa": "جلسه چه ساعتی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kom naar de vergadering.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben nieuw hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان فرد جدید است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نام هنگام معرفی است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben de nieuwe collega.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان همکار جدید است، نه صحبت درباره جلسه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "meetings_at_work",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zit in een vergadering en wilt iets vragen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در جلسه هستی و می‌خواهی چیزی بپرسی. چه می‌گویی؟",
+    "explanation_fa": "در جلسه برای شروع سؤال، Kan ik iets vragen ساده و مؤدبانه است.",
+    "dialogue_rule_fa": "برای جلسه کاری معمولاً زمان، مکان یا حضور در جلسه را ساده می‌پرسیم یا پاسخ می‌دهیم.",
+    "extra_example_nl": "Hoe laat begint de vergadering?",
+    "extra_example_fa": "جلسه چه ساعتی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وقت از مدیر یا فرد رسمی است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik iets vragen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای شروع یک سؤال کاری است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit uitleggen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست توضیح از مدیر یا همکار است، نه صحبت درباره جلسه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "meetings_at_work",
+    "life_context": "manager",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt vandaag een gesprek met je manager.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "امروز با مدیرت یک قرار کاری داری. بهترین جمله چیست؟",
+    "explanation_fa": "برای گفتن داشتن قرار با مدیر، این جمله ساده و مناسب است.",
+    "dialogue_rule_fa": "برای جلسه کاری معمولاً زمان، مکان یا حضور در جلسه را ساده می‌پرسیم یا پاسخ می‌دهیم.",
+    "extra_example_nl": "Hoe laat begint de vergadering?",
+    "extra_example_fa": "جلسه چه ساعتی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik maak dit af.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه این کار را تمام می‌کنی است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben klaar.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تمام شدن کار است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een afspraak met mijn manager.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat begin ik?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت شروع کار است، نه صحبت درباره جلسه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "meetings_at_work",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je collega vraagt of je bij de vergadering bent.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همکارت می‌پرسد آیا در جلسه هستی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای گفتن حضور در جلسه، Ik ben bij de vergadering قابل فهم است.",
+    "dialogue_rule_fa": "برای جلسه کاری معمولاً زمان، مکان یا حضور در جلسه را ساده می‌پرسیم یا پاسخ می‌دهیم.",
+    "extra_example_nl": "Hoe laat begint de vergadering?",
+    "extra_example_fa": "جلسه چه ساعتی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat begin ik?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت شروع کار است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat ben ik klaar?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت پایان کار است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ساعت شروع کار است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, ik ben bij de vergadering.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "meetings_at_work",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je collega zoekt de vergaderruimte.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همکارت دنبال اتاق جلسه می‌گردد. چه می‌گویی؟",
+    "explanation_fa": "برای راهنمایی ساده درباره محل جلسه، اتاق را مشخص می‌کنی.",
+    "dialogue_rule_fa": "برای جلسه کاری معمولاً زمان، مکان یا حضور در جلسه را ساده می‌پرسیم یا پاسخ می‌دهیم.",
+    "extra_example_nl": "Hoe laat begint de vergadering?",
+    "extra_example_fa": "جلسه چه ساعتی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergadering is in kamer 2.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is mijn bureau?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل میز کار است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de printer?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل پرینتر است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is de kantine?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل غذاخوری محل کار است، نه صحبت درباره جلسه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "meetings_at_work",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt vragen of je ook naar de vergadering mag komen.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بپرسی آیا تو هم می‌توانی به جلسه بیایی. بهترین سؤال چیست؟",
+    "explanation_fa": "برای درخواست اجازه حضور در جلسه، Mag ik مناسب است.",
+    "dialogue_rule_fa": "برای جلسه کاری معمولاً زمان، مکان یا حضور در جلسه را ساده می‌پرسیم یا پاسخ می‌دهیم.",
+    "extra_example_nl": "Hoe laat begint de vergadering?",
+    "extra_example_fa": "جلسه چه ساعتی شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet inloggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل ورود به سیستم است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik bij de vergadering zijn?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل پرینتر است، نه صحبت درباره جلسه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben mijn wachtwoord vergeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن فراموش کردن رمز عبور است، نه صحبت درباره جلسه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_time_breaks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten hoe laat je werk begint.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی کار چه ساعتی شروع می‌شود. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن ساعت شروع کار، Hoe laat begin ik ساده و مناسب است.",
+    "dialogue_rule_fa": "برای زمان کار از hoe laat، om ... uur و van ... tot ... استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk vandaag van negen tot vijf.",
+    "extra_example_fa": "امروز از نه تا پنج کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u mij terugbellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تماس دوباره است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een bericht gestuurd.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال پیام کاری است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat begin ik?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemorgen, hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام و احوال‌پرسی صبح در محل کار است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_time_breaks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten hoe laat je klaar bent met werken.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی چه ساعتی کارت تمام می‌شود. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن زمان پایان کار، Hoe laat ben ik klaar مناسب است.",
+    "dialogue_rule_fa": "برای زمان کار از hoe laat، om ... uur و van ... tot ... استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk vandaag van negen tot vijf.",
+    "extra_example_fa": "امروز از نه تا پنج کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben nieuw hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان فرد جدید است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نام هنگام معرفی است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat ben ik klaar?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_time_breaks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je collega vraagt hoe laat je begint.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همکارت می‌پرسد چه ساعتی شروع می‌کنی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای گفتن ساعت شروع، Ik begin om negen uur جمله A2 و واضح است.",
+    "dialogue_rule_fa": "برای زمان کار از hoe laat، om ... uur و van ... tot ... استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk vandaag van negen tot vijf.",
+    "extra_example_fa": "امروز از نه تا پنج کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun je mij helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همکار است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وقت از مدیر یا فرد رسمی است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای شروع یک سؤال کاری است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_time_breaks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je collega vraagt tot hoe laat je werkt.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همکارت می‌پرسد تا چه ساعتی کار می‌کنی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای گفتن پایان ساعت کاری، Ik werk tot vijf uur مناسب است.",
+    "dialogue_rule_fa": "برای زمان کار از hoe laat، om ... uur و van ... tot ... استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk vandaag van negen tot vijf.",
+    "extra_example_fa": "امروز از نه تا پنج کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben bezig met de lijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای توضیح کاری که در حال انجام است است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk tot vijf uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik maak dit af.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه این کار را تمام می‌کنی است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben klaar.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تمام شدن کار است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_time_breaks",
+    "life_context": "break",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten wanneer je pauze hebt.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی چه زمانی استراحت داری. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن زمان استراحت، Wanneer is de pauze درست است.",
+    "dialogue_rule_fa": "برای زمان کار از hoe laat، om ... uur و van ... tot ... استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk vandaag van negen tot vijf.",
+    "extra_example_fa": "امروز از نه تا پنج کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergadering begint om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن زمان شروع جلسه است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vergadering is online.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن آنلاین بودن جلسه است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer is de pauze?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is mijn bureau?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل میز کار است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_time_breaks",
+    "life_context": "break",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt even stoppen met werken voor pauze.",
+    "question_text_nl": "Wat zeg je tegen je collega?",
+    "question_text_fa": "می‌خواهی کمی کار را برای استراحت قطع کنی. به همکارت چه می‌گویی؟",
+    "explanation_fa": "برای گفتن رفتن به استراحت، Ik ga even pauze nemen طبیعی است.",
+    "dialogue_rule_fa": "برای زمان کار از hoe laat، om ... uur و van ... tot ... استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk vandaag van negen tot vijf.",
+    "extra_example_fa": "امروز از نه تا پنج کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is mijn bureau?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل میز کار است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de printer?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل پرینتر است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de kantine?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل غذاخوری محل کار است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ga even pauze nemen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_time_breaks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent tien minuten later op je werk.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "ده دقیقه دیرتر به محل کار رسیده‌ای. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن تأخیر کوتاه، Ik ben tien minuten te laat مناسب است.",
+    "dialogue_rule_fa": "برای زمان کار از hoe laat، om ... uur و van ... tot ... استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk vandaag van negen tot vijf.",
+    "extra_example_fa": "امروز از نه تا پنج کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben tien minuten te laat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn computer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کامپیوتر است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan niet inloggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل ورود به سیستم است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل پرینتر است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_time_breaks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt precies op tijd op je werk.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دقیقاً به‌موقع به محل کار می‌رسی. چه می‌گویی؟",
+    "explanation_fa": "وقتی به‌موقع رسیده‌ای، Ik ben op tijd جمله ساده و درست است.",
+    "dialogue_rule_fa": "برای زمان کار از hoe laat، om ... uur و van ... tot ... استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk vandaag van negen tot vijf.",
+    "extra_example_fa": "امروز از نه تا پنج کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik bel de klant.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تماس با مشتری است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben op tijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij terugbellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تماس دوباره است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een bericht gestuurd.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال پیام کاری است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_time_breaks",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je vertelt je collega over je werktijd morgen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "به همکارت درباره ساعت کاری فردا می‌گویی. بهترین جمله چیست؟",
+    "explanation_fa": "برای گفتن ساعت کاری، van ... tot ... ساده و رایج است.",
+    "dialogue_rule_fa": "برای زمان کار از hoe laat، om ... uur و van ... tot ... استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk vandaag van negen tot vijf.",
+    "extra_example_fa": "امروز از نه تا پنج کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Fijn weekend!",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر هفته با همکار است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik werk morgen van negen tot vijf.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben nieuw hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان فرد جدید است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_time_breaks",
+    "life_context": "manager",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten welke shift je vandaag hebt.",
+    "question_text_nl": "Wat vraag je aan je manager?",
+    "question_text_fa": "می‌خواهی بدانی امروز چه شیفتی داری. از مدیر چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن شیفت، Welke dienst heb ik vandaag مناسب و ساده است.",
+    "dialogue_rule_fa": "برای زمان کار از hoe laat، om ... uur و van ... tot ... استفاده می‌کنیم.",
+    "extra_example_nl": "Ik werk vandaag van negen tot vijf.",
+    "extra_example_fa": "امروز از نه تا پنج کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk op de afdeling verkoop.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن بخش کاری است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun je mij helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همکار است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وقت از مدیر یا فرد رسمی است، نه صحبت درباره زمان کار، پایان کار یا استراحت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Welke dienst heb ik vandaag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "office_workplace_items",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent nieuw op kantoor en zoekt je bureau.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "در دفتر جدید هستی و میزت را پیدا نمی‌کنی. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن محل میز، Waar is mijn bureau ساده و درست است.",
+    "dialogue_rule_fa": "برای پرسیدن محل وسیله یا اتاق در محل کار از Waar is ... استفاده می‌کنیم.",
+    "extra_example_nl": "Waar is de printer?",
+    "extra_example_fa": "پرینتر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is mijn bureau?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat moet ik doen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن وظیفه کاری است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben bezig met de lijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای توضیح کاری که در حال انجام است است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik maak dit af.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه این کار را تمام می‌کنی است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "office_workplace_items",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt iets printen en zoekt de printer.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی چیزی چاپ کنی و دنبال پرینتر هستی. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن محل پرینتر، Waar is de printer مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن محل وسیله یا اتاق در محل کار از Waar is ... استفاده می‌کنیم.",
+    "extra_example_nl": "Waar is de printer?",
+    "extra_example_fa": "پرینتر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل جلسه است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de printer?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vergadering begint om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن زمان شروع جلسه است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergadering is online.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن آنلاین بودن جلسه است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "office_workplace_items",
+    "life_context": "break",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt lunchen en zoekt de kantine.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی ناهار بخوری و دنبال غذاخوری محل کار هستی. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن محل غذاخوری، Waar is de kantine ساده است.",
+    "dialogue_rule_fa": "برای پرسیدن محل وسیله یا اتاق در محل کار از Waar is ... استفاده می‌کنیم.",
+    "extra_example_nl": "Waar is de printer?",
+    "extra_example_fa": "پرینتر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ساعت شروع کار است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer is de pauze?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان استراحت است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de kantine?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn computer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کامپیوتر است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "office_workplace_items",
+    "life_context": "workplace",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt de wc op je werk.",
+    "question_text_nl": "Wat vraag je beleefd?",
+    "question_text_fa": "در محل کار دنبال سرویس بهداشتی هستی. مؤدبانه چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن محل سرویس، Waar is de wc ساده و رایج است.",
+    "dialogue_rule_fa": "برای پرسیدن محل وسیله یا اتاق در محل کار از Waar is ... استفاده می‌کنیم.",
+    "extra_example_nl": "Waar is de printer?",
+    "extra_example_fa": "پرینتر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn computer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کامپیوتر است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet inloggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل ورود به سیستم است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل پرینتر است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is de wc?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "office_workplace_items",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt geen pen en vraagt het aan je manager.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "خودکار نداری و از مدیرت می‌پرسی. بهترین سؤال چیست؟",
+    "explanation_fa": "برای درخواست یک وسیله ساده از مدیر، Heeft u een pen مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن محل وسیله یا اتاق در محل کار از Waar is ... استفاده می‌کنیم.",
+    "extra_example_nl": "Waar is de printer?",
+    "extra_example_fa": "پرینتر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een pen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik stuur een e-mail.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال ایمیل کاری است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bel de klant.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تماس با مشتری است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij terugbellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تماس دوباره است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "office_workplace_items",
+    "life_context": "computer",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet een vrije computer en wilt die gebruiken.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک کامپیوتر آزاد می‌بینی و می‌خواهی از آن استفاده کنی. چه می‌پرسی؟",
+    "explanation_fa": "برای اجازه گرفتن، Mag ik ... gebruiken مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن محل وسیله یا اتاق در محل کار از Waar is ... استفاده می‌کنیم.",
+    "extra_example_nl": "Waar is de printer?",
+    "extra_example_fa": "پرینتر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام بعدازظهر در محل کار است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik deze computer gebruiken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fijn weekend!",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر هفته با همکار است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "office_workplace_items",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt printen, maar de printer doet niets.",
+    "question_text_nl": "Wat zeg je tegen je collega?",
+    "question_text_fa": "می‌خواهی چاپ کنی، اما پرینتر کار نمی‌کند. به همکارت چه می‌گویی؟",
+    "explanation_fa": "برای گفتن مشکل یک وسیله، از ... werkt niet استفاده می‌کنی.",
+    "dialogue_rule_fa": "برای پرسیدن محل وسیله یا اتاق در محل کار از Waar is ... استفاده می‌کنیم.",
+    "extra_example_nl": "Waar is de printer?",
+    "extra_example_fa": "پرینتر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben de nieuwe collega.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان همکار جدید است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk op de afdeling verkoop.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن بخش کاری است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kun je mij helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همکار است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "office_workplace_items",
+    "life_context": "workplace",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt je badge nodig om binnen te komen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "برای ورود به محل کار به کارت ورود نیاز داری. بهترین جمله چیست؟",
+    "explanation_fa": "برای گفتن نیاز به کارت ورود، Ik heb mijn badge nodig مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن محل وسیله یا اتاق در محل کار از Waar is ... استفاده می‌کنیم.",
+    "extra_example_nl": "Waar is de printer?",
+    "extra_example_fa": "پرینتر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dit uitleggen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست توضیح از مدیر یا همکار است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat moet ik doen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن وظیفه کاری است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben bezig met de lijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای توضیح کاری که در حال انجام است است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb mijn badge nodig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "office_workplace_items",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt de kamer voor de vergadering.",
+    "question_text_nl": "Wat vraag je aan je collega?",
+    "question_text_fa": "دنبال اتاق جلسه هستی. از همکارت چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن محل اتاق جلسه، Waar is de vergaderruimte مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن محل وسیله یا اتاق در محل کار از Waar is ... استفاده می‌کنیم.",
+    "extra_example_nl": "Waar is de printer?",
+    "extra_example_fa": "پرینتر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de vergaderruimte?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان جلسه است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل جلسه است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergadering begint om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن زمان شروع جلسه است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "office_workplace_items",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt koffie halen op kantoor en zoekt de koffieautomaat.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی در دفتر قهوه بگیری و دنبال دستگاه قهوه هستی. چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن محل دستگاه قهوه در محل کار، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن محل وسیله یا اتاق در محل کار از Waar is ... استفاده می‌کنیم.",
+    "extra_example_nl": "Waar is de printer?",
+    "extra_example_fa": "پرینتر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat ben ik klaar?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت پایان کار است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de koffieautomaat?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ساعت شروع کار است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer is de pauze?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان استراحت است، نه پرسیدن درباره وسایل یا مکان‌های محل کار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_problems",
+    "life_context": "computer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je computer doet niets op kantoor.",
+    "question_text_nl": "Wat zeg je tegen je collega?",
+    "question_text_fa": "کامپیوترت در دفتر کار نمی‌کند. به همکارت چه می‌گویی؟",
+    "explanation_fa": "برای گفتن مشکل ساده با کامپیوتر، Mijn computer werkt niet مناسب است.",
+    "dialogue_rule_fa": "برای گفتن مشکل کاری ساده می‌توانی بگویی: Ik heb een probleem یا ... werkt niet.",
+    "extra_example_nl": "De printer werkt niet.",
+    "extra_example_fa": "پرینتر کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de kantine?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل غذاخوری محل کار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u een pen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست خودکار در محل کار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn computer werkt niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik stuur een e-mail.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال ایمیل کاری است، نه گفتن یک مشکل ساده کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_problems",
+    "life_context": "computer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je probeert in te loggen, maar het lukt niet.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی وارد سیستم شوی، اما نمی‌شود. چه می‌گویی؟",
+    "explanation_fa": "برای مشکل ورود به سیستم، Ik kan niet inloggen جمله ساده و درست است.",
+    "dialogue_rule_fa": "برای گفتن مشکل کاری ساده می‌توانی بگویی: Ik heb een probleem یا ... werkt niet.",
+    "extra_example_nl": "De printer werkt niet.",
+    "extra_example_fa": "پرینتر کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik stuur een e-mail.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال ایمیل کاری است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik bel de klant.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تماس با مشتری است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij terugbellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تماس دوباره است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan niet inloggen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_problems",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt printen, maar er komt geen papier uit.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی چاپ کنی، اما کاغذی بیرون نمی‌آید. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن مشکل پرینتر، De printer werkt niet مناسب است.",
+    "dialogue_rule_fa": "برای گفتن مشکل کاری ساده می‌توانی بگویی: Ik heb een probleem یا ... werkt niet.",
+    "extra_example_nl": "De printer werkt niet.",
+    "extra_example_fa": "پرینتر کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen, hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام و احوال‌پرسی صبح در محل کار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام بعدازظهر در محل کار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijn weekend!",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر هفته با همکار است، نه گفتن یک مشکل ساده کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_problems",
+    "life_context": "computer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je weet je wachtwoord niet meer.",
+    "question_text_nl": "Wat zeg je tegen je manager?",
+    "question_text_fa": "رمز عبورت را دیگر نمی‌دانی. به مدیرت چه می‌گویی؟",
+    "explanation_fa": "برای گفتن فراموش کردن رمز، Ik ben mijn wachtwoord vergeten مناسب است.",
+    "dialogue_rule_fa": "برای گفتن مشکل کاری ساده می‌توانی بگویی: Ik heb een probleem یا ... werkt niet.",
+    "extra_example_nl": "De printer werkt niet.",
+    "extra_example_fa": "پرینتر کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نام هنگام معرفی است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben mijn wachtwoord vergeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben de nieuwe collega.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان همکار جدید است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk op de afdeling verkoop.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن بخش کاری است، نه گفتن یک مشکل ساده کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_problems",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Er is iets mis met je werk en je wilt dit zeggen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "در کار چیزی درست نیست و می‌خواهی این را بگویی. بهترین جمله چیست؟",
+    "explanation_fa": "برای شروع بیان یک مشکل ساده، Ik heb een probleem واضح است.",
+    "dialogue_rule_fa": "برای گفتن مشکل کاری ساده می‌توانی بگویی: Ik heb een probleem یا ... werkt niet.",
+    "extra_example_nl": "De printer werkt niet.",
+    "extra_example_fa": "پرینتر کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای شروع یک سؤال کاری است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dit uitleggen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست توضیح از مدیر یا همکار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een probleem.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat moet ik doen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن وظیفه کاری است، نه گفتن یک مشکل ساده کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_problems",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begrijpt niet wanneer of waar de afspraak is.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "نمی‌فهمی قرار کاری چه زمانی یا کجاست. چه می‌گویی؟",
+    "explanation_fa": "وقتی جزئیات قرار را نمی‌فهمی، De afspraak is niet duidelijk مناسب است.",
+    "dialogue_rule_fa": "برای گفتن مشکل کاری ساده می‌توانی بگویی: Ik heb een probleem یا ... werkt niet.",
+    "extra_example_nl": "De printer werkt niet.",
+    "extra_example_fa": "پرینتر کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben klaar.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تمام شدن کار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان جلسه است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل جلسه است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "De afspraak is niet duidelijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_problems",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kunt je taak niet alleen doen.",
+    "question_text_nl": "Wat zeg je tegen je collega?",
+    "question_text_fa": "نمی‌توانی وظیفه‌ات را تنها انجام بدهی. به همکارت چه می‌گویی؟",
+    "explanation_fa": "برای گفتن نیاز به کمک، Ik heb hulp nodig ساده و مستقیم است.",
+    "dialogue_rule_fa": "برای گفتن مشکل کاری ساده می‌توانی بگویی: Ik heb een probleem یا ... werkt niet.",
+    "extra_example_nl": "De printer werkt niet.",
+    "extra_example_fa": "پرینتر کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb hulp nodig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat begin ik?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت شروع کار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat ben ik klaar?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت پایان کار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ساعت شروع کار است، نه گفتن یک مشکل ساده کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_problems",
+    "life_context": "manager",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent ziek en kunt vandaag niet werken.",
+    "question_text_nl": "Wat zeg je tegen je manager?",
+    "question_text_fa": "مریض هستی و امروز نمی‌توانی کار کنی. به مدیرت چه می‌گویی؟",
+    "explanation_fa": "برای گفتن مریض بودن در یک روز کاری، Ik ben ziek vandaag ساده است.",
+    "dialogue_rule_fa": "برای گفتن مشکل کاری ساده می‌توانی بگویی: Ik heb een probleem یا ... werkt niet.",
+    "extra_example_nl": "De printer werkt niet.",
+    "extra_example_fa": "پرینتر کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de printer?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل پرینتر است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben ziek vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de kantine?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل غذاخوری محل کار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een pen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست خودکار در محل کار است، نه گفتن یک مشکل ساده کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_problems",
+    "life_context": "workplace",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je staat bij de deur, maar je badge is thuis.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کنار در محل کار هستی، اما کارت ورودت خانه مانده است. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن فراموش کردن badge، Ik ben mijn badge vergeten مناسب است.",
+    "dialogue_rule_fa": "برای گفتن مشکل کاری ساده می‌توانی بگویی: Ik heb een probleem یا ... werkt niet.",
+    "extra_example_nl": "De printer werkt niet.",
+    "extra_example_fa": "پرینتر کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik stuur een e-mail.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال ایمیل کاری است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik bel de klant.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تماس با مشتری است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben mijn badge vergeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij terugbellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تماس دوباره است، نه گفتن یک مشکل ساده کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_problems",
+    "life_context": "email",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je collega zegt dat hij een e-mail heeft gestuurd, maar jij hebt niets gekregen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همکارت می‌گوید ایمیل فرستاده، اما تو چیزی نگرفته‌ای. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن اینکه ایمیل نرسیده، Ik heb de e-mail niet ontvangen مناسب است.",
+    "dialogue_rule_fa": "برای گفتن مشکل کاری ساده می‌توانی بگویی: Ik heb een probleem یا ... werkt niet.",
+    "extra_example_nl": "De printer werkt niet.",
+    "extra_example_fa": "پرینتر کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een bericht gestuurd.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال پیام کاری است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen, hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام و احوال‌پرسی صبح در محل کار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام بعدازظهر در محل کار است، نه گفتن یک مشکل ساده کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb de e-mail niet ontvangen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_messages_calls",
+    "life_context": "email",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt je manager iets per e-mail sturen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی چیزی را با ایمیل برای مدیرت بفرستی. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن ارسال ایمیل، Ik stuur een e-mail ساده و مناسب است.",
+    "dialogue_rule_fa": "برای پیام و تماس کاری از جمله‌های ساده مثل Ik stuur een e-mail و Ik bel later terug استفاده می‌کنیم.",
+    "extra_example_nl": "Ik stuur u straks een e-mail.",
+    "extra_example_fa": "بعداً برای شما ایمیل می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik stuur een e-mail.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben nieuw hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان فرد جدید است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نام هنگام معرفی است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben de nieuwe collega.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان همکار جدید است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_messages_calls",
+    "life_context": "customer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je moet contact opnemen met een klant.",
+    "question_text_nl": "Wat zeg je tegen je collega?",
+    "question_text_fa": "باید با یک مشتری تماس بگیری. به همکارت چه می‌گویی؟",
+    "explanation_fa": "برای تماس با مشتری، Ik bel de klant جمله کوتاه و درست است.",
+    "dialogue_rule_fa": "برای پیام و تماس کاری از جمله‌های ساده مثل Ik stuur een e-mail و Ik bel later terug استفاده می‌کنیم.",
+    "extra_example_nl": "Ik stuur u straks een e-mail.",
+    "extra_example_fa": "بعداً برای شما ایمیل می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وقت از مدیر یا فرد رسمی است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik bel de klant.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای شروع یک سؤال کاری است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit uitleggen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست توضیح از مدیر یا همکار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_messages_calls",
+    "life_context": "customer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Een klant belt, maar jij kunt nu niet opnemen.",
+    "question_text_nl": "Wat vraag je in een bericht?",
+    "question_text_fa": "یک مشتری تماس می‌گیرد، اما الان نمی‌توانی جواب بدهی. در پیام چه می‌پرسی؟",
+    "explanation_fa": "برای درخواست تماس دوباره از مشتری، Kunt u mij terugbellen مؤدبانه است.",
+    "dialogue_rule_fa": "برای پیام و تماس کاری از جمله‌های ساده مثل Ik stuur een e-mail و Ik bel later terug استفاده می‌کنیم.",
+    "extra_example_nl": "Ik stuur u straks een e-mail.",
+    "extra_example_fa": "بعداً برای شما ایمیل می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik maak dit af.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه این کار را تمام می‌کنی است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben klaar.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تمام شدن کار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij terugbellen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان جلسه است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_messages_calls",
+    "life_context": "email",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt al een bericht naar je collega gestuurd.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "قبلاً یک پیام برای همکارت فرستاده‌ای. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن اینکه پیام فرستاده‌ای، Ik heb een bericht gestuurd مناسب است.",
+    "dialogue_rule_fa": "برای پیام و تماس کاری از جمله‌های ساده مثل Ik stuur een e-mail و Ik bel later terug استفاده می‌کنیم.",
+    "extra_example_nl": "Ik stuur u straks een e-mail.",
+    "extra_example_fa": "بعداً برای شما ایمیل می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergadering is online.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن آنلاین بودن جلسه است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat begin ik?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت شروع کار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat ben ik klaar?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت پایان کار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een bericht gestuurd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_messages_calls",
+    "life_context": "email",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of je manager je e-mail heeft gelezen.",
+    "question_text_nl": "Wat vraag je beleefd?",
+    "question_text_fa": "می‌خواهی بدانی مدیرت ایمیلت را دیده است یا نه. مؤدبانه چه می‌پرسی؟",
+    "explanation_fa": "برای پرسیدن درباره دیدن ایمیل، Heeft u mijn e-mail gezien مناسب است.",
+    "dialogue_rule_fa": "برای پیام و تماس کاری از جمله‌های ساده مثل Ik stuur een e-mail و Ik bel later terug استفاده می‌کنیم.",
+    "extra_example_nl": "Ik stuur u straks een e-mail.",
+    "extra_example_fa": "بعداً برای شما ایمیل می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u mijn e-mail gezien?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is mijn bureau?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل میز کار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de printer?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل پرینتر است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is de kantine?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل غذاخوری محل کار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_messages_calls",
+    "life_context": "email",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kunt het document nu niet sturen, maar later wel.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "الان نمی‌توانی سند را بفرستی، اما بعداً می‌فرستی. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن ارسال در زمان نزدیک، Ik stuur het straks طبیعی است.",
+    "dialogue_rule_fa": "برای پیام و تماس کاری از جمله‌های ساده مثل Ik stuur een e-mail و Ik bel later terug استفاده می‌کنیم.",
+    "extra_example_nl": "Ik stuur u straks een e-mail.",
+    "extra_example_fa": "بعداً برای شما ایمیل می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet inloggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل ورود به سیستم است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik stuur het straks.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل پرینتر است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben mijn wachtwoord vergeten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن فراموش کردن رمز عبور است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_messages_calls",
+    "life_context": "customer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kunt nu niet met de klant praten, maar later wel.",
+    "question_text_nl": "Wat zeg je tegen je collega?",
+    "question_text_fa": "الان نمی‌توانی با مشتری صحبت کنی، اما بعداً می‌توانی. به همکارت چه می‌گویی؟",
+    "explanation_fa": "برای تماس دوباره در آینده، Ik bel later terug مناسب است.",
+    "dialogue_rule_fa": "برای پیام و تماس کاری از جمله‌های ساده مثل Ik stuur een e-mail و Ik bel later terug استفاده می‌کنیم.",
+    "extra_example_nl": "Ik stuur u straks een e-mail.",
+    "extra_example_fa": "بعداً برای شما ایمیل می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen, hoe gaat het?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام و احوال‌پرسی صبح در محل کار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemiddag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای سلام بعدازظهر در محل کار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bel later terug.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Fijn weekend!",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر هفته با همکار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_messages_calls",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt dat je collega een bericht aan de manager geeft.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی همکارت یک پیام را به مدیر منتقل کند. چه می‌پرسی؟",
+    "explanation_fa": "برای خواستن انتقال پیام، Kunt u dit doorgeven مناسب است.",
+    "dialogue_rule_fa": "برای پیام و تماس کاری از جمله‌های ساده مثل Ik stuur een e-mail و Ik bel later terug استفاده می‌کنیم.",
+    "extra_example_nl": "Ik stuur u straks een e-mail.",
+    "extra_example_fa": "بعداً برای شما ایمیل می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben nieuw hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان فرد جدید است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn naam is Amir.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن نام هنگام معرفی است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit doorgeven?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_messages_calls",
+    "life_context": "email",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je manager vraagt of je het rapport per e-mail stuurt.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "مدیر می‌پرسد آیا گزارش را با ایمیل می‌فرستی. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای گفتن ارسال گزارش با ایمیل، جمله مستقیم و ساده بهترین است.",
+    "dialogue_rule_fa": "برای پیام و تماس کاری از جمله‌های ساده مثل Ik stuur een e-mail و Ik bel later terug استفاده می‌کنیم.",
+    "extra_example_nl": "Ik stuur u straks een e-mail.",
+    "extra_example_fa": "بعداً برای شما ایمیل می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik stuur het rapport per e-mail.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun je mij helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همکار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وقت از مدیر یا فرد رسمی است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای شروع یک سؤال کاری است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "work_messages_calls",
+    "life_context": "customer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Een klant heeft gebeld en je wilt dit aan je manager zeggen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک مشتری تماس گرفته و می‌خواهی به مدیرت بگویی. چه می‌گویی؟",
+    "explanation_fa": "برای اطلاع دادن تماس مشتری، De klant heeft gebeld کوتاه و مناسب است.",
+    "dialogue_rule_fa": "برای پیام و تماس کاری از جمله‌های ساده مثل Ik stuur een e-mail و Ik bel later terug استفاده می‌کنیم.",
+    "extra_example_nl": "Ik stuur u straks een e-mail.",
+    "extra_example_fa": "بعداً برای شما ایمیل می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben bezig met de lijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای توضیح کاری که در حال انجام است است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "De klant heeft gebeld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik maak dit af.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه این کار را تمام می‌کنی است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben klaar.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تمام شدن کار است، نه صحبت درباره ایمیل، پیام یا تماس کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "choosing_best_work_dialogue_response",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Kunt u mij helpen? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "A می‌گوید: می‌توانید کمکم کنید؟ بهترین پاسخ B چیست؟",
+    "explanation_fa": "وقتی کسی کمک می‌خواهد، پاسخ مناسب می‌تواند پذیرش و پرسیدن مشکل باشد.",
+    "dialogue_rule_fa": "در مکالمه کاری باید پاسخ دقیقاً به سؤال یا جمله قبل مربوط باشد.",
+    "extra_example_nl": "A: Kunt u mij helpen? B: Ja, natuurlijk.",
+    "extra_example_fa": "الف: می‌توانید کمکم کنید؟ ب: بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergadering begint om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن زمان شروع جلسه است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vergadering is online.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن آنلاین بودن جلسه است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, natuurlijk. Wat is het probleem?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat begin ik?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن ساعت شروع کار است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "choosing_best_work_dialogue_response",
+    "life_context": "meeting",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Hoe laat is de vergadering? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "A می‌پرسد جلسه چه ساعتی است. بهترین پاسخ B چیست؟",
+    "explanation_fa": "وقتی سؤال با Hoe laat است، جواب باید زمان باشد.",
+    "dialogue_rule_fa": "در مکالمه کاری باید پاسخ دقیقاً به سؤال یا جمله قبل مربوط باشد.",
+    "extra_example_nl": "A: Kunt u mij helpen? B: Ja, natuurlijk.",
+    "extra_example_fa": "الف: می‌توانید کمکم کنید؟ ب: بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer is de pauze?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان استراحت است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is mijn bureau?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل میز کار است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de printer?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل پرینتر است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om tien uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "choosing_best_work_dialogue_response",
+    "life_context": "daily_work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Ben je klaar met je taak? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "A می‌پرسد آیا وظیفه‌ات را تمام کرده‌ای. بهترین پاسخ B چیست؟",
+    "explanation_fa": "برای پاسخ به سؤال آیا کارت تمام شده، باید وضعیت کار را بگویی.",
+    "dialogue_rule_fa": "در مکالمه کاری باید پاسخ دقیقاً به سؤال یا جمله قبل مربوط باشد.",
+    "extra_example_nl": "A: Kunt u mij helpen? B: Ja, natuurlijk.",
+    "extra_example_fa": "الف: می‌توانید کمکم کنید؟ ب: بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, ik ben klaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn computer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کامپیوتر است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan niet inloggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل ورود به سیستم است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "De printer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل پرینتر است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "choosing_best_work_dialogue_response",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Waar is de printer? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "A می‌پرسد پرینتر کجاست. بهترین پاسخ B چیست؟",
+    "explanation_fa": "وقتی کسی با Waar می‌پرسد، جواب باید مکان باشد.",
+    "dialogue_rule_fa": "در مکالمه کاری باید پاسخ دقیقاً به سؤال یا جمله قبل مربوط باشد.",
+    "extra_example_nl": "A: Kunt u mij helpen? B: Ja, natuurlijk.",
+    "extra_example_fa": "الف: می‌توانید کمکم کنید؟ ب: بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik bel de klant.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن تماس با مشتری است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Naast het bureau.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij terugbellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تماس دوباره است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een bericht gestuurd.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ارسال پیام کاری است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "choosing_best_work_dialogue_response",
+    "life_context": "customer",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Kun je de klant bellen? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "A می‌پرسد می‌توانی با مشتری تماس بگیری؟ بهترین پاسخ B چیست؟",
+    "explanation_fa": "برای پاسخ مثبت به درخواست تماس، باید بگویی که تماس می‌گیری.",
+    "dialogue_rule_fa": "در مکالمه کاری باید پاسخ دقیقاً به سؤال یا جمله قبل مربوط باشد.",
+    "extra_example_nl": "A: Kunt u mij helpen? B: Ja, natuurlijk.",
+    "extra_example_fa": "الف: می‌توانید کمکم کنید؟ ب: بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Fijn weekend!",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی آخر هفته با همکار است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot morgen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای خداحافظی وقتی فردا دوباره همدیگر را می‌بینید است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, ik bel de klant straks.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben nieuw hier.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی خود به‌عنوان فرد جدید است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "choosing_best_work_dialogue_response",
+    "life_context": "computer",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Ik kan niet inloggen. B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "A می‌گوید نمی‌تواند وارد سیستم شود. بهترین پاسخ B چیست؟",
+    "explanation_fa": "وقتی همکار مشکل ورود دارد، Ik kijk even mee یعنی نگاه می‌کنم و کمک می‌کنم.",
+    "dialogue_rule_fa": "در مکالمه کاری باید پاسخ دقیقاً به سؤال یا جمله قبل مربوط باشد.",
+    "extra_example_nl": "A: Kunt u mij helpen? B: Ja, natuurlijk.",
+    "extra_example_fa": "الف: می‌توانید کمکم کنید؟ ب: بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk op de afdeling verkoop.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن بخش کاری است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun je mij helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همکار است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست وقت از مدیر یا فرد رسمی است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kijk even mee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "choosing_best_work_dialogue_response",
+    "life_context": "break",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wanneer is de pauze? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "A می‌پرسد استراحت چه زمانی است. بهترین پاسخ B چیست؟",
+    "explanation_fa": "وقتی درباره زمان استراحت می‌پرسند، پاسخ باید زمان باشد.",
+    "dialogue_rule_fa": "در مکالمه کاری باید پاسخ دقیقاً به سؤال یا جمله قبل مربوط باشد.",
+    "extra_example_nl": "A: Kunt u mij helpen? B: Ja, natuurlijk.",
+    "extra_example_fa": "الف: می‌توانید کمکم کنید؟ ب: بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om half twaalf.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat moet ik doen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن وظیفه کاری است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben bezig met de lijst.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای توضیح کاری که در حال انجام است است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik maak dit af.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن اینکه این کار را تمام می‌کنی است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "choosing_best_work_dialogue_response",
+    "life_context": "email",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Heeft u mijn e-mail gezien? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "A می‌پرسد آیا ایمیل من را دیده‌اید. بهترین پاسخ B چیست؟",
+    "explanation_fa": "برای پاسخ به سؤال درباره ایمیل، باید مستقیم درباره دیدن ایمیل جواب بدهی.",
+    "dialogue_rule_fa": "در مکالمه کاری باید پاسخ دقیقاً به سؤال یا جمله قبل مربوط باشد.",
+    "extra_example_nl": "A: Kunt u mij helpen? B: Ja, natuurlijk.",
+    "extra_example_fa": "الف: می‌توانید کمکم کنید؟ ب: بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is de vergadering?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل جلسه است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, ik heb uw e-mail gezien.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vergadering begint om tien uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن زمان شروع جلسه است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergadering is online.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن آنلاین بودن جلسه است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "choosing_best_work_dialogue_response",
+    "life_context": "manager",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wat is mijn taak vandaag? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "A می‌پرسد وظیفه امروز من چیست. بهترین پاسخ B چیست؟",
+    "explanation_fa": "وقتی کسی وظیفه‌اش را می‌پرسد، پاسخ باید کار مشخص را بگوید.",
+    "dialogue_rule_fa": "در مکالمه کاری باید پاسخ دقیقاً به سؤال یا جمله قبل مربوط باشد.",
+    "extra_example_nl": "A: Kunt u mij helpen? B: Ja, natuurlijk.",
+    "extra_example_fa": "الف: می‌توانید کمکم کنید؟ ب: بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik begin om negen uur.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن ساعت شروع کار است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer is de pauze?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن زمان استراحت است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je maakt eerst dit document af.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is mijn bureau?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن محل میز کار است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "work",
+    "subtopic": "choosing_best_work_dialogue_response",
+    "life_context": "colleague",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Tot morgen! B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "A می‌گوید تا فردا! بهترین پاسخ B چیست؟",
+    "explanation_fa": "وقتی کسی خداحافظی می‌کند، پاسخ طبیعی هم خداحافظی و آرزوی خوب است.",
+    "dialogue_rule_fa": "در مکالمه کاری باید پاسخ دقیقاً به سؤال یا جمله قبل مربوط باشد.",
+    "extra_example_nl": "A: Kunt u mij helpen? B: Ja, natuurlijk.",
+    "extra_example_fa": "الف: می‌توانید کمکم کنید؟ ب: بله، حتماً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een pen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست خودکار در محل کار است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn computer werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل کامپیوتر است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan niet inloggen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گفتن مشکل ورود به سیستم است، نه انتخاب بهترین پاسخ در مکالمه کاری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tot morgen, fijne avond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این موقعیت کاری بهترین پاسخ است."
+      }
+    ]
+  }
+]

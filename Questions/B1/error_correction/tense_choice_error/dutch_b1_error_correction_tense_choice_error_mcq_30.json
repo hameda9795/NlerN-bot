@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_state_imperfectum",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Toen ik klein was, kande ik goed zwemmen.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "«kunnen» فعلِ نامنظم است: ik/hij kon، wij/jullie/zij konden. با «was» باید گذشته‌ی ساده «kon» بیاید.",
+    "correction_rule_fa": "شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد.",
+    "extra_example_nl": "Toen hij klein was, kon hij niet fietsen.",
+    "extra_example_fa": "وقتی او کوچک بود، نمی‌توانست دوچرخه‌سواری کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen ik klein was, kon ik goed zwemmen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen ik klein was, kande ik goed zwemmen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen ik klein was, kan ik goed zwemmen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen ik klein was, heb ik goed kunnen zwemmen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون جمله با «toen» و فعلِ گذشته‌ی سادهٔ «was/waren» شروع شده، فعلِ دوم هم باید گذشته‌ی ساده (imperfectum) باشد، نه زمانِ کامل (perfectum)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_state_imperfectum",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Toen hij op school zat, moette hij veel huiswerk maken.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "«moeten» فعلِ نامنظم است: ik/hij moest، wij/jullie/zij moesten. با «zat» باید گذشته‌ی ساده «moest» بیاید.",
+    "correction_rule_fa": "شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد.",
+    "extra_example_nl": "Toen zij op de universiteit zat, moest zij veel lezen.",
+    "extra_example_fa": "وقتی او دانشجو بود، باید زیاد می‌خواند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen hij op school zat, moette hij veel huiswerk maken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen hij op school zat, moest hij veel huiswerk maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen hij op school zat, moet hij veel huiswerk maken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen hij op school zat, heeft hij veel huiswerk moeten maken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون جمله با «toen» و فعلِ گذشته‌ی سادهٔ «was/waren» شروع شده، فعلِ دوم هم باید گذشته‌ی ساده (imperfectum) باشد، نه زمانِ کامل (perfectum)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_state_imperfectum",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Toen wij jong waren, mogden wij laat opblijven.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "«mogen» فعلِ نامنظم است: ik/hij mocht، wij/jullie/zij mochten. با «waren» باید گذشته‌ی ساده «mochten» بیاید.",
+    "correction_rule_fa": "شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد.",
+    "extra_example_nl": "Toen zij klein waren, mochten zij geen snoep eten.",
+    "extra_example_fa": "وقتی آن‌ها کوچک بودند، اجازه نداشتند آب‌نبات بخورند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen wij jong waren, mogden wij laat opblijven.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen wij jong waren, mogen wij laat opblijven.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen wij jong waren, mochten wij laat opblijven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen wij jong waren, hebben wij laat mogen opblijven.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون جمله با «toen» و فعلِ گذشته‌ی سادهٔ «was/waren» شروع شده، فعلِ دوم هم باید گذشته‌ی ساده (imperfectum) باشد، نه زمانِ کامل (perfectum)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_state_imperfectum",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Toen zij in Utrecht woonde, weette zij alles over de stad.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "«weten» فعلِ نامنظم است: ik/zij wist، wij/jullie/zij wisten. با «woonde» باید گذشته‌ی ساده «wist» بیاید.",
+    "correction_rule_fa": "شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد.",
+    "extra_example_nl": "Toen hij hier werkte, wist hij alles over de klanten.",
+    "extra_example_fa": "وقتی او اینجا کار می‌کرد، همه‌چیز را درباره‌ی مشتری‌ها می‌دانست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen zij in Utrecht woonde, weette zij alles over de stad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen zij in Utrecht woonde, weet zij alles over de stad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen zij in Utrecht woonde, heeft zij alles over de stad geweten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون جمله با «toen» و فعلِ گذشته‌ی سادهٔ «was/waren» شروع شده، فعلِ دوم هم باید گذشته‌ی ساده (imperfectum) باشد، نه زمانِ کامل (perfectum)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen zij in Utrecht woonde, wist zij alles over de stad.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_state_imperfectum",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Toen hij nog werkte, gaande hij elke dag met de trein.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "«gaan» فعلِ نامنظم است: ik/hij ging، wij/jullie/zij gingen. با «werkte» باید گذشته‌ی ساده «ging» بیاید.",
+    "correction_rule_fa": "شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد.",
+    "extra_example_nl": "Toen zij nog studeerde, ging zij elke dag naar de bibliotheek.",
+    "extra_example_fa": "وقتی او هنوز دانشجو بود، هر روز به کتابخانه می‌رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen hij nog werkte, ging hij elke dag met de trein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen hij nog werkte, gaande hij elke dag met de trein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen hij nog werkte, gaat hij elke dag met de trein.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen hij nog werkte, is hij elke dag met de trein gegaan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون جمله با «toen» و فعلِ گذشته‌ی سادهٔ «was/waren» شروع شده، فعلِ دوم هم باید گذشته‌ی ساده (imperfectum) باشد، نه زمانِ کامل (perfectum)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_state_imperfectum",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Toen de kinderen klein waren, komden de grootouders elke week op bezoek.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "«komen» فعلِ نامنظم است: ik/hij kwam، wij/jullie/zij kwamen. با «waren» باید گذشته‌ی ساده «kwamen» بیاید.",
+    "correction_rule_fa": "شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد.",
+    "extra_example_nl": "Toen wij klein waren, kwam onze oma vaak langs.",
+    "extra_example_fa": "وقتی ما کوچک بودیم، مادربزرگمان زیاد به دیدنمان می‌آمد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen de kinderen klein waren, komden de grootouders elke week op bezoek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen de kinderen klein waren, kwamen de grootouders elke week op bezoek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen de kinderen klein waren, komen de grootouders elke week op bezoek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen de kinderen klein waren, zijn de grootouders elke week op bezoek gekomen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون جمله با «toen» و فعلِ گذشته‌ی سادهٔ «was/waren» شروع شده، فعلِ دوم هم باید گذشته‌ی ساده (imperfectum) باشد، نه زمانِ کامل (perfectum)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_state_imperfectum",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Toen ik in Spanje woonde, zeide ik altijd 'hola' tegen iedereen.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "«zeggen» فعلِ نامنظم است: ik/hij zei، wij/jullie/zij zeiden. با «woonde» باید گذشته‌ی ساده «zei» بیاید.",
+    "correction_rule_fa": "شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد.",
+    "extra_example_nl": "Toen hij in Duitsland woonde, zei hij altijd 'hallo'.",
+    "extra_example_fa": "وقتی او در آلمان زندگی می‌کرد، همیشه «hallo» می‌گفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen ik in Spanje woonde, zeide ik altijd 'hola' tegen iedereen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen ik in Spanje woonde, zeg ik altijd 'hola' tegen iedereen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen ik in Spanje woonde, zei ik altijd 'hola' tegen iedereen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen ik in Spanje woonde, heb ik altijd 'hola' tegen iedereen gezegd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون جمله با «toen» و فعلِ گذشته‌ی سادهٔ «was/waren» شروع شده، فعلِ دوم هم باید گذشته‌ی ساده (imperfectum) باشد، نه زمانِ کامل (perfectum)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_state_imperfectum",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Toen hij nog studeerde, denkte hij vaak aan zijn toekomst.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "«denken» فعلِ نامنظم است: ik/hij dacht، wij/jullie/zij dachten. با «studeerde» باید گذشته‌ی ساده «dacht» بیاید.",
+    "correction_rule_fa": "شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد.",
+    "extra_example_nl": "Toen zij nog jong was, dacht zij nooit aan geld.",
+    "extra_example_fa": "وقتی او هنوز جوان بود، هرگز به پول فکر نمی‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen hij nog studeerde, denkte hij vaak aan zijn toekomst.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen hij nog studeerde, denkt hij vaak aan zijn toekomst.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen hij nog studeerde, heeft hij vaak aan zijn toekomst gedacht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون جمله با «toen» و فعلِ گذشته‌ی سادهٔ «was/waren» شروع شده، فعلِ دوم هم باید گذشته‌ی ساده (imperfectum) باشد، نه زمانِ کامل (perfectum)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen hij nog studeerde, dacht hij vaak aan zijn toekomst.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_state_imperfectum",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Toen zij nog klein was, hadde zij altijd honger na school.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "«hebben» فعلِ نامنظم است: ik/zij had، wij/jullie/zij hadden. با «was» باید گذشته‌ی ساده «had» بیاید.",
+    "correction_rule_fa": "شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد.",
+    "extra_example_nl": "Toen hij nog klein was, had hij altijd dorst na het spelen.",
+    "extra_example_fa": "وقتی او هنوز کوچک بود، بعد از بازی همیشه تشنه‌اش می‌شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen zij nog klein was, had zij altijd honger na school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen zij nog klein was, hadde zij altijd honger na school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen zij nog klein was, heeft zij altijd honger na school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen zij nog klein was, heeft zij altijd honger na school gehad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون جمله با «toen» و فعلِ گذشته‌ی سادهٔ «was/waren» شروع شده، فعلِ دوم هم باید گذشته‌ی ساده (imperfectum) باشد، نه زمانِ کامل (perfectum)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_state_imperfectum",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Toen wij in dat huis woonden, weren de buren heel aardig.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "«zijn» فعلِ نامنظم است: ik was، wij/jullie/zij waren. با «woonden» باید گذشته‌ی ساده «waren» بیاید.",
+    "correction_rule_fa": "شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد.",
+    "extra_example_nl": "Toen zij in die straat woonden, waren de winkels dichtbij.",
+    "extra_example_fa": "وقتی آن‌ها در آن خیابان زندگی می‌کردند، مغازه‌ها نزدیک بودند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen wij in dat huis woonden, weren de buren heel aardig.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen wij in dat huis woonden, waren de buren heel aardig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen wij in dat huis woonden, zijn de buren heel aardig.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen wij in dat huis woonden, zijn de buren heel aardig geweest.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون جمله با «toen» و فعلِ گذشته‌ی سادهٔ «was/waren» شروع شده، فعلِ دوم هم باید گذشته‌ی ساده (imperfectum) باشد، نه زمانِ کامل (perfectum)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_narrative_imperfectum",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Toen ik gisteren thuiskwam, heb ik een pakket voor de deur gezien.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "در روایتِ یک اتفاقِ مشخصِ گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد: «zag» (نه zie/heb gezien).",
+    "correction_rule_fa": "در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل.",
+    "extra_example_nl": "Toen zij gisteren aankwam, zag zij meteen haar vriendin.",
+    "extra_example_fa": "وقتی او دیروز رسید، فوراً دوستش را دید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen ik gisteren thuiskwam, heb ik een pakket voor de deur gezien.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen ik gisteren thuiskwam, zie ik een pakket voor de deur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen ik gisteren thuiskwam, zag ik een pakket voor de deur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen ik gisteren thuiskwam, zagde ik een pakket voor de deur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_narrative_imperfectum",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Toen de trein vertrok, heeft hij nog snel het perron op gerend.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "در روایتِ یک اتفاقِ مشخصِ گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد: «rende» (نه rent/heeft gerend).",
+    "correction_rule_fa": "در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل.",
+    "extra_example_nl": "Toen de bus wegreed, zwaaide zij nog even.",
+    "extra_example_fa": "وقتی اتوبوس حرکت کرد، او هنوز کمی دست تکان داد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen de trein vertrok, heeft hij nog snel het perron op gerend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen de trein vertrok, rent hij nog snel het perron op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen de trein vertrok, rande hij nog snel het perron op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen de trein vertrok, rende hij nog snel het perron op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_narrative_imperfectum",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Toen het begon te regenen, hebben wij snel een paraplu gepakt.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "در روایتِ یک اتفاقِ مشخصِ گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد: «pakten» (نه pakken/hebben gepakt).",
+    "correction_rule_fa": "در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل.",
+    "extra_example_nl": "Toen de zon scheen, gingen wij meteen naar buiten.",
+    "extra_example_fa": "وقتی خورشید درخشید، فوراً بیرون رفتیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen het begon te regenen, pakten wij snel een paraplu.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen het begon te regenen, hebben wij snel een paraplu gepakt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen het begon te regenen, pakken wij snel een paraplu.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen het begon te regenen, pakkten wij snel een paraplu.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_narrative_imperfectum",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Toen de gasten aankwamen, heeft zij meteen de deur geopend.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "در روایتِ یک اتفاقِ مشخصِ گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد: «opende» (نه opent/heeft geopend).",
+    "correction_rule_fa": "در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل.",
+    "extra_example_nl": "Toen de buren belden, opende hij meteen de deur.",
+    "extra_example_fa": "وقتی همسایه‌ها زنگ زدند، او فوراً در را باز کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen de gasten aankwamen, heeft zij meteen de deur geopend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen de gasten aankwamen, opende zij meteen de deur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen de gasten aankwamen, opent zij meteen de deur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen de gasten aankwamen, opande zij meteen de deur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_narrative_imperfectum",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Toen het alarm afging, heeft iedereen snel het gebouw verlaten.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "در روایتِ یک اتفاقِ مشخصِ گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد: «verliet» (نه verlaat/heeft verlaten).",
+    "correction_rule_fa": "در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل.",
+    "extra_example_nl": "Toen de brand begon, verlieten de mensen meteen het pand.",
+    "extra_example_fa": "وقتی آتش‌سوزی شروع شد، مردم فوراً ساختمان را ترک کردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen het alarm afging, heeft iedereen snel het gebouw verlaten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen het alarm afging, verlaat iedereen snel het gebouw.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen het alarm afging, verliet iedereen snel het gebouw.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen het alarm afging, verliette iedereen snel het gebouw.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_narrative_imperfectum",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Toen de film begon, is de zaal helemaal donker geworden.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "در روایتِ یک اتفاقِ مشخصِ گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد: «werd» (نه wordt/is geworden).",
+    "correction_rule_fa": "در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل.",
+    "extra_example_nl": "Toen de muziek stopte, werd het stil in de zaal.",
+    "extra_example_fa": "وقتی موسیقی متوقف شد، سالن ساکت شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen de film begon, is de zaal helemaal donker geworden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen de film begon, wordt de zaal helemaal donker.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen de film begon, werdde de zaal helemaal donker.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen de film begon, werd de zaal helemaal donker.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_narrative_imperfectum",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Toen ik het nieuws hoorde, ben ik enorm geschrokken.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "در روایتِ یک اتفاقِ مشخصِ گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد: «schrok» (نه schrik/ben geschrokken).",
+    "correction_rule_fa": "در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل.",
+    "extra_example_nl": "Toen zij het resultaat zag, schrok zij even.",
+    "extra_example_fa": "وقتی او نتیجه را دید، کمی جا خورد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen ik het nieuws hoorde, schrok ik enorm.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen ik het nieuws hoorde, ben ik enorm geschrokken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen ik het nieuws hoorde, schrik ik enorm.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen ik het nieuws hoorde, schrokte ik enorm.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_narrative_imperfectum",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Toen de dokter binnenkwam, is de patiënt meteen opgestaan.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "در روایتِ یک اتفاقِ مشخصِ گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد: «stond» (نه staat/is opgestaan).",
+    "correction_rule_fa": "در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل.",
+    "extra_example_nl": "Toen de verpleegkundige riep, stond hij meteen op.",
+    "extra_example_fa": "وقتی پرستار صدا زد، او فوراً بلند شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen de dokter binnenkwam, is de patiënt meteen opgestaan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen de dokter binnenkwam, stond de patiënt meteen op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen de dokter binnenkwam, staat de patiënt meteen op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen de dokter binnenkwam, stondde de patiënt meteen op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_narrative_imperfectum",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Toen wij bij het meer aankwamen, hebben de kinderen meteen gezwommen.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "در روایتِ یک اتفاقِ مشخصِ گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد: «zwommen» (نه zwemmen/hebben gezwommen).",
+    "correction_rule_fa": "در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل.",
+    "extra_example_nl": "Toen zij bij de zee aankwamen, speelden de kinderen meteen in het zand.",
+    "extra_example_fa": "وقتی به دریا رسیدند، بچه‌ها فوراً در شن بازی کردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen wij bij het meer aankwamen, hebben de kinderen meteen gezwommen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen wij bij het meer aankwamen, zwemmen de kinderen meteen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen wij bij het meer aankwamen, zwommen de kinderen meteen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen wij bij het meer aankwamen, zwomden de kinderen meteen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "toen_narrative_imperfectum",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Toen de winkel openging, hebben er al veel klanten staan wachten.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "در روایتِ یک اتفاقِ مشخصِ گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد: «stonden» (نه staan/hebben staan wachten).",
+    "correction_rule_fa": "در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل.",
+    "extra_example_nl": "Toen het museum openging, stonden er al mensen in de rij.",
+    "extra_example_fa": "وقتی موزه باز شد، از قبل مردم در صف بودند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen de winkel openging, hebben er al veel klanten staan wachten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen de winkel openging, staan er al veel klanten te wachten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen de winkel openging, stondden er al veel klanten te wachten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکلِ گذشته‌ی سادهٔ نامنظمِ این فعل درست نوشته نشده؛ این فعل یک شکلِ نامنظمِ ثابت دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen de winkel openging, stonden er al veel klanten te wachten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در روایتِ یک اتفاقِ مشخص در گذشته با «toen»، فعلِ جمله‌ی اصلی هم باید گذشته‌ی ساده باشد، نه زمانِ کامل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "al_net_ooit_perfectum",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik las dat boek al.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "با قیدِ «al» که به نتیجه‌ی تا الان اشاره دارد، از زمانِ کامل استفاده می‌شود: «heb … gelezen».",
+    "correction_rule_fa": "با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده.",
+    "extra_example_nl": "Zij heeft dat artikel al gelezen.",
+    "extra_example_fa": "او آن مقاله را قبلاً خوانده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb dat boek al gelezen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik las dat boek al.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik lees dat boek al.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb dat boek al gelezt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قسمتِ سومِ این فعل (voltooid deelwoord) درست نوشته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "al_net_ooit_perfectum",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij zag die film al.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "با قیدِ «al» که به نتیجه‌ی تا الان اشاره دارد، از زمانِ کامل استفاده می‌شود: «heeft … gezien».",
+    "correction_rule_fa": "با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده.",
+    "extra_example_nl": "Hij heeft dat programma al gezien.",
+    "extra_example_fa": "او آن برنامه را قبلاً دیده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij zag die film al.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij heeft die film al gezien.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij ziet die film al.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij heeft die film al gezienen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قسمتِ سومِ این فعل (voltooid deelwoord) درست نوشته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "wrong_aux_zijn_hebben",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Was je ooit in Japan?",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "با قیدِ «ooit» که به تجربه‌ی تا الان اشاره دارد، از زمانِ کامل استفاده می‌شود؛ فعلِ «zijn» با «ben … geweest» صرف می‌شود، نه «heb».",
+    "correction_rule_fa": "با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده.",
+    "extra_example_nl": "Is hij ooit in Canada geweest?",
+    "extra_example_fa": "آیا او تا حالا به کانادا رفته است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Was je ooit in Japan?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ben je ooit in Japan?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ben je ooit in Japan geweest?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heb je ooit in Japan geweest?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: افعالِ حرکتی یا تغییرِ حالت (مثلِ این فعل) در زمانِ کامل با «zijn» صرف می‌شوند، نه «hebben»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "al_net_ooit_perfectum",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij maakten nog nooit zoiets mee.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "با عبارتِ «nog nooit» که به تجربه‌ی تا الان اشاره دارد، از زمانِ کامل استفاده می‌شود: «hebben … meegemaakt».",
+    "correction_rule_fa": "با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده.",
+    "extra_example_nl": "Zij heeft nog nooit zo'n groot huis gezien.",
+    "extra_example_fa": "او تا حالا چنین خانه‌ی بزرگی ندیده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij maakten nog nooit zoiets mee.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij maken nog nooit zoiets mee.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben nog nooit zoiets meegemaken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قسمتِ سومِ این فعل (voltooid deelwoord) درست نوشته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben nog nooit zoiets meegemaakt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "al_net_ooit_perfectum",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij haalde net zijn rijbewijs.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "با قیدِ «net» که به کاری اشاره دارد که همین‌الان تمام شده، از زمانِ کامل استفاده می‌شود: «heeft … gehaald».",
+    "correction_rule_fa": "با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده.",
+    "extra_example_nl": "Zij heeft net haar examen gehaald.",
+    "extra_example_fa": "او همین الان امتحانش را قبول شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft net zijn rijbewijs gehaald.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij haalde net zijn rijbewijs.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij haalt net zijn rijbewijs.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij heeft net zijn rijbewijs gehaalt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قسمتِ سومِ این فعل (voltooid deelwoord) درست نوشته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "al_net_ooit_perfectum",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik belde al twee keer, maar niemand nam op.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "با قیدِ «al» که به تکرارِ تا الان اشاره دارد، از زمانِ کامل استفاده می‌شود: «heb … gebeld».",
+    "correction_rule_fa": "با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده.",
+    "extra_example_nl": "Zij heeft al drie keer gemaild, maar geen reactie gekregen.",
+    "extra_example_fa": "او سه بار ایمیل زده اما پاسخی نگرفته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik belde al twee keer, maar niemand nam op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb al twee keer gebeld, maar niemand nam op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bel al twee keer, maar niemand nam op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb al twee keer gebelt, maar niemand nam op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قسمتِ سومِ این فعل (voltooid deelwoord) درست نوشته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "wrong_aux_zijn_hebben",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij vloog nog nooit naar Amerika.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "فعلِ «vliegen» با مقصدِ مشخص، فعلِ حرکتی است و در زمانِ کامل با «zijn» صرف می‌شود: «is … gevlogen»، نه «heeft».",
+    "correction_rule_fa": "افعالِ حرکتی یا تغییرِ حالت (مثلِ این فعل) در زمانِ کامل با «zijn» صرف می‌شوند، نه «hebben».",
+    "extra_example_nl": "Hij is nog nooit naar Australië gereisd.",
+    "extra_example_fa": "او تا حالا به استرالیا سفر نکرده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij vloog nog nooit naar Amerika.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij vliegt nog nooit naar Amerika.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij is nog nooit naar Amerika gevlogen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. افعالِ حرکتی یا تغییرِ حالت (مثلِ این فعل) در زمانِ کامل با «zijn» صرف می‌شوند، نه «hebben»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij heeft nog nooit naar Amerika gevlogen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: افعالِ حرکتی یا تغییرِ حالت (مثلِ این فعل) در زمانِ کامل با «zijn» صرف می‌شوند، نه «hebben»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "al_net_ooit_perfectum",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij losten het probleem al op.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "با قیدِ «al» که به نتیجه‌ی تا الان اشاره دارد، از زمانِ کامل استفاده می‌شود: «hebben … opgelost».",
+    "correction_rule_fa": "با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده.",
+    "extra_example_nl": "Zij heeft de fout al opgelost.",
+    "extra_example_fa": "او آن اشتباه را قبلاً برطرف کرده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij losten het probleem al op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij lossen het probleem al op.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben het probleem al opgelosd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قسمتِ سومِ این فعل (voltooid deelwoord) درست نوشته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben het probleem al opgelost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "wrong_aux_zijn_hebben",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij kwam pas net aan op het station.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "فعلِ «aankomen» فعلِ حرکتی است و در زمانِ کامل با «zijn» صرف می‌شود: «is … aangekomen»، نه «heeft».",
+    "correction_rule_fa": "افعالِ حرکتی یا تغییرِ حالت (مثلِ این فعل) در زمانِ کامل با «zijn» صرف می‌شوند، نه «hebben».",
+    "extra_example_nl": "Zij is net aangekomen op het vliegveld.",
+    "extra_example_fa": "او همین الان به فرودگاه رسیده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is pas net aangekomen op het station.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. افعالِ حرکتی یا تغییرِ حالت (مثلِ این فعل) در زمانِ کامل با «zijn» صرف می‌شوند، نه «hebben»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij kwam pas net aan op het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij komt pas net aan op het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij heeft pas net aangekomen op het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: افعالِ حرکتی یا تغییرِ حالت (مثلِ این فعل) در زمانِ کامل با «zijn» صرف می‌شوند، نه «hebben»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "tense_choice_error",
+    "subtopic": "al_net_ooit_perfectum",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik lachte nog nooit zo hard.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "با عبارتِ «nog nooit» که به تجربه‌ی تا الان اشاره دارد، از زمانِ کامل استفاده می‌شود: «heb … gelachen».",
+    "correction_rule_fa": "با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده.",
+    "extra_example_nl": "Zij heeft nog nooit zo veel gehuild.",
+    "extra_example_fa": "او تا حالا اینقدر گریه نکرده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik lachte nog nooit zo hard.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb nog nooit zo hard gelachen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با قیدهایی مثل «al/net/ooit/nog nooit» که به تجربه یا نتیجه‌ی تا الان اشاره دارند، باید از زمانِ کامل (perfectum) استفاده شود، نه گذشته‌ی ساده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik lach nog nooit zo hard.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ کاری که در گذشته اتفاق افتاده یا تمام شده، نمی‌توان از زمانِ حال استفاده کرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb nog nooit zo hard gelacht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قسمتِ سومِ این فعل (voltooid deelwoord) درست نوشته نشده."
+      }
+    ]
+  }
+]

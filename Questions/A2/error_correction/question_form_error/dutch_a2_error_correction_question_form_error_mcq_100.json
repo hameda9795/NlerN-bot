@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "yes_no_question_inversion",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij woont in Utrecht?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Woon jij in Utrecht?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل.",
+    "extra_example_nl": "Kom je morgen?",
+    "extra_example_fa": "آیا فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Woon jij in Utrecht?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij woont in Utrecht?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "In Utrecht jij woont?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij in Utrecht woont?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "yes_no_question_inversion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij werkt vandaag?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Werk jij vandaag?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل.",
+    "extra_example_nl": "Kom je morgen?",
+    "extra_example_fa": "آیا فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij werkt vandaag?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Werk jij vandaag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag jij werkt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij vandaag werkt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "yes_no_question_inversion",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je komt morgen?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Kom je morgen?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل.",
+    "extra_example_nl": "Kom je morgen?",
+    "extra_example_fa": "آیا فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je komt morgen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen je komt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kom je morgen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je morgen komt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "yes_no_question_inversion",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je gaat naar school?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Ga je naar school?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل.",
+    "extra_example_nl": "Kom je morgen?",
+    "extra_example_fa": "آیا فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je gaat naar school?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Naar school je gaat?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je naar school gaat?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ga je naar school?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "yes_no_question_inversion",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je hebt tijd?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Heb je tijd?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل.",
+    "extra_example_nl": "Kom je morgen?",
+    "extra_example_fa": "آیا فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heb je tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je hebt tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tijd je hebt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je tijd hebt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "yes_no_question_inversion",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je bent thuis?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Ben je thuis?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل.",
+    "extra_example_nl": "Kom je morgen?",
+    "extra_example_fa": "آیا فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je bent thuis?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ben je thuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Thuis je bent?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je thuis bent?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "yes_no_question_inversion",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je drinkt koffie?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Drink je koffie?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل.",
+    "extra_example_nl": "Kom je morgen?",
+    "extra_example_fa": "آیا فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je drinkt koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Koffie je drinkt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Drink je koffie?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je koffie drinkt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "yes_no_question_inversion",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je betaalt nu?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Betaal je nu?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل.",
+    "extra_example_nl": "Kom je morgen?",
+    "extra_example_fa": "آیا فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je betaalt nu?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nu je betaalt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je nu betaalt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Betaal je nu?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "yes_no_question_inversion",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je belt straks?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Bel je straks?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل.",
+    "extra_example_nl": "Kom je morgen?",
+    "extra_example_fa": "آیا فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bel je straks?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je belt straks?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Straks je belt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je straks belt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "yes_no_question_inversion",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je speelt buiten?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Speel je buiten?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل.",
+    "extra_example_nl": "Kom je morgen?",
+    "extra_example_fa": "آیا فردا می‌آیی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je speelt buiten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Speel je buiten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل اول می‌آید و بعد فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Buiten je speelt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je buiten speelt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_words_basic",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Waar je woont?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Waar woon je?» است.",
+    "correction_rule_fa": "بعد از question word، فعل در جای دوم می‌آید.",
+    "extra_example_nl": "Wat doe je?",
+    "extra_example_fa": "چه کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar je woont?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je woont waar?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar woon je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از question word، فعل در جای دوم می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar jij woont?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_words_basic",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wat jij doet?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Wat doe jij?» است.",
+    "correction_rule_fa": "بعد از question word، فعل در جای دوم می‌آید.",
+    "extra_example_nl": "Wat doe je?",
+    "extra_example_fa": "چه کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat jij doet?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij doet wat?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat jij doen?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat doe jij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از question word، فعل در جای دوم می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_words_basic",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wanneer je komt?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Wanneer kom je?» است.",
+    "correction_rule_fa": "بعد از question word، فعل در جای دوم می‌آید.",
+    "extra_example_nl": "Wat doe je?",
+    "extra_example_fa": "چه کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer kom je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از question word، فعل در جای دوم می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer je komt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je komt wanneer?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer jij komt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_words_basic",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Waarom jij belt?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Waarom bel jij?» است.",
+    "correction_rule_fa": "بعد از question word، فعل در جای دوم می‌آید.",
+    "extra_example_nl": "Wat doe je?",
+    "extra_example_fa": "چه کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waarom jij belt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waarom bel jij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از question word، فعل در جای دوم می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij belt waarom?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waarom jij bellen?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_words_basic",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoe je heet?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Hoe heet je?» است.",
+    "correction_rule_fa": "بعد از question word، فعل در جای دوم می‌آید.",
+    "extra_example_nl": "Wat doe je?",
+    "extra_example_fa": "چه کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe je heet?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je heet hoe?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از question word، فعل در جای دوم می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe jij heet?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_words_basic",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoeveel het kost?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Hoeveel kost het?» است.",
+    "correction_rule_fa": "بعد از question word، فعل در جای دوم می‌آید.",
+    "extra_example_nl": "Wat doe je?",
+    "extra_example_fa": "چه کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoeveel het kost?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het kost hoeveel?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel het kosten?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoeveel kost het?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از question word، فعل در جای دوم می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_words_basic",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wie je bent?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Wie ben je?» است.",
+    "correction_rule_fa": "بعد از question word، فعل در جای دوم می‌آید.",
+    "extra_example_nl": "Wat doe je?",
+    "extra_example_fa": "چه کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wie ben je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از question word، فعل در جای دوم می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wie je bent?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je bent wie?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wie jij bent?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_words_basic",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Waar de winkel is?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Waar is de winkel?» است.",
+    "correction_rule_fa": "بعد از question word، فعل در جای دوم می‌آید.",
+    "extra_example_nl": "Wat doe je?",
+    "extra_example_fa": "چه کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar de winkel is?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de winkel?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از question word، فعل در جای دوم می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De winkel is waar?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar is winkel de?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_words_basic",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wat je eet?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Wat eet je?» است.",
+    "correction_rule_fa": "بعد از question word، فعل در جای دوم می‌آید.",
+    "extra_example_nl": "Wat doe je?",
+    "extra_example_fa": "چه کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat je eet?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je eet wat?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat eet je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از question word، فعل در جای دوم می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat jij eet?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_words_basic",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Waarom de bus stopt?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Waarom stopt de bus?» است.",
+    "correction_rule_fa": "بعد از question word، فعل در جای دوم می‌آید.",
+    "extra_example_nl": "Wat doe je?",
+    "extra_example_fa": "چه کار می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waarom de bus stopt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus stopt waarom?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waarom bus de stopt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waarom stopt de bus?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از question word، فعل در جای دوم می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_word_order",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wat jij eet?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Wat eet jij?» است.",
+    "correction_rule_fa": "بعد از کلمه پرسشی، فعل باید در جای دوم بیاید.",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat eet jij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از کلمه پرسشی، فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat jij eet?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij eet wat?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat jij eten?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_word_order",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Waar hij werkt?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Waar werkt hij?» است.",
+    "correction_rule_fa": "بعد از کلمه پرسشی، فعل باید در جای دوم بیاید.",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar hij werkt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar werkt hij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از کلمه پرسشی، فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij werkt waar?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar hij werken?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_word_order",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoe u heet?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Hoe heet u?» است.",
+    "correction_rule_fa": "بعد از کلمه پرسشی، فعل باید در جای دوم بیاید.",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe u heet?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heet hoe?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe heet u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از کلمه پرسشی، فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe u heten?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_word_order",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Welke bus jij neemt?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Welke bus neem jij?» است.",
+    "correction_rule_fa": "بعد از کلمه پرسشی، فعل باید در جای دوم بیاید.",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Welke bus jij neemt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij neemt welke bus?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Welke bus jij nemen?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Welke bus neem jij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از کلمه پرسشی، فعل باید در جای دوم بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_word_order",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoe laat de les begint?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Hoe laat begint de les?» است.",
+    "correction_rule_fa": "بعد از کلمه پرسشی، فعل باید در جای دوم بیاید.",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat begint de les?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از کلمه پرسشی، فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat de les begint?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De les begint hoe laat?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat les de begint?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_word_order",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wat zij koopt?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Wat koopt zij?» است.",
+    "correction_rule_fa": "بعد از کلمه پرسشی، فعل باید در جای دوم بیاید.",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat zij koopt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat koopt zij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از کلمه پرسشی، فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij koopt wat?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat zij kopen?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_word_order",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Waar wij wachten?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Waar wachten wij?» است.",
+    "correction_rule_fa": "بعد از کلمه پرسشی، فعل باید در جای دوم بیاید.",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar wij wachten?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij wachten waar?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar wachten wij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از کلمه پرسشی، فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar wij wacht?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_word_order",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wanneer hij belt?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Wanneer belt hij?» است.",
+    "correction_rule_fa": "بعد از کلمه پرسشی، فعل باید در جای دوم بیاید.",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer hij belt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij belt wanneer?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer hij bellen?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer belt hij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از کلمه پرسشی، فعل باید در جای دوم بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_word_order",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoeveel brood je koopt?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Hoeveel brood koop je?» است.",
+    "correction_rule_fa": "بعد از کلمه پرسشی، فعل باید در جای دوم بیاید.",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoeveel brood koop je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از کلمه پرسشی، فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel brood je koopt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je koopt hoeveel brood?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoeveel brood jij koopt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "question_word_order",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Waarom jij thuis blijft?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "بعد از کلمه پرسشی باید فعل در جای دوم بیاید. بنابراین فرم درست «Waarom blijf jij thuis?» است.",
+    "correction_rule_fa": "بعد از کلمه پرسشی، فعل باید در جای دوم بیاید.",
+    "extra_example_nl": "Waar werkt hij?",
+    "extra_example_fa": "او کجا کار می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waarom jij thuis blijft?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waarom blijf jij thuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از کلمه پرسشی، فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij blijft waarom thuis?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waarom thuis jij blijft?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_zijn_hebben",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je bent thuis?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در سؤال با zijn یا hebben، خود فعل باید قبل از فاعل بیاید. فرم درست «Ben je thuis?» است.",
+    "correction_rule_fa": "در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل.",
+    "extra_example_nl": "Heb je tijd?",
+    "extra_example_fa": "آیا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je bent thuis?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل جمله خبری نوشته شده؛ در سؤال باید zijn یا hebben اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Thuis je bent?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ben je thuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je thuis bent?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با zijn/hebben، فعل باید اول جمله قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_zijn_hebben",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij is ziek?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در سؤال با zijn یا hebben، خود فعل باید قبل از فاعل بیاید. فرم درست «Is hij ziek?» است.",
+    "correction_rule_fa": "در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل.",
+    "extra_example_nl": "Heb je tijd?",
+    "extra_example_fa": "آیا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is ziek?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل جمله خبری نوشته شده؛ در سؤال باید zijn یا hebben اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ziek hij is?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij ziek is?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با zijn/hebben، فعل باید اول جمله قرار بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is hij ziek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_zijn_hebben",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij heeft tijd?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال با zijn یا hebben، خود فعل باید قبل از فاعل بیاید. فرم درست «Heeft zij tijd?» است.",
+    "correction_rule_fa": "در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل.",
+    "extra_example_nl": "Heb je tijd?",
+    "extra_example_fa": "آیا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft zij tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij heeft tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل جمله خبری نوشته شده؛ در سؤال باید zijn یا hebben اول بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tijd zij heeft?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij tijd heeft?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با zijn/hebben، فعل باید اول جمله قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_zijn_hebben",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je hebt een afspraak?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال با zijn یا hebben، خود فعل باید قبل از فاعل بیاید. فرم درست «Heb je een afspraak?» است.",
+    "correction_rule_fa": "در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل.",
+    "extra_example_nl": "Heb je tijd?",
+    "extra_example_fa": "آیا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je hebt een afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل جمله خبری نوشته شده؛ در سؤال باید zijn یا hebben اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heb je een afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een afspraak je hebt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je een afspraak hebt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با zijn/hebben، فعل باید اول جمله قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_zijn_hebben",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij zijn te laat?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "در سؤال با zijn یا hebben، خود فعل باید قبل از فاعل بیاید. فرم درست «Zijn wij te laat?» است.",
+    "correction_rule_fa": "در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل.",
+    "extra_example_nl": "Heb je tijd?",
+    "extra_example_fa": "آیا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij zijn te laat?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل جمله خبری نوشته شده؛ در سؤال باید zijn یا hebben اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Te laat wij zijn?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zijn wij te laat?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij te laat zijn?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با zijn/hebben، فعل باید اول جمله قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_zijn_hebben",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "U bent de dokter?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "در سؤال با zijn یا hebben، خود فعل باید قبل از فاعل بیاید. فرم درست «Bent u de dokter?» است.",
+    "correction_rule_fa": "در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل.",
+    "extra_example_nl": "Heb je tijd?",
+    "extra_example_fa": "آیا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U bent de dokter?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل جمله خبری نوشته شده؛ در سؤال باید zijn یا hebben اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De dokter u bent?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "U de dokter bent?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با zijn/hebben، فعل باید اول جمله قرار بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bent u de dokter?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_zijn_hebben",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De winkel is open?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در سؤال با zijn یا hebben، خود فعل باید قبل از فاعل بیاید. فرم درست «Is de winkel open?» است.",
+    "correction_rule_fa": "در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل.",
+    "extra_example_nl": "Heb je tijd?",
+    "extra_example_fa": "آیا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is de winkel open?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel is open?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل جمله خبری نوشته شده؛ در سؤال باید zijn یا hebben اول بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Open de winkel is?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel open is?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با zijn/hebben، فعل باید اول جمله قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_zijn_hebben",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De kinderen zijn buiten?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در سؤال با zijn یا hebben، خود فعل باید قبل از فاعل بیاید. فرم درست «Zijn de kinderen buiten?» است.",
+    "correction_rule_fa": "در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل.",
+    "extra_example_nl": "Heb je tijd?",
+    "extra_example_fa": "آیا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen zijn buiten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل جمله خبری نوشته شده؛ در سؤال باید zijn یا hebben اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zijn de kinderen buiten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Buiten de kinderen zijn?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen buiten zijn?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با zijn/hebben، فعل باید اول جمله قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_zijn_hebben",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij hebt geld?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال با zijn یا hebben، خود فعل باید قبل از فاعل بیاید. فرم درست «Heb jij geld?» است.",
+    "correction_rule_fa": "در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل.",
+    "extra_example_nl": "Heb je tijd?",
+    "extra_example_fa": "آیا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij hebt geld?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل جمله خبری نوشته شده؛ در سؤال باید zijn یا hebben اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geld jij hebt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heb jij geld?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij geld hebt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با zijn/hebben، فعل باید اول جمله قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_zijn_hebben",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het is koud?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال با zijn یا hebben، خود فعل باید قبل از فاعل بیاید. فرم درست «Is het koud?» است.",
+    "correction_rule_fa": "در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل.",
+    "extra_example_nl": "Heb je tijd?",
+    "extra_example_fa": "آیا وقت داری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het is koud?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل جمله خبری نوشته شده؛ در سؤال باید zijn یا hebben اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Koud het is?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het koud is?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال با zijn/hebben، فعل باید اول جمله قرار بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is het koud?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با zijn یا hebben، فعل اول جمله می‌آید و بعد فاعل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_modal_verbs",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Je kunt mij helpen?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول می‌آید، بعد فاعل و بعد فعل اصلی. فرم درست «Kun je mij helpen?» است.",
+    "correction_rule_fa": "در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید.",
+    "extra_example_nl": "Mag ik hier zitten?",
+    "extra_example_fa": "آیا اجازه دارم اینجا بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kun je mij helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je kunt mij helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال باید modal verb قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mij helpen je kunt?",
+        "is_correct": false,
+        "feedback_fa": "modal verb در جای درست قرار نگرفته است؛ در سؤال باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je mij kunt helpen?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ modal اول، بعد فاعل، بعد فعل اصلی می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_modal_verbs",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik moet betalen?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول می‌آید، بعد فاعل و بعد فعل اصلی. فرم درست «Moet ik betalen?» است.",
+    "correction_rule_fa": "در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید.",
+    "extra_example_nl": "Mag ik hier zitten?",
+    "extra_example_fa": "آیا اجازه دارم اینجا بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik moet betalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال باید modal verb قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Moet ik betalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Betalen ik moet?",
+        "is_correct": false,
+        "feedback_fa": "modal verb در جای درست قرار نگرفته است؛ در سؤال باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betalen moet?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ modal اول، بعد فاعل، بعد فعل اصلی می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_modal_verbs",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik mag hier zitten?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول می‌آید، بعد فاعل و بعد فعل اصلی. فرم درست «Mag ik hier zitten?» است.",
+    "correction_rule_fa": "در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید.",
+    "extra_example_nl": "Mag ik hier zitten?",
+    "extra_example_fa": "آیا اجازه دارم اینجا بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik mag hier zitten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال باید modal verb قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hier ik mag zitten?",
+        "is_correct": false,
+        "feedback_fa": "modal verb در جای درست قرار نگرفته است؛ در سؤال باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik hier zitten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik hier mag zitten?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ modal اول، بعد فاعل، بعد فعل اصلی می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_modal_verbs",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Je wilt koffie drinken?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول می‌آید، بعد فاعل و بعد فعل اصلی. فرم درست «Wil je koffie drinken?» است.",
+    "correction_rule_fa": "در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید.",
+    "extra_example_nl": "Mag ik hier zitten?",
+    "extra_example_fa": "آیا اجازه دارم اینجا بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je wilt koffie drinken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال باید modal verb قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Koffie drinken je wilt?",
+        "is_correct": false,
+        "feedback_fa": "modal verb در جای درست قرار نگرفته است؛ در سؤال باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je koffie wilt drinken?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ modal اول، بعد فاعل، بعد فعل اصلی می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wil je koffie drinken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_modal_verbs",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "U kunt dat herhalen?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول می‌آید، بعد فاعل و بعد فعل اصلی. فرم درست «Kunt u dat herhalen?» است.",
+    "correction_rule_fa": "در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید.",
+    "extra_example_nl": "Mag ik hier zitten?",
+    "extra_example_fa": "آیا اجازه دارم اینجا بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "U kunt dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال باید modal verb قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat herhalen u kunt?",
+        "is_correct": false,
+        "feedback_fa": "modal verb در جای درست قرار نگرفته است؛ در سؤال باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "U dat kunt herhalen?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ modal اول، بعد فاعل، بعد فعل اصلی می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_modal_verbs",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij moeten wachten?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول می‌آید، بعد فاعل و بعد فعل اصلی. فرم درست «Moeten wij wachten?» است.",
+    "correction_rule_fa": "در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید.",
+    "extra_example_nl": "Mag ik hier zitten?",
+    "extra_example_fa": "آیا اجازه دارم اینجا بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij moeten wachten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال باید modal verb قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Moeten wij wachten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wachten wij moeten?",
+        "is_correct": false,
+        "feedback_fa": "modal verb در جای درست قرار نگرفته است؛ در سؤال باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij wachten moeten?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ modal اول، بعد فاعل، بعد فعل اصلی می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_modal_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij kan komen?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول می‌آید، بعد فاعل و بعد فعل اصلی. فرم درست «Kan hij komen?» است.",
+    "correction_rule_fa": "در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید.",
+    "extra_example_nl": "Mag ik hier zitten?",
+    "extra_example_fa": "آیا اجازه دارم اینجا بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij kan komen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال باید modal verb قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Komen hij kan?",
+        "is_correct": false,
+        "feedback_fa": "modal verb در جای درست قرار نگرفته است؛ در سؤال باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan hij komen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij komen kan?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ modal اول، بعد فاعل، بعد فعل اصلی می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_modal_verbs",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij mag naar huis gaan?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول می‌آید، بعد فاعل و بعد فعل اصلی. فرم درست «Mag zij naar huis gaan?» است.",
+    "correction_rule_fa": "در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید.",
+    "extra_example_nl": "Mag ik hier zitten?",
+    "extra_example_fa": "آیا اجازه دارم اینجا بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij mag naar huis gaan?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال باید modal verb قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Naar huis gaan zij mag?",
+        "is_correct": false,
+        "feedback_fa": "modal verb در جای درست قرار نگرفته است؛ در سؤال باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij naar huis mag gaan?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ modal اول، بعد فاعل، بعد فعل اصلی می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag zij naar huis gaan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_modal_verbs",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Je wilt water drinken?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول می‌آید، بعد فاعل و بعد فعل اصلی. فرم درست «Wil je water drinken?» است.",
+    "correction_rule_fa": "در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید.",
+    "extra_example_nl": "Mag ik hier zitten?",
+    "extra_example_fa": "آیا اجازه دارم اینجا بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wil je water drinken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je wilt water drinken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال باید modal verb قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Water drinken je wilt?",
+        "is_correct": false,
+        "feedback_fa": "modal verb در جای درست قرار نگرفته است؛ در سؤال باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je water wilt drinken?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ modal اول، بعد فاعل، بعد فعل اصلی می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_modal_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik kan nu bellen?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در سؤال با modal verb، فعل modal اول می‌آید، بعد فاعل و بعد فعل اصلی. فرم درست «Kan ik nu bellen?» است.",
+    "correction_rule_fa": "در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید.",
+    "extra_example_nl": "Mag ik hier zitten?",
+    "extra_example_fa": "آیا اجازه دارم اینجا بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan nu bellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال باید modal verb قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik nu bellen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با modal verb، فعل modal اول می‌آید و فعل اصلی بعدتر می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nu ik kan bellen?",
+        "is_correct": false,
+        "feedback_fa": "modal verb در جای درست قرار نگرفته است؛ در سؤال باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik nu kan bellen?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ modal اول، بعد فاعل، بعد فعل اصلی می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_common_verbs",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij woont hier?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Woon jij hier?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید.",
+    "extra_example_nl": "Koop je brood?",
+    "extra_example_fa": "آیا نان می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij woont hier?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hier jij woont?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Woon jij hier?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij hier woont?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_common_verbs",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je werkt in de winkel?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Werk je in de winkel?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید.",
+    "extra_example_nl": "Koop je brood?",
+    "extra_example_fa": "آیا نان می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je werkt in de winkel?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "In de winkel je werkt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je in de winkel werkt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Werk je in de winkel?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_common_verbs",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je komt met de bus?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Kom je met de bus?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید.",
+    "extra_example_nl": "Koop je brood?",
+    "extra_example_fa": "آیا نان می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kom je met de bus?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je komt met de bus?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Met de bus je komt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je met de bus komt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_common_verbs",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je gaat naar huis?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Ga je naar huis?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید.",
+    "extra_example_nl": "Koop je brood?",
+    "extra_example_fa": "آیا نان می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je gaat naar huis?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ga je naar huis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Naar huis je gaat?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je naar huis gaat?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_common_verbs",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je eet brood?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Eet je brood?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید.",
+    "extra_example_nl": "Koop je brood?",
+    "extra_example_fa": "آیا نان می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je eet brood?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Brood je eet?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Eet je brood?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je brood eet?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_common_verbs",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je drinkt thee?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Drink je thee?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید.",
+    "extra_example_nl": "Koop je brood?",
+    "extra_example_fa": "آیا نان می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je drinkt thee?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Thee je drinkt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je thee drinkt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Drink je thee?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_common_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je belt de dokter?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Bel je de dokter?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید.",
+    "extra_example_nl": "Koop je brood?",
+    "extra_example_fa": "آیا نان می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bel je de dokter?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je belt de dokter?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De dokter je belt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je de dokter belt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_common_verbs",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je betaalt contant?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Betaal je contant?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید.",
+    "extra_example_nl": "Koop je brood?",
+    "extra_example_fa": "آیا نان می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je betaalt contant?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Betaal je contant?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Contant je betaalt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je contant betaalt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_common_verbs",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je koopt melk?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Koop je melk?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید.",
+    "extra_example_nl": "Koop je brood?",
+    "extra_example_fa": "آیا نان می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je koopt melk?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Melk je koopt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Koop je melk?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je melk koopt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_common_verbs",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je wacht hier?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "در سؤال بله/خیر، فعل باید اول جمله بیاید و بعد فاعل بیاید. فرم درست این جمله «Wacht je hier?» است.",
+    "correction_rule_fa": "در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید.",
+    "extra_example_nl": "Koop je brood?",
+    "extra_example_fa": "آیا نان می‌خری؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je wacht hier?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب جمله خبری دارد؛ در سؤال بله/خیر باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hier je wacht?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد درست نیست؛ فعل باید اول جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je hier wacht?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مستقیم، فعل صرف‌شده باید قبل از فاعل قرار بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wacht je hier?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال بله/خیر، فعل صرف‌شده اول جمله می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_separable_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Opsta je vroeg?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی در جای مناسب، معمولاً آخر سؤال، می‌آید. فرم درست «Sta je vroeg op?» است.",
+    "correction_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید.",
+    "extra_example_nl": "Kom je morgen terug?",
+    "extra_example_fa": "آیا فردا برمی‌گردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sta je vroeg op?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Opsta je vroeg?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال، فعل جداشدنی نباید به این شکل یک‌تکه اول بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je staat vroeg op?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ برای سؤال بله/خیر باید فعل صرف‌شده اول بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sta op je vroeg?",
+        "is_correct": false,
+        "feedback_fa": "جای فعل صرف‌شده، فاعل یا بخش جداشدنی برای سؤال استاندارد درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_separable_verbs",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Aankom je om acht uur?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی در جای مناسب، معمولاً آخر سؤال، می‌آید. فرم درست «Kom je om acht uur aan?» است.",
+    "correction_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید.",
+    "extra_example_nl": "Kom je morgen terug?",
+    "extra_example_fa": "آیا فردا برمی‌گردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Aankom je om acht uur?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال، فعل جداشدنی نباید به این شکل یک‌تکه اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kom je om acht uur aan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je komt om acht uur aan?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ برای سؤال بله/خیر باید فعل صرف‌شده اول بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kom aan je om acht uur?",
+        "is_correct": false,
+        "feedback_fa": "جای فعل صرف‌شده، فاعل یا بخش جداشدنی برای سؤال استاندارد درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_separable_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Meega je morgen?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی در جای مناسب، معمولاً آخر سؤال، می‌آید. فرم درست «Ga je morgen mee?» است.",
+    "correction_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید.",
+    "extra_example_nl": "Kom je morgen terug?",
+    "extra_example_fa": "آیا فردا برمی‌گردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meega je morgen?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال، فعل جداشدنی نباید به این شکل یک‌تکه اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je gaat morgen mee?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ برای سؤال بله/خیر باید فعل صرف‌شده اول بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ga je morgen mee?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ga mee je morgen?",
+        "is_correct": false,
+        "feedback_fa": "جای فعل صرف‌شده، فاعل یا بخش جداشدنی برای سؤال استاندارد درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_separable_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Uitga je vanavond?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی در جای مناسب، معمولاً آخر سؤال، می‌آید. فرم درست «Ga je vanavond uit?» است.",
+    "correction_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید.",
+    "extra_example_nl": "Kom je morgen terug?",
+    "extra_example_fa": "آیا فردا برمی‌گردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Uitga je vanavond?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال، فعل جداشدنی نباید به این شکل یک‌تکه اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je gaat vanavond uit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ برای سؤال بله/خیر باید فعل صرف‌شده اول بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ga uit je vanavond?",
+        "is_correct": false,
+        "feedback_fa": "جای فعل صرف‌شده، فاعل یا بخش جداشدنی برای سؤال استاندارد درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ga je vanavond uit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_separable_verbs",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Opruim je de kamer?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی در جای مناسب، معمولاً آخر سؤال، می‌آید. فرم درست «Ruim je de kamer op?» است.",
+    "correction_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید.",
+    "extra_example_nl": "Kom je morgen terug?",
+    "extra_example_fa": "آیا فردا برمی‌گردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ruim je de kamer op?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Opruim je de kamer?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال، فعل جداشدنی نباید به این شکل یک‌تکه اول بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je ruimt de kamer op?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ برای سؤال بله/خیر باید فعل صرف‌شده اول بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ruim op je de kamer?",
+        "is_correct": false,
+        "feedback_fa": "جای فعل صرف‌شده، فاعل یا بخش جداشدنی برای سؤال استاندارد درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_separable_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Afspreek je met Sara?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی در جای مناسب، معمولاً آخر سؤال، می‌آید. فرم درست «Spreek je met Sara af?» است.",
+    "correction_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید.",
+    "extra_example_nl": "Kom je morgen terug?",
+    "extra_example_fa": "آیا فردا برمی‌گردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Afspreek je met Sara?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال، فعل جداشدنی نباید به این شکل یک‌تکه اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Spreek je met Sara af?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je spreekt met Sara af?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ برای سؤال بله/خیر باید فعل صرف‌شده اول بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Spreek af je met Sara?",
+        "is_correct": false,
+        "feedback_fa": "جای فعل صرف‌شده، فاعل یا بخش جداشدنی برای سؤال استاندارد درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_separable_verbs",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Meeneem je je tas?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی در جای مناسب، معمولاً آخر سؤال، می‌آید. فرم درست «Neem je je tas mee?» است.",
+    "correction_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید.",
+    "extra_example_nl": "Kom je morgen terug?",
+    "extra_example_fa": "آیا فردا برمی‌گردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meeneem je je tas?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال، فعل جداشدنی نباید به این شکل یک‌تکه اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je neemt je tas mee?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ برای سؤال بله/خیر باید فعل صرف‌شده اول بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Neem je je tas mee?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neem mee je je tas?",
+        "is_correct": false,
+        "feedback_fa": "جای فعل صرف‌شده، فاعل یا بخش جداشدنی برای سؤال استاندارد درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_separable_verbs",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Terugkom je morgen?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی در جای مناسب، معمولاً آخر سؤال، می‌آید. فرم درست «Kom je morgen terug?» است.",
+    "correction_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید.",
+    "extra_example_nl": "Kom je morgen terug?",
+    "extra_example_fa": "آیا فردا برمی‌گردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Terugkom je morgen?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال، فعل جداشدنی نباید به این شکل یک‌تکه اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je komt morgen terug?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ برای سؤال بله/خیر باید فعل صرف‌شده اول بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kom terug je morgen?",
+        "is_correct": false,
+        "feedback_fa": "جای فعل صرف‌شده، فاعل یا بخش جداشدنی برای سؤال استاندارد درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kom je morgen terug?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_separable_verbs",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Instap je hier?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی در جای مناسب، معمولاً آخر سؤال، می‌آید. فرم درست «Stap je hier in?» است.",
+    "correction_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید.",
+    "extra_example_nl": "Kom je morgen terug?",
+    "extra_example_fa": "آیا فردا برمی‌گردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Stap je hier in?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Instap je hier?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال، فعل جداشدنی نباید به این شکل یک‌تکه اول بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je stapt hier in?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ برای سؤال بله/خیر باید فعل صرف‌شده اول بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Stap in je hier?",
+        "is_correct": false,
+        "feedback_fa": "جای فعل صرف‌شده، فاعل یا بخش جداشدنی برای سؤال استاندارد درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_with_separable_verbs",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Uitstap je daar?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی در جای مناسب، معمولاً آخر سؤال، می‌آید. فرم درست «Stap je daar uit?» است.",
+    "correction_rule_fa": "در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید.",
+    "extra_example_nl": "Kom je morgen terug?",
+    "extra_example_fa": "آیا فردا برمی‌گردی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Uitstap je daar?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال، فعل جداشدنی نباید به این شکل یک‌تکه اول بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Stap je daar uit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال با فعل جداشدنی، فعل صرف‌شده اول می‌آید و بخش جداشدنی معمولاً آخر سؤال می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je stapt daar uit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ برای سؤال بله/خیر باید فعل صرف‌شده اول بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Stap uit je daar?",
+        "is_correct": false,
+        "feedback_fa": "جای فعل صرف‌شده، فاعل یا بخش جداشدنی برای سؤال استاندارد درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_about_time_place",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Waar de supermarkt is?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "برای سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید و بعد فعل و فاعل می‌آیند. فرم درست «Waar is de supermarkt?» است.",
+    "correction_rule_fa": "در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "extra_example_nl": "Hoe laat begint de les?",
+    "extra_example_fa": "کلاس ساعت چند شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar de supermarkt is?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De supermarkt is waar?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de supermarkt?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar supermarkt de is?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_about_time_place",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wanneer de les begint?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "برای سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید و بعد فعل و فاعل می‌آیند. فرم درست «Wanneer begint de les?» است.",
+    "correction_rule_fa": "در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "extra_example_nl": "Hoe laat begint de les?",
+    "extra_example_fa": "کلاس ساعت چند شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer de les begint?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De les begint wanneer?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer les de begint?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer begint de les?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_about_time_place",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoe laat je komt?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "برای سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید و بعد فعل و فاعل می‌آیند. فرم درست «Hoe laat kom je?» است.",
+    "correction_rule_fa": "در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "extra_example_nl": "Hoe laat begint de les?",
+    "extra_example_fa": "کلاس ساعت چند شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat kom je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat je komt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je komt hoe laat?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat jij komt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_about_time_place",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoe lang je wacht?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "برای سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید و بعد فعل و فاعل می‌آیند. فرم درست «Hoe lang wacht je?» است.",
+    "correction_rule_fa": "در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "extra_example_nl": "Hoe laat begint de les?",
+    "extra_example_fa": "کلاس ساعت چند شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe lang je wacht?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe lang wacht je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je wacht hoe lang?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe lang jij wacht?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_about_time_place",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Waar de bushalte is?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "برای سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید و بعد فعل و فاعل می‌آیند. فرم درست «Waar is de bushalte?» است.",
+    "correction_rule_fa": "در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "extra_example_nl": "Hoe laat begint de les?",
+    "extra_example_fa": "کلاس ساعت چند شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar de bushalte is?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bushalte is waar?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is de bushalte?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar bushalte de is?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_about_time_place",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wanneer de trein vertrekt?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "برای سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید و بعد فعل و فاعل می‌آیند. فرم درست «Wanneer vertrekt de trein?» است.",
+    "correction_rule_fa": "در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "extra_example_nl": "Hoe laat begint de les?",
+    "extra_example_fa": "کلاس ساعت چند شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer de trein vertrekt?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De trein vertrekt wanneer?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer trein de vertrekt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer vertrekt de trein?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_about_time_place",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoe laat de winkel opent?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "برای سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید و بعد فعل و فاعل می‌آیند. فرم درست «Hoe laat opent de winkel?» است.",
+    "correction_rule_fa": "در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "extra_example_nl": "Hoe laat begint de les?",
+    "extra_example_fa": "کلاس ساعت چند شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat opent de winkel?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat de winkel opent?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De winkel opent hoe laat?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat winkel de opent?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_about_time_place",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hoe lang jij blijft?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "برای سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید و بعد فعل و فاعل می‌آیند. فرم درست «Hoe lang blijf jij?» است.",
+    "correction_rule_fa": "در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "extra_example_nl": "Hoe laat begint de les?",
+    "extra_example_fa": "کلاس ساعت چند شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe lang jij blijft?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe lang blijf jij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij blijft hoe lang?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe lang thuis jij blijft?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_about_time_place",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Waar wij uitstappen?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "برای سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید و بعد فعل و فاعل می‌آیند. فرم درست «Waar stappen wij uit?» است.",
+    "correction_rule_fa": "در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "extra_example_nl": "Hoe laat begint de les?",
+    "extra_example_fa": "کلاس ساعت چند شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar wij uitstappen?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij stappen waar uit?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar stappen wij uit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar uit wij stappen?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "questions_about_time_place",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wanneer u thuis bent?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "برای سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید و بعد فعل و فاعل می‌آیند. فرم درست «Wanneer bent u thuis?» است.",
+    "correction_rule_fa": "در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل.",
+    "extra_example_nl": "Hoe laat begint de les?",
+    "extra_example_fa": "کلاس ساعت چند شروع می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer u thuis bent?",
+        "is_correct": false,
+        "feedback_fa": "بعد از کلمه پرسشی باید فعل بیاید؛ این گزینه ترتیب جمله خبری یا جمله وابسته دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "U bent wanneer thuis?",
+        "is_correct": false,
+        "feedback_fa": "این فرم برای سؤال استاندارد A2 مناسب نیست؛ فعل باید در جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer thuis u bent?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات درست نیست؛ فرمول درست vraagwoord + werkwoord + subject است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer bent u thuis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال درباره زمان یا مکان، کلمه پرسشی اول می‌آید، بعد فعل، بعد فاعل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "polite_question_forms",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "U kunt mij helpen?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول جمله می‌آیند. فرم درست «Kunt u mij helpen?» است.",
+    "correction_rule_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "ممکن است آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u mij helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "U kunt mij helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال مؤدبانه باید فعل قبل از «u» یا فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mij helpen u kunt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات رسمی درست نیست؛ باید با فعل مؤدبانه شروع شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "U mij kunt helpen?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مؤدبانه، فعل باید اول بیاید و بعد فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "polite_question_forms",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik mag iets vragen?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول جمله می‌آیند. فرم درست «Mag ik iets vragen?» است.",
+    "correction_rule_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "ممکن است آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik mag iets vragen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال مؤدبانه باید فعل قبل از «u» یا فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik iets vragen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Iets vragen ik mag?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات رسمی درست نیست؛ باید با فعل مؤدبانه شروع شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik iets mag vragen?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مؤدبانه، فعل باید اول بیاید و بعد فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "polite_question_forms",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "U wilt hier tekenen?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول جمله می‌آیند. فرم درست «Wilt u hier tekenen?» است.",
+    "correction_rule_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "ممکن است آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U wilt hier tekenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال مؤدبانه باید فعل قبل از «u» یا فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hier tekenen u wilt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات رسمی درست نیست؛ باید با فعل مؤدبانه شروع شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u hier tekenen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "U hier wilt tekenen?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مؤدبانه، فعل باید اول بیاید و بعد فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "polite_question_forms",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "U kunt dat herhalen?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول جمله می‌آیند. فرم درست «Kunt u dat herhalen?» است.",
+    "correction_rule_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "ممکن است آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U kunt dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال مؤدبانه باید فعل قبل از «u» یا فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat herhalen u kunt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات رسمی درست نیست؛ باید با فعل مؤدبانه شروع شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "U dat kunt herhalen?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مؤدبانه، فعل باید اول بیاید و بعد فاعل قرار بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "polite_question_forms",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "U heeft tijd?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول جمله می‌آیند. فرم درست «Heeft u tijd?» است.",
+    "correction_rule_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "ممکن است آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heeft tijd?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال مؤدبانه باید فعل قبل از «u» یا فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tijd u heeft?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات رسمی درست نیست؛ باید با فعل مؤدبانه شروع شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "U tijd heeft?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مؤدبانه، فعل باید اول بیاید و بعد فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "polite_question_forms",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "U bent de dokter?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول جمله می‌آیند. فرم درست «Bent u de dokter?» است.",
+    "correction_rule_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "ممکن است آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U bent de dokter?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال مؤدبانه باید فعل قبل از «u» یا فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bent u de dokter?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De dokter u bent?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات رسمی درست نیست؛ باید با فعل مؤدبانه شروع شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "U de dokter bent?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مؤدبانه، فعل باید اول بیاید و بعد فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "polite_question_forms",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "U kunt langzamer spreken?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول جمله می‌آیند. فرم درست «Kunt u langzamer spreken?» است.",
+    "correction_rule_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "ممکن است آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U kunt langzamer spreken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال مؤدبانه باید فعل قبل از «u» یا فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Langzamer spreken u kunt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات رسمی درست نیست؛ باید با فعل مؤدبانه شروع شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u langzamer spreken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "U langzamer kunt spreken?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مؤدبانه، فعل باید اول بیاید و بعد فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "polite_question_forms",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik mag hier zitten?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول جمله می‌آیند. فرم درست «Mag ik hier zitten?» است.",
+    "correction_rule_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "ممکن است آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik mag hier zitten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال مؤدبانه باید فعل قبل از «u» یا فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hier zitten ik mag?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات رسمی درست نیست؛ باید با فعل مؤدبانه شروع شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik hier mag zitten?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مؤدبانه، فعل باید اول بیاید و بعد فاعل قرار بگیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik hier zitten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "polite_question_forms",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "U wilt koffie?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول جمله می‌آیند. فرم درست «Wilt u koffie?» است.",
+    "correction_rule_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "ممکن است آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wilt u koffie?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "U wilt koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال مؤدبانه باید فعل قبل از «u» یا فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Koffie u wilt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات رسمی درست نیست؛ باید با فعل مؤدبانه شروع شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "U koffie wilt?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مؤدبانه، فعل باید اول بیاید و بعد فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "polite_question_forms",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "U kunt mij bellen?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول جمله می‌آیند. فرم درست «Kunt u mij bellen?» است.",
+    "correction_rule_fa": "در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "ممکن است آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U kunt mij bellen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله ترتیب خبری دارد؛ در سؤال مؤدبانه باید فعل قبل از «u» یا فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u mij bellen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در سؤال مؤدبانه، فعل‌هایی مثل kunt, mag, wilt, heeft یا bent اول می‌آیند و بعد u یا ik می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mij bellen u kunt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات رسمی درست نیست؛ باید با فعل مؤدبانه شروع شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "U mij kunt bellen?",
+        "is_correct": false,
+        "feedback_fa": "در سؤال مؤدبانه، فعل باید اول بیاید و بعد فاعل قرار بگیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "choosing_best_question_form_correction",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Jij woont in Utrecht?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در این سؤال باید فرم استاندارد پرسشی را انتخاب کنیم. گزینه درست «Woon jij in Utrecht?» است.",
+    "correction_rule_fa": "برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد.",
+    "extra_example_nl": "Woon jij in Utrecht?",
+    "extra_example_fa": "آیا در اوترخت زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij woont in Utrecht?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه فرم سؤال را درست نکرده است؛ ترتیب فعل و فاعل مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "In Utrecht jij woont?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد A2 درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Woon jij in Utrecht?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij in Utrecht woont?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل سؤال استاندارد نوشته نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "choosing_best_question_form_correction",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Waar je werkt?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در این سؤال باید فرم استاندارد پرسشی را انتخاب کنیم. گزینه درست «Waar werk je?» است.",
+    "correction_rule_fa": "برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد.",
+    "extra_example_nl": "Woon jij in Utrecht?",
+    "extra_example_fa": "آیا در اوترخت زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar je werkt?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه فرم سؤال را درست نکرده است؛ ترتیب فعل و فاعل مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je werkt waar?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد A2 درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar jij werkt?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل سؤال استاندارد نوشته نشده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar werk je?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "choosing_best_question_form_correction",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Je hebt een afspraak?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در این سؤال باید فرم استاندارد پرسشی را انتخاب کنیم. گزینه درست «Heb je een afspraak?» است.",
+    "correction_rule_fa": "برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد.",
+    "extra_example_nl": "Woon jij in Utrecht?",
+    "extra_example_fa": "آیا در اوترخت زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heb je een afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je hebt een afspraak?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه فرم سؤال را درست نکرده است؛ ترتیب فعل و فاعل مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een afspraak je hebt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد A2 درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je een afspraak hebt?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل سؤال استاندارد نوشته نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "choosing_best_question_form_correction",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Je kunt Nederlands spreken?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در این سؤال باید فرم استاندارد پرسشی را انتخاب کنیم. گزینه درست «Kun je Nederlands spreken?» است.",
+    "correction_rule_fa": "برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد.",
+    "extra_example_nl": "Woon jij in Utrecht?",
+    "extra_example_fa": "آیا در اوترخت زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je kunt Nederlands spreken?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه فرم سؤال را درست نکرده است؛ ترتیب فعل و فاعل مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun je Nederlands spreken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nederlands spreken je kunt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد A2 درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je Nederlands kunt spreken?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل سؤال استاندارد نوشته نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "choosing_best_question_form_correction",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wanneer de bus komt?",
+    "question_text_nl": "Kies de vraag met de juiste woordvolgorde.",
+    "question_text_fa": "سؤالی را انتخاب کن که ترتیب کلماتش درست است.",
+    "explanation_fa": "در این سؤال باید فرم استاندارد پرسشی را انتخاب کنیم. گزینه درست «Wanneer komt de bus?» است.",
+    "correction_rule_fa": "برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد.",
+    "extra_example_nl": "Woon jij in Utrecht?",
+    "extra_example_fa": "آیا در اوترخت زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer de bus komt?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه فرم سؤال را درست نکرده است؛ ترتیب فعل و فاعل مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus komt wanneer?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد A2 درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer komt de bus?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer bus de komt?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل سؤال استاندارد نوشته نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "choosing_best_question_form_correction",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Opsta jij vroeg?",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست کدام است؟",
+    "explanation_fa": "در این سؤال باید فرم استاندارد پرسشی را انتخاب کنیم. گزینه درست «Sta jij vroeg op?» است.",
+    "correction_rule_fa": "برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد.",
+    "extra_example_nl": "Woon jij in Utrecht?",
+    "extra_example_fa": "آیا در اوترخت زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Opsta jij vroeg?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه فرم سؤال را درست نکرده است؛ ترتیب فعل و فاعل مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij staat vroeg op?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد A2 درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sta op jij vroeg?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل سؤال استاندارد نوشته نشده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sta jij vroeg op?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "choosing_best_question_form_correction",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "U wilt betalen?",
+    "question_text_nl": "Kies de juiste vraag.",
+    "question_text_fa": "سؤال درست را انتخاب کن.",
+    "explanation_fa": "در این سؤال باید فرم استاندارد پرسشی را انتخاب کنیم. گزینه درست «Wilt u betalen?» است.",
+    "correction_rule_fa": "برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد.",
+    "extra_example_nl": "Woon jij in Utrecht?",
+    "extra_example_fa": "آیا در اوترخت زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wilt u betalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "U wilt betalen?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه فرم سؤال را درست نکرده است؛ ترتیب فعل و فاعل مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Betalen u wilt?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد A2 درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "U betalen wilt?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل سؤال استاندارد نوشته نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "choosing_best_question_form_correction",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wat jij koopt?",
+    "question_text_nl": "Kies de correcte vraag.",
+    "question_text_fa": "سؤال صحیح را انتخاب کن.",
+    "explanation_fa": "در این سؤال باید فرم استاندارد پرسشی را انتخاب کنیم. گزینه درست «Wat koop jij?» است.",
+    "correction_rule_fa": "برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد.",
+    "extra_example_nl": "Woon jij in Utrecht?",
+    "extra_example_fa": "آیا در اوترخت زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat jij koopt?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه فرم سؤال را درست نکرده است؛ ترتیب فعل و فاعل مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat koop jij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij koopt wat?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد A2 درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat jij kopen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل سؤال استاندارد نوشته نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "choosing_best_question_form_correction",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Je gaat naar de markt?",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه فرم سؤال را اصلاح کن.",
+    "explanation_fa": "در این سؤال باید فرم استاندارد پرسشی را انتخاب کنیم. گزینه درست «Ga je naar de markt?» است.",
+    "correction_rule_fa": "برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد.",
+    "extra_example_nl": "Woon jij in Utrecht?",
+    "extra_example_fa": "آیا در اوترخت زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je gaat naar de markt?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه فرم سؤال را درست نکرده است؛ ترتیب فعل و فاعل مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Naar de markt je gaat?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد A2 درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ga je naar de markt?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je naar de markt gaat?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل سؤال استاندارد نوشته نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "question_form_error",
+    "subtopic": "choosing_best_question_form_correction",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hoe laat de afspraak is?",
+    "question_text_nl": "Welke vraag is correct?",
+    "question_text_fa": "کدام سؤال درست است؟",
+    "explanation_fa": "در این سؤال باید فرم استاندارد پرسشی را انتخاب کنیم. گزینه درست «Hoe laat is de afspraak?» است.",
+    "correction_rule_fa": "برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد.",
+    "extra_example_nl": "Woon jij in Utrecht?",
+    "extra_example_fa": "آیا در اوترخت زندگی می‌کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat de afspraak is?",
+        "is_correct": false,
+        "feedback_fa": "این گزینه فرم سؤال را درست نکرده است؛ ترتیب فعل و فاعل مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak is hoe laat?",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات برای سؤال استاندارد A2 درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat afspraak de is?",
+        "is_correct": false,
+        "feedback_fa": "این جمله مثل سؤال استاندارد نوشته نشده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is de afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای ساخت سؤال استاندارد، جای فعل و فاعل باید درست باشد."
+      }
+    ]
+  }
+]

@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "calling_doctor_opening",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt de huisarts in de ochtend.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "صبح با مطب دکتر تماس می‌گیری. بهترین شروع کدام است؟",
+    "explanation_fa": "این جمله با سلام شروع می‌شود و دلیل تماس را واضح می‌گوید.",
+    "dialogue_rule_fa": "برای شروع تماس با مطب دکتر، سلام کن و کوتاه بگو برای چه تماس گرفته‌ای.",
+    "extra_example_nl": "Goedemorgen, ik bel voor een afspraak.",
+    "extra_example_fa": "صبح بخیر، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen, ik wil graag een afspraak maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گفتن محل درد است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه شروع تماس با مطب دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "calling_doctor_opening",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De assistent neemt de telefoon op.",
+    "question_text_nl": "Welke zin past aan het begin van het gesprek?",
+    "question_text_fa": "دستیار دکتر تلفن را جواب می‌دهد. شروع مناسب کدام است؟",
+    "explanation_fa": "در تماس تلفنی بهتر است خودت را کوتاه معرفی کنی.",
+    "dialogue_rule_fa": "برای شروع تماس با مطب دکتر، سلام کن و کوتاه بگو برای چه تماس گرفته‌ای.",
+    "extra_example_nl": "Goedemorgen, ik bel voor een afspraak.",
+    "extra_example_fa": "صبح بخیر، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemiddag, u spreekt met Reza.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قبلی است، نه شروع تماس اولیه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "calling_doctor_opening",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt de praktijk omdat je een vraag hebt.",
+    "question_text_nl": "Wat zeg je eerst?",
+    "question_text_fa": "برای یک سؤال با مطب تماس می‌گیری. اول چه می‌گویی؟",
+    "explanation_fa": "این جمله برای شروع تماس و گفتن دلیل تماس مناسب است.",
+    "dialogue_rule_fa": "برای شروع تماس با مطب دکتر، سلام کن و کوتاه بگو برای چه تماس گرفته‌ای.",
+    "extra_example_nl": "Goedemorgen, ik bel voor een afspraak.",
+    "extra_example_fa": "صبح بخیر، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قبلی است، نه شروع تماس اولیه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemorgen, ik heb een vraag voor de dokter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این جمله توصیه دکتر است، نه جمله بیمار برای شروع تماس."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "calling_doctor_opening",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt de huisarts spreken.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی با پزشک خانواده صحبت کنی. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله دقیقاً نشان می‌دهد که می‌خواهی با huisarts صحبت کنی.",
+    "dialogue_rule_fa": "برای شروع تماس با مطب دکتر، سلام کن و کوتاه بگو برای چه تماس گرفته‌ای.",
+    "extra_example_nl": "Goedemorgen, ik bel voor een afspraak.",
+    "extra_example_fa": "صبح بخیر، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قبلی است، نه شروع تماس اولیه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این جمله توصیه دکتر است، نه جمله بیمار برای شروع تماس."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال را معمولاً دکتر می‌پرسد و شروع تماس بیمار نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil graag de huisarts spreken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "calling_doctor_opening",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt en je weet niet goed wat je moet zeggen.",
+    "question_text_nl": "Welke zin is beleefd en passend?",
+    "question_text_fa": "تماس گرفته‌ای و نمی‌دانی دقیقاً چه بگویی. کدام جمله مؤدبانه و مناسب است؟",
+    "explanation_fa": "این جمله کوتاه و مؤدبانه است و برای شروع تماس با مطب مناسب است.",
+    "dialogue_rule_fa": "برای شروع تماس با مطب دکتر، سلام کن و کوتاه بگو برای چه تماس گرفته‌ای.",
+    "extra_example_nl": "Goedemorgen, ik bel voor een afspraak.",
+    "extra_example_fa": "صبح بخیر، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u mij helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این جمله توصیه دکتر است، نه جمله بیمار برای شروع تماس."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال را معمولاً دکتر می‌پرسد و شروع تماس بیمار نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گفتن محل درد است، نه شروع تماس با مطب دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "calling_doctor_opening",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt de huisartsenpraktijk.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "با مطب پزشک خانواده تماس می‌گیری. چه می‌گویی؟",
+    "explanation_fa": "این جمله ساده و طبیعی است و دلیل تماس را بیان می‌کند.",
+    "dialogue_rule_fa": "برای شروع تماس با مطب دکتر، سلام کن و کوتاه بگو برای چه تماس گرفته‌ای.",
+    "extra_example_nl": "Goedemorgen, ik bel voor een afspraak.",
+    "extra_example_fa": "صبح بخیر، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال را معمولاً دکتر می‌پرسد و شروع تماس بیمار نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen, ik bel voor een afspraak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گفتن محل درد است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه شروع تماس با مطب دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "calling_doctor_opening",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De assistent zegt: Goedemorgen, huisartsenpraktijk.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دستیار می‌گوید صبح بخیر، مطب پزشک. بهترین پاسخ کدام است؟",
+    "explanation_fa": "این پاسخ هم سلام دارد، هم معرفی کوتاه و هم دلیل تماس.",
+    "dialogue_rule_fa": "برای شروع تماس با مطب دکتر، سلام کن و کوتاه بگو برای چه تماس گرفته‌ای.",
+    "extra_example_nl": "Goedemorgen, ik bel voor een afspraak.",
+    "extra_example_fa": "صبح بخیر، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره گفتن محل درد است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemorgen, u spreekt met Mina. Ik wil graag een afspraak maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه شروع تماس با مطب دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "calling_doctor_opening",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt namens jezelf naar de dokter.",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "برای خودت با دکتر تماس می‌گیری. کدام جمله بهتر است؟",
+    "explanation_fa": "در تماس با مطب می‌توانی بگویی برای خودت تماس می‌گیری.",
+    "dialogue_rule_fa": "برای شروع تماس با مطب دکتر، سلام کن و کوتاه بگو برای چه تماس گرفته‌ای.",
+    "extra_example_nl": "Goedemorgen, ik bel voor een afspraak.",
+    "extra_example_fa": "صبح بخیر، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قبلی است، نه شروع تماس اولیه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemiddag, ik bel voor mezelf.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "calling_doctor_opening",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent ziek en belt de huisarts.",
+    "question_text_nl": "Kies de beste eerste zin.",
+    "question_text_fa": "مریض هستی و با huisarts تماس می‌گیری. بهترین جمله اول کدام است؟",
+    "explanation_fa": "این جمله علت تماس را ساده و واضح می‌گوید.",
+    "dialogue_rule_fa": "برای شروع تماس با مطب دکتر، سلام کن و کوتاه بگو برای چه تماس گرفته‌ای.",
+    "extra_example_nl": "Goedemorgen, ik bel voor een afspraak.",
+    "extra_example_fa": "صبح بخیر، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen, ik voel me niet goed en ik wil graag een afspraak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه شروع تماس با مطب دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قبلی است، نه شروع تماس اولیه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این جمله توصیه دکتر است، نه جمله بیمار برای شروع تماس."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "calling_doctor_opening",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt de praktijk en wilt netjes beginnen.",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "با مطب تماس گرفته‌ای و می‌خواهی مؤدبانه شروع کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله معرفی کوتاه و دلیل تماس دارد.",
+    "dialogue_rule_fa": "برای شروع تماس با مطب دکتر، سلام کن و کوتاه بگو برای چه تماس گرفته‌ای.",
+    "extra_example_nl": "Goedemorgen, ik bel voor een afspraak.",
+    "extra_example_fa": "صبح بخیر، برای گرفتن وقت تماس می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت قبلی است، نه شروع تماس اولیه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hallo, u spreekt met Ahmed. Ik bel voor de huisarts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این جمله توصیه دکتر است، نه جمله بیمار برای شروع تماس."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال را معمولاً دکتر می‌پرسد و شروع تماس بیمار نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "making_doctor_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt vandaag naar de huisarts.",
+    "question_text_nl": "Wat zeg je tegen de assistent?",
+    "question_text_fa": "می‌خواهی امروز پیش پزشک خانواده بروی. به دستیار چه می‌گویی؟",
+    "explanation_fa": "برای گرفتن وقت در همان روز، این جمله ساده و مناسب است.",
+    "dialogue_rule_fa": "برای گرفتن وقت از دکتر می‌توانی بگویی: Kan ik een afspraak maken?",
+    "extra_example_nl": "Kan ik morgen langskomen?",
+    "extra_example_fa": "می‌توانم فردا بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک مشکل را توضیح می‌دهد، اما درخواست وقت دکتر نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جمله‌ای برای گرفتن وقت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik vandaag een afspraak maken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت بیماری را می‌گوید، اما خودش درخواست وقت دکتر نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "making_doctor_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt voor een tijd bij de dokter.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "برای گرفتن وقت دکتر تماس می‌گیری. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله نشان می‌دهد که می‌خواهی به دکتر مراجعه کنی.",
+    "dialogue_rule_fa": "برای گرفتن وقت از دکتر می‌توانی بگویی: Kan ik een afspraak maken?",
+    "extra_example_nl": "Kan ik morgen langskomen?",
+    "extra_example_fa": "می‌توانم فردا بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جمله‌ای برای گرفتن وقت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت بیماری را می‌گوید، اما خودش درخواست وقت دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست وقت دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil graag naar de dokter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "making_doctor_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je vraagt of er vandaag nog plaats is.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "می‌پرسی آیا امروز هنوز وقت خالی هست. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله برای پرسیدن وقت خالی امروز در مطب مناسب است.",
+    "dialogue_rule_fa": "برای گرفتن وقت از دکتر می‌توانی بگویی: Kan ik een afspraak maken?",
+    "extra_example_nl": "Kan ik morgen langskomen?",
+    "extra_example_fa": "می‌توانم فردا بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u vandaag nog plek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت بیماری را می‌گوید، اما خودش درخواست وقت دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست وقت دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه گرفتن وقت دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "making_doctor_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kunt vandaag niet, maar morgen wel.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "امروز نمی‌توانی، اما فردا می‌توانی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن امکان مراجعه در فردا مناسب است.",
+    "dialogue_rule_fa": "برای گرفتن وقت از دکتر می‌توانی بگویی: Kan ik een afspraak maken?",
+    "extra_example_nl": "Kan ik morgen langskomen?",
+    "extra_example_fa": "می‌توانم فردا بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست وقت دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه گرفتن وقت دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال را معمولاً دکتر می‌پرسد و برای گرفتن وقت مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "making_doctor_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De assistent vraagt: Wanneer wilt u komen?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دستیار می‌پرسد چه زمانی می‌خواهی بیایی. بهترین پاسخ کدام است؟",
+    "explanation_fa": "این پاسخ زمان مورد نظر را به شکل سؤال ساده بیان می‌کند.",
+    "dialogue_rule_fa": "برای گرفتن وقت از دکتر می‌توانی بگویی: Kan ik een afspraak maken?",
+    "extra_example_nl": "Kan ik morgen langskomen?",
+    "extra_example_fa": "می‌توانم فردا بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه گرفتن وقت دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال را معمولاً دکتر می‌پرسد و برای گرفتن وقت مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik vandaag komen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک مشکل را توضیح می‌دهد، اما درخواست وقت دکتر نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "making_doctor_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten wanneer er tijd is.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی بدانی چه زمانی وقت هست. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای پرسیدن زمان مراجعه به دکتر مناسب است.",
+    "dialogue_rule_fa": "برای گرفتن وقت از دکتر می‌توانی بگویی: Kan ik een afspraak maken?",
+    "extra_example_nl": "Kan ik morgen langskomen?",
+    "extra_example_fa": "می‌توانم فردا بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال را معمولاً دکتر می‌پرسد و برای گرفتن وقت مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک مشکل را توضیح می‌دهد، اما درخواست وقت دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جمله‌ای برای گرفتن وقت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer kan ik komen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "making_doctor_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt en wilt een vrije afspraak.",
+    "question_text_nl": "Welke vraag past bij de dokter?",
+    "question_text_fa": "تماس گرفته‌ای و دنبال وقت خالی هستی. کدام سؤال مناسب مطب دکتر است؟",
+    "explanation_fa": "این سؤال برای پرسیدن وقت خالی امروز در مطب استفاده می‌شود.",
+    "dialogue_rule_fa": "برای گرفتن وقت از دکتر می‌توانی بگویی: Kan ik een afspraak maken?",
+    "extra_example_nl": "Kan ik morgen langskomen?",
+    "extra_example_fa": "می‌توانم فردا بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is er vandaag nog een afspraak vrij?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک مشکل را توضیح می‌دهد، اما درخواست وقت دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جمله‌ای برای گرفتن وقت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت بیماری را می‌گوید، اما خودش درخواست وقت دکتر نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "making_doctor_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De assistent zegt dat de dokter druk is.",
+    "question_text_nl": "Wat vraag je beleefd?",
+    "question_text_fa": "دستیار می‌گوید دکتر سرش شلوغ است. مؤدبانه چه می‌پرسی؟",
+    "explanation_fa": "این جمله مؤدبانه درباره وقت دکتر در ادامه روز سؤال می‌کند.",
+    "dialogue_rule_fa": "برای گرفتن وقت از دکتر می‌توانی بگویی: Kan ik een afspraak maken?",
+    "extra_example_nl": "Kan ik morgen langskomen?",
+    "extra_example_fa": "می‌توانم فردا بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جمله‌ای برای گرفتن وقت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u misschien later vandaag tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت بیماری را می‌گوید، اما خودش درخواست وقت دکتر نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست وقت دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "making_doctor_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt een afspraak in de ochtend.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی صبح وقت بگیری. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله واضح می‌گوید که دنبال وقت صبح هستی.",
+    "dialogue_rule_fa": "برای گرفتن وقت از دکتر می‌توانی بگویی: Kan ik een afspraak maken?",
+    "extra_example_nl": "Kan ik morgen langskomen?",
+    "extra_example_fa": "می‌توانم فردا بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت بیماری را می‌گوید، اما خودش درخواست وقت دکتر نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست وقت دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik in de ochtend een afspraak maken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه گرفتن وقت دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "making_doctor_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt voor een nieuwe afspraak met de huisarts.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "برای گرفتن یک وقت جدید با پزشک خانواده تماس می‌گیری. چه می‌گویی؟",
+    "explanation_fa": "این جمله دقیق و مناسب برای گرفتن وقت جدید است.",
+    "dialogue_rule_fa": "برای گرفتن وقت از دکتر می‌توانی بگویی: Kan ik een afspraak maken?",
+    "extra_example_nl": "Kan ik morgen langskomen?",
+    "extra_example_fa": "می‌توانم فردا بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست وقت دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه گرفتن وقت دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال را معمولاً دکتر می‌پرسد و برای گرفتن وقت مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil graag een nieuwe afspraak met de huisarts maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "describing_basic_symptoms",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De dokter vraagt: Waarom komt u?",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دکتر می‌پرسد چرا آمده‌ای. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای گفتن حال عمومی بد به دکتر مناسب است.",
+    "dialogue_rule_fa": "برای گفتن علائم ساده از ساختارهایی مثل Ik heb ... یا Ik voel me ... استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb hoofdpijn en ik ben moe.",
+    "extra_example_fa": "سردرد دارم و خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik voel me niet goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه توضیح علائم بیماری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer kan ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره زمان وقت دکتر است، نه بیان علائم."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جواب بیمار درباره علائم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "describing_basic_symptoms",
+    "life_context": "fever",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent bij de huisarts en je hebt koorts.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "پیش پزشک خانواده هستی و تب داری. بهترین جمله کدام است؟",
+    "explanation_fa": "برای گفتن تب داشتن، جمله ساده و درست «Ik heb koorts» است.",
+    "dialogue_rule_fa": "برای گفتن علائم ساده از ساختارهایی مثل Ik heb ... یا Ik voel me ... استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb hoofdpijn en ik ben moe.",
+    "extra_example_fa": "سردرد دارم و خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer kan ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره زمان وقت دکتر است، نه بیان علائم."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جواب بیمار درباره علائم."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه گفتن علائم خودت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "describing_basic_symptoms",
+    "life_context": "cough",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De dokter vraagt naar je klachten.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "دکتر درباره علائم می‌پرسد. چه جواب می‌دهی؟",
+    "explanation_fa": "این جمله یک علامت ساده یعنی زیاد سرفه کردن را بیان می‌کند.",
+    "dialogue_rule_fa": "برای گفتن علائم ساده از ساختارهایی مثل Ik heb ... یا Ik voel me ... استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb hoofdpijn en ik ben moe.",
+    "extra_example_fa": "سردرد دارم و خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جواب بیمار درباره علائم."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه گفتن علائم خودت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik moet veel hoesten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح علائم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "describing_basic_symptoms",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt hoofdpijn en praat met de dokter.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "سردرد داری و با دکتر صحبت می‌کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله علامت را کوتاه و روشن می‌گوید.",
+    "dialogue_rule_fa": "برای گفتن علائم ساده از ساختارهایی مثل Ik heb ... یا Ik voel me ... استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb hoofdpijn en ik ben moe.",
+    "extra_example_fa": "سردرد دارم و خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه گفتن علائم خودت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح علائم."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه گفتن علائم."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "describing_basic_symptoms",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt buikpijn bij de dokter.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "پیش دکتر شکم‌درد داری. بهترین پاسخ کدام است؟",
+    "explanation_fa": "این جمله برای گفتن شکم‌درد ساده و مناسب است.",
+    "dialogue_rule_fa": "برای گفتن علائم ساده از ساختارهایی مثل Ik heb ... یا Ik voel me ... استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb hoofdpijn en ik ben moe.",
+    "extra_example_fa": "سردرد دارم و خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb buikpijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح علائم."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه گفتن علائم."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه توضیح علائم بیماری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "describing_basic_symptoms",
+    "life_context": "tiredness",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De dokter vraagt hoe je je voelt.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دکتر می‌پرسد چه احساسی داری. چه می‌گویی؟",
+    "explanation_fa": "این جمله خستگی زیاد را به شکل ساده توضیح می‌دهد.",
+    "dialogue_rule_fa": "برای گفتن علائم ساده از ساختارهایی مثل Ik heb ... یا Ik voel me ... استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb hoofdpijn en ik ben moe.",
+    "extra_example_fa": "سردرد دارم و خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه گفتن علائم."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben erg moe.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه توضیح علائم بیماری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer kan ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره زمان وقت دکتر است، نه بیان علائم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "describing_basic_symptoms",
+    "life_context": "daily_health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je voelt je duizelig bij de huisarts.",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "پیش پزشک خانواده سرگیجه داری. کدام جمله در مکالمه مناسب است؟",
+    "explanation_fa": "این جمله علامت سرگیجه را مستقیم می‌گوید.",
+    "dialogue_rule_fa": "برای گفتن علائم ساده از ساختارهایی مثل Ik heb ... یا Ik voel me ... استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb hoofdpijn en ik ben moe.",
+    "extra_example_fa": "سردرد دارم و خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه توضیح علائم بیماری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer kan ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره زمان وقت دکتر است، نه بیان علائم."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben duizelig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جواب بیمار درباره علائم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "describing_basic_symptoms",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je voelt je ziek en misselijk.",
+    "question_text_nl": "Wat zeg je tegen de dokter?",
+    "question_text_fa": "حالت بد است و حالت تهوع داری. به دکتر چه می‌گویی؟",
+    "explanation_fa": "این جمله دو علامت ساده را واضح بیان می‌کند.",
+    "dialogue_rule_fa": "برای گفتن علائم ساده از ساختارهایی مثل Ik heb ... یا Ik voel me ... استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb hoofdpijn en ik ben moe.",
+    "extra_example_fa": "سردرد دارم و خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer kan ik komen?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره زمان وقت دکتر است، نه بیان علائم."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جواب بیمار درباره علائم."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه گفتن علائم خودت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben misselijk en ik voel me ziek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "describing_basic_symptoms",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je slaapt slecht en bent moe.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "بد می‌خوابی و خسته‌ای. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله علائم روزمره را ساده به دکتر می‌گوید.",
+    "dialogue_rule_fa": "برای گفتن علائم ساده از ساختارهایی مثل Ik heb ... یا Ik voel me ... استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb hoofdpijn en ik ben moe.",
+    "extra_example_fa": "سردرد دارم و خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik slaap slecht en ik ben moe.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جواب بیمار درباره علائم."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه گفتن علائم خودت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح علائم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "describing_basic_symptoms",
+    "life_context": "fever",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je vertelt twee klachten aan de dokter.",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "می‌خواهی دو علامت را به دکتر بگویی. کدام جمله بهتر است؟",
+    "explanation_fa": "این جمله دو علامت ساده و مجاز را کوتاه بیان می‌کند.",
+    "dialogue_rule_fa": "برای گفتن علائم ساده از ساختارهایی مثل Ik heb ... یا Ik voel me ... استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb hoofdpijn en ik ben moe.",
+    "extra_example_fa": "سردرد دارم و خسته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه گفتن علائم خودت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb koorts en hoofdpijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح علائم."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه گفتن علائم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_pain_location",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De dokter vraagt: Waar heeft u pijn?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دکتر می‌پرسد کجا درد داری. بهترین جواب کدام است؟",
+    "explanation_fa": "این پاسخ محل درد را واضح می‌گوید.",
+    "dialogue_rule_fa": "برای گفتن محل درد می‌گویی: Ik heb pijn in mijn ... یا Mijn ... doet pijn.",
+    "extra_example_nl": "Ik heb pijn in mijn rug.",
+    "extra_example_fa": "کمرم درد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید، اما محل درد را مشخص نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله زمان شروع مشکل را می‌گوید، نه محل درد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح محل درد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_pain_location",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je rug doet pijn bij de huisarts.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کمرت درد می‌کند و پیش پزشک خانواده هستی. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن کمردرد می‌گویی: Ik heb pijn in mijn rug.",
+    "dialogue_rule_fa": "برای گفتن محل درد می‌گویی: Ik heb pijn in mijn ... یا Mijn ... doet pijn.",
+    "extra_example_nl": "Ik heb pijn in mijn rug.",
+    "extra_example_fa": "کمرم درد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله زمان شروع مشکل را می‌گوید، نه محل درد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح محل درد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه جواب به سؤال درباره محل درد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_pain_location",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je keel doet pijn.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "گلویت درد می‌کند. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله برای گفتن گلودرد ساده و طبیعی است.",
+    "dialogue_rule_fa": "برای گفتن محل درد می‌گویی: Ik heb pijn in mijn ... یا Mijn ... doet pijn.",
+    "extra_example_nl": "Ik heb pijn in mijn rug.",
+    "extra_example_fa": "کمرم درد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn keel doet pijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح محل درد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه جواب به سؤال درباره محل درد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u koorts?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره تب است، نه جواب بیمار درباره محل درد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_pain_location",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je oor doet pijn en je praat met de dokter.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "گوشت درد می‌کند و با دکتر صحبت می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "این جمله محل درد را کوتاه و واضح بیان می‌کند.",
+    "dialogue_rule_fa": "برای گفتن محل درد می‌گویی: Ik heb pijn in mijn ... یا Mijn ... doet pijn.",
+    "extra_example_nl": "Ik heb pijn in mijn rug.",
+    "extra_example_fa": "کمرم درد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه جواب به سؤال درباره محل درد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn oor doet pijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u koorts?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره تب است، نه جواب بیمار درباره محل درد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خواب است و محل درد را مشخص نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_pain_location",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt pijn aan je been.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "پایت درد می‌کند. بهترین جمله کدام است؟",
+    "explanation_fa": "برای گفتن درد پا، این جمله در سطح A2 مناسب است.",
+    "dialogue_rule_fa": "برای گفتن محل درد می‌گویی: Ik heb pijn in mijn ... یا Mijn ... doet pijn.",
+    "extra_example_nl": "Ik heb pijn in mijn rug.",
+    "extra_example_fa": "کمرم درد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u koorts?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره تب است، نه جواب بیمار درباره محل درد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خواب است و محل درد را مشخص نمی‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn been doet pijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید، اما محل درد را مشخص نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_pain_location",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt pijn aan je arm.",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "دستت درد می‌کند. کدام جمله در مکالمه مناسب است؟",
+    "explanation_fa": "این جمله دقیقاً محل درد را می‌گوید.",
+    "dialogue_rule_fa": "برای گفتن محل درد می‌گویی: Ik heb pijn in mijn ... یا Mijn ... doet pijn.",
+    "extra_example_nl": "Ik heb pijn in mijn rug.",
+    "extra_example_fa": "کمرم درد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خواب است و محل درد را مشخص نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید، اما محل درد را مشخص نمی‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله زمان شروع مشکل را می‌گوید، نه محل درد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn arm doet pijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_pain_location",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wijst naar de pijn bij de dokter.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "پیش دکتر به محل درد اشاره می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "وقتی به محل درد اشاره می‌کنی، این جمله طبیعی است.",
+    "dialogue_rule_fa": "برای گفتن محل درد می‌گویی: Ik heb pijn in mijn ... یا Mijn ... doet pijn.",
+    "extra_example_nl": "Ik heb pijn in mijn rug.",
+    "extra_example_fa": "کمرم درد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het doet hier pijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید، اما محل درد را مشخص نمی‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله زمان شروع مشکل را می‌گوید، نه محل درد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح محل درد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_pain_location",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt naar hoofdpijn.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دکتر درباره سردرد می‌پرسد. بهترین پاسخ کدام است؟",
+    "explanation_fa": "این جمله محل درد یعنی سر را مشخص می‌کند.",
+    "dialogue_rule_fa": "برای گفتن محل درد می‌گویی: Ik heb pijn in mijn ... یا Mijn ... doet pijn.",
+    "extra_example_nl": "Ik heb pijn in mijn rug.",
+    "extra_example_fa": "کمرم درد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله زمان شروع مشکل را می‌گوید، نه محل درد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb pijn in mijn hoofd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح محل درد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه جواب به سؤال درباره محل درد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_pain_location",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt duidelijk zeggen waar de pijn zit.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "می‌خواهی واضح بگویی درد کجاست. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله هم محل درد را می‌گوید و هم با «hier» اشاره می‌کند.",
+    "dialogue_rule_fa": "برای گفتن محل درد می‌گویی: Ik heb pijn in mijn ... یا Mijn ... doet pijn.",
+    "extra_example_nl": "Ik heb pijn in mijn rug.",
+    "extra_example_fa": "کمرم درد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه توضیح محل درد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه جواب به سؤال درباره محل درد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb pijn in mijn buik, hier.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u koorts?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره تب است، نه جواب بیمار درباره محل درد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_pain_location",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De huisarts vraagt: Heeft u pijn?",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "پزشک خانواده می‌پرسد درد داری؟ چه جواب می‌دهی؟",
+    "explanation_fa": "این پاسخ هم بله می‌گوید و هم محل درد را بیان می‌کند.",
+    "dialogue_rule_fa": "برای گفتن محل درد می‌گویی: Ik heb pijn in mijn ... یا Mijn ... doet pijn.",
+    "extra_example_nl": "Ik heb pijn in mijn rug.",
+    "extra_example_fa": "کمرم درد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای درخواست تکرار است، نه جواب به سؤال درباره محل درد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u koorts?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره تب است، نه جواب بیمار درباره محل درد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خواب است و محل درد را مشخص نمی‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, mijn rug doet pijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_duration_and_severity",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De dokter vraagt: Sinds wanneer heeft u klachten?",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "دکتر می‌پرسد از کی علائم داری. چه جواب می‌دهی؟",
+    "explanation_fa": "این پاسخ کوتاه زمان شروع علائم را می‌گوید.",
+    "dialogue_rule_fa": "برای گفتن زمان و شدت مشکل از Sinds ...، Al ... و Het doet ... pijn استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb dit al drie dagen.",
+    "extra_example_fa": "سه روز است این مشکل را دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید، اما مدت یا شدت را مشخص نمی‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه توضیح مدت یا شدت مشکل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید، نه مدت یا شدت مشکل را."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_duration_and_severity",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt sinds maandag klachten.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "از دوشنبه علائم داری. بهترین جمله کدام است؟",
+    "explanation_fa": "این پاسخ زمان شروع مشکل را ساده بیان می‌کند.",
+    "dialogue_rule_fa": "برای گفتن زمان و شدت مشکل از Sinds ...، Al ... و Het doet ... pijn استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb dit al drie dagen.",
+    "extra_example_fa": "سه روز است این مشکل را دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه توضیح مدت یا شدت مشکل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds maandag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید، نه مدت یا شدت مشکل را."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه گفتن مدت یا شدت مشکل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_duration_and_severity",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt drie dagen hoofdpijn.",
+    "question_text_nl": "Wat zeg je tegen de dokter?",
+    "question_text_fa": "سه روز است سردرد داری. به دکتر چه می‌گویی؟",
+    "explanation_fa": "با «al drie dagen» مدت مشکل را می‌گویی.",
+    "dialogue_rule_fa": "برای گفتن زمان و شدت مشکل از Sinds ...، Al ... و Het doet ... pijn استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb dit al drie dagen.",
+    "extra_example_fa": "سه روز است این مشکل را دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید، نه مدت یا شدت مشکل را."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه گفتن مدت یا شدت مشکل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb al drie dagen hoofdpijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است، نه پاسخ درباره مدت یا شدت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_duration_and_severity",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De dokter vraagt hoe erg de pijn is.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دکتر می‌پرسد درد چقدر شدید است. بهترین پاسخ کدام است؟",
+    "explanation_fa": "این پاسخ شدت درد را ساده توضیح می‌دهد.",
+    "dialogue_rule_fa": "برای گفتن زمان و شدت مشکل از Sinds ...، Al ... و Het doet ... pijn استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb dit al drie dagen.",
+    "extra_example_fa": "سه روز است این مشکل را دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه گفتن مدت یا شدت مشکل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است، نه پاسخ درباره مدت یا شدت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره محل درد است، نه مدت یا شدت مشکل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het doet veel pijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_duration_and_severity",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De pijn is niet heel sterk.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "درد خیلی شدید نیست. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله برای گفتن درد کم مناسب است.",
+    "dialogue_rule_fa": "برای گفتن زمان و شدت مشکل از Sinds ...، Al ... و Het doet ... pijn استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb dit al drie dagen.",
+    "extra_example_fa": "سه روز است این مشکل را دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het doet een beetje pijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است، نه پاسخ درباره مدت یا شدت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره محل درد است، نه مدت یا شدت مشکل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید، اما مدت یا شدت را مشخص نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_duration_and_severity",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De pijn wordt sterker.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "درد دارد شدیدتر می‌شود. چه می‌گویی؟",
+    "explanation_fa": "این جمله نشان می‌دهد وضعیت درد بدتر می‌شود.",
+    "dialogue_rule_fa": "برای گفتن زمان و شدت مشکل از Sinds ...، Al ... و Het doet ... pijn استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb dit al drie dagen.",
+    "extra_example_fa": "سه روز است این مشکل را دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره محل درد است، نه مدت یا شدت مشکل."
+      },
+      {
+        "key": "B",
+        "text_nl": "De pijn wordt erger.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید، اما مدت یا شدت را مشخص نمی‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه توضیح مدت یا شدت مشکل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_duration_and_severity",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De pijn is minder dan gisteren.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "درد از دیروز کمتر شده. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله کاهش درد را ساده بیان می‌کند.",
+    "dialogue_rule_fa": "برای گفتن زمان و شدت مشکل از Sinds ...، Al ... و Het doet ... pijn استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb dit al drie dagen.",
+    "extra_example_fa": "سه روز است این مشکل را دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید، اما مدت یا شدت را مشخص نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه توضیح مدت یا شدت مشکل."
+      },
+      {
+        "key": "C",
+        "text_nl": "De pijn is minder.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید، نه مدت یا شدت مشکل را."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_duration_and_severity",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt dit probleem een week.",
+    "question_text_nl": "Wat zeg je tegen de dokter?",
+    "question_text_fa": "این مشکل را یک هفته است داری. به دکتر چه می‌گویی؟",
+    "explanation_fa": "با «al een week» مدت زمان مشکل را می‌گویی.",
+    "dialogue_rule_fa": "برای گفتن زمان و شدت مشکل از Sinds ...، Al ... و Het doet ... pijn استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb dit al drie dagen.",
+    "extra_example_fa": "سه روز است این مشکل را دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه توضیح مدت یا شدت مشکل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید، نه مدت یا شدت مشکل را."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه گفتن مدت یا شدت مشکل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb dit al een week.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_duration_and_severity",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De assistent vraagt hoe lang je ziek bent.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دستیار می‌پرسد چند وقت است مریضی. بهترین پاسخ کدام است؟",
+    "explanation_fa": "این پاسخ مدت زمان بیماری را کوتاه و درست می‌گوید.",
+    "dialogue_rule_fa": "برای گفتن زمان و شدت مشکل از Sinds ...، Al ... و Het doet ... pijn استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb dit al drie dagen.",
+    "extra_example_fa": "سه روز است این مشکل را دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Al twee dagen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید، نه مدت یا شدت مشکل را."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه گفتن مدت یا شدت مشکل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است، نه پاسخ درباره مدت یا شدت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "explaining_duration_and_severity",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je klachten zijn vandaag sterker dan gisteren.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "علائمت امروز از دیروز شدیدتر است. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله تغییر شدت مشکل را ساده بیان می‌کند.",
+    "dialogue_rule_fa": "برای گفتن زمان و شدت مشکل از Sinds ...، Al ... و Het doet ... pijn استفاده می‌کنی.",
+    "extra_example_nl": "Ik heb dit al drie dagen.",
+    "extra_example_fa": "سه روز است این مشکل را دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت دکتر است، نه گفتن مدت یا شدت مشکل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het is vandaag erger dan gisteren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است، نه پاسخ درباره مدت یا شدت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره محل درد است، نه مدت یا شدت مشکل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "answering_doctor_questions",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt: Heeft u koorts?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دکتر می‌پرسد تب داری؟ بهترین پاسخ کدام است؟",
+    "explanation_fa": "این پاسخ مستقیم به سؤال دکتر جواب می‌دهد.",
+    "dialogue_rule_fa": "به سؤال دکتر کوتاه و مستقیم جواب بده؛ مثلاً زمان، محل درد یا بله/خیر را بگو.",
+    "extra_example_nl": "Nee, ik heb geen koorts.",
+    "extra_example_fa": "نه، تب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خواب است، نه پاسخ به سؤال تب."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره درد است و به سؤال «تب دارید؟» جواب مستقیم نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, ik heb koorts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه داشتن تب."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "answering_doctor_questions",
+    "life_context": "fever",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt: Heeft u koorts? Je hebt geen koorts.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "دکتر می‌پرسد تب داری؟ تب نداری. چه جواب می‌دهی؟",
+    "explanation_fa": "وقتی تب نداری، این پاسخ کوتاه و درست است.",
+    "dialogue_rule_fa": "به سؤال دکتر کوتاه و مستقیم جواب بده؛ مثلاً زمان، محل درد یا بله/خیر را بگو.",
+    "extra_example_nl": "Nee, ik heb geen koorts.",
+    "extra_example_fa": "نه، تب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره درد شکم است و جواب «تب دارید؟» نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه نداشتن تب."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است و جواب سؤال دکتر نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, ik heb geen koorts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "answering_doctor_questions",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt: Waar heeft u pijn?",
+    "question_text_nl": "Wat antwoordt de patiënt?",
+    "question_text_fa": "دکتر می‌پرسد کجا درد داری. بیمار چه جواب می‌دهد؟",
+    "explanation_fa": "این پاسخ دقیقاً محل درد را می‌گوید.",
+    "dialogue_rule_fa": "به سؤال دکتر کوتاه و مستقیم جواب بده؛ مثلاً زمان، محل درد یا بله/خیر را بگو.",
+    "extra_example_nl": "Nee, ik heb geen koorts.",
+    "extra_example_fa": "نه، تب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این جمله زمان شروع را می‌گوید، نه محل درد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u langzamer praten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست آهسته‌تر صحبت کردن است، نه جواب محل درد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تب است و محل درد را نمی‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "answering_doctor_questions",
+    "life_context": "symptoms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt: Sinds wanneer heeft u klachten?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دکتر می‌پرسد از کی علائم داری. بهترین پاسخ کدام است؟",
+    "explanation_fa": "این جواب زمان شروع علائم را بیان می‌کند.",
+    "dialogue_rule_fa": "به سؤال دکتر کوتاه و مستقیم جواب بده؛ مثلاً زمان، محل درد یا بله/خیر را بگو.",
+    "extra_example_nl": "Nee, ik heb geen koorts.",
+    "extra_example_fa": "نه، تب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است و جواب سؤال «از کی؟» نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb buikpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت را می‌گوید، نه زمان شروع شکایت را."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تب است، نه زمان شروع شکایت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "answering_doctor_questions",
+    "life_context": "daily_health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt: Kunt u goed slapen?",
+    "question_text_nl": "Wat antwoord je als slapen moeilijk is?",
+    "question_text_fa": "دکتر می‌پرسد خوب می‌خوابی؟ اگر خوابیدن سخت است چه می‌گویی؟",
+    "explanation_fa": "این پاسخ ساده و مستقیم درباره خواب است.",
+    "dialogue_rule_fa": "به سؤال دکتر کوتاه و مستقیم جواب بده؛ مثلاً زمان، محل درد یا بله/خیر را بگو.",
+    "extra_example_nl": "Nee, ik heb geen koorts.",
+    "extra_example_fa": "نه، تب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تب است، نه پاسخ به سؤال خواب."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع است، نه کیفیت خواب."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال درباره محل درد است، نه جواب بیمار درباره خواب."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "answering_doctor_questions",
+    "life_context": "daily_health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt: Eet en drinkt u goed?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دکتر می‌پرسد خوب می‌خوری و می‌نوشی؟ بهترین پاسخ کدام است؟",
+    "explanation_fa": "این پاسخ کوتاه و مرتبط با سؤال دکتر است.",
+    "dialogue_rule_fa": "به سؤال دکتر کوتاه و مستقیم جواب بده؛ مثلاً زمان، محل درد یا بله/خیر را بگو.",
+    "extra_example_nl": "Nee, ik heb geen koorts.",
+    "extra_example_fa": "نه، تب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع را می‌گوید، نه وضعیت خوردن و نوشیدن."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است و جواب سؤال دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره محل درد است، نه خوردن و نوشیدن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik drink genoeg water.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "answering_doctor_questions",
+    "life_context": "checkup",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt: Gebruikt u medicijnen?",
+    "question_text_nl": "Wat is een passend antwoord?",
+    "question_text_fa": "دکتر می‌پرسد دارو مصرف می‌کنی؟ پاسخ مناسب کدام است؟",
+    "explanation_fa": "این پاسخ به شکل ساده و مستقیم به سؤال دکتر جواب می‌دهد.",
+    "dialogue_rule_fa": "به سؤال دکتر کوتاه و مستقیم جواب بده؛ مثلاً زمان، محل درد یا بله/خیر را بگو.",
+    "extra_example_nl": "Nee, ik heb geen koorts.",
+    "extra_example_fa": "نه، تب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, ik gebruik geen medicijnen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درد را می‌گوید، نه اینکه دارو استفاده می‌کنی یا نه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تب است، نه استفاده از دارو."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه جواب درباره دارو."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "answering_doctor_questions",
+    "life_context": "checkup",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt: Bent u allergisch?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دکتر می‌پرسد آلرژی داری؟ بهترین پاسخ کدام است؟",
+    "explanation_fa": "این پاسخ کوتاه و مناسب برای جواب دادن به سؤال دکتر است.",
+    "dialogue_rule_fa": "به سؤال دکتر کوتاه و مستقیم جواب بده؛ مثلاً زمان، محل درد یا بله/خیر را بگو.",
+    "extra_example_nl": "Nee, ik heb geen koorts.",
+    "extra_example_fa": "نه، تب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت را می‌گوید، نه پاسخ به سؤال حساسیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nee, ik ben niet allergisch.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه جواب درباره حساسیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een afspraak maken.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت است، نه جواب درباره حساسیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "answering_doctor_questions",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt: Heeft u pijn?",
+    "question_text_nl": "Wat antwoord je als je buikpijn hebt?",
+    "question_text_fa": "دکتر می‌پرسد درد داری؟ اگر شکم‌درد داری چه جواب می‌دهی؟",
+    "explanation_fa": "این پاسخ هم بله می‌گوید و هم نوع درد را مشخص می‌کند.",
+    "dialogue_rule_fa": "به سؤال دکتر کوتاه و مستقیم جواب بده؛ مثلاً زمان، محل درد یا بله/خیر را بگو.",
+    "extra_example_nl": "Nee, ik heb geen koorts.",
+    "extra_example_fa": "نه، تب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, ik heb geen koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تب است، نه درد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره نوشیدن آب است، نه پاسخ به سؤال درد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, ik heb buikpijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع را می‌گوید و جواب مستقیم به داشتن درد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "answering_doctor_questions",
+    "life_context": "tiredness",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter vraagt: Hoe voelt u zich?",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دکتر می‌پرسد چه احساسی داری. بهترین پاسخ کدام است؟",
+    "explanation_fa": "این جمله احساس خستگی را ساده و مناسب بیان می‌کند.",
+    "dialogue_rule_fa": "به سؤال دکتر کوتاه و مستقیم جواب بده؛ مثلاً زمان، محل درد یا بله/خیر را بگو.",
+    "extra_example_nl": "Nee, ik heb geen koorts.",
+    "extra_example_fa": "نه، تب ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه جواب به حال و احساس بیمار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع را می‌گوید، نه اینکه الان چه حسی داری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است و جواب بیمار نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik voel me moe.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "asking_doctor_questions",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent bij de dokter en wilt weten wat je kunt doen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "پیش دکتر هستی و می‌خواهی بدانی چه کاری می‌توانی انجام دهی. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال ساده و مناسب برای پرسیدن راهنمایی از دکتر است.",
+    "dialogue_rule_fa": "برای پرسیدن سؤال از دکتر، مؤدبانه و ساده بپرس: Wat kan ik doen?",
+    "extra_example_nl": "Moet ik rust nemen?",
+    "extra_example_fa": "باید استراحت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat kan ik doen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید و سؤال از دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع مشکل است و سؤال از دکتر نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است و سؤال بیمار از دکتر نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "asking_doctor_questions",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je maakt je zorgen en praat met de dokter.",
+    "question_text_nl": "Welke vraag past?",
+    "question_text_fa": "نگران هستی و با دکتر صحبت می‌کنی. کدام سؤال مناسب است؟",
+    "explanation_fa": "این سؤال برای پرسیدن جدی بودن مشکل در مکالمه با دکتر مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن سؤال از دکتر، مؤدبانه و ساده بپرس: Wat kan ik doen?",
+    "extra_example_nl": "Moet ik rust nemen?",
+    "extra_example_fa": "باید استراحت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع مشکل است و سؤال از دکتر نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is het ernstig?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است و سؤال بیمار از دکتر نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan vandaag niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر یا لغو وقت است، نه سؤال از دکتر درباره مشکل."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "asking_doctor_questions",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of je later nog een keer moet komen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی باید بعداً دوباره بیایی یا نه. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال دقیقاً درباره برگشتن دوباره به دکتر است.",
+    "dialogue_rule_fa": "برای پرسیدن سؤال از دکتر، مؤدبانه و ساده بپرس: Wat kan ik doen?",
+    "extra_example_nl": "Moet ik rust nemen?",
+    "extra_example_fa": "باید استراحت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است و سؤال بیمار از دکتر نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan vandaag niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر یا لغو وقت است، نه سؤال از دکتر درباره مشکل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Moet ik terugkomen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید و سؤال از دکتر نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "asking_doctor_questions",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of rust nodig is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی استراحت لازم است یا نه. بهترین سؤال کدام است؟",
+    "explanation_fa": "این سؤال ساده و مناسب برای پرسیدن از دکتر است.",
+    "dialogue_rule_fa": "برای پرسیدن سؤال از دکتر، مؤدبانه و ساده بپرس: Wat kan ik doen?",
+    "extra_example_nl": "Moet ik rust nemen?",
+    "extra_example_fa": "باید استراحت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan vandaag niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر یا لغو وقت است، نه سؤال از دکتر درباره مشکل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید و سؤال از دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bel ons als het erger wordt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله توصیه دکتر است، نه سؤال بیمار از دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Moet ik rust nemen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "asking_doctor_questions",
+    "life_context": "daily_health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of je naar je werk mag.",
+    "question_text_nl": "Wat vraag je aan de dokter?",
+    "question_text_fa": "می‌خواهی بدانی اجازه داری سر کار بروی یا نه. از دکتر چه می‌پرسی؟",
+    "explanation_fa": "این سؤال کوتاه و مستقیم درباره کار کردن است.",
+    "dialogue_rule_fa": "برای پرسیدن سؤال از دکتر، مؤدبانه و ساده بپرس: Wat kan ik doen?",
+    "extra_example_nl": "Moet ik rust nemen?",
+    "extra_example_fa": "باید استراحت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik werken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید و سؤال از دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bel ons als het erger wordt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله توصیه دکتر است، نه سؤال بیمار از دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید و سؤال از دکتر نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "asking_doctor_questions",
+    "life_context": "daily_health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of je naar buiten mag.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "می‌خواهی بدانی می‌توانی بیرون بروی یا نه. کدام جمله مناسب است؟",
+    "explanation_fa": "این سؤال در مکالمه با دکتر ساده و مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن سؤال از دکتر، مؤدبانه و ساده بپرس: Wat kan ik doen?",
+    "extra_example_nl": "Moet ik rust nemen?",
+    "extra_example_fa": "باید استراحت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bel ons als het erger wordt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله توصیه دکتر است، نه سؤال بیمار از دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik naar buiten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید و سؤال از دکتر نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع مشکل است و سؤال از دکتر نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "asking_doctor_questions",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je wilt weten wanneer je opnieuw moet bellen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی چه زمانی باید دوباره تماس بگیری. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای فهمیدن زمان تماس دوباره با مطب مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن سؤال از دکتر، مؤدبانه و ساده بپرس: Wat kan ik doen?",
+    "extra_example_nl": "Moet ik rust nemen?",
+    "extra_example_fa": "باید استراحت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک علامت را می‌گوید و سؤال از دکتر نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع مشکل است و سؤال از دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer moet ik bellen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است و سؤال بیمار از دکتر نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "asking_doctor_questions",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De dokter legt iets uit, maar jij wilt meer uitleg.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "دکتر چیزی را توضیح می‌دهد، اما تو توضیح بیشتری می‌خواهی. بهترین سؤال کدام است؟",
+    "explanation_fa": "این سؤال مؤدبانه برای درخواست توضیح از دکتر است.",
+    "dialogue_rule_fa": "برای پرسیدن سؤال از دکتر، مؤدبانه و ساده بپرس: Wat kan ik doen?",
+    "extra_example_nl": "Moet ik rust nemen?",
+    "extra_example_fa": "باید استراحت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع مشکل است و سؤال از دکتر نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است و سؤال بیمار از دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan vandaag niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر یا لغو وقت است، نه سؤال از دکتر درباره مشکل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u het uitleggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "asking_doctor_questions",
+    "life_context": "pain",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je hebt pijn en wilt advies van de dokter.",
+    "question_text_nl": "Welke vraag past het best?",
+    "question_text_fa": "درد داری و از دکتر راهنمایی می‌خواهی. کدام سؤال بهتر است؟",
+    "explanation_fa": "این سؤال مربوط به راهنمایی گرفتن درباره درد در مکالمه با دکتر است.",
+    "dialogue_rule_fa": "برای پرسیدن سؤال از دکتر، مؤدبانه و ساده بپرس: Wat kan ik doen?",
+    "extra_example_nl": "Moet ik rust nemen?",
+    "extra_example_fa": "باید استراحت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat kan ik doen tegen de pijn?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است و سؤال بیمار از دکتر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan vandaag niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر یا لغو وقت است، نه سؤال از دکتر درباره مشکل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید و سؤال از دکتر نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "asking_doctor_questions",
+    "life_context": "checkup",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je wilt weten of je nog een afspraak nodig hebt.",
+    "question_text_nl": "Wat vraag je aan de dokter?",
+    "question_text_fa": "می‌خواهی بدانی آیا به وقت بعدی نیاز داری یا نه. از دکتر چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای پرسیدن نیاز به وقت بعدی مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن سؤال از دکتر، مؤدبانه و ساده بپرس: Wat kan ik doen?",
+    "extra_example_nl": "Moet ik rust nemen?",
+    "extra_example_fa": "باید استراحت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan vandaag niet komen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر یا لغو وقت است، نه سؤال از دکتر درباره مشکل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Moet ik een nieuwe afspraak maken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb pijn in mijn buik.",
+        "is_correct": false,
+        "feedback_fa": "این جمله محل درد را می‌گوید و سؤال از دکتر نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bel ons als het erger wordt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله توصیه دکتر است، نه سؤال بیمار از دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "understanding_doctor_advice",
+    "life_context": "doctor_advice",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter zegt: Neem rust.",
+    "question_text_nl": "Wat bedoelt de dokter? Kies de passende reactie.",
+    "question_text_fa": "دکتر می‌گوید استراحت کن. واکنش مناسب کدام است؟",
+    "explanation_fa": "این پاسخ نشان می‌دهد توصیه دکتر را فهمیده‌ای.",
+    "dialogue_rule_fa": "برای فهم توصیه دکتر، به فعل‌های ساده مثل neem، drink، bel و kom دقت کن.",
+    "extra_example_nl": "Bel ons als het erger wordt.",
+    "extra_example_fa": "اگر بدتر شد با ما تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه واکنش بیمار به توصیه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، نه فهمیدن توصیه دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Oké, ik neem rust.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تغییر وقت است و معنی توصیه دکتر را نشان نمی‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "understanding_doctor_advice",
+    "life_context": "doctor_advice",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter zegt: Drink genoeg water.",
+    "question_text_nl": "Wat zegt de patiënt?",
+    "question_text_fa": "دکتر می‌گوید آب کافی بنوش. بیمار چه می‌گوید؟",
+    "explanation_fa": "این پاسخ توصیه ساده دکتر را درست دنبال می‌کند.",
+    "dialogue_rule_fa": "برای فهم توصیه دکتر، به فعل‌های ساده مثل neem، drink، bel و kom دقت کن.",
+    "extra_example_nl": "Bel ons als het erger wordt.",
+    "extra_example_fa": "اگر بدتر شد با ما تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، نه فهمیدن توصیه دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تغییر وقت است و معنی توصیه دکتر را نشان نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت یا درد را می‌گوید، نه واکنش مناسب به توصیه دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zal genoeg water drinken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "understanding_doctor_advice",
+    "life_context": "doctor_advice",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter zegt: Kom morgen terug.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "دکتر می‌گوید فردا برگرد. بهترین پاسخ کدام است؟",
+    "explanation_fa": "این پاسخ نشان می‌دهد زمان برگشت را فهمیده‌ای.",
+    "dialogue_rule_fa": "برای فهم توصیه دکتر، به فعل‌های ساده مثل neem، drink، bel و kom دقت کن.",
+    "extra_example_nl": "Bel ons als het erger wordt.",
+    "extra_example_fa": "اگر بدتر شد با ما تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goed, ik kom morgen terug.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تغییر وقت است و معنی توصیه دکتر را نشان نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت یا درد را می‌گوید، نه واکنش مناسب به توصیه دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه فهمیدن توصیه دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "understanding_doctor_advice",
+    "life_context": "doctor_advice",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter zegt: Bel ons als het erger wordt.",
+    "question_text_nl": "Wat moet je doen als het erger wordt?",
+    "question_text_fa": "دکتر می‌گوید اگر بدتر شد با ما تماس بگیر. اگر بدتر شد چه باید بکنی؟",
+    "explanation_fa": "این جمله معنی توصیه دکتر را درست نشان می‌دهد.",
+    "dialogue_rule_fa": "برای فهم توصیه دکتر، به فعل‌های ساده مثل neem، drink، bel و kom دقت کن.",
+    "extra_example_nl": "Bel ons als het erger wordt.",
+    "extra_example_fa": "اگر بدتر شد با ما تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت یا درد را می‌گوید، نه واکنش مناسب به توصیه دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik moet de praktijk bellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه فهمیدن توصیه دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است و در این context پاسخ اصلی به توصیه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "understanding_doctor_advice",
+    "life_context": "doctor_advice",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter zegt: U moet vandaag thuis blijven.",
+    "question_text_nl": "Kies de passende reactie.",
+    "question_text_fa": "دکتر می‌گوید امروز باید خانه بمانی. واکنش مناسب کدام است؟",
+    "explanation_fa": "این پاسخ نشان می‌دهد توصیه دکتر را فهمیده‌ای.",
+    "dialogue_rule_fa": "برای فهم توصیه دکتر، به فعل‌های ساده مثل neem، drink، bel و kom دقت کن.",
+    "extra_example_nl": "Bel ons als het erger wordt.",
+    "extra_example_fa": "اگر بدتر شد با ما تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه فهمیدن توصیه دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است و در این context پاسخ اصلی به توصیه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Oké, ik blijf vandaag thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه واکنش بیمار به توصیه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "understanding_doctor_advice",
+    "life_context": "doctor_advice",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De dokter zegt: Maak een nieuwe afspraak als het niet beter gaat.",
+    "question_text_nl": "Wat betekent dit?",
+    "question_text_fa": "دکتر می‌گوید اگر بهتر نشد یک وقت جدید بگیر. معنی این توصیه کدام است؟",
+    "explanation_fa": "این جمله همان توصیه دکتر را ساده و درست بازگو می‌کند.",
+    "dialogue_rule_fa": "برای فهم توصیه دکتر، به فعل‌های ساده مثل neem، drink، bel و kom دقت کن.",
+    "extra_example_nl": "Bel ons als het erger wordt.",
+    "extra_example_fa": "اگر بدتر شد با ما تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است و در این context پاسخ اصلی به توصیه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه واکنش بیمار به توصیه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، نه فهمیدن توصیه دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik moet een nieuwe afspraak maken als het niet beter gaat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "understanding_doctor_advice",
+    "life_context": "doctor_advice",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De dokter zegt: Rust goed uit.",
+    "question_text_nl": "Wat is een passend antwoord?",
+    "question_text_fa": "دکتر می‌گوید خوب استراحت کن. پاسخ مناسب کدام است؟",
+    "explanation_fa": "این پاسخ مؤدبانه است و نشان می‌دهد توصیه را پذیرفته‌ای.",
+    "dialogue_rule_fa": "برای فهم توصیه دکتر، به فعل‌های ساده مثل neem، drink، bel و kom دقت کن.",
+    "extra_example_nl": "Bel ons als het erger wordt.",
+    "extra_example_fa": "اگر بدتر شد با ما تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u, dat ga ik doen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه واکنش بیمار به توصیه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، نه فهمیدن توصیه دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تغییر وقت است و معنی توصیه دکتر را نشان نمی‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "understanding_doctor_advice",
+    "life_context": "doctor_advice",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De dokter geeft advies: Drink water en slaap genoeg.",
+    "question_text_nl": "Kies de zin die past.",
+    "question_text_fa": "دکتر توصیه می‌کند آب بنوشی و کافی بخوابی. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله توصیه‌های ساده دکتر را درست بیان می‌کند.",
+    "dialogue_rule_fa": "برای فهم توصیه دکتر، به فعل‌های ساده مثل neem، drink، bel و kom دقت کن.",
+    "extra_example_nl": "Bel ons als het erger wordt.",
+    "extra_example_fa": "اگر بدتر شد با ما تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، نه فهمیدن توصیه دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik drink water en ik probeer genoeg te slapen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تغییر وقت است و معنی توصیه دکتر را نشان نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت یا درد را می‌گوید، نه واکنش مناسب به توصیه دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "understanding_doctor_advice",
+    "life_context": "doctor_advice",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De dokter zegt: Bel morgen als u nog klachten heeft.",
+    "question_text_nl": "Wat moet je morgen doen als je nog klachten hebt?",
+    "question_text_fa": "دکتر می‌گوید اگر فردا هنوز علائم داشتی تماس بگیر. اگر فردا هنوز علائم داری چه باید بکنی؟",
+    "explanation_fa": "این جمله زمان و عمل درست را نشان می‌دهد.",
+    "dialogue_rule_fa": "برای فهم توصیه دکتر، به فعل‌های ساده مثل neem، drink، bel و kom دقت کن.",
+    "extra_example_nl": "Bel ons als het erger wordt.",
+    "extra_example_fa": "اگر بدتر شد با ما تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره تغییر وقت است و معنی توصیه دکتر را نشان نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت یا درد را می‌گوید، نه واکنش مناسب به توصیه دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik moet morgen bellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه فهمیدن توصیه دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "understanding_doctor_advice",
+    "life_context": "doctor_advice",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De dokter zegt: Neem rust en kom terug als het niet beter gaat.",
+    "question_text_nl": "Welke reactie past het best?",
+    "question_text_fa": "دکتر می‌گوید استراحت کن و اگر بهتر نشد برگرد. کدام واکنش بهتر است؟",
+    "explanation_fa": "این پاسخ نشان می‌دهد هر دو بخش توصیه را فهمیده‌ای.",
+    "dialogue_rule_fa": "برای فهم توصیه دکتر، به فعل‌های ساده مثل neem، drink، bel و kom دقت کن.",
+    "extra_example_nl": "Bel ons als het erger wordt.",
+    "extra_example_fa": "اگر بدتر شد با ما تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb pijn in mijn rug.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت یا درد را می‌گوید، نه واکنش مناسب به توصیه دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه فهمیدن توصیه دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است و در این context پاسخ اصلی به توصیه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Oké, ik neem rust en ik kom terug als het nodig is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "changing_canceling_appointment",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt vandaag een afspraak, maar je kunt niet komen.",
+    "question_text_nl": "Wat zeg je tegen de assistent?",
+    "question_text_fa": "امروز وقت دکتر داری، اما نمی‌توانی بروی. به دستیار چه می‌گویی؟",
+    "explanation_fa": "این جمله دلیل تماس را ساده و واضح می‌گوید.",
+    "dialogue_rule_fa": "برای تغییر یا لغو وقت، کوتاه و مؤدبانه دلیل بگو و درخواست وقت جدید کن.",
+    "extra_example_nl": "Ik wil mijn afspraak verzetten.",
+    "extra_example_fa": "می‌خواهم وقتم را جابه‌جا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan vandaag niet komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه درخواست تغییر یا لغو وقت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است، نه تغییر یا لغو وقت دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه تغییر وقت دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "changing_canceling_appointment",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt je afspraak op een andere tijd.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی وقتت را به زمان دیگری منتقل کنی. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله برای جابه‌جا کردن وقت دکتر مناسب است.",
+    "dialogue_rule_fa": "برای تغییر یا لغو وقت، کوتاه و مؤدبانه دلیل بگو و درخواست وقت جدید کن.",
+    "extra_example_nl": "Ik wil mijn afspraak verzetten.",
+    "extra_example_fa": "می‌خواهم وقتم را جابه‌جا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است، نه تغییر یا لغو وقت دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه تغییر وقت دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک مشکل را توضیح می‌دهد، اما وقت دکتر را تغییر نمی‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "changing_canceling_appointment",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt de afspraak niet meer gebruiken.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "دیگر نمی‌خواهی از وقتت استفاده کنی. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای لغو وقت دکتر مناسب است.",
+    "dialogue_rule_fa": "برای تغییر یا لغو وقت، کوتاه و مؤدبانه دلیل بگو و درخواست وقت جدید کن.",
+    "extra_example_nl": "Ik wil mijn afspraak verzetten.",
+    "extra_example_fa": "می‌خواهم وقتم را جابه‌جا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه تغییر وقت دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک مشکل را توضیح می‌دهد، اما وقت دکتر را تغییر نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik de afspraak annuleren?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، اما برای تغییر یا لغو وقت نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "changing_canceling_appointment",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt op een andere dag komen.",
+    "question_text_nl": "Welke vraag past?",
+    "question_text_fa": "می‌خواهی روز دیگری بروی. کدام سؤال مناسب است؟",
+    "explanation_fa": "این جمله برای تغییر روز مراجعه مناسب است.",
+    "dialogue_rule_fa": "برای تغییر یا لغو وقت، کوتاه و مؤدبانه دلیل بگو و درخواست وقت جدید کن.",
+    "extra_example_nl": "Ik wil mijn afspraak verzetten.",
+    "extra_example_fa": "می‌خواهم وقتم را جابه‌جا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک مشکل را توضیح می‌دهد، اما وقت دکتر را تغییر نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، اما برای تغییر یا لغو وقت نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه جمله‌ای برای تغییر وقت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik op een andere dag komen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "changing_canceling_appointment",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent te laat voor je afspraak.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "برای وقتت دیر کرده‌ای. چه می‌گویی؟",
+    "explanation_fa": "این جمله ساده و مؤدبانه برای گفتن دیر رسیدن است.",
+    "dialogue_rule_fa": "برای تغییر یا لغو وقت، کوتاه و مؤدبانه دلیل بگو و درخواست وقت جدید کن.",
+    "extra_example_nl": "Ik wil mijn afspraak verzetten.",
+    "extra_example_fa": "می‌خواهم وقتم را جابه‌جا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik ben te laat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، اما برای تغییر یا لغو وقت نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه جمله‌ای برای تغییر وقت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه درخواست تغییر یا لغو وقت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "changing_canceling_appointment",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kunt niet naar de afspraak komen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "نمی‌توانی سر وقت دکتر حاضر شوی. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله کوتاه، مؤدبانه و مناسب برای لغو یا تغییر وقت است.",
+    "dialogue_rule_fa": "برای تغییر یا لغو وقت، کوتاه و مؤدبانه دلیل بگو و درخواست وقت جدید کن.",
+    "extra_example_nl": "Ik wil mijn afspraak verzetten.",
+    "extra_example_fa": "می‌خواهم وقتم را جابه‌جا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه جمله‌ای برای تغییر وقت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry, ik kan niet komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه درخواست تغییر یا لغو وقت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است، نه تغییر یا لغو وقت دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "changing_canceling_appointment",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De assistent biedt een tijd aan, maar die tijd lukt niet.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "دستیار یک زمان پیشنهاد می‌دهد، اما آن زمان برایت مناسب نیست. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای درخواست زمان دیگر مناسب است.",
+    "dialogue_rule_fa": "برای تغییر یا لغو وقت، کوتاه و مؤدبانه دلیل بگو و درخواست وقت جدید کن.",
+    "extra_example_nl": "Ik wil mijn afspraak verzetten.",
+    "extra_example_fa": "می‌خواهم وقتم را جابه‌جا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Drink genoeg water.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه درخواست تغییر یا لغو وقت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است، نه تغییر یا لغو وقت دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u een andere tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه تغییر وقت دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "changing_canceling_appointment",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je kunt vandaag niet komen en wilt een nieuwe afspraak.",
+    "question_text_nl": "Welke zin past het best?",
+    "question_text_fa": "امروز نمی‌توانی بروی و می‌خواهی وقت جدید بگیری. کدام جمله بهتر است؟",
+    "explanation_fa": "این جمله هم مشکل را توضیح می‌دهد و هم درخواست وقت جدید می‌کند.",
+    "dialogue_rule_fa": "برای تغییر یا لغو وقت، کوتاه و مؤدبانه دلیل بگو و درخواست وقت جدید کن.",
+    "extra_example_nl": "Ik wil mijn afspraak verzetten.",
+    "extra_example_fa": "می‌خواهم وقتم را جابه‌جا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درخواست تکرار است، نه تغییر یا لغو وقت دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه تغییر وقت دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک مشکل را توضیح می‌دهد، اما وقت دکتر را تغییر نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan vandaag niet komen. Kan ik een nieuwe afspraak maken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "changing_canceling_appointment",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je belt om je afspraak van morgen te veranderen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "تماس می‌گیری تا وقت فردایت را تغییر دهی. چه می‌گویی؟",
+    "explanation_fa": "این جمله زمان و هدف تماس را واضح بیان می‌کند.",
+    "dialogue_rule_fa": "برای تغییر یا لغو وقت، کوتاه و مؤدبانه دلیل بگو و درخواست وقت جدید کن.",
+    "extra_example_nl": "Ik wil mijn afspraak verzetten.",
+    "extra_example_fa": "می‌خواهم وقتم را جابه‌جا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak van morgen verzetten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ درباره زمان شروع علائم است، نه تغییر وقت دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک مشکل را توضیح می‌دهد، اما وقت دکتر را تغییر نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، اما برای تغییر یا لغو وقت نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "changing_canceling_appointment",
+    "life_context": "doctor_call",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je hebt een afspraak, maar je bent ziek en blijft thuis.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "وقت دکتر داری، اما مریضی و خانه می‌مانی. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله هم می‌گوید نمی‌توانی بیایی و هم یک روز دیگر می‌خواهد.",
+    "dialogue_rule_fa": "برای تغییر یا لغو وقت، کوتاه و مؤدبانه دلیل بگو و درخواست وقت جدید کن.",
+    "extra_example_nl": "Ik wil mijn afspraak verzetten.",
+    "extra_example_fa": "می‌خواهم وقتم را جابه‌جا کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik slaap slecht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله یک مشکل را توضیح می‌دهد، اما وقت دکتر را تغییر نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan niet komen. Heeft u een andere dag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb hoofdpijn.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، اما برای تغییر یا لغو وقت نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه جمله‌ای برای تغییر وقت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "clarification_at_doctor",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter praat snel en je begrijpt het niet.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دکتر سریع صحبت می‌کند و متوجه نمی‌شوی. چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه درخواست آهسته‌تر صحبت کردن است.",
+    "dialogue_rule_fa": "وقتی متوجه نمی‌شوی، از دکتر بخواه تکرار کند، توضیح دهد یا آهسته‌تر صحبت کند.",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، اما درخواست توضیح یا تکرار نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت است، نه درخواست توضیح از دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u langzamer praten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست توضیح یا تکرار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "clarification_at_doctor",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt de zin van de dokter niet goed gehoord.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "حرف دکتر را خوب نشنیدی. بهترین سؤال کدام است؟",
+    "explanation_fa": "این جمله برای درخواست تکرار بسیار مناسب است.",
+    "dialogue_rule_fa": "وقتی متوجه نمی‌شوی، از دکتر بخواه تکرار کند، توضیح دهد یا آهسته‌تر صحبت کند.",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت است، نه درخواست توضیح از دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست توضیح یا تکرار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه فهمیدن حرف دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat herhalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "clarification_at_doctor",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter legt iets uit, maar je begrijpt het niet.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دکتر چیزی توضیح می‌دهد، اما متوجه نمی‌شوی. چه می‌گویی؟",
+    "explanation_fa": "این جمله ساده و مستقیم نشان می‌دهد که متوجه نشده‌ای.",
+    "dialogue_rule_fa": "وقتی متوجه نمی‌شوی، از دکتر بخواه تکرار کند، توضیح دهد یا آهسته‌تر صحبت کند.",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست توضیح یا تکرار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه فهمیدن حرف دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جمله بیمار برای درخواست توضیح."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "clarification_at_doctor",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt dat de dokter de informatie op papier zet.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "می‌خواهی دکتر اطلاعات را روی کاغذ بنویسد. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله برای درخواست نوشتن توضیح مناسب است.",
+    "dialogue_rule_fa": "وقتی متوجه نمی‌شوی، از دکتر بخواه تکرار کند، توضیح دهد یا آهسته‌تر صحبت کند.",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه فهمیدن حرف دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u het opschrijven?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جمله بیمار برای درخواست توضیح."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه درخواست تکرار یا توضیح."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "clarification_at_doctor",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De dokter gebruikt een woord dat je niet kent.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "دکتر واژه‌ای استفاده می‌کند که نمی‌دانی. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای پرسیدن معنی یا منظور دکتر مناسب است.",
+    "dialogue_rule_fa": "وقتی متوجه نمی‌شوی، از دکتر بخواه تکرار کند، توضیح دهد یا آهسته‌تر صحبت کند.",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جمله بیمار برای درخواست توضیح."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه درخواست تکرار یا توضیح."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat bedoelt u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، اما درخواست توضیح یا تکرار نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "clarification_at_doctor",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt meer uitleg van de dokter.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "توضیح بیشتری از دکتر می‌خواهی. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله مؤدبانه برای درخواست توضیح است.",
+    "dialogue_rule_fa": "وقتی متوجه نمی‌شوی، از دکتر بخواه تکرار کند، توضیح دهد یا آهسته‌تر صحبت کند.",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه درخواست تکرار یا توضیح."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، اما درخواست توضیح یا تکرار نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت است، نه درخواست توضیح از دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat uitleggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "clarification_at_doctor",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je Nederlands is nog niet zo goed.",
+    "question_text_nl": "Wat zeg je tegen de dokter?",
+    "question_text_fa": "هلندی‌ات هنوز خیلی خوب نیست. به دکتر چه می‌گویی؟",
+    "explanation_fa": "این جمله به دکتر کمک می‌کند آهسته‌تر و ساده‌تر توضیح دهد.",
+    "dialogue_rule_fa": "وقتی متوجه نمی‌شوی، از دکتر بخواه تکرار کند، توضیح دهد یا آهسته‌تر صحبت کند.",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn Nederlands is nog niet zo goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb koorts.",
+        "is_correct": false,
+        "feedback_fa": "این جمله علامت بیماری را می‌گوید، اما درخواست توضیح یا تکرار نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت است، نه درخواست توضیح از دکتر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست توضیح یا تکرار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "clarification_at_doctor",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je begrijpt het advies niet helemaal.",
+    "question_text_nl": "Welke vraag past het best?",
+    "question_text_fa": "توصیه دکتر را کامل متوجه نشده‌ای. کدام سؤال بهتر است؟",
+    "explanation_fa": "این جمله مؤدبانه هم درخواست تکرار و هم توضیح بیشتر است.",
+    "dialogue_rule_fa": "وقتی متوجه نمی‌شوی، از دکتر بخواه تکرار کند، توضیح دهد یا آهسته‌تر صحبت کند.",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik morgen langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای گرفتن وقت است، نه درخواست توضیح از دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u dat nog een keer uitleggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست توضیح یا تکرار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه فهمیدن حرف دکتر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "clarification_at_doctor",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De dokter praat normaal, maar jij wilt het eenvoudiger.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دکتر عادی صحبت می‌کند، اما تو توضیح ساده‌تر می‌خواهی. چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه درخواست توضیح ساده‌تر است.",
+    "dialogue_rule_fa": "وقتی متوجه نمی‌شوی، از دکتر بخواه تکرار کند، توضیح دهد یا آهسته‌تر صحبت کند.",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds gisteren.",
+        "is_correct": false,
+        "feedback_fa": "این پاسخ زمان شروع مشکل است، نه درخواست توضیح یا تکرار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه فهمیدن حرف دکتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u het eenvoudig uitleggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جمله بیمار برای درخواست توضیح."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "doctor",
+    "subtopic": "clarification_at_doctor",
+    "life_context": "doctor_appointment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De dokter zegt iets belangrijks en jij wilt zeker zijn.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "دکتر نکته مهمی می‌گوید و می‌خواهی مطمئن شوی درست فهمیدی. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله مؤدبانه و مناسب برای درخواست تکرار در مطب دکتر است.",
+    "dialogue_rule_fa": "وقتی متوجه نمی‌شوی، از دکتر بخواه تکرار کند، توضیح دهد یا آهسته‌تر صحبت کند.",
+    "extra_example_nl": "Kunt u dat uitleggen?",
+    "extra_example_fa": "می‌توانید آن را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil mijn afspraak verzetten.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای تغییر وقت است، نه فهمیدن حرف دکتر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neem rust.",
+        "is_correct": false,
+        "feedback_fa": "این توصیه دکتر است، نه جمله بیمار برای درخواست توضیح."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar heeft u pijn?",
+        "is_correct": false,
+        "feedback_fa": "این سؤال دکتر درباره محل درد است، نه درخواست تکرار یا توضیح."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat alstublieft herhalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله در این مکالمه طبیعی، ساده و مناسب است."
+      }
+    ]
+  }
+]

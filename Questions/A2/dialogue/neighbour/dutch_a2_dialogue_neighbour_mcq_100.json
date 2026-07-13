@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "greeting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je buurvrouw in de ochtend.",
+    "question_text_nl": "Kies de beste groet.",
+    "question_text_fa": "صبح همسایه خانم خود را می‌بینی. بهترین سلام کدام است؟",
+    "explanation_fa": "برای سلام صبح به همسایه خانم، این جمله طبیعی و مؤدبانه است.",
+    "dialogue_rule_fa": "برای سلام و خداحافظی با همسایه، جمله کوتاه و مؤدبانه مثل Goedemorgen یا Fijne dag مناسب است.",
+    "extra_example_nl": "Hallo buurvrouw, alles goed?",
+    "extra_example_fa": "سلام همسایه خانم، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen buurvrouw, hoe gaat het?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سلام و احوال‌پرسی یا خداحافظی با همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "greeting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je buurman in de avond bij de voordeur.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "شب همسایه مرد را کنار در ورودی می‌بینی. چه می‌گویی؟",
+    "explanation_fa": "در شب برای سلام کردن به همسایه از Goedenavond استفاده می‌شود.",
+    "dialogue_rule_fa": "برای سلام و خداحافظی با همسایه، جمله کوتاه و مؤدبانه مثل Goedemorgen یا Fijne dag مناسب است.",
+    "extra_example_nl": "Hallo buurvrouw, alles goed?",
+    "extra_example_fa": "سلام همسایه خانم، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedenavond buurman.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سلام و احوال‌پرسی یا خداحافظی با همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "greeting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt je buurvrouw in de middag in de gang tegen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "بعدازظهر همسایه خانم را در راهرو می‌بینی. بهترین جمله کدام است؟",
+    "explanation_fa": "برای سلام بعدازظهر به همسایه، Goedemiddag مناسب است.",
+    "dialogue_rule_fa": "برای سلام و خداحافظی با همسایه، جمله کوتاه و مؤدبانه مثل Goedemorgen یا Fijne dag مناسب است.",
+    "extra_example_nl": "Hallo buurvrouw, alles goed?",
+    "extra_example_fa": "سلام همسایه خانم، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemiddag buurvrouw.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سلام و احوال‌پرسی یا خداحافظی با همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "greeting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je buurman en wilt kort vragen hoe het gaat.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "همسایه مرد را می‌بینی و می‌خواهی کوتاه حالش را بپرسی. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله مؤدبانه و ساده برای احوال‌پرسی با همسایه است.",
+    "dialogue_rule_fa": "برای سلام و خداحافظی با همسایه، جمله کوتاه و مؤدبانه مثل Goedemorgen یا Fijne dag مناسب است.",
+    "extra_example_nl": "Hallo buurvrouw, alles goed?",
+    "extra_example_fa": "سلام همسایه خانم، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe gaat het met u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سلام و احوال‌پرسی یا خداحافظی با همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "greeting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je praat kort met je buurvrouw en gaat weg.",
+    "question_text_nl": "Kies de beste afsluiting.",
+    "question_text_fa": "کمی با همسایه خانم صحبت کرده‌ای و می‌خواهی بروی. بهترین پایان مکالمه چیست؟",
+    "explanation_fa": "برای خداحافظی مؤدبانه با همسایه، این جمله طبیعی است.",
+    "dialogue_rule_fa": "برای سلام و خداحافظی با همسایه، جمله کوتاه و مؤدبانه مثل Goedemorgen یا Fijne dag مناسب است.",
+    "extra_example_nl": "Hallo buurvrouw, alles goed?",
+    "extra_example_fa": "سلام همسایه خانم، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Fijne dag, tot ziens.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سلام و احوال‌پرسی یا خداحافظی با همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hallo, ik ben uw nieuwe buurvrouw.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای معرفی به همسایه جدید است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "greeting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je buurman in de lift.",
+    "question_text_nl": "Hoe begroet je hem kort?",
+    "question_text_fa": "همسایه مرد را در آسانسور می‌بینی. چطور کوتاه سلام می‌کنی؟",
+    "explanation_fa": "این جمله کوتاه و دوستانه برای سلام و احوال‌پرسی با همسایه است.",
+    "dialogue_rule_fa": "برای سلام و خداحافظی با همسایه، جمله کوتاه و مؤدبانه مثل Goedemorgen یا Fijne dag مناسب است.",
+    "extra_example_nl": "Hallo buurvrouw, alles goed?",
+    "extra_example_fa": "سلام همسایه خانم، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hallo buurman, alles goed?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سلام و احوال‌پرسی یا خداحافظی با همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik even langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای رفتن پیش همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "greeting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je buurvrouw zegt: Fijne dag!",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه خانم می‌گوید: روز خوبی داشته باشید! بهترین جواب چیست؟",
+    "explanation_fa": "وقتی همسایه برایت روز خوبی آرزو می‌کند، این جواب مؤدبانه است.",
+    "dialogue_rule_fa": "برای سلام و خداحافظی با همسایه، جمله کوتاه و مؤدبانه مثل Goedemorgen یا Fijne dag مناسب است.",
+    "extra_example_nl": "Hallo buurvrouw, alles goed?",
+    "extra_example_fa": "سلام همسایه خانم، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dank u, u ook een fijne dag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سلام و احوال‌پرسی یا خداحافظی با همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "greeting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Het is vrijdag en je ziet je buurman bij de brievenbussen.",
+    "question_text_nl": "Wat zeg je vriendelijk?",
+    "question_text_fa": "جمعه است و همسایه مرد را کنار صندوق نامه‌ها می‌بینی. دوستانه چه می‌گویی؟",
+    "explanation_fa": "برای شروع یا پایان کوتاه مکالمه در جمعه، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای سلام و خداحافظی با همسایه، جمله کوتاه و مؤدبانه مثل Goedemorgen یا Fijne dag مناسب است.",
+    "extra_example_nl": "Hallo buurvrouw, alles goed?",
+    "extra_example_fa": "سلام همسایه خانم، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Prettig weekend, buurman.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سلام و احوال‌پرسی یا خداحافظی با همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "greeting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet twee buren bij de ingang.",
+    "question_text_nl": "Kies de beste groet.",
+    "question_text_fa": "دو همسایه را کنار ورودی می‌بینی. بهترین سلام چیست؟",
+    "explanation_fa": "وقتی چند همسایه را می‌بینی، Hallo buren طبیعی و ساده است.",
+    "dialogue_rule_fa": "برای سلام و خداحافظی با همسایه، جمله کوتاه و مؤدبانه مثل Goedemorgen یا Fijne dag مناسب است.",
+    "extra_example_nl": "Hallo buurvrouw, alles goed?",
+    "extra_example_fa": "سلام همسایه خانم، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hallo buren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سلام و احوال‌پرسی یا خداحافظی با همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "greeting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je stapt uit de lift en neemt afscheid van je buurvrouw.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "از آسانسور پیاده می‌شوی و از همسایه خانم خداحافظی می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "برای خداحافظی عصر یا شب با همسایه، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای سلام و خداحافظی با همسایه، جمله کوتاه و مؤدبانه مثل Goedemorgen یا Fijne dag مناسب است.",
+    "extra_example_nl": "Hallo buurvrouw, alles goed?",
+    "extra_example_fa": "سلام همسایه خانم، همه چیز خوب است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot ziens, fijne avond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای سلام و احوال‌پرسی یا خداحافظی با همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "introducing_to_neighbor",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent nieuw in het gebouw en ontmoet je buurman.",
+    "question_text_nl": "Hoe stel je jezelf voor?",
+    "question_text_fa": "در ساختمان جدید هستی و همسایه مرد را می‌بینی. چطور خودت را معرفی می‌کنی؟",
+    "explanation_fa": "برای معرفی خود به همسایه جدید، این جمله مستقیم و مؤدبانه است.",
+    "dialogue_rule_fa": "برای معرفی به همسایه جدید، می‌گویی: Ik ben uw nieuwe buurman/buurvrouw یا Ik woon hiernaast.",
+    "extra_example_nl": "Hallo, ik woon hiernaast.",
+    "extra_example_fa": "سلام، من کنار شما زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hallo, ik ben uw nieuwe buurman.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای معرفی خود به همسایه جدید طبیعی و مؤدبانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "introducing_to_neighbor",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent een nieuwe buurvrouw en woont boven de buren.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همسایه خانم جدید هستی و بالای همسایه‌ها زندگی می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "این جمله هم معرفی است و هم جای زندگی را ساده توضیح می‌دهد.",
+    "dialogue_rule_fa": "برای معرفی به همسایه جدید، می‌گویی: Ik ben uw nieuwe buurman/buurvrouw یا Ik woon hiernaast.",
+    "extra_example_nl": "Hallo, ik woon hiernaast.",
+    "extra_example_fa": "سلام، من کنار شما زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hallo, ik ben uw nieuwe buurvrouw. Ik woon boven u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای معرفی خود به همسایه جدید طبیعی و مؤدبانه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "introducing_to_neighbor",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je woont beneden je nieuwe buurman.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "پایینِ همسایه مرد جدید زندگی می‌کنی. بهترین جمله چیست؟",
+    "explanation_fa": "برای گفتن جای خانه نسبت به همسایه، Ik woon beneden u مناسب است.",
+    "dialogue_rule_fa": "برای معرفی به همسایه جدید، می‌گویی: Ik ben uw nieuwe buurman/buurvrouw یا Ik woon hiernaast.",
+    "extra_example_nl": "Hallo, ik woon hiernaast.",
+    "extra_example_fa": "سلام، من کنار شما زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik woon beneden u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای معرفی خود به همسایه جدید طبیعی و مؤدبانه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "introducing_to_neighbor",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ontmoet je nieuwe buurvrouw en wilt je naam zeggen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همسایه خانم جدید را می‌بینی و می‌خواهی نامت را بگویی. چه می‌گویی؟",
+    "explanation_fa": "این جمله نام و محل زندگی کنار همسایه را ساده معرفی می‌کند.",
+    "dialogue_rule_fa": "برای معرفی به همسایه جدید، می‌گویی: Ik ben uw nieuwe buurman/buurvrouw یا Ik woon hiernaast.",
+    "extra_example_nl": "Hallo, ik woon hiernaast.",
+    "extra_example_fa": "سلام، من کنار شما زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn naam is Sara. Ik woon hiernaast.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای معرفی خود به همسایه جدید طبیعی و مؤدبانه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "introducing_to_neighbor",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Ik ben uw nieuwe buurman. B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه جدید خودش را معرفی می‌کند. بهترین پاسخ چیست؟",
+    "explanation_fa": "وقتی کسی خودش را معرفی می‌کند، این جواب مؤدبانه و طبیعی است.",
+    "dialogue_rule_fa": "برای معرفی به همسایه جدید، می‌گویی: Ik ben uw nieuwe buurman/buurvrouw یا Ik woon hiernaast.",
+    "extra_example_nl": "Hallo, ik woon hiernaast.",
+    "extra_example_fa": "سلام، من کنار شما زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Aangenaam, leuk u te ontmoeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای معرفی خود به همسایه جدید طبیعی و مؤدبانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "introducing_to_neighbor",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Jij en je partner wonen nieuw naast de buren.",
+    "question_text_nl": "Hoe stellen jullie je voor?",
+    "question_text_fa": "تو و همراهت تازه کنار همسایه‌ها زندگی می‌کنید. چطور خودتان را معرفی می‌کنید؟",
+    "explanation_fa": "وقتی دو نفر خود را معرفی می‌کنند، wij zijn uw nieuwe buren مناسب است.",
+    "dialogue_rule_fa": "برای معرفی به همسایه جدید، می‌گویی: Ik ben uw nieuwe buurman/buurvrouw یا Ik woon hiernaast.",
+    "extra_example_nl": "Hallo, ik woon hiernaast.",
+    "extra_example_fa": "سلام، من کنار شما زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hallo, wij zijn uw nieuwe buren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای معرفی خود به همسایه جدید طبیعی و مؤدبانه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "introducing_to_neighbor",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent vandaag verhuisd en ziet de buurvrouw.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "امروز اسباب‌کشی کرده‌ای و همسایه خانم را می‌بینی. چه می‌گویی؟",
+    "explanation_fa": "این جمله ساده می‌گوید که تازه امروز آنجا زندگی می‌کنی.",
+    "dialogue_rule_fa": "برای معرفی به همسایه جدید، می‌گویی: Ik ben uw nieuwe buurman/buurvrouw یا Ik woon hiernaast.",
+    "extra_example_nl": "Hallo, ik woon hiernaast.",
+    "extra_example_fa": "سلام، من کنار شما زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hallo, ik woon hier sinds vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای معرفی خود به همسایه جدید طبیعی و مؤدبانه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "introducing_to_neighbor",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je woont naast je nieuwe buurman op nummer 12.",
+    "question_text_nl": "Kies de beste introductie.",
+    "question_text_fa": "کنار همسایه مرد جدید در شماره ۱۲ زندگی می‌کنی. بهترین معرفی چیست؟",
+    "explanation_fa": "این جمله دقیق و ساده جای خانه تو را برای همسایه توضیح می‌دهد.",
+    "dialogue_rule_fa": "برای معرفی به همسایه جدید، می‌گویی: Ik ben uw nieuwe buurman/buurvrouw یا Ik woon hiernaast.",
+    "extra_example_nl": "Hallo, ik woon hiernaast.",
+    "extra_example_fa": "سلام، من کنار شما زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik woon naast u, op nummer 12.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای معرفی خود به همسایه جدید طبیعی و مؤدبانه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "introducing_to_neighbor",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ontmoet voor het eerst de buurvrouw in de gang.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "برای اولین بار همسایه خانم را در راهرو می‌بینی. کدام جمله مناسب است؟",
+    "explanation_fa": "برای اولین دیدار با همسایه، این جمله مؤدبانه و طبیعی است.",
+    "dialogue_rule_fa": "برای معرفی به همسایه جدید، می‌گویی: Ik ben uw nieuwe buurman/buurvrouw یا Ik woon hiernaast.",
+    "extra_example_nl": "Hallo, ik woon hiernaast.",
+    "extra_example_fa": "سلام، من کنار شما زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Leuk u te ontmoeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای معرفی خود به همسایه جدید طبیعی و مؤدبانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "introducing_to_neighbor",
+    "life_context": "first_meeting",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Bent u nieuw hier? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌پرسد: اینجا تازه هستید؟ بهترین جواب چیست؟",
+    "explanation_fa": "این پاسخ ساده و دقیق به سؤال همسایه درباره تازه بودن تو است.",
+    "dialogue_rule_fa": "برای معرفی به همسایه جدید، می‌گویی: Ik ben uw nieuwe buurman/buurvrouw یا Ik woon hiernaast.",
+    "extra_example_nl": "Hallo, ik woon hiernaast.",
+    "extra_example_fa": "سلام، من کنار شما زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, ik woon hiernaast.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای معرفی خود به همسایه جدید طبیعی و مؤدبانه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "small_talk_neighbor",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je buurman buiten en het weer is mooi.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همسایه مرد را بیرون می‌بینی و هوا خوب است. چه می‌گویی؟",
+    "explanation_fa": "صحبت درباره هوا یک گفت‌وگوی کوتاه طبیعی با همسایه است.",
+    "dialogue_rule_fa": "برای گفت‌وگوی کوتاه با همسایه، درباره هوا، آخر هفته یا حال عمومی جمله‌های ساده استفاده کن.",
+    "extra_example_nl": "Prettig weekend, buurman.",
+    "extra_example_fa": "آخر هفته خوبی داشته باشید، همسایه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mooi weer vandaag, hè?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای گفت‌وگوی کوتاه روزمره با همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "small_talk_neighbor",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat met je buurvrouw bij de ingang en het is koud.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "با همسایه خانم کنار ورودی هستی و هوا سرد است. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله ساده و مناسب برای گفت‌وگوی کوتاه درباره هوا است.",
+    "dialogue_rule_fa": "برای گفت‌وگوی کوتاه با همسایه، درباره هوا، آخر هفته یا حال عمومی جمله‌های ساده استفاده کن.",
+    "extra_example_nl": "Prettig weekend, buurman.",
+    "extra_example_fa": "آخر هفته خوبی داشته باشید، همسایه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het is koud vandaag, hè?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای گفت‌وگوی کوتاه روزمره با همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "small_talk_neighbor",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je buurman na het werk in de gang.",
+    "question_text_nl": "Wat vraag je vriendelijk?",
+    "question_text_fa": "بعد از کار همسایه مرد را در راهرو می‌بینی. دوستانه چه می‌پرسی؟",
+    "explanation_fa": "این جمله کوتاه و دوستانه برای شروع گفت‌وگوی روزمره است.",
+    "dialogue_rule_fa": "برای گفت‌وگوی کوتاه با همسایه، درباره هوا، آخر هفته یا حال عمومی جمله‌های ساده استفاده کن.",
+    "extra_example_nl": "Prettig weekend, buurman.",
+    "extra_example_fa": "آخر هفته خوبی داشته باشید، همسایه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gaat alles goed?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای گفت‌وگوی کوتاه روزمره با همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "small_talk_neighbor",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Het is vrijdagmiddag en je ziet je buurvrouw.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "جمعه بعدازظهر همسایه خانم را می‌بینی. چه می‌گویی؟",
+    "explanation_fa": "برای آرزو کردن آخر هفته خوب به همسایه، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای گفت‌وگوی کوتاه با همسایه، درباره هوا، آخر هفته یا حال عمومی جمله‌های ساده استفاده کن.",
+    "extra_example_nl": "Prettig weekend, buurman.",
+    "extra_example_fa": "آخر هفته خوبی داشته باشید، همسایه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Prettig weekend.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای گفت‌وگوی کوتاه روزمره با همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "small_talk_neighbor",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je buurman in de avond bij de lift.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "شب همسایه مرد را کنار آسانسور می‌بینی. بهترین جمله چیست؟",
+    "explanation_fa": "برای مکالمه کوتاه در عصر یا شب، Fijne avond طبیعی است.",
+    "dialogue_rule_fa": "برای گفت‌وگوی کوتاه با همسایه، درباره هوا، آخر هفته یا حال عمومی جمله‌های ساده استفاده کن.",
+    "extra_example_nl": "Prettig weekend, buurman.",
+    "extra_example_fa": "آخر هفته خوبی داشته باشید، همسایه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Fijne avond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای گفت‌وگوی کوتاه روزمره با همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "small_talk_neighbor",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt je buurvrouw lang niet gezien.",
+    "question_text_nl": "Wat zeg je vriendelijk?",
+    "question_text_fa": "مدتی همسایه خانم را ندیده‌ای. دوستانه چه می‌گویی؟",
+    "explanation_fa": "این جمله برای دیدن دوباره همسایه بعد از مدتی مناسب است.",
+    "dialogue_rule_fa": "برای گفت‌وگوی کوتاه با همسایه، درباره هوا، آخر هفته یا حال عمومی جمله‌های ساده استفاده کن.",
+    "extra_example_nl": "Prettig weekend, buurman.",
+    "extra_example_fa": "آخر هفته خوبی داشته باشید، همسایه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Leuk u weer te zien.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای گفت‌وگوی کوتاه روزمره با همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "small_talk_neighbor",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet de tuin van je buurman en die ziet er netjes uit.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "باغچه همسایه مرد را می‌بینی و مرتب است. چه می‌گویی؟",
+    "explanation_fa": "این جمله تعریف کوتاه و مودبانه درباره باغچه همسایه است.",
+    "dialogue_rule_fa": "برای گفت‌وگوی کوتاه با همسایه، درباره هوا، آخر هفته یا حال عمومی جمله‌های ساده استفاده کن.",
+    "extra_example_nl": "Prettig weekend, buurman.",
+    "extra_example_fa": "آخر هفته خوبی داشته باشید، همسایه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Uw tuin ziet er mooi uit.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای گفت‌وگوی کوتاه روزمره با همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "small_talk_neighbor",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Het regent en je ziet je buurvrouw bij de brievenbussen.",
+    "question_text_nl": "Kies de beste small talk.",
+    "question_text_fa": "باران می‌آید و همسایه خانم را کنار صندوق نامه‌ها می‌بینی. بهترین گفت‌وگوی کوتاه چیست؟",
+    "explanation_fa": "صحبت کوتاه درباره باران برای همسایه طبیعی و ساده است.",
+    "dialogue_rule_fa": "برای گفت‌وگوی کوتاه با همسایه، درباره هوا، آخر هفته یا حال عمومی جمله‌های ساده استفاده کن.",
+    "extra_example_nl": "Prettig weekend, buurman.",
+    "extra_example_fa": "آخر هفته خوبی داشته باشید، همسایه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Veel regen vandaag, hè?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای گفت‌وگوی کوتاه روزمره با همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "small_talk_neighbor",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet je buurman elke ochtend in de gang.",
+    "question_text_nl": "Wat zeg je bij het afscheid?",
+    "question_text_fa": "هر صبح همسایه مرد را در راهرو می‌بینی. هنگام خداحافظی چه می‌گویی؟",
+    "explanation_fa": "اگر هر روز همدیگر را می‌بینید، Tot morgen برای خداحافظی مناسب است.",
+    "dialogue_rule_fa": "برای گفت‌وگوی کوتاه با همسایه، درباره هوا، آخر هفته یا حال عمومی جمله‌های ساده استفاده کن.",
+    "extra_example_nl": "Prettig weekend, buurman.",
+    "extra_example_fa": "آخر هفته خوبی داشته باشید، همسایه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای گفت‌وگوی کوتاه روزمره با همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "small_talk_neighbor",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Hoe gaat het met u? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌پرسد: حالتان چطور است؟ بهترین پاسخ چیست؟",
+    "explanation_fa": "این پاسخ کوتاه و طبیعی برای احوال‌پرسی با همسایه است.",
+    "dialogue_rule_fa": "برای گفت‌وگوی کوتاه با همسایه، درباره هوا، آخر هفته یا حال عمومی جمله‌های ساده استفاده کن.",
+    "extra_example_nl": "Prettig weekend, buurman.",
+    "extra_example_fa": "آخر هفته خوبی داشته باشید، همسایه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goed, dank u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای گفت‌وگوی کوتاه روزمره با همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "asking_neighbor_help",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je draagt een zware tas en ziet je buurman.",
+    "question_text_nl": "Hoe vraag je hulp?",
+    "question_text_fa": "یک کیف سنگین داری و همسایه مرد را می‌بینی. چطور کمک می‌خواهی؟",
+    "explanation_fa": "این جمله مؤدبانه و دقیق برای کمک با یک کیف سنگین است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همسایه، مؤدبانه از Kunt u ...? یا Heeft u even tijd? استفاده کن.",
+    "extra_example_nl": "Kunt u mij even helpen met deze doos?",
+    "extra_example_fa": "می‌توانید کمی در مورد این جعبه به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij helpen met deze tas?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای کمک خواستن از همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "asking_neighbor_help",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt binnen met dozen en je buurvrouw staat bij de deur.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "با جعبه‌ها وارد می‌شوی و همسایه خانم کنار در است. چه می‌پرسی؟",
+    "explanation_fa": "برای درخواست نگه داشتن در، این جمله کوتاه و مؤدبانه است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همسایه، مؤدبانه از Kunt u ...? یا Heeft u even tijd? استفاده کن.",
+    "extra_example_nl": "Kunt u mij even helpen met deze doos?",
+    "extra_example_fa": "می‌توانید کمی در مورد این جعبه به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u de deur even openhouden?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای کمک خواستن از همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "asking_neighbor_help",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt een zware doos bij de lift.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "یک جعبه سنگین کنار آسانسور داری. بهترین سؤال چیست؟",
+    "explanation_fa": "این جمله مؤدبانه اول زمان همسایه را می‌پرسد و بعد کمک می‌خواهد.",
+    "dialogue_rule_fa": "برای کمک خواستن از همسایه، مؤدبانه از Kunt u ...? یا Heeft u even tijd? استفاده کن.",
+    "extra_example_nl": "Kunt u mij even helpen met deze doos?",
+    "extra_example_fa": "می‌توانید کمی در مورد این جعبه به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u even tijd om te helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای کمک خواستن از همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "asking_neighbor_help",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begrijpt een brief in de brievenbus niet en vraagt je buurman kort om hulp.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک نامه را نمی‌فهمی و کوتاه از همسایه مرد کمک می‌خواهی. چه می‌گویی؟",
+    "explanation_fa": "برای خواستن کمک کوتاه برای نگاه کردن به چیزی، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همسایه، مؤدبانه از Kunt u ...? یا Heeft u even tijd? استفاده کن.",
+    "extra_example_nl": "Kunt u mij even helpen met deze doos?",
+    "extra_example_fa": "می‌توانید کمی در مورد این جعبه به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u even meekijken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای کمک خواستن از همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "asking_neighbor_help",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt met een kinderwagen de trap op.",
+    "question_text_nl": "Hoe vraag je beleefd hulp?",
+    "question_text_fa": "می‌خواهی کالسکه را از پله بالا ببری. مؤدبانه چطور کمک می‌خواهی؟",
+    "explanation_fa": "این جمله دقیقاً کمک برای کالسکه در ساختمان را درخواست می‌کند.",
+    "dialogue_rule_fa": "برای کمک خواستن از همسایه، مؤدبانه از Kunt u ...? یا Heeft u even tijd? استفاده کن.",
+    "extra_example_nl": "Kunt u mij even helpen met deze doos?",
+    "extra_example_fa": "می‌توانید کمی در مورد این جعبه به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u even helpen met de kinderwagen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای کمک خواستن از همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "asking_neighbor_help",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je sleutel is in de gang gevallen en je ziet je buurvrouw.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کلیدت در راهرو افتاده و همسایه خانم را می‌بینی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای کمک کوتاه در پیدا کردن چیزی مناسب است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همسایه، مؤدبانه از Kunt u ...? یا Heeft u even tijd? استفاده کن.",
+    "extra_example_nl": "Kunt u mij even helpen met deze doos?",
+    "extra_example_fa": "می‌توانید کمی در مورد این جعبه به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij even helpen zoeken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای کمک خواستن از همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "asking_neighbor_help",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je buurman heeft je geholpen met een doos.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همسایه مرد در حمل جعبه به تو کمک کرده است. چه می‌گویی؟",
+    "explanation_fa": "بعد از کمک همسایه، تشکر کردن با این جمله طبیعی است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همسایه، مؤدبانه از Kunt u ...? یا Heeft u even tijd? استفاده کن.",
+    "extra_example_nl": "Kunt u mij even helpen met deze doos?",
+    "extra_example_fa": "می‌توانید کمی در مورد این جعبه به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dank u voor uw hulp.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای کمک خواستن از همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "asking_neighbor_help",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je moet een doos even neerzetten en vraagt je buurvrouw iets vast te houden.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "باید جعبه‌ای را زمین بگذاری و از همسایه خانم می‌خواهی چیزی را نگه دارد. چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه و مشخص برای نگه داشتن کوتاه جعبه است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همسایه، مؤدبانه از Kunt u ...? یا Heeft u even tijd? استفاده کن.",
+    "extra_example_nl": "Kunt u mij even helpen met deze doos?",
+    "extra_example_fa": "می‌توانید کمی در مورد این جعبه به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u deze doos even vasthouden?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای کمک خواستن از همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "asking_neighbor_help",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt de buurman iets vragen, maar hij is druk.",
+    "question_text_nl": "Wat zeg je eerst?",
+    "question_text_fa": "می‌خواهی از همسایه مرد چیزی بپرسی، ولی او مشغول است. اول چه می‌گویی؟",
+    "explanation_fa": "قبل از درخواست، پرسیدن وقت همسایه مؤدبانه است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همسایه، مؤدبانه از Kunt u ...? یا Heeft u even tijd? استفاده کن.",
+    "extra_example_nl": "Kunt u mij even helpen met deze doos?",
+    "extra_example_fa": "می‌توانید کمی در مورد این جعبه به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u even tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای کمک خواستن از همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "asking_neighbor_help",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je staat voor de deur met volle handen en je buurvrouw is binnen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "با دست‌های پر پشت در هستی و همسایه خانم داخل است. چه می‌پرسی؟",
+    "explanation_fa": "این جمله مؤدبانه برای درخواست باز کردن در مناسب است.",
+    "dialogue_rule_fa": "برای کمک خواستن از همسایه، مؤدبانه از Kunt u ...? یا Heeft u even tijd? استفاده کن.",
+    "extra_example_nl": "Kunt u mij even helpen met deze doos?",
+    "extra_example_fa": "می‌توانید کمی در مورد این جعبه به من کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u de deur voor mij opendoen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای کمک خواستن از همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "borrowing_lending_neighbor",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt iets hoogs pakken en hebt geen ladder.",
+    "question_text_nl": "Wat vraag je aan je buurman?",
+    "question_text_fa": "می‌خواهی چیزی را از بالا برداری و نردبان نداری. از همسایه مرد چه می‌پرسی؟",
+    "explanation_fa": "برای قرض گرفتن نردبان از همسایه، این جمله مؤدبانه و مستقیم است.",
+    "dialogue_rule_fa": "برای قرض گرفتن وسیله از همسایه، می‌گویی: Mag ik ... lenen? و زمان برگرداندن را ساده بگو.",
+    "extra_example_nl": "Ik breng de bezem morgen terug.",
+    "extra_example_fa": "جارو را فردا برمی‌گردانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قرض گرفتن یا برگرداندن وسیله از همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "borrowing_lending_neighbor",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt de gang schoonmaken en hebt geen bezem.",
+    "question_text_nl": "Wat vraag je aan je buurvrouw?",
+    "question_text_fa": "می‌خواهی راهرو را تمیز کنی و جارو نداری. از همسایه خانم چه می‌پرسی؟",
+    "explanation_fa": "برای قرض گرفتن جاروی ساده از همسایه، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای قرض گرفتن وسیله از همسایه، می‌گویی: Mag ik ... lenen? و زمان برگرداندن را ساده بگو.",
+    "extra_example_nl": "Ik breng de bezem morgen terug.",
+    "extra_example_fa": "جارو را فردا برمی‌گردانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw bezem even lenen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قرض گرفتن یا برگرداندن وسیله از همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "borrowing_lending_neighbor",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je band is zacht en je buurman heeft misschien een pomp.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "لاستیکت باد ندارد و شاید همسایه مرد پمپ داشته باشد. بهترین سؤال چیست؟",
+    "explanation_fa": "این جمله مؤدبانه برای پرسیدن درباره داشتن یک پمپ است.",
+    "dialogue_rule_fa": "برای قرض گرفتن وسیله از همسایه، می‌گویی: Mag ik ... lenen? و زمان برگرداندن را ساده بگو.",
+    "extra_example_nl": "Ik breng de bezem morgen terug.",
+    "extra_example_fa": "جارو را فردا برمی‌گردانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u misschien een pomp?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قرض گرفتن یا برگرداندن وسیله از همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "borrowing_lending_neighbor",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt een schroef los en wilt een kleine schroevendraaier lenen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک پیچ شل شده و می‌خواهی پیچ‌گوشتی کوچک قرض بگیری. چه می‌گویی؟",
+    "explanation_fa": "این جمله ساده و مناسب برای قرض گرفتن پیچ‌گوشتی از همسایه است.",
+    "dialogue_rule_fa": "برای قرض گرفتن وسیله از همسایه، می‌گویی: Mag ik ... lenen? و زمان برگرداندن را ساده بگو.",
+    "extra_example_nl": "Ik breng de bezem morgen terug.",
+    "extra_example_fa": "جارو را فردا برمی‌گردانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u misschien een schroevendraaier?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قرض گرفتن یا برگرداندن وسیله از همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "borrowing_lending_neighbor",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt de vloer bij de voordeur schoonmaken en hebt een emmer nodig.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی کف جلوی در را تمیز کنی و به سطل نیاز داری. چه می‌پرسی؟",
+    "explanation_fa": "این جمله مؤدبانه برای قرض گرفتن سطل از همسایه است.",
+    "dialogue_rule_fa": "برای قرض گرفتن وسیله از همسایه، می‌گویی: Mag ik ... lenen? و زمان برگرداندن را ساده بگو.",
+    "extra_example_nl": "Ik breng de bezem morgen terug.",
+    "extra_example_fa": "جارو را فردا برمی‌گردانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw emmer even lenen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قرض گرفتن یا برگرداندن وسیله از همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik even langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای رفتن پیش همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "borrowing_lending_neighbor",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een formulier bij de buurman invullen en hebt geen pen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی فرمی را پیش همسایه پر کنی و خودکار نداری. چه می‌گویی؟",
+    "explanation_fa": "برای قرض گرفتن یک خودکار، این جمله کوتاه و ساده مناسب است.",
+    "dialogue_rule_fa": "برای قرض گرفتن وسیله از همسایه، می‌گویی: Mag ik ... lenen? و زمان برگرداندن را ساده بگو.",
+    "extra_example_nl": "Ik breng de bezem morgen terug.",
+    "extra_example_fa": "جارو را فردا برمی‌گردانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik een pen lenen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قرض گرفتن یا برگرداندن وسیله از همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "borrowing_lending_neighbor",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je telefoon is leeg en je buurvrouw heeft misschien een oplader.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "شارژ گوشی‌ات تمام شده و شاید همسایه خانم شارژر داشته باشد. بهترین سؤال چیست؟",
+    "explanation_fa": "این جمله مؤدبانه برای پرسیدن درباره شارژر است.",
+    "dialogue_rule_fa": "برای قرض گرفتن وسیله از همسایه، می‌گویی: Mag ik ... lenen? و زمان برگرداندن را ساده بگو.",
+    "extra_example_nl": "Ik breng de bezem morgen terug.",
+    "extra_example_fa": "جارو را فردا برمی‌گردانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u misschien een oplader?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قرض گرفتن یا برگرداندن وسیله از همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "borrowing_lending_neighbor",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je leent een ladder van je buurman en wilt zeggen wanneer je die terugbrengt.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "از همسایه مرد نردبان قرض می‌گیری و می‌خواهی بگویی کی برمی‌گردانی. چه می‌گویی؟",
+    "explanation_fa": "هنگام قرض گرفتن وسیله، گفتن زمان برگرداندن مؤدبانه است.",
+    "dialogue_rule_fa": "برای قرض گرفتن وسیله از همسایه، می‌گویی: Mag ik ... lenen? و زمان برگرداندن را ساده بگو.",
+    "extra_example_nl": "Ik breng de bezem morgen terug.",
+    "extra_example_fa": "جارو را فردا برمی‌گردانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik breng het straks terug.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قرض گرفتن یا برگرداندن وسیله از همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "borrowing_lending_neighbor",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Wanneer brengt u de bezem terug? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌پرسد: جارو را کی برمی‌گردانید؟ بهترین جواب چیست؟",
+    "explanation_fa": "این جواب مستقیم و ساده زمان برگرداندن وسیله را می‌گوید.",
+    "dialogue_rule_fa": "برای قرض گرفتن وسیله از همسایه، می‌گویی: Mag ik ... lenen? و زمان برگرداندن را ساده بگو.",
+    "extra_example_nl": "Ik breng de bezem morgen terug.",
+    "extra_example_fa": "جارو را فردا برمی‌گردانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik geef het morgen terug.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قرض گرفتن یا برگرداندن وسیله از همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "borrowing_lending_neighbor",
+    "life_context": "help",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Mag ik uw bezem lenen? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌پرسد: می‌توانم جاروی شما را قرض بگیرم؟ بهترین جواب چیست؟",
+    "explanation_fa": "این پاسخ کوتاه یعنی قرض دادن وسیله مشکلی ندارد.",
+    "dialogue_rule_fa": "برای قرض گرفتن وسیله از همسایه، می‌گویی: Mag ik ... lenen? و زمان برگرداندن را ساده بگو.",
+    "extra_example_nl": "Ik breng de bezem morgen terug.",
+    "extra_example_fa": "جارو را فردا برمی‌گردانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geen probleem.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای قرض گرفتن یا برگرداندن وسیله از همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "noise_neighbor",
+    "life_context": "noise",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hoort harde muziek bij de buren.",
+    "question_text_nl": "Wat zeg je beleefd?",
+    "question_text_fa": "از خانه همسایه موسیقی بلند می‌شنوی. مؤدبانه چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه و دقیق برای کم کردن صدای موسیقی است.",
+    "dialogue_rule_fa": "برای سروصدا، آرام و مؤدبانه بگو: Kunt u ... iets zachter zetten? یا Sorry voor het lawaai.",
+    "extra_example_nl": "Kunt u iets zachter doen? Mijn kind slaapt.",
+    "extra_example_fa": "می‌توانید کمی آرام‌تر باشید؟ بچه‌ام خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه و مناسب برای صحبت درباره سروصدا با همسایه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "noise_neighbor",
+    "life_context": "noise",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je kind slaapt en de buren praten hard in de gang.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "بچه‌ات خواب است و همسایه‌ها در راهرو بلند صحبت می‌کنند. چه می‌گویی؟",
+    "explanation_fa": "این جمله دلیل را کوتاه می‌گوید و درخواست مؤدبانه می‌کند.",
+    "dialogue_rule_fa": "برای سروصدا، آرام و مؤدبانه بگو: Kunt u ... iets zachter zetten? یا Sorry voor het lawaai.",
+    "extra_example_nl": "Kunt u iets zachter doen? Mijn kind slaapt.",
+    "extra_example_fa": "می‌توانید کمی آرام‌تر باشید؟ بچه‌ام خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn kind slaapt. Kunt u iets zachter doen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه و مناسب برای صحبت درباره سروصدا با همسایه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "noise_neighbor",
+    "life_context": "noise",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Het is laat en je hoort veel geluid boven je.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "دیر وقت است و از طبقه بالا صدای زیادی می‌شنوی. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله آرام و غیرتهاجمی درباره صدای زیاد صحبت می‌کند.",
+    "dialogue_rule_fa": "برای سروصدا، آرام و مؤدبانه بگو: Kunt u ... iets zachter zetten? یا Sorry voor het lawaai.",
+    "extra_example_nl": "Kunt u iets zachter doen? Mijn kind slaapt.",
+    "extra_example_fa": "می‌توانید کمی آرام‌تر باشید؟ بچه‌ام خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het is een beetje luid boven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه و مناسب برای صحبت درباره سروصدا با همسایه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik even langskomen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای رفتن پیش همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "noise_neighbor",
+    "life_context": "noise",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt zelf veel lawaai gemaakt en je buurvrouw staat voor de deur.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "خودت سروصدای زیادی کرده‌ای و همسایه خانم پشت در است. چه می‌گویی؟",
+    "explanation_fa": "برای عذرخواهی بابت سروصدا، این جمله کوتاه و مؤدبانه است.",
+    "dialogue_rule_fa": "برای سروصدا، آرام و مؤدبانه بگو: Kunt u ... iets zachter zetten? یا Sorry voor het lawaai.",
+    "extra_example_nl": "Kunt u iets zachter doen? Mijn kind slaapt.",
+    "extra_example_fa": "می‌توانید کمی آرام‌تر باشید؟ بچه‌ام خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه و مناسب برای صحبت درباره سروصدا با همسایه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "noise_neighbor",
+    "life_context": "noise",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De buurman zegt dat jullie muziek hard is.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه مرد می‌گوید موسیقی شما بلند است. بهترین پاسخ چیست؟",
+    "explanation_fa": "این پاسخ آرام و مؤدبانه نشان می‌دهد که تلاش می‌کنید ساکت‌تر باشید.",
+    "dialogue_rule_fa": "برای سروصدا، آرام و مؤدبانه بگو: Kunt u ... iets zachter zetten? یا Sorry voor het lawaai.",
+    "extra_example_nl": "Kunt u iets zachter doen? Mijn kind slaapt.",
+    "extra_example_fa": "می‌توانید کمی آرام‌تر باشید؟ بچه‌ام خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "We proberen stil te zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه و مناسب برای صحبت درباره سروصدا با همسایه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "noise_neighbor",
+    "life_context": "noise",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je hoort boren bij de buren en wilt beleefd vragen om later verder te gaan.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "صدای دریل از همسایه می‌شنوی و مؤدبانه می‌خواهی بعداً ادامه دهد. چه می‌گویی؟",
+    "explanation_fa": "این جمله کوتاه و مؤدبانه برای درخواست ادامه دادن در زمان بعد است.",
+    "dialogue_rule_fa": "برای سروصدا، آرام و مؤدبانه بگو: Kunt u ... iets zachter zetten? یا Sorry voor het lawaai.",
+    "extra_example_nl": "Kunt u iets zachter doen? Mijn kind slaapt.",
+    "extra_example_fa": "می‌توانید کمی آرام‌تر باشید؟ بچه‌ام خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u straks verdergaan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه و مناسب برای صحبت درباره سروصدا با همسایه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "noise_neighbor",
+    "life_context": "noise",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hoort harde stemmen in de gang.",
+    "question_text_nl": "Wat zeg je beleefd?",
+    "question_text_fa": "صدای بلند در راهرو می‌شنوی. مؤدبانه چه می‌گویی؟",
+    "explanation_fa": "این جمله دقیقاً درباره آرام‌تر صحبت کردن در راهرو است.",
+    "dialogue_rule_fa": "برای سروصدا، آرام و مؤدبانه بگو: Kunt u ... iets zachter zetten? یا Sorry voor het lawaai.",
+    "extra_example_nl": "Kunt u iets zachter doen? Mijn kind slaapt.",
+    "extra_example_fa": "می‌توانید کمی آرام‌تر باشید؟ بچه‌ام خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u in de gang iets zachter praten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه و مناسب برای صحبت درباره سروصدا با همسایه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "noise_neighbor",
+    "life_context": "noise",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt je buurvrouw rustig zeggen dat je veel muziek hoort.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی آرام به همسایه خانم بگویی که موسیقی زیادی می‌شنوی. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله بدون دعوا، مشکل صدا را ساده بیان می‌کند.",
+    "dialogue_rule_fa": "برای سروصدا، آرام و مؤدبانه بگو: Kunt u ... iets zachter zetten? یا Sorry voor het lawaai.",
+    "extra_example_nl": "Kunt u iets zachter doen? Mijn kind slaapt.",
+    "extra_example_fa": "می‌توانید کمی آرام‌تر باشید؟ بچه‌ام خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik hoor veel muziek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه و مناسب برای صحبت درباره سروصدا با همسایه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "noise_neighbor",
+    "life_context": "noise",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je buurman vraagt of de muziek zachter kan.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "همسایه مرد می‌پرسد آیا موسیقی می‌تواند آرام‌تر شود. چه جواب می‌دهی؟",
+    "explanation_fa": "این جواب مؤدبانه و مناسب برای همکاری با همسایه است.",
+    "dialogue_rule_fa": "برای سروصدا، آرام و مؤدبانه بگو: Kunt u ... iets zachter zetten? یا Sorry voor het lawaai.",
+    "extra_example_nl": "Kunt u iets zachter doen? Mijn kind slaapt.",
+    "extra_example_fa": "می‌توانید کمی آرام‌تر باشید؟ بچه‌ام خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Natuurlijk, ik zet de muziek zachter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه و مناسب برای صحبت درباره سروصدا با همسایه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "noise_neighbor",
+    "life_context": "noise",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je geeft een klein feestje en wilt vooraf beleefd tegen de buren praten.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک مهمانی کوچک داری و می‌خواهی از قبل مؤدبانه با همسایه‌ها صحبت کنی. چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه نشان می‌دهد که به آرامش همسایه‌ها اهمیت می‌دهی.",
+    "dialogue_rule_fa": "برای سروصدا، آرام و مؤدبانه بگو: Kunt u ... iets zachter zetten? یا Sorry voor het lawaai.",
+    "extra_example_nl": "Kunt u iets zachter doen? Mijn kind slaapt.",
+    "extra_example_fa": "می‌توانید کمی آرام‌تر باشید؟ بچه‌ام خواب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als het te luid is, zeg het gerust.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه و مناسب برای صحبت درباره سروصدا با همسایه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "package_mail_neighbor",
+    "life_context": "package_mail",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt een pakket voor je buurvrouw aangenomen.",
+    "question_text_nl": "Wat zeg je tegen haar?",
+    "question_text_fa": "بسته همسایه خانم را تحویل گرفته‌ای. به او چه می‌گویی؟",
+    "explanation_fa": "برای گفتن اینکه بسته همسایه را گرفته‌ای، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای بسته پستی همسایه، از جمله‌هایی مثل Ik heb uw pakket aangenomen یا Ik kom mijn pakket ophalen استفاده کن.",
+    "extra_example_nl": "De postbode was hier met een pakket voor u.",
+    "extra_example_fa": "پستچی با یک بسته برای شما اینجا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای بسته پستی یا نامه همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "package_mail_neighbor",
+    "life_context": "package_mail",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De postbode was bij jou met een pakket voor je buurman.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "پستچی با بسته‌ای برای همسایه مرد پیش تو آمده بود. چه می‌گویی؟",
+    "explanation_fa": "این جمله به همسایه توضیح می‌دهد که پستچی برای او بسته آورده بود.",
+    "dialogue_rule_fa": "برای بسته پستی همسایه، از جمله‌هایی مثل Ik heb uw pakket aangenomen یا Ik kom mijn pakket ophalen استفاده کن.",
+    "extra_example_nl": "De postbode was hier met een pakket voor u.",
+    "extra_example_fa": "پستچی با یک بسته برای شما اینجا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De postbode was hier met een pakket voor u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای بسته پستی یا نامه همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "package_mail_neighbor",
+    "life_context": "package_mail",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je buurman heeft jouw pakket aangenomen en je gaat het halen.",
+    "question_text_nl": "Wat zeg je bij de deur?",
+    "question_text_fa": "همسایه مرد بسته تو را گرفته و می‌روی آن را بگیری. پشت در چه می‌گویی؟",
+    "explanation_fa": "برای گرفتن بسته خود از همسایه، این جمله طبیعی و مستقیم است.",
+    "dialogue_rule_fa": "برای بسته پستی همسایه، از جمله‌هایی مثل Ik heb uw pakket aangenomen یا Ik kom mijn pakket ophalen استفاده کن.",
+    "extra_example_nl": "De postbode was hier met een pakket voor u.",
+    "extra_example_fa": "پستچی با یک بسته برای شما اینجا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای بسته پستی یا نامه همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "package_mail_neighbor",
+    "life_context": "package_mail",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je buurvrouw geeft jouw pakket aan jou.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همسایه خانم بسته‌ات را به تو می‌دهد. چه می‌گویی؟",
+    "explanation_fa": "وقتی همسایه بسته‌ات را گرفته، باید کوتاه و مؤدبانه تشکر کنی.",
+    "dialogue_rule_fa": "برای بسته پستی همسایه، از جمله‌هایی مثل Ik heb uw pakket aangenomen یا Ik kom mijn pakket ophalen استفاده کن.",
+    "extra_example_nl": "De postbode was hier met een pakket voor u.",
+    "extra_example_fa": "پستچی با یک بسته برای شما اینجا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dank u voor het aannemen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای بسته پستی یا نامه همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "package_mail_neighbor",
+    "life_context": "package_mail",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je verwacht een pakket en vraagt het aan je buurman.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "منتظر بسته‌ای هستی و از همسایه مرد سؤال می‌پرسی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله ساده و مناسب برای پرسیدن درباره بسته خود است.",
+    "dialogue_rule_fa": "برای بسته پستی همسایه، از جمله‌هایی مثل Ik heb uw pakket aangenomen یا Ik kom mijn pakket ophalen استفاده کن.",
+    "extra_example_nl": "De postbode was hier met een pakket voor u.",
+    "extra_example_fa": "پستچی با یک بسته برای شما اینجا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u mijn pakket gezien?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای بسته پستی یا نامه همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "package_mail_neighbor",
+    "life_context": "package_mail",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je vindt een brief van je buurvrouw in jouw brievenbus.",
+    "question_text_nl": "Wat zeg je tegen haar?",
+    "question_text_fa": "نامه همسایه خانم در صندوق نامه تو افتاده است. به او چه می‌گویی؟",
+    "explanation_fa": "برای تحویل دادن نامه همسایه، این جمله کوتاه و مناسب است.",
+    "dialogue_rule_fa": "برای بسته پستی همسایه، از جمله‌هایی مثل Ik heb uw pakket aangenomen یا Ik kom mijn pakket ophalen استفاده کن.",
+    "extra_example_nl": "De postbode was hier met een pakket voor u.",
+    "extra_example_fa": "پستچی با یک بسته برای شما اینجا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is uw brief.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای بسته پستی یا نامه همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "package_mail_neighbor",
+    "life_context": "package_mail",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt een pakket van de postbode gekregen voor je buurman.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "بسته‌ای از پستچی برای همسایه مرد گرفته‌ای. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله ساده توضیح می‌دهد بسته چگونه به دست تو رسیده است.",
+    "dialogue_rule_fa": "برای بسته پستی همسایه، از جمله‌هایی مثل Ik heb uw pakket aangenomen یا Ik kom mijn pakket ophalen استفاده کن.",
+    "extra_example_nl": "De postbode was hier met een pakket voor u.",
+    "extra_example_fa": "پستچی با یک بسته برای شما اینجا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De postbode gaf het pakket aan mij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای بسته پستی یا نامه همسایه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "package_mail_neighbor",
+    "life_context": "package_mail",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt aan bij je buurvrouw met haar pakket.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "با بسته همسایه خانم زنگ خانه‌اش را می‌زنی. چه می‌گویی؟",
+    "explanation_fa": "برای گفتن اینکه بسته‌ای برای او داری، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای بسته پستی همسایه، از جمله‌هایی مثل Ik heb uw pakket aangenomen یا Ik kom mijn pakket ophalen استفاده کن.",
+    "extra_example_nl": "De postbode was hier met een pakket voor u.",
+    "extra_example_fa": "پستچی با یک بسته برای شما اینجا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er is een pakket voor u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای بسته پستی یا نامه همسایه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "package_mail_neighbor",
+    "life_context": "package_mail",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Heeft u iets voor mij? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌پرسد: چیزی برای من دارید؟ بهترین جواب چیست؟",
+    "explanation_fa": "اگر بسته او پیش توست، این جواب مستقیم و مناسب است.",
+    "dialogue_rule_fa": "برای بسته پستی همسایه، از جمله‌هایی مثل Ik heb uw pakket aangenomen یا Ik kom mijn pakket ophalen استفاده کن.",
+    "extra_example_nl": "De postbode was hier met een pakket voor u.",
+    "extra_example_fa": "پستچی با یک بسته برای شما اینجا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, dit is uw pakket.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای بسته پستی یا نامه همسایه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "package_mail_neighbor",
+    "life_context": "package_mail",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet een brief voor je buurman bij jouw deur.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "نامه‌ای برای همسایه مرد کنار در توست. چه می‌گویی؟",
+    "explanation_fa": "برای دادن نامه به همسایه، این جمله ساده و مناسب است.",
+    "dialogue_rule_fa": "برای بسته پستی همسایه، از جمله‌هایی مثل Ik heb uw pakket aangenomen یا Ik kom mijn pakket ophalen استفاده کن.",
+    "extra_example_nl": "De postbode was hier met een pakket voor u.",
+    "extra_example_fa": "پستچی با یک بسته برای شما اینجا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze brief is voor u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای بسته پستی یا نامه همسایه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "shared_building_spaces",
+    "life_context": "shared_space",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Er staat een vuilniszak in de gang.",
+    "question_text_nl": "Wat zeg je beleefd tegen je buurman?",
+    "question_text_fa": "یک کیسه زباله در راهرو است. مؤدبانه به همسایه مرد چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه و مشخص درباره زباله در راهرو است.",
+    "dialogue_rule_fa": "برای فضای مشترک ساختمان، مؤدبانه و ساده درباره راهرو، آسانسور، پله، در یا زباله صحبت کن.",
+    "extra_example_nl": "Kunt u de gang vrij houden?",
+    "extra_example_fa": "می‌توانید راهرو را خالی نگه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de vuilniszak uit de gang halen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره فضای مشترک ساختمان مناسب و مؤدبانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "shared_building_spaces",
+    "life_context": "shared_space",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Er staan veel spullen in de gang.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "وسایل زیادی در راهرو هستند. بهترین جمله چیست؟",
+    "explanation_fa": "در ساختمان، راهرو باید برای عبور آزاد بماند؛ این جمله مناسب است.",
+    "dialogue_rule_fa": "برای فضای مشترک ساختمان، مؤدبانه و ساده درباره راهرو، آسانسور، پله، در یا زباله صحبت کن.",
+    "extra_example_nl": "Kunt u de gang vrij houden?",
+    "extra_example_fa": "می‌توانید راهرو را خالی نگه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره فضای مشترک ساختمان مناسب و مؤدبانه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "shared_building_spaces",
+    "life_context": "shared_space",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je buurvrouw wil de lift nemen, maar hij is kapot.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همسایه خانم می‌خواهد از آسانسور استفاده کند، اما خراب است. چه می‌گویی؟",
+    "explanation_fa": "این جمله ساده و دقیق وضعیت آسانسور را می‌گوید.",
+    "dialogue_rule_fa": "برای فضای مشترک ساختمان، مؤدبانه و ساده درباره راهرو، آسانسور، پله، در یا زباله صحبت کن.",
+    "extra_example_nl": "Kunt u de gang vrij houden?",
+    "extra_example_fa": "می‌توانید راهرو را خالی نگه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره فضای مشترک ساختمان مناسب و مؤدبانه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "shared_building_spaces",
+    "life_context": "shared_space",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De trap is net schoongemaakt en is nat.",
+    "question_text_nl": "Wat zeg je tegen je buurman?",
+    "question_text_fa": "پله تازه تمیز شده و خیس است. به همسایه مرد چه می‌گویی؟",
+    "explanation_fa": "برای هشدار کوتاه و دوستانه درباره پله خیس، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای فضای مشترک ساختمان، مؤدبانه و ساده درباره راهرو، آسانسور، پله، در یا زباله صحبت کن.",
+    "extra_example_nl": "Kunt u de gang vrij houden?",
+    "extra_example_fa": "می‌توانید راهرو را خالی نگه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Pas op, de trap is nat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره فضای مشترک ساختمان مناسب و مؤدبانه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "shared_building_spaces",
+    "life_context": "shared_space",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent nieuw in het gebouw en wilt weten waar het afval moet.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "در ساختمان تازه هستی و می‌خواهی بدانی زباله را کجا باید گذاشت. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال ساده و مربوط به فضای مشترک ساختمان است.",
+    "dialogue_rule_fa": "برای فضای مشترک ساختمان، مؤدبانه و ساده درباره راهرو، آسانسور، پله، در یا زباله صحبت کن.",
+    "extra_example_nl": "Kunt u de gang vrij houden?",
+    "extra_example_fa": "می‌توانید راهرو را خالی نگه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره فضای مشترک ساختمان مناسب و مؤدبانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "shared_building_spaces",
+    "life_context": "shared_space",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De voordeur blijft open en je vraagt de buurvrouw iets.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در ورودی باز مانده و از همسایه خانم چیزی می‌خواهی. چه می‌گویی؟",
+    "explanation_fa": "برای درخواست بستن در مشترک، این جمله مؤدبانه است.",
+    "dialogue_rule_fa": "برای فضای مشترک ساختمان، مؤدبانه و ساده درباره راهرو، آسانسور، پله، در یا زباله صحبت کن.",
+    "extra_example_nl": "Kunt u de gang vrij houden?",
+    "extra_example_fa": "می‌توانید راهرو را خالی نگه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u de deur dichtdoen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره فضای مشترک ساختمان مناسب و مؤدبانه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "shared_building_spaces",
+    "life_context": "shared_space",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Een fiets staat in de ingang van het gebouw.",
+    "question_text_nl": "Wat zeg je beleefd?",
+    "question_text_fa": "یک دوچرخه در ورودی ساختمان قرار دارد. مؤدبانه چه می‌گویی؟",
+    "explanation_fa": "این جمله دقیقاً درباره خالی کردن ورودی ساختمان است.",
+    "dialogue_rule_fa": "برای فضای مشترک ساختمان، مؤدبانه و ساده درباره راهرو، آسانسور، پله، در یا زباله صحبت کن.",
+    "extra_example_nl": "Kunt u de gang vrij houden?",
+    "extra_example_fa": "می‌توانید راهرو را خالی نگه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de fiets uit de ingang halen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره فضای مشترک ساختمان مناسب و مؤدبانه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "shared_building_spaces",
+    "life_context": "shared_space",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Er staan verhuisdozen in de gang.",
+    "question_text_nl": "Wat vraag je aan je buurman?",
+    "question_text_fa": "جعبه‌های اسباب‌کشی در راهرو هستند. از همسایه مرد چه می‌پرسی؟",
+    "explanation_fa": "این جمله مؤدبانه و مربوط به راهرو و وسایل در فضای مشترک است.",
+    "dialogue_rule_fa": "برای فضای مشترک ساختمان، مؤدبانه و ساده درباره راهرو، آسانسور، پله، در یا زباله صحبت کن.",
+    "extra_example_nl": "Kunt u de gang vrij houden?",
+    "extra_example_fa": "می‌توانید راهرو را خالی نگه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de dozen uit de gang halen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره فضای مشترک ساختمان مناسب و مؤدبانه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "shared_building_spaces",
+    "life_context": "shared_space",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De lift is vol en je zegt wat je gaat doen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "آسانسور پر است و می‌خواهی بگویی چه می‌کنی. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله ساده و طبیعی درباره آسانسور و پله در ساختمان است.",
+    "dialogue_rule_fa": "برای فضای مشترک ساختمان، مؤدبانه و ساده درباره راهرو، آسانسور، پله، در یا زباله صحبت کن.",
+    "extra_example_nl": "Kunt u de gang vrij houden?",
+    "extra_example_fa": "می‌توانید راهرو را خالی نگه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem de trap, de lift is vol.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره فضای مشترک ساختمان مناسب و مؤدبانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "shared_building_spaces",
+    "life_context": "shared_space",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je buurvrouw komt met boodschappen en jij houdt de voordeur open.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همسایه خانم با خریدها می‌آید و تو در ورودی را باز نگه می‌داری. چه می‌گویی؟",
+    "explanation_fa": "این جمله در فضای مشترک ساختمان و کمک کوتاه به همسایه مناسب است.",
+    "dialogue_rule_fa": "برای فضای مشترک ساختمان، مؤدبانه و ساده درباره راهرو، آسانسور، پله، در یا زباله صحبت کن.",
+    "extra_example_nl": "Kunt u de gang vrij houden?",
+    "extra_example_fa": "می‌توانید راهرو را خالی نگه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik houd de deur even open.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره فضای مشترک ساختمان مناسب و مؤدبانه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "visiting_inviting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt een vraag voor je buurman en wilt kort langskomen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک سؤال از همسایه مرد داری و می‌خواهی کوتاه پیش او بروی. چه می‌گویی؟",
+    "explanation_fa": "برای رفتن کوتاه پیش همسایه با یک سؤال، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای رفتن پیش همسایه یا دعوت کوتاه، جمله‌هایی مثل Mag ik even langskomen? یا Komt u even binnen? مناسب است.",
+    "extra_example_nl": "Is nu een goed moment? Ik heb een vraag.",
+    "extra_example_fa": "الان وقت مناسبی است؟ یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik even langskomen? Ik heb een vraag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رفتن پیش همسایه یا دعوت کوتاه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "visiting_inviting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je buurvrouw staat voor je deur en je wilt haar binnen uitnodigen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همسایه خانم پشت در خانه توست و می‌خواهی او را دعوت کنی داخل. چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه برای دعوت کوتاه همسایه به داخل است.",
+    "dialogue_rule_fa": "برای رفتن پیش همسایه یا دعوت کوتاه، جمله‌هایی مثل Mag ik even langskomen? یا Komt u even binnen? مناسب است.",
+    "extra_example_nl": "Is nu een goed moment? Ik heb een vraag.",
+    "extra_example_fa": "الان وقت مناسبی است؟ یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Komt u even binnen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رفتن پیش همسایه یا دعوت کوتاه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "visiting_inviting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zit in de tuin en wilt je buurman koffie aanbieden.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در باغچه نشسته‌ای و می‌خواهی به همسایه مرد قهوه تعارف کنی. چه می‌گویی؟",
+    "explanation_fa": "برای تعارف قهوه به همسایه، این جمله طبیعی و مؤدبانه است.",
+    "dialogue_rule_fa": "برای رفتن پیش همسایه یا دعوت کوتاه، جمله‌هایی مثل Mag ik even langskomen? یا Komt u even binnen? مناسب است.",
+    "extra_example_nl": "Is nu een goed moment? Ik heb een vraag.",
+    "extra_example_fa": "الان وقت مناسبی است؟ یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رفتن پیش همسایه یا دعوت کوتاه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "visiting_inviting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kunt nu niet praten, maar je wilt straks naar je buurvrouw gaan.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "الان نمی‌توانی صحبت کنی، اما می‌خواهی بعداً پیش همسایه خانم بروی. چه می‌گویی؟",
+    "explanation_fa": "این جمله ساده می‌گوید که بعداً کوتاه سر می‌زنی.",
+    "dialogue_rule_fa": "برای رفتن پیش همسایه یا دعوت کوتاه، جمله‌هایی مثل Mag ik even langskomen? یا Komt u even binnen? مناسب است.",
+    "extra_example_nl": "Is nu een goed moment? Ik heb een vraag.",
+    "extra_example_fa": "الان وقت مناسبی است؟ یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom straks even langs.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رفتن پیش همسایه یا دعوت کوتاه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "visiting_inviting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je staat bij de deur van je buurman en wilt weten of hij tijd heeft.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "پشت در همسایه مرد هستی و می‌خواهی بدانی وقت دارد یا نه. چه می‌پرسی؟",
+    "explanation_fa": "برای شروع مؤدبانه پیش همسایه، اول می‌پرسی آیا الان وقت مناسبی است.",
+    "dialogue_rule_fa": "برای رفتن پیش همسایه یا دعوت کوتاه، جمله‌هایی مثل Mag ik even langskomen? یا Komt u even binnen? مناسب است.",
+    "extra_example_nl": "Is nu een goed moment? Ik heb een vraag.",
+    "extra_example_fa": "الان وقت مناسبی است؟ یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is nu een goed moment?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رفتن پیش همسایه یا دعوت کوتاه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "visiting_inviting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je buurvrouw belt aan en jij bent druk.",
+    "question_text_nl": "Wat vraag je vriendelijk?",
+    "question_text_fa": "همسایه خانم زنگ می‌زند و تو مشغولی. دوستانه چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن اینکه آیا الان زمان مناسبی است استفاده می‌شود.",
+    "dialogue_rule_fa": "برای رفتن پیش همسایه یا دعوت کوتاه، جمله‌هایی مثل Mag ik even langskomen? یا Komt u even binnen? مناسب است.",
+    "extra_example_nl": "Is nu een goed moment? Ik heb een vraag.",
+    "extra_example_fa": "الان وقت مناسبی است؟ یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Komt het nu uit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رفتن پیش همسایه یا دعوت کوتاه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "visiting_inviting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je buurman heeft iets over jouw pakket en je wilt hem binnen laten.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همسایه مرد درباره بسته تو چیزی دارد و می‌خواهی او را داخل راه بدهی. چه می‌گویی؟",
+    "explanation_fa": "برای دعوت کوتاه به داخل در یک موقعیت ساده، این جمله مناسب است.",
+    "dialogue_rule_fa": "برای رفتن پیش همسایه یا دعوت کوتاه، جمله‌هایی مثل Mag ik even langskomen? یا Komt u even binnen? مناسب است.",
+    "extra_example_nl": "Is nu een goed moment? Ik heb een vraag.",
+    "extra_example_fa": "الان وقت مناسبی است؟ یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u even binnenkomen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رفتن پیش همسایه یا دعوت کوتاه مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "visiting_inviting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt later met je buurvrouw over de tuin praten.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی بعداً با همسایه خانم درباره باغچه صحبت کنی. چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه برای هماهنگ کردن سر زدن بعدی است.",
+    "dialogue_rule_fa": "برای رفتن پیش همسایه یا دعوت کوتاه، جمله‌هایی مثل Mag ik even langskomen? یا Komt u even binnen? مناسب است.",
+    "extra_example_nl": "Is nu een goed moment? Ik heb een vraag.",
+    "extra_example_fa": "الان وقت مناسبی است؟ یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De lift werkt niet.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره آسانسور ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik straks even langskomen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رفتن پیش همسایه یا دعوت کوتاه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "visiting_inviting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat bij de deur van je buurman met een korte vraag.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "پشت در همسایه مرد با یک سؤال کوتاه هستی. چه می‌گویی؟",
+    "explanation_fa": "این جمله کوتاه و ساده دلیل آمدن پیش همسایه را می‌گوید.",
+    "dialogue_rule_fa": "برای رفتن پیش همسایه یا دعوت کوتاه، جمله‌هایی مثل Mag ik even langskomen? یا Komt u even binnen? مناسب است.",
+    "extra_example_nl": "Is nu een goed moment? Ik heb een vraag.",
+    "extra_example_fa": "الان وقت مناسبی است؟ یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رفتن پیش همسایه یا دعوت کوتاه مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "visiting_inviting_neighbor",
+    "life_context": "neighbor",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Wilt u een kopje koffie? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌پرسد: یک فنجان قهوه می‌خواهید؟ بهترین جواب چیست؟",
+    "explanation_fa": "این پاسخ کوتاه و مؤدبانه برای قبول کردن دعوت یا تعارف است.",
+    "dialogue_rule_fa": "برای رفتن پیش همسایه یا دعوت کوتاه، جمله‌هایی مثل Mag ik even langskomen? یا Komt u even binnen? مناسب است.",
+    "extra_example_nl": "Is nu een goed moment? Ik heb een vraag.",
+    "extra_example_fa": "الان وقت مناسبی است؟ یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Graag, dank u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای رفتن پیش همسایه یا دعوت کوتاه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "choosing_best_neighbor_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Ik heb uw pakket aangenomen. B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌گوید بسته تو را تحویل گرفته است. بهترین پاسخ چیست؟",
+    "explanation_fa": "این جواب هم تشکر می‌کند و هم می‌گوید بسته را بعداً می‌گیری.",
+    "dialogue_rule_fa": "در مکالمه با همسایه، پاسخ باید دقیقاً با جمله قبلی و موقعیت هماهنگ باشد.",
+    "extra_example_nl": "A: Fijne dag! B: Dank u, u ook.",
+    "extra_example_fa": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همین‌طور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dank u wel, ik kom het straks ophalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ با جمله قبلی همسایه و موقعیت مکالمه هماهنگ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "choosing_best_neighbor_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Kunt u de muziek iets zachter zetten? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌خواهد موسیقی را کمی آرام‌تر کنی. بهترین پاسخ چیست؟",
+    "explanation_fa": "این پاسخ مؤدبانه است و نشان می‌دهد با همسایه همکاری می‌کنی.",
+    "dialogue_rule_fa": "در مکالمه با همسایه، پاسخ باید دقیقاً با جمله قبلی و موقعیت هماهنگ باشد.",
+    "extra_example_nl": "A: Fijne dag! B: Dank u, u ook.",
+    "extra_example_fa": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همین‌طور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Natuurlijk, sorry voor het lawaai.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ با جمله قبلی همسایه و موقعیت مکالمه هماهنگ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "choosing_best_neighbor_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Hallo, ik ben uw nieuwe buurvrouw. B: ___",
+    "question_text_nl": "Kies de beste reactie.",
+    "question_text_fa": "همسایه خانم جدید خودش را معرفی می‌کند. بهترین واکنش چیست؟",
+    "explanation_fa": "در پاسخ به معرفی، این جمله طبیعی و مؤدبانه است.",
+    "dialogue_rule_fa": "در مکالمه با همسایه، پاسخ باید دقیقاً با جمله قبلی و موقعیت هماهنگ باشد.",
+    "extra_example_nl": "A: Fijne dag! B: Dank u, u ook.",
+    "extra_example_fa": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همین‌طور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Aangenaam, leuk u te ontmoeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ با جمله قبلی همسایه و موقعیت مکالمه هماهنگ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "choosing_best_neighbor_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Mag ik uw ladder even lenen? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌خواهد نردبان تو را قرض بگیرد. بهترین جواب چیست؟",
+    "explanation_fa": "این پاسخ کوتاه و طبیعی برای اجازه دادن به قرض گرفتن وسیله است.",
+    "dialogue_rule_fa": "در مکالمه با همسایه، پاسخ باید دقیقاً با جمله قبلی و موقعیت هماهنگ باشد.",
+    "extra_example_nl": "A: Fijne dag! B: Dank u, u ook.",
+    "extra_example_fa": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همین‌طور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja hoor, geen probleem.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ با جمله قبلی همسایه و موقعیت مکالمه هماهنگ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sorry voor het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای عذرخواهی بابت سروصدا است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "choosing_best_neighbor_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: De lift werkt niet. B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌گوید آسانسور کار نمی‌کند. بهترین پاسخ چیست؟",
+    "explanation_fa": "این پاسخ با خبر خراب بودن آسانسور هماهنگ است.",
+    "dialogue_rule_fa": "در مکالمه با همسایه، پاسخ باید دقیقاً با جمله قبلی و موقعیت هماهنگ باشد.",
+    "extra_example_nl": "A: Fijne dag! B: Dank u, u ook.",
+    "extra_example_fa": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همین‌طور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dank u, dan neem ik de trap.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ با جمله قبلی همسایه و موقعیت مکالمه هماهنگ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "choosing_best_neighbor_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Kunt u de deur even openhouden? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌خواهد در را کمی باز نگه داری. بهترین پاسخ چیست؟",
+    "explanation_fa": "این پاسخ کوتاه و مناسب برای کمک کوچک به همسایه است.",
+    "dialogue_rule_fa": "در مکالمه با همسایه، پاسخ باید دقیقاً با جمله قبلی و موقعیت هماهنگ باشد.",
+    "extra_example_nl": "A: Fijne dag! B: Dank u, u ook.",
+    "extra_example_fa": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همین‌طور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn pakket ophalen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای برداشتن بسته پستی است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja natuurlijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ با جمله قبلی همسایه و موقعیت مکالمه هماهنگ است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "choosing_best_neighbor_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Er staat een vuilniszak in de gang. B: ___",
+    "question_text_nl": "Kies de beste reactie.",
+    "question_text_fa": "همسایه می‌گوید یک کیسه زباله در راهرو است. بهترین واکنش چیست؟",
+    "explanation_fa": "این پاسخ مؤدبانه است و نشان می‌دهد زباله را از راهرو برمی‌داری.",
+    "dialogue_rule_fa": "در مکالمه با همسایه، پاسخ باید دقیقاً با جمله قبلی و موقعیت هماهنگ باشد.",
+    "extra_example_nl": "A: Fijne dag! B: Dank u, u ook.",
+    "extra_example_fa": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همین‌طور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, ik haal hem meteen weg.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ با جمله قبلی همسایه و موقعیت مکالمه هماهنگ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilt u een kopje koffie?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای دعوت یا تعارف به همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "choosing_best_neighbor_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Wilt u een kopje koffie? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه به تو قهوه تعارف می‌کند. بهترین پاسخ چیست؟",
+    "explanation_fa": "برای قبول کردن تعارف همسایه، این پاسخ کوتاه و مؤدبانه است.",
+    "dialogue_rule_fa": "در مکالمه با همسایه، پاسخ باید دقیقاً با جمله قبلی و موقعیت هماهنگ باشد.",
+    "extra_example_nl": "A: Fijne dag! B: Dank u, u ook.",
+    "extra_example_fa": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همین‌طور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Graag, dank u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ با جمله قبلی همسایه و موقعیت مکالمه هماهنگ است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gang moet vrij blijven.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فضای مشترک ساختمان است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u mij even helpen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای کمک خواستن از همسایه است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "choosing_best_neighbor_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "A: Heeft u mijn pakket gezien? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "همسایه می‌پرسد آیا بسته‌اش را دیده‌ای. بهترین پاسخ چیست؟",
+    "explanation_fa": "این پاسخ مستقیم می‌گوید بسته را تحویل گرفته‌ای.",
+    "dialogue_rule_fa": "در مکالمه با همسایه، پاسخ باید دقیقاً با جمله قبلی و موقعیت هماهنگ باشد.",
+    "extra_example_nl": "A: Fijne dag! B: Dank u, u ook.",
+    "extra_example_fa": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همین‌طور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, ik heb het aangenomen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ با جمله قبلی همسایه و موقعیت مکالمه هماهنگ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar moet het afval?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره زباله و فضای مشترک است، نه برای این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "neighbour",
+    "subtopic": "choosing_best_neighbor_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "A: Fijne avond! B: ___",
+    "question_text_nl": "Kies de beste reactie.",
+    "question_text_fa": "همسایه می‌گوید: شب خوبی داشته باشید! بهترین واکنش چیست؟",
+    "explanation_fa": "این پاسخ کوتاه و مؤدبانه برای آرزوی خوب همسایه است.",
+    "dialogue_rule_fa": "در مکالمه با همسایه، پاسخ باید دقیقاً با جمله قبلی و موقعیت هماهنگ باشد.",
+    "extra_example_nl": "A: Fijne dag! B: Dank u, u ook.",
+    "extra_example_fa": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همین‌طور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb uw pakket aangenomen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بسته پستی همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u de muziek iets zachter zetten?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای صحبت مؤدبانه درباره سروصدا است، نه برای این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik uw ladder even lenen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای قرض گرفتن وسیله از همسایه است، نه برای این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dank u, u ook.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این پاسخ با جمله قبلی همسایه و موقعیت مکالمه هماهنگ است."
+      }
+    ]
+  }
+]

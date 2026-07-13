@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: Ik denk dat we het project beter kunnen stopzetten, het kost te veel tijd.\nCollega: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با دلیل مشخص (نزدیک به تکمیل) از ادامه‌ی پروژه دفاع می‌کند و مخالفتی مؤدبانه و مستدل نشان می‌دهد.",
+    "grammar_rule_fa": "برای دفاع مؤدبانه از نظر خود از ساختار «Ik begrijp uw punt, maar...» استفاده می‌شود؛ مثال: «Ik begrijp uw zorg, maar we zijn bijna klaar.»",
+    "extra_example_nl": "Ik begrijp uw zorg over de kosten, maar we zijn bijna klaar met de laatste fase.",
+    "extra_example_fa": "نگرانی شما درباره‌ی هزینه‌ها را درک می‌کنم، اما ما تقریباً مرحله‌ی آخر را تمام کرده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Stop er meteen mee, het heeft toch geen zin meer.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری دارد، نه یک استدلال مؤدبانه برای دفاع از نظر خود."
+      },
+      {
+        "key": "B",
+        "text_nl": "U had helemaal gelijk, we hadden het project nooit moeten beginnen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای عکس دارد: به‌جای دفاع از ادامه‌ی پروژه، با مدیر موافقت می‌کند و تسلیم می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begrijp uw zorg, maar we zijn bijna klaar en stoppen nu zou zonde zijn van al het werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با احترام به نگرانی مدیر، دلیلی منطقی برای ادامه‌ی پروژه ارائه می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik was het gisteren al niet mee eens geweest.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: زمان گذشته (had geweest) استفاده شده، درحالی‌که باید نظر فعلی بیان شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Teamlid: Volgens mij moeten we het budget voor marketing verlagen.\nJij: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور مؤدبانه مخالفت می‌کند و دلیل روشنی برای حفظ بودجه ارائه می‌دهد.",
+    "grammar_rule_fa": "استفاده از فعل درست برای بیان مخالفت مهم است؛ مثال: «Ik ben het daar niet mee eens, want...» (نه فعل مشابه اما نادرست).",
+    "extra_example_nl": "Ik ben het daar niet mee eens, want marketing zorgt juist voor nieuwe klanten.",
+    "extra_example_fa": "من با این موافق نیستم، چون بازاریابی دقیقاً باعث جذب مشتریان جدید می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik hoop dat we het budget kunnen verlagen zonder problemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعل اشتباه انتخاب شده: «hopen» به‌جای بیان مخالفت مستدل، فقط امیدواری نشان می‌دهد و از نظر شخص دفاع نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben het daar niet mee eens, want een lager budget kan onze zichtbaarheid schaden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله به‌وضوح مخالفت را بیان کرده و دلیل منطقی ارائه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Verlaag het budget, dat is duidelijk de beste optie.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری دارد، نه استدلال مؤدبانه برای دفاع از نظر مخالف."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie hebben gelijk, minder budget is inderdaad beter.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از نظر خود، با پیشنهاد مخالف موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: Waarom kies jij voor deze leverancier? Die van ons is goedkoper.\nJij: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست دلیل کیفیت را در برابر قیمت مطرح می‌کند و انتخاب را با استدلال توجیه می‌کند.",
+    "grammar_rule_fa": "برای توجیه یک تصمیم از «omdat» یا «want» استفاده می‌شود تا دلیل مشخص شود؛ مثال: «Ik kies voor deze leverancier, omdat de kwaliteit hoger is.»",
+    "extra_example_nl": "Ik kies bewust voor deze leverancier, omdat de kwaliteit veel hoger is dan bij de andere.",
+    "extra_example_fa": "من آگاهانه این تأمین‌کننده را انتخاب می‌کنم، چون کیفیت آن بسیار بالاتر از دیگری است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kiest u toch maar voor de goedkoopste, dat maakt mij niet uit.",
+        "is_correct": false,
+        "feedback_fa": "❌ صورت فعل اشتباه است: «Kiest u» به‌جای بیان استدلال از دیدگاه خود، دستور/پیشنهاد به دیگری می‌دهد و از تصمیم دفاع نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kies bewust voor deze leverancier, omdat de kwaliteit veel belangrijker is dan de prijs.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با دلیل روشن (کیفیت مهم‌تر از قیمت) از انتخاب دفاع می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koos voor deze leverancier vanwege de prijs, dat weet je toch.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: زمان گذشته (koos) استفاده شده به‌جای بیان استدلال فعلی، و دلیل هم اشتباه است (قیمت به‌جای کیفیت)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dan moeten we maar overstappen naar de goedkopere leverancier.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این جمله نتیجه‌ای غیرمنطقی می‌گیرد که با دفاع از انتخاب اولیه در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: Ik vind dat we de deadline moeten vervroegen naar volgende week.\nTeamlid: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور مؤدبانه توضیح می‌دهد چرا جلو انداختن مهلت غیرممکن یا خطرناک است.",
+    "grammar_rule_fa": "برای بیان تضاد مؤدبانه از «maar» و توضیح پیامد استفاده می‌شود؛ مثال: «Dat lijkt me lastig, want...»",
+    "extra_example_nl": "Dat lijkt me lastig, want we hebben nog minstens twee weken nodig voor de tests.",
+    "extra_example_fa": "به نظرم این کار دشوار است، چون حداقل دو هفته دیگر برای آزمایش‌ها نیاز داریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vervroeg de deadline gewoon, wij passen ons wel aan.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/موافقت بی‌قید دارد، نه یک استدلال مؤدبانه که واقعیت کار را نشان دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zal de deadline gisteren al vervroegd hebben.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: ساختار عجیب و نامنطبق با موقعیت (آینده کامل برای گذشته) استفاده شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dan wordt het project waarschijnlijk sneller en beter afgerond.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: جلو انداختن مهلت منطقاً باعث سریع‌تر و بهتر شدن کار نمی‌شود، بلکه برعکس است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat lijkt me lastig, want we hebben de tests nog niet afgerond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله مؤدبانه مخالفت می‌کند و دلیل عملی (آزمایش‌های ناتمام) ارائه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: Ik vind uw voorstel te duur vergeleken met de concurrent.\nAdviseur: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست توضیح می‌دهد که قیمت بالاتر به‌دلیل خدمات یا کیفیت اضافه است.",
+    "grammar_rule_fa": "برای دفاع از قیمت باید بین صورت اول‌شخص و دوم‌شخص فرق گذاشت؛ مثال درست: «Ons voorstel bevat...» نه ترکیب اشتباه با «ik» و فعل جمع.",
+    "extra_example_nl": "Ons voorstel bevat extra service en garantie, en dat verklaart het prijsverschil.",
+    "extra_example_fa": "پیشنهاد ما شامل خدمات و ضمانت اضافی است، و این تفاوت قیمت را توضیح می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik bevatten inderdaad meer diensten in dit voorstel.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه است: «ik» با فعل جمع «bevatten» ترکیب شده که از نظر دستوری نادرست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kies dan toch maar voor de concurrent, dat is uw keuze.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/تسلیم دارد، نه دفاع مؤدبانه از پیشنهاد خود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ons voorstel bevat extra service en een langere garantie, wat het prijsverschil verklaart.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله دلیل مشخصی برای تفاوت قیمت ارائه می‌دهد و از پیشنهاد دفاع می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "U heeft gelijk, ons voorstel is eigenlijk te duur.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از پیشنهاد، با انتقاد مشتری موافقت کامل می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: Ik denk dat thuiswerken de productiviteit verlaagt.\nJij: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با آماری یا تجربه‌ی شخصی از دیدگاه مخالف (کارایی بیشتر دورکاری) دفاع می‌کند.",
+    "grammar_rule_fa": "برای ارائه‌ی نظر مخالف با ادب از «volgens mij» یا «naar mijn mening» استفاده می‌شود؛ مثال: «Volgens mij werkt thuiswerken juist goed.»",
+    "extra_example_nl": "Volgens mij werkt thuiswerken juist goed, omdat mensen minder worden afgeleid.",
+    "extra_example_fa": "به نظر من دورکاری در واقع خوب جواب می‌دهد، چون افراد کمتر حواسشان پرت می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volgens mij werkt thuiswerken juist goed, omdat mensen minder worden afgeleid door collega's.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با ادب مخالفت می‌کند و دلیلی روشن (کمتر حواس‌پرتی) ارائه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Werk dan toch gewoon vanuit kantoor, dat is simpeler.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری دارد، نه استدلال مؤدبانه در پاسخ به نظر همکار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik was het daar gisteren helemaal mee eens.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: زمان گذشته استفاده شده درحالی‌که باید نظر فعلی بیان شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat klopt, thuiswerken zorgt inderdaad voor minder resultaten.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از دورکاری، با نظر همکار موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Directeur: Ik wil de nieuwe collega meteen op de belangrijkste klant zetten.\nHR-medewerker: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مخالفت مؤدبانه را با دلیل (نیاز به آموزش) بیان می‌کند.",
+    "grammar_rule_fa": "فعل درست برای پیشنهاد جایگزین مهم است؛ «adviseren» به‌جای فعل نامناسب استفاده می‌شود: «Ik adviseer om eerst een inwerkperiode te plannen.»",
+    "extra_example_nl": "Ik adviseer om eerst een korte inwerkperiode te plannen voordat we haar op deze klant zetten.",
+    "extra_example_fa": "پیشنهاد می‌کنم ابتدا یک دوره‌ی آموزشی کوتاه برنامه‌ریزی کنیم، قبل از اینکه او را روی این مشتری بگذاریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik adviseer om eerst een korte inwerkperiode te plannen, zodat ze goed voorbereid is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله مخالفت مؤدبانه را با دلیل منطقی (آمادگی بهتر) بیان می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik hoopte dat ze meteen zou beginnen zonder training.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: زمان گذشته (hoopte) به‌جای بیان پیشنهاد فعلی استفاده شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zet haar er dan maar meteen op, dat is prima.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/موافقت بی‌قید دارد، نه استدلال مؤدبانه برای دفاع از نظر مخالف."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat betekent waarschijnlijk dat de klant meteen heel tevreden zal zijn.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این نتیجه از نظر منطقی درست نیست، چون بدون آموزش خطر نارضایتی مشتری وجود دارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: Ik vind dat we het nieuwe logo niet moeten gebruiken, het is te modern.\nOntwerper: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور مؤدبانه دلیل طراحی مدرن را توضیح می‌دهد و از آن دفاع می‌کند.",
+    "grammar_rule_fa": "برای دفاع مؤدبانه از تصمیم طراحی، صرف فعل صحیح شخص اول لازم است؛ مثال درست: «Ik denk dat...» نه صرف نادرست دوم‌شخص برای اول‌شخص.",
+    "extra_example_nl": "Ik denk dat een modern logo ons juist helpt om een jongere doelgroep aan te spreken.",
+    "extra_example_fa": "فکر می‌کنم یک لوگوی مدرن دقیقاً به ما کمک می‌کند تا مخاطبان جوان‌تر را جذب کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Denkt jij dat het logo daarom niet goed werkt?",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه است: «Denkt jij» درست نیست، باید «Denk jij» باشد؛ ترکیب اشتباه شخص و فعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik denk dat een modern logo ons juist helpt om een jongere doelgroep aan te spreken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با دلیل مشخص (جذب مخاطب جوان‌تر) از انتخاب طراحی دفاع می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gebruik dan toch het oude logo, dat maakt mij niets uit.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مؤدبانه از انتخاب طراحی."
+      },
+      {
+        "key": "D",
+        "text_nl": "U heeft helemaal gelijk, het logo is inderdaad te modern voor ons merk.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از طراحی، با انتقاد همکار کاملاً موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: Waarom wil jij extra personeel aannemen? Dat kost veel geld.\nTeamleider: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست هزینه‌ی استخدام را در برابر سود بلندمدت توجیه می‌کند.",
+    "grammar_rule_fa": "برای توجیه هزینه از عبارت «op de lange termijn» همراه با استدلال درست استفاده می‌شود؛ مثال: «Op de lange termijn besparen we juist geld.»",
+    "extra_example_nl": "Op de lange termijn besparen we juist geld, omdat overwerk nu erg duur is.",
+    "extra_example_fa": "در بلندمدت ما دقیقاً پول ذخیره می‌کنیم، چون اضافه‌کاری فعلی بسیار پرهزینه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Neem dan toch geen extra personeel aan, dat is prima.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/تسلیم دارد، نه استدلال مؤدبانه برای دفاع از تصمیم استخدام."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op de lange termijn besparen we juist geld, omdat overwerk nu erg duur is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با استدلال اقتصادی (صرفه‌جویی بلندمدت) از تصمیم دفاع می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neemde vorige week al iemand aan zonder overleg.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: زمان گذشته استفاده شده درحالی‌که باید توجیه فعلی بیان شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat klopt, extra personeel is inderdaad zonde van het geld.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از استخدام، با نگرانی مدیر درباره‌ی هزینه موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: Ik vind dat we de vergadering elke week moeten houden, niet elke maand.\nJij: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مخالفت مؤدبانه را بیان کرده و دلیل عملی (وقت‌گیر بودن) ارائه می‌دهد.",
+    "grammar_rule_fa": "برای بیان نظر متفاوت با فرد دوم‌شخص در محیط کاری رسمی از «u» استفاده می‌شود؛ صرف فعل باید با آن هماهنگ باشد.",
+    "extra_example_nl": "Ik begrijp uw voorstel, maar wekelijkse vergaderingen kosten ons te veel tijd.",
+    "extra_example_fa": "پیشنهاد شما را درک می‌کنم، اما جلسات هفتگی زمان زیادی از ما می‌گیرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Plan de vergadering dan toch elke week, dat maakt niets uit.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری دارد، نه استدلال مؤدبانه که با نظر همکار مخالفت کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik begrijpt uw punt niet helemaal, mevrouw.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه است: «Ik begrijpt» نادرست است، باید «Ik begrijp» باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik begrijp uw voorstel, maar wekelijkse vergaderingen kosten ons te veel tijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله مؤدبانه مخالفت می‌کند و دلیل مشخصی (وقت‌گیر بودن) ارائه می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "U heeft gelijk, wekelijkse vergaderingen zijn inderdaad beter.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از دیدگاه ماهانه، با پیشنهاد هفتگی همکار موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: Ik begrijp niet waarom je vasthoudt aan deze technische oplossing, terwijl er goedkopere alternatieven zijn.\nOntwikkelaar: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با استدلال فنی (پایداری بلندمدت) از تصمیم دفاع می‌کند و از پذیرش کورکورانه‌ی جایگزین ارزان‌تر خودداری می‌کند.",
+    "grammar_rule_fa": "در استدلال رسمی از «hoewel» برای نشان دادن تضاد استفاده می‌شود؛ مثال: «Hoewel het alternatief goedkoper lijkt, is het op lange termijn minder stabiel.»",
+    "extra_example_nl": "Hoewel het alternatief goedkoper lijkt, is het op lange termijn minder stabiel en dus riskanter.",
+    "extra_example_fa": "اگرچه جایگزین ارزان‌تر به نظر می‌رسد، در بلندمدت پایداری کمتری دارد و بنابراین پرریسک‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kies dan toch voor het goedkopere alternatief, ik heb er geen probleem mee.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/تسلیم دارد، نه استدلال فنی برای دفاع از تصمیم اولیه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoewel het alternatief goedkoper lijkt, is het op lange termijn minder stabiel en dus riskanter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با استفاده از «hoewel» تضاد را نشان می‌دهد و دلیل فنی (پایداری) ارائه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik hebben deze oplossing gekozen vanwege de stabiliteit.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه است: «Ik hebben» نادرست است، باید «Ik heb» باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat betekent waarschijnlijk dat het goedkopere alternatief uiteindelijk net zo stabiel zal zijn.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این نتیجه با استدلال فنی درباره‌ی پایداری کمتر جایگزین ارزان در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Bestuurslid: Uw voorstel om thuiswerken volledig af te schaffen lijkt me niet realistisch.\nHR-manager: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور مؤدبانه از پیشنهاد اصلی دفاع می‌کند و به نگرانی طرف مقابل با دلیل واقعی پاسخ می‌دهد.",
+    "grammar_rule_fa": "در ثبت رسمی برای پاسخ به انتقاد از «desondanks» استفاده می‌شود که نشان‌دهنده‌ی ادامه‌ی استدلال است؛ مثال: «Desondanks blijf ik bij mijn standpunt, omdat...»",
+    "extra_example_nl": "Desondanks blijf ik bij mijn standpunt, omdat kantoorwerk de samenwerking sterk verbetert.",
+    "extra_example_fa": "با این حال، بر دیدگاه خودم پافشاری می‌کنم، چون کار در دفتر همکاری را به‌طور قابل‌توجهی بهبود می‌بخشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Schaf thuiswerken dan toch niet af, dat is uw beslissing.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از پیشنهاد اصلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heeft helemaal gelijk, mijn voorstel was niet realistisch.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از پیشنهاد، کاملاً با انتقاد موافقت کرده و از آن دست می‌کشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik zal gisteren mijn standpunt al hebben aangepast.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: ساختار زمانی نامنطبق (آینده‌ی کامل برای گذشته) با موقعیت هم‌خوانی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Desondanks blijf ik bij mijn standpunt, omdat kantoorwerk de samenwerking sterk verbetert.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با وجود مخالفت، به‌شکل مؤدبانه از دیدگاه خود دفاع می‌کند و دلیل روشنی ارائه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: Ik vind je aanpak voor het project te riskant, we zouden een veiliger plan moeten volgen.\nProjectleider: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست ریسک را می‌پذیرد اما با استدلال نشان می‌دهد که سود احتمالی بیشتر از ریسک است.",
+    "grammar_rule_fa": "برای اذعان به نکته‌ی طرف مقابل و سپس دفاع از نظر خود از «al is het waar dat...» استفاده می‌شود؛ مثال: «Al is het waar dat er risico's zijn, de voordelen wegen zwaarder.»",
+    "extra_example_nl": "Al is het waar dat er risico's zijn, de voordelen wegen naar mijn mening zwaarder.",
+    "extra_example_fa": "اگرچه درست است که ریسک‌هایی وجود دارد، به نظر من مزایا سنگین‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volg dan toch het veiligere plan, ik vind het allemaal best.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه استدلالی که از رویکرد اصلی دفاع کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je hebt helemaal gelijk, mijn aanpak is inderdaad te riskant.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از رویکرد خود، کاملاً با انتقاد همکار موافقت می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat betekent waarschijnlijk dat het veiligere plan sneller tot minder resultaat zal leiden.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این جمله نتیجه‌ای گیج‌کننده و نامنطقی ارائه می‌دهد که از استدلال اصلی پشتیبانی نمی‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Al is het waar dat er risico's zijn, de voordelen wegen naar mijn mening zwaarder.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله ابتدا نکته‌ی طرف مقابل را می‌پذیرد و سپس با دلیل از نظر خود دفاع می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: Ik snap niet waarom jij tegen de fusie met het andere bedrijf bent.\nAfdelingshoofd: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با دلیل فرهنگ سازمانی متفاوت از مخالفت خود دفاع می‌کند.",
+    "grammar_rule_fa": "فعل مناسب برای بیان نگرانی «vrezen» است، نه فعلی با معنای مشابه اما نادرست مانند «hopen»؛ مثال: «Ik vrees dat de bedrijfsculturen niet samengaan.»",
+    "extra_example_nl": "Ik vrees dat de bedrijfsculturen niet goed samengaan, en dat kan tot problemen leiden.",
+    "extra_example_fa": "نگرانم که فرهنگ‌های سازمانی به‌خوبی با هم جور نشوند، و این می‌تواند منجر به مشکل شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik hoop dat de bedrijfsculturen niet goed samengaan.",
+        "is_correct": false,
+        "feedback_fa": "❌ فعل اشتباه انتخاب شده: «hopen» به معنای امیدواری است، اما باید «vrezen» (نگران بودن) به‌کار رود؛ معنا نامناسب می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ga dan toch akkoord met de fusie, dat is uiteindelijk uw besluit.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از مخالفت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik vrees dat de bedrijfsculturen niet goed samengaan, en dat kan tot problemen leiden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با دلیل مشخص (فرهنگ سازمانی متفاوت) از مخالفت خود دفاع می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "U heeft gelijk, de fusie is eigenlijk een uitstekend idee.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از مخالفت، با ایده‌ی ادغام کاملاً موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: Waarom sta jij erop dat we een externe adviseur inhuren? Wij kunnen dit toch zelf oplossen.\nJij: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور مؤدبانه توضیح می‌دهد که تخصص خارجی چه ارزش افزوده‌ای دارد.",
+    "grammar_rule_fa": "استفاده از فعل درست «beschikken over» به معنای «داشتن» تخصص است، نه فعل مشابه نادرست؛ مثال: «De adviseur beschikt over kennis die wij niet hebben.»",
+    "extra_example_nl": "De adviseur beschikt over specifieke kennis die wij intern nog niet hebben opgebouwd.",
+    "extra_example_fa": "مشاور دانش تخصصی‌ای دارد که ما هنوز به‌صورت داخلی به دست نیاورده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Huur dan toch geen adviseur in, we lossen het zelf wel op.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/تسلیم دارد، نه استدلال مؤدبانه برای دفاع از تصمیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik bezitten wel vertrouwen in onze eigen kennis.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه است: «Ik bezitten» نادرست است، باید «Ik bezit» باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De adviseur beschikt over specifieke kennis die wij intern nog niet hebben opgebouwd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با دلیل مشخص (دانش تخصصی) از تصمیم استخدام مشاور دفاع می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat klopt, we kunnen dit prima zelf oplossen zonder hulp.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از استخدام مشاور، با نظر همکار موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Directeur: Ik vind dat we het nieuwe kantoorbeleid, geen vaste werkplekken meer, gewoon moeten invoeren.\nOndernemingsraad: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نگرانی کارکنان را مطرح کرده و خواستار بررسی بیشتر می‌شود، بدون امری بودن.",
+    "grammar_rule_fa": "برای پیشنهاد یک گام میانی از «voordat we dit invoeren, zouden we eerst...» استفاده می‌شود؛ ساختار شرطی مؤدبانه.",
+    "extra_example_nl": "Voordat we dit invoeren, zouden we eerst een proefperiode met de medewerkers moeten bespreken.",
+    "extra_example_fa": "قبل از اجرای این طرح، ابتدا باید یک دوره‌ی آزمایشی را با کارکنان مطرح کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voer het beleid gewoon meteen in, de medewerkers wennen er wel aan.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری دارد، نه یک استدلال مؤدبانه که نگرانی کارکنان را در نظر بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij was het daar meteen mee eens zonder overleg.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه است: «Wij was» نادرست است، باید «Wij waren» باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat betekent waarschijnlijk dat alle medewerkers meteen enthousiast zullen zijn.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این نتیجه‌گیری بدون بررسی نگرانی‌های کارکنان غیرمنطقی و عجولانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voordat we dit invoeren, zouden we eerst een proefperiode met de medewerkers moeten bespreken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله مؤدبانه پیشنهاد گام میانی (دوره‌ی آزمایشی) می‌دهد و نگرانی کارکنان را در نظر می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: Ik snap niet waarom u vasthoudt aan deze strakke planning, dat lijkt me onnodig streng.\nProjectmanager: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست دلیل واقعی پشت زمان‌بندی سخت‌گیرانه (وابستگی مراحل کار) را توضیح می‌دهد.",
+    "grammar_rule_fa": "برای توجیه یک قانون سخت‌گیرانه از «zonder deze planning zou...» (جمله‌ی شرطی) استفاده می‌شود.",
+    "extra_example_nl": "Zonder deze strakke planning zouden de volgende fasen van het project vertraging oplopen.",
+    "extra_example_fa": "بدون این زمان‌بندی سخت‌گیرانه، مراحل بعدی پروژه دچار تأخیر می‌شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zonder deze strakke planning zouden de volgende fasen van het project vertraging oplopen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله دلیل عملی (جلوگیری از تأخیر مراحل بعدی) برای زمان‌بندی سخت‌گیرانه ارائه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Verander de planning dan toch maar, dat is geen probleem voor mij.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از زمان‌بندی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik zal de planning gisteren al hebben aangepast, geen zorgen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: ساختار زمانی نامنطبق (آینده‌ی کامل برای گذشته) با موقعیت هم‌خوانی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "U heeft gelijk, deze planning is inderdaad veel te streng.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از زمان‌بندی، کاملاً با انتقاد مشتری موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Teamlid: Ik begrijp niet waarom we per se moeten overstappen op deze nieuwe software.\nIT-manager: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با ذکر مشکل امنیتی نرم‌افزار قدیمی از تصمیم دفاع می‌کند.",
+    "grammar_rule_fa": "برای بیان علت فوری از «want anders...» استفاده می‌شود که پیامد منفی را نشان می‌دهد.",
+    "extra_example_nl": "We moeten overstappen, want anders lopen we een groot beveiligingsrisico.",
+    "extra_example_fa": "ما باید تغییر کنیم، وگرنه با یک ریسک امنیتی بزرگ روبه‌رو می‌شویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Blijf dan toch bij de oude software, het maakt mij niet uit.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از تصمیم تغییر نرم‌افزار."
+      },
+      {
+        "key": "B",
+        "text_nl": "We moeten overstappen, want anders lopen we een groot beveiligingsrisico.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله دلیل مشخص (ریسک امنیتی) برای تغییر نرم‌افزار ارائه می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik overstapte vorige maand al zonder toestemming.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: زمان گذشته استفاده شده درحالی‌که موضوع تصمیم فعلی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat klopt, de oude software is eigenlijk nog prima veilig.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از تغییر، با ادامه‌ی استفاده از نرم‌افزار قدیمی موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: Volgens mij is jouw voorstel voor flexibele werktijden niet haalbaar voor de hele afdeling.\nTeamleider: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نگرانی مدیر را می‌پذیرد اما نشان می‌دهد که می‌توان با تنظیمات مناسب آن را عملی کرد.",
+    "grammar_rule_fa": "برای پیشنهاد راه‌حل میانه از «mits» (به‌شرطی که) استفاده می‌شود؛ مثال: «Het is haalbaar, mits we duidelijke afspraken maken.»",
+    "extra_example_nl": "Het is haalbaar, mits we duidelijke afspraken maken over bereikbaarheid.",
+    "extra_example_fa": "این طرح عملی است، به‌شرطی که توافق‌های روشنی درباره‌ی در دسترس بودن انجام دهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Laat het voorstel dan toch maar vallen, dat is prima.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/تسلیم دارد، نه دفاع مستدل از پیشنهاد."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heeft helemaal gelijk, mijn voorstel is inderdaad niet haalbaar.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از پیشنهاد، کاملاً با انتقاد مدیر موافقت می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het is haalbaar, mits we duidelijke afspraken maken over bereikbaarheid.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با پیشنهاد راه‌حل مشخص (توافق درباره‌ی دسترسی) از عملی بودن طرح دفاع می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat betekent waarschijnlijk dat de hele afdeling minder zal gaan werken.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این نتیجه‌گیری منطقی نیست و ارتباطی با استدلال اصلی درباره‌ی امکان‌پذیری ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: Ik vind dat we de samenwerking met deze partner moeten stopzetten, ze leveren te laat.\nJij: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست ضمن پذیرش مشکل، دلیل ادامه‌ی همکاری (سابقه‌ی خوب و راه‌حل ممکن) را ارائه می‌دهد.",
+    "grammar_rule_fa": "برای اذعان جزئی و سپس دفاع از «ondanks dat» استفاده می‌شود؛ مثال: «Ondanks de vertragingen, blijft deze partner waardevol.»",
+    "extra_example_nl": "Ondanks de vertragingen blijft deze partner waardevol vanwege hun expertise.",
+    "extra_example_fa": "با وجود تأخیرها، این همکار به‌دلیل تخصصشان همچنان ارزشمند است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ondanks de vertragingen blijft deze partner waardevol vanwege hun expertise.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله مشکل را می‌پذیرد اما با دلیل مشخص (تخصص) از ادامه‌ی همکاری دفاع می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Stop de samenwerking dan toch maar, ik heb er geen mening over.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از ادامه‌ی همکاری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik was het daar altijd al mee eens geweest.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: ساختار گذشته‌ی کامل نامناسب برای بیان نظر فعلی استفاده شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat klopt, deze partner is eigenlijk niet meer waardevol voor ons.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از ادامه‌ی همکاری، با پیشنهاد قطع همکاری موافقت می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Bestuur: Uw argumenten voor het behoud van de vier-daagse werkweek overtuigen ons niet, gezien de productiedruk.\nAfdelingshoofd: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با استدلال چندلایه (کاهش فرسودگی و افزایش تمرکز) در برابر نگرانی تولید دفاع می‌کند.",
+    "grammar_rule_fa": "در ثبت رسمی برای رد نرم یک ادعا از «hoe begrijpelijk uw zorg ook is» استفاده می‌شود؛ مثال: «Hoe begrijpelijk uw zorg ook is, de cijfers tonen het tegendeel.»",
+    "extra_example_nl": "Hoe begrijpelijk uw zorg over de productie ook is, de cijfers tonen juist een stijging van de efficiëntie.",
+    "extra_example_fa": "هرچند نگرانی شما درباره‌ی تولید قابل‌درک است، آمار در واقع افزایش کارایی را نشان می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Schaf de vier-daagse werkweek dan toch maar af, dat is uw beslissing.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/تسلیم دارد، نه دفاع مستدل از حفظ هفته‌ی کاری چهارروزه."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heeft helemaal gelijk, de vier-daagse werkweek werkt niet in de praktijk.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از هفته‌ی کاری چهارروزه، کاملاً با انتقاد هیئت‌مدیره موافقت می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe begrijpelijk uw zorg over de productie ook is, de cijfers tonen juist een stijging van de efficiëntie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله نگرانی طرف مقابل را می‌پذیرد اما با داده‌ی واقعی (افزایش کارایی) از موضع خود دفاع می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zal u gisteren al overtuigd hebben met deze cijfers.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: ساختار زمانی نامنطبق (آینده‌ی کامل برای گذشته) با موقعیت هم‌خوانی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Investeerder: Ik vind het onverantwoord om nu te investeren in duurzame verpakkingen, gezien de huidige kosten.\nDirecteur: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست ریسک کوتاه‌مدت هزینه را در برابر سود بلندمدت (تصویر برند و مقررات آینده) توجیه می‌کند.",
+    "grammar_rule_fa": "برای دفاع در برابر اتهام «onverantwoord» از ساختار مقایسه‌ای «weliswaar... maar» استفاده می‌شود.",
+    "extra_example_nl": "De kosten zijn weliswaar hoog, maar op termijn voorkomen we hogere boetes door strengere regelgeving.",
+    "extra_example_fa": "اگرچه هزینه‌ها بالاست، اما در بلندمدت از جریمه‌های سنگین‌تر ناشی از مقررات سخت‌گیرانه‌تر جلوگیری می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Investeer dan toch niet in duurzame verpakkingen, dat is helemaal aan u.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از سرمایه‌گذاری در بسته‌بندی پایدار."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heeft gelijk, deze investering is inderdaad onverantwoord op dit moment.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از سرمایه‌گذاری، کاملاً با انتقاد سرمایه‌گذار موافقت می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij verwachtte vorig jaar al lagere kosten voor duurzame materialen.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه است: «Wij verwachtte» نادرست است، باید «Wij verwachtten» باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kosten zijn weliswaar hoog, maar op termijn voorkomen we hogere boetes door strengere regelgeving.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله هزینه‌ی بالا را می‌پذیرد اما با دلیل بلندمدت (اجتناب از جریمه) از تصمیم دفاع می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Collega: Uw keuze om het project met een extern team uit te voeren ondermijnt het vertrouwen in ons eigen team.\nProjectleider: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست اتهام (تضعیف اعتماد) را رد می‌کند و دلیل واقعی تصمیم (کمبود ظرفیت موقت) را توضیح می‌دهد.",
+    "grammar_rule_fa": "برای رد یک اتهام ضمنی از «het is geenszins de bedoeling om...» استفاده می‌شود که رسمی و مؤدبانه است.",
+    "extra_example_nl": "Het is geenszins de bedoeling om het vertrouwen te ondermijnen; we hebben simpelweg tijdelijk extra capaciteit nodig.",
+    "extra_example_fa": "به هیچ‌وجه قصد تضعیف اعتماد وجود ندارد؛ ما به‌سادگی به‌طور موقت به ظرفیت اضافی نیاز داریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het is geenszins de bedoeling om het vertrouwen te ondermijnen; we hebben simpelweg tijdelijk extra capaciteit nodig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله اتهام را مؤدبانه رد می‌کند و دلیل واقعی (نیاز موقت به ظرفیت) را ارائه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Werk dan toch niet meer samen met het externe team, dat is uw keuze.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از تصمیم همکاری با تیم خارجی."
+      },
+      {
+        "key": "C",
+        "text_nl": "U heeft helemaal gelijk, deze keuze ondermijnt inderdaad het vertrouwen in het team.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای رد اتهام، آن را کاملاً می‌پذیرد و تأیید می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat betekent waarschijnlijk dat ons eigen team helemaal geen werk meer krijgt.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این نتیجه‌گیری اغراق‌آمیز و غیرمنطقی است و از استدلال اصلی پشتیبانی نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: Ik vind dat uw kritiek op het nieuwe beoordelingssysteem overdreven is, het systeem is juist eerlijker.\nMedewerker: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست ادعای «منصفانه‌تر بودن» را با دلیل مشخص (نادیده گرفتن عوامل خارج از کنترل) به چالش می‌کشد.",
+    "grammar_rule_fa": "برای رد ملایم یک ادعا از «zo eerlijk is het systeem niet, aangezien...» استفاده می‌شود.",
+    "extra_example_nl": "Zo eerlijk is het systeem niet, aangezien het geen rekening houdt met factoren buiten onze controle.",
+    "extra_example_fa": "این سیستم آن‌طور که ادعا می‌شود منصفانه نیست، چون عواملی خارج از کنترل ما را در نظر نمی‌گیرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Accepteer het systeem dan toch maar, ik heb er verder geen mening over.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از انتقاد اصلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heeft gelijk, het systeem is inderdaad eerlijker dan het vorige.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از انتقاد خود، کاملاً با نظر مدیر موافقت می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bekritiseerde het systeem vorig jaar al zonder duidelijke reden.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: زمان گذشته استفاده شده درحالی‌که موضوع بحث فعلی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zo eerlijk is het systeem niet, aangezien het geen rekening houdt met factoren buiten onze controle.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله ادعای مدیر را با دلیل مشخص (نادیده گرفتن عوامل خارجی) به چالش می‌کشد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Bestuurslid: Uw plan om te investeren in een nieuw pand lijkt me op dit moment financieel onverstandig.\nFinancieel directeur: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست ریسک مالی فعلی را می‌پذیرد اما با پیش‌بینی رشد آینده از سرمایه‌گذاری دفاع می‌کند.",
+    "grammar_rule_fa": "برای دفاع در برابر برچسب «onverstandig» از «gelet op» (با توجه به) برای معرفی دلیل استفاده می‌شود.",
+    "extra_example_nl": "Gelet op de verwachte groei van het bedrijf, is deze investering juist een verstandige zet.",
+    "extra_example_fa": "با توجه به رشد پیش‌بینی‌شده‌ی شرکت، این سرمایه‌گذاری در واقع یک اقدام عاقلانه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Stop dan toch met de investering, ik vind alles best.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از سرمایه‌گذاری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gelet op de verwachte groei van het bedrijf, is deze investering juist een verstandige zet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با دلیل مشخص (رشد پیش‌بینی‌شده) از سرمایه‌گذاری دفاع می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "U heeft helemaal gelijk, deze investering is inderdaad onverstandig op dit moment.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از سرمایه‌گذاری، کاملاً با انتقاد عضو هیئت‌مدیره موافقت می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij verwacht al jaren geleden een sterke groei van het bedrijf.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه است: «Wij verwacht» نادرست است، باید «Wij verwachtten» یا «Wij verwachten» باشد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Collega: Ik vind dat uw voorstel om de klantenservice te automatiseren de persoonlijke aandacht wegneemt.\nProductmanager: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نشان می‌دهد که اتوماسیون فقط کارهای ساده را می‌گیرد و در واقع زمان بیشتری برای توجه شخصی آزاد می‌کند.",
+    "grammar_rule_fa": "برای اصلاح یک سوءبرداشت از «het gaat niet om..., maar om...» استفاده می‌شود.",
+    "extra_example_nl": "Het gaat niet om het wegnemen van persoonlijke aandacht, maar om het overnemen van eenvoudige, herhalende taken.",
+    "extra_example_fa": "موضوع حذف توجه شخصی نیست، بلکه انجام دادن کارهای ساده و تکراری است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Automatiseer de klantenservice dan toch niet, dat is uw beslissing.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از پیشنهاد اتوماسیون."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het gaat niet om het wegnemen van persoonlijke aandacht, maar om het overnemen van eenvoudige, herhalende taken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله سوءبرداشت را اصلاح می‌کند و هدف واقعی اتوماسیون را روشن می‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "U heeft gelijk, automatisering neemt inderdaad alle persoonlijke aandacht weg.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از پیشنهاد، کاملاً با انتقاد همکار موافقت می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat betekent waarschijnlijk dat klanten helemaal geen contact meer met mensen willen.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این نتیجه‌گیری اغراق‌آمیز است و از استدلال اصلی درباره‌ی کارهای ساده پشتیبانی نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: Ik betwijfel of uw voorstel voor een langere proeftijd wel eerlijk is tegenover nieuwe medewerkers.\nHR-adviseur: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نشان می‌دهد که هدف زمان طولانی‌تر آزمایشی، ارزیابی منصفانه‌تر است، نه بی‌عدالتی.",
+    "grammar_rule_fa": "برای رد اتهام بی‌عدالتی از «integendeel» (برعکس) استفاده می‌شود تا نشان دهد ادعا نادرست است.",
+    "extra_example_nl": "Integendeel, een langere proeftijd geeft nieuwe medewerkers juist meer kans om zich te bewijzen.",
+    "extra_example_fa": "برعکس، دوره‌ی آزمایشی طولانی‌تر در واقع فرصت بیشتری به کارکنان جدید می‌دهد تا خود را ثابت کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Verkort de proeftijd dan toch maar, ik heb er geen probleem mee.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/تسلیم دارد، نه دفاع مستدل از طولانی‌تر بودن دوره‌ی آزمایشی."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heeft helemaal gelijk, een langere proeftijd is inderdaad oneerlijk.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از پیشنهاد خود، کاملاً با انتقاد مدیر موافقت می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik stelde deze proeftijd twee jaar geleden al voor zonder onderbouwing.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: زمان گذشته استفاده شده درحالی‌که موضوع تصمیم و توجیه فعلی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Integendeel, een langere proeftijd geeft nieuwe medewerkers juist meer kans om zich te bewijzen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله با «integendeel» اتهام بی‌عدالتی را رد می‌کند و دلیل مثبت (فرصت بیشتر) ارائه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Bestuur: We vinden het onnodig risicovol om nu al te investeren in kunstmatige intelligentie voor onze afdeling.\nInnovatiemanager: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نشان می‌دهد تأخیر در سرمایه‌گذاری خود می‌تواند ریسک بزرگ‌تری (عقب ماندن از رقبا) ایجاد کند.",
+    "grammar_rule_fa": "برای معکوس کردن استدلال ریسک از «het grootste risico is juist om niets te doen» استفاده می‌شود.",
+    "extra_example_nl": "Het grootste risico is juist om niets te doen, want dan lopen we achter op onze concurrenten.",
+    "extra_example_fa": "بزرگ‌ترین ریسک در واقع کاری نکردن است، چون در آن صورت از رقبایمان عقب می‌مانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het grootste risico is juist om niets te doen, want dan lopen we achter op onze concurrenten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله استدلال ریسک را معکوس می‌کند و نشان می‌دهد بی‌عملی خطرناک‌تر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Investeer dan toch niet in kunstmatige intelligentie, dat is uw beslissing.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از سرمایه‌گذاری در هوش مصنوعی."
+      },
+      {
+        "key": "C",
+        "text_nl": "U heeft gelijk, investeren in kunstmatige intelligentie is nu inderdaad te riskant.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از سرمایه‌گذاری، کاملاً با نگرانی هیئت‌مدیره موافقت می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij investeerde vorig kwartaal al zonder toestemming van het bestuur.",
+        "is_correct": false,
+        "feedback_fa": "❌ صرف فعل اشتباه است: «Wij investeerde» نادرست است، باید «Wij investeerden» باشد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Collega: Ik vind uw besluit om de sollicitatieprocedure te verkorten roekeloos, we missen zo goede kandidaten.\nHR-manager: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نشان می‌دهد که فرآیند کوتاه‌تر به‌دلیل رقابت بازار کار ضروری است، نه بی‌احتیاطی.",
+    "grammar_rule_fa": "برای دفاع در برابر برچسب «roekeloos» از «juist doordachte» استفاده می‌شود تا نشان دهد تصمیم حساب‌شده است.",
+    "extra_example_nl": "Dit is juist een doordachte keuze, aangezien goede kandidaten anders naar sneller werkende concurrenten gaan.",
+    "extra_example_fa": "این در واقع یک انتخاب حساب‌شده است، چون در غیر این صورت نامزدهای خوب به‌سمت رقبای سریع‌تر می‌روند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is juist een doordachte keuze, aangezien goede kandidaten anders naar sneller werkende concurrenten gaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله برچسب بی‌احتیاطی را رد می‌کند و دلیل رقابتی (از دست ندادن نامزدها) را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Verleng de sollicitatieprocedure dan toch maar, dat is uw keuze.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از کوتاه کردن فرآیند استخدام."
+      },
+      {
+        "key": "C",
+        "text_nl": "U heeft helemaal gelijk, deze verkorting is inderdaad roekeloos.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای دفاع از تصمیم، کاملاً با انتقاد همکار موافقت می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat betekent waarschijnlijk dat we voortaan alleen nog slechte kandidaten zullen aannemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این نتیجه‌گیری اغراق‌آمیز و غیرمنطقی است و از استدلال اصلی پشتیبانی نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "defend_opinion",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Bestuurslid: Uw voorstel om de productielijn te verplaatsen naar het buitenland getuigt van weinig loyaliteit aan het personeel.\nOperationeel directeur: ___\nWelke reactie verdedigt de mening het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست اتهام بی‌وفایی را رد می‌کند و نشان می‌دهد این تصمیم برای بقای بلندمدت شرکت (و حفظ سایر مشاغل) ضروری است.",
+    "grammar_rule_fa": "برای رد رسمی یک اتهام از «dat is geenszins het geval; integendeel...» استفاده می‌شود.",
+    "extra_example_nl": "Dat is geenszins het geval; integendeel, deze stap is nodig om de andere banen in Nederland te behouden.",
+    "extra_example_fa": "این به‌هیچ‌وجه چنین نیست؛ برعکس، این اقدام برای حفظ سایر مشاغل در هلند ضروری است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Verplaats de productielijn dan toch niet, dat is helemaal aan u.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالت امری/بی‌تفاوتی دارد، نه دفاع مستدل از تصمیم جابه‌جایی خط تولید."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heeft gelijk, dit voorstel getuigt inderdaad van weinig loyaliteit aan het personeel.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای عکس دارد: به‌جای رد اتهام، آن را کاملاً می‌پذیرد و تأیید می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is geenszins het geval; integendeel, deze stap is nodig om de andere banen in Nederland te behouden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: این جمله اتهام بی‌وفایی را مؤدبانه رد می‌کند و دلیل واقعی (حفظ سایر مشاغل) را ارائه می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik overwoog dit plan al jaren geleden, zonder het ooit te bespreken.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمان فعل اشتباه است: زمان گذشته استفاده شده درحالی‌که موضوع توجیه تصمیم فعلی است."
+      }
+    ]
+  }
+]

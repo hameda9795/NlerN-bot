@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "wie_misuse",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De man wie naast mij woont, is heel aardig.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "برای اشاره به انسان بدون حرفِ اضافه از «die» استفاده می‌شود، نه «wie» یا «dat».",
+    "correction_rule_fa": "برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود.",
+    "extra_example_nl": "De vrouw die daar werkt, is mijn buurvrouw.",
+    "extra_example_fa": "زنی که آنجا کار می‌کند همسایه‌ی من است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De man die naast mij woont, is heel aardig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De man wie naast mij woont, is heel aardig.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De man dat naast mij woont, is heel aardig.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De man die woont naast mij, is heel aardig.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "verb_final_violation",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het boek dat ik kocht gisteren, is heel interessant.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "در جمله‌ی موصولی، فعل «kocht» باید در انتهای جمله بیاید، نه قبل از «gisteren».",
+    "correction_rule_fa": "در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی.",
+    "extra_example_nl": "Het huis dat wij vorig jaar kochten, is heel groot.",
+    "extra_example_fa": "خانه‌ای که سال قبل خریدیم خیلی بزرگ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het boek dat ik kocht gisteren, is heel interessant.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het boek dat ik gisteren kocht, is heel interessant.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het boek die ik gisteren kocht, is heel interessant.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het boek ik gisteren kocht, is heel interessant.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "wie_misuse",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De vrouw wie in de winkel werkt, heet Anna.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "برای اشاره به انسان بدون حرفِ اضافه از «die» استفاده می‌شود، نه «wie» یا «dat».",
+    "correction_rule_fa": "برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود.",
+    "extra_example_nl": "De man die in de bakkerij werkt, heet Tom.",
+    "extra_example_fa": "مردی که در نانوایی کار می‌کند تام نام دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vrouw wie in de winkel werkt, heet Anna.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vrouw dat in de winkel werkt, heet Anna.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vrouw die in de winkel werkt, heet Anna.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vrouw die werkt in de winkel, heet Anna.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "verb_final_violation",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het huis dat staat aan het water, is heel duur.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "در جمله‌ی موصولی، فعل «staat» باید در انتهای جمله بیاید، نه بلافاصله بعد از «dat».",
+    "correction_rule_fa": "در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی.",
+    "extra_example_nl": "Het appartement dat in het centrum ligt, is heel klein.",
+    "extra_example_fa": "آپارتمانی که در مرکز شهر است خیلی کوچک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het huis dat staat aan het water, is heel duur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het huis die aan het water staat, is heel duur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het huis aan het water staat, is heel duur.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het huis dat aan het water staat, is heel duur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "die_dat_swap",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De auto dat voor de deur staat, is van mijn buurman.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون «auto» یک de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "correction_rule_fa": "چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "extra_example_nl": "De fiets die tegen de muur staat, is van mijn zus.",
+    "extra_example_fa": "دوچرخه‌ای که کنار دیوار است مالِ خواهرم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De auto die voor de deur staat, is van mijn buurman.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De auto dat voor de deur staat, is van mijn buurman.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De auto die staat voor de deur, is van mijn buurman.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "D",
+        "text_nl": "De auto voor de deur staat, is van mijn buurman.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "verb_final_violation",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het kind dat zit naast mij, heet Sara.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "در جمله‌ی موصولی، فعل «zit» باید در انتهای جمله بیاید، نه بلافاصله بعد از «dat».",
+    "correction_rule_fa": "در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی.",
+    "extra_example_nl": "Het meisje dat voor mij staat, heet Lisa.",
+    "extra_example_fa": "دختری که جلوی من ایستاده لیزا نام دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het kind dat zit naast mij, heet Sara.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het kind dat naast mij zit, heet Sara.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het kind die naast mij zit, heet Sara.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het kind naast mij zit, heet Sara.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "wie_misuse",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De leraar wie Engels geeft, is heel streng.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "برای اشاره به انسان بدون حرفِ اضافه از «die» استفاده می‌شود، نه «wie» یا «dat».",
+    "correction_rule_fa": "برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود.",
+    "extra_example_nl": "De lerares die wiskunde geeft, is heel aardig.",
+    "extra_example_fa": "معلمی که ریاضی درس می‌دهد خیلی مهربان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De leraar wie Engels geeft, is heel streng.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De leraar dat Engels geeft, is heel streng.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De leraar die Engels geeft, is heel streng.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De leraar die geeft Engels, is heel streng.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "verb_final_violation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het bedrijf dat verkoopt computers, groeit snel.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "در جمله‌ی موصولی، فعل «verkoopt» باید در انتهای جمله بیاید، نه بلافاصله بعد از «dat».",
+    "correction_rule_fa": "در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی.",
+    "extra_example_nl": "Het bedrijf dat telefoons maakt, is heel bekend.",
+    "extra_example_fa": "شرکتی که گوشی می‌سازد خیلی معروف است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het bedrijf dat verkoopt computers, groeit snel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het bedrijf die computers verkoopt, groeit snel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het bedrijf computers verkoopt, groeit snel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het bedrijf dat computers verkoopt, groeit snel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "die_dat_swap",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De winkel dat op de hoek staat, is nieuw.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون «winkel» یک de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "correction_rule_fa": "چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "extra_example_nl": "De bakkerij die naast de bank ligt, is heel populair.",
+    "extra_example_fa": "نانوایی‌ای که کنار بانک است خیلی محبوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel die op de hoek staat, is nieuw.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel dat op de hoek staat, is nieuw.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De winkel die staat op de hoek, is nieuw.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel op de hoek staat, is nieuw.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "verb_final_violation",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het probleem dat ontstond gisteren, is nu opgelost.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "در جمله‌ی موصولی، فعل «ontstond» باید در انتهای جمله بیاید، نه بلافاصله بعد از «dat».",
+    "correction_rule_fa": "در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی.",
+    "extra_example_nl": "Het probleem dat vorige week begon, is bijna opgelost.",
+    "extra_example_fa": "مشکلی که هفته‌ی قبل شروع شد تقریباً حل شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het probleem dat ontstond gisteren, is nu opgelost.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het probleem dat gisteren ontstond, is nu opgelost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het probleem die gisteren ontstond, is nu opgelost.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het probleem gisteren ontstond, is nu opgelost.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "die_dat_swap",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De trein dat om acht uur vertrekt, is altijd vol.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون «trein» یک de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "correction_rule_fa": "چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "extra_example_nl": "De bus die om negen uur vertrekt, zit altijd vol.",
+    "extra_example_fa": "اتوبوسی که ساعت نه حرکت می‌کند همیشه پر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De trein dat om acht uur vertrekt, is altijd vol.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De trein die vertrekt om acht uur, is altijd vol.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "De trein die om acht uur vertrekt, is altijd vol.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De trein om acht uur vertrekt, is altijd vol.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "verb_final_violation",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het artikel dat staat in de krant, is erg interessant.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "در جمله‌ی موصولی، فعل «staat» باید در انتهای جمله بیاید، نه بلافاصله بعد از «dat».",
+    "correction_rule_fa": "در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی.",
+    "extra_example_nl": "Het bericht dat op de website staat, is erg belangrijk.",
+    "extra_example_fa": "خبری که روی وب‌سایت است خیلی مهم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het artikel dat staat in de krant, is erg interessant.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het artikel die in de krant staat, is erg interessant.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het artikel in de krant staat, is erg interessant.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het artikel dat in de krant staat, is erg interessant.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "wie_misuse",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De buurman wie altijd klaagt, is niet aardig.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "برای اشاره به انسان بدون حرفِ اضافه از «die» استفاده می‌شود، نه «wie» یا «dat».",
+    "correction_rule_fa": "برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود.",
+    "extra_example_nl": "De buurvrouw die altijd helpt, is heel aardig.",
+    "extra_example_fa": "همسایه‌ای که همیشه کمک می‌کند خیلی مهربان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De buurman die altijd klaagt, is niet aardig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De buurman wie altijd klaagt, is niet aardig.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De buurman dat altijd klaagt, is niet aardig.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De buurman die klaagt altijd, is niet aardig.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "verb_final_violation",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het feest dat wij vierden gisteren, was heel leuk.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "در جمله‌ی موصولی، فعل «vierden» باید در انتهای جمله بیاید، نه بلافاصله بعد از «gisteren».",
+    "correction_rule_fa": "در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی.",
+    "extra_example_nl": "Het diner dat wij samen kookten, was heerlijk.",
+    "extra_example_fa": "شامی که با هم پختیم خیلی خوشمزه بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het feest dat wij vierden gisteren, was heel leuk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het feest dat wij gisteren vierden, was heel leuk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het feest die wij gisteren vierden, was heel leuk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het feest wij gisteren vierden, was heel leuk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "wie_misuse",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De collega wie naast mij zit, heet Peter.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "برای اشاره به انسان بدون حرفِ اضافه از «die» استفاده می‌شود، نه «wie» یا «dat».",
+    "correction_rule_fa": "برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود.",
+    "extra_example_nl": "De collega die tegenover mij zit, heet Sanne.",
+    "extra_example_fa": "همکاری که روبه‌رویم نشسته سانه نام دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De collega wie naast mij zit, heet Peter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De collega dat naast mij zit, heet Peter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De collega die naast mij zit, heet Peter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De collega die zit naast mij, heet Peter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "verb_final_violation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het rapport dat schreef hij, was heel duidelijk.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "در جمله‌ی موصولی، فعل «schreef» باید در انتهای جمله بیاید، نه بلافاصله بعد از «dat».",
+    "correction_rule_fa": "در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی.",
+    "extra_example_nl": "Het verslag dat zij maakte, was heel compleet.",
+    "extra_example_fa": "گزارشی که او تهیه کرد خیلی کامل بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het rapport dat schreef hij, was heel duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het rapport die hij schreef, was heel duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het rapport hij schreef, was heel duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het rapport dat hij schreef, was heel duidelijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "die_dat_swap",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De stad dat wij bezochten, was heel mooi.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون «stad» یک de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "correction_rule_fa": "چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "extra_example_nl": "De streek die wij bezochten, was heel rustig.",
+    "extra_example_fa": "منطقه‌ای که بازدید کردیم خیلی آرام بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De stad die wij bezochten, was heel mooi.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De stad dat wij bezochten, was heel mooi.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De stad die bezochten wij, was heel mooi.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "D",
+        "text_nl": "De stad wij bezochten, was heel mooi.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "missing_pronoun",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het restaurant op de hoek ligt, is erg populair.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "جمله‌ی موصولی باید با «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "correction_rule_fa": "جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "extra_example_nl": "Het café dat aan het plein ligt, is erg gezellig.",
+    "extra_example_fa": "کافه‌ای که کنار میدان است خیلی دنج است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het restaurant op de hoek ligt, is erg populair.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het restaurant dat op de hoek ligt, is erg populair.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het restaurant die op de hoek ligt, is erg populair.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het restaurant dat ligt op de hoek, is erg populair.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "die_dat_swap",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De app dat ik gebruik, werkt heel goed.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون «app» یک de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "correction_rule_fa": "چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "extra_example_nl": "De website die ik bezoek, is heel handig.",
+    "extra_example_fa": "وب‌سایتی که استفاده می‌کنم خیلی کاربردی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De app dat ik gebruik, werkt heel goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De app die gebruik ik, werkt heel goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "De app die ik gebruik, werkt heel goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De app ik gebruik, werkt heel goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "missing_pronoun",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het contract wij tekenden, was heel duidelijk.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "جمله‌ی موصولی باید با «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "correction_rule_fa": "جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "extra_example_nl": "Het document dat wij ondertekenden, was heel belangrijk.",
+    "extra_example_fa": "سندی که امضا کردیم خیلی مهم بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het contract wij tekenden, was heel duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het contract die wij tekenden, was heel duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het contract dat tekenden wij, was heel duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het contract dat wij tekenden, was heel duidelijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "wie_misuse",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De dokter wie mij onderzocht, was heel vriendelijk.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "برای اشاره به انسان بدون حرفِ اضافه از «die» استفاده می‌شود، نه «wie» یا «dat».",
+    "correction_rule_fa": "برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود.",
+    "extra_example_nl": "De verpleegkundige die mij hielp, was heel geduldig.",
+    "extra_example_fa": "پرستاری که کمکم کرد خیلی صبور بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De dokter die mij onderzocht, was heel vriendelijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De dokter wie mij onderzocht, was heel vriendelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای اشاره به انسان بدون حرفِ اضافه، ضمیرِ موصولیِ درست «die» است؛ «wie» فقط بعد از حرفِ اضافه (مثل «met wie») به‌کار می‌رود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De dokter dat mij onderzocht, was heel vriendelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De dokter die onderzocht mij, was heel vriendelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "missing_pronoun",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het ziekenhuis hier dichtbij ligt, is heel modern.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "جمله‌ی موصولی باید با «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "correction_rule_fa": "جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "extra_example_nl": "Het gezondheidscentrum dat vlakbij ligt, is heel nieuw.",
+    "extra_example_fa": "مرکز درمانی‌ای که نزدیک است خیلی جدید است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het ziekenhuis hier dichtbij ligt, is heel modern.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het ziekenhuis dat hier dichtbij ligt, is heel modern.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het ziekenhuis die hier dichtbij ligt, is heel modern.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het ziekenhuis dat ligt hier dichtbij, is heel modern.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "die_dat_swap",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De brief dat ik ontving, kwam van de gemeente.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون «brief» یک de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "correction_rule_fa": "چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "extra_example_nl": "De e-mail die ik kreeg, kwam van mijn werkgever.",
+    "extra_example_fa": "ایمیلی که دریافت کردم از کارفرمایم بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De brief dat ik ontving, kwam van de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De brief die ontving ik, kwam van de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "De brief die ik ontving, kwam van de gemeente.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De brief ik ontving, kwam van de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "missing_pronoun",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het antwoord zij gaf, was heel duidelijk.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "جمله‌ی موصولی باید با «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "correction_rule_fa": "جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "extra_example_nl": "Het advies dat hij gaf, was heel nuttig.",
+    "extra_example_fa": "توصیه‌ای که او داد خیلی مفید بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het antwoord zij gaf, was heel duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het antwoord die zij gaf, was heel duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het antwoord dat gaf zij, was heel duidelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het antwoord dat zij gaf, was heel duidelijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "die_dat_swap",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De cursus dat ik volg, duurt drie maanden.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون «cursus» یک de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "correction_rule_fa": "چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "extra_example_nl": "De opleiding die ik doe, duurt twee jaar.",
+    "extra_example_fa": "دوره‌ای که می‌گذرانم دو سال طول می‌کشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De cursus die ik volg, duurt drie maanden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De cursus dat ik volg, duurt drie maanden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De cursus die volg ik, duurt drie maanden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "D",
+        "text_nl": "De cursus ik volg, duurt drie maanden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "missing_pronoun",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het idee hij voorstelde, was heel goed.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "جمله‌ی موصولی باید با «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "correction_rule_fa": "جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "extra_example_nl": "Het plan dat zij bedacht, was heel slim.",
+    "extra_example_fa": "طرحی که او فکر کرد خیلی هوشمندانه بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het idee hij voorstelde, was heel goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het idee dat hij voorstelde, was heel goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het idee die hij voorstelde, was heel goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het idee dat voorstelde hij, was heel goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "die_dat_swap",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De reis dat wij maakten, was onvergetelijk.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون «reis» یک de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "correction_rule_fa": "چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat».",
+    "extra_example_nl": "De tocht die wij maakten, was heel avontuurlijk.",
+    "extra_example_fa": "سفری که رفتیم خیلی پرماجرا بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De reis dat wij maakten, was onvergetelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De reis die maakten wij, was onvergetelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "C",
+        "text_nl": "De reis die wij maakten, was onvergetelijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De reis wij maakten, was onvergetelijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "missing_pronoun",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het weer wij hadden, was verrassend goed.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "جمله‌ی موصولی باید با «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "correction_rule_fa": "جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "extra_example_nl": "Het klimaat dat wij daar hadden, was heel aangenaam.",
+    "extra_example_fa": "آب‌وهوایی که آنجا داشتیم خیلی دلپذیر بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het weer wij hadden, was verrassend goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het weer die wij hadden, was verrassend goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het weer dat hadden wij, was verrassend goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het weer dat wij hadden, was verrassend goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "missing_pronoun",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De vergadering wij hadden, duurde te lang.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "جمله‌ی موصولی باید با «die» شروع شود؛ بدون آن جمله نادرست است.",
+    "correction_rule_fa": "جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "extra_example_nl": "De les die wij hadden, was heel nuttig.",
+    "extra_example_fa": "کلاسی که داشتیم خیلی مفید بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergadering die wij hadden, duurde te lang.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vergadering wij hadden, duurde te lang.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vergadering dat wij hadden, duurde te lang.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن de-woord است، ضمیرِ موصولیِ درست «die» است، نه «dat»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergadering die hadden wij, duurde te lang.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "relative_clause_error",
+    "subtopic": "missing_pronoun",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het nieuws wij hoorden, was schokkend.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "جمله‌ی موصولی باید با «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "correction_rule_fa": "جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است.",
+    "extra_example_nl": "Het gerucht dat wij hoorden, bleek niet waar.",
+    "extra_example_fa": "شایعه‌ای که شنیدیم درست نبود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het nieuws wij hoorden, was schokkend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het nieuws dat wij hoorden, was schokkend.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله‌ی موصولی باید با ضمیرِ موصولیِ «die» یا «dat» شروع شود؛ بدون آن جمله نادرست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het nieuws die wij hoorden, was schokkend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون اسم پیش از آن het-woord است، ضمیرِ موصولیِ درست «dat» است، نه «die»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het nieuws dat hoorden wij, was schokkend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی موصولی، فعلِ صرف‌شده باید به انتهای آن جمله برود، نه بلافاصله بعد از ضمیرِ موصولی."
+      }
+    ]
+  }
+]

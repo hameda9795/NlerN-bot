@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «De bus vertrekt om 8:00, 8:30 en 9:00 uur. Let op: de bus van 8:30 rijdt niet op zaterdag.»",
+    "question_text_fa": "طبق برنامه، شنبه‌ها کدام ساعت اتوبوس حرکت نمی‌کند؟",
+    "explanation_fa": "متن می‌گوید اتوبوس ۸:۳۰ شنبه‌ها حرکت نمی‌کند؛ بقیه‌ی ساعت‌ها عادی است.",
+    "grammar_rule_fa": "به استثنایی که در جمله‌ی دوم آمده توجه کن.",
+    "extra_example_nl": "De trein van 9:15 uur rijdt niet op zondag.",
+    "extra_example_fa": "قطار ۹:۱۵ یکشنبه‌ها حرکت نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "8:30 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ساعت را استثنا می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "9:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alle bussen",
+        "is_correct": false,
+        "feedback_fa": "فقط یک ساعت استثنا شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "8:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Openingstijden: «De winkel is open van 9:00 tot 18:00 uur. Op zondag zijn we niet gesloten, maar open van 12:00 tot 17:00 uur.»",
+    "question_text_fa": "طبق برنامه، یکشنبه فروشگاه چگونه است؟",
+    "explanation_fa": "متن می‌گوید یکشنبه بسته نیست، بلکه از ۱۲:۰۰ تا ۱۷:۰۰ باز است.",
+    "grammar_rule_fa": "به کلمه‌ی «niet gesloten, maar» توجه کن؛ این نشان می‌دهد فروشگاه باز است.",
+    "extra_example_nl": "Op maandag zijn we niet gesloten, maar open van 10:00 tot 14:00 uur.",
+    "extra_example_fa": "دوشنبه بسته نیستیم، بلکه از ۱۰:۰۰ تا ۱۴:۰۰ باز هستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Helemaal gesloten",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید بسته نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Open van 12:00 tot 17:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Open van 9:00 tot 18:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ روزهای هفته است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Open de hele dag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Les Nederlands: maandag en woensdag van 10:00 tot 12:00 uur. Op woensdag is er ook nog een extra uur, tot 13:00 uur.»",
+    "question_text_fa": "طبق برنامه، چهارشنبه کلاس هلندی چه ساعتی تمام می‌شود؟",
+    "explanation_fa": "متن می‌گوید معمولاً تا ۱۲:۰۰ است، اما چهارشنبه یک ساعت اضافه دارد و تا ۱۳:۰۰ ادامه می‌یابد.",
+    "grammar_rule_fa": "به استثنای «op woensdag … extra uur» توجه کن.",
+    "extra_example_nl": "Op vrijdag is er een extra uur, tot 15:00 uur.",
+    "extra_example_fa": "جمعه یک ساعت اضافه هست، تا ۱۵:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "11:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "12:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ معمول است، نه چهارشنبه."
+      },
+      {
+        "key": "C",
+        "text_nl": "13:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید چهارشنبه تا 13:00 است."
+      },
+      {
+        "key": "D",
+        "text_nl": "14:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dienstregeling: «Trein naar Utrecht: 7:12, 7:42, 8:12 uur. De trein van 7:42 stopt dit keer niet in Utrecht wegens werkzaamheden.»",
+    "question_text_fa": "طبق برنامه، کدام قطار امروز در اوترخت توقف نمی‌کند؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر کار عمرانی، قطار ۷:۴۲ در اوترخت توقف نمی‌کند.",
+    "grammar_rule_fa": "به دلیل و ساعتِ استثنا شده توجه کن.",
+    "extra_example_nl": "De trein van 8:15 uur stopt dit keer niet in Rotterdam wegens werkzaamheden.",
+    "extra_example_fa": "قطار ۸:۱۵ این بار در روتردام توقف نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "8:12 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alle treinen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "7:12 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "7:42 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین قطار را استثنا می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Zwemles voor kinderen: dinsdag om 16:00 uur. Deze week is de les niet op dinsdag, maar op woensdag, wegens de feestdag.»",
+    "question_text_fa": "طبق برنامه، این هفته کلاس شنا چه روزی است؟",
+    "explanation_fa": "متن می‌گوید معمولاً سه‌شنبه است، اما این هفته به‌خاطر تعطیلی، چهارشنبه است.",
+    "grammar_rule_fa": "زمانِ استثنایی که بعد از دلیل می‌آید، درست است.",
+    "extra_example_nl": "Deze week is de les niet op maandag, maar op donderdag, wegens de feestdag.",
+    "extra_example_fa": "این هفته کلاس نه دوشنبه، بلکه پنجشنبه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Woensdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید این هفته چهارشنبه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Donderdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Maandag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dinsdag",
+        "is_correct": false,
+        "feedback_fa": "این روزِ معمول است، نه این هفته."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Openingstijden apotheek: «Maandag t/m vrijdag 8:30-17:30, weekend gesloten. Op woensdag sluiten we al om 13:00 uur voor een pauze.»",
+    "question_text_fa": "طبق برنامه، چهارشنبه داروخانه چه ساعتی موقتاً بسته می‌شود؟",
+    "explanation_fa": "متن می‌گوید چهارشنبه‌ها به‌خاطر استراحت، ساعت ۱۳:۰۰ بسته می‌شود؛ روزهای دیگر تا ۱۷:۳۰ باز است.",
+    "grammar_rule_fa": "به استثنای «op woensdag» توجه کن که با بقیه‌ی روزها فرق دارد.",
+    "extra_example_nl": "Op vrijdag sluiten we al om 15:00 uur voor een vergadering.",
+    "extra_example_fa": "جمعه‌ها به‌خاطر جلسه، ساعت ۱۵:۰۰ بسته می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "12:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "13:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ساعت را برای چهارشنبه می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "17:30 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ معمول است، نه چهارشنبه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet gesloten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Spreekuur huisarts: elke ochtend van 8:00 tot 12:00 uur. Op donderdag is er geen ochtendspreekuur, alleen 's middags.»",
+    "question_text_fa": "طبق برنامه، پنجشنبه ویزیت پزشک چه زمانی است؟",
+    "explanation_fa": "متن می‌گوید پنجشنبه‌ها صبح پذیرش نیست؛ فقط بعدازظهر پذیرش دارد.",
+    "grammar_rule_fa": "به استثنای روزِ پنجشنبه دقت کن؛ با بقیه‌ی روزها فرق دارد.",
+    "extra_example_nl": "Op maandag is er geen avondspreekuur, alleen 's ochtends.",
+    "extra_example_fa": "دوشنبه‌ها پذیرشِ عصر نیست، فقط صبح.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen op afspraak",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "8:00 tot 12:00 uur, zoals altijd",
+        "is_correct": false,
+        "feedback_fa": "پنجشنبه‌ها این‌طور نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen 's middags",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De hele dag gesloten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dienstregeling bus: «Lijn 5 rijdt elke 15 minuten. In het weekend rijdt lijn 5 minder vaak: elk half uur.»",
+    "question_text_fa": "طبق برنامه، آخر هفته خط ۵ هر چند دقیقه می‌آید؟",
+    "explanation_fa": "متن می‌گوید روزهای هفته هر ۱۵ دقیقه، اما آخر هفته کمتر، هر نیم‌ساعت می‌آید.",
+    "grammar_rule_fa": "به تفاوتِ برنامه‌ی روزهای هفته و آخر هفته توجه کن.",
+    "extra_example_nl": "In het weekend rijdt lijn 3 minder vaak: elk uur.",
+    "extra_example_fa": "آخر هفته خط ۳ کمتر می‌آید: هر یک ساعت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Helemaal niet",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Elke 15 minuten",
+        "is_correct": false,
+        "feedback_fa": "این برنامه‌ی روزهای هفته است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Elk kwartier",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Elk half uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را برای آخر هفته می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Markt is elke zaterdag van 9:00 tot 16:00 uur. Op de laatste zaterdag van de maand is de markt groter en duurt tot 18:00 uur.»",
+    "question_text_fa": "طبق برنامه، آخرین شنبه‌ی ماه بازار تا چه ساعتی است؟",
+    "explanation_fa": "متن می‌گوید معمولاً تا ۱۶:۰۰ است، اما آخرین شنبه‌ی ماه بزرگ‌تر است و تا ۱۸:۰۰ ادامه دارد.",
+    "grammar_rule_fa": "به استثنایی که برای آخرین شنبه‌ی ماه آمده توجه کن.",
+    "extra_example_nl": "Op de eerste zondag van de maand duurt de markt tot 19:00 uur.",
+    "extra_example_fa": "اولین یکشنبه‌ی ماه، بازار تا ۱۹:۰۰ ادامه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "18:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ساعت را برای آخرین شنبه می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "15:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "16:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ معمول است، نه آخرین شنبه."
+      },
+      {
+        "key": "D",
+        "text_nl": "17:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Openingstijden bibliotheek: «Dinsdag tot en met zaterdag, gesloten op zondag en maandag. Op donderdag zijn we tot 20:00 uur open, andere dagen tot 17:00 uur.»",
+    "question_text_fa": "طبق برنامه، پنجشنبه کتابخانه تا چه ساعتی باز است؟",
+    "explanation_fa": "متن می‌گوید فقط پنجشنبه‌ها تا ۲۰:۰۰ باز است؛ روزهای دیگر تا ۱۷:۰۰.",
+    "grammar_rule_fa": "به استثنای «op donderdag» توجه کن.",
+    "extra_example_nl": "Op woensdag zijn we tot 21:00 uur open, andere dagen tot 18:00 uur.",
+    "extra_example_fa": "چهارشنبه‌ها تا ۲۱:۰۰ باز است، روزهای دیگر تا ۱۸:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "19:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "20:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ساعت را برای پنجشنبه می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "17:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ عادی است، نه پنجشنبه."
+      },
+      {
+        "key": "D",
+        "text_nl": "18:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Yogales: donderdag om 19:00 uur, in zaal 2. Deze week is er geen yogales, wegens vakantie van de docent.»",
+    "question_text_fa": "طبق برنامه، این هفته کلاس یوگا چگونه است؟",
+    "explanation_fa": "متن می‌گوید این هفته به‌خاطر تعطیلات مربی، کلاسی نیست.",
+    "grammar_rule_fa": "به استثنای «deze week … wegens» توجه کن.",
+    "extra_example_nl": "Deze week is er geen dansles, wegens vakantie van de docent.",
+    "extra_example_fa": "این هفته به‌خاطر تعطیلات مربی، کلاس رقص نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Verzet naar vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om 19:00 uur in zaal 2, zoals altijd",
+        "is_correct": false,
+        "feedback_fa": "این هفته کلاسی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is deze week geen les",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Verzet naar zaal 3",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dienstregeling: «Veerboot vertrekt elk half uur vanaf 6:00 uur. De laatste boot van de dag vertrekt om 22:00 uur, niet later.»",
+    "question_text_fa": "طبق برنامه، آخرین کشتی چه ساعتی حرکت می‌کند؟",
+    "explanation_fa": "متن می‌گوید آخرین کشتی روز، ساعت ۲۲:۰۰ حرکت می‌کند، دیرتر از آن نیست.",
+    "grammar_rule_fa": "به عبارتِ «niet later» توجه کن؛ این حدِ نهایی را نشان می‌دهد.",
+    "extra_example_nl": "De laatste bus van de dag vertrekt om 23:30 uur, niet later.",
+    "extra_example_fa": "آخرین اتوبوس روز ساعت ۲۳:۳۰ حرکت می‌کند، دیرتر نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "22:30 uur",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet later» از 22:00."
+      },
+      {
+        "key": "B",
+        "text_nl": "21:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "21:30 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "22:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ساعت را می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Tandarts: alleen op afspraak, spreekuur op woensdagmiddag. Voor spoedgevallen is er ook plek op maandagochtend.»",
+    "question_text_fa": "طبق برنامه، برای مواردِ اورژانسی چه زمانِ اضافه‌ای وجود دارد؟",
+    "explanation_fa": "متن می‌گوید علاوه بر چهارشنبه بعدازظهر، برای موارد فوری دوشنبه صبح هم جا هست.",
+    "grammar_rule_fa": "به کلمه‌ی «ook plek» توجه کن؛ این زمانِ اضافه را نشان می‌دهد.",
+    "extra_example_nl": "Voor spoedgevallen is er ook plek op vrijdagochtend.",
+    "extra_example_fa": "برای موارد فوری، جمعه صبح هم جا هست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Maandagochtend",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Donderdagavond",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geen enkele extra tijd",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen woensdagmiddag",
+        "is_correct": false,
+        "feedback_fa": "برای اورژانس زمانِ اضافه هم هست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Openingstijden postkantoor: «Maandag tot en met vrijdag van 9:00 tot 17:00 uur. Op de eerste zaterdag van de maand zijn we ook open, tot 13:00 uur.»",
+    "question_text_fa": "طبق برنامه، اولین شنبه‌ی ماه اداره‌ی پست چگونه است؟",
+    "explanation_fa": "متن می‌گوید معمولاً آخر هفته بسته است، اما اولین شنبه‌ی ماه تا ۱۳:۰۰ باز است.",
+    "grammar_rule_fa": "به استثنای «eerste zaterdag van de maand» توجه کن.",
+    "extra_example_nl": "Op de laatste zondag van de maand zijn we ook open, tot 12:00 uur.",
+    "extra_example_fa": "آخرین یکشنبه‌ی ماه هم باز هستیم، تا ۱۲:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Altijd gesloten in het weekend",
+        "is_correct": false,
+        "feedback_fa": "این استثنا وجود دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Open tot 13:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Open tot 17:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Open de hele dag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Schoolbel gaat om 8:30 uur, pauze om 10:15 uur. Op vrijdag is de pauze langer: tot 10:45 uur in plaats van 10:30 uur.»",
+    "question_text_fa": "طبق برنامه، جمعه زنگ تفریح چقدر طول می‌کشد؟",
+    "explanation_fa": "متن می‌گوید تفریح از ۱۰:۱۵ شروع می‌شود؛ جمعه‌ها بلندتر است و تا ۱۰:۴۵ ادامه دارد به‌جای ۱۰:۳۰.",
+    "grammar_rule_fa": "به استثنای «op vrijdag» توجه کن.",
+    "extra_example_nl": "Op maandag is de les langer: tot 15:30 uur in plaats van 15:00 uur.",
+    "extra_example_fa": "دوشنبه‌ها کلاس طولانی‌تر است، تا ۱۵:۳۰ به‌جای ۱۵:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "60 minuten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "15 minuten",
+        "is_correct": false,
+        "feedback_fa": "این مدتِ عادی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "30 minuten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ از 10:15 تا 10:45 یعنی نیم‌ساعت."
+      },
+      {
+        "key": "D",
+        "text_nl": "45 minuten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dienstregeling trein: «Laatste trein naar huis vertrekt om 23:40 uur. In het weekend is er een extra trein om 00:20 uur.»",
+    "question_text_fa": "طبق برنامه، آخر هفته چه قطار اضافه‌ای وجود دارد؟",
+    "explanation_fa": "متن می‌گوید علاوه بر قطار ۲۳:۴۰، آخر هفته یک قطار اضافه‌ی ۰۰:۲۰ هم هست.",
+    "grammar_rule_fa": "به کلمه‌ی «extra» توجه کن؛ این زمانِ اضافه را نشان می‌دهد.",
+    "extra_example_nl": "In het weekend is er een extra bus om 01:00 uur.",
+    "extra_example_fa": "آخر هفته یک اتوبوس اضافه‌ی ۰۱:۰۰ هم هست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "01:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "22:40 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "23:40 uur",
+        "is_correct": false,
+        "feedback_fa": "این قطارِ همیشگی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "00:20 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان قطارِ اضافه‌ای که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Fitnesscentrum open van 6:00 tot 22:00 uur, elke dag. Op feestdagen zijn we korter open: van 9:00 tot 17:00 uur.»",
+    "question_text_fa": "طبق برنامه، روزهای تعطیل رسمی باشگاه تا چه ساعتی باز است؟",
+    "explanation_fa": "متن می‌گوید معمولاً تا ۲۲:۰۰ باز است، اما روزهای تعطیل رسمی فقط تا ۱۷:۰۰.",
+    "grammar_rule_fa": "به استثنای «op feestdagen» توجه کن.",
+    "extra_example_nl": "Op feestdagen is de winkel korter open: van 10:00 tot 16:00 uur.",
+    "extra_example_fa": "روزهای تعطیل رسمی، فروشگاه تا ۱۶:۰۰ باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "17:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ساعت را برای تعطیلات می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Helemaal gesloten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "22:00 uur, zoals altijd",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ روزهای عادی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "20:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Openingstijden gemeentehuis: «Woensdag tot 20:00 uur open, andere dagen tot 17:00 uur. Vandaag, op woensdag, sluiten we al om 15:00 uur wegens een storing.»",
+    "question_text_fa": "طبق برنامه، امروز (چهارشنبه) شهرداری چه ساعتی بسته می‌شود؟",
+    "explanation_fa": "متن می‌گوید چهارشنبه‌ها معمولاً تا ۲۰:۰۰ باز است، اما امروز به‌خاطر خرابی، ساعت ۱۵:۰۰ بسته می‌شود.",
+    "grammar_rule_fa": "به استثنای امروز که در جمله‌ی آخر آمده توجه کن.",
+    "extra_example_nl": "Vandaag sluiten we al om 14:00 uur wegens een storing.",
+    "extra_example_fa": "امروز به‌خاطر خرابی، ساعت ۱۴:۰۰ بسته می‌شویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "17:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "15:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ساعت را برای امروز می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "20:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ معمولِ چهارشنبه است، نه امروز."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet gesloten vandaag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Buslijn 12 rijdt niet op zondag. Op zaterdag rijdt lijn 12 wel, maar minder vaak dan doordeweeks.»",
+    "question_text_fa": "طبق برنامه، شنبه خط ۱۲ چگونه حرکت می‌کند؟",
+    "explanation_fa": "متن می‌گوید یکشنبه اصلاً حرکت نمی‌کند، اما شنبه حرکت می‌کند، فقط کمتر از روزهای هفته.",
+    "grammar_rule_fa": "به کلمه‌ی «wel, maar minder vaak» توجه کن.",
+    "extra_example_nl": "Op zondag rijdt lijn 8 wel, maar minder vaak dan doordeweeks.",
+    "extra_example_fa": "یکشنبه‌ها خط ۸ حرکت می‌کند، فقط کمتر از روزهای هفته.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Rijdt alleen 's avonds",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Rijdt helemaal niet",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید شنبه حرکت می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Rijdt, maar minder vaak",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Rijdt net zo vaak als doordeweeks",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dienstregeling: «Vlucht vertrekt om 14:20 uur vanaf gate 22. Wegens drukte is de gate veranderd naar gate 30.»",
+    "question_text_fa": "طبق برنامه، پرواز از کدام گیت واقعاً حرکت می‌کند؟",
+    "explanation_fa": "متن می‌گوید گیت اولیه ۲۲ بود، اما به‌خاطر شلوغی به گیت ۳۰ تغییر کرده.",
+    "grammar_rule_fa": "گیتِ نهایی بعد از دلیلِ تغییر می‌آید.",
+    "extra_example_nl": "De gate is veranderd naar gate 15 wegens werkzaamheden.",
+    "extra_example_fa": "گیت به‌خاطر کار عمرانی به شماره ۱۵ تغییر کرده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Gate 32",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gate 20",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gate 22",
+        "is_correct": false,
+        "feedback_fa": "این گیتِ اولیه بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gate 30",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید گیت به این شماره تغییر کرده."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Muziekles voor kinderen: vrijdag na school, om 15:30 uur. Voor beginners duurt de les korter: maar 30 minuten in plaats van 45.»",
+    "question_text_fa": "طبق برنامه، کلاس موسیقی برای مبتدیان چقدر طول می‌کشد؟",
+    "explanation_fa": "متن می‌گوید کلاس معمولاً ۴۵ دقیقه است، اما برای مبتدیان فقط ۳۰ دقیقه.",
+    "grammar_rule_fa": "به استثنای «voor beginners» توجه کن.",
+    "extra_example_nl": "Voor beginners duurt de les korter: maar 20 minuten in plaats van 40.",
+    "extra_example_fa": "برای مبتدیان کلاس کوتاه‌تر است: فقط ۲۰ دقیقه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "30 minuten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را برای مبتدیان می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "60 minuten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "15 minuten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "45 minuten",
+        "is_correct": false,
+        "feedback_fa": "این مدتِ عادی است، نه برای مبتدیان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Openingstijden museum: «Elke dag open, behalve op maandag. Op de eerste zondag van de maand is de entree gratis.»",
+    "question_text_fa": "طبق برنامه، اولین یکشنبه‌ی ماه چه چیزی رایگان است؟",
+    "explanation_fa": "متن می‌گوید موزه هر روز باز است جز دوشنبه، و اولین یکشنبه‌ی ماه ورودیه رایگان است.",
+    "grammar_rule_fa": "به استثنای «eerste zondag van de maand» توجه کن.",
+    "extra_example_nl": "Op de laatste vrijdag van de maand is de entree gratis.",
+    "extra_example_fa": "آخرین جمعه‌ی ماه ورودیه رایگان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets, het museum is dan gesloten",
+        "is_correct": false,
+        "feedback_fa": "موزه یکشنبه باز است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De entree",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een boek",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Parkeren",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Spreekuur assistente: elke middag van 13:00 tot 15:00 uur. Op vrijdag is er geen middagspreekuur, alleen 's ochtends.»",
+    "question_text_fa": "طبق برنامه، جمعه پذیرش دستیار چه زمانی است؟",
+    "explanation_fa": "متن می‌گوید جمعه‌ها بعدازظهر پذیرش نیست؛ فقط صبح پذیرش دارد.",
+    "grammar_rule_fa": "به استثنای روزِ جمعه توجه کن؛ با بقیه‌ی روزها فرق دارد.",
+    "extra_example_nl": "Op donderdag is er geen ochtendspreekuur, alleen 's middags.",
+    "extra_example_fa": "پنجشنبه‌ها صبح پذیرش نیست؛ فقط بعدازظهر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen op afspraak",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "13:00 tot 15:00 uur, zoals altijd",
+        "is_correct": false,
+        "feedback_fa": "جمعه‌ها این‌طور نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen 's ochtends",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De hele dag gesloten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dienstregeling: «Bus naar het ziekenhuis stopt bij halte 4. Op zondag stopt de bus ook bij halte 6, extra dicht bij de ingang.»",
+    "question_text_fa": "طبق برنامه، یکشنبه‌ها اتوبوس بیمارستان کجای دیگری هم توقف می‌کند؟",
+    "explanation_fa": "متن می‌گوید معمولاً فقط ایستگاه ۴؛ اما یکشنبه‌ها ایستگاه ۶ هم اضافه می‌شود.",
+    "grammar_rule_fa": "به کلمه‌ی «ook» توجه کن؛ این توقفِ اضافه را نشان می‌دهد.",
+    "extra_example_nl": "Op zaterdag stopt de bus ook bij halte 8, extra dicht bij de markt.",
+    "extra_example_fa": "شنبه‌ها اتوبوس ایستگاه ۸ هم اضافه می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Halte 8",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Halte 2",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Halte 4",
+        "is_correct": false,
+        "feedback_fa": "این ایستگاهِ همیشگی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Halte 6",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ایستگاه را اضافه می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Kookles op donderdagavond, van 18:30 tot 20:30 uur. Voor de laatste les van het jaar duurt het langer: tot 21:30 uur.»",
+    "question_text_fa": "طبق برنامه، آخرین کلاس سال چقدر طول می‌کشد؟",
+    "explanation_fa": "متن می‌گوید کلاس معمولاً تا ۲۰:۳۰ است، اما آخرین کلاسِ سال طولانی‌تر است و تا ۲۱:۳۰ ادامه دارد.",
+    "grammar_rule_fa": "به استثنای «laatste les van het jaar» توجه کن.",
+    "extra_example_nl": "Voor de laatste les van het jaar duurt het langer: tot 22:00 uur.",
+    "extra_example_fa": "آخرین کلاسِ سال طولانی‌تر است، تا ۲۲:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "21:30 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ساعت را برای آخرین کلاس می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "22:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "20:30 uur, zoals altijd",
+        "is_correct": false,
+        "feedback_fa": "آخرین کلاس متفاوت است."
+      },
+      {
+        "key": "D",
+        "text_nl": "21:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Openingstijden kapper: «Dinsdag gesloten, andere dagen open vanaf 9:00 uur. Op donderdag openen we al om 8:00 uur voor vaste klanten.»",
+    "question_text_fa": "طبق برنامه، پنجشنبه‌ها آرایشگر از چه ساعتی باز است؟",
+    "explanation_fa": "متن می‌گوید معمولاً از ۹:۰۰ باز است، اما پنجشنبه‌ها به‌خاطر مشتریان ثابت از ۸:۰۰ باز است.",
+    "grammar_rule_fa": "به استثنای «op donderdag» توجه کن.",
+    "extra_example_nl": "Op maandag openen we al om 7:00 uur voor vaste klanten.",
+    "extra_example_fa": "دوشنبه‌ها برای مشتریان ثابت از ۷:۰۰ باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "7:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "8:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ساعت را برای پنجشنبه می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "9:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ معمول است، نه پنجشنبه."
+      },
+      {
+        "key": "D",
+        "text_nl": "10:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Eerste les begint om 8:45 uur, niet om 8:30 uur. Op de dag van de sportdag begint alles een uur later.»",
+    "question_text_fa": "طبق برنامه، روز ورزش کلاس اول چه ساعتی شروع می‌شود؟",
+    "explanation_fa": "متن می‌گوید عادی ۸:۴۵ است، اما روز ورزش همه چیز یک ساعت دیرتر شروع می‌شود.",
+    "grammar_rule_fa": "به کلمه‌ی «een uur later» توجه کن؛ باید به زمانِ عادی اضافه شود.",
+    "extra_example_nl": "Op de dag van het schoolfeest begint alles een uur eerder.",
+    "extra_example_fa": "روزِ جشنِ مدرسه، همه چیز یک ساعت زودتر شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "8:30 uur",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ رد شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "8:45 uur",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ عادی است، نه روز ورزش."
+      },
+      {
+        "key": "C",
+        "text_nl": "9:45 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ 8:45 + یک ساعت = 9:45."
+      },
+      {
+        "key": "D",
+        "text_nl": "7:45 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dienstregeling: «Tram 4 rijdt vandaag niet wegens werkzaamheden. Reizigers kunnen in plaats daarvan bus 40 nemen, die dezelfde route volgt.»",
+    "question_text_fa": "طبق برنامه، مسافران به‌جای ترام ۴ چه چیزی می‌توانند سوار شوند؟",
+    "explanation_fa": "متن می‌گوید به‌جای ترام، اتوبوس ۴۰ همان مسیر را طی می‌کند.",
+    "grammar_rule_fa": "به کلمه‌ی «in plaats daarvan» توجه کن؛ جایگزین را نشان می‌دهد.",
+    "extra_example_nl": "Reizigers kunnen in plaats daarvan trein 15 nemen.",
+    "extra_example_fa": "مسافران به‌جای آن می‌توانند قطار ۱۵ را سوار شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets, lopen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een taxi, gratis",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tram 4, iets later",
+        "is_correct": false,
+        "feedback_fa": "ترام ۴ اصلاً حرکت نمی‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bus 40",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان جایگزینی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Rooster: «Consultatiebureau: iedere maandagochtend voor baby's. Voor de eerste controle na de geboorte is er een aparte middag, op woensdag.»",
+    "question_text_fa": "طبق برنامه، اولین ویزیت بعد از تولد چه روزی است؟",
+    "explanation_fa": "متن می‌گوید ویزیتِ معمول دوشنبه صبح است، اما اولین ویزیت بعد از تولد یک بعدازظهر جداگانه، چهارشنبه دارد.",
+    "grammar_rule_fa": "به استثنای «voor de eerste controle» توجه کن.",
+    "extra_example_nl": "Voor de eerste les is er een aparte avond, op vrijdag.",
+    "extra_example_fa": "برای اولین کلاس، یک شب جداگانه، جمعه، در نظر گرفته شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Woensdagmiddag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dinsdagmiddag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vrijdagochtend",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Maandagochtend, zoals altijd",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای ویزیت‌های معمول است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_schedule",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Openingstijden zwembad: «In de zomer open tot 20:00 uur, in de winter tot 18:00 uur. Op woensdagmiddag is er het hele jaar les tot 19:00 uur.»",
+    "question_text_fa": "طبق برنامه، چهارشنبه بعدازظهر (در زمستان) استخر تا چه ساعتی باز است؟",
+    "explanation_fa": "متن می‌گوید در زمستان معمولاً تا ۱۸:۰۰ است، اما چهارشنبه بعدازظهر تمام سال به‌خاطر کلاس تا ۱۹:۰۰ باز است.",
+    "grammar_rule_fa": "به استثنای «op woensdagmiddag … het hele jaar» توجه کن.",
+    "extra_example_nl": "Op vrijdagavond is er het hele jaar training tot 21:00 uur.",
+    "extra_example_fa": "جمعه شب‌ها تمام سال تا ۲۱:۰۰ تمرین است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "18:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ معمولِ زمستان است، نه چهارشنبه."
+      },
+      {
+        "key": "B",
+        "text_nl": "19:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین ساعت را برای چهارشنبه می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "20:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "17:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  }
+]

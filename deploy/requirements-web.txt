@@ -1,0 +1,10 @@
+# Lean dependencies for the membership website container only
+# (no aiogram/playwright/openai/fsrs — the bot's heavy deps are not needed here).
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+sqlalchemy[asyncio]>=2.0
+asyncpg>=0.31
+pydantic>=2.0
+pydantic-settings>=2.0
+httpx>=0.27

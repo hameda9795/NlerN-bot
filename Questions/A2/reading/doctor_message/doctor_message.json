@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht van de huisarts: «Uw afspraak is niet om 09:15 uur, zoals eerst gepland. Door drukte is het nu om 09:45 uur.»",
+    "question_text_fa": "طبق پیام، زمانِ صحیحِ قرار چیست؟",
+    "explanation_fa": "متن می‌گوید ابتدا ۰۹:۱۵ گفته شده بود، اما به‌خاطر شلوغی به ۰۹:۴۵ تغییر کرده.",
+    "grammar_rule_fa": "زمانِ نهایی بعد از دلیلِ ذکرشده می‌آید.",
+    "extra_example_nl": "Door drukte is de afspraak nu om 10:30 uur, niet om 10:00 uur.",
+    "extra_example_fa": "به‌خاطر شلوغی قرار الان ۱۰:۳۰ است، نه ۱۰:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "09:45 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «nu om 09:45 uur»."
+      },
+      {
+        "key": "B",
+        "text_nl": "09:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "09:15 uur",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ قدیمی بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "09:30 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw medicijnen zijn klaar bij de apotheek in de Kerkstraat. Let op: de apotheek bij het station heeft ze niet.»",
+    "question_text_fa": "طبق پیام، دارو در کدام داروخانه آماده است؟",
+    "explanation_fa": "متن می‌گوید داروی شما در داروخانه‌ی خیابان کرک آماده است؛ داروخانه‌ی کنار ایستگاه ندارد.",
+    "grammar_rule_fa": "به مکانی که واقعاً دارو دارد توجه کن، نه مکانی که ندارد.",
+    "extra_example_nl": "Uw pakket ligt bij de winkel in de Dorpsstraat, niet bij de winkel op het plein.",
+    "extra_example_fa": "بسته‌تان در فروشگاه خیابان دورپ است، نه فروشگاه میدان.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij het station",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید این داروخانه دارو ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "In de Kerkstraat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij de supermarkt",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beide apotheken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De dokter kan u vandaag niet zien, maar de assistente wel. Wilt u naar haar toe komen om 11:00 uur?»",
+    "question_text_fa": "طبق پیام، امروز کدام شخص کاربر را می‌بیند؟",
+    "explanation_fa": "متن می‌گوید دکتر امروز نمی‌تواند، اما دستیار می‌تواند کاربر را ببیند.",
+    "grammar_rule_fa": "به کلمه‌ی «maar … wel» توجه کن؛ این نشان می‌دهد نفرِ دوم امکان دارد.",
+    "extra_example_nl": "De manager is er niet, maar zijn collega wel.",
+    "extra_example_fa": "مدیر نیست، اما همکارش هست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een andere dokter",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De dokter",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید دکتر نمی‌تواند."
+      },
+      {
+        "key": "C",
+        "text_nl": "De assistente",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niemand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw afspraak van 10:00 uur is niet geannuleerd, alleen verzet naar 11:30 uur, in dezelfde kamer.»",
+    "question_text_fa": "کدام جمله بر اساس پیام درست است؟",
+    "explanation_fa": "متن می‌گوید قرار لغو نشده، فقط زمانش تغییر کرده؛ اتاق همان مانده.",
+    "grammar_rule_fa": "به تفاوتِ «geannuleerd» و «verzet» توجه کن.",
+    "extra_example_nl": "Uw bestelling is niet geannuleerd, alleen verzet naar morgen.",
+    "extra_example_fa": "سفارش لغو نشده، فقط به فردا موکول شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kamer is ook veranderd.",
+        "is_correct": false,
+        "feedback_fa": "اتاق همان مانده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er is geen nieuwe tijd.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De afspraak is geannuleerd.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید لغو نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De afspraak is verzet naar 11:30 uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De praktijk is dit weekend gesloten. Bel bij spoed de huisartsenpost. Voor gewone vragen mailt u ons maandag.»",
+    "question_text_fa": "کاربر با یک سؤال عادی (نه اورژانسی) طبق پیام باید چه کاری کند؟",
+    "explanation_fa": "متن می‌گوید برای سؤالات عادی باید دوشنبه ایمیل زد؛ شماره‌ی اورژانس فقط برای موارد فوری است.",
+    "grammar_rule_fa": "به تفاوتِ «bij spoed» و «voor gewone vragen» توجه کن.",
+    "extra_example_nl": "Voor gewone vragen belt u maandag. Bij spoed belt u het alarmnummer.",
+    "extra_example_fa": "برای سؤالات عادی دوشنبه زنگ بزن؛ در اورژانس با شماره‌ی اضطراری تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Maandag mailen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌خواهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nu meteen bellen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Naar het ziekenhuis gaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huisartsenpost bellen",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای موارد اورژانسی است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw bloedonderzoek is goed. Uw urineonderzoek is nog niet binnen; die uitslag komt morgen.»",
+    "question_text_fa": "طبق پیام، نتیجه‌ی کدام آزمایش هنوز نرسیده؟",
+    "explanation_fa": "متن می‌گوید نتیجه‌ی آزمایش خون رسیده و خوب است؛ آزمایش ادرار هنوز نرسیده.",
+    "grammar_rule_fa": "به تفاوتِ دو آزمایش در متن دقت کن.",
+    "extra_example_nl": "Uw röntgenfoto is goed. Uw bloeduitslag komt morgen.",
+    "extra_example_fa": "عکس رادیولوژی خوب است؛ نتیجه‌ی خون فردا می‌رسد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het bloedonderzoek",
+        "is_correct": false,
+        "feedback_fa": "این نتیجه رسیده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het urineonderzoek",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان آزمایشی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Beide onderzoeken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Kom niet een kwartier eerder, zoals normaal. Voor deze afspraak hoeft u pas 5 minuten van tevoren te komen.»",
+    "question_text_fa": "طبق پیام، برای این قرار خاص باید چقدر زودتر آمد؟",
+    "explanation_fa": "متن می‌گوید برخلاف روال عادی، این بار فقط ۵ دقیقه زودتر لازم است.",
+    "grammar_rule_fa": "به کلمه‌ی «voor deze afspraak» توجه کن؛ قانونِ این بار فرق دارد.",
+    "extra_example_nl": "Voor deze les hoeft u pas 10 minuten van tevoren te komen.",
+    "extra_example_fa": "برای این کلاس فقط ۱۰ دقیقه زودتر لازم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niet eerder komen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een kwartier",
+        "is_correct": false,
+        "feedback_fa": "این قانونِ عادی است، نه این بار."
+      },
+      {
+        "key": "C",
+        "text_nl": "5 minuten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een half uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Neem uw verzekeringspas mee, geen identiteitskaart. Die is voor deze afspraak niet nodig.»",
+    "question_text_fa": "طبق پیام، برای این قرار چه چیزی لازم نیست؟",
+    "explanation_fa": "متن می‌گوید کارت شناسایی لازم نیست، فقط کارت بیمه باید آورده شود.",
+    "grammar_rule_fa": "به کلمه‌ی «geen» و «niet nodig» توجه کن.",
+    "extra_example_nl": "Neem uw pinpas mee, geen contant geld. Dat is niet nodig.",
+    "extra_example_fa": "کارت بانکی رو بیار، پول نقد لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De verzekeringspas",
+        "is_correct": false,
+        "feedback_fa": "این باید آورده شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De identiteitskaart",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید لازم نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De tandarts kan u niet deze week ontvangen, maar wel volgende week dinsdag om 09:00 uur.»",
+    "question_text_fa": "طبق پیام، دندانپزشک چه زمانی می‌تواند کاربر را ببیند؟",
+    "explanation_fa": "متن می‌گوید این هفته نمی‌تواند، اما سه‌شنبه‌ی هفته‌ی بعد ساعت ۰۹:۰۰ ممکن است.",
+    "grammar_rule_fa": "به کلمه‌ی «maar wel» توجه کن؛ زمانِ واقعی بعد از آن می‌آید.",
+    "extra_example_nl": "De kapper kan u niet vandaag knippen, maar wel morgen om 14:00 uur.",
+    "extra_example_fa": "آرایشگر امروز نمی‌تواند، اما فردا ساعت ۱۴:۰۰ می‌تواند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volgende week dinsdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nooit",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze week",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید این هفته نه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw recept is niet verlengd voor drie maanden, zoals u vroeg, maar voor zes maanden, want dat is de nieuwe regel.»",
+    "question_text_fa": "طبق پیام، نسخه برای چند ماه تمدید شده؟",
+    "explanation_fa": "متن می‌گوید درخواستِ کاربر سه ماه بود، اما طبق قانونِ جدید شش ماه تمدید شده.",
+    "grammar_rule_fa": "زمانِ نهایی بعد از «maar» می‌آید.",
+    "extra_example_nl": "Uw abonnement is niet verlengd voor één jaar, zoals u vroeg, maar voor twee jaar.",
+    "extra_example_fa": "اشتراک نه یک سال که خواسته بودی، بلکه دو سال تمدید شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Drie maanden",
+        "is_correct": false,
+        "feedback_fa": "این درخواستِ کاربر بود، اما اجرا نشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zes maanden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «maar voor zes maanden»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Twaalf maanden",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Eén maand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De uitslag van uw bloedonderzoek is binnen en die is goed. Er is dus geen nieuwe afspraak nodig.»",
+    "question_text_fa": "طبق پیام، آیا قرار جدیدی لازم است؟",
+    "explanation_fa": "متن می‌گوید نتیجه رسیده و خوب است، پس قرار جدیدی لازم نیست.",
+    "grammar_rule_fa": "کلمه‌ی «dus» نتیجه‌گیریِ منطقی را نشان می‌دهد.",
+    "extra_example_nl": "De reparatie is klaar en die is goed. Er is dus geen extra bezoek nodig.",
+    "extra_example_fa": "تعمیر تمام شده و خوب است، پس مراجعه‌ی اضافه لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De uitslag is nog niet binnen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید نتیجه رسیده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, zo snel mogelijk",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, dat is niet nodig",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «dus geen nieuwe afspraak nodig»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, maar pas volgend jaar",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Kunt u niet vrijdag, maar woensdag om 13:00 uur komen? De dokter is vrijdag niet aanwezig.»",
+    "question_text_fa": "طبق پیام، چرا کاربر باید چهارشنبه بیاید، نه جمعه؟",
+    "explanation_fa": "متن می‌گوید دکتر جمعه در دسترس نیست؛ به همین دلیل چهارشنبه پیشنهاد شده.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از توضیح می‌آید.",
+    "extra_example_nl": "Kunt u niet dinsdag, maar donderdag komen? De monteur is dinsdag niet aanwezig.",
+    "extra_example_fa": "می‌شه نه سه‌شنبه، بلکه پنجشنبه بیایی؟ تعمیرکار سه‌شنبه نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De praktijk is gesloten.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er is geen reden gegeven.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De dokter is woensdag niet aanwezig.",
+        "is_correct": false,
+        "feedback_fa": "برعکس، دکتر جمعه نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De dokter is vrijdag niet aanwezig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De praktijk verhuist niet volgende maand, zoals eerst gezegd. De verhuizing is uitgesteld tot volgend jaar.»",
+    "question_text_fa": "طبق پیام، مطب واقعاً چه زمانی جابجا می‌شود؟",
+    "explanation_fa": "متن می‌گوید ابتدا ماه بعد گفته شده بود، اما جابجایی تا سال بعد به تعویق افتاده.",
+    "grammar_rule_fa": "زمانِ نهایی بعد از «uitgesteld tot» می‌آید.",
+    "extra_example_nl": "Het feest is uitgesteld tot volgend jaar, niet volgende maand.",
+    "extra_example_fa": "جشن نه ماه بعد، بلکه سال بعد به تعویق افتاده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volgend jaar",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «uitgesteld tot volgend jaar»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze week",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volgende maand",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ قدیمی بود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Drink veel water, maar rust niet de hele dag. Een korte wandeling is juist goed voor u.»",
+    "question_text_fa": "کاربر طبق پیام چه کاری باید انجام دهد؟",
+    "explanation_fa": "متن می‌گوید نباید تمام روز استراحت کند؛ یک پیاده‌روی کوتاه خوب است.",
+    "grammar_rule_fa": "به کلمه‌ی «juist goed» توجه کن؛ این کار توصیه شده است.",
+    "extra_example_nl": "Eet gezond, maar blijf niet de hele dag binnen. Frisse lucht is juist goed.",
+    "extra_example_fa": "سالم غذا بخور، اما تمام روز داخل نمان. هوای تازه خوب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De hele dag rusten",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید نباید تمام روز استراحت کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een korte wandeling maken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن توصیه می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sporten in de sportschool",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets doen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw afspraak bij de fysiotherapeut is niet op dinsdag, maar op woensdag om 16:00 uur, in kamer 2.»",
+    "question_text_fa": "طبق پیام، قرار فیزیوتراپی در کدام روز است؟",
+    "explanation_fa": "متن می‌گوید قرار سه‌شنبه نیست، بلکه چهارشنبه ساعت ۱۶:۰۰ است.",
+    "grammar_rule_fa": "به روزی که بعد از «maar» می‌آید توجه کن.",
+    "extra_example_nl": "Uw afspraak is niet op maandag, maar op donderdag om 10:00 uur.",
+    "extra_example_fa": "قرارتان دوشنبه نیست، پنجشنبه ساعت ۱۰:۰۰ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dinsdag",
+        "is_correct": false,
+        "feedback_fa": "این روزِ رد شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Woensdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Donderdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Bel de assistente niet vandaag, want de lijn is bezet. Probeer het morgenochtend, voor 10:00 uur.»",
+    "question_text_fa": "کاربر طبق پیام چه زمانی باید تماس بگیرد؟",
+    "explanation_fa": "متن می‌گوید امروز خط شلوغ است؛ باید فردا صبح قبل از ساعت ۱۰:۰۰ تماس گرفت.",
+    "grammar_rule_fa": "به زمانی که بعد از «probeer het» می‌آید توجه کن.",
+    "extra_example_nl": "Bel niet nu, want de winkel is dicht. Probeer het morgen na 9:00 uur.",
+    "extra_example_fa": "الان زنگ نزن، مغازه بسته است. فردا بعد از ساعت ۹:۰۰ امتحان کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Morgenmiddag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nooit meer bellen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag, meteen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید خط امروز شلوغ است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Morgenochtend, voor 10:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «U hoeft niet nuchter te zijn voor deze afspraak. Alleen voor het bloedonderzoek volgende week moet u wel nuchter zijn.»",
+    "question_text_fa": "کاربر برای آزمایش خون هفته‌ی بعد باید چه کاری انجام دهد؟",
+    "explanation_fa": "متن می‌گوید برای این قرار ناشتا بودن لازم نیست، اما برای آزمایش خون هفته‌ی بعد باید ناشتا باشد.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen voor … wel» توجه کن؛ این استثنا را نشان می‌دهد.",
+    "extra_example_nl": "U hoeft niet te wachten, alleen bij drukte moet u wel wachten.",
+    "extra_example_fa": "لازم نیست صبر کنی، فقط وقتی شلوغ است باید صبر کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nuchter zijn",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌خواهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Veel water drinken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Medicijnen stoppen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets speciaals doen",
+        "is_correct": false,
+        "feedback_fa": "برای آزمایش هفته‌ی بعد باید ناشتا باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De huisarts is deze week met vakantie, niet ziek. Een vervanger, dokter De Vries, helpt u.»",
+    "question_text_fa": "طبق پیام، چرا پزشک خانواده این هفته در دسترس نیست؟",
+    "explanation_fa": "متن مشخص می‌کند که مریض نیست، بلکه در تعطیلات است.",
+    "grammar_rule_fa": "کلمه‌ی «niet ziek» یک دلیلِ اشتباه را رد می‌کند؛ دلیلِ درست قبل از آن است.",
+    "extra_example_nl": "De meester is met verlof, niet ziek. Een vervanger helpt de klas.",
+    "extra_example_fa": "معلم مرخصی است، نه مریض. جانشین به کلاس کمک می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ziekte",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید مریض نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vakantie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een cursus",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Verhuizing",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Neem uw oude medicijnen mee naar de afspraak, niet uw nieuwe recept. Dat heeft de dokter al.»",
+    "question_text_fa": "طبق پیام، چه چیزی نباید به قرار آورده شود؟",
+    "explanation_fa": "متن می‌گوید نسخه‌ی جدید لازم نیست چون دکتر آن را از قبل دارد؛ داروهای قدیمی باید آورده شود.",
+    "grammar_rule_fa": "به کلمه‌ی «niet» و دلیلِ بعدِ آن توجه کن.",
+    "extra_example_nl": "Neem uw paspoort mee, niet uw oude identiteitskaart. Die is niet meer geldig.",
+    "extra_example_fa": "پاسپورتت رو بیار، نه کارت شناسایی قدیمی. دیگر معتبر نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geld",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Oude medicijnen",
+        "is_correct": false,
+        "feedback_fa": "این باید آورده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het nieuwe recept",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید لازم نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De griepprik is dit jaar niet op 10 november, zoals vorig jaar. Dit jaar is het op 17 november.»",
+    "question_text_fa": "طبق پیام، امسال واکسن آنفولانزا چه تاریخی است؟",
+    "explanation_fa": "متن می‌گوید سال قبل ۱۰ نوامبر بود، اما امسال ۱۷ نوامبر است.",
+    "grammar_rule_fa": "تاریخِ «dit jaar» درست است، نه تاریخِ سالِ قبل.",
+    "extra_example_nl": "Dit jaar is de cursus niet op 5 mei, zoals vorig jaar, maar op 12 mei.",
+    "extra_example_fa": "امسال دوره نه ۵ مه، بلکه ۱۲ مه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "24 november",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "3 november",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "10 november",
+        "is_correct": false,
+        "feedback_fa": "این تاریخِ سالِ قبل بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "17 november",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید امسال 17 november."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw kind moet nuchter zijn voor het bloedonderzoek, maar mag wel water drinken. Andere dranken niet.»",
+    "question_text_fa": "طبق پیام، فرزند قبل از آزمایش خون چه چیزی مجاز است بنوشد؟",
+    "explanation_fa": "متن می‌گوید ناشتا بودن لازم است، اما نوشیدنِ آب مجاز است؛ نوشیدنی‌های دیگر ممنوع.",
+    "grammar_rule_fa": "به کلمه‌ی «mag wel» توجه کن؛ این استثنایی است که مجاز شده.",
+    "extra_example_nl": "Uw kind mag wel water drinken, maar geen sap voor de test.",
+    "extra_example_fa": "فرزندتان می‌تواند آب بنوشد، اما آبمیوه برای آزمایش ممنوع است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen water",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sap of thee",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Melk",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets, ook geen water",
+        "is_correct": false,
+        "feedback_fa": "آب مجاز است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De praktijk is per telefoon niet bereikbaar voor 8:00 uur. Na 17:00 uur kunt u wel een bericht inspreken.»",
+    "question_text_fa": "طبق پیام، بعد از ساعت ۱۷:۰۰ کاربر چه کاری می‌تواند انجام دهد؟",
+    "explanation_fa": "متن می‌گوید بعد از ۱۷:۰۰ می‌شود پیام گذاشت، اما قبل از ۸:۰۰ اصلاً پاسخگو نیستند.",
+    "grammar_rule_fa": "به کلمه‌ی «wel» بعد از رد کردن زمانِ اول توجه کن.",
+    "extra_example_nl": "Na 20:00 uur kunt u wel een bericht achterlaten.",
+    "extra_example_fa": "بعد از ساعت ۲۰:۰۰ می‌شود پیام گذاشت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets, de lijn is helemaal dicht",
+        "is_correct": false,
+        "feedback_fa": "می‌شه پیام گذاشت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een bericht inspreken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Direct met de dokter praten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen mailen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw afspraak is niet geannuleerd wegens ziekte van de dokter, zoals u dacht. Ze is verzet wegens een storing in het systeem.»",
+    "question_text_fa": "طبق پیام، چرا قرار به تعویق افتاده؟",
+    "explanation_fa": "متن می‌گوید دلیل واقعی، خرابی سیستم است، نه مریضی دکتر.",
+    "grammar_rule_fa": "به کلمه‌ی «zoals u dacht» توجه کن؛ این نشان می‌دهد دلیلِ حدس‌زده شده اشتباه بود.",
+    "extra_example_nl": "De les is niet afgelast wegens de meester, maar wegens een storing.",
+    "extra_example_fa": "کلاس به‌خاطر معلم نیست، به‌خاطر خرابی سیستم لغو نشده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Te veel patiënten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ziekte van de dokter",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید این دلیل درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een storing in het systeem",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vakantie van de dokter",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Kom niet naar de praktijk als u koorts heeft. Bel eerst. Bij hoesten zonder koorts mag u wel gewoon komen.»",
+    "question_text_fa": "کاربر با سرفه بدون تب طبق پیام چه کاری می‌تواند انجام دهد؟",
+    "explanation_fa": "متن می‌گوید کسی که فقط سرفه دارد و تب ندارد، می‌تواند عادی بیاید؛ فقط در صورت تب باید اول زنگ بزند.",
+    "grammar_rule_fa": "به کلمه‌ی «mag wel gewoon komen» توجه کن؛ این استثنا برای حالتِ بدونِ تب است.",
+    "extra_example_nl": "Bij een lichte verkoudheid zonder koorts mag u wel gewoon komen.",
+    "extra_example_fa": "با سرماخوردگیِ خفیف بدونِ تب می‌شود عادی آمد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Thuis blijven en wachten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Naar het ziekenhuis gaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Eerst bellen, niet komen",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای حالتِ تب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gewoon naar de praktijk komen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن اجازه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De controleafspraak is niet over twee weken, maar over zes weken, want de wachtlijst is lang.»",
+    "question_text_fa": "طبق پیام، چرا قرار پیگیری دیرتر برگزار می‌شود؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر لیستِ انتظارِ طولانی، قرار به شش هفته‌ی دیگر موکول شده.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از «want» می‌آید.",
+    "extra_example_nl": "De levering is niet over een week, maar over drie weken, want de wachtlijst is lang.",
+    "extra_example_fa": "تحویل نه هفته‌ی بعد، بلکه سه هفته‌ی دیگر است، چون لیست انتظار طولانی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De wachtlijst is lang",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het is vakantie",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is een storing",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De dokter is ziek",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw verwijzing naar het ziekenhuis is verstuurd, maar niet naar de afdeling die u verwachtte. Ze is naar de cardioloog gestuurd.»",
+    "question_text_fa": "طبق پیام، ارجاع به کدام بخش فرستاده شده است؟",
+    "explanation_fa": "متن می‌گوید ارجاع به بخشِ مورد انتظار نیست؛ به بخشِ متخصص قلب فرستاده شده.",
+    "grammar_rule_fa": "به کلمه‌ی «maar niet … ze is» توجه کن؛ بخشِ واقعی بعد از آن می‌آید.",
+    "extra_example_nl": "De brief is niet naar het oude adres gestuurd, maar naar het nieuwe adres.",
+    "extra_example_fa": "نامه به آدرسِ قدیمی نیست، به آدرسِ جدید فرستاده شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De afdeling die de patiënt verwachtte",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید به آن بخش نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De cardioloog",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان بخشی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geen enkele afdeling",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huisarts",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Neem geen ochtendurine mee, maar een monster van vanmiddag, want het onderzoek is vandaag pas om 15:00 uur.»",
+    "question_text_fa": "کاربر طبق پیام چه نمونه‌ای باید بیاورد؟",
+    "explanation_fa": "متن می‌گوید نمونه‌ی صبح لازم نیست، بلکه نمونه‌ی بعدازظهر باید آورده شود چون آزمایش ساعت ۱۵:۰۰ است.",
+    "grammar_rule_fa": "به کلمه‌ی «geen … maar» توجه کن؛ نمونه‌ی درست بعد از «maar» می‌آید.",
+    "extra_example_nl": "Neem geen oude foto's mee, maar nieuwe foto's van deze week.",
+    "extra_example_fa": "عکس‌های قدیمی نه، عکس‌های جدیدِ این هفته رو بیار.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een ochtendurine",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید لازم نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een monster van vanmiddag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een bloedmonster",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De wachttijd bij de praktijk is momenteel niet 20 minuten, zoals gisteren. Vandaag is het rustiger: maar 5 minuten.»",
+    "question_text_fa": "طبق پیام، زمان انتظار امروز چقدر است؟",
+    "explanation_fa": "متن می‌گوید دیروز ۲۰ دقیقه بود، اما امروز آرام‌تر است و فقط ۵ دقیقه.",
+    "grammar_rule_fa": "زمانِ «vandaag» درست است، نه زمانِ دیروز.",
+    "extra_example_nl": "Vandaag is het rustiger op de weg: maar 10 minuten file.",
+    "extra_example_fa": "امروز جاده آرام‌تر است: فقط ۱۰ دقیقه ترافیک.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "10 minuten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "20 minuten",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ دیروز بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "30 minuten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "5 minuten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید امروز «maar 5 minuten»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw dossier is niet naar het ziekenhuis gestuurd, maar naar de nieuwe huisarts, zoals u zelf vroeg.»",
+    "question_text_fa": "طبق پیام، پرونده کجا فرستاده شده است؟",
+    "explanation_fa": "متن می‌گوید پرونده به بیمارستان نرفته، بلکه طبق درخواست خودِ کاربر به پزشک خانواده‌ی جدید فرستاده شده.",
+    "grammar_rule_fa": "به کلمه‌ی «niet … maar» توجه کن؛ مقصدِ درست بعد از «maar» می‌آید.",
+    "extra_example_nl": "Het pakket is niet naar uw oude adres gestuurd, maar naar uw nieuwe adres.",
+    "extra_example_fa": "بسته به آدرس قدیمی نرفته، به آدرس جدید فرستاده شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Naar de nieuwe huisarts",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Naar de apotheek",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nergens naartoe",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar het ziekenhuis",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید این‌جا نرفته."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "doctor_message",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Bel de praktijk niet na 10:00 uur voor een afspraak vandaag. Voor morgen kunt u de hele dag bellen.»",
+    "question_text_fa": "طبق پیام، برای گرفتن قرار امروز باید قبل از چه ساعتی زنگ زد؟",
+    "explanation_fa": "متن می‌گوید برای امروز باید قبل از ۱۰:۰۰ زنگ زد؛ برای فردا هر ساعتی امکان دارد.",
+    "grammar_rule_fa": "به تفاوتِ قانونِ «vandaag» و «morgen» توجه کن.",
+    "extra_example_nl": "Bel niet na 9:00 uur voor een levering vandaag.",
+    "extra_example_fa": "برای تحویل امروز باید قبل از ساعت ۹:۰۰ زنگ زد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voor 9:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voor 10:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید نباید بعد از این ساعت زنگ زد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voor 12:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De hele dag, geen limiet",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای فردا صادق است."
+      }
+    ]
+  }
+]

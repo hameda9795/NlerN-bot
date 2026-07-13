@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "money",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als ik meer geld had, ik koop een huis.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zou + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als ik tijd had, zou ik meer lezen.",
+    "extra_example_fa": "اگر وقت داشتم، بیشتر می‌خواندم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als ik meer geld had, zou ik een huis kopen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als ik meer geld had, ik koop een huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و به‌جای آن فعل حال «koop» بدون zou آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als ik meer geld had, ik zou een huis kopen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل بیاید، نه بعد از آن. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als ik meer geld heb, zou ik een huis kopen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «had» بیاید، نه زمان حال «heb». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "no_inversion_mainclause",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als hij harder studeerde, hij zou slagen voor het examen.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "در شرطی غیرواقعی، اگر جمله‌ی als اول بیاید، فعل «zou» بلافاصله بعد از کاما و قبل از فاعل می‌آید.",
+    "correction_rule_fa": "وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل.",
+    "extra_example_nl": "Als zij harder werkte, zou zij promotie krijgen.",
+    "extra_example_fa": "اگر او سخت‌تر کار می‌کرد، ترفیع می‌گرفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als hij harder studeerde, hij zou slagen voor het examen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «hij» بیاید. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als hij harder studeerde, zou hij slagen voor het examen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als hij harder studeerde, hij slaagt voor het examen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «slaagt» بدون zou آمده. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als hij harder studeert, zou hij slagen voor het examen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «studeerde» بیاید، نه زمان حال «studeert». وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_zouden_agreement",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als wij meer tijd hadden, zou wij vaker sporten.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "با فاعل‌های جمع (wij/jullie/zij) از «zouden» استفاده می‌شود، نه «zou».",
+    "correction_rule_fa": "برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است.",
+    "extra_example_nl": "Als zij meer tijd hadden, zouden zij vaker koken.",
+    "extra_example_fa": "اگر آن‌ها وقت بیشتری داشتند، بیشتر آشپزی می‌کردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als wij meer tijd hadden, zou wij vaker sporten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعل جمع «wij» باید «zouden» بیاید، نه «zou» که مفرد است. برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als wij meer tijd hadden, wij zouden vaker sporten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «wij» بیاید. برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als wij meer tijd hadden, zouden wij vaker sporten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als wij meer tijd hebben, zouden wij vaker sporten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «hadden» بیاید، نه زمان حال «hebben». برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "no_inversion_mainclause",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als de trein op tijd kwam, ik zou niet te laat zijn.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "در شرطی غیرواقعی، اگر جمله‌ی als اول بیاید، فعل «zou» بلافاصله بعد از کاما و قبل از فاعل می‌آید.",
+    "correction_rule_fa": "وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل.",
+    "extra_example_nl": "Als de bus op tijd kwam, zou ze niet te laat zijn.",
+    "extra_example_fa": "اگر اتوبوس به‌موقع می‌رسید، او دیر نمی‌رسید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de trein op tijd kwam, ik zou niet te laat zijn.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ik» بیاید. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de trein op tijd komt, zou ik niet te laat zijn.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «kwam» بیاید، نه زمان حال «komt». وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de trein op tijd kwam, ik ben niet te laat.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «ben» بدون zou آمده. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de trein op tijd kwam, zou ik niet te laat zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als zij de baan kreeg, ze verhuist naar Rotterdam.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zou + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als hij de baan kreeg, zou hij verhuizen naar Utrecht.",
+    "extra_example_fa": "اگر او آن شغل را می‌گرفت، به اوترخت نقل‌مکان می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als zij de baan kreeg, zou ze verhuizen naar Rotterdam.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als zij de baan kreeg, ze verhuist naar Rotterdam.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «verhuist» بدون zou آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als zij de baan kreeg, ze zou verhuizen naar Rotterdam.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ze» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als zij de baan krijgt, zou ze verhuizen naar Rotterdam.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «kreeg» بیاید، نه زمان حال «krijgt». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_zouden_agreement",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als jullie eerder vertrokken, zou jullie de bus halen.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "با فاعل‌های جمع (wij/jullie/zij) از «zouden» استفاده می‌شود، نه «zou».",
+    "correction_rule_fa": "برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است.",
+    "extra_example_nl": "Als zij eerder vertrokken, zouden zij de trein halen.",
+    "extra_example_fa": "اگر آن‌ها زودتر حرکت می‌کردند، به قطار می‌رسیدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als jullie eerder vertrokken, zou jullie de bus halen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعل جمع «jullie» باید «zouden» بیاید، نه «zou» که مفرد است. برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als jullie eerder vertrokken, zouden jullie de bus halen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als jullie eerder vertrekken, zouden jullie de bus halen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «vertrokken» بیاید، نه زمان حال «vertrekken». برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als jullie eerder vertrokken, jullie zouden de bus halen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «jullie» بیاید. برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "present_tense_ifclause",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als ik de huisbaas ben, zou ik de huur niet verhogen.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "در شرطی غیرواقعی، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده باشد، نه زمان حال.",
+    "correction_rule_fa": "در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال.",
+    "extra_example_nl": "Als ik de directeur was, zou ik meer vakantiedagen geven.",
+    "extra_example_fa": "اگر من مدیر بودم، روزهای مرخصی بیشتری می‌دادم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als ik de huisbaas ben, zou ik de huur niet verhogen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «was» بیاید، نه زمان حال «ben». در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als ik de huisbaas was, ik verhoog de huur niet.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «verhoog» بدون zou آمده. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als ik de huisbaas was, zou ik de huur niet verhogen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als ik de huisbaas was, ik zou de huur niet verhogen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ik» بیاید. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als de gemeente sneller reageerde, mensen hebben minder klachten.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zouden + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als het bedrijf sneller reageerde, zouden klanten tevredener zijn.",
+    "extra_example_fa": "اگر شرکت سریع‌تر پاسخ می‌داد، مشتریان راضی‌تر بودند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de gemeente sneller reageerde, mensen hebben minder klachten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zouden» جا افتاده و فعل حال «hebben» بدون zouden آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de gemeente sneller reageerde, mensen zouden minder klachten hebben.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «mensen» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de gemeente sneller reageert, zouden mensen minder klachten hebben.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «reageerde» بیاید، نه زمان حال «reageert». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de gemeente sneller reageerde, zouden mensen minder klachten hebben.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "no_inversion_mainclause",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als ik jou was, ik zou die baan accepteren.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "«Als ik jou was, …» یک عبارتِ ثابت برای دادنِ نصیحت است؛ فعل «zou» باید بلافاصله بعد از کاما بیاید.",
+    "correction_rule_fa": "وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل.",
+    "extra_example_nl": "Als ik jou was, zou ik eerst rusten.",
+    "extra_example_fa": "اگر جای تو بودم، اول استراحت می‌کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als ik jou was, zou ik die baan accepteren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als ik jou was, ik zou die baan accepteren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ik» بیاید. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als ik jou was, ik accepteer die baan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «accepteer» بدون zou آمده. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als ik jou ben, zou ik die baan accepteren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «was» بیاید، نه زمان حال «ben». وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als het morgen niet regende, we eten buiten.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zouden + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als het niet zo koud was, zouden we buiten zitten.",
+    "extra_example_fa": "اگر آن‌قدر سرد نبود، بیرون می‌نشستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als het morgen niet regende, we eten buiten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zouden» جا افتاده و فعل حال «eten» بدون zouden آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als het morgen niet regende, zouden we buiten eten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als het morgen niet regende, we zouden buiten eten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «we» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als het morgen niet regent, zouden we buiten eten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «regende» بیاید، نه زمان حال «regent». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "no_inversion_mainclause",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als hij zijn paspoort had, hij zou naar Spanje reizen.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "در شرطی غیرواقعی، اگر جمله‌ی als اول بیاید، فعل «zou» بلافاصله بعد از کاما و قبل از فاعل می‌آید.",
+    "correction_rule_fa": "وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل.",
+    "extra_example_nl": "Als zij haar visum had, zou zij naar Canada reizen.",
+    "extra_example_fa": "اگر او ویزایش را داشت، به کانادا سفر می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als hij zijn paspoort had, hij zou naar Spanje reizen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «hij» بیاید. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als hij zijn paspoort heeft, zou hij naar Spanje reizen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «had» بیاید، نه زمان حال «heeft». وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als hij zijn paspoort had, zou hij naar Spanje reizen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als hij zijn paspoort had, hij reist naar Spanje.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «reist» بدون zou آمده. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "present_tense_ifclause",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als de winkel dichterbij is, zou ik vaker boodschappen doen.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "در شرطی غیرواقعی، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده باشد، نه زمان حال.",
+    "correction_rule_fa": "در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال.",
+    "extra_example_nl": "Als de supermarkt dichterbij was, zou ze vaker lopen.",
+    "extra_example_fa": "اگر سوپرمارکت نزدیک‌تر بود، او بیشتر پیاده می‌رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de winkel dichterbij is, zou ik vaker boodschappen doen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «was» بیاید، نه زمان حال «is». در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de winkel dichterbij was, ik doe vaker boodschappen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «doe» بدون zou آمده. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de winkel dichterbij was, ik zou vaker boodschappen doen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ik» بیاید. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de winkel dichterbij was, zou ik vaker boodschappen doen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als de computer sneller was, het werk gaat makkelijker.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zou + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als het internet sneller was, zou de video niet vastlopen.",
+    "extra_example_fa": "اگر اینترنت سریع‌تر بود، ویدیو قطع نمی‌شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de computer sneller was, zou het werk makkelijker gaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de computer sneller was, het werk gaat makkelijker.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «gaat» بدون zou آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de computer sneller was, het werk zou makkelijker gaan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «het werk» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de computer sneller is, zou het werk makkelijker gaan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «was» بیاید، نه زمان حال «is». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als de krant meer lokaal nieuws had, meer mensen lezen het.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zouden + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als de website duidelijker was, zouden meer mensen hem gebruiken.",
+    "extra_example_fa": "اگر وب‌سایت واضح‌تر بود، افراد بیشتری از آن استفاده می‌کردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de krant meer lokaal nieuws had, meer mensen lezen het.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zouden» جا افتاده و فعل حال «lezen» بدون zouden آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de krant meer lokaal nieuws had, zouden meer mensen het lezen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de krant meer lokaal nieuws had, meer mensen zouden het lezen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «meer mensen» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de krant meer lokaal nieuws heeft, zouden meer mensen het lezen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «had» بیاید، نه زمان حال «heeft». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "no_inversion_mainclause",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als mijn zus dichterbij woonde, ik zou haar vaker bezoeken.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "در شرطی غیرواقعی، اگر جمله‌ی als اول بیاید، فعل «zou» بلافاصله بعد از کاما و قبل از فاعل می‌آید.",
+    "correction_rule_fa": "وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل.",
+    "extra_example_nl": "Als mijn ouders dichterbij woonden, zou ik hen vaker zien.",
+    "extra_example_fa": "اگر والدینم نزدیک‌تر زندگی می‌کردند، بیشتر آن‌ها را می‌دیدم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als mijn zus dichterbij woonde, ik zou haar vaker bezoeken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ik» بیاید. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als mijn zus dichterbij woont, zou ik haar vaker bezoeken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «woonde» بیاید، نه زمان حال «woont». وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als mijn zus dichterbij woonde, zou ik haar vaker bezoeken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als mijn zus dichterbij woonde, ik bezoek haar vaker.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «bezoek» بدون zou آمده. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als het bedrijf meer winst maakte, de salarissen stijgen.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zouden + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als de winkel meer klanten kreeg, zouden de prijzen dalen.",
+    "extra_example_fa": "اگر مغازه مشتری بیشتری می‌گرفت، قیمت‌ها پایین می‌آمد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als het bedrijf meer winst maakte, de salarissen stijgen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zouden» جا افتاده و فعل حال «stijgen» بدون zouden آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als het bedrijf meer winst maakte, de salarissen zouden stijgen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «de salarissen» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als het bedrijf meer winst maakt, zouden de salarissen stijgen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «maakte» بیاید، نه زمان حال «maakt». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als het bedrijf meer winst maakte, zouden de salarissen stijgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "present_tense_ifclause",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als de lucht schoner is, zouden er minder mensen ziek worden.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "در شرطی غیرواقعی، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده باشد، نه زمان حال.",
+    "correction_rule_fa": "در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال.",
+    "extra_example_nl": "Als het water schoner was, zouden er meer vissen leven.",
+    "extra_example_fa": "اگر آب تمیزتر بود، ماهی‌های بیشتری زندگی می‌کردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de lucht schoner was, zouden er minder mensen ziek worden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de lucht schoner is, zouden er minder mensen ziek worden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «was» بیاید، نه زمان حال «is». در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de lucht schoner was, er worden minder mensen ziek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zouden» جا افتاده و فعل حال «worden» بدون zouden آمده. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de lucht schoner was, er zouden minder mensen ziek worden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «er» بیاید. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "no_inversion_mainclause",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als ik de weg kende, ik zou je de route kunnen uitleggen.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "در شرطی غیرواقعی، اگر جمله‌ی als اول بیاید، فعل «zou» بلافاصله بعد از کاما و قبل از فاعل می‌آید.",
+    "correction_rule_fa": "وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل.",
+    "extra_example_nl": "Als zij het adres wist, zou zij je kunnen helpen.",
+    "extra_example_fa": "اگر او آدرس را می‌دانست، می‌توانست کمکت کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als ik de weg kende, ik zou je de route kunnen uitleggen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ik» بیاید. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als ik de weg kende, zou ik je de route kunnen uitleggen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als ik de weg ken, zou ik je de route kunnen uitleggen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «kende» بیاید، نه زمان حال «ken». وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als ik de weg kende, ik kan je de route uitleggen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و به‌جای آن فعل حال «kan» بدون zou آمده. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als de dokter meer tijd had, hij luistert beter naar de patiënt.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zou + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als de verpleegkundige meer tijd had, zou ze rustiger werken.",
+    "extra_example_fa": "اگر پرستار وقت بیشتری داشت، آرام‌تر کار می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de dokter meer tijd had, hij luistert beter naar de patiënt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «luistert» بدون zou آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de dokter meer tijd had, hij zou beter naar de patiënt luisteren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «hij» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de dokter meer tijd had, zou hij beter naar de patiënt luisteren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de dokter meer tijd heeft, zou hij beter naar de patiënt luisteren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «had» بیاید، نه زمان حال «heeft». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als de school een nieuwe directeur kreeg, de regels veranderen waarschijnlijk.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zouden + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als de universiteit meer geld kreeg, zouden de collegegelden dalen.",
+    "extra_example_fa": "اگر دانشگاه پول بیشتری می‌گرفت، شهریه‌ها کاهش می‌یافت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de school een nieuwe directeur kreeg, de regels veranderen waarschijnlijk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zouden» جا افتاده و فعل حال «veranderen» بدون zouden آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de school een nieuwe directeur kreeg, de regels zouden waarschijnlijk veranderen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «de regels» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de school een nieuwe directeur krijgt, zouden de regels waarschijnlijk veranderen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «kreeg» بیاید، نه زمان حال «krijgt». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de school een nieuwe directeur kreeg, zouden de regels waarschijnlijk veranderen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "dropped_als",
+    "life_context": "money",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik genoeg geld had, zou ik een nieuwe auto kopen.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "جمله‌ی شرطیِ غیرواقعی باید با «als» شروع شود؛ بدون آن ساختار جمله نادرست می‌شود.",
+    "correction_rule_fa": "جمله‌ی شرطی باید با حرف ربط «als» شروع شود؛ بدون آن جمله نامفهوم یا نادرست می‌شود.",
+    "extra_example_nl": "Als ik genoeg tijd had, zou ik een cursus volgen.",
+    "extra_example_fa": "اگر وقت کافی داشتم، یک دوره می‌گذراندم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als ik genoeg geld had, zou ik een nieuwe auto kopen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جمله‌ی شرطی باید با حرف ربط «als» شروع شود؛ بدون آن جمله نامفهوم یا نادرست می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik genoeg geld had, zou ik een nieuwe auto kopen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: حرف ربط «als» جا افتاده؛ جمله‌ی شرطی باید با «als» شروع شود. جمله‌ی شرطی باید با حرف ربط «als» شروع شود؛ بدون آن جمله نامفهوم یا نادرست می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als ik genoeg geld had, ik zou een nieuwe auto kopen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ik» بیاید. جمله‌ی شرطی باید با حرف ربط «als» شروع شود؛ بدون آن جمله نامفهوم یا نادرست می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als ik genoeg geld heb, zou ik een nieuwe auto kopen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «had» بیاید، نه زمان حال «heb». جمله‌ی شرطی باید با حرف ربط «als» شروع شود؛ بدون آن جمله نامفهوم یا نادرست می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_zouden_agreement",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als de buren rustiger waren, zou wij beter slapen.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "با فاعل‌های جمع (wij/jullie/zij) از «zouden» استفاده می‌شود، نه «zou».",
+    "correction_rule_fa": "برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است.",
+    "extra_example_nl": "Als de kinderen stiller waren, zouden wij ons kunnen concentreren.",
+    "extra_example_fa": "اگر بچه‌ها ساکت‌تر بودند، می‌توانستیم تمرکز کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de buren rustiger waren, zou wij beter slapen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعل جمع «wij» باید «zouden» بیاید، نه «zou» که مفرد است. برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de buren rustiger waren, zouden wij beter slapen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de buren rustiger waren, wij zouden beter slapen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «wij» بیاید. برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de buren rustiger zijn, zouden wij beter slapen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «waren» بیاید، نه زمان حال «zijn». برای فاعل جمع (wij/jullie/zij) باید «zouden» به‌کار رود، نه «zou» که برای مفرد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "double_zou_ifclause",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als ik zou rijk zijn, zou ik de wereld rondreizen.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "در جمله‌ی als فقط فعلِ گذشته‌ی ساده لازم است؛ «zou» فقط در جمله‌ی اصلی می‌آید، نه در جمله‌ی als.",
+    "correction_rule_fa": "در جمله‌ی als، فعل باید فقط به‌صورت imperfectum بیاید؛ نباید «zou» دوباره داخل جمله‌ی als تکرار شود.",
+    "extra_example_nl": "Als ik beroemd was, zou ik bescheiden blijven.",
+    "extra_example_fa": "اگر مشهور بودم، همچنان متواضع می‌ماندم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als ik zou rijk zijn, zou ik de wereld rondreizen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als نباید «zou» بیاید؛ فقط زمان گذشته‌ی ساده «was» لازم است. در جمله‌ی als، فعل باید فقط به‌صورت imperfectum بیاید؛ نباید «zou» دوباره داخل جمله‌ی als تکرار شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als ik rijk was, ik zou de wereld rondreizen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ik» بیاید. در جمله‌ی als، فعل باید فقط به‌صورت imperfectum بیاید؛ نباید «zou» دوباره داخل جمله‌ی als تکرار شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als ik rijk was, zou ik de wereld rondreizen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در جمله‌ی als، فعل باید فقط به‌صورت imperfectum بیاید؛ نباید «zou» دوباره داخل جمله‌ی als تکرار شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als ik rijk ben, zou ik de wereld rondreizen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «was» بیاید، نه زمان حال «ben». در جمله‌ی als، فعل باید فقط به‌صورت imperfectum بیاید؛ نباید «zou» دوباره داخل جمله‌ی als تکرار شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als het niet zo duur was, ik koop dit huis.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zou + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als het appartement niet zo klein was, zou ze blijven.",
+    "extra_example_fa": "اگر آپارتمان آن‌قدر کوچک نبود، او می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als het niet zo duur was, ik koop dit huis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «koop» بدون zou آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als het niet zo duur was, ik zou dit huis kopen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ik» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als het niet zo duur is, zou ik dit huis kopen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «was» بیاید، نه زمان حال «is». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als het niet zo duur was, zou ik dit huis kopen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als de vergadering korter duurde, we zijn op tijd klaar.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zouden + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als de les korter duurde, zouden de studenten alerter zijn.",
+    "extra_example_fa": "اگر کلاس کوتاه‌تر بود، دانشجویان هوشیارتر بودند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de vergadering korter duurde, zouden we op tijd klaar zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de vergadering korter duurde, we zijn op tijd klaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zouden» جا افتاده و فعل حال «zijn» بدون zouden آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de vergadering korter duurde, we zouden op tijd klaar zijn.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «we» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de vergadering korter duurt, zouden we op tijd klaar zijn.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «duurde» بیاید، نه زمان حال «duurt». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "present_tense_ifclause",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als de huur lager is, zouden meer studenten hier kunnen wonen.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "در شرطی غیرواقعی، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده باشد، نه زمان حال.",
+    "correction_rule_fa": "در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال.",
+    "extra_example_nl": "Als de kamer goedkoper was, zou hij die meteen huren.",
+    "extra_example_fa": "اگر اتاق ارزان‌تر بود، او فوراً آن را اجاره می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de huur lager is, zouden meer studenten hier kunnen wonen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «was» بیاید، نه زمان حال «is». در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de huur lager was, zouden meer studenten hier kunnen wonen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de huur lager was, meer studenten kunnen hier wonen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zouden» جا افتاده و به‌جای آن فعل حال «kunnen» بدون zouden آمده. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de huur lager was, meer studenten zouden hier kunnen wonen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «meer studenten» بیاید. در شرطی غیرواقعی (نوع دوم)، فعل داخل جمله‌ی als باید زمان گذشته‌ی ساده (imperfectum) باشد، نه زمان حال."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "no_inversion_mainclause",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als zij Nederlands beter sprak, ze zou makkelijker werk vinden.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "در شرطی غیرواقعی، اگر جمله‌ی als اول بیاید، فعل «zou» بلافاصله بعد از کاما و قبل از فاعل می‌آید.",
+    "correction_rule_fa": "وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل.",
+    "extra_example_nl": "Als hij beter Engels sprak, zou hij die baan krijgen.",
+    "extra_example_fa": "اگر او انگلیسیِ بهتری صحبت می‌کرد، آن شغل را می‌گرفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als zij Nederlands beter sprak, ze zou makkelijker werk vinden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «ze» بیاید. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als zij Nederlands beter spreekt, zou ze makkelijker werk vinden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «sprak» بیاید، نه زمان حال «spreekt». وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als zij Nederlands beter sprak, zou ze makkelijker werk vinden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als zij Nederlands beter sprak, ze vindt makkelijker werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «vindt» بدون zou آمده. وقتی جمله‌ی als اول می‌آید، در جمله‌ی اصلی باید فعل (zou/zouden) بلافاصله بعد از کاما بیاید، نه فاعل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als de app minder reclame had, meer mensen gebruiken hem.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zouden + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als de site sneller laadde, zouden meer klanten kopen.",
+    "extra_example_fa": "اگر سایت سریع‌تر بارگذاری می‌شد، مشتریان بیشتری خرید می‌کردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de app minder reclame had, meer mensen gebruiken hem.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zouden» جا افتاده و فعل حال «gebruiken» بدون zouden آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de app minder reclame had, meer mensen zouden hem gebruiken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «meer mensen» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de app minder reclame heeft, zouden meer mensen hem gebruiken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «had» بیاید، نه زمان حال «heeft». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de app minder reclame had, zouden meer mensen hem gebruiken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Als het ziekenhuis dichterbij was, de ambulance komt sneller.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zou + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als de apotheek dichterbij was, zou hij minder vaak vergeten.",
+    "extra_example_fa": "اگر داروخانه نزدیک‌تر بود، او کمتر فراموش می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als het ziekenhuis dichterbij was, zou de ambulance sneller komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als het ziekenhuis dichterbij was, de ambulance komt sneller.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zou» جا افتاده و فعل حال «komt» بدون zou آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als het ziekenhuis dichterbij was, de ambulance zou sneller komen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zou» باید قبل از فاعل «de ambulance» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als het ziekenhuis dichterbij is, zou de ambulance sneller komen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «was» بیاید، نه زمان حال «is». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "conditional_error",
+    "subtopic": "zou_missing",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Als de zomer korter was, de prijzen van vakanties dalen.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "این یک شرطی غیرواقعی (نوع دوم) است: در جمله‌ی als فعل گذشته‌ی ساده و در جمله‌ی اصلی «zouden + مصدر» می‌آید.",
+    "correction_rule_fa": "شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر.",
+    "extra_example_nl": "Als de vraag lager was, zouden de tickets goedkoper worden.",
+    "extra_example_fa": "اگر تقاضا کمتر بود، بلیت‌ها ارزان‌تر می‌شدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als de zomer korter was, de prijzen van vakanties dalen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «zouden» جا افتاده و فعل حال «dalen» بدون zouden آمده. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als de zomer korter was, zouden de prijzen van vakanties dalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als de zomer korter was, de prijzen van vakanties zouden dalen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از جمله‌ی als، فعل «zouden» باید قبل از فاعل «de prijzen» بیاید. شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de zomer korter is, zouden de prijzen van vakanties dalen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: در جمله‌ی als باید زمان گذشته‌ی ساده «was» بیاید، نه زمان حال «is». شرطی نوع دوم (غیرواقعی): Als + فاعل + گذشته‌ی ساده (imperfectum) ..., zou/zouden + فاعل + مصدر."
+      }
+    ]
+  }
+]

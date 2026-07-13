@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je hebt hoge koorts. Je ___ naar de dokter gaan.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "تبِ بالا یک ضرورتِ واقعی است، پس «moet» (اجبار/ضرورت) درست است، نه فقط توصیه.",
+    "grammar_rule_fa": "moet = اجبار/ضرورتِ واقعی. zou moeten = فقط توصیه/پیشنهاد (ملایم‌تر).",
+    "extra_example_nl": "Bij zulke klachten moet je meteen naar de huisarts.",
+    "extra_example_fa": "با این علائم باید فوراً پیشِ پزشک بروی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تبِ بالا یک ضرورتِ پزشکیِ واقعی است، نه فقط پیشنهاد."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» فقط توصیه‌ی ملایم است؛ اینجا با تبِ بالا، ضرورتِ واقعی مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا موضوع اجازه نیست، بلکه ضرورت است."
+      },
+      {
+        "key": "D",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ این جمله درباره‌ی ضرورت است، نه توانایی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik vind dat je ___ naar de dokter gaan voor een controle.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این جمله فقط نظر و توصیه‌ی گوینده است («ik vind dat»)، نه یک قانون یا ضرورت، پس «zou moeten» درست است.",
+    "grammar_rule_fa": "zou moeten = توصیه/پیشنهاد. moet = اجبار/ضرورت.",
+    "extra_example_nl": "Ik vind dat je zou moeten stoppen met roken.",
+    "extra_example_fa": "به نظرم باید سیگار را ترک کنی (پیشنهاد).",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا توصیه مطرح است، نه اجازه."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou moeten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «ik vind dat» نشان می‌دهد این فقط یک توصیه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» حالتِ اجبار می‌سازد؛ اما اینجا فقط نظرِ شخصیِ گوینده (توصیه) است، نه دستور."
+      },
+      {
+        "key": "D",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا توصیه مطرح است، نه توانایی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Volgens de regels ___ je een helm dragen op de bouwplaats.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "«volgens de regels» نشان می‌دهد این یک قانونِ رسمی و اجباری است، پس «moet» درست است.",
+    "grammar_rule_fa": "moet = اجبار طبق قانون/قاعده.",
+    "extra_example_nl": "Volgens de wet moet je een gordel dragen in de auto.",
+    "extra_example_fa": "طبق قانون باید در ماشین کمربند ببندی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» فقط توصیه است؛ اینجا یک قانونِ اجباری («volgens de regels») مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا الزام مطرح است، نه اجازه."
+      },
+      {
+        "key": "C",
+        "text_nl": "moet",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ قاعده‌ی رسمی و اجباری در محلِ کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ این قاعده درباره‌ی الزام است، نه توانایی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik denk dat je die e-mail nog een keer ___ nalezen voordat je hem verstuurt.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این جمله یک پیشنهادِ دوستانه از طرفِ گوینده است («ik denk dat»)، پس «zou moeten» درست است.",
+    "grammar_rule_fa": "zou moeten = توصیه/پیشنهاد.",
+    "extra_example_nl": "Ik denk dat je dit rapport nog eens zou moeten controleren.",
+    "extra_example_fa": "فکر می‌کنم بهتر است دوباره این گزارش را بررسی کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» یعنی الزام/دستور؛ اما اینجا فقط پیشنهادِ دوستانه («ik denk dat») مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا پیشنهاد مطرح است، نه اجازه."
+      },
+      {
+        "key": "C",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا پیشنهاد مطرح است، نه توانایی."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou moeten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «ik denk dat» نشان می‌دهد این فقط یک پیشنهاد است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "official_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als je in Nederland auto rijdt, ___ je een rijbewijs hebben.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "داشتنِ گواهینامه یک الزامِ قانونی است، پس «moet» درست است.",
+    "grammar_rule_fa": "moet = الزامِ قانونی.",
+    "extra_example_nl": "Om te werken, moet je een geldige verblijfsvergunning hebben.",
+    "extra_example_fa": "برای کار کردن باید اقامتِ معتبر داشته باشی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ داشتنِ گواهینامه یک الزامِ قانونی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا الزامِ قانونی مطرح است، نه اجازه."
+      },
+      {
+        "key": "C",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ این جمله درباره‌ی الزام است، نه توانایی."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» فقط توصیه است؛ اینجا الزامِ قانونیِ واقعی مطرح است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik denk dat je die baan ___ aannemen.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این جمله نظرِ شخصیِ گوینده است، پس «zou moeten» (توصیه) درست است.",
+    "grammar_rule_fa": "zou moeten = توصیه/نظرِ شخصی.",
+    "extra_example_nl": "Ik denk dat je dat aanbod zou moeten accepteren.",
+    "extra_example_fa": "فکر می‌کنم بهتر است آن پیشنهاد را قبول کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا توصیه مطرح است، نه توانایی."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou moeten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نظرِ شخصیِ گوینده = توصیه."
+      },
+      {
+        "key": "C",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا توصیه مطرح است، نه اجازه."
+      },
+      {
+        "key": "D",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» حالتِ اجبار می‌سازد؛ اما اینجا فقط نظرِ شخصیِ گوینده است، نه دستور."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Op je werk ___ je een badge dragen.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک قاعده‌ی رسمیِ محلِ کار است، پس «moet» درست است.",
+    "grammar_rule_fa": "moet = قاعده‌ی رسمی/اجباری.",
+    "extra_example_nl": "Op kantoor moet iedereen zich aanmelden bij de balie.",
+    "extra_example_fa": "در دفتر همه باید در پذیرش ثبت‌نام کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» فقط توصیه است؛ اینجا یک قاعده‌ی رسمی و اجباری مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا الزام مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "moet",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ قاعده‌ی رسمیِ محلِ کار."
+      },
+      {
+        "key": "D",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ این قاعده درباره‌ی الزام است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik vind dat je ___ meer pauze nemen tussen het werk door.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این نظرِ شخصیِ گوینده است («ik vind dat»)، پس «zou moeten» درست است.",
+    "grammar_rule_fa": "zou moeten = توصیه/نظرِ شخصی.",
+    "extra_example_nl": "Ik vind dat je zou moeten uitrusten.",
+    "extra_example_fa": "به نظرم بهتر است استراحت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا توصیه مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» حالتِ اجبار می‌سازد؛ اما اینجا فقط نظرِ شخصی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا توصیه مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou moeten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نظرِ شخصیِ گوینده = توصیه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voor deze opleiding ___ je een diploma hebben.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک شرطِ اجباری برای پذیرش در این آموزش است، پس «moet» درست است.",
+    "grammar_rule_fa": "moet = شرطِ اجباری.",
+    "extra_example_nl": "Voor deze cursus moet je basiskennis hebben.",
+    "extra_example_fa": "برای این دوره باید دانشِ پایه داشته باشی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شرطِ اجباری برای پذیرش."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» فقط توصیه است؛ اینجا شرطِ اجباریِ پذیرش مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا الزام مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ این جمله درباره‌ی الزام است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Volgens mij ___ je die relatie beëindigen.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این نظرِ شخصیِ گوینده است («volgens mij»)، پس «zou moeten» درست است.",
+    "grammar_rule_fa": "zou moeten = توصیه/نظرِ شخصی.",
+    "extra_example_nl": "Volgens mij zou je eerlijker moeten zijn.",
+    "extra_example_fa": "به نظرم بهتر است صادق‌تر باشی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» حالتِ اجبار می‌سازد؛ اما اینجا فقط نظرِ شخصیِ گوینده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou moeten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نظرِ شخصیِ گوینده = توصیه."
+      },
+      {
+        "key": "C",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا توصیه مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا توصیه مطرح است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "official_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Om te mogen stemmen, ___ je achttien jaar zijn.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک شرطِ قانونیِ اجباری است، پس «moet» درست است.",
+    "grammar_rule_fa": "moet = شرطِ قانونی.",
+    "extra_example_nl": "Om een paspoort te krijgen, moet je een afspraak maken.",
+    "extra_example_fa": "برای گرفتنِ پاسپورت باید وقت بگیری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا شرطِ قانونی مطرح است، نه اجازه."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» فقط توصیه است؛ اینجا شرطِ قانونیِ اجباری مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "moet",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ شرطِ قانونیِ اجباری برای سنِ رأی."
+      },
+      {
+        "key": "D",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ این جمله درباره‌ی شرطِ قانونی است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik denk dat je ___ excuses aanbieden voor wat er is gebeurd.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این نظرِ شخصیِ گوینده است، پس «zou moeten» درست است.",
+    "grammar_rule_fa": "zou moeten = توصیه/نظرِ شخصی.",
+    "extra_example_nl": "Ik denk dat je zou moeten toegeven dat je fout zat.",
+    "extra_example_fa": "فکر می‌کنم بهتر است اعتراف کنی که اشتباه کردی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» حالتِ اجبار می‌سازد؛ اما اینجا فقط نظرِ شخصی است، نه دستور."
+      },
+      {
+        "key": "B",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا توصیه مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا توصیه مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou moeten",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نظرِ شخصیِ گوینده = توصیه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "In deze bibliotheek ___ je niet eten.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این جمله درباره‌ی اجازه/قانونِ محل است (ممنوعیت)، پس «mag» درست است.",
+    "grammar_rule_fa": "mag niet = اجازه ندارد/ممنوع است.",
+    "extra_example_nl": "In het museum mag je niet met flits fotograferen.",
+    "extra_example_fa": "در موزه اجازه‌ی عکس‌گرفتنِ با فلاش نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «mag niet» برای بیانِ ممنوعیت/عدمِ اجازه."
+      },
+      {
+        "key": "B",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet niet» ساختارِ طبیعی برای ممنوعیت نیست؛ برای اجازه/ممنوعیت از «mag» استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا موضوع اجازه است، نه توانایی."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» توصیه است؛ اینجا یک قاعده/اجازه‌ی رسمی مطرح است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Van de dokter ___ hij weer sporten.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "«van de dokter» یعنی پزشک اجازه داده است، پس «mag» درست است.",
+    "grammar_rule_fa": "mag = اجازه دارد.",
+    "extra_example_nl": "Van de dokter mag ze weer autorijden.",
+    "extra_example_fa": "پزشک اجازه داده که دوباره رانندگی کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» یعنی الزام؛ اینجا موضوع اجازه‌ی پزشک است، نه اجبار."
+      },
+      {
+        "key": "B",
+        "text_nl": "mag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پزشک اجازه داده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن (از نظرِ فیزیکی)؛ اینجا موضوع اجازه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» توصیه است؛ اینجا اجازه‌ی رسمیِ پزشک مطرح است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ ik uw pen even lenen?",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک درخواستِ مؤدبانه برای اجازه است، پس «Mag» درست است.",
+    "grammar_rule_fa": "mag = درخواستِ مؤدبانه برای اجازه.",
+    "extra_example_nl": "Mag ik uw naam even weten?",
+    "extra_example_fa": "می‌شود نامتان را بدانم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» اجبار می‌سازد؛ اینجا درخواستِ مؤدبانه برای اجازه مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» توانایی را می‌پرسد، نه اجازه؛ برای درخواستِ مؤدبانه‌ی اجازه «mag» طبیعی‌تر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ درخواستِ مؤدبانه برای اجازه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» توصیه است، نه درخواستِ اجازه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Een kind onder de 16 ___ hier niet naar binnen.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک قانونِ ورودی است (ممنوعیت/اجازه)، پس «mag» درست است.",
+    "grammar_rule_fa": "mag niet = اجازه ندارد.",
+    "extra_example_nl": "Een kind onder de 12 mag hier niet alleen zwemmen.",
+    "extra_example_fa": "کودکِ زیرِ ۱۲ سال اجازه ندارد تنها شنا کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا موضوع اجازه/قانون است."
+      },
+      {
+        "key": "B",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet niet» ساختارِ طبیعی برای ممنوعیت نیست؛ «mag niet» درست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» توصیه است، نه قانونِ رسمی."
+      },
+      {
+        "key": "D",
+        "text_nl": "mag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ قانونِ ورودی/ممنوعیت."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "official_services",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je ___ hier gratis parkeren op zondag.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این جمله درباره‌ی اجازه/قانونِ محلی است، پس «mag» درست است.",
+    "grammar_rule_fa": "mag = اجازه دارد.",
+    "extra_example_nl": "Je mag hier twee uur gratis parkeren.",
+    "extra_example_fa": "اینجا اجازه داری دو ساعت مجانی پارک کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اجازه/قانونِ محلیِ پارک رایگان."
+      },
+      {
+        "key": "B",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» یعنی الزام؛ اینجا موضوع اجازه است، نه اجبار."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» توصیه است؛ اینجا یک قاعده/اجازه‌ی رسمی مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا موضوع اجازه است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Van mijn baas ___ ik thuiswerken op vrijdag.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "«van mijn baas» یعنی رئیس اجازه داده است، پس «mag» درست است.",
+    "grammar_rule_fa": "mag = اجازه دارد.",
+    "extra_example_nl": "Van mijn manager mag ik eerder weggaan vandaag.",
+    "extra_example_fa": "مدیرم اجازه داده امروز زودتر بروم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» توصیه است؛ اینجا اجازه‌ی رسمی از طرفِ رئیس مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "mag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رئیس اجازه داده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» یعنی الزام؛ اینجا موضوع اجازه است، نه اجبار."
+      },
+      {
+        "key": "D",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا موضوع اجازه است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "U ___ hier niet roken.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک قاعده‌ی رسمی درباره‌ی اجازه/ممنوعیت است، پس «mag» درست است.",
+    "grammar_rule_fa": "mag niet = اجازه ندارد/ممنوع است.",
+    "extra_example_nl": "U mag hier niet parkeren.",
+    "extra_example_fa": "اینجا اجازه‌ی پارک ندارید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet niet» ساختارِ طبیعی برای ممنوعیت نیست؛ «mag niet» درست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن؛ اینجا موضوع اجازه/قانون است."
+      },
+      {
+        "key": "C",
+        "text_nl": "mag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ قاعده‌ی رسمیِ ممنوعیتِ سیگار."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» توصیه است، نه قاعده‌ی رسمی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Na de operatie ___ ze nog niet autorijden.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک ممنوعیتِ پزشکی/رسمی است، پس «mag» درست است.",
+    "grammar_rule_fa": "mag niet = اجازه ندارد.",
+    "extra_example_nl": "Na de operatie mag hij nog niet sporten.",
+    "extra_example_fa": "بعد از عمل هنوز اجازه‌ی ورزش کردن ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» یعنی توانستن (فیزیکی)؛ اینجا موضوع اجازه/ممنوعیتِ پزشکی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet niet» ساختارِ طبیعی برای ممنوعیت نیست؛ «mag niet» درست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» توصیه است، نه ممنوعیتِ رسمی."
+      },
+      {
+        "key": "D",
+        "text_nl": "mag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ممنوعیتِ پزشکی/رسمی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "___ ik je iets vragen?",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک درخواستِ مؤدبانه برای اجازه است، پس «Mag» درست است.",
+    "grammar_rule_fa": "mag = درخواستِ مؤدبانه برای اجازه.",
+    "extra_example_nl": "Mag ik je iets vertellen?",
+    "extra_example_fa": "می‌شود چیزی به تو بگویم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ درخواستِ مؤدبانه برای اجازه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zou moeten",
+        "is_correct": false,
+        "feedback_fa": "«zou moeten» توصیه است، نه درخواستِ اجازه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» اجبار می‌سازد؛ اینجا درخواستِ مؤدبانه برای اجازه مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» توانایی را می‌پرسد؛ برای درخواستِ مؤدبانه‌ی اجازه، «mag» طبیعی‌تر است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Misschien ___ je het anders proberen.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "«misschien» نشان می‌دهد این فقط یک پیشنهادِ نامطمئن است، پس «zou kunnen» درست است.",
+    "grammar_rule_fa": "zou kunnen = پیشنهادِ محتاطانه/غیرقطعی.",
+    "extra_example_nl": "Misschien zou je even kunnen bellen.",
+    "extra_example_fa": "شاید بتوانی یک زنگ بزنی (پیشنهادِ محتاطانه).",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kun",
+        "is_correct": false,
+        "feedback_fa": "«kun» توانایی/امکانِ قطعی را نشان می‌دهد؛ اما «misschien» نشان می‌دهد این فقط یک پیشنهادِ محتاطانه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou kunnen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «misschien» + «zou kunnen» = پیشنهادِ محتاطانه."
+      },
+      {
+        "key": "C",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» اجبار می‌سازد؛ «misschien» نشان می‌دهد این فقط یک پیشنهاد است، نه دستور."
+      },
+      {
+        "key": "D",
+        "text_nl": "moest",
+        "is_correct": false,
+        "feedback_fa": "«moest» زمانِ گذشته است و اینجا معنی نمی‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je ___ altijd Engels spreken als je vastloopt in het Nederlands.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک واقعیتِ روشن و قطعی درباره‌ی توانایی/امکان است، پس «kunt» درست است، نه شکلِ محتاطانه‌ی «zou kunnen».",
+    "grammar_rule_fa": "kunt/kan = امکانِ قطعی و واقعی.",
+    "extra_example_nl": "Je kunt altijd om hulp vragen.",
+    "extra_example_fa": "همیشه می‌توانی درخواستِ کمک کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zou kunnen",
+        "is_correct": false,
+        "feedback_fa": "«zou kunnen» حالتِ محتاطانه/نامطمئن می‌سازد؛ اینجا یک امکانِ همیشگی و قطعی مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» اجبار می‌سازد؛ اینجا فقط امکان بیان می‌شود، نه الزام."
+      },
+      {
+        "key": "C",
+        "text_nl": "kunt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ امکانِ همیشگی و قطعی."
+      },
+      {
+        "key": "D",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا موضوع امکان/توانایی است، نه اجازه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als het niet lukt, ___ je altijd nog bellen.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک پیشنهادِ محتاطانه برای یک راهِ جایگزین است، پس «zou kunnen» درست است.",
+    "grammar_rule_fa": "zou kunnen = گزینه/پیشنهادِ محتاطانه.",
+    "extra_example_nl": "Als dat niet werkt, zou je een e-mail kunnen sturen.",
+    "extra_example_fa": "اگر آن کار نکرد، می‌توانی به‌عنوانِ جایگزین ایمیل بفرستی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kun",
+        "is_correct": false,
+        "feedback_fa": "«kun» شکلِ مستقیم‌تر و قطعی‌تر است؛ اما این جمله یک گزینه‌ی محتاطانه پیشنهاد می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» اجبار می‌سازد؛ اینجا فقط یک گزینه‌ی جایگزین پیشنهاد می‌شود، نه دستور."
+      },
+      {
+        "key": "C",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا موضوع پیشنهاد/امکان است، نه اجازه."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou kunnen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پیشنهادِ محتاطانه برای یک گزینه‌ی جایگزین."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "sport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Hij ___ heel goed zwemmen.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک واقعیتِ ثابت درباره‌ی توانایی است، پس «kan» درست است، نه «zou kunnen».",
+    "grammar_rule_fa": "kan = توانایی/واقعیتِ ثابت.",
+    "extra_example_nl": "Zij kan heel snel typen.",
+    "extra_example_fa": "او می‌تواند خیلی سریع تایپ کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kan",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واقعیتِ ثابت و قطعیِ توانایی."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou kunnen",
+        "is_correct": false,
+        "feedback_fa": "«zou kunnen» یک واقعیتِ ثابت را به یک احتمالِ نامطمئن تبدیل می‌کند؛ اینجا توانایی قطعی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» اجبار می‌سازد؛ اینجا فقط توانایی بیان می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا موضوع توانایی است، نه اجازه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Misschien ___ we een andere aanpak proberen.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "«misschien» نشان می‌دهد این فقط یک پیشنهادِ نامطمئن است، پس «zouden kunnen» درست است.",
+    "grammar_rule_fa": "zouden kunnen = پیشنهادِ محتاطانه (فاعلِ جمع).",
+    "extra_example_nl": "Misschien zouden we het samen kunnen doen.",
+    "extra_example_fa": "شاید بتوانیم آن را با هم انجام دهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kunnen",
+        "is_correct": false,
+        "feedback_fa": "«kunnen» امکانِ قطعی است؛ «misschien» نشان می‌دهد این فقط پیشنهادی محتاطانه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zouden kunnen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پیشنهادِ محتاطانه با فاعلِ جمع."
+      },
+      {
+        "key": "C",
+        "text_nl": "moeten",
+        "is_correct": false,
+        "feedback_fa": "«moeten» اجبار می‌سازد؛ اینجا فقط پیشنهاد مطرح است، نه دستور."
+      },
+      {
+        "key": "D",
+        "text_nl": "mogen",
+        "is_correct": false,
+        "feedback_fa": "«mogen» یعنی اجازه داشتن؛ اینجا موضوع پیشنهاد/امکان است، نه اجازه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ze ___ heel snel typen.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک واقعیتِ ثابت درباره‌ی توانایی است، پس «kan» درست است.",
+    "grammar_rule_fa": "kan = توانایی/واقعیتِ ثابت.",
+    "extra_example_nl": "Hij kan goed tekenen.",
+    "extra_example_fa": "او می‌تواند خوب نقاشی کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» اجبار می‌سازد؛ اینجا فقط توانایی بیان می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا موضوع توانایی است، نه اجازه."
+      },
+      {
+        "key": "C",
+        "text_nl": "kan",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واقعیتِ ثابت و قطعیِ توانایی."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou kunnen",
+        "is_correct": false,
+        "feedback_fa": "«zou kunnen» یک واقعیتِ ثابت را به احتمالِ نامطمئن تبدیل می‌کند؛ اینجا توانایی قطعی است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze oplossing ___ het probleem misschien verminderen, maar niet helemaal oplossen.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک احتمالِ نامطمئن است («misschien» و «niet helemaal»)، پس «zou kunnen» درست است.",
+    "grammar_rule_fa": "zou kunnen = احتمال/امکانِ نامطمئن.",
+    "extra_example_nl": "Deze aanpak zou kunnen helpen, maar het is geen garantie.",
+    "extra_example_fa": "این روش شاید کمک کند، اما تضمینی نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» قطعیت را نشان می‌دهد؛ اینجا «misschien» نشان می‌دهد نتیجه نامطمئن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» اجبار می‌سازد؛ اینجا فقط احتمال مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا موضوع احتمال/تأثیر است، نه اجازه."
+      },
+      {
+        "key": "D",
+        "text_nl": "zou kunnen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ احتمال/امکانِ نامطمئن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ___ je wel helpen dit weekend, als je wilt.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "این یک پیشنهادِ مستقیم و مطمئن است، پس «kan» درست است، نه شکلِ محتاطانه‌ی «zou kunnen».",
+    "grammar_rule_fa": "kan = پیشنهادِ مستقیم و مطمئن.",
+    "extra_example_nl": "Ik kan je morgen wel helpen.",
+    "extra_example_fa": "می‌توانم فردا کمکت کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kan",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پیشنهادِ مستقیم و مطمئن."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou kunnen",
+        "is_correct": false,
+        "feedback_fa": "«zou kunnen» یک پیشنهادِ مطمئن را بیش‌ازحد محتاطانه می‌کند؛ اینجا پیشنهادِ مستقیم مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» اجبار می‌سازد؛ اینجا فقط یک پیشنهادِ دوستانه است، نه دستور."
+      },
+      {
+        "key": "D",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا موضوع کمک کردن است، نه اجازه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "nuance_zou_kunnen_mogen",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze aanpak ___ handig zijn voor beginners, maar ik weet het niet zeker.",
+    "question_text_fa": "کدام گزینه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "گوینده مطمئن نیست («ik weet het niet zeker»)، پس «zou kunnen» درست است.",
+    "grammar_rule_fa": "zou kunnen = احتمال/حدسِ نامطمئن.",
+    "extra_example_nl": "Deze methode zou kunnen werken, maar het is niet zeker.",
+    "extra_example_fa": "این روش شاید جواب بدهد، اما مطمئن نیستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "moet",
+        "is_correct": false,
+        "feedback_fa": "«moet» اجبار می‌سازد؛ اینجا فقط یک حدسِ نامطمئن مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zou kunnen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ حدس/احتمالِ نامطمئن."
+      },
+      {
+        "key": "C",
+        "text_nl": "mag",
+        "is_correct": false,
+        "feedback_fa": "«mag» یعنی اجازه داشتن؛ اینجا موضوع حدس/احتمال است، نه اجازه."
+      },
+      {
+        "key": "D",
+        "text_nl": "kan",
+        "is_correct": false,
+        "feedback_fa": "«kan» قطعیت را نشان می‌دهد؛ اما گوینده گفته مطمئن نیست."
+      }
+    ]
+  }
+]

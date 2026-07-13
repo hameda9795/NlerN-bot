@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik neem een paraplu mee, ___ het buiten regent.",
+    "question_text_fa": "کدام حرف ربط جمله را درست کامل می‌کند؟",
+    "explanation_fa": "دلیلِ بردنِ چتر، بارانی بودنِ هوا است؛ برای بیانِ دلیل از «omdat» استفاده می‌کنیم.",
+    "grammar_rule_fa": "omdat = چون/زیرا (بیانِ دلیل). فعلِ صرف‌شده در جمله‌ی فرعی به انتها می‌رود.",
+    "extra_example_nl": "Ik blijf binnen, omdat het koud is.",
+    "extra_example_fa": "من داخل می‌مانم، چون هوا سرد است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omdat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ این جمله دلیل را بیان می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه/هدف را بیان می‌کند، اما اینجا دلیل مطرح است، نه نتیجه."
+      },
+      {
+        "key": "C",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» یعنی «در حالی که» (تضاد)، اما اینجا رابطه‌ی علّی است، نه تضاد."
+      },
+      {
+        "key": "D",
+        "text_nl": "voordat",
+        "is_correct": false,
+        "feedback_fa": "«voordat» رابطه‌ی زمانی (قبل از) می‌سازد، نه رابطه‌ی علّی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "We gaan niet fietsen, ___ het hard regent.",
+    "question_text_fa": "کدام حرف ربط جمله را درست کامل می‌کند؟",
+    "explanation_fa": "علتِ دوچرخه نرفتن، باران شدید است، پس «omdat» درست است.",
+    "grammar_rule_fa": "omdat = چون/زیرا. دلیل را بعد از omdat بیان می‌کنیم.",
+    "extra_example_nl": "Ik ga niet lopen, omdat het glad is.",
+    "extra_example_fa": "من پیاده‌روی نمی‌روم، چون هوا لغزنده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» تضاد نشان می‌دهد، نه دلیل."
+      },
+      {
+        "key": "B",
+        "text_nl": "omdat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دلیلِ ماندن در خانه بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه را نشان می‌دهد؛ اینجا معنی برعکس می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» یعنی «بعد از این که»؛ رابطه‌ی زمانی است، نه علّی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik denk ___ het morgen mooi weer wordt.",
+    "question_text_fa": "کدام کلمه بعد از «denken» درست است؟",
+    "explanation_fa": "بعد از فعلِ نظر دادن مثل «denken» برای بیانِ یک جمله‌واره از «dat» استفاده می‌کنیم.",
+    "grammar_rule_fa": "dat = که (بعد از فعل‌های نظر/باور مثل denken, vinden, weten).",
+    "extra_example_nl": "Ik denk dat hij gelijk heeft.",
+    "extra_example_fa": "من فکر می‌کنم که او حق دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط را نشان می‌دهد، اما اینجا فقط نظر بیان می‌شود، نه شرط."
+      },
+      {
+        "key": "B",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "«of» یعنی «آیا/یا»؛ معنی جمله را به تردید تبدیل می‌کند، در حالی که اینجا نظرِ قطعی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از «denken» با «dat» جمله‌واره می‌سازیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل می‌آورد، اما بعد از «denken» جمله‌ی فرعی با «dat» می‌آید، نه دلیل."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De directeur zegt ___ de vergadering verzet is.",
+    "question_text_fa": "کدام کلمه بعد از «zeggen» درست است؟",
+    "explanation_fa": "بعد از «zeggen» برای نقل یک خبر/جمله از «dat» استفاده می‌شود.",
+    "grammar_rule_fa": "dat = که (بعد از فعل‌های گفتن مثل zeggen, vertellen).",
+    "extra_example_nl": "Ze zegt dat ze morgen komt.",
+    "extra_example_fa": "او می‌گوید که فردا می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از «zeggen» با «dat» خبر نقل می‌کنیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل می‌آورد؛ اینجا فقط خبر نقل می‌شود، نه دلیل."
+      },
+      {
+        "key": "C",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» تضاد نشان می‌دهد و اینجا معنی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "«of» فقط برای سؤال بله/خیرِ غیرمستقیم است؛ اینجا یک خبر مستقیم نقل می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik hoop ___ jij snel beter wordt.",
+    "question_text_fa": "کدام کلمه بعد از «hopen» درست است؟",
+    "explanation_fa": "بعد از «hopen» با «dat» جمله‌ی امید را می‌سازیم.",
+    "grammar_rule_fa": "dat = که (بعد از hopen, denken, weten, vinden, zeggen).",
+    "extra_example_nl": "Ik hoop dat het goed gaat.",
+    "extra_example_fa": "امیدوارم که خوب پیش برود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از «hopen» با «dat» جمله می‌سازیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط است؛ اینجا فقط آرزو بیان می‌شود، نه شرط."
+      },
+      {
+        "key": "C",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "«of» یعنی تردید (آیا)، در حالی که اینجا امید مثبت بیان می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه را نشان می‌دهد؛ اینجا فقط آرزو مطرح است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Zij werkt fulltime, ___ haar man maar drie dagen werkt.",
+    "question_text_fa": "کدام حرف ربط تضاد را نشان می‌دهد؟",
+    "explanation_fa": "جمله یک تضاد نشان می‌دهد (او تمام‌وقت کار می‌کند، اما همسرش فقط سه روز)، پس «terwijl» درست است.",
+    "grammar_rule_fa": "terwijl = در حالی که (نشانِ تضاد بین دو موقعیت).",
+    "extra_example_nl": "Hij is rustig, terwijl zij altijd druk is.",
+    "extra_example_fa": "او آرام است، در حالی که او (زن) همیشه پرمشغله است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» رابطه‌ی علّی می‌سازد؛ اینجا فقط تضاد است، نه دلیل."
+      },
+      {
+        "key": "B",
+        "text_nl": "terwijl",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دو موقعیتِ متضاد را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه است؛ اینجا تضاد بیان می‌شود، نه نتیجه."
+      },
+      {
+        "key": "D",
+        "text_nl": "doordat",
+        "is_correct": false,
+        "feedback_fa": "«doordat» علتِ واقعی نشان می‌دهد؛ اینجا رابطه‌ی علّی وجود ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij klaagt altijd, ___ hij het eigenlijk heel goed heeft.",
+    "question_text_fa": "کدام حرف ربط تضاد را نشان می‌دهد؟",
+    "explanation_fa": "شکایت کردنِ او با وضعیتِ خوبش در تضاد است، پس «terwijl» درست است.",
+    "grammar_rule_fa": "terwijl = در حالی که (تضادِ دو حقیقت).",
+    "extra_example_nl": "Ze is nooit tevreden, terwijl ze alles heeft.",
+    "extra_example_fa": "او هرگز راضی نیست، در حالی که همه‌چیز دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل می‌سازد؛ اینجا معنی برعکس می‌شود، چون شکایت کردن نتیجه‌ی خوب بودن وضعیتش نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» رابطه‌ی زمانی است، اما اینجا رابطه‌ی زمانی مطرح نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "terwijl",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تضاد بین شکایت و وضعیتِ خوب."
+      },
+      {
+        "key": "D",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه را نشان می‌دهد، نه تضاد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik was mijn handen, ___ ik ga eten.",
+    "question_text_fa": "کدام حرف ربط ترتیبِ زمانی درست را نشان می‌دهد؟",
+    "explanation_fa": "دست شستن پیش از غذا خوردن اتفاق می‌افتد، پس «voordat» درست است.",
+    "grammar_rule_fa": "voordat = قبل از این که (اتفاقِ اول قبل از اتفاقِ دوم).",
+    "extra_example_nl": "Ik doe het licht uit, voordat ik ga slapen.",
+    "extra_example_fa": "چراغ را خاموش می‌کنم، قبل از این که بخوابم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "voordat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دست شستن قبل از غذا خوردن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» هم‌زمانی نشان می‌دهد؛ اما دست شستن قبل از غذا خوردن است، نه هم‌زمان."
+      },
+      {
+        "key": "C",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه است؛ اینجا فقط ترتیبِ زمانی مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» یعنی «بعد از»؛ اینجا ترتیبِ زمانی برعکس می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Zij belt altijd haar moeder, ___ ze naar bed gaat.",
+    "question_text_fa": "کدام حرف ربط ترتیبِ زمانی درست را نشان می‌دهد؟",
+    "explanation_fa": "زنگ زدن به مادر پیش از خوابیدن اتفاق می‌افتد، پس «voordat» درست است.",
+    "grammar_rule_fa": "voordat = قبل از این که.",
+    "extra_example_nl": "Hij checkt zijn e-mail, voordat hij naar zijn werk gaat.",
+    "extra_example_fa": "او ایمیلش را چک می‌کند، قبل از این که به سرِ کار برود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "voordat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زنگ زدن قبل از خوابیدن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» ترتیبِ زمانی را برعکس می‌کند (بعد از خوابیدن، که بی‌معنی است)."
+      },
+      {
+        "key": "C",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل می‌سازد، اما اینجا فقط ترتیبِ زمانی مهم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» هم‌زمانی نشان می‌دهد؛ نمی‌شود هم‌زمان بخوابد و زنگ بزند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Hij ging sporten, ___ hij klaar was met werken.",
+    "question_text_fa": "کدام حرف ربط ترتیبِ زمانی درست را نشان می‌دهد؟",
+    "explanation_fa": "ورزش کردن بعد از تمام شدنِ کار اتفاق افتاده، پس «nadat» درست است.",
+    "grammar_rule_fa": "nadat = بعد از این که (اتفاقِ دوم بعد از اتفاقِ اول).",
+    "extra_example_nl": "Ze ging douchen, nadat ze had gesport.",
+    "extra_example_fa": "او دوش گرفت، بعد از این که ورزش کرده بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "voordat",
+        "is_correct": false,
+        "feedback_fa": "«voordat» ترتیب را برعکس می‌کند (قبل از تمام شدنِ کار)."
+      },
+      {
+        "key": "B",
+        "text_nl": "nadat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ورزش کردن بعد از تمام شدنِ کار است."
+      },
+      {
+        "key": "C",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» یعنی هم‌زمان، اما اینجا یکی بعد از دیگری اتفاق افتاده."
+      },
+      {
+        "key": "D",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل می‌سازد؛ اینجا فقط ترتیبِ زمانی مهم است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We aten pas, ___ iedereen er was.",
+    "question_text_fa": "کدام حرف ربط ترتیبِ زمانی درست را نشان می‌دهد؟",
+    "explanation_fa": "غذا خوردن بعد از رسیدنِ همه شروع شده، پس «nadat» درست است.",
+    "grammar_rule_fa": "nadat = بعد از این که.",
+    "extra_example_nl": "We begonnen, nadat de gasten waren aangekomen.",
+    "extra_example_fa": "شروع کردیم، بعد از این که مهمان‌ها رسیده بودند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "voordat",
+        "is_correct": false,
+        "feedback_fa": "«voordat» ترتیب را برعکس می‌کند (قبل از رسیدنِ همه، که با «pas» جور نیست)."
+      },
+      {
+        "key": "B",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه را نشان می‌دهد، نه ترتیبِ زمانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "nadat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ «pas» + nadat یعنی فقط بعد از رسیدنِ همه شروع کردیم."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط جمله‌واره می‌سازد و رابطه‌ی زمانی نشان نمی‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik zet de wekker vroeg, ___ ik op tijd kom.",
+    "question_text_fa": "کدام حرف ربط نتیجه/هدف را نشان می‌دهد؟",
+    "explanation_fa": "زود کوک کردنِ ساعت هدفش این است که سرِ وقت برسد، پس «zodat» درست است.",
+    "grammar_rule_fa": "zodat = طوری که/تا این که (نتیجه یا هدف).",
+    "extra_example_nl": "Ik schrijf het op, zodat ik het niet vergeet.",
+    "extra_example_fa": "آن را می‌نویسم، تا فراموشش نکنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zodat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ هدف از زود کوک کردن، سرِ وقت رسیدن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» تضاد نشان می‌دهد و اینجا معنی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط جمله‌واره می‌سازد، نتیجه/هدف را نشان نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» رابطه را برعکس می‌کند؛ ساعت باعثِ سرِ وقت رسیدن است، نه برعکس."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Zij spreekt langzaam, ___ iedereen het kan volgen.",
+    "question_text_fa": "کدام حرف ربط نتیجه/هدف را نشان می‌دهد؟",
+    "explanation_fa": "هدف از آهسته حرف زدن این است که همه بفهمند، پس «zodat» درست است.",
+    "grammar_rule_fa": "zodat = تا این که (نتیجه/هدف).",
+    "extra_example_nl": "Hij herhaalt het, zodat niemand het mist.",
+    "extra_example_fa": "او آن را تکرار می‌کند، تا کسی از قلم نیندازد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیلِ گذشته را نشان می‌دهد، اما اینجا هدف/نتیجه مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zodat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ هدف از آهسته حرف زدن این است که همه بفهمند."
+      },
+      {
+        "key": "C",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» تضاد نشان می‌دهد، اینجا مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "voordat",
+        "is_correct": false,
+        "feedback_fa": "«voordat» رابطه‌ی زمانی است، نه نتیجه/هدف."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "We moeten stoppen met werken, ___ het al laat is.",
+    "question_text_fa": "کدام حرف ربط جمله را درست کامل می‌کند؟",
+    "explanation_fa": "دلیلِ توقفِ کار، دیر شدنِ وقت است، پس «omdat» درست است.",
+    "grammar_rule_fa": "omdat = چون/زیرا.",
+    "extra_example_nl": "We gaan naar huis, omdat het al laat is.",
+    "extra_example_fa": "به خانه می‌رویم، چون دیر شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه است؛ اینجا دلیل بیان می‌شود، نه نتیجه."
+      },
+      {
+        "key": "B",
+        "text_nl": "omdat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دلیلِ توقفِ کار بیان شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» تضاد نشان می‌دهد، اینجا مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» رابطه‌ی زمانی است، نه دلیل."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We nemen de trein, ___ het sneeuwt en de wegen glad zijn.",
+    "question_text_fa": "کدام حرف ربط جمله را درست کامل می‌کند؟",
+    "explanation_fa": "دلیلِ گرفتنِ قطار، برفی و لغزنده بودنِ جاده‌هاست، پس «omdat» درست است.",
+    "grammar_rule_fa": "omdat = چون/زیرا.",
+    "extra_example_nl": "Ik loop, omdat de auto kapot is.",
+    "extra_example_fa": "پیاده می‌روم، چون ماشین خراب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه است؛ برف بارید نتیجه‌ی گرفتنِ قطار نیست، بلکه دلیلِ آن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» تضاد نشان می‌دهد و اینجا معنی مناسبی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "omdat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دلیلِ گرفتنِ قطار بیان شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» رابطه‌ی زمانی است، اینجا رابطه‌ی علّی مطرح است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ze huilde, ___ de film heel verdrietig was.",
+    "question_text_fa": "کدام حرف ربط جمله را درست کامل می‌کند؟",
+    "explanation_fa": "دلیلِ گریه کردن، غم‌انگیز بودنِ فیلم است، پس «omdat» درست است.",
+    "grammar_rule_fa": "omdat = چون/زیرا.",
+    "extra_example_nl": "Hij lachte, omdat de grap grappig was.",
+    "extra_example_fa": "او خندید، چون جوک خنده‌دار بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omdat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دلیلِ گریه کردن بیان شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه/هدف را نشان می‌دهد؛ گریستن هدفِ فیلم غم‌انگیز نبوده، بلکه نتیجه‌ی طبیعیِ آن است، اما اینجا دلیل درست‌تر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "voordat",
+        "is_correct": false,
+        "feedback_fa": "«voordat» رابطه‌ی زمانی است، نه علّی."
+      },
+      {
+        "key": "D",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» تضاد است، اینجا رابطه‌ی علّی مطرح است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik weet ___ hij vandaag niet komt.",
+    "question_text_fa": "کدام کلمه بعد از «weten» درست است؟",
+    "explanation_fa": "چون گوینده مطمئن است و فقط یک خبر نقل می‌کند، از «dat» استفاده می‌شود، نه «of».",
+    "grammar_rule_fa": "dat = که (خبرِ قطعی). «of» فقط برای تردید/سؤال است.",
+    "extra_example_nl": "Ik weet dat ze gelijk heeft.",
+    "extra_example_fa": "می‌دانم که او حق دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "«of» یعنی تردید (آیا)، اما اینجا گوینده مطمئن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خبرِ قطعی با «dat» نقل می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل می‌آورد؛ اینجا فقط یک خبر نقل می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط را نشان می‌دهد؛ اینجا شرطی مطرح نیست."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik vind ___ dit een goed idee is.",
+    "question_text_fa": "کدام کلمه بعد از «vinden» (نظر دادن) درست است؟",
+    "explanation_fa": "برای بیانِ نظر بعد از «vinden» از «dat» استفاده می‌کنیم.",
+    "grammar_rule_fa": "dat = که (بعد از فعل‌های نظر مثل vinden).",
+    "extra_example_nl": "Ik vind dat hij te hard werkt.",
+    "extra_example_fa": "به نظرم او خیلی زیاد کار می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط را نشان می‌دهد؛ اینجا نظر بیان می‌شود، نه شرط."
+      },
+      {
+        "key": "B",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "«of» تردید نشان می‌دهد؛ اینجا نظرِ قطعی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه است؛ اینجا فقط نظر بیان می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از «vinden» با «dat» نظر را بیان می‌کنیم."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij is heel rustig, ___ zijn broer altijd druk is.",
+    "question_text_fa": "کدام حرف ربط تضاد را نشان می‌دهد؟",
+    "explanation_fa": "آرام بودنِ او با پرمشغله بودنِ برادرش در تضاد است، پس «terwijl» درست است.",
+    "grammar_rule_fa": "terwijl = در حالی که (تضاد).",
+    "extra_example_nl": "Zij is heel spontaan, terwijl haar zus alles plant.",
+    "extra_example_fa": "او خیلی خودجوش است، در حالی که خواهرش همه‌چیز را برنامه‌ریزی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» رابطه‌ی علّی می‌سازد، اما اینجا فقط تضاد بین دو شخصیت است."
+      },
+      {
+        "key": "B",
+        "text_nl": "doordat",
+        "is_correct": false,
+        "feedback_fa": "«doordat» علتِ واقعی نشان می‌دهد، نه تضاد."
+      },
+      {
+        "key": "C",
+        "text_nl": "terwijl",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دو شخصیتِ متضاد نشان داده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه است، نه تضاد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ze wonen in een klein huis, ___ ze genoeg geld hebben voor een groter huis.",
+    "question_text_fa": "کدام حرف ربط تضاد را نشان می‌دهد؟",
+    "explanation_fa": "در خانه‌ی کوچک زندگی کردن با داشتنِ پولِ کافی برای خانه‌ی بزرگ‌تر در تضاد است.",
+    "grammar_rule_fa": "terwijl = در حالی که (تضادِ دو حقیقت).",
+    "extra_example_nl": "Hij rijdt een oude auto, terwijl hij genoeg geld heeft voor een nieuwe.",
+    "extra_example_fa": "او ماشینِ قدیمی سوار می‌شود، در حالی که پولِ کافی برای ماشینِ جدید دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل می‌سازد؛ اما داشتنِ پول، دلیلِ زندگی در خانه‌ی کوچک نیست، بلکه با آن در تضاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه است، اینجا معنی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "terwijl",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دو حقیقتِ متضاد نشان داده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» رابطه‌ی زمانی است، نه تضاد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We controleren alles nog een keer, ___ we het rapport versturen.",
+    "question_text_fa": "کدام حرف ربط ترتیبِ زمانی درست را نشان می‌دهد؟",
+    "explanation_fa": "کنترل کردن پیش از ارسالِ گزارش اتفاق می‌افتد، پس «voordat» درست است.",
+    "grammar_rule_fa": "voordat = قبل از این که.",
+    "extra_example_nl": "Ze leest het contract, voordat ze het ondertekent.",
+    "extra_example_fa": "او قرارداد را می‌خواند، قبل از این که امضایش کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "voordat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کنترل کردن قبل از ارسال است."
+      },
+      {
+        "key": "B",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» ترتیب را برعکس می‌کند (بعد از ارسال، که بی‌فایده است)."
+      },
+      {
+        "key": "C",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» هم‌زمانی نشان می‌دهد؛ این دو کار پشتِ سرِ هم انجام می‌شوند."
+      },
+      {
+        "key": "D",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه/هدف است، نه ترتیبِ زمانی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Hij belde de klant, ___ hij naar huis ging.",
+    "question_text_fa": "کدام حرف ربط ترتیبِ زمانی درست را نشان می‌دهد؟",
+    "explanation_fa": "زنگ زدن به مشتری پیش از رفتن به خانه اتفاق افتاده، پس «voordat» درست است.",
+    "grammar_rule_fa": "voordat = قبل از این که.",
+    "extra_example_nl": "Ik stuur nog een e-mail, voordat ik stop met werken.",
+    "extra_example_fa": "یک ایمیل دیگر می‌فرستم، قبل از این که کار را تمام کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» ترتیب را برعکس می‌کند (بعد از رفتن به خانه، که با «belde» جور نیست)."
+      },
+      {
+        "key": "B",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل می‌سازد؛ اینجا فقط ترتیبِ زمانی مهم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "voordat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ زنگ زدن قبل از رفتن به خانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» هم‌زمانی نشان می‌دهد؛ اینجا یکی قبل از دیگری است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ze ondertekende het contract, ___ ze alles had gelezen.",
+    "question_text_fa": "کدام حرف ربط ترتیبِ زمانی درست را نشان می‌دهد؟",
+    "explanation_fa": "امضا کردن بعد از خواندنِ کامل انجام شده، پس «nadat» درست است.",
+    "grammar_rule_fa": "nadat = بعد از این که.",
+    "extra_example_nl": "Hij tekende, nadat hij alle vragen had gesteld.",
+    "extra_example_fa": "او امضا کرد، بعد از این که همه‌ی سؤال‌ها را پرسیده بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "voordat",
+        "is_correct": false,
+        "feedback_fa": "«voordat» ترتیب را برعکس می‌کند (قبل از خواندن، که خطرناک است)."
+      },
+      {
+        "key": "B",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» هم‌زمانی نشان می‌دهد؛ اینجا خواندن قبل از امضا کامل شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه/هدف است، نه ترتیبِ زمانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "nadat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ امضا کردن بعد از خواندنِ کامل بوده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij ging pas terug naar zijn bureau, ___ hij een kopje koffie had gedronken.",
+    "question_text_fa": "کدام حرف ربط ترتیبِ زمانی درست را نشان می‌دهد؟",
+    "explanation_fa": "«pas ... nadat» نشان می‌دهد که برگشتن فقط بعد از نوشیدنِ قهوه اتفاق افتاده است.",
+    "grammar_rule_fa": "nadat = بعد از این که.",
+    "extra_example_nl": "Ze begon pas te werken, nadat ze had ontbeten.",
+    "extra_example_fa": "او کارش را فقط بعد از صبحانه خوردن شروع کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "voordat",
+        "is_correct": false,
+        "feedback_fa": "«voordat» ترتیب را برعکس می‌کند و با «pas» جور نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» هم‌زمانی نشان می‌دهد؛ اینجا یکی بعد از دیگری است."
+      },
+      {
+        "key": "C",
+        "text_nl": "nadat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برگشتن فقط بعد از نوشیدنِ قهوه بوده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه/هدف است، نه ترتیبِ زمانی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "We schrijven het duidelijk op, ___ niemand het verkeerd begrijpt.",
+    "question_text_fa": "کدام حرف ربط نتیجه/هدف را نشان می‌دهد؟",
+    "explanation_fa": "هدف از واضح نوشتن این است که کسی اشتباه نفهمد، پس «zodat» درست است.",
+    "grammar_rule_fa": "zodat = تا این که (نتیجه/هدف).",
+    "extra_example_nl": "We leggen het rustig uit, zodat iedereen het snapt.",
+    "extra_example_fa": "آن را آرام توضیح می‌دهیم، تا همه بفهمند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل است؛ اینجا هدف/نتیجه مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» تضاد نشان می‌دهد و اینجا معنی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "dat",
+        "is_correct": false,
+        "feedback_fa": "«dat» فقط جمله‌واره می‌سازد و هدف/نتیجه را نشان نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "zodat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ هدف از واضح نوشتن، فهمیدنِ درستِ همه است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De leraar spreekt extra duidelijk, ___ de nieuwe leerlingen alles verstaan.",
+    "question_text_fa": "کدام حرف ربط نتیجه/هدف را نشان می‌دهد؟",
+    "explanation_fa": "هدف از واضح صحبت کردنِ معلم این است که دانش‌آموزانِ جدید همه‌چیز را بفهمند.",
+    "grammar_rule_fa": "zodat = تا این که (نتیجه/هدف).",
+    "extra_example_nl": "Ze praat langzaam, zodat iedereen kan meeschrijven.",
+    "extra_example_fa": "او آهسته صحبت می‌کند، تا همه بتوانند یادداشت کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیلِ گذشته است؛ اینجا هدف/نتیجه مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "zodat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ هدف از واضح صحبت کردن، فهمیدنِ دانش‌آموزان است."
+      },
+      {
+        "key": "C",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» تضاد نشان می‌دهد، اینجا مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "voordat",
+        "is_correct": false,
+        "feedback_fa": "«voordat» رابطه‌ی زمانی است، نه نتیجه/هدف."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ik hoorde ___ de winkel om vijf uur dicht gaat.",
+    "question_text_fa": "کدام کلمه بعد از «horen» (شنیدنِ خبر) درست است؟",
+    "explanation_fa": "برای نقلِ یک خبرِ قطعی بعد از «horen» از «dat» استفاده می‌کنیم.",
+    "grammar_rule_fa": "dat = که (خبرِ قطعی).",
+    "extra_example_nl": "Ik hoorde dat hij verhuisd is.",
+    "extra_example_fa": "شنیدم که او نقل مکان کرده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "«of» تردید نشان می‌دهد (آیا)؛ اینجا خبرِ قطعی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط را نشان می‌دهد؛ اینجا شرطی مطرح نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل می‌آورد؛ اینجا فقط خبر نقل می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خبرِ قطعی با «dat» نقل می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het is jammer ___ je niet kunt komen.",
+    "question_text_fa": "کدام کلمه جمله را درست کامل می‌کند؟",
+    "explanation_fa": "بعد از «het is jammer» با «dat» جمله‌واره می‌سازیم.",
+    "grammar_rule_fa": "dat = که (بعد از عبارت‌های احساسی مثل «het is jammer»).",
+    "extra_example_nl": "Het is fijn dat je er bent.",
+    "extra_example_fa": "خوب است که تو اینجا هستی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "als",
+        "is_correct": false,
+        "feedback_fa": "«als» شرط را نشان می‌دهد؛ اینجا یک واقعیت بیان می‌شود، نه شرط."
+      },
+      {
+        "key": "B",
+        "text_nl": "of",
+        "is_correct": false,
+        "feedback_fa": "«of» تردید نشان می‌دهد؛ اینجا واقعیتِ قطعی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه/هدف است؛ اینجا فقط یک واقعیت بیان می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "dat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از «het is jammer» با «dat» جمله می‌سازیم."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "We moesten de picknick afzeggen, ___ het onweerde.",
+    "question_text_fa": "کدام حرف ربط جمله را درست کامل می‌کند؟",
+    "explanation_fa": "دلیلِ کنسل کردنِ پیک‌نیک، رعدوبرق بوده، پس «omdat» درست است.",
+    "grammar_rule_fa": "omdat = چون/زیرا.",
+    "extra_example_nl": "We bleven binnen, omdat het onweerde.",
+    "extra_example_fa": "داخل ماندیم، چون رعدوبرق می‌زد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه است؛ اینجا رعدوبرق دلیلِ کنسلی است، نه نتیجه‌ی آن."
+      },
+      {
+        "key": "B",
+        "text_nl": "terwijl",
+        "is_correct": false,
+        "feedback_fa": "«terwijl» تضاد نشان می‌دهد و اینجا معنی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» رابطه‌ی زمانی است، نه علّی."
+      },
+      {
+        "key": "D",
+        "text_nl": "omdat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دلیلِ کنسل کردنِ پیک‌نیک بیان شده است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "complex_subordinate",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ze luistert naar muziek, ___ ze aan het koken is.",
+    "question_text_fa": "کدام حرف ربط هم‌زمانی را نشان می‌دهد؟",
+    "explanation_fa": "گوش دادن به موسیقی هم‌زمان با آشپزی است، پس «terwijl» درست است.",
+    "grammar_rule_fa": "terwijl = در حالی که (هم‌زمانیِ دو کار).",
+    "extra_example_nl": "Hij belt, terwijl hij autorijdt.",
+    "extra_example_fa": "او تلفن می‌زند، در حالی که رانندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "omdat",
+        "is_correct": false,
+        "feedback_fa": "«omdat» دلیل می‌سازد؛ اینجا فقط دو کارِ هم‌زمان بیان می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "nadat",
+        "is_correct": false,
+        "feedback_fa": "«nadat» یعنی «بعد از»؛ اینجا هر دو کار هم‌زمان هستند."
+      },
+      {
+        "key": "C",
+        "text_nl": "zodat",
+        "is_correct": false,
+        "feedback_fa": "«zodat» نتیجه/هدف است، نه هم‌زمانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "terwijl",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دو کار هم‌زمان انجام می‌شوند."
+      }
+    ]
+  }
+]

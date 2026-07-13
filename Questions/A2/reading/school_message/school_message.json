@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht van school: «Morgen is er geen les voor groep 5. Groep 6, 7 en 8 hebben wel gewoon les, zoals altijd.»",
+    "question_text_fa": "کدام گروه‌ها فردا کلاس عادی دارند؟",
+    "explanation_fa": "متن می‌گوید فقط گروه ۵ کلاس ندارد؛ گروه‌های ۶، ۷ و ۸ کلاس عادی دارند.",
+    "grammar_rule_fa": "به گروهی که رد شده و گروه‌هایی که استثنا نشده‌اند دقت کن.",
+    "extra_example_nl": "Morgen is er geen les voor groep 3. Groep 4 heeft wel gewoon les.",
+    "extra_example_fa": "فردا گروه ۳ کلاس ندارد. گروه ۴ کلاس عادی دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Groep 6, 7 en 8",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alle groepen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geen enkele groep",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen groep 5",
+        "is_correct": false,
+        "feedback_fa": "این گروه کلاس ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De ouderavond is niet op donderdag, zoals eerst gepland. Hij is verzet naar dinsdag, om dezelfde tijd: 19:00 uur.»",
+    "question_text_fa": "کدام جمله بر اساس پیام درست است؟",
+    "explanation_fa": "متن می‌گوید جلسه از پنجشنبه به سه‌شنبه منتقل شده، اما ساعت همان مانده.",
+    "grammar_rule_fa": "به کلمه‌ی «om dezelfde tijd» توجه کن؛ این نشان می‌دهد فقط روز تغییر کرده.",
+    "extra_example_nl": "De les is verzet naar maandag, om dezelfde tijd: 10:00 uur.",
+    "extra_example_fa": "کلاس به دوشنبه منتقل شده، همان ساعت ۱۰:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De ouderavond is nu op donderdag.",
+        "is_correct": false,
+        "feedback_fa": "این روزِ قدیمی بود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De ouderavond is nu op dinsdag, om 19:00 uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De tijd is ook veranderd.",
+        "is_correct": false,
+        "feedback_fa": "ساعت همان مانده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De ouderavond gaat niet door.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw kind moet morgen gymkleren meenemen, maar geen zwemspullen. De zwemles is deze week niet.»",
+    "question_text_fa": "طبق پیام، فردا چه چیزی نباید آورده شود؟",
+    "explanation_fa": "متن می‌گوید لباس ورزشی باید آورده شود، اما وسایل شنا لازم نیست چون کلاس شنا این هفته نیست.",
+    "grammar_rule_fa": "به کلمه‌ی «geen» بعد از «maar» توجه کن؛ آن چیز لازم نیست.",
+    "extra_example_nl": "Uw kind moet een boek meenemen, maar geen schrift.",
+    "extra_example_fa": "فرزندتان باید کتاب بیاورد، اما دفتر لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gymkleren",
+        "is_correct": false,
+        "feedback_fa": "این باید آورده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zwemspullen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «geen zwemspullen»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De schoolreis is niet meer op vrijdag. Wegens het weer is hij verzet naar de maandag erna.»",
+    "question_text_fa": "طبق پیام، چرا سفر مدرسه تغییر کرده است؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر وضعیتِ آب‌وهوا، سفر منتقل شده.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از «wegens» می‌آید.",
+    "extra_example_nl": "De sportdag is verzet wegens het weer.",
+    "extra_example_fa": "روز ورزش به‌خاطر وضعیت هوا منتقل شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wegens een studiedag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wegens de vakantie",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wegens ziekte",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wegens het weer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Kunt u het formulier niet per e-mail sturen, maar meegeven met uw kind? Vrijdag is de laatste dag.»",
+    "question_text_fa": "طبق پیام، فرم چگونه باید ارسال شود؟",
+    "explanation_fa": "متن می‌گوید فرم نباید ایمیل شود، بلکه باید همراه فرزند فرستاده شود.",
+    "grammar_rule_fa": "به کلمه‌ی «niet … maar» توجه کن؛ راهِ درست بعد از «maar» می‌آید.",
+    "extra_example_nl": "Stuur het niet per post, maar geef het mee met uw dochter.",
+    "extra_example_fa": "با پست نفرست، همراه دخترت بفرست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meegeven met het kind",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌خواهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Per post",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Persoonlijk afgeven",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Per e-mail",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید نباید ایمیل شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De school sluit vandaag niet om 15:00 uur, maar om 14:00 uur. Morgen is het weer gewoon 15:00 uur.»",
+    "question_text_fa": "طبق پیام، امروز مدرسه ساعت چند تعطیل می‌شود؟",
+    "explanation_fa": "متن می‌گوید امروز استثنائاً ساعت ۱۴:۰۰ تعطیل می‌شود؛ ۱۵:۰۰ ساعتِ عادی است.",
+    "grammar_rule_fa": "به تفاوتِ ساعتِ «vandaag» و «morgen» توجه کن.",
+    "extra_example_nl": "De les stopt vandaag niet om 12:00 uur, maar om 11:00 uur.",
+    "extra_example_fa": "کلاس امروز ساعت ۱۱:۰۰ تمام می‌شود، نه ۱۲:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "11:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "14:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید امروز 14:00."
+      },
+      {
+        "key": "C",
+        "text_nl": "15:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ عادی/فردا است."
+      },
+      {
+        "key": "D",
+        "text_nl": "16:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Er is dit weekend geen huiswerk voor rekenen. Voor taal is er wel huiswerk: lees twee bladzijden.»",
+    "question_text_fa": "طبق پیام، برای کدام درس این آخر هفته تکلیف هست؟",
+    "explanation_fa": "متن می‌گوید تکلیف ریاضی نیست، اما تکلیف زبان هست: خواندن دو صفحه.",
+    "grammar_rule_fa": "به کلمه‌ی «wel» بعد از رد کردن درسِ اول توجه کن.",
+    "extra_example_nl": "Er is geen toets voor aardrijkskunde. Voor geschiedenis is er wel een toets.",
+    "extra_example_fa": "امتحان جغرافی نیست، اما امتحان تاریخ هست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen enkel vak",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Rekenen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید تکلیف ریاضی نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Taal",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beide vakken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Breng morgen niet 5 euro mee, maar 8 euro voor het schoolfeest. De prijs is veranderd.»",
+    "question_text_fa": "طبق پیام، فردا چقدر باید پول آورده شود؟",
+    "explanation_fa": "متن می‌گوید قیمت تغییر کرده و باید ۸ یورو آورده شود، نه ۵ یورو.",
+    "grammar_rule_fa": "به عددی که بعد از «maar» می‌آید توجه کن؛ آن عددِ درست است.",
+    "extra_example_nl": "Betaal niet 3 euro, maar 6 euro voor de foto. De prijs is veranderd.",
+    "extra_example_fa": "برای عکس نه ۳ یورو، بلکه ۶ یورو بپرداز.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "10 euro",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "5 euro",
+        "is_correct": false,
+        "feedback_fa": "این قیمتِ قدیمی بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "6 euro",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "8 euro",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «maar 8 euro»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De juf is niet ziek, ze is op cursus. Er is morgen een vervanger: meester Jan.»",
+    "question_text_fa": "طبق پیام، چرا فردا معلم دیگری هست؟",
+    "explanation_fa": "متن می‌گوید معلم مریض نیست، بلکه در دوره‌ی آموزشی است؛ به همین دلیل جانشین دارد.",
+    "grammar_rule_fa": "به کلمه‌ی «niet ziek, ze is» توجه کن؛ دلیلِ واقعی همان‌جاست.",
+    "extra_example_nl": "De meester is niet op vakantie, hij is op cursus.",
+    "extra_example_fa": "معلم مرد در تعطیلات نیست، در دوره‌ی آموزشی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ze is op cursus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ze is verhuisd.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ze is op vakantie.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ze is ziek.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید مریض نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Haal uw kind vandaag niet om 15:00 uur op, maar om 12:00 uur, want de school sluit eerder wegens de storm.»",
+    "question_text_fa": "طبق پیام، چرا امروز مدرسه زودتر تعطیل می‌شود؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر طوفان، مدرسه امروز زودتر تعطیل می‌شود.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از «wegens» می‌آید.",
+    "extra_example_nl": "De trein stopt eerder wegens de storm.",
+    "extra_example_fa": "قطار به‌خاطر طوفان زودتر توقف می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wegens een studiedag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wegens de storm",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wegens ziekte",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wegens een feestdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Vergeet het zwemdiploma niet mee te nemen. Dat is alleen nodig voor groep 4, niet voor groep 3.»",
+    "question_text_fa": "طبق پیام، کدام گروه باید مدرک شنا بیاورد؟",
+    "explanation_fa": "متن می‌گوید فقط گروه ۴ باید مدرک شنا بیاورد؛ گروه ۳ لازم ندارد.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen … niet voor» توجه کن؛ فقط یک گروه استثنا است.",
+    "extra_example_nl": "Dat is alleen nodig voor groep 6, niet voor groep 5.",
+    "extra_example_fa": "این فقط برای گروه ۶ لازم است، نه گروه ۵.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen enkele groep",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Groep 3",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید لازم نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Groep 4",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان گروهی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beide groepen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De schoolfotograaf komt niet dinsdag, zoals eerst gepland, maar woensdag. Draag die dag geen sportkleren.»",
+    "question_text_fa": "طبق پیام، روز عکاسی چه چیزی نباید پوشیده شود؟",
+    "explanation_fa": "متن می‌گوید آن روز نباید لباس ورزشی پوشید.",
+    "grammar_rule_fa": "به کلمه‌ی «geen» بعد از توضیحِ روز توجه کن.",
+    "extra_example_nl": "Draag die dag geen jas binnen.",
+    "extra_example_fa": "آن روز کت داخل نپوش.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nette kleren",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een jas",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Schoenen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sportkleren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Er is geen school op vrijdag wegens een feestdag. Maandag is er wel gewoon school, zoals altijd.»",
+    "question_text_fa": "کدام جمله بر اساس پیام درست است؟",
+    "explanation_fa": "متن می‌گوید جمعه مدرسه نیست، اما دوشنبه مدرسه عادی است.",
+    "grammar_rule_fa": "به تضاد بین «geen school» و «wel gewoon school» توجه کن.",
+    "extra_example_nl": "Er is geen les op donderdag, maar vrijdag is er wel gewoon les.",
+    "extra_example_fa": "پنجشنبه کلاس نیست، اما جمعه کلاس عادی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen vrijdag is vrij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen maandag is vrij.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Beide dagen is er gewoon school.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vrijdag en maandag zijn beide vrij.",
+        "is_correct": false,
+        "feedback_fa": "فقط جمعه تعطیل است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw kind heeft zijn jas op school laten liggen, maar zijn tas heeft hij wel mee naar huis genomen.»",
+    "question_text_fa": "طبق پیام، چه چیزی همراه فرزند به خانه آمده است؟",
+    "explanation_fa": "متن می‌گوید کت در مدرسه جا مانده، اما کیف را با خودش به خانه آورده.",
+    "grammar_rule_fa": "به کلمه‌ی «wel» بعد از رد کردن مورد اول توجه کن.",
+    "extra_example_nl": "Hij heeft zijn boek laten liggen, maar zijn pen heeft hij wel mee.",
+    "extra_example_fa": "کتابش جا مانده، اما خودکارش را همراه آورده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De jas",
+        "is_correct": false,
+        "feedback_fa": "این در مدرسه جا مانده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De tas",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De informatieavond begint niet om 19:00 uur, maar om 19:30 uur, in het schoolgebouw, niet in de sporthal.»",
+    "question_text_fa": "طبق پیام، جلسه‌ی اطلاع‌رسانی کجا برگزار می‌شود؟",
+    "explanation_fa": "متن دو مکان را دارد؛ سالن ورزشی رد شده، مکانِ درست ساختمانِ مدرسه است.",
+    "grammar_rule_fa": "وقتی متن یک مکان را رد می‌کند، مکانِ باقی‌مانده درست است.",
+    "extra_example_nl": "De les is niet in de aula, maar in lokaal 5.",
+    "extra_example_fa": "کلاس در سالن اصلی نیست، در اتاق ۵ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Buiten op het plein",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "In de sporthal",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet in de sporthal»."
+      },
+      {
+        "key": "C",
+        "text_nl": "In het schoolgebouw",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bij de ouders thuis",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Kunt u niet 10 euro, maar 15 euro meegeven voor het museumbezoek? De entree is duurder geworden.»",
+    "question_text_fa": "طبق پیام، چقدر باید برای بازدید موزه پرداخت شود؟",
+    "explanation_fa": "متن می‌گوید ورودیه گران‌تر شده و باید ۱۵ یورو پرداخت شود، نه ۱۰ یورو.",
+    "grammar_rule_fa": "به عددی که بعد از «maar» می‌آید توجه کن.",
+    "extra_example_nl": "Kunt u niet 8, maar 12 euro meegeven? De prijs is gestegen.",
+    "extra_example_fa": "می‌شه نه ۸، بلکه ۱۲ یورو بدهید؟ قیمت بالا رفته.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "20 euro",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "5 euro",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "10 euro",
+        "is_correct": false,
+        "feedback_fa": "این قیمتِ قدیمی بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "15 euro",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «maar 15 euro»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De les Engels is niet meer bij juf Anne, maar bij meester Peter. De tijd blijft hetzelfde: het tweede uur.»",
+    "question_text_fa": "کدام جمله بر اساس پیام درست است؟",
+    "explanation_fa": "متن می‌گوید فقط معلم عوض شده، ساعت همان مانده.",
+    "grammar_rule_fa": "به کلمه‌ی «de tijd blijft hetzelfde» توجه کن.",
+    "extra_example_nl": "De les is niet meer in lokaal 3, maar in lokaal 4. De tijd blijft hetzelfde.",
+    "extra_example_fa": "کلاس دیگر در اتاق ۳ نیست، در اتاق ۴ است. ساعت همان مانده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De leraar is veranderd, de tijd niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De tijd is ook veranderd.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید ساعت همان مانده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De les gaat niet meer door.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De leraar is hetzelfde gebleven.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید معلم عوض شده."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw kind moet morgen een boek meenemen voor de leesles, maar geen kleurpotloden. Die zijn niet meer nodig.»",
+    "question_text_fa": "طبق پیام، فردا چه چیزی نباید آورده شود؟",
+    "explanation_fa": "متن می‌گوید مداد رنگی لازم نیست، فقط کتاب باید آورده شود.",
+    "grammar_rule_fa": "به کلمه‌ی «geen» و «niet meer nodig» توجه کن.",
+    "extra_example_nl": "Uw kind moet een schrift meenemen, maar geen liniaal.",
+    "extra_example_fa": "فرزندتان باید دفتر بیاورد، اما خط‌کش لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een boek",
+        "is_correct": false,
+        "feedback_fa": "این باید آورده شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kleurpotloden",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید لازم نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De sportdag gaat niet door wegens regen. In plaats daarvan is er een gewone lesdag, zoals normaal.»",
+    "question_text_fa": "طبق پیام، به‌جای روز ورزش چه اتفاقی می‌افتد؟",
+    "explanation_fa": "متن می‌گوید به‌جای روز ورزش، یک روزِ کلاسِ عادی برگزار می‌شود.",
+    "grammar_rule_fa": "به کلمه‌ی «in plaats daarvan» توجه کن؛ چیزِ جایگزین را نشان می‌دهد.",
+    "extra_example_nl": "In plaats van de excursie is er een gewone lesdag.",
+    "extra_example_fa": "به‌جای اردو، یک روزِ کلاسِ عادی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets, de kinderen gaan naar huis",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een extra vrije dag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een gewone lesdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een andere sportdag morgen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Alle kinderen krijgen morgen een rapport mee naar huis, behalve groep 1 en 2. Zij krijgen het volgende week.»",
+    "question_text_fa": "طبق پیام، کدام گروه‌ها فردا کارنامه نمی‌گیرند؟",
+    "explanation_fa": "متن می‌گوید همه فردا کارنامه می‌گیرند، جز گروه ۱ و ۲ که هفته‌ی بعد می‌گیرند.",
+    "grammar_rule_fa": "کلمه‌ی «behalve» استثنا را نشان می‌دهد.",
+    "extra_example_nl": "Alle kinderen krijgen een cadeau, behalve groep 8. Zij krijgen het morgen.",
+    "extra_example_fa": "همه هدیه می‌گیرند، جز گروه ۸ که فردا می‌گیرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niemand krijgt een rapport.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen groep 1 en 2 krijgen het morgen.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alle groepen krijgen het morgen.",
+        "is_correct": false,
+        "feedback_fa": "گروه ۱ و ۲ هفته‌ی بعد می‌گیرند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Groep 1 en 2 krijgen het volgende week.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De school is maandag niet gesloten, zoals eerst gezegd. Alleen de gymzaal is die dag dicht wegens onderhoud.»",
+    "question_text_fa": "طبق پیام، دوشنبه چه چیزی بسته است؟",
+    "explanation_fa": "متن می‌گوید کل مدرسه بسته نیست، فقط سالن ورزش به‌خاطر تعمیرات بسته است.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen» توجه کن؛ فقط همان بخش استثنا است.",
+    "extra_example_nl": "Alleen de kantine is die dag dicht wegens schoonmaak.",
+    "extra_example_fa": "فقط سلف‌سرویس آن روز به‌خاطر نظافت بسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen de gymzaal",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen de bibliotheek",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niets is gesloten",
+        "is_correct": false,
+        "feedback_fa": "سالن ورزش بسته است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De hele school",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید مدرسه بسته نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Kunt u niet vandaag, maar morgen langskomen voor een kort gesprek over uw kind? Vandaag is de juf er niet.»",
+    "question_text_fa": "کاربر طبق پیام چه زمانی باید بیاید؟",
+    "explanation_fa": "متن می‌گوید امروز معلم نیست، پس باید فردا آمد.",
+    "grammar_rule_fa": "به دلیلی که بعد از توضیح می‌آید توجه کن؛ نشان می‌دهد چرا امروز نمی‌شود.",
+    "extra_example_nl": "Kunt u niet vandaag, maar morgen bellen? Vandaag ben ik er niet.",
+    "extra_example_fa": "امروز نه، فردا زنگ بزن. امروز نیستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vandaag",
+        "is_correct": false,
+        "feedback_fa": "امروز معلم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Volgende week",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nooit",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De inschrijving voor de zwemles sluit niet vrijdag, maar is verlengd tot maandag wegens een technisch probleem.»",
+    "question_text_fa": "طبق پیام، ثبت‌نام کلاس شنا اکنون تا چه روزی باز است؟",
+    "explanation_fa": "متن می‌گوید مهلت اولیه جمعه بود، اما به‌خاطر مشکل فنی تا دوشنبه تمدید شده.",
+    "grammar_rule_fa": "زمانِ جدید بعد از دلیلِ ذکرشده می‌آید.",
+    "extra_example_nl": "De inschrijving is verlengd tot woensdag wegens een storing.",
+    "extra_example_fa": "ثبت‌نام به‌خاطر خرابی تا چهارشنبه تمدید شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zaterdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zondag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Maandag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید تمدید تا دوشنبه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این مهلتِ قدیمی بود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw kind heeft morgen geen toets voor rekenen, zoals eerst gepland. De toets is verzet naar volgende week maandag.»",
+    "question_text_fa": "طبق پیام، امتحان ریاضی چه زمانی برگزار می‌شود؟",
+    "explanation_fa": "متن می‌گوید امتحان فردا نیست، به دوشنبه‌ی هفته‌ی بعد منتقل شده.",
+    "grammar_rule_fa": "زمانِ جدید بعد از «verzet naar» می‌آید.",
+    "extra_example_nl": "De toets is verzet naar volgende week vrijdag.",
+    "extra_example_fa": "امتحان به جمعه‌ی هفته‌ی بعد منتقل شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vandaag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nooit",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Morgen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید فردا نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volgende week maandag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De schooldeur gaat niet om 8:00 uur open, maar om 8:15 uur. Kom niet te vroeg, want dan staat u buiten te wachten.»",
+    "question_text_fa": "کاربر طبق پیام چه کاری نباید انجام دهد؟",
+    "explanation_fa": "متن می‌خواهد کاربر زودتر از موعد نیاید چون آن‌جا منتظر می‌ماند.",
+    "grammar_rule_fa": "به کلمه‌ی «niet te vroeg» توجه کن.",
+    "extra_example_nl": "Kom niet te laat, want dan mist u de trein.",
+    "extra_example_fa": "دیر نیا چون قطار رو از دست می‌دی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Te vroeg komen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید نباید زود بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om 8:15 uur komen",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ درست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bellen naar school",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Te laat komen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Denkt u aan de betaling voor het schoolkamp? Niet 50 euro, maar 45 euro, want er is korting dit jaar.»",
+    "question_text_fa": "طبق پیام، امسال چقدر باید برای اردو پرداخت شود؟",
+    "explanation_fa": "متن می‌گوید امسال به‌خاطر تخفیف، ۴۵ یورو باید پرداخت شود، نه ۵۰.",
+    "grammar_rule_fa": "به عددی که بعد از «maar» می‌آید توجه کن.",
+    "extra_example_nl": "Betaal niet 30 euro, maar 25 euro wegens korting.",
+    "extra_example_fa": "به‌خاطر تخفیف نه ۳۰، بلکه ۲۵ یورو بپرداز.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "40 euro",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "45 euro",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «maar 45 euro»."
+      },
+      {
+        "key": "C",
+        "text_nl": "50 euro",
+        "is_correct": false,
+        "feedback_fa": "این قیمتِ قدیمی بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "55 euro",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Er is dit jaar geen groot kerstfeest, maar wel een kleine viering in de klas, op de laatste schooldag.»",
+    "question_text_fa": "کدام جمله بر اساس پیام درست است؟",
+    "explanation_fa": "متن می‌گوید جشن بزرگ نیست، اما یک جشن کوچک در کلاس هست.",
+    "grammar_rule_fa": "به کلمه‌ی «geen … maar wel» توجه کن؛ نشان می‌دهد چیز کوچک‌تری جایگزین شده.",
+    "extra_example_nl": "Er is geen grote reis, maar wel een kort uitje.",
+    "extra_example_fa": "سفر بزرگ نیست، اما یک گردشِ کوتاه هست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het feest is verplaatst naar januari.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er is helemaal geen kerstfeest.",
+        "is_correct": false,
+        "feedback_fa": "یک جشنِ کوچک هست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is een kleine viering in de klas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er is een groot feest, zoals altijd.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw kind mag morgen verkleed naar school komen, maar geen echte wapens of schmink met glitters.»",
+    "question_text_fa": "طبق پیام، فردا چه چیزی مجاز نیست؟",
+    "explanation_fa": "متن می‌گوید لباس مبدل مجاز است، اما سلاح واقعی یا آرایش برق‌دار ممنوع است.",
+    "grammar_rule_fa": "به کلمه‌ی «geen» بعد از رد کردن مورد اول توجه کن.",
+    "extra_example_nl": "Uw kind mag verkleed komen, maar geen nepbloed gebruiken.",
+    "extra_example_fa": "می‌تواند لباس مبدل بپوشد، اما خون مصنوعی ممنوع است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Normale kleren dragen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een tas meenemen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Verkleed komen",
+        "is_correct": false,
+        "feedback_fa": "این مجاز است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Echte wapens of glitterschmink",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن ممنوع می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De les van juf Anne begint vandaag pas om 10:00 uur, niet om 8:30 uur. De klas van meester Tom begint wel gewoon op tijd.»",
+    "question_text_fa": "طبق پیام، کلاس آقای تام امروز چه ساعتی شروع می‌شود؟",
+    "explanation_fa": "متن می‌گوید فقط کلاس خانم آنه دیرتر شروع می‌شود؛ کلاس آقای تام طبق معمول شروع می‌شود.",
+    "grammar_rule_fa": "به کلمه‌ی «wel gewoon op tijd» توجه کن؛ نشان می‌دهد کلاسِ دیگر تغییری نکرده.",
+    "extra_example_nl": "De klas van juf Sara begint wel gewoon op tijd, om 9:00 uur.",
+    "extra_example_fa": "کلاس خانم سارا طبق معمول ساعت ۹:۰۰ شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "8:30 uur, zoals normaal",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "9:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De les gaat niet door",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "10:00 uur, net als juf Anne",
+        "is_correct": false,
+        "feedback_fa": "فقط کلاس خانم آنه دیر شروع می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "school_message",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Neem morgen een paraplu mee voor de schoolreis, geen zonnebrandcrème. Het wordt bewolkt en het gaat regenen.»",
+    "question_text_fa": "طبق پیام، فردا چه چیزی نباید آورده شود؟",
+    "explanation_fa": "متن می‌گوید هوا ابری و بارانی می‌شود؛ پس ضدآفتاب لازم نیست.",
+    "grammar_rule_fa": "به کلمه‌ی «geen» بعد از درخواستِ اول توجه کن.",
+    "extra_example_nl": "Neem een jas mee, geen korte broek. Het wordt koud.",
+    "extra_example_fa": "کتت رو بیار، شلوارک نه. هوا سرد می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een paraplu",
+        "is_correct": false,
+        "feedback_fa": "این باید آورده شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zonnebrandcrème",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید لازم نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Beide dingen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  }
+]

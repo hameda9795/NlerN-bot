@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Uw bestelling is verzonden. Het pakket komt morgen niet, want er is een probleem bij de bezorger. U ontvangt het pakket over twee dagen.»",
+    "question_text_fa": "طبق ایمیل، بسته چند روز دیگر می‌رسد؟",
+    "explanation_fa": "متن می‌گوید فردا نمی‌رسد چون مشکلی پیش آمده؛ بسته ظرف دو روز می‌رسد.",
+    "grammar_rule_fa": "به زمانِ واقعی که بعد از رد کردن زمانِ اول می‌آید توجه کن.",
+    "extra_example_nl": "Het pakket komt niet vandaag, maar over drie dagen.",
+    "extra_example_fa": "بسته امروز نمی‌رسد، بلکه ظرف سه روز.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Over twee dagen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Over een week",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Morgen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید فردا نمی‌رسد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Je bent uitgenodigd voor het verjaardagsfeest. Het feest is niet op zaterdag, zoals eerst gepland, maar op zondag om 15:00 uur.»",
+    "question_text_fa": "طبق ایمیل، مهمانی الان چه روزی است؟",
+    "explanation_fa": "متن می‌گوید مهمانی از شنبه به یکشنبه منتقل شده.",
+    "grammar_rule_fa": "زمانِ اولیه فقط برای مقایسه آمده؛ زمانِ جدید درست است.",
+    "extra_example_nl": "De les is niet op maandag, zoals eerst gepland, maar op dinsdag.",
+    "extra_example_fa": "کلاس دیگر دوشنبه نیست؛ به سه‌شنبه منتقل شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zaterdag",
+        "is_correct": false,
+        "feedback_fa": "این روزِ قدیمی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zondag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «maar op zondag»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Maandag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Uw afspraak van donderdag is niet geannuleerd. Alleen de tijd is veranderd: het is nu om 11:00 uur in plaats van 10:00 uur.»",
+    "question_text_fa": "کدام جمله بر اساس ایمیل درست است؟",
+    "explanation_fa": "متن می‌گوید قرار لغو نشده، فقط زمان آن به ۱۱:۰۰ تغییر کرده.",
+    "grammar_rule_fa": "به کلمه‌ی «niet» در ابتدای جمله توجه کن؛ این بخش انکار عملِ اصلی است.",
+    "extra_example_nl": "Uw bestelling is niet geannuleerd. Alleen het adres is veranderd.",
+    "extra_example_fa": "سفارش لغو نشده، فقط آدرس تغییر کرده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Er is geen nieuwe tijd.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De afspraak is geannuleerd.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet geannuleerd»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen de tijd is veranderd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De afspraak is verplaatst naar een andere dag.",
+        "is_correct": false,
+        "feedback_fa": "فقط ساعت تغییر کرده، نه روز."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «De vergadering van morgen gaat niet door in zaal 1. Ze is verplaatst naar zaal 3 en begint om 14:00 uur in plaats van 13:00 uur.»",
+    "question_text_fa": "طبق ایمیل، جلسه فردا در کدام سالن است؟",
+    "explanation_fa": "متن می‌گوید جلسه به سالن ۳ منتقل شده؛ سالن ۱ فقط رد شده.",
+    "grammar_rule_fa": "به مکانی که بعد از «verplaatst naar» می‌آید توجه کن.",
+    "extra_example_nl": "De les is niet in lokaal 2, ze is verplaatst naar lokaal 5.",
+    "extra_example_fa": "کلاس دیگر در اتاق ۲ نیست؛ به اتاق ۵ منتقل شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zaal 4",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zaal 1",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید جلسه اینجا برگزار نمی‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zaal 2",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zaal 3",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «De school is morgen niet gesloten wegens een studiedag, zoals eerst gepland. De studiedag is verzet naar volgende week vrijdag.»",
+    "question_text_fa": "کدام جمله بر اساس ایمیل درست است؟",
+    "explanation_fa": "متن می‌گوید فردا مدرسه باز است؛ روز آموزشی به جمعه‌ی هفته‌ی بعد منتقل شده.",
+    "grammar_rule_fa": "به کلمه‌ی «niet» در ابتدای جمله دقت کن؛ این نشان می‌دهد چیزی که انتظار می‌رفت اتفاق نمی‌افتد.",
+    "extra_example_nl": "De winkel is vandaag niet open, zoals eerst gepland.",
+    "extra_example_fa": "فروشگاه امروز باز نیست، برخلاف برنامه‌ی قبلی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De studiedag is volgende week vrijdag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De school is morgen om 12:00 uur gesloten.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is geen studiedag meer.",
+        "is_correct": false,
+        "feedback_fa": "فقط زمان تغییر کرده، نه حذف شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De school is morgen gesloten.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید مدرسه فردا بسته نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Uw nieuwe paspoort is klaar. U kunt het niet vandaag ophalen, want de balie is dicht. Kom morgen tussen 9:00 en 12:00 uur.»",
+    "question_text_fa": "طبق ایمیل، کاربر چه زمانی باید پاسپورت را بگیرد؟",
+    "explanation_fa": "متن می‌گوید امروز نمی‌شود چون باجه بسته است؛ باید فردا صبح مراجعه شود.",
+    "grammar_rule_fa": "به زمانی که بعد از رد کردن زمانِ اول می‌آید توجه کن.",
+    "extra_example_nl": "U kunt niet vandaag komen, want de dokter is er niet. Kom morgen om 10:00 uur.",
+    "extra_example_fa": "امروز نمی‌شود بیایی چون دکتر نیست. فردا ساعت ۱۰:۰۰ بیا.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vandaag, voor 12:00 uur",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید امروز باجه بسته است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen, tussen 9:00 en 12:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Volgende week",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vandaag na 12:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Uw pakket is niet bezorgd, want u was niet thuis. Probeer het niet morgen, maar wacht op een nieuw bericht met een nieuwe datum.»",
+    "question_text_fa": "کاربر طبق ایمیل باید چه کاری انجام دهد؟",
+    "explanation_fa": "متن می‌گوید نباید فردا دوباره امتحان کرد، بلکه باید منتظر پیام جدید بماند.",
+    "grammar_rule_fa": "به کلمه‌ی «niet» قبل از «morgen» دقت کن؛ این گزینه رد شده است.",
+    "extra_example_nl": "Bel niet vandaag, maar wacht op een nieuw bericht.",
+    "extra_example_fa": "امروز زنگ نزن، منتظر پیام جدید بمان.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Naar de winkel gaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen opnieuw proberen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet morgen»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wachten op een nieuw bericht",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het geld terugvragen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «De huur gaat volgend jaar niet met 20 euro omhoog, zoals eerst gezegd. Door een nieuwe regel wordt het maar 10 euro.»",
+    "question_text_fa": "طبق ایمیل، اجاره سال بعد چقدر بیشتر می‌شود؟",
+    "explanation_fa": "متن می‌گوید ابتدا ۲۰ یورو گفته شده بود، اما به‌خاطر قانون جدید فقط ۱۰ یورو می‌شود.",
+    "grammar_rule_fa": "عدد نهایی معمولاً بعد از توضیح یا دلیل می‌آید.",
+    "extra_example_nl": "De prijs stijgt niet met 5 euro, maar met 3 euro door een nieuwe regel.",
+    "extra_example_fa": "قیمت نه ۵ یورو بلکه ۳ یورو به‌خاطر قانون جدید افزایش می‌یابد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "15 euro",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "20 euro",
+        "is_correct": false,
+        "feedback_fa": "این عدد اولیه بود، الان دیگر معتبر نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "5 euro",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "10 euro",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «maar 10 euro»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Ik ben niet ziek, maar mijn kind is ziek. Ik kom daarom vandaag niet naar kantoor. Morgen ben ik er weer gewoon.»",
+    "question_text_fa": "طبق ایمیل، چرا فرستنده امروز نمی‌آید؟",
+    "explanation_fa": "متن می‌گوید خودش مریض نیست، اما فرزندش مریض است؛ به همین دلیل نمی‌آید.",
+    "grammar_rule_fa": "به کلمه‌ی «niet» در ابتدای جمله دقت کن؛ دلیلِ واقعی بعد از آن می‌آید.",
+    "extra_example_nl": "Ik ben niet moe, maar mijn dochter is moe.",
+    "extra_example_fa": "من خسته نیستم، اما دخترم خسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zijn/haar kind is ziek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij/zij is op vakantie.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het kantoor is gesloten.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij/zij is zelf ziek.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «ik ben niet ziek»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Denkt u aan uw afspraak morgen? Niet om 09:00 uur, zoals in de vorige e-mail stond, maar om 09:30 uur.»",
+    "question_text_fa": "طبق ایمیل، زمانِ صحیحِ قرار چیست؟",
+    "explanation_fa": "متن می‌گوید در ایمیل قبلی ۰۹:۰۰ نوشته شده بود، اما زمانِ درست ۰۹:۳۰ است.",
+    "grammar_rule_fa": "به زمانی که بعد از «maar» می‌آید توجه کن؛ آن زمانِ نهایی و درست است.",
+    "extra_example_nl": "Niet om 14:00 uur, zoals eerst gezegd, maar om 14:30 uur.",
+    "extra_example_fa": "نه ساعت ۱۴:۰۰ که قبلاً گفته شده بود، بلکه ۱۴:۳۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "09:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ ایمیل قبلی بود، دیگر درست نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "09:30 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «maar om 09:30 uur»."
+      },
+      {
+        "key": "C",
+        "text_nl": "10:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "08:30 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Op vrijdag is er een sportdag voor groep 5 en 6. Groep 7 en 8 hebben die dag gewoon normaal les.»",
+    "question_text_fa": "کدام گروه‌ها روز جمعه کلاس عادی دارند؟",
+    "explanation_fa": "متن می‌گوید فقط گروه‌های ۵ و ۶ روز ورزش دارند؛ گروه‌های ۷ و ۸ کلاس عادی دارند.",
+    "grammar_rule_fa": "به تضاد بین دو گروه در متن دقت کن.",
+    "extra_example_nl": "Groep 3 en 4 hebben een uitje, groep 1 en 2 hebben gewoon les.",
+    "extra_example_fa": "گروه‌های ۳ و ۴ گردش دارند، گروه‌های ۱ و ۲ کلاس عادی دارند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen enkele groep",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Groep 5 en 6",
+        "is_correct": false,
+        "feedback_fa": "این گروه‌ها روز ورزش دارند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Groep 7 en 8",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alle groepen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «De winkel is op zondag gesloten. Op maandag is de winkel ook dicht, wegens een feestdag. Vanaf dinsdag is alles weer normaal.»",
+    "question_text_fa": "طبق ایمیل، فروشگاه از چه روزی دوباره عادی باز است؟",
+    "explanation_fa": "متن می‌گوید یکشنبه و دوشنبه بسته است؛ از سه‌شنبه دوباره عادی است.",
+    "grammar_rule_fa": "به کلمه‌ی «vanaf» توجه کن؛ زمانِ بعد از آن نقطه‌ی شروعِ حالتِ جدید است.",
+    "extra_example_nl": "Vanaf woensdag is de bibliotheek weer normaal open.",
+    "extra_example_fa": "کتابخانه از چهارشنبه دوباره عادی باز است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Woensdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zondag",
+        "is_correct": false,
+        "feedback_fa": "این روز بسته است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Maandag",
+        "is_correct": false,
+        "feedback_fa": "این روز هم بسته است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dinsdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «vanaf dinsdag»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «U moet uw formulier niet voor vrijdag insturen, zoals eerst gezegd. Door een wijziging heeft u nu tot maandag de tijd.»",
+    "question_text_fa": "کاربر طبق ایمیل تا چه زمانی وقت دارد فرم را ارسال کند؟",
+    "explanation_fa": "متن می‌گوید مهلت قبلی جمعه بود، اما به‌خاطر تغییری، الان تا دوشنبه وقت هست.",
+    "grammar_rule_fa": "زمانِ جدید که بعد از توضیحِ تغییر می‌آید، درست است.",
+    "extra_example_nl": "U heeft niet tot woensdag de tijd, maar tot vrijdag door een wijziging.",
+    "extra_example_fa": "دیگر تا چهارشنبه نه، بلکه تا جمعه به‌خاطر تغییری وقت داری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Maandag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «nu tot maandag»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این مهلتِ قدیمی بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zaterdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zondag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Het kantoor is deze week niet gesloten wegens verbouwing. Alleen de derde verdieping is dicht; de rest is gewoon open.»",
+    "question_text_fa": "کدام بخش دفتر بسته است؟",
+    "explanation_fa": "متن می‌گوید کل دفتر بسته نیست، فقط طبقه‌ی سوم بسته است.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen» توجه کن؛ فقط همان بخش استثنا است.",
+    "extra_example_nl": "Alleen de tweede verdieping is gesloten wegens een storing.",
+    "extra_example_fa": "فقط طبقه‌ی دوم به‌خاطر خرابی بسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen de eerste verdieping",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen de derde verdieping",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niets is gesloten",
+        "is_correct": false,
+        "feedback_fa": "طبقه‌ی سوم بسته است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het hele kantoor",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید کل دفتر بسته نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Er is 20 procent korting op jassen. Op schoenen is er geen korting deze week, maar volgende week wel 10 procent.»",
+    "question_text_fa": "طبق ایمیل، این هفته چه چیزی تخفیف دارد؟",
+    "explanation_fa": "متن می‌گوید این هفته فقط کت تخفیف دارد؛ کفش تخفیف ندارد.",
+    "grammar_rule_fa": "به کلمه‌ی «deze week» و «volgende week» دقت کن تا زمانِ درست را پیدا کنی.",
+    "extra_example_nl": "Deze week is er korting op broeken, volgende week op truien.",
+    "extra_example_fa": "این هفته شلوار تخفیف دارد، هفته‌ی بعد بلوز.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Schoenen",
+        "is_correct": false,
+        "feedback_fa": "کفش این هفته تخفیف ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jassen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «De afspraak is niet op kantoor en ook niet bij u thuis. We komen samen bij het gemeentehuis om 10:00 uur.»",
+    "question_text_fa": "طبق ایمیل، قرار کجا برگزار می‌شود؟",
+    "explanation_fa": "متن دو مکان را رد می‌کند (دفتر و خانه)؛ مکانِ درست شهرداری است.",
+    "grammar_rule_fa": "وقتی متن چند مکان را رد می‌کند، مکانِ باقی‌مانده درست است.",
+    "extra_example_nl": "De les is niet in lokaal 1 en ook niet in lokaal 2. We zijn in de aula.",
+    "extra_example_fa": "کلاس نه در اتاق ۱ و نه در اتاق ۲؛ در سالن اصلی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In het ziekenhuis",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op kantoor",
+        "is_correct": false,
+        "feedback_fa": "این مکان رد شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij u thuis",
+        "is_correct": false,
+        "feedback_fa": "این مکان هم رد شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bij het gemeentehuis",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Kunt u uw kind niet om 15:00 uur ophalen, maar om 12:00 uur? De school gaat vandaag eerder dicht wegens het weer.»",
+    "question_text_fa": "طبق ایمیل، امروز چرا مدرسه زودتر تعطیل می‌شود؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر وضعیت آب‌وهوا مدرسه زودتر تعطیل می‌شود.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از «wegens» می‌آید.",
+    "extra_example_nl": "De bus rijdt vandaag niet wegens het weer.",
+    "extra_example_fa": "اتوبوس امروز به‌خاطر وضعیت هوا حرکت نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wegens het weer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wegens een studiedag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wegens ziekte",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wegens een feestdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Uw testresultaten zijn klaar en zijn goed. U hoeft niet te bellen. Alleen als u nog klachten heeft, maakt u een nieuwe afspraak.»",
+    "question_text_fa": "کاربر طبق ایمیل چه زمانی باید قرار جدید بگیرد؟",
+    "explanation_fa": "متن می‌گوید فقط اگر هنوز علائمی داشت، باید قرار جدید بگیرد؛ در غیر این صورت لازم نیست.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen als» توجه کن؛ این شرط را نشان می‌دهد.",
+    "extra_example_nl": "Alleen als het niet beter wordt, belt u de praktijk.",
+    "extra_example_fa": "فقط اگر بهتر نشد، با مطب تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Altijd, ook al voelt hij/zij zich goed.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید لازم نیست همیشه بگیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen als er nog klachten zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nooit, ook niet bij klachten.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Morgen, sowieso.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Gefeliciteerd! U bent uitgenodigd voor een gesprek, niet volgende week, maar deze week donderdag om 11:00 uur.»",
+    "question_text_fa": "طبق ایمیل، مصاحبه چه روزی است؟",
+    "explanation_fa": "متن می‌گوید هفته‌ی بعد نیست، بلکه پنجشنبه‌ی همین هفته است.",
+    "grammar_rule_fa": "به زمانی که بعد از «maar» می‌آید توجه کن.",
+    "extra_example_nl": "Het gesprek is niet volgende maand, maar deze maand vrijdag.",
+    "extra_example_fa": "مصاحبه ماه بعد نیست، بلکه جمعه‌ی همین ماه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volgende maand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Volgende week",
+        "is_correct": false,
+        "feedback_fa": "این زمان رد شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze week donderdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze week vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Uw geld is niet teruggestort op uw bankrekening. Wij hebben u in plaats daarvan een cadeaubon van 15 euro gestuurd.»",
+    "question_text_fa": "طبق ایمیل، به‌جای پول بازگردانده‌شده چه چیزی داده شده؟",
+    "explanation_fa": "متن می‌گوید پول به حساب برگردانده نشده، بلکه یک کارت هدیه ۱۵ یورویی فرستاده شده.",
+    "grammar_rule_fa": "کلمه‌ی «in plaats daarvan» چیزِ جایگزین را نشان می‌دهد.",
+    "extra_example_nl": "In plaats van een nieuw product hebben we uw geld teruggestort.",
+    "extra_example_fa": "به‌جای محصول جدید، پولتان را برگردانده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een nieuw product",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Niets",
+        "is_correct": false,
+        "feedback_fa": "کارت هدیه فرستاده شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geld op de bankrekening",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید پول برگردانده نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een cadeaubon van 15 euro",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Het grofvuil wordt deze week niet op woensdag opgehaald, zoals normaal. Wegens een feestdag komt de vrachtwagen op donderdag.»",
+    "question_text_fa": "طبق ایمیل، این هفته زباله‌ی بزرگ چه روزی جمع‌آوری می‌شود؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر تعطیلی، امسال به جای چهارشنبه، پنجشنبه جمع‌آوری می‌شود.",
+    "grammar_rule_fa": "زمانِ استثنایی که به‌خاطر دلیل خاصی آمده، درست است.",
+    "extra_example_nl": "De bus rijdt deze week niet op maandag. Wegens werkzaamheden rijdt hij op dinsdag.",
+    "extra_example_fa": "اتوبوس این هفته دوشنبه حرکت نمی‌کند؛ به‌خاطر کار عمرانی سه‌شنبه حرکت می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Donderdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zaterdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Woensdag",
+        "is_correct": false,
+        "feedback_fa": "این روزِ معمول است، نه این هفته."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «De ouderavond gaat niet door op dinsdag. Hij is niet geannuleerd, maar verzet naar woensdag om dezelfde tijd.»",
+    "question_text_fa": "کدام جمله بر اساس ایمیل درست است؟",
+    "explanation_fa": "متن می‌گوید جلسه لغو نشده، فقط به چهارشنبه منتقل شده، با همان ساعت.",
+    "grammar_rule_fa": "به کلمه‌ی «niet geannuleerd, maar» توجه کن؛ این نشان می‌دهد فقط تغییرِ کوچکی رخ داده.",
+    "extra_example_nl": "De les is niet afgelast, maar verplaatst naar een ander lokaal.",
+    "extra_example_fa": "کلاس لغو نشده، فقط به اتاق دیگری منتقل شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De ouderavond is geannuleerd.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید لغو نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De ouderavond is nu op woensdag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De tijd is ook veranderd.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید ساعت همان است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De ouderavond is op donderdag.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «U kunt vanaf nu thuiswerken, maar niet op maandag en dinsdag. Op de andere dagen mag het wel.»",
+    "question_text_fa": "طبق ایمیل، کدام روزها نمی‌شود دورکاری کرد؟",
+    "explanation_fa": "متن می‌گوید فقط دوشنبه و سه‌شنبه نمی‌شود؛ روزهای دیگر مجاز است.",
+    "grammar_rule_fa": "به کلمه‌ی «maar niet» توجه کن؛ این روزهای استثنا را نشان می‌دهد.",
+    "extra_example_nl": "U mag hier fietsen, maar niet op zaterdag en zondag.",
+    "extra_example_fa": "این‌جا می‌شود دوچرخه سوار شد، جز شنبه و یکشنبه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen enkele dag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Woensdag en donderdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Maandag en dinsdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن دقیقاً همین دو روز را رد می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alle dagen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Uw afspraak bij de tandarts is niet om 10:30 uur. Door een wijziging is het nu om 11:15 uur, in dezelfde kamer.»",
+    "question_text_fa": "طبق ایمیل، زمانِ جدید قرار دندانپزشک چیست؟",
+    "explanation_fa": "متن می‌گوید زمانِ قبلی ۱۰:۳۰ بود، اما به‌خاطر تغییری الان ۱۱:۱۵ است.",
+    "grammar_rule_fa": "زمانِ نهایی بعد از عبارتِ «door een wijziging» می‌آید.",
+    "extra_example_nl": "Door een wijziging is de les nu om 13:45 uur, niet om 13:00 uur.",
+    "extra_example_fa": "به‌خاطر تغییری، کلاس الان ۱۳:۴۵ است، نه ۱۳:۰۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "10:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "10:30 uur",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ قدیمی بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "11:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "11:15 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «nu om 11:15 uur»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Geef uw adreswijziging niet telefonisch door, maar alleen online of bij de balie. Bellen werkt momenteel niet.»",
+    "question_text_fa": "طبق ایمیل، چگونه نمی‌شود تغییر آدرس را اطلاع داد؟",
+    "explanation_fa": "متن می‌گوید فقط آنلاین یا حضوری ممکن است؛ تلفنی امکان ندارد.",
+    "grammar_rule_fa": "به کلمه‌ی «niet … maar alleen» توجه کن؛ راهِ رد شده مشخص است.",
+    "extra_example_nl": "Betaal niet contant, maar alleen met pin of online.",
+    "extra_example_fa": "نقدی پرداخت نکن، فقط با کارت یا آنلاین.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Telefonisch",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید تلفنی کار نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij de balie",
+        "is_correct": false,
+        "feedback_fa": "این راه هم مجاز است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Per post",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Online",
+        "is_correct": false,
+        "feedback_fa": "این راه مجاز است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «De levering komt niet morgen, maar over drie dagen. Dit komt door drukte bij de bezorgdienst.»",
+    "question_text_fa": "طبق ایمیل، دلیل تأخیر تحویل چیست؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر شلوغی سرویس پستی، تحویل دیرتر انجام می‌شود.",
+    "grammar_rule_fa": "دلیل معمولاً بعد از «dit komt door» می‌آید.",
+    "extra_example_nl": "De trein komt later door drukte op het spoor.",
+    "extra_example_fa": "قطار به‌خاطر شلوغی خط، دیرتر می‌رسد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het weer",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Drukte bij de bezorgdienst",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دلیلی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een fout in het adres",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen betaling",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «De training begint niet om 09:00 uur, maar om 09:30 uur. Ze duurt wel nog steeds tot 12:00 uur.»",
+    "question_text_fa": "طبق ایمیل، آموزش چند ساعت طول می‌کشد؟",
+    "explanation_fa": "متن می‌گوید شروع به ۰۹:۳۰ تغییر کرده، اما پایان همان ۱۲:۰۰ مانده؛ پس ۲ ساعت و نیم طول می‌کشد.",
+    "grammar_rule_fa": "برای فهمیدن مدت‌زمان، زمانِ شروع و پایان را با هم مقایسه کن.",
+    "extra_example_nl": "De les duurt van 9:30 tot 12:00 uur, dat is twee en een half uur.",
+    "extra_example_fa": "کلاس از ۹:۳۰ تا ۱۲:۰۰ یعنی دو ساعت و نیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Drie en een half uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Twee uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Twee en een half uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ از 09:30 تا 12:00 دو ساعت و نیم است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Drie uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Er is dit weekend geen huiswerk voor rekenen, maar wel voor taal. Lever het taalwerk maandag in.»",
+    "question_text_fa": "طبق ایمیل، برای چه درسی این آخر هفته تکلیف هست؟",
+    "explanation_fa": "متن می‌گوید تکلیف ریاضی نیست، اما تکلیف زبان هست.",
+    "grammar_rule_fa": "به کلمه‌ی «maar wel» توجه کن؛ این نشان می‌دهد بخشِ بعدی برخلاف بخشِ قبلی است.",
+    "extra_example_nl": "Er is geen toets voor geschiedenis, maar wel voor aardrijkskunde.",
+    "extra_example_fa": "امتحان تاریخ نیست، اما امتحان جغرافی هست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Beide vakken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geen enkel vak",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Rekenen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید تکلیف ریاضی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Taal",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «Uw verzekering stopt niet aan het einde van deze maand, zoals u eerder hoorde. Door een nieuwe regel loopt hij door tot het einde van het jaar.»",
+    "question_text_fa": "طبق ایمیل، بیمه واقعاً چه زمانی تمام می‌شود؟",
+    "explanation_fa": "متن می‌گوید ابتدا پایان این ماه گفته شده بود، اما به‌خاطر قانون جدید، تا پایان سال ادامه دارد.",
+    "grammar_rule_fa": "زمانِ نهایی بعد از توضیحِ تغییر می‌آید.",
+    "extra_example_nl": "Het contract stopt niet volgende maand, maar loopt door tot volgend jaar.",
+    "extra_example_fa": "قرارداد ماه بعد تمام نمی‌شود، بلکه تا سال بعد ادامه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Einde van dit jaar",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «tot het einde van het jaar»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Volgende maand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Einde van deze maand",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ اشتباهِ قبلی بود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "simple_email",
+    "life_context": "appointment",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "E-mail: «De dokter kan u dit keer niet ontvangen. U hoeft geen nieuwe afspraak te maken, want de assistente belt u zelf terug.»",
+    "question_text_fa": "کاربر طبق ایمیل باید چه کاری انجام دهد؟",
+    "explanation_fa": "متن می‌گوید کاربر لازم نیست خودش قرار جدید بگیرد، چون دستیار خودش تماس می‌گیرد.",
+    "grammar_rule_fa": "به کلمه‌ی «hoeft niet» توجه کن؛ این نشان می‌دهد آن کار لازم نیست.",
+    "extra_example_nl": "U hoeft niet te bellen, want wij sturen u zelf een bericht.",
+    "extra_example_fa": "لازم نیست زنگ بزنی، خودمان پیام می‌فرستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zelf een nieuwe afspraak maken",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید لازم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wachten tot de assistente terugbelt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Naar het ziekenhuis gaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De oude afspraak houden",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  }
+]

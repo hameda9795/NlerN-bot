@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_ik_form",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik werkt vandaag.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "چون فاعل ik است، فعل در زمان حال بدون -t می‌آید؛ شکل درست «werk» است.",
+    "correction_rule_fa": "با ik در زمان حال، فعل معمولاً بدون -t می‌آید.",
+    "extra_example_nl": "Ik woon in Utrecht.",
+    "extra_example_fa": "من در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ik فعل در زمان حال معمولاً -t نمی‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik werk vandaag.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik werken vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik werk vandaag.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik gewerkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik werk vandaag.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_ik_form",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik woont in Utrecht.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "با ik فعل «wonen» به شکل «woon» می‌آید و -t نمی‌گیرد.",
+    "correction_rule_fa": "با ik در زمان حال، فعل معمولاً بدون -t می‌آید.",
+    "extra_example_nl": "Ik woon in Utrecht.",
+    "extra_example_fa": "من در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik woont in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik woon in Utrecht.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik woon in Utrecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ik فعل در زمان حال معمولاً -t نمی‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wonen in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik woon in Utrecht.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik gewoond in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik woon in Utrecht.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_ik_form",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik komt morgen.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با ik باید بگوییم «kom»، نه «komt» یا «komen».",
+    "correction_rule_fa": "با ik در زمان حال، فعل معمولاً بدون -t می‌آید.",
+    "extra_example_nl": "Ik woon in Utrecht.",
+    "extra_example_fa": "من در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik komt morgen.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik kom morgen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik komen morgen.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik kom morgen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ik فعل در زمان حال معمولاً -t نمی‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik gekomen morgen.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik kom morgen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_ik_form",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik gaat naar school.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "صرف درست فعل gaan با ik در زمان حال «ga» است.",
+    "correction_rule_fa": "با ik در زمان حال، فعل معمولاً بدون -t می‌آید.",
+    "extra_example_nl": "Ik woon in Utrecht.",
+    "extra_example_fa": "من در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik gaat naar school.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik ga naar school.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik gaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik ga naar school.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik gegaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik ga naar school.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ga naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ik فعل در زمان حال معمولاً -t نمی‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_ik_form",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik leert Nederlands.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "با ik فعل «leren» به صورت «leer» می‌آید و -t نمی‌گیرد.",
+    "correction_rule_fa": "با ik در زمان حال، فعل معمولاً بدون -t می‌آید.",
+    "extra_example_nl": "Ik woon in Utrecht.",
+    "extra_example_fa": "من در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik leer Nederlands.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ik فعل در زمان حال معمولاً -t نمی‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik leert Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik leer Nederlands.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik leren Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik leer Nederlands.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik geleerd Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik leer Nederlands.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_ik_form",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik belt mijn moeder.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "با ik شکل درست فعل bellen می‌شود «bel».",
+    "correction_rule_fa": "با ik در زمان حال، فعل معمولاً بدون -t می‌آید.",
+    "extra_example_nl": "Ik woon in Utrecht.",
+    "extra_example_fa": "من در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik belt mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik bel mijn moeder.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik bel mijn moeder.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ik فعل در زمان حال معمولاً -t نمی‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bellen mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik bel mijn moeder.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik gebeld mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik bel mijn moeder.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_ik_form",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik betaalt nu.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "با ik فعل «betalen» به صورت «betaal» می‌آید.",
+    "correction_rule_fa": "با ik در زمان حال، فعل معمولاً بدون -t می‌آید.",
+    "extra_example_nl": "Ik woon in Utrecht.",
+    "extra_example_fa": "من در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik betaalt nu.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik betaal nu.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik betalen nu.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik betaal nu.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik betaal nu.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ik فعل در زمان حال معمولاً -t نمی‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaald nu.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik betaal nu.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_ik_form",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik drinkt water.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "با ik فعل «drinken» در زمان حال «drink» است.",
+    "correction_rule_fa": "با ik در زمان حال، فعل معمولاً بدون -t می‌آید.",
+    "extra_example_nl": "Ik woon in Utrecht.",
+    "extra_example_fa": "من در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik drinkt water.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik drink water.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik drinken water.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik drink water.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik gedronken water.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik drink water.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik drink water.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ik فعل در زمان حال معمولاً -t نمی‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_ik_form",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik koopt brood.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با ik باید «koop» استفاده شود، نه «koopt».",
+    "correction_rule_fa": "با ik در زمان حال، فعل معمولاً بدون -t می‌آید.",
+    "extra_example_nl": "Ik woon in Utrecht.",
+    "extra_example_fa": "من در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop brood.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ik فعل در زمان حال معمولاً -t نمی‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik koopt brood.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik koop brood.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kopen brood.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik koop brood.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik gekocht brood.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik koop brood.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_ik_form",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik maakt koffie.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "با ik فعل «maken» به شکل «maak» می‌آید و -t نمی‌گیرد.",
+    "correction_rule_fa": "با ik در زمان حال، فعل معمولاً بدون -t می‌آید.",
+    "extra_example_nl": "Ik woon in Utrecht.",
+    "extra_example_fa": "من در اوترخت زندگی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik maakt koffie.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik maak koffie.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik maak koffie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ik فعل در زمان حال معمولاً -t نمی‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik maken koffie.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik maak koffie.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik gemaakt koffie.",
+        "is_correct": false,
+        "feedback_fa": "با ik فعل در زمان حال نباید این‌طور بیاید؛ اصلاح درست «Ik maak koffie.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_jij_je_form",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij werk vandaag.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "در جمله خبری با jij، فعل معمولاً -t می‌گیرد؛ پس «werkt» درست است.",
+    "correction_rule_fa": "در جمله خبری با jij/je، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Jij werkt vandaag.",
+    "extra_example_fa": "تو امروز کار می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij werk vandaag.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij werkt vandaag.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij werken vandaag.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij werkt vandaag.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij werkt vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با jij/je در جمله خبری، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij gewerkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij werkt vandaag.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_jij_je_form",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je woon in Utrecht.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در جمله خبری با je، فعل «wonen» به شکل «woont» می‌آید.",
+    "correction_rule_fa": "در جمله خبری با jij/je، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Jij werkt vandaag.",
+    "extra_example_fa": "تو امروز کار می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je woon in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je woont in Utrecht.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je wonen in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je woont in Utrecht.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je gewoond in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je woont in Utrecht.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je woont in Utrecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با jij/je در جمله خبری، فعل معمولاً -t می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_jij_je_form",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij kom morgen.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "با jij در جمله خبری باید «komt» بیاید.",
+    "correction_rule_fa": "در جمله خبری با jij/je، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Jij werkt vandaag.",
+    "extra_example_fa": "تو امروز کار می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij komt morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با jij/je در جمله خبری، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij kom morgen.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij komt morgen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij komen morgen.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij komt morgen.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij gekomen morgen.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij komt morgen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_jij_je_form",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je ga naar school.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "صرف درست فعل gaan با je در جمله خبری «gaat» است.",
+    "correction_rule_fa": "در جمله خبری با jij/je، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Jij werkt vandaag.",
+    "extra_example_fa": "تو امروز کار می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je ga naar school.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je gaat naar school.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je gaat naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با jij/je در جمله خبری، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je gaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je gaat naar school.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gegaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je gaat naar school.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_jij_je_form",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij leer Nederlands.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با jij در جمله خبری فعل «leren» به شکل «leert» می‌آید.",
+    "correction_rule_fa": "در جمله خبری با jij/je، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Jij werkt vandaag.",
+    "extra_example_fa": "تو امروز کار می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij leer Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij leert Nederlands.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij leren Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij leert Nederlands.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij leert Nederlands.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با jij/je در جمله خبری، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij geleerd Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij leert Nederlands.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_jij_je_form",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je bel de dokter.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "با je در جمله خبری باید «belt» بگوییم.",
+    "correction_rule_fa": "در جمله خبری با jij/je، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Jij werkt vandaag.",
+    "extra_example_fa": "تو امروز کار می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je bel de dokter.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je belt de dokter.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je bellen de dokter.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je belt de dokter.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je gebeld de dokter.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je belt de dokter.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je belt de dokter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با jij/je در جمله خبری، فعل معمولاً -t می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_jij_je_form",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij betaal nu.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "با jij فعل «betalen» در زمان حال «betaalt» است.",
+    "correction_rule_fa": "در جمله خبری با jij/je، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Jij werkt vandaag.",
+    "extra_example_fa": "تو امروز کار می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij betaalt nu.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با jij/je در جمله خبری، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij betaal nu.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij betaalt nu.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij betalen nu.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij betaalt nu.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij betaald nu.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij betaalt nu.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_jij_je_form",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je drink water.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در جمله خبری با je، فعل «drinken» به شکل «drinkt» می‌آید.",
+    "correction_rule_fa": "در جمله خبری با jij/je، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Jij werkt vandaag.",
+    "extra_example_fa": "تو امروز کار می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je drink water.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je drinkt water.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je drinkt water.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با jij/je در جمله خبری، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je drinken water.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je drinkt water.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gedronken water.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je drinkt water.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_jij_je_form",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Je koop melk.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "با je در جمله خبری باید «koopt» بیاید.",
+    "correction_rule_fa": "در جمله خبری با jij/je، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Jij werkt vandaag.",
+    "extra_example_fa": "تو امروز کار می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Je koop melk.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je koopt melk.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Je kopen melk.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je koopt melk.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Je koopt melk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با jij/je در جمله خبری، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je gekocht melk.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Je koopt melk.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_jij_je_form",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij maak eten.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "با jij فعل «maken» معمولاً -t می‌گیرد: «maakt».",
+    "correction_rule_fa": "در جمله خبری با jij/je، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Jij werkt vandaag.",
+    "extra_example_fa": "تو امروز کار می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij maak eten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij maakt eten.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij maken eten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij maakt eten.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij gemaakt eten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری با jij/je، فعل باید درست صرف شود؛ اصلاح درست «Jij maakt eten.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij maakt eten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با jij/je در جمله خبری، فعل معمولاً -t می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_hij_zij_het_form",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij werk vandaag.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با hij در زمان حال، فعل معمولاً -t می‌گیرد؛ پس «werkt» درست است.",
+    "correction_rule_fa": "با hij/zij/het در زمان حال، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Zij woont dichtbij.",
+    "extra_example_fa": "او نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij werkt vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij werk vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij werkt vandaag.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij werken vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij werkt vandaag.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij gewerkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij werkt vandaag.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_hij_zij_het_form",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn buurvrouw woon dichtbij.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "با فاعل مفرد مثل mijn buurvrouw، فعل «wonen» به شکل «woont» می‌آید.",
+    "correction_rule_fa": "با hij/zij/het در زمان حال، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Zij woont dichtbij.",
+    "extra_example_fa": "او نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn buurvrouw woon dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn buurvrouw woont dichtbij.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn buurvrouw woont dichtbij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn buurvrouw wonen dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn buurvrouw woont dichtbij.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn buurvrouw gewoond dichtbij.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn buurvrouw woont dichtbij.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_hij_zij_het_form",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het regen vandaag.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "با het در این جمله باید «regent» استفاده شود.",
+    "correction_rule_fa": "با hij/zij/het در زمان حال، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Zij woont dichtbij.",
+    "extra_example_fa": "او نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het regen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Het regent vandaag.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regenen vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Het regent vandaag.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het geregend vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Het regent vandaag.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_hij_zij_het_form",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij kom morgen.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "با hij شکل درست فعل «komen» در زمان حال «komt» است.",
+    "correction_rule_fa": "با hij/zij/het در زمان حال، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Zij woont dichtbij.",
+    "extra_example_fa": "او نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij kom morgen.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij komt morgen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij komen morgen.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij komt morgen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij gekomen morgen.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij komt morgen.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij komt morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_hij_zij_het_form",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn zus ga naar school.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "با فاعل مفرد مثل mijn zus، فعل «gaan» به شکل «gaat» می‌آید.",
+    "correction_rule_fa": "با hij/zij/het در زمان حال، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Zij woont dichtbij.",
+    "extra_example_fa": "او نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn zus gaat naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn zus ga naar school.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn zus gaat naar school.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn zus gaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn zus gaat naar school.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn zus gegaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn zus gaat naar school.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_hij_zij_het_form",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij leer Nederlands.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "با hij باید «leert» بگوییم، نه «leer».",
+    "correction_rule_fa": "با hij/zij/het در زمان حال، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Zij woont dichtbij.",
+    "extra_example_fa": "او نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij leer Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij leert Nederlands.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij leert Nederlands.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij leren Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij leert Nederlands.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij geleerd Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij leert Nederlands.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_hij_zij_het_form",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn moeder bel de huisarts.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با فاعل مفرد مثل mijn moeder، فعل «bellen» در زمان حال «belt» است.",
+    "correction_rule_fa": "با hij/zij/het در زمان حال، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Zij woont dichtbij.",
+    "extra_example_fa": "او نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn moeder bel de huisarts.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn moeder belt de huisarts.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn moeder bellen de huisarts.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn moeder belt de huisarts.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn moeder belt de huisarts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn moeder gebeld de huisarts.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn moeder belt de huisarts.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_hij_zij_het_form",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij betaal de rekening.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "با hij فعل «betalen» به شکل «betaalt» می‌آید.",
+    "correction_rule_fa": "با hij/zij/het در زمان حال، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Zij woont dichtbij.",
+    "extra_example_fa": "او نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij betaal de rekening.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij betaalt de rekening.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij betalen de rekening.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij betaalt de rekening.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij betaald de rekening.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Hij betaalt de rekening.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij betaalt de rekening.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_hij_zij_het_form",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het kosten veel.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "با het مفرد باید «kost» بیاید، نه «kosten».",
+    "correction_rule_fa": "با hij/zij/het در زمان حال، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Zij woont dichtbij.",
+    "extra_example_fa": "او نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het kost veel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het kosten veel.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Het kost veel.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het kost veelde.",
+        "is_correct": false,
+        "feedback_fa": "«kost veelde» شکل درست فعل نیست. با het در زمان حال باید «kost» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het gekost veel.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Het kost veel.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_hij_zij_het_form",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn buurvrouw koop brood.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "با فاعل مفرد مثل mijn buurvrouw، فعل «kopen» در زمان حال «koopt» است.",
+    "correction_rule_fa": "با hij/zij/het در زمان حال، فعل معمولاً -t می‌گیرد.",
+    "extra_example_nl": "Zij woont dichtbij.",
+    "extra_example_fa": "او نزدیک زندگی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn buurvrouw koop brood.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn buurvrouw koopt brood.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn buurvrouw koopt brood.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn buurvrouw kopen brood.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn buurvrouw koopt brood.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn buurvrouw gekocht brood.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل مفرد سوم‌شخص، فعل معمولاً -t می‌گیرد؛ اصلاح درست «Mijn buurvrouw koopt brood.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_plural_form",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij werkt vandaag.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "با wij فعل به شکل infinitive می‌آید؛ شکل درست «werken» است.",
+    "correction_rule_fa": "با wij/we/jullie/zij، فعل به شکل infinitive می‌آید.",
+    "extra_example_nl": "Wij leren Nederlands.",
+    "extra_example_fa": "ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij werkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Wij werken vandaag.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij werk vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Wij werken vandaag.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij werken vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع، فعل به شکل infinitive می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij gewerkt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Wij werken vandaag.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_plural_form",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "We woont in Utrecht.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "با we باید «wonen» بیاید، نه «woont».",
+    "correction_rule_fa": "با wij/we/jullie/zij، فعل به شکل infinitive می‌آید.",
+    "extra_example_nl": "Wij leren Nederlands.",
+    "extra_example_fa": "ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We woont in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «We wonen in Utrecht.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "We woon in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «We wonen in Utrecht.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "We gewoond in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «We wonen in Utrecht.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "We wonen in Utrecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع، فعل به شکل infinitive می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_plural_form",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jullie komt morgen.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با jullie فعل به شکل infinitive می‌آید: «komen».",
+    "correction_rule_fa": "با wij/we/jullie/zij، فعل به شکل infinitive می‌آید.",
+    "extra_example_nl": "Wij leren Nederlands.",
+    "extra_example_fa": "ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie komen morgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع، فعل به شکل infinitive می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie komt morgen.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Jullie komen morgen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jullie kom morgen.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Jullie komen morgen.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie gekomen morgen.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Jullie komen morgen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_plural_form",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De kinderen gaat naar school.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "با فاعل جمع مثل de kinderen، فعل «gaan» می‌آید.",
+    "correction_rule_fa": "با wij/we/jullie/zij، فعل به شکل infinitive می‌آید.",
+    "extra_example_nl": "Wij leren Nederlands.",
+    "extra_example_fa": "ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen gaat naar school.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «De kinderen gaan naar school.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen gaan naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع، فعل به شکل infinitive می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen ga naar school.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «De kinderen gaan naar school.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen gegaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «De kinderen gaan naar school.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_plural_form",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij leert Nederlands.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "با wij باید «leren» بیاید، نه «leert».",
+    "correction_rule_fa": "با wij/we/jullie/zij، فعل به شکل infinitive می‌آید.",
+    "extra_example_nl": "Wij leren Nederlands.",
+    "extra_example_fa": "ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij leert Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Wij leren Nederlands.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij leer Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Wij leren Nederlands.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij leren Nederlands.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع، فعل به شکل infinitive می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij geleerd Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Wij leren Nederlands.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_plural_form",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jullie belt de dokter.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "با jullie فعل به شکل infinitive می‌آید: «bellen».",
+    "correction_rule_fa": "با wij/we/jullie/zij، فعل به شکل infinitive می‌آید.",
+    "extra_example_nl": "Wij leren Nederlands.",
+    "extra_example_fa": "ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie belt de dokter.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Jullie bellen de dokter.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie bel de dokter.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Jullie bellen de dokter.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jullie gebeld de dokter.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Jullie bellen de dokter.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie bellen de dokter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع، فعل به شکل infinitive می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_plural_form",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De klanten betaalt nu.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "با فاعل جمع مثل de klanten، شکل درست «betalen» است.",
+    "correction_rule_fa": "با wij/we/jullie/zij، فعل به شکل infinitive می‌آید.",
+    "extra_example_nl": "Wij leren Nederlands.",
+    "extra_example_fa": "ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De klanten betalen nu.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع، فعل به شکل infinitive می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De klanten betaalt nu.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «De klanten betalen nu.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De klanten betaal nu.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «De klanten betalen nu.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De klanten betaald nu.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «De klanten betalen nu.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_plural_form",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "We drinkt water.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "با we باید «drinken» بیاید.",
+    "correction_rule_fa": "با wij/we/jullie/zij، فعل به شکل infinitive می‌آید.",
+    "extra_example_nl": "Wij leren Nederlands.",
+    "extra_example_fa": "ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We drinkt water.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «We drinken water.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "We drinken water.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع، فعل به شکل infinitive می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "We drink water.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «We drinken water.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "We gedronken water.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «We drinken water.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_plural_form",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jullie eet brood.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با jullie، شکل زمان حال فعل «eten» برابر «eten» است.",
+    "correction_rule_fa": "با wij/we/jullie/zij، فعل به شکل infinitive می‌آید.",
+    "extra_example_nl": "Wij leren Nederlands.",
+    "extra_example_fa": "ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie eet brood.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Jullie eten brood.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie geeten brood.",
+        "is_correct": false,
+        "feedback_fa": "«geeten» شکل درست فعل نیست. با jullie در زمان حال باید «eten» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jullie eten brood.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع، فعل به شکل infinitive می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie gegeten brood.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Jullie eten brood.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "present_plural_form",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij koopt melk.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "با wij فعل به شکل infinitive می‌آید: «kopen».",
+    "correction_rule_fa": "با wij/we/jullie/zij، فعل به شکل infinitive می‌آید.",
+    "extra_example_nl": "Wij leren Nederlands.",
+    "extra_example_fa": "ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij koopt melk.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Wij kopen melk.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij koop melk.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Wij kopen melk.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij gekocht melk.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع، فعل باید به شکل infinitive بیاید؛ اصلاح درست «Wij kopen melk.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij kopen melk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع، فعل به شکل infinitive می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "zijn_forms",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik is thuis.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "صرف درست فعل zijn با ik، «ben» است.",
+    "correction_rule_fa": "فعل zijn باید با فاعل درست صرف شود: ik ben، jij bent، hij/zij/het is، جمع zijn.",
+    "extra_example_nl": "Ik ben klaar.",
+    "extra_example_fa": "من آماده هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل zijn با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik is thuis.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Ik ben thuis.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik zijn thuis.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Ik ben thuis.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik bent thuis.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Ik ben thuis.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "zijn_forms",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij is laat.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "با jij، فعل zijn به شکل «bent» می‌آید.",
+    "correction_rule_fa": "فعل zijn باید با فاعل درست صرف شود: ik ben، jij bent، hij/zij/het is، جمع zijn.",
+    "extra_example_nl": "Ik ben klaar.",
+    "extra_example_fa": "من آماده هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij is laat.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Jij bent laat.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij bent laat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل zijn با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij ben laat.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Jij bent laat.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij zijn laat.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Jij bent laat.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "zijn_forms",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij ben ziek.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "با hij، شکل درست فعل zijn «is» است.",
+    "correction_rule_fa": "فعل zijn باید با فاعل درست صرف شود: ik ben، jij bent، hij/zij/het is، جمع zijn.",
+    "extra_example_nl": "Ik ben klaar.",
+    "extra_example_fa": "من آماده هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij ben ziek.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Hij is ziek.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij bent ziek.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Hij is ziek.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij is ziek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل zijn با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij zijn ziek.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Hij is ziek.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "zijn_forms",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn zus zijn op school.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "با فاعل مفرد مثل mijn zus، فعل zijn به شکل «is» می‌آید.",
+    "correction_rule_fa": "فعل zijn باید با فاعل درست صرف شود: ik ben، jij bent، hij/zij/het is، جمع zijn.",
+    "extra_example_nl": "Ik ben klaar.",
+    "extra_example_fa": "من آماده هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn zus zijn op school.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Mijn zus is op school.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn zus ben op school.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Mijn zus is op school.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn zus bent op school.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Mijn zus is op school.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn zus is op school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل zijn با فاعل جمله درست صرف شده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "zijn_forms",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Het ben koud.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با het، فعل zijn به شکل «is» می‌آید.",
+    "correction_rule_fa": "فعل zijn باید با فاعل درست صرف شود: ik ben، jij bent، hij/zij/het is، جمع zijn.",
+    "extra_example_nl": "Ik ben klaar.",
+    "extra_example_fa": "من آماده هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het is koud.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل zijn با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het ben koud.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Het is koud.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het bent koud.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Het is koud.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het zijn koud.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Het is koud.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "zijn_forms",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij is klaar.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "با wij، شکل درست فعل zijn «zijn» است.",
+    "correction_rule_fa": "فعل zijn باید با فاعل درست صرف شود: ik ben، jij bent، hij/zij/het is، جمع zijn.",
+    "extra_example_nl": "Ik ben klaar.",
+    "extra_example_fa": "من آماده هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij is klaar.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Wij zijn klaar.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij zijn klaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل zijn با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij ben klaar.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Wij zijn klaar.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij bent klaar.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Wij zijn klaar.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "zijn_forms",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jullie is buiten.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "با jullie باید «zijn» استفاده شود.",
+    "correction_rule_fa": "فعل zijn باید با فاعل درست صرف شود: ik ben، jij bent، hij/zij/het is، جمع zijn.",
+    "extra_example_nl": "Ik ben klaar.",
+    "extra_example_fa": "من آماده هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie is buiten.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Jullie zijn buiten.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie ben buiten.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Jullie zijn buiten.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jullie zijn buiten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل zijn با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie bent buiten.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Jullie zijn buiten.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "zijn_forms",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De kinderen is thuis.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "با فاعل جمع مثل de kinderen، فعل درست «zijn» است.",
+    "correction_rule_fa": "فعل zijn باید با فاعل درست صرف شود: ik ben، jij bent، hij/zij/het is، جمع zijn.",
+    "extra_example_nl": "Ik ben klaar.",
+    "extra_example_fa": "من آماده هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen is thuis.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «De kinderen zijn thuis.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen ben thuis.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «De kinderen zijn thuis.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen bent thuis.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «De kinderen zijn thuis.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen zijn thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل zijn با فاعل جمله درست صرف شده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "zijn_forms",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "U is de dokter.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "برای u در این سطح از «bent» استفاده می‌کنیم.",
+    "correction_rule_fa": "فعل zijn باید با فاعل درست صرف شود: ik ben، jij bent، hij/zij/het is، جمع zijn.",
+    "extra_example_nl": "Ik ben klaar.",
+    "extra_example_fa": "من آماده هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U bent de dokter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل zijn با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "U is de dokter.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «U bent de dokter.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "U ben de dokter.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «U bent de dokter.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "U zijn de dokter.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «U bent de dokter.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "zijn_forms",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik bent moe.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "با ik، شکل درست فعل zijn «ben» است.",
+    "correction_rule_fa": "فعل zijn باید با فاعل درست صرف شود: ik ben، jij bent، hij/zij/het is، جمع zijn.",
+    "extra_example_nl": "Ik ben klaar.",
+    "extra_example_fa": "من آماده هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik bent moe.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Ik ben moe.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben moe.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل zijn با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik is moe.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Ik ben moe.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zijn moe.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل zijn با فاعل جمله درست نیست؛ اصلاح درست «Ik ben moe.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "hebben_forms",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik heeft tijd.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با ik، فعل hebben به شکل «heb» می‌آید.",
+    "correction_rule_fa": "فعل hebben باید با فاعل درست صرف شود: ik heb، jij hebt، hij/zij/het heeft، جمع hebben.",
+    "extra_example_nl": "Hij heeft een fiets.",
+    "extra_example_fa": "او یک دوچرخه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heeft tijd.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Ik heb tijd.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik hebben tijd.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Ik heb tijd.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb tijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل hebben با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik hebt tijd.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Ik heb tijd.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "hebben_forms",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jij heeft een afspraak.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "با jij، شکل درست فعل hebben «hebt» است.",
+    "correction_rule_fa": "فعل hebben باید با فاعل درست صرف شود: ik heb، jij hebt، hij/zij/het heeft، جمع hebben.",
+    "extra_example_nl": "Hij heeft een fiets.",
+    "extra_example_fa": "او یک دوچرخه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij heeft een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Jij hebt een afspraak.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij heb een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Jij hebt een afspraak.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij hebben een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Jij hebt een afspraak.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij hebt een afspraak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل hebben با فاعل جمله درست صرف شده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "hebben_forms",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij heb een fiets.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "با hij، فعل hebben به شکل «heeft» می‌آید.",
+    "correction_rule_fa": "فعل hebben باید با فاعل درست صرف شود: ik heb، jij hebt، hij/zij/het heeft، جمع hebben.",
+    "extra_example_nl": "Hij heeft een fiets.",
+    "extra_example_fa": "او یک دوچرخه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft een fiets.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل hebben با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heb een fiets.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Hij heeft een fiets.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij hebt een fiets.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Hij heeft een fiets.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij hebben een fiets.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Hij heeft een fiets.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "hebben_forms",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Mijn zus heb les.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "با فاعل مفرد مثل mijn zus، شکل درست «heeft» است.",
+    "correction_rule_fa": "فعل hebben باید با فاعل درست صرف شود: ik heb، jij hebt، hij/zij/het heeft، جمع hebben.",
+    "extra_example_nl": "Hij heeft een fiets.",
+    "extra_example_fa": "او یک دوچرخه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn zus heb les.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Mijn zus heeft les.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn zus heeft les.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل hebben با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn zus hebt les.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Mijn zus heeft les.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn zus hebben les.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Mijn zus heeft les.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "hebben_forms",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij heeft vragen.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "با wij باید «hebben» بیاید.",
+    "correction_rule_fa": "فعل hebben باید با فاعل درست صرف شود: ik heb، jij hebt، hij/zij/het heeft، جمع hebben.",
+    "extra_example_nl": "Hij heeft een fiets.",
+    "extra_example_fa": "او یک دوچرخه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij heeft vragen.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Wij hebben vragen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij heb vragen.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Wij hebben vragen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben vragen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل hebben با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebt vragen.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Wij hebben vragen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "hebben_forms",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Jullie heeft werk.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "با jullie، فعل hebben به شکل «hebben» می‌آید.",
+    "correction_rule_fa": "فعل hebben باید با فاعل درست صرف شود: ik heb، jij hebt، hij/zij/het heeft، جمع hebben.",
+    "extra_example_nl": "Hij heeft een fiets.",
+    "extra_example_fa": "او یک دوچرخه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie heeft werk.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Jullie hebben werk.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie heb werk.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Jullie hebben werk.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jullie hebt werk.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Jullie hebben werk.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie hebben werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل hebben با فاعل جمله درست صرف شده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "hebben_forms",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De ouders heeft kinderen.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با فاعل جمع مثل de ouders، فعل درست «hebben» است.",
+    "correction_rule_fa": "فعل hebben باید با فاعل درست صرف شود: ik heb، jij hebt، hij/zij/het heeft، جمع hebben.",
+    "extra_example_nl": "Hij heeft een fiets.",
+    "extra_example_fa": "او یک دوچرخه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De ouders hebben kinderen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل hebben با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De ouders heeft kinderen.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «De ouders hebben kinderen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De ouders heb kinderen.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «De ouders hebben kinderen.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De ouders hebt kinderen.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «De ouders hebben kinderen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "hebben_forms",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "U heb een bericht.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای یکنواختی A2، با u از «heeft» استفاده می‌کنیم.",
+    "correction_rule_fa": "فعل hebben باید با فاعل درست صرف شود: ik heb، jij hebt، hij/zij/het heeft، جمع hebben.",
+    "extra_example_nl": "Hij heeft een fiets.",
+    "extra_example_fa": "او یک دوچرخه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U heb een bericht.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «U heeft een bericht.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heeft een bericht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل hebben با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "U hebben een bericht.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «U heeft een bericht.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "U gehad een bericht.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «U heeft een bericht.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "hebben_forms",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik hebt geld.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "با ik باید «heb» بگوییم.",
+    "correction_rule_fa": "فعل hebben باید با فاعل درست صرف شود: ik heb، jij hebt، hij/zij/het heeft، جمع hebben.",
+    "extra_example_nl": "Hij heeft een fiets.",
+    "extra_example_fa": "او یک دوچرخه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik hebt geld.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Ik heb geld.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heeft geld.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Ik heb geld.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل hebben با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik hebben geld.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Ik heb geld.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "hebben_forms",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij hebben honger.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "با hij، شکل درست فعل hebben «heeft» است.",
+    "correction_rule_fa": "فعل hebben باید با فاعل درست صرف شود: ik heb، jij hebt، hij/zij/het heeft، جمع hebben.",
+    "extra_example_nl": "Hij heeft een fiets.",
+    "extra_example_fa": "او یک دوچرخه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij hebben honger.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Hij heeft honger.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heb honger.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Hij heeft honger.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij hebt honger.",
+        "is_correct": false,
+        "feedback_fa": "این صرف فعل hebben با فاعل جمله درست نیست؛ اصلاح درست «Hij heeft honger.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij heeft honger.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل hebben با فاعل جمله درست صرف شده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "modal_verbs_forms",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik kunnen helpen.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "با ik، فعل kunnen به شکل «kan» می‌آید.",
+    "correction_rule_fa": "فعل modal باید با فاعل درست صرف شود؛ مثل ik kan، jij kunt، hij kan، wij kunnen.",
+    "extra_example_nl": "Wij kunnen helpen.",
+    "extra_example_fa": "ما می‌توانیم کمک کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan helpen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل modal با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kunnen helpen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Ik kan helpen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kunt helpen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Ik kan helpen.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kanne helpen.",
+        "is_correct": false,
+        "feedback_fa": "«kanne» شکل درست فعل modal نیست. با ik باید «kan» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "modal_verbs_forms",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Jij kunnen komen.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "برای یکنواختی در این تمرین، با jij از «kunt» استفاده می‌کنیم.",
+    "correction_rule_fa": "فعل modal باید با فاعل درست صرف شود؛ مثل ik kan، jij kunt، hij kan، wij kunnen.",
+    "extra_example_nl": "Wij kunnen helpen.",
+    "extra_example_fa": "ما می‌توانیم کمک کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij kunnen komen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Jij kunt komen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij kunt komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل modal با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij gekund komen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Jij kunt komen.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij kant komen.",
+        "is_correct": false,
+        "feedback_fa": "«kant» شکل درست فعل modal نیست. با jij در این تمرین باید «kunt» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "modal_verbs_forms",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij kunnen betalen.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با hij، شکل درست kunnen در زمان حال «kan» است.",
+    "correction_rule_fa": "فعل modal باید با فاعل درست صرف شود؛ مثل ik kan، jij kunt، hij kan، wij kunnen.",
+    "extra_example_nl": "Wij kunnen helpen.",
+    "extra_example_fa": "ما می‌توانیم کمک کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij kunnen betalen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Hij kan betalen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij kunt betalen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Hij kan betalen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij kan betalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل modal با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij gekund betalen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Hij kan betalen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "modal_verbs_forms",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij kan wachten.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "با wij، فعل modal باید به شکل «kunnen» بیاید.",
+    "correction_rule_fa": "فعل modal باید با فاعل درست صرف شود؛ مثل ik kan، jij kunt، hij kan، wij kunnen.",
+    "extra_example_nl": "Wij kunnen helpen.",
+    "extra_example_fa": "ما می‌توانیم کمک کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij kan wachten.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Wij kunnen wachten.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij kunt wachten.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Wij kunnen wachten.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij gekund wachten.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Wij kunnen wachten.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij kunnen wachten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل modal با فاعل جمله درست صرف شده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "modal_verbs_forms",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik moeten werken.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "با ik، شکل درست moeten در زمان حال «moet» است.",
+    "correction_rule_fa": "فعل modal باید با فاعل درست صرف شود؛ مثل ik kan، jij kunt، hij kan، wij kunnen.",
+    "extra_example_nl": "Wij kunnen helpen.",
+    "extra_example_fa": "ما می‌توانیم کمک کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik moet werken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل modal با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik moeten werken.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Ik moet werken.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik moette werken.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Ik moet werken.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik gemoeten werken.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Ik moet werken.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "modal_verbs_forms",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Jij moeten bellen.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "با jij، شکل درست moeten در زمان حال «moet» است.",
+    "correction_rule_fa": "فعل modal باید با فاعل درست صرف شود؛ مثل ik kan، jij kunt، hij kan، wij kunnen.",
+    "extra_example_nl": "Wij kunnen helpen.",
+    "extra_example_fa": "ما می‌توانیم کمک کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij moeten bellen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Jij moet bellen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij moet bellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل modal با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij moette bellen.",
+        "is_correct": false,
+        "feedback_fa": "«moette» شکل درست فعل modal در زمان حال نیست. با jij باید «moet» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij gemoeten bellen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Jij moet bellen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "modal_verbs_forms",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij moeten slapen.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "با hij، فعل moeten به شکل «moet» می‌آید.",
+    "correction_rule_fa": "فعل modal باید با فاعل درست صرف شود؛ مثل ik kan، jij kunt، hij kan، wij kunnen.",
+    "extra_example_nl": "Wij kunnen helpen.",
+    "extra_example_fa": "ما می‌توانیم کمک کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij moeten slapen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Hij moet slapen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij moette slapen.",
+        "is_correct": false,
+        "feedback_fa": "«moette» شکل درست فعل modal در زمان حال نیست. با hij باید «moet» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij moet slapen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل modal با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij gemoeten slapen.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Hij moet slapen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "modal_verbs_forms",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij moet gaan.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "با wij، شکل درست فعل moeten «moeten» است.",
+    "correction_rule_fa": "فعل modal باید با فاعل درست صرف شود؛ مثل ik kan، jij kunt، hij kan، wij kunnen.",
+    "extra_example_nl": "Wij kunnen helpen.",
+    "extra_example_fa": "ما می‌توانیم کمک کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij moet gaan.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Wij moeten gaan.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij moest gaan.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Wij moeten gaan.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij gemoeten gaan.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Wij moeten gaan.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij moeten gaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل modal با فاعل جمله درست صرف شده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "modal_verbs_forms",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik mogen zitten.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با ik، شکل درست mogen در زمان حال «mag» است.",
+    "correction_rule_fa": "فعل modal باید با فاعل درست صرف شود؛ مثل ik kan، jij kunt، hij kan، wij kunnen.",
+    "extra_example_nl": "Wij kunnen helpen.",
+    "extra_example_fa": "ما می‌توانیم کمک کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik mag zitten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل modal با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik mogen zitten.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Ik mag zitten.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik magge zitten.",
+        "is_correct": false,
+        "feedback_fa": "«magge» شکل درست فعل modal نیست. با ik باید «mag» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik gemogen zitten.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Ik mag zitten.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "modal_verbs_forms",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Jij willen eten.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "برای یکنواختی این تمرین، با jij از «wilt» استفاده می‌کنیم.",
+    "correction_rule_fa": "فعل modal باید با فاعل درست صرف شود؛ مثل ik kan، jij kunt، hij kan، wij kunnen.",
+    "extra_example_nl": "Wij kunnen helpen.",
+    "extra_example_fa": "ما می‌توانیم کمک کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij willen eten.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Jij wilt eten.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij wilt eten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل modal با فاعل جمله درست صرف شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij gewild eten.",
+        "is_correct": false,
+        "feedback_fa": "فعل modal با فاعل جمله درست صرف نشده است؛ اصلاح درست «Jij wilt eten.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij wilte eten.",
+        "is_correct": false,
+        "feedback_fa": "«wilte» شکل درست فعل modal نیست. با jij در این تمرین باید «wilt» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "infinitive_after_modal",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik kan zwem.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "بعد از kan باید فعل اصلی به صورت infinitive بیاید؛ پس «zwemmen» درست است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی به شکل infinitive می‌آید.",
+    "extra_example_nl": "Jij moet betalen.",
+    "extra_example_fa": "تو باید پرداخت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan zwem.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Ik kan zwemmen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan zwemt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Ik kan zwemmen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan zwemmen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از modal verb، فعل اصلی به شکل infinitive آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan gezwommen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Ik kan zwemmen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "infinitive_after_modal",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Jij moet betaal.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "بعد از moet، فعل اصلی باید infinitive باشد: «betalen».",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی به شکل infinitive می‌آید.",
+    "extra_example_nl": "Jij moet betalen.",
+    "extra_example_fa": "تو باید پرداخت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij moet betaal.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Jij moet betalen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij moet betaalt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Jij moet betalen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij moet betaald.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Jij moet betalen.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij moet betalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از modal verb، فعل اصلی به شکل infinitive آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "infinitive_after_modal",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij willen eet.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "بعد از willen باید فعل اصلی به شکل infinitive بیاید: «eten».",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی به شکل infinitive می‌آید.",
+    "extra_example_nl": "Jij moet betalen.",
+    "extra_example_fa": "تو باید پرداخت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij willen eten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از modal verb، فعل اصلی به شکل infinitive آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij willen eet.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Wij willen eten.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij willen aten.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Wij willen eten.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij willen gegeten.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Wij willen eten.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "infinitive_after_modal",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij mag zit.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "بعد از mag، فعل اصلی باید infinitive باشد: «zitten».",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی به شکل infinitive می‌آید.",
+    "extra_example_nl": "Jij moet betalen.",
+    "extra_example_fa": "تو باید پرداخت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij mag zit.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Zij mag zitten.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij mag zitten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از modal verb، فعل اصلی به شکل infinitive آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij mag zat.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Zij mag zitten.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij mag gezeten.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Zij mag zitten.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "infinitive_after_modal",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik wil slaap.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "بعد از wil، فعل اصلی به صورت infinitive می‌آید: «slapen».",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی به شکل infinitive می‌آید.",
+    "extra_example_nl": "Jij moet betalen.",
+    "extra_example_fa": "تو باید پرداخت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil slaap.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Ik wil slapen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil slaapt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Ik wil slapen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil slapen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از modal verb، فعل اصلی به شکل infinitive آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil geslapen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Ik wil slapen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "infinitive_after_modal",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij kan bel.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "بعد از kan باید infinitive بیاید؛ شکل درست «bellen» است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی به شکل infinitive می‌آید.",
+    "extra_example_nl": "Jij moet betalen.",
+    "extra_example_fa": "تو باید پرداخت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij kan bel.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Hij kan bellen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij kan belt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Hij kan bellen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij kan gebeld.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Hij kan bellen.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij kan bellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از modal verb، فعل اصلی به شکل infinitive آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "infinitive_after_modal",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Jullie moeten wacht.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "بعد از moeten، فعل اصلی باید «wachten» باشد.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی به شکل infinitive می‌آید.",
+    "extra_example_nl": "Jij moet betalen.",
+    "extra_example_fa": "تو باید پرداخت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie moeten wachten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از modal verb، فعل اصلی به شکل infinitive آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie moeten wacht.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Jullie moeten wachten.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jullie moeten wachtte.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Jullie moeten wachten.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie moeten gewacht.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Jullie moeten wachten.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "infinitive_after_modal",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "We mogen kom.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "بعد از mogen، فعل اصلی باید infinitive باشد: «komen».",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی به شکل infinitive می‌آید.",
+    "extra_example_nl": "Jij moet betalen.",
+    "extra_example_fa": "تو باید پرداخت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We mogen kom.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «We mogen komen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "We mogen komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از modal verb، فعل اصلی به شکل infinitive آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "We mogen komt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «We mogen komen.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "We mogen gekomen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «We mogen komen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "infinitive_after_modal",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij willen drink.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "بعد از willen باید «drinken» بیاید.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی به شکل infinitive می‌آید.",
+    "extra_example_nl": "Jij moet betalen.",
+    "extra_example_fa": "تو باید پرداخت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij willen drink.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Zij willen drinken.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij willen drinkt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Zij willen drinken.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij willen drinken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از modal verb، فعل اصلی به شکل infinitive آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij willen gedronken.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Zij willen drinken.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "infinitive_after_modal",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik moet ga.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "بعد از moet، فعل اصلی باید infinitive باشد: «gaan».",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی به شکل infinitive می‌آید.",
+    "extra_example_nl": "Jij moet betalen.",
+    "extra_example_fa": "تو باید پرداخت کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik moet ga.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Ik moet gaan.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik moet gaat.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Ik moet gaan.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik moet gegaan.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی باید infinitive باشد؛ اصلاح درست «Ik moet gaan.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik moet gaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از modal verb، فعل اصلی به شکل infinitive آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "separable_verb_error",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik opsta vroeg.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "در جمله خبری، فعل جداشدنی opstaan جدا می‌شود: «sta ... op».",
+    "correction_rule_fa": "در جمله خبری زمان حال، بخش جداشدنی فعل معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik sta vroeg op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل جداشدنی در جمله خبری درست استفاده شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik opsta vroeg.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Ik sta vroeg op.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik staat vroeg op.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Ik sta vroeg op.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik sta vroeg opstaan.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Ik sta vroeg op.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "separable_verb_error",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij terugkomt morgen.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله خبری، بخش «terug» معمولاً آخر جمله می‌آید: «komt ... terug».",
+    "correction_rule_fa": "در جمله خبری زمان حال، بخش جداشدنی فعل معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij terugkomt morgen.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Hij komt morgen terug.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij komt morgen terug.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل جداشدنی در جمله خبری درست استفاده شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij komt morgen terugkomt.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Hij komt morgen terug.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij komen morgen terug.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Hij komt morgen terug.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "separable_verb_error",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij opruimen de kamer.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "در فعل opruimen، بخش «op» در جمله خبری آخر جمله می‌آید.",
+    "correction_rule_fa": "در جمله خبری زمان حال، بخش جداشدنی فعل معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij opruimen de kamer.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Wij ruimen de kamer op.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij ruimt de kamer op.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Wij ruimen de kamer op.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij ruimen de kamer op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل جداشدنی در جمله خبری درست استفاده شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij ruimen de kamer opruimen.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Wij ruimen de kamer op.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "separable_verb_error",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Mijn zus aankomt om acht.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در فعل aankomen، بخش «aan» در جمله ساده آخر جمله می‌آید و با «mijn zus» فعل باید «komt» باشد.",
+    "correction_rule_fa": "در جمله خبری زمان حال، بخش جداشدنی فعل معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn zus aankomt om acht.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، نباید «aankomt» به این شکل وسط جمله بیاید؛ اصلاح درست «Mijn zus komt om acht aan.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn zus komen om acht aan.",
+        "is_correct": false,
+        "feedback_fa": "با «mijn zus» فعل جمع «komen» درست نیست؛ باید «komt ... aan» باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn zus komt om acht aankomen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «komt» نباید infinitive کامل «aankomen» بیاید؛ بخش جداشدنی باید آخر جمله بیاید: «aan»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn zus komt om acht aan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل جداشدنی درست صرف شده و بخش «aan» آخر جمله آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "separable_verb_error",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik meega met jou.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در فعل meegaan، بخش «mee» معمولاً آخر جمله می‌آید: «ga ... mee».",
+    "correction_rule_fa": "در جمله خبری زمان حال، بخش جداشدنی فعل معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga met jou mee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل جداشدنی در جمله خبری درست استفاده شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik meega met jou.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Ik ga met jou mee.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik gaat met jou mee.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Ik ga met jou mee.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ga met jou meegaan.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Ik ga met jou mee.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "separable_verb_error",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Jij meeneemt de tas.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "در فعل meenemen، بخش «mee» آخر جمله می‌آید.",
+    "correction_rule_fa": "در جمله خبری زمان حال، بخش جداشدنی فعل معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij meeneemt de tas.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Jij neemt de tas mee.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij neemt de tas mee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل جداشدنی در جمله خبری درست استفاده شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij neem de tas mee.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Jij neemt de tas mee.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij neemt de tas meenemen.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Jij neemt de tas mee.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "separable_verb_error",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij uitstappen hier.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "در فعل uitstappen، بخش «uit» در جمله خبری آخر جمله می‌آید.",
+    "correction_rule_fa": "در جمله خبری زمان حال، بخش جداشدنی فعل معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij uitstappen hier.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Wij stappen hier uit.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij stapt hier uit.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Wij stappen hier uit.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij stappen hier uit.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل جداشدنی در جمله خبری درست استفاده شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij stappen hier uitstappen.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Wij stappen hier uit.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "separable_verb_error",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Jullie instappen nu.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در فعل instappen، بخش «in» معمولاً آخر جمله می‌آید.",
+    "correction_rule_fa": "در جمله خبری زمان حال، بخش جداشدنی فعل معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie instappen nu.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Jullie stappen nu in.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie stapt nu in.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Jullie stappen nu in.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jullie stappen nu instappen.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Jullie stappen nu in.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie stappen nu in.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل جداشدنی در جمله خبری درست استفاده شده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "separable_verb_error",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik afspreek morgen met Ali.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "در فعل afspreken، بخش «af» آخر جمله می‌آید.",
+    "correction_rule_fa": "در جمله خبری زمان حال، بخش جداشدنی فعل معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik spreek morgen met Ali af.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل جداشدنی در جمله خبری درست استفاده شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik afspreek morgen met Ali.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Ik spreek morgen met Ali af.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik spreekt morgen met Ali af.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Ik spreek morgen met Ali af.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik spreek morgen met Ali afspreken.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، جای بخش جداشدنی یا صرف فعل درست نیست؛ اصلاح درست «Ik spreek morgen met Ali af.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "separable_verb_error",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Mijn vrienden uitgaan vanavond.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در فعل uitgaan، بخش «uit» در جمله خبری آخر جمله می‌آید و با «mijn vrienden» فعل باید «gaan» باشد.",
+    "correction_rule_fa": "در جمله خبری زمان حال، بخش جداشدنی فعل معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn vrienden uitgaan vanavond.",
+        "is_correct": false,
+        "feedback_fa": "فعل جداشدنی به شکل درست صرف نشده و بخش جداشدنی جای درست ندارد؛ اصلاح درست «Mijn vrienden gaan vanavond uit.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn vrienden gaan vanavond uit.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعل جمع «mijn vrienden»، فعل «gaan» می‌آید و «uit» آخر جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn vrienden gaat vanavond uit.",
+        "is_correct": false,
+        "feedback_fa": "با فاعل جمع «mijn vrienden»، «gaat» درست نیست؛ باید «gaan» باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn vrienden gaan vanavond uitgaan.",
+        "is_correct": false,
+        "feedback_fa": "نباید infinitive کامل «uitgaan» در آخر جمله بیاید؛ در جمله خبری باید «gaan ... uit» باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "perfectum_basic_error",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik heb gisteren werk.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در perfectum باید از hebben + voltooid deelwoord استفاده شود: «heb gewerkt».",
+    "correction_rule_fa": "در perfectum از hebben/zijn + voltooid deelwoord استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb gisteren werk.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Ik heb gisteren gewerkt.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb gisteren werkt.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Ik heb gisteren gewerkt.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb gisteren gewerkt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ساختار perfectum با فعل کمکی و voltooid deelwoord درست آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben gisteren werk.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Ik heb gisteren gewerkt.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "perfectum_basic_error",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij heeft gisteren bel.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "در perfectum با bellen شکل درست «heeft gebeld» است.",
+    "correction_rule_fa": "در perfectum از hebben/zijn + voltooid deelwoord استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft gisteren bel.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Hij heeft gisteren gebeld.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft gisteren belt.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Hij heeft gisteren gebeld.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij heeft gisteren gebellen.",
+        "is_correct": false,
+        "feedback_fa": "«gebellen» voltooid deelwoord درست نیست. شکل درست perfectum «heeft gebeld» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij heeft gisteren gebeld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ساختار perfectum با فعل کمکی و voltooid deelwoord درست آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "perfectum_basic_error",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij hebben de rekening betaal.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "در perfectum با betalen باید «hebben betaald» استفاده شود.",
+    "correction_rule_fa": "در perfectum از hebben/zijn + voltooid deelwoord استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben de rekening betaald.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ساختار perfectum با فعل کمکی و voltooid deelwoord درست آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hebben de rekening betaal.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Wij hebben de rekening betaald.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben de rekening betaalt.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Wij hebben de rekening betaald.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij zijn de rekening betaald.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Wij hebben de rekening betaald.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "perfectum_basic_error",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik heb naar school gegaan.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "با gaan در این جمله perfectum از «zijn» استفاده می‌شود: «ben gegaan».",
+    "correction_rule_fa": "در perfectum از hebben/zijn + voltooid deelwoord استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb naar school gegaan.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Ik ben naar school gegaan.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben naar school gegaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ساختار perfectum با فعل کمکی و voltooid deelwoord درست آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben naar school gaan.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Ik ben naar school gegaan.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben naar school gaat.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Ik ben naar school gegaan.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "perfectum_basic_error",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij heeft gekomen.",
+    "question_text_nl": "Kies de zin met de juiste werkwoordsvorm.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که فعل آن درست صرف شده است.",
+    "explanation_fa": "با komen در perfectum معمولاً از «zijn» استفاده می‌شود: «is gekomen».",
+    "correction_rule_fa": "در perfectum از hebben/zijn + voltooid deelwoord استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij heeft gekomen.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Zij is gekomen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij is komen.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Zij is gekomen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij is gekomen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ساختار perfectum با فعل کمکی و voltooid deelwoord درست آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij is komt.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Zij is gekomen.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "perfectum_basic_error",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij hebben gisteren eet.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "در این جمله فعل اشتباه است. اصلاح درست کدام است؟",
+    "explanation_fa": "در perfectum باید voltooid deelwoord بیاید؛ برای eten می‌شود «gegeten».",
+    "correction_rule_fa": "در perfectum از hebben/zijn + voltooid deelwoord استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben gisteren eet.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Wij hebben gisteren gegeten.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hebben gisteren eten.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Wij hebben gisteren gegeten.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij zijn gisteren eet.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum اینجا فعل کمکی و شکل فعل درست نیست؛ اصلاح درست «Wij hebben gisteren gegeten.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben gisteren gegeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ساختار perfectum با فعل کمکی و voltooid deelwoord درست آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "perfectum_basic_error",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Jij hebt koffie drink.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در perfectum با drinken شکل درست «hebt gedronken» است.",
+    "correction_rule_fa": "در perfectum از hebben/zijn + voltooid deelwoord استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij hebt koffie gedronken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ساختار perfectum با فعل کمکی و voltooid deelwoord درست آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij hebt koffie drink.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Jij hebt koffie gedronken.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij hebt koffie drinken.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Jij hebt koffie gedronken.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij bent koffie gedronken.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Jij hebt koffie gedronken.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "perfectum_basic_error",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik heb brood koop.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "اشتباه فعل را اصلاح کن.",
+    "explanation_fa": "در perfectum با kopen باید «heb gekocht» بیاید.",
+    "correction_rule_fa": "در perfectum از hebben/zijn + voltooid deelwoord استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb brood koop.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Ik heb brood gekocht.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb brood gekocht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ساختار perfectum با فعل کمکی و voltooid deelwoord درست آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb brood koopt.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Ik heb brood gekocht.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben brood gekocht.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Ik heb brood gekocht.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "perfectum_basic_error",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Jullie hebben thuis gebleven.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "کدام جمله از نظر فعل درست است؟",
+    "explanation_fa": "با blijven در این جمله perfectum از «zijn» استفاده می‌شود: «zijn gebleven».",
+    "correction_rule_fa": "در perfectum از hebben/zijn + voltooid deelwoord استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie hebben thuis gebleven.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Jullie zijn thuis gebleven.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie zijn thuis blijven.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Jullie zijn thuis gebleven.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jullie zijn thuis gebleven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ساختار perfectum با فعل کمکی و voltooid deelwoord درست آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie zijn thuis blijft.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «Jullie zijn thuis gebleven.» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "verb_error",
+    "subtopic": "perfectum_basic_error",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "U heeft een bericht lees.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در perfectum با lezen شکل درست «heeft gelezen» است.",
+    "correction_rule_fa": "در perfectum از hebben/zijn + voltooid deelwoord استفاده می‌شود.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U heeft een bericht lees.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «U heeft een bericht gelezen.» است."
+      },
+      {
+        "key": "B",
+        "text_nl": "U heeft een bericht lezen.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «U heeft een bericht gelezen.» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "U bent een bericht gelezen.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum باید فعل کمکی و voltooid deelwoord درست بیاید؛ اصلاح درست «U heeft een bericht gelezen.» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "U heeft een bericht gelezen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ساختار perfectum با فعل کمکی و voltooid deelwoord درست آمده است."
+      }
+    ]
+  }
+]

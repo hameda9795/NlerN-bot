@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Handleiding wasmachine: «Gebruik nooit meer wasmiddel dan aangegeven op de verpakking. Te veel wasmiddel kan resten achterlaten en de machine beschadigen.»  Wat gebeurt er bij te veel wasmiddel?",
+    "question_text_fa": "با استفاده‌ی بیش‌ازحد از پودر شوینده چه اتفاقی می‌افتد؟",
+    "explanation_fa": "ممکن است باقی‌مانده‌ی شوینده روی لباس بماند و به خود ماشین لباسشویی هم آسیب برساند.",
+    "grammar_rule_fa": "«kan … beschadigen» یعنی احتمال آسیب وجود دارد، نه قطعیت.",
+    "extra_example_nl": "Te veel wasmiddel is niet beter, het is juist schadelijk.",
+    "extra_example_fa": "شوینده‌ی بیش‌ازحد بهتر نیست، بلکه مضر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De was wordt sneller schoon.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De machine gebruikt minder water.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی مصرف آب چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er kunnen resten achterblijven en de machine kan beschadigd raken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان دو خطر ذکرشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kleuren van de kleding worden feller.",
+        "is_correct": false,
+        "feedback_fa": "چنین اثری در متن ذکر نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bijsluiter medicijn: «Neem dit medicijn altijd met voedsel in, anders kan het maagklachten veroorzaken.»  Wanneer moet iemand dit medicijn innemen?",
+    "question_text_fa": "این دارو باید چه زمانی مصرف شود؟",
+    "explanation_fa": "این دارو باید همراه با غذا خورده شود، وگرنه ممکن است باعث ناراحتی معده شود.",
+    "grammar_rule_fa": "«anders kan het …» نتیجه‌ی احتمالیِ عدم رعایت دستور را نشان می‌دهد.",
+    "extra_example_nl": "Neem de tablet in tijdens het eten.",
+    "extra_example_fa": "قرص را حین غذا خوردن مصرف کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen als er maagklachten zijn.",
+        "is_correct": false,
+        "feedback_fa": "دستور همیشه با غذا است، نه فقط در صورت ناراحتی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Samen met voedsel, om maagklachten te voorkomen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دستور متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Twee uur na het eten.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید همراه غذا، نه بعد از آن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Altijd op een lege maag, vlak voor het slapen.",
+        "is_correct": false,
+        "feedback_fa": "عکس دستور متن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "safety",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Handleiding rookmelder: «Vervang de batterij zodra u een piepend geluid hoort. Test de melder daarna door op de knop te drukken.»  Wat is de eerste stap als de rookmelder piept?",
+    "question_text_fa": "اولین قدم هنگام شنیدن صدای بوق چیست؟",
+    "explanation_fa": "اولین کار عوض کردن باتری است؛ بعد از آن باید با فشردن دکمه، دستگاه را تست کرد.",
+    "grammar_rule_fa": "«daarna» نشان می‌دهد ترتیب دو مرحله را.",
+    "extra_example_nl": "Vervang eerst de batterij, test daarna de melder.",
+    "extra_example_fa": "اول باتری را عوض کن، بعد دستگاه را تست کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meteen op de testknop drukken zonder de batterij te vervangen.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب برعکس است؛ ابتدا باتری، سپس تست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De batterij vervangen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اولین اقدام طبق متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "De rookmelder van de muur halen en weggooien.",
+        "is_correct": false,
+        "feedback_fa": "چنین دستوری در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De brandweer bellen.",
+        "is_correct": false,
+        "feedback_fa": "متن درباره‌ی تعویض باتری است، نه اورژانس."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Handleiding magnetron: «Gebruik nooit metalen voorwerpen of aluminiumfolie in de magnetron. Dit kan vonken en schade veroorzaken.»  Wat mag niet in de magnetron?",
+    "question_text_fa": "چه چیزی نباید داخل مایکروویو قرار داده شود؟",
+    "explanation_fa": "استفاده از اشیای فلزی یا فویل آلومینیومی ممنوع است، چون می‌تواند باعث جرقه و آسیب شود.",
+    "grammar_rule_fa": "«dit kan … veroorzaken» نتیجه‌ی خطرناک را توضیح می‌دهد.",
+    "extra_example_nl": "Zet geen bord met een gouden randje in de magnetron.",
+    "extra_example_fa": "بشقاب با حاشیه‌ی طلایی را داخل مایکروویو نگذار.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Glazen bakjes zonder deksel.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی ظروف شیشه‌ای چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Papieren keukenrol.",
+        "is_correct": false,
+        "feedback_fa": "متن درباره‌ی دستمال کاغذی چیزی نگفته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Plastic bakjes met een magnetronlabel.",
+        "is_correct": false,
+        "feedback_fa": "این ظروف مخصوص مایکروویو مجازند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Metalen voorwerpen en aluminiumfolie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن منع می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Handleiding koffiezetapparaat: «Ontkalk het apparaat elke twee maanden bij normaal gebruik, of elke maand bij zeer hard water.»  Iemand woont in een gebied met zeer hard water. Hoe vaak moet die persoon ontkalken?",
+    "question_text_fa": "کسی که در منطقه‌ای با آب بسیار سخت زندگی می‌کند، هر چند وقت باید رسوب‌زدایی کند؟",
+    "explanation_fa": "چون آب او بسیار سخت است، طبق متن باید هر ماه یک‌بار رسوب‌زدایی کند، نه هر دو ماه.",
+    "grammar_rule_fa": "«of … bij …» یک استثنای شرطی برای حالت خاص است.",
+    "extra_example_nl": "Bij hard water moet je vaker ontkalken.",
+    "extra_example_fa": "با آب سخت، باید بیشتر رسوب‌زدایی کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Eén keer per jaar.",
+        "is_correct": false,
+        "feedback_fa": "چنین بازه‌ای در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nooit, want ontkalken is niet nodig bij hard water.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ آب سخت نیاز به رسوب‌زدایی بیشتر دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Elke maand.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ چون آب او بسیار سخت است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Elke twee maanden, net als iedereen.",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای آب معمولی است، نه آب بسیار سخت."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Montage-instructie kast: «Bevestig eerst de zijpanelen aan de achterwand, voordat u de planken erin plaatst. Zet de kast pas rechtop nadat alle schroeven zijn vastgedraaid.»  Wat moet er als laatste gebeuren?",
+    "question_text_fa": "آخرین کاری که باید انجام شود چیست؟",
+    "explanation_fa": "کمد فقط بعد از سفت شدن تمام پیچ‌ها باید عمودی قرار داده شود؛ این آخرین مرحله است.",
+    "grammar_rule_fa": "«pas nadat …» یعنی فقط بعد از انجام کاری دیگر.",
+    "extra_example_nl": "Zet de kast pas overeind als alles vastzit.",
+    "extra_example_fa": "کمد را فقط وقتی همه چیز محکم شد، عمودی بگذار.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kast rechtop zetten, nadat alle schroeven vast zitten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً آخرین مرحله‌ی متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kast rechtop zetten vóórdat de schroeven vastzitten.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید فقط بعد از سفت شدن پیچ‌ها، نه قبل از آن."
+      },
+      {
+        "key": "C",
+        "text_nl": "De zijpanelen aan de achterwand bevestigen.",
+        "is_correct": false,
+        "feedback_fa": "این اولین مرحله است، نه آخرین."
+      },
+      {
+        "key": "D",
+        "text_nl": "De planken in de kast plaatsen, vóór de zijpanelen.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب برعکس است؛ اول پنل‌های کناری، بعد قفسه‌ها."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "safety",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Instructie brandblusser: «Gebruik deze brandblusser alleen bij een klein, beginnend vuur. Bij een groter vuur verlaat u direct het gebouw en belt u 112.»  Wat moet iemand doen bij een groot vuur?",
+    "question_text_fa": "در صورت آتش‌سوزی بزرگ باید چه کاری انجام شود؟",
+    "explanation_fa": "در آتش بزرگ باید فوراً ساختمان را ترک کرد و با ۱۱۲ تماس گرفت، نه اینکه با کپسول آتش‌نشانی مقابله کرد.",
+    "grammar_rule_fa": "«alleen bij …» محدودیتِ استفاده را نشان می‌دهد؛ خارج از آن، اقدامِ دیگری لازم است.",
+    "extra_example_nl": "Bij een groot vuur is vluchten belangrijker dan blussen.",
+    "extra_example_fa": "در آتش بزرگ، فرار مهم‌تر از خاموش کردن است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het gebouw verlaten en 112 bellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دستورِ متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wachten tot het vuur vanzelf uitgaat.",
+        "is_correct": false,
+        "feedback_fa": "دستور صریح این است که باید ساختمان را ترک کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Water over het vuur gooien.",
+        "is_correct": false,
+        "feedback_fa": "چنین دستوری در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De brandblusser blijven gebruiken tot het vuur uit is.",
+        "is_correct": false,
+        "feedback_fa": "کپسول فقط برای آتش کوچک است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "EHBO-instructie: «Leg een bewusteloos persoon die wel ademt in de stabiele zijligging. Draai het hoofd iets naar achteren, zodat de luchtweg vrij blijft.»  Waarom wordt het hoofd naar achteren gedraaid?",
+    "question_text_fa": "چرا سر کمی به عقب چرخانده می‌شود؟",
+    "explanation_fa": "این کار برای باز نگه‌داشتن راه تنفسی فرد بی‌هوش انجام می‌شود.",
+    "grammar_rule_fa": "«zodat …» هدف یک اقدام را توضیح می‌دهد.",
+    "extra_example_nl": "Zo blijft de luchtweg open en kan de persoon ademen.",
+    "extra_example_fa": "این‌طور راه تنفسی باز می‌ماند و فرد می‌تواند نفس بکشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om de persoon warm te houden.",
+        "is_correct": false,
+        "feedback_fa": "این ارتباطی با گرم نگه‌داشتن ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om de luchtweg vrij te houden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً هدفِ ذکرشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om de bloeddruk te verlagen.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی فشار خون چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om de persoon wakker te maken.",
+        "is_correct": false,
+        "feedback_fa": "هدف چرخاندن سر بیدار کردن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Handleiding vaatwasser: «Reinig het filter onderin de machine minstens één keer per maand, anders kan de vaatwasser minder goed reinigen en gaan ruiken.»  Wat gebeurt er als het filter niet wordt schoongemaakt?",
+    "question_text_fa": "اگر فیلتر تمیز نشود چه اتفاقی می‌افتد؟",
+    "explanation_fa": "ماشین ظرفشویی ممکن است ظرف‌ها را بدتر بشوید و بو بگیرد.",
+    "grammar_rule_fa": "«anders kan … en …» دو پیامدِ منفی را با هم می‌آورد.",
+    "extra_example_nl": "Een vies filter zorgt voor een slechte geur.",
+    "extra_example_fa": "فیلتر کثیف باعث بوی بد می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De machine gaat automatisch sneller draaien.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De machine reinigt minder goed en kan gaan ruiken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً هر دو پیامدِ متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is niets aan de hand, het filter is niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De machine gebruikt minder stroom.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی مصرف برق چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Handleiding stofzuiger: «Vervang de stofzak zodra het indicatielampje rood oplicht. Blijft u zuigen met een volle zak, dan zuigt de machine minder goed.»  Wanneer moet de stofzak vervangen worden?",
+    "question_text_fa": "کیسه‌ی جاروبرقی چه زمانی باید تعویض شود؟",
+    "explanation_fa": "کیسه باید به محض روشن شدن چراغ قرمز تعویض شود.",
+    "grammar_rule_fa": "«zodra …» یعنی بلافاصله وقتی که …",
+    "extra_example_nl": "Vervang de zak zodra het lampje rood wordt.",
+    "extra_example_fa": "به‌محض قرمز شدن چراغ، کیسه را عوض کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nooit, de zak hoeft niet vervangen te worden.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zodra het indicatielampje rood oplicht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دستور متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Eén keer per jaar, ongeacht het lampje.",
+        "is_correct": false,
+        "feedback_fa": "چنین بازه‌ی ثابتی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Pas als de zak helemaal scheurt.",
+        "is_correct": false,
+        "feedback_fa": "متن نشانه‌ی چراغ را نشانه می‌داند، نه پارگی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Handleiding cv-ketel: «Als het display een storingscode toont, drukt u eenmaal op de resetknop. Verschijnt de code opnieuw? Bel dan een monteur en probeer niet nogmaals te resetten.»  Wat moet iemand doen als de storingscode na het resetten terugkomt?",
+    "question_text_fa": "اگر بعد از ریست، کد خطا دوباره ظاهر شود، باید چه کرد؟",
+    "explanation_fa": "باید با یک تعمیرکار تماس گرفته شود و دیگر نباید دوباره دکمه‌ی ریست را فشرد.",
+    "grammar_rule_fa": "«probeer niet nogmaals te …» یک دستورِ منفی صریح است.",
+    "extra_example_nl": "Reset niet nogmaals; bel meteen een monteur.",
+    "extra_example_fa": "دوباره ریست نکن؛ فوراً با تعمیرکار تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het display uitschakelen en negeren.",
+        "is_correct": false,
+        "feedback_fa": "چنین دستوری در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een monteur bellen en niet opnieuw resetten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دستور متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nog drie keer op de resetknop drukken.",
+        "is_correct": false,
+        "feedback_fa": "متن دقیقاً می‌گوید دوباره ریست نکن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zelf de ketel openmaken om te repareren.",
+        "is_correct": false,
+        "feedback_fa": "متن پیشنهاد می‌کند تعمیرکار خبر شود، نه تعمیر خودسرانه."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Instructie op fles schoonmaakmiddel: «Meng dit product nooit met bleekmiddel. Er kunnen giftige dampen ontstaan.»  Wat is het gevaar bij het mengen van dit product met bleek?",
+    "question_text_fa": "خطر ترکیب این محصول با سفیدکننده چیست؟",
+    "explanation_fa": "ممکن است گازهای سمی تولید شود که برای سلامتی خطرناک است.",
+    "grammar_rule_fa": "«er kunnen … ontstaan» یعنی احتمال به‌وجود آمدنِ خطر وجود دارد.",
+    "extra_example_nl": "Meng schoonmaakmiddelen nooit zomaar met elkaar.",
+    "extra_example_fa": "هرگز مواد شوینده را با هم مخلوط نکن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De fles kan gaan lekken.",
+        "is_correct": false,
+        "feedback_fa": "چنین خطری در متن ذکر نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kleur van het schoonmaakmiddel verandert.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی تغییر رنگ چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het schoonmaakmiddel werkt daardoor beter.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er kunnen giftige dampen ontstaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً خطرِ ذکرشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "safety",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Instructie autostoeltje: «Zorg dat de gordel strak over het kinderzitje ligt, zonder ruimte om een vinger tussen te steken.»  Hoe controleer je of de gordel goed vastzit?",
+    "question_text_fa": "چگونه می‌توان مطمئن شد که کمربند به‌درستی بسته شده است؟",
+    "explanation_fa": "کمربند باید آنقدر محکم باشد که نتوان انگشتی بین آن و صندلی کودک جای داد.",
+    "grammar_rule_fa": "«zonder ruimte om …» یعنی هیچ فضایی باقی نماند.",
+    "extra_example_nl": "Als je een vinger ertussen kunt steken, zit de gordel te los.",
+    "extra_example_fa": "اگر انگشتی بین آن‌ها جا شود، کمربند شل بسته شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Controleren of het kind kan bewegen in het zitje.",
+        "is_correct": false,
+        "feedback_fa": "این معیار در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Controleren of de gordel een beetje los hangt.",
+        "is_correct": false,
+        "feedback_fa": "عکس دستور متن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Controleren of het zitje van kleur past bij de auto.",
+        "is_correct": false,
+        "feedback_fa": "این کاملاً بی‌ربط به ایمنی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Controleren of er geen ruimte is voor een vinger tussen gordel en zitje.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً معیارِ متن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Instructie software-update: «Schakel het apparaat niet uit tijdens de installatie. Dit kan de software beschadigen, waardoor het apparaat niet meer opstart.»  Wat mag iemand niet doen tijdens de installatie?",
+    "question_text_fa": "در حین نصب چه کاری نباید انجام شود؟",
+    "explanation_fa": "نباید دستگاه را در حین نصب خاموش کرد، چون ممکن است نرم‌افزار آسیب ببیند و دستگاه دیگر روشن نشود.",
+    "grammar_rule_fa": "«waardoor …» نتیجه‌ی نهایی یک اقدامِ اشتباه را نشان می‌دهد.",
+    "extra_example_nl": "Wacht tot de installatie klaar is voordat je iets doet.",
+    "extra_example_fa": "صبر کن تا نصب تمام شود، قبل از هر اقدامی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het apparaat aangesloten laten op stroom.",
+        "is_correct": false,
+        "feedback_fa": "متصل بودن به برق مشکلی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wachten tot de installatie klaar is.",
+        "is_correct": false,
+        "feedback_fa": "صبر کردن دقیقاً همان کاری است که باید انجام شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het apparaat uitschakelen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً چیزی که ممنوع است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het scherm van het apparaat schoonmaken.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Instructie zonnebrandcrème: «Breng de crème twintig minuten voor het zonnen aan en herhaal dit elke twee uur, of direct na het zwemmen.»  Wanneer moet de crème opnieuw worden aangebracht als iemand net heeft gezwommen?",
+    "question_text_fa": "اگر کسی تازه شنا کرده باشد، کِی باید کرم را دوباره بزند؟",
+    "explanation_fa": "بلافاصله بعد از شنا کردن باید کرم دوباره زده شود، صرف‌نظر از اینکه دو ساعت گذشته یا نه.",
+    "grammar_rule_fa": "«of direct na …» یک استثنای زمانی اضافه بر قانون کلی است.",
+    "extra_example_nl": "Na het zwemmen smeer je meteen opnieuw, ook al is het nog geen twee uur.",
+    "extra_example_fa": "بعد از شنا فوراً دوباره بزن، حتی اگر هنوز دو ساعت نگذشته باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nooit opnieuw, één keer per dag is genoeg.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Pas na precies twee uur, ongeacht het zwemmen.",
+        "is_correct": false,
+        "feedback_fa": "متن یک استثنای زمانی برای شنا کردن دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Direct na het zwemmen, ook al zijn er nog geen twee uur voorbij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً استثنای متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen als de huid al rood is.",
+        "is_correct": false,
+        "feedback_fa": "چنین شرطی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Instructie broodbakmachine: «Doe eerst de vloeibare ingrediënten in de bak, daarna het meel, en leg de gist als laatste bovenop. Meng de gist niet meteen met het water.»  Wat is de juiste volgorde?",
+    "question_text_fa": "ترتیب صحیح چیست؟",
+    "explanation_fa": "ابتدا مایعات، سپس آرد و در آخر مخمر روی همه ریخته می‌شود، بدون تماس مستقیم مخمر با آب.",
+    "grammar_rule_fa": "«eerst …, daarna …, als laatste …» ترتیب سه‌مرحله‌ای را نشان می‌دهد.",
+    "extra_example_nl": "Water eerst, dan meel, dan gist bovenop.",
+    "extra_example_fa": "اول آب، بعد آرد، بعد مخمر روی همه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meel eerst, dan vloeistof, dan gist.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب مایعات و آرد جابه‌جا شده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gist eerst met het water mengen, dan meel.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید مخمر نباید مستقیم با آب مخلوط شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alles tegelijk in de bak doen.",
+        "is_correct": false,
+        "feedback_fa": "متن ترتیبِ مشخصی می‌خواهد، نه هم‌زمان."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vloeistof, dan meel, dan gist bovenop.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً ترتیب متن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "safety",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Waarschuwing stopcontact: «Sluit niet meer dan drie apparaten tegelijk aan op één stekkerdoos. Overbelasting kan brand veroorzaken.»  Wat is het risico bij te veel apparaten op één stekkerdoos?",
+    "question_text_fa": "خطر اتصال تعداد زیاد دستگاه به یک چندراهی چیست؟",
+    "explanation_fa": "اضافه‌بار می‌تواند باعث آتش‌سوزی شود.",
+    "grammar_rule_fa": "«kan … veroorzaken» یعنی احتمال خطر وجود دارد.",
+    "extra_example_nl": "Te veel apparaten tegelijk kan gevaarlijk zijn.",
+    "extra_example_fa": "استفاده‌ی هم‌زمان از دستگاه‌های زیاد می‌تواند خطرناک باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Er kan brand ontstaan door overbelasting.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً خطرِ ذکرشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De stroomrekening wordt automatisch lager.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی صورت‌حساب چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er gebeurt niets, drie is juist het minimum.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید بیشتر از سه دستگاه ممنوع است، نه حداقل."
+      },
+      {
+        "key": "D",
+        "text_nl": "De apparaten gaan sneller opladen.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Instructie babyflesje: «Warm de melk nooit op in de magnetron, want de melk kan ongelijk heet worden. Gebruik een flessenwarmer of een kom warm water.»  Waarom mag een magnetron niet gebruikt worden?",
+    "question_text_fa": "چرا نباید از مایکروویو استفاده شود؟",
+    "explanation_fa": "چون شیر ممکن است به‌طور نامساوی گرم شود و بخشی از آن خیلی داغ باشد.",
+    "grammar_rule_fa": "«ongelijk heet worden» یعنی گرمای غیریکنواخت، نه گرمای زیاد کلی.",
+    "extra_example_nl": "Sommige delen van de melk kunnen te heet worden.",
+    "extra_example_fa": "بخش‌هایی از شیر ممکن است خیلی داغ شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het flesje kan smelten in de magnetron.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De melk kan ongelijk heet worden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دلیل متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "De magnetron gaat kapot van melk.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De melk verliest zijn kleur.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی رنگ شیر چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Handleiding wasdroger: «Maak het pluizenfilter na elke droogbeurt schoon. Een vol filter vermindert de luchtstroom en verlengt de droogtijd.»  Hoe vaak moet het filter schoongemaakt worden?",
+    "question_text_fa": "فیلتر خشک‌کن چند وقت یک‌بار باید تمیز شود؟",
+    "explanation_fa": "باید بعد از هر بار استفاده از خشک‌کن، فیلتر تمیز شود.",
+    "grammar_rule_fa": "«na elke droogbeurt» یعنی بعد از هر بار استفاده، بدون استثنا.",
+    "extra_example_nl": "Maak het filter schoon na elk gebruik.",
+    "extra_example_fa": "بعد از هر بار استفاده، فیلتر را تمیز کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen als het wasgoed nat blijft.",
+        "is_correct": false,
+        "feedback_fa": "دستور همیشگی است، نه شرطی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nooit, het filter reinigt zichzelf.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Na elke keer dat de droger is gebruikt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دستور متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Eén keer per maand.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید بعد از هر استفاده، نه یک‌بار در ماه."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "safety",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Veiligheidsinstructie grasmaaier: «Controleer altijd of het gazon vrij is van stenen en speelgoed voordat u begint. Draag stevige schoenen en gebruik de maaier nooit blootsvoets of op sandalen.»  Wat moet er gebeuren vóór het maaien?",
+    "question_text_fa": "قبل از چمن‌زنی چه کاری باید انجام شود؟",
+    "explanation_fa": "باید بررسی شود که چمن عاری از سنگ و اسباب‌بازی است، پیش از شروع کار.",
+    "grammar_rule_fa": "«voordat u begint» زمان اقدام را مشخص می‌کند.",
+    "extra_example_nl": "Controleer het gazon eerst, begin daarna pas.",
+    "extra_example_fa": "اول چمن را بررسی کن، بعد شروع کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het gazon controleren op stenen en speelgoed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دستور متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op blote voeten beginnen met maaien.",
+        "is_correct": false,
+        "feedback_fa": "متن دقیقاً این کار را منع می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sandalen aantrekken voor comfort.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید کفش محکم، نه صندل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Eerst het gras natmaken met water.",
+        "is_correct": false,
+        "feedback_fa": "چنین دستوری در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Instructie verf: «Laat elke laag minstens vier uur drogen voordat u de volgende laag aanbrengt. Bij vochtig weer kan dit langer duren.»  Wat moet iemand doen als het weer erg vochtig is?",
+    "question_text_fa": "اگر هوا خیلی مرطوب باشد، چه باید کرد؟",
+    "explanation_fa": "در هوای مرطوب باید بیشتر از چهار ساعتِ معمول صبر کرد تا لایه‌ی رنگ خشک شود.",
+    "grammar_rule_fa": "«dit kan langer duren» یعنی زمان استاندارد ممکن است کافی نباشد.",
+    "extra_example_nl": "Bij regen wacht je langer dan vier uur.",
+    "extra_example_fa": "در هوای بارانی، بیش از چهار ساعت صبر کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Precies vier uur wachten, niet meer en niet minder.",
+        "is_correct": false,
+        "feedback_fa": "در هوای مرطوب باید بیشتر صبر کرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Minder dan vier uur wachten om tijd te besparen.",
+        "is_correct": false,
+        "feedback_fa": "این خلاف دستورِ حداقلِ زمانِ لازم است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Langer dan vier uur wachten voordat de volgende laag komt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً استثنای متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Meteen de volgende laag aanbrengen, ongeacht het weer.",
+        "is_correct": false,
+        "feedback_fa": "عکس دستور متن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "safety",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Instructie rookmelder: «Test de rookmelder elke week door de testknop drie seconden ingedrukt te houden.»  Hoe vaak moet de melder getest worden?",
+    "question_text_fa": "چند وقت یک‌بار باید دستگاه تست شود؟",
+    "explanation_fa": "باید هر هفته با فشردن دکمه‌ی تست به مدت سه ثانیه، دستگاه بررسی شود.",
+    "grammar_rule_fa": "«elke week» یعنی هر هفته، نه یک‌بار برای همیشه.",
+    "extra_example_nl": "Test de melder elke zondag als vaste gewoonte.",
+    "extra_example_fa": "هر یکشنبه به‌عنوان یک عادت، دستگاه را تست کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nooit, testen is niet nodig.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen bij het plaatsen van een nieuwe batterij.",
+        "is_correct": false,
+        "feedback_fa": "متن یک بازه‌ی ثابتِ هفتگی می‌خواهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Eén keer per jaar.",
+        "is_correct": false,
+        "feedback_fa": "این بازه با متن مطابقت ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Elke week.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً بازه‌ی متن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Instructie gaskachel: «Gebruik deze kachel alleen in een goed geventileerde ruimte. Zonder voldoende ventilatie kan er een gevaarlijke concentratie koolmonoxide ontstaan.»  Wat is het gevaar bij slechte ventilatie?",
+    "question_text_fa": "خطر تهویه‌ی ضعیف چیست؟",
+    "explanation_fa": "ممکن است غلظت خطرناکی از گاز مونوکسید کربن ایجاد شود.",
+    "grammar_rule_fa": "«zonder voldoende ventilatie» یک شرط منفی است که نتیجه‌ی خطرناک به همراه دارد.",
+    "extra_example_nl": "Open een raam om koolmonoxide te voorkomen.",
+    "extra_example_fa": "برای جلوگیری از مونوکسید کربن، پنجره را باز کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Er kan een gevaarlijke hoeveelheid koolmonoxide ontstaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً خطرِ ذکرشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De energierekening wordt hoger.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن ذکر نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kachel gaat vanzelf harder branden.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De ruimte wordt te koud.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی سرما چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Instructie wandrek: «Belast dit rek met maximaal 15 kilo per plank. Bij overbelasting kan het rek van de muur loskomen.»  Iemand zet 20 kilo aan boeken op één plank. Wat kan er gebeuren?",
+    "question_text_fa": "اگر کسی ۲۰ کیلو کتاب روی یک قفسه بگذارد، چه اتفاقی ممکن است بیفتد؟",
+    "explanation_fa": "چون از سقف مجاز ۱۵ کیلویی بیشتر است، ممکن است قفسه از دیوار جدا شود.",
+    "grammar_rule_fa": "«maximaal 15 kilo» سقف مجاز را مشخص می‌کند.",
+    "extra_example_nl": "Meer dan 15 kilo is te zwaar voor deze plank.",
+    "extra_example_fa": "بیش از ۱۵ کیلو برای این قفسه سنگین است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets, want 20 kilo is nog steeds licht.",
+        "is_correct": false,
+        "feedback_fa": "این از سقف مجاز فراتر می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het rek wordt automatisch sterker.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی امکان‌پذیر نیست و در متن هم نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De boeken vallen automatisch terug in de kast.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه بی‌معنی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het rek kan van de muur loskomen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً خطرِ ذکرشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Instructie contactlenzen: «Reinig de lenzen elke avond met de vloeistof en vervang de vloeistof in het lenshouder ook elke keer. Gebruik nooit oude vloeistof opnieuw.»  Wat mag niet worden hergebruikt?",
+    "question_text_fa": "چه چیزی نباید دوباره استفاده شود؟",
+    "explanation_fa": "مایع کهنه‌ی موجود در محفظه نباید دوباره استفاده شود؛ باید هر بار تعویض شود.",
+    "grammar_rule_fa": "«nooit … opnieuw» یک ممنوعیتِ قطعی است.",
+    "extra_example_nl": "Gooi de oude vloeistof altijd weg.",
+    "extra_example_fa": "همیشه مایع کهنه را دور بریز.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Oude reinigingsvloeistof.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً چیزی که ممنوع است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De contactlenzen zelf.",
+        "is_correct": false,
+        "feedback_fa": "متن درباره‌ی خودِ لنز صحبت نمی‌کند، بلکه درباره‌ی مایع است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De lenshouder zelf.",
+        "is_correct": false,
+        "feedback_fa": "محفظه قابل استفاده‌ی مجدد است، فقط مایع نه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De verpakking van de lenzen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "safety",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Waarschuwing speelgoedverpakking: «Niet geschikt voor kinderen jonger dan drie jaar. Bevat kleine onderdelen, verstikkingsgevaar.»  Waarom is dit speelgoed niet geschikt voor jonge kinderen?",
+    "question_text_fa": "چرا این اسباب‌بازی برای کودکان خردسال مناسب نیست؟",
+    "explanation_fa": "چون قطعات کوچک دارد که خطر خفگی ایجاد می‌کند.",
+    "grammar_rule_fa": "«bevat …» ویژگیِ محصول را توضیح می‌دهد که خطر ایجاد می‌کند.",
+    "extra_example_nl": "Kleine onderdelen zijn gevaarlijk voor jonge kinderen.",
+    "extra_example_fa": "قطعات کوچک برای بچه‌های خردسال خطرناک هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het speelgoed heeft scherpe kleuren.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het bevat kleine onderdelen met verstikkingsgevaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دلیلِ ذکرشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het speelgoed is te duur voor jonge kinderen.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het speelgoed maakt te veel lawaai.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی صدا چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Instructie airconditioning: «Reinig het filter elke maand tijdens intensief gebruik in de zomer. Bij incidenteel gebruik is reinigen om de drie maanden voldoende.»  Iemand gebruikt de airco alleen af en toe, een paar keer per zomer. Hoe vaak moet die persoon het filter reinigen?",
+    "question_text_fa": "کسی که کولر را فقط گاه‌گاهی استفاده می‌کند، هر چند وقت باید فیلتر را تمیز کند؟",
+    "explanation_fa": "چون استفاده‌ی او گاه‌به‌گاه است، طبق متن هر سه ماه یک‌بار کافی است، نه هر ماه.",
+    "grammar_rule_fa": "«bij incidenteel gebruik» شرط متفاوتی از «intensief gebruik» ایجاد می‌کند.",
+    "extra_example_nl": "Bij weinig gebruik hoeft het filter minder vaak schoon.",
+    "extra_example_fa": "با استفاده‌ی کم، فیلتر کمتر نیاز به تمیزکاری دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Elke week.",
+        "is_correct": false,
+        "feedback_fa": "چنین بازه‌ای در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Elke maand, net als bij intensief gebruik.",
+        "is_correct": false,
+        "feedback_fa": "این بازه فقط برای استفاده‌ی زیاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nooit, bij incidenteel gebruik is reinigen niet nodig.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید هر سه ماه، نه هرگز."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om de drie maanden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ چون استفاده‌اش گاه‌به‌گاه است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Instructie printer: «Vervang de inktcartridge pas wanneer het lampje continu rood brandt. Bij knipperend rood licht is er nog voldoende inkt voor enkele pagina's.»  Wat betekent een knipperend rood lampje?",
+    "question_text_fa": "چراغ قرمز چشمک‌زن چه معنایی دارد؟",
+    "explanation_fa": "یعنی هنوز جوهر کافی برای چند صفحه باقی مانده، نیازی به تعویض فوری نیست.",
+    "grammar_rule_fa": "تفاوتِ «knipperend» (چشمک‌زن) و «continu» (ثابت) در متن مهم است.",
+    "extra_example_nl": "Bij knipperend licht kun je nog even doorprinten.",
+    "extra_example_fa": "با چراغ چشمک‌زن هنوز می‌توانی کمی چاپ کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Er is nog inkt voor een paar pagina's.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً معنای متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er is geen inkt meer over.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید هنوز کمی جوهر باقی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De printer is helemaal kapot.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De cartridge moet meteen vervangen worden.",
+        "is_correct": false,
+        "feedback_fa": "این فقط برای چراغ ثابتِ قرمز صادق است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Instructie elektrische deken: «Gebruik deze deken nooit in een vochtige omgeving en vouw hem niet op terwijl hij is ingeschakeld.»  Wat mag niet gebeuren terwijl de deken aanstaat?",
+    "question_text_fa": "وقتی پتو روشن است، چه کاری نباید انجام شود؟",
+    "explanation_fa": "نباید در حالی که پتو روشن است، آن را تا کرد.",
+    "grammar_rule_fa": "«niet … terwijl …» یعنی همزمان با یک وضعیت خاص، عمل دیگری ممنوع است.",
+    "extra_example_nl": "Schakel de deken eerst uit voordat je hem opvouwt.",
+    "extra_example_fa": "قبل از تا کردن، اول پتو را خاموش کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De deken opvouwen terwijl hij nog aanstaat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً منعِ ذکرشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De deken op een bed leggen.",
+        "is_correct": false,
+        "feedback_fa": "چنین منعی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De deken wassen op 30 graden.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی شستن چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De deken uitschakelen voor het opvouwen.",
+        "is_correct": false,
+        "feedback_fa": "این کار دقیقاً درست است، نه ممنوع."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "instruction_manual",
+    "life_context": "safety",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Instructie fietsverlichting: «Monteer het rode achterlicht zo dat het minstens 25 centimeter boven de grond zit, anders is het bij wet niet toegestaan.»  Wanneer is de fietsverlichting niet toegestaan?",
+    "question_text_fa": "نور دوچرخه چه زمانی مطابق قانون مجاز نیست؟",
+    "explanation_fa": "اگر ارتفاع چراغ عقب کمتر از ۲۵ سانتی‌متر از سطح زمین باشد، طبق قانون مجاز نیست.",
+    "grammar_rule_fa": "«minstens 25 centimeter» حداقلِ لازم را نشان می‌دهد.",
+    "extra_example_nl": "Lager dan 25 centimeter is niet toegestaan.",
+    "extra_example_fa": "کمتر از ۲۵ سانتی‌متر مجاز نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als het licht wit is in plaats van rood.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی رنگ نور چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als het licht precies 25 centimeter boven de grond zit.",
+        "is_correct": false,
+        "feedback_fa": "این دقیقاً حداقل مجاز است، نه زیر آن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als het licht lager dan 25 centimeter boven de grond zit.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً شرط عدمِ مجاز بودن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als de fiets geen bel heeft.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ متن است."
+      }
+    ]
+  }
+]

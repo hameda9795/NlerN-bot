@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht van de gemeente: «Geef uw nieuwe adres niet telefonisch door, maar alleen online of bij de balie. Dit moet binnen vijf dagen.»",
+    "question_text_fa": "طبق پیام، کاربر چگونه نمی‌تواند آدرس جدید را اطلاع دهد؟",
+    "explanation_fa": "متن می‌گوید فقط آنلاین یا حضوری ممکن است؛ تلفنی امکان ندارد.",
+    "grammar_rule_fa": "به کلمه‌ی «niet … maar alleen» توجه کن؛ راهِ رد شده مشخص است.",
+    "extra_example_nl": "Betaal niet telefonisch, maar alleen online of bij de balie.",
+    "extra_example_fa": "تلفنی پرداخت نکن، فقط آنلاین یا حضوری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Telefonisch",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید این راه ممکن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij de balie",
+        "is_correct": false,
+        "feedback_fa": "این راه هم مجاز است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Per post",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Online",
+        "is_correct": false,
+        "feedback_fa": "این راه مجاز است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw paspoort is niet klaar, zoals u dacht. Er is een probleem met de foto; u moet een nieuwe foto insturen.»",
+    "question_text_fa": "طبق پیام، کاربر باید چه کاری انجام دهد؟",
+    "explanation_fa": "متن می‌گوید پاسپورت هنوز آماده نیست چون مشکلی در عکس است؛ باید عکس جدیدی فرستاد.",
+    "grammar_rule_fa": "دلیل و اقدامِ لازم معمولاً بعد از توضیحِ مشکل می‌آید.",
+    "extra_example_nl": "Er is een probleem met het formulier; u moet een nieuw formulier insturen.",
+    "extra_example_fa": "مشکلی در فرم است؛ باید فرم جدید بفرستی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het paspoort ophalen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید هنوز آماده نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een nieuwe foto insturen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان درخواست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wachten zonder actie",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar een ander gemeentehuis gaan",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De gemeente is op vrijdag niet gesloten wegens een feestdag, zoals normaal. Dit jaar blijven we open, wegens veel aanvragen.»",
+    "question_text_fa": "کدام جمله بر اساس پیام درست است؟",
+    "explanation_fa": "متن می‌گوید امسال، برخلاف روال معمول، شهرداری جمعه باز می‌ماند چون درخواست‌ها زیاد است.",
+    "grammar_rule_fa": "به کلمه‌ی «dit jaar … wegens» توجه کن؛ این استثنا را نشان می‌دهد.",
+    "extra_example_nl": "De winkel blijft dit jaar open op de feestdag, wegens de drukte.",
+    "extra_example_fa": "امسال فروشگاه به‌خاطر شلوغی، تعطیلی باز می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Er zijn dit jaar geen aanvragen.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De gemeente is vrijdag gesloten.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید امسال باز است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De gemeente blijft dit jaar open op vrijdag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De gemeente is altijd gesloten op feestdagen.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw aanvraag is niet binnen twee weken klaar, zoals normaal. Door drukte duurt het dit keer vier weken.»",
+    "question_text_fa": "طبق پیام، این بار پاسخ درخواست تا چه زمانی طول می‌کشد؟",
+    "explanation_fa": "متن می‌گوید معمولاً دو هفته طول می‌کشد، اما این بار به‌خاطر شلوغی چهار هفته طول می‌کشد.",
+    "grammar_rule_fa": "به زمانِ استثنایی که بعد از «dit keer» می‌آید توجه کن.",
+    "extra_example_nl": "Door drukte duurt de levering dit keer twee weken, niet één week.",
+    "extra_example_fa": "به‌خاطر شلوغی، این بار تحویل نه یک هفته، بلکه دو هفته طول می‌کشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zes weken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Eén week",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Twee weken",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ معمول است، نه این بار."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vier weken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «dit keer vier weken»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Het grofvuil wordt deze week niet op donderdag opgehaald, zoals normaal, maar al op woensdag, wegens een feestdag.»",
+    "question_text_fa": "طبق پیام، این هفته زباله‌ی بزرگ چه روزی جمع‌آوری می‌شود؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر تعطیلی، این هفته زودتر، یعنی چهارشنبه جمع‌آوری می‌شود؛ پنجشنبه فقط روزِ معمول است.",
+    "grammar_rule_fa": "زمانِ استثنایی که بعد از «maar al» می‌آید درست است.",
+    "extra_example_nl": "De post komt deze week al dinsdag, niet woensdag zoals normaal.",
+    "extra_example_fa": "پست این هفته سه‌شنبه می‌آید، نه چهارشنبه که معمول است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Woensdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید این هفته «al op woensdag»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Donderdag",
+        "is_correct": false,
+        "feedback_fa": "این روزِ معمول است، نه این هفته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zaterdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «U moet geen afspraak maken voor uw identiteitskaart. Voor het paspoort is een afspraak wel verplicht.»",
+    "question_text_fa": "طبق پیام، برای کدام مدرک باید وقت گرفت؟",
+    "explanation_fa": "متن می‌گوید برای کارت شناسایی وقت لازم نیست، اما برای پاسپورت وقت گرفتن اجباری است.",
+    "grammar_rule_fa": "به کلمه‌ی «wel verplicht» توجه کن؛ این نشان می‌دهد کدام مورد اجباری است.",
+    "extra_example_nl": "Voor een lening is een afspraak wel verplicht, voor advies niet.",
+    "extra_example_fa": "برای وام گرفتن وقت اجباری است، برای مشاوره لازم نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De identiteitskaart",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید لازم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het paspoort",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Beide documenten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw belastingaanslag is niet per e-mail verstuurd, want dat kan niet meer. Ze is per post verstuurd, zoals altijd.»",
+    "question_text_fa": "کدام جمله بر اساس پیام درست است؟",
+    "explanation_fa": "متن می‌گوید ایمیل دیگر ممکن نیست؛ برگه‌ی مالیات با پست فرستاده شده.",
+    "grammar_rule_fa": "به کلمه‌ی «niet … want» توجه کن؛ دلیلِ رد شدنِ راهِ اول را نشان می‌دهد.",
+    "extra_example_nl": "Het contract is niet per e-mail gestuurd, want dat kan niet meer. Het is per post gestuurd.",
+    "extra_example_fa": "قرارداد دیگر ایمیل نمی‌شود؛ با پست فرستاده شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niet meer nodig",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Per e-mail verstuurd",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید این راه دیگر ممکن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Per post verstuurd",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nog niet verstuurd",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De gemeentebalie is vandaag niet de hele dag open. Alleen tussen 9:00 en 12:00 uur kunt u langskomen, zonder afspraak.»",
+    "question_text_fa": "طبق پیام، امروز چه زمانی می‌شود بدون وقت قبلی به شهرداری مراجعه کرد؟",
+    "explanation_fa": "متن می‌گوید فقط بین ساعت ۹:۰۰ تا ۱۲:۰۰ می‌شود بدون وقت مراجعه کرد.",
+    "grammar_rule_fa": "به بازه‌ی زمانیِ دقیق که بعد از «alleen» می‌آید توجه کن.",
+    "extra_example_nl": "Alleen tussen 13:00 en 15:00 uur kunt u zonder afspraak komen.",
+    "extra_example_fa": "فقط بین ساعت ۱۳:۰۰ تا ۱۵:۰۰ می‌شود بدون وقت آمد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tussen 12:00 en 15:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen op afspraak",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید بدونِ وقت هم می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De hele dag",
+        "is_correct": false,
+        "feedback_fa": "فقط یک بازه‌ی زمانیِ خاص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tussen 9:00 en 12:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان بازه‌ای که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Neem geen kopie mee van uw legitimatiebewijs, alleen het origineel. Een kopie wordt niet geaccepteerd.»",
+    "question_text_fa": "طبق پیام، کاربر باید چه چیزی بیاورد؟",
+    "explanation_fa": "متن می‌گوید کپی پذیرفته نمی‌شود؛ فقط نسخه‌ی اصلی باید آورده شود.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen» بعد از رد کردن مورد اول توجه کن.",
+    "extra_example_nl": "Neem geen kopie mee van het contract, alleen het origineel.",
+    "extra_example_fa": "کپی قرارداد رو نیار، فقط نسخه‌ی اصلی رو بیار.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het origineel",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌خواهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niets",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een kopie",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید کپی پذیرفته نمی‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw parkeervergunning is niet verlengd tot volgend jaar, zoals u vroeg, maar alleen tot juni, wegens nieuwe regels.»",
+    "question_text_fa": "طبق پیام، مجوز پارک واقعاً تا چه زمانی تمدید شده؟",
+    "explanation_fa": "متن می‌گوید درخواستِ کاربر تا سال بعد بود، اما به‌خاطر قوانینِ جدید فقط تا ژوئن تمدید شده.",
+    "grammar_rule_fa": "زمانِ نهایی بعد از «maar alleen tot» می‌آید.",
+    "extra_example_nl": "Uw abonnement is niet verlengd tot december, maar alleen tot september.",
+    "extra_example_fa": "اشتراک نه تا دسامبر، فقط تا سپتامبر تمدید شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tot volgende maand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tot juni",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «maar alleen tot juni»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tot volgend jaar",
+        "is_correct": false,
+        "feedback_fa": "این درخواستِ کاربر بود، اما اجرا نشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voor altijd",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De inschrijving voor de nieuwe school moet niet voor 1 maart, zoals vorig jaar. Dit jaar is de deadline 1 april.»",
+    "question_text_fa": "طبق پیام، امسال ثبت‌نام مدرسه باید قبل از چه تاریخی باشد؟",
+    "explanation_fa": "متن می‌گوید مهلتِ پارسال ۱ مارس بود؛ امسال مهلت ۱ آوریل است.",
+    "grammar_rule_fa": "به تفاوتِ «vorig jaar» و «dit jaar» در متن توجه کن.",
+    "extra_example_nl": "Dit jaar is de deadline voor de cursus 1 mei, niet 1 april zoals vorig jaar.",
+    "extra_example_fa": "امسال مهلتِ دوره ۱ مه است، نه ۱ آوریل که پارسال بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "1 januari",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "1 maart",
+        "is_correct": false,
+        "feedback_fa": "این تاریخِ پارسال بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "1 april",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید امسال مهلت 1 april است."
+      },
+      {
+        "key": "D",
+        "text_nl": "1 mei",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw huurtoeslag is deze maand niet lager, zoals u dacht. Ze is juist iets hoger, wegens een correctie.»",
+    "question_text_fa": "کدام جمله بر اساس پیام درست است؟",
+    "explanation_fa": "متن می‌گوید کمک‌هزینه‌ی اجاره امسال کمتر نشده، بلکه به‌خاطر یک اصلاح کمی بیشتر شده.",
+    "grammar_rule_fa": "به کلمه‌ی «niet … juist» توجه کن؛ این نشان می‌دهد چیزِ برعکس اتفاق افتاده.",
+    "extra_example_nl": "Uw salaris is deze maand niet lager, het is juist iets hoger.",
+    "extra_example_fa": "حقوق این ماه کمتر نشده، برعکس کمی بیشتر شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De huurtoeslag stopt.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De huurtoeslag blijft precies gelijk.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De huurtoeslag is lager.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید کمتر نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De huurtoeslag is iets hoger.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «U kunt uw formulier niet meer per post insturen. Vanaf nu kan dat alleen nog online.»",
+    "question_text_fa": "طبق پیام، از الان چگونه می‌شود فرم را ارسال کرد؟",
+    "explanation_fa": "متن می‌گوید ارسال با پست دیگر ممکن نیست؛ فقط ارسال آنلاین ممکن است.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen nog» توجه کن؛ فقط یک راه باقی مانده.",
+    "extra_example_nl": "Vanaf nu kan dat alleen nog telefonisch, niet meer per e-mail.",
+    "extra_example_fa": "از الان فقط تلفنی ممکن است، دیگر ایمیل نه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen online",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Per post of online",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Telefonisch",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen per post",
+        "is_correct": false,
+        "feedback_fa": "این راه دیگر ممکن نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De gemeente organiseert geen informatieavond over afval dit jaar. In plaats daarvan is er een avond over energie.»",
+    "question_text_fa": "طبق پیام، امسال موضوع جلسه‌ی اطلاع‌رسانی چیست؟",
+    "explanation_fa": "متن می‌گوید امسال به‌جای زباله، موضوع انرژی است.",
+    "grammar_rule_fa": "به کلمه‌ی «in plaats daarvan» توجه کن؛ موضوعِ جدید را نشان می‌دهد.",
+    "extra_example_nl": "In plaats van een cursus over koken is er dit jaar een cursus over tuinieren.",
+    "extra_example_fa": "امسال به‌جای دوره‌ی آشپزی، دوره‌ی باغبانی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Afval",
+        "is_correct": false,
+        "feedback_fa": "این موضوعِ امسال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Energie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان موضوعی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Belasting",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Parkeren",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw uitkering wordt deze maand niet op de 25e uitbetaald, zoals normaal, maar al op de 20e, wegens een feestdag.»",
+    "question_text_fa": "طبق پیام، این ماه مستمری چه روزی پرداخت می‌شود؟",
+    "explanation_fa": "متن می‌گوید به‌خاطر تعطیلی، این ماه زودتر، یعنی روز ۲۰ پرداخت می‌شود.",
+    "grammar_rule_fa": "زمانِ استثنایی که بعد از «maar al» می‌آید درست است.",
+    "extra_example_nl": "Het salaris wordt deze maand al op de 27e uitbetaald, niet op de 30e.",
+    "extra_example_fa": "حقوق این ماه روز ۲۷ پرداخت می‌شود، نه ۳۰.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op de 30e",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op de 15e",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Op de 20e",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید این ماه «al op de 20e»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op de 25e",
+        "is_correct": false,
+        "feedback_fa": "این روزِ معمول است، نه این ماه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Meld u niet op de dag zelf aan voor deze cursus. U moet minimaal een week van tevoren aanmelden, anders is er geen plek.»",
+    "question_text_fa": "طبق پیام، اگر کسی همان روز ثبت‌نام کند چه اتفاقی می‌افتد؟",
+    "explanation_fa": "متن می‌گوید اگر حداقل یک هفته قبل ثبت‌نام نشود، جایی وجود نخواهد داشت.",
+    "grammar_rule_fa": "به کلمه‌ی «anders» توجه کن؛ نتیجه‌ی عدمِ رعایتِ قانون را نشان می‌دهد.",
+    "extra_example_nl": "Bestel minimaal twee dagen van tevoren, anders is het niet op tijd klaar.",
+    "extra_example_fa": "حداقل دو روز قبل سفارش بده، وگرنه به‌موقع آماده نمی‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De cursus wordt afgelast",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Niets, het maakt niet uit",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is altijd een plek",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید اگر دیر ثبت‌نام کند، جایی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er is geen plek meer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De weg bij het gemeentehuis is deze week niet de hele week afgesloten. Alleen op woensdag is er wegwerk.»",
+    "question_text_fa": "طبق پیام، جاده‌ی کنار شهرداری چه روزی بسته است؟",
+    "explanation_fa": "متن می‌گوید جاده کل هفته بسته نیست، فقط چهارشنبه کار عمرانی است.",
+    "grammar_rule_fa": "به کلمه‌ی «alleen» توجه کن؛ فقط یک روز استثنا است.",
+    "extra_example_nl": "Alleen op donderdag is de weg bij de school afgesloten.",
+    "extra_example_fa": "فقط پنجشنبه جاده‌ی کنار مدرسه بسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alleen woensdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان روزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen in het weekend",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nooit",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De hele week",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید کل هفته بسته نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw rijbewijs is niet verlopen, zoals u dacht. Het is nog drie maanden geldig.»",
+    "question_text_fa": "کدام جمله بر اساس پیام درست است؟",
+    "explanation_fa": "متن می‌گوید گواهینامه منقضی نشده و هنوز سه ماه اعتبار دارد.",
+    "grammar_rule_fa": "به کلمه‌ی «niet … zoals u dacht» توجه کن؛ این نشان می‌دهد فرضِ اولیه اشتباه بود.",
+    "extra_example_nl": "Uw abonnement is niet verlopen, het is nog een maand geldig.",
+    "extra_example_fa": "اشتراکتان منقضی نشده، هنوز یک ماه اعتبار دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het rijbewijs is verlopen.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید منقضی نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het rijbewijs is nog drie maanden geldig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is een nieuw rijbewijs nodig.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het rijbewijs is voor altijd geldig.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De gemeente helpt u niet meer gratis bij belastingvragen. Bij het invullen van formulieren blijft de hulp wel gratis.»",
+    "question_text_fa": "طبق پیام، برای کدام مورد کمک همچنان رایگان است؟",
+    "explanation_fa": "متن می‌گوید کمکِ رایگان برای سؤالاتِ مالیاتی حذف شده، اما برای پر کردنِ فرم‌ها هنوز رایگان است.",
+    "grammar_rule_fa": "به کلمه‌ی «blijft wel» توجه کن؛ نشان می‌دهد این مورد تغییر نکرده.",
+    "extra_example_nl": "Bij het invullen van het formulier blijft de hulp wel gratis.",
+    "extra_example_fa": "برای پر کردنِ فرم، کمک همچنان رایگان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geen van beide",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Belastingvragen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید این دیگر رایگان نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het invullen van formulieren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Beide diensten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw klacht is niet binnen een week beantwoord, zoals normaal. Door de vakantieperiode duurt het dit keer drie weken.»",
+    "question_text_fa": "طبق پیام، این بار پاسخ شکایت چقدر طول می‌کشد؟",
+    "explanation_fa": "متن می‌گوید معمولاً یک هفته طول می‌کشد، اما به‌خاطر فصلِ تعطیلات این بار سه هفته طول می‌کشد.",
+    "grammar_rule_fa": "به زمانِ استثنایی که بعد از «dit keer» می‌آید توجه کن.",
+    "extra_example_nl": "Door de vakantieperiode duurt de reparatie dit keer twee weken.",
+    "extra_example_fa": "به‌خاطر فصل تعطیلات، تعمیر این بار دو هفته طول می‌کشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Eén dag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Eén week",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ معمول است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Twee weken",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Drie weken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «dit keer drie weken»."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De container wordt vandaag niet geleegd wegens een storing. Morgen komt de vrachtwagen wel gewoon langs.»",
+    "question_text_fa": "طبق پیام، فردا چه اتفاقی می‌افتد؟",
+    "explanation_fa": "متن می‌گوید امروز به‌خاطر خرابی سطل خالی نمی‌شود، اما فردا کامیون طبق معمول می‌آید.",
+    "grammar_rule_fa": "کلمه‌ی «wel gewoon» نشان می‌دهد فردا مشکلی نیست.",
+    "extra_example_nl": "Morgen komt de bus wel gewoon op tijd.",
+    "extra_example_fa": "فردا اتوبوس طبق معمول به‌موقع می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vrachtwagen komt morgen gewoon langs.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De storing duurt een week.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er komt helemaal geen vrachtwagen meer.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De container wordt ook morgen niet geleegd.",
+        "is_correct": false,
+        "feedback_fa": "فردا کامیون طبق معمول می‌آید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «U moet zich niet voor donderdag inschrijven voor de verkiezingen, zoals eerst gezegd. De deadline is verlengd tot zaterdag.»",
+    "question_text_fa": "طبق پیام، مهلتِ نهاییِ ثبت‌نام برای انتخابات چه روزی است؟",
+    "explanation_fa": "متن می‌گوید مهلتِ اولیه پنجشنبه بود، اما تا شنبه تمدید شده.",
+    "grammar_rule_fa": "زمانِ نهایی بعد از «verlengd tot» می‌آید.",
+    "extra_example_nl": "De deadline voor de cursus is verlengd tot zondag, niet vrijdag.",
+    "extra_example_fa": "مهلتِ دوره تا یکشنبه تمدید شده، نه جمعه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vrijdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zaterdag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «verlengd tot zaterdag»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Woensdag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Donderdag",
+        "is_correct": false,
+        "feedback_fa": "این مهلتِ قدیمی بود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw afvalpas is niet per post verstuurd, want die dienst is gestopt. U kunt de pas nu alleen ophalen bij de balie.»",
+    "question_text_fa": "طبق پیام، کاربر باید چه کاری انجام دهد؟",
+    "explanation_fa": "متن می‌گوید ارسال با پست دیگر ممکن نیست؛ کارت باید حضوری در باجه گرفته شود.",
+    "grammar_rule_fa": "به کلمه‌ی «niet … want» و راهِ جایگزینِ بعد از آن توجه کن.",
+    "extra_example_nl": "Uw pakket wordt niet meer thuisbezorgd. U kunt het nu alleen ophalen bij het depot.",
+    "extra_example_fa": "بسته دیگر به خانه فرستاده نمی‌شود؛ فقط از انبار قابل تحویل است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Niets doen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wachten op de post",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید پست دیگر ممکن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De pas ophalen bij de balie",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Online een nieuwe pas bestellen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De gemeente is telefonisch niet bereikbaar voor 8:30 uur. Na 17:00 uur kunt u wel nog een boodschap inspreken.»",
+    "question_text_fa": "طبق پیام، بعد از ساعت ۱۷:۰۰ کاربر چه کاری می‌تواند انجام دهد؟",
+    "explanation_fa": "متن می‌گوید بعد از ۱۷:۰۰ می‌شود پیام گذاشت، برخلافِ قبل از ۸:۳۰ که اصلاً پاسخگو نیستند.",
+    "grammar_rule_fa": "کلمه‌ی «wel nog» نشان‌دهنده‌ی استثنایی است که مجاز است.",
+    "extra_example_nl": "Na 18:00 uur kunt u wel nog een e-mail sturen.",
+    "extra_example_fa": "بعد از ساعت ۱۸:۰۰ می‌شود ایمیل فرستاد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meteen met iemand praten",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alleen morgen bellen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niets, de lijn is helemaal dicht",
+        "is_correct": false,
+        "feedback_fa": "می‌شه پیام گذاشت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een boodschap inspreken",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Breng uw oude paspoort niet mee als u een nieuwe aanvraagt, want dat is voor kinderen niet nodig. Voor volwassenen is het wel verplicht.»",
+    "question_text_fa": "طبق پیام، چه کسی لازم نیست پاسپورت قدیمی را بیاورد؟",
+    "explanation_fa": "متن می‌گوید فقط برای کودکان لازم نیست؛ برای بزرگسالان اجباری است.",
+    "grammar_rule_fa": "به کلمه‌ی «wel verplicht» توجه کن؛ نشان می‌دهد کدام گروه باید بیاورد.",
+    "extra_example_nl": "Voor kinderen is een handtekening niet nodig, voor volwassenen wel verplicht.",
+    "extra_example_fa": "برای کودکان امضا لازم نیست، برای بزرگسالان اجباری است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kinderen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان گروهی که متن می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Iedereen",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niemand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volwassenen",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید برای آن‌ها اجباری است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De subsidie voor zonnepanelen stopt niet aan het einde van dit jaar, zoals eerst gezegd. Ze loopt door tot volgend jaar juni.»",
+    "question_text_fa": "طبق پیام، یارانه‌ی پنل خورشیدی واقعاً تا چه زمانی ادامه دارد؟",
+    "explanation_fa": "متن می‌گوید ابتدا پایان امسال گفته شده بود، اما تا ژوئن سال بعد ادامه دارد.",
+    "grammar_rule_fa": "زمانِ نهایی بعد از «loopt door tot» می‌آید.",
+    "extra_example_nl": "De actie stopt niet volgende maand, ze loopt door tot december.",
+    "extra_example_fa": "تخفیف ماه بعد تمام نمی‌شود، تا دسامبر ادامه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Einde van dit jaar",
+        "is_correct": false,
+        "feedback_fa": "این زمانِ اشتباهِ اولیه بود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Volgend jaar juni",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید «loopt door tot volgend jaar juni»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Volgende maand",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vandaag",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw vergunning voor de verbouwing is niet afgewezen, zoals u vreesde. Ze is juist goedgekeurd, met een kleine aanpassing.»",
+    "question_text_fa": "کدام جمله بر اساس پیام درست است؟",
+    "explanation_fa": "متن می‌گوید مجوز رد نشده، برعکس با یک تغییرِ کوچک تأیید شده.",
+    "grammar_rule_fa": "به کلمه‌ی «niet … juist» توجه کن؛ این نشان می‌دهد چیزِ برعکس اتفاق افتاده.",
+    "extra_example_nl": "Uw sollicitatie is niet afgewezen, ze is juist goedgekeurd.",
+    "extra_example_fa": "درخواستِ استخدامتان رد نشده، برعکس تأیید شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Er is geen vergunning nodig.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vergunning is afgewezen.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید رد نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vergunning is goedgekeurd, met een aanpassing.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergunning is nog niet bekeken.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Kom niet naar de balie zonder afspraak voor de aangifte. Dit keer moet u eerst online een tijd reserveren.»",
+    "question_text_fa": "کاربر طبق پیام باید اول چه کاری انجام دهد؟",
+    "explanation_fa": "متن می‌خواهد کاربر اول به‌صورت آنلاین وقت رزرو کند، سپس مراجعه کند.",
+    "grammar_rule_fa": "به کلمه‌ی «eerst» توجه کن؛ ترتیبِ کار را نشان می‌دهد.",
+    "extra_example_nl": "Kom niet zonder ticket. Reserveer eerst online een plek.",
+    "extra_example_fa": "بدون بلیت نیا. اول آنلاین جا رزرو کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bellen naar de balie",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wachten op een brief",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Meteen naar de balie gaan",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید بدونِ وقت نباید بیایی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Online een tijd reserveren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌خواهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «De gemeente sluit vandaag niet een uur eerder, zoals gisteren. Vandaag is het gewoon tot 17:00 uur open.»",
+    "question_text_fa": "طبق پیام، امروز شهرداری تا چه ساعتی باز است؟",
+    "explanation_fa": "متن می‌گوید دیروز زودتر بسته شد، اما امروز طبق معمول تا ۱۷:۰۰ باز است.",
+    "grammar_rule_fa": "به تفاوتِ «gisteren» و «vandaag» در متن توجه کن.",
+    "extra_example_nl": "Vandaag is de winkel gewoon tot 18:00 uur open, niet zoals gisteren.",
+    "extra_example_fa": "امروز فروشگاه طبق معمول تا ۱۸:۰۰ باز است، نه مثل دیروز.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "17:00 uur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ متن می‌گوید امروز تا 17:00 باز است."
+      },
+      {
+        "key": "B",
+        "text_nl": "18:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "15:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "16:00 uur",
+        "is_correct": false,
+        "feedback_fa": "این ساعتِ دیروز بود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "reading",
+    "topic": "gemeente_message",
+    "life_context": "gemeente",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bericht: «Uw aanvraag voor een parkeerplek is niet afgewezen. Ze staat nog op de wachtlijst; u krijgt over een maand bericht.»",
+    "question_text_fa": "طبق پیام، وضعیتِ درخواستِ جای پارک چیست؟",
+    "explanation_fa": "متن می‌گوید درخواست رد نشده، هنوز در لیستِ انتظار است و ظرف یک ماه پاسخ می‌رسد.",
+    "grammar_rule_fa": "به کلمه‌ی «niet afgewezen» توجه کن؛ وضعیتِ واقعی بعد از آن می‌آید.",
+    "extra_example_nl": "Uw sollicitatie is niet afgewezen. Ze staat nog in behandeling.",
+    "extra_example_fa": "درخواست استخدامتان رد نشده؛ هنوز در حال بررسی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De aanvraag is afgewezen.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید رد نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De aanvraag staat op de wachtlijst.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که متن می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De aanvraag is goedgekeurd.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er is geen aanvraag gedaan.",
+        "is_correct": false,
+        "feedback_fa": "این اطلاعات با متن مطابقت ندارد یا برای این سؤال نیست."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Zullen we een teamlunch organiseren voor vrijdag?»  Jij: «Leuk idee, zal ik een lijst maken met wie er wel en niet kan?»  Wat stel jij voor?",
+    "question_text_fa": "کدام کمکِ عملی پیشنهاد داده می‌شود؟",
+    "explanation_fa": "پیشنهاد می‌شود لیستی از حاضران و غایبان تهیه شود تا برنامه‌ریزی راحت‌تر شود.",
+    "grammar_rule_fa": "پیشنهادِ کمکِ عملی: «Zal ik … maken?»",
+    "extra_example_nl": "Zal ik een lijst maken van wie er komt?",
+    "extra_example_fa": "می‌شود لیستی از افرادی که می‌آیند بسازم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het bijhouden van wie wel en niet aanwezig kan zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین پیشنهاد را می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het afzeggen van de lunch.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او با ایده موافق است و کمک پیشنهاد می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het veranderen van de vergaderzaal.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ ناهارِ تیمی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het uitnodigen van klanten.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده؛ موضوع ناهارِ تیمی داخلی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Wat voor locatie zullen we kiezen voor de teamdag?»  Jij: «Ik denk aan iets buiten de stad, weg van kantoor, zodat iedereen echt kan ontspannen.»  Waarom stel jij dit voor?",
+    "question_text_fa": "چرا این پیشنهاد داده می‌شود؟",
+    "explanation_fa": "دور بودن از دفتر باعث می‌شود همه واقعاً بتوانند آرام باشند و کار را فراموش کنند.",
+    "grammar_rule_fa": "بیانِ دلیل: «zodat iedereen echt kan ontspannen.»",
+    "extra_example_nl": "Iets buiten kantoor kiezen, zodat het echt anders voelt.",
+    "extra_example_fa": "چیزی خارج از دفتر انتخاب کنیم، تا واقعاً حسِ متفاوتی داشته باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Omdat er geen ruimte is op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "دلیلِ اصلی درباره‌ی آرامش است، نه کمبودِ فضا."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om echte ontspanning weg van de werkomgeving mogelijk te maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین دلیل را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om geld te besparen.",
+        "is_correct": false,
+        "feedback_fa": "چنین دلیلی در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat het kantoor gesloten is.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «We hebben een budget van vijfhonderd euro voor het kerstfeest, is dat genoeg?»  Jij: «Dat hangt ervan af, hoeveel mensen doen er mee?»  Wat probeer jij te weten te komen?",
+    "question_text_fa": "تو سعی می‌کنی چه چیزی را بفهمی؟",
+    "explanation_fa": "می‌خواهی بدانی بودجه به‌ازای هر نفر چقدر خواهد بود، پس تعدادِ شرکت‌کنندگان را می‌پرسی.",
+    "grammar_rule_fa": "سؤالِ وابسته: «Dat hangt ervan af, hoeveel …?»",
+    "extra_example_nl": "Dat hangt ervan af, hoeveel gasten er komen.",
+    "extra_example_fa": "این بستگی دارد، چند مهمان می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het adres van het restaurant.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ او درباره‌ی بودجه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Of het feest doorgaat.",
+        "is_correct": false,
+        "feedback_fa": "چنین شکی مطرح نشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het aantal deelnemers, om te bepalen of het budget genoeg is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌خواهی بفهمی."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kleur van de decoratie.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ بودجه است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Kun jij de uitnodigingen versturen, en ik regel de catering?»  Jij: «Prima, ik stuur ze morgenochtend, is dat op tijd genoeg?»  Wat doe jij hier?",
+    "question_text_fa": "تو در اینجا چه کار می‌کنی؟",
+    "explanation_fa": "وظیفه را می‌پذیری و برای اطمینان، زمانِ آن را تأیید می‌کنی.",
+    "grammar_rule_fa": "پذیرفتنِ وظیفه همراه با تأیید: «Prima, ik doe … , is dat op tijd?»",
+    "extra_example_nl": "Prima, ik regel dat morgen, is dat op tijd genoeg?",
+    "extra_example_fa": "باشه، فردا آن را انجام می‌دهم، به‌موقع هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De taak volledig weigeren.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او می‌گوید «prima» و وظیفه را می‌پذیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een compleet andere taak voorstellen.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً همان وظیفه را می‌پذیرد، تغییری پیشنهاد نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vragen om meer geld.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ گفتگو است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een taak accepteren en de timing bevestigen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «De datum die we kozen valt samen met de vergadering van het andere team, is dat een probleem?»  Jij: «___»  Welke reactie is het meest oplossingsgericht?",
+    "question_text_fa": "کدام واکنش راه‌حل‌محورتر است؟",
+    "explanation_fa": "بهترین واکنش، بررسیِ تاریخِ جایگزین به‌جای نادیده‌گرفتنِ تداخل است.",
+    "grammar_rule_fa": "پیشنهادِ بررسی: «Laten we een andere datum zoeken.»",
+    "extra_example_nl": "Laten we even kijken naar een andere datum die wel werkt.",
+    "extra_example_fa": "بیا به تاریخِ دیگری نگاه کنیم که مناسب باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Laten we even kijken naar een andere datum die wel werkt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ راه‌حل‌محور و عملی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is niet mijn probleem.",
+        "is_correct": false,
+        "feedback_fa": "غیرهمکاری‌جویانه است، درحالی‌که برنامه‌ریزی مشترک است."
+      },
+      {
+        "key": "C",
+        "text_nl": "We doen het gewoon op dezelfde datum, wat er ook gebeurt.",
+        "is_correct": false,
+        "feedback_fa": "مشکلِ تداخل را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Laten we het evenement helemaal afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید برای یک تداخلِ ساده‌ی برنامه‌ریزی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Moeten we rekening houden met dieetwensen bij de catering?»  Jij: «Goed dat je dat vraagt, ik stuur een korte vragenlijst rond.»  Wat stel jij voor?",
+    "question_text_fa": "کدام کار پیشنهاد داده می‌شود؟",
+    "explanation_fa": "پیشنهاد می‌شود پرسشنامه‌ای کوتاه فرستاده شود تا ترجیحاتِ غذایی جمع‌آوری شود.",
+    "grammar_rule_fa": "پیشنهادِ عملی: «Ik stuur een vragenlijst rond.»",
+    "extra_example_nl": "Ik stuur een korte vragenlijst rond over dieetwensen.",
+    "extra_example_fa": "پرسشنامه‌ی کوتاهی درباره‌ی ترجیحاتِ غذایی می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De catering annuleren.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een vragenlijst versturen om dieetwensen te verzamelen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را پیشنهاد می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dieetwensen negeren.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او این موضوع را جدی می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen pizza bestellen voor iedereen.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ در نظر گرفتنِ ترجیحاتِ متفاوت در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Zullen we een teambuildingactiviteit organiseren, zoals een escaperoom?»  Jij: «Leuk, al zou ik ook aan iets rustigers denken voor wie dat niet leuk vindt.»  Wat toont jouw reactie?",
+    "question_text_fa": "واکنشِ تو چه چیزی نشان می‌دهد؟",
+    "explanation_fa": "نشان می‌دهد که تو با ایده موافقی اما به تفاوتِ سلیقه‌ی همکاران هم فکر می‌کنی.",
+    "grammar_rule_fa": "واکنشِ متعادل: «Leuk, al zou ik ook aan … denken.»",
+    "extra_example_nl": "Leuk idee, al zou ik ook aan een alternatief denken voor wie dat niet leuk vindt.",
+    "extra_example_fa": "ایده‌ی خوبی است، هرچند به گزینه‌ی جایگزینی هم برای کسانی که آن را دوست ندارند فکر می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Onverschilligheid over de activiteit.",
+        "is_correct": false,
+        "feedback_fa": "او فکرِ فعالانه‌ای درباره‌ی موضوع نشان می‌دهد، بی‌تفاوت نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Boosheid over het voorstel.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او مثبت و سازنده است، نه عصبانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Enthousiasme gecombineerd met aandacht voor iedereen se voorkeuren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین ترکیب را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volledige afwijzing van het idee.",
+        "is_correct": false,
+        "feedback_fa": "او گفت «leuk»، پس کاملاً رد نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Het is haar tiende jubileum bij het bedrijf, zullen we iets speciaals organiseren?»  Jij: «Zeker, laten we een klein feestje plannen zonder dat zij het weet, als verrassing.»  Wat is belangrijk bij dit plan?",
+    "question_text_fa": "در این برنامه چه چیزی مهم است؟",
+    "explanation_fa": "مهم است که برنامه محرمانه بماند تا غافلگیری واقعی باشد.",
+    "grammar_rule_fa": "«zonder dat zij het weet» = بدون اینکه او بداند.",
+    "extra_example_nl": "We houden het geheim, zodat het echt een verrassing blijft.",
+    "extra_example_fa": "این را مخفی نگه می‌داریم تا واقعاً غافلگیرکننده باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het feest zo groot mogelijk maken.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده؛ اندازه مهم نیست، مخفی‌بودن مهم است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het feest zo snel mogelijk afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ آن‌ها می‌خواهند جشن را برگزار کنند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Iedereen op kantoor moet het weten, behalve zij.",
+        "is_correct": false,
+        "feedback_fa": "بیش‌ازحد است؛ فقط باید از دید او مخفی بماند، نه لزوماً همه در جریان باشند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Discretie, zodat het feest een echte verrassing blijft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega die op afstand werkt: «Ik kan er fysiek niet bij zijn, is er een manier om toch mee te doen?»  Organisator: «We zorgen voor een videoverbinding, zodat je virtueel kunt aansluiten.»  Wat wordt hier geregeld?",
+    "question_text_fa": "در اینجا چه چیزی ترتیب داده می‌شود؟",
+    "explanation_fa": "برای همکارِ دورکار، اتصالِ ویدیویی فراهم می‌شود تا مجازی حضور داشته باشد.",
+    "grammar_rule_fa": "راه‌حلِ فراگیر: «zodat je virtueel kunt aansluiten.»",
+    "extra_example_nl": "We regelen een videoverbinding, zodat iedereen kan meedoen.",
+    "extra_example_fa": "اتصالِ ویدیویی ترتیب می‌دهیم تا همه بتوانند شرکت کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een virtuele manier om deel te nemen voor iemand op afstand.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را ترتیب می‌دهند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het evenement helemaal afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ رویداد ادامه دارد، فقط راه‌حلی برای مشارکت پیدا می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een vliegticket voor de collega.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده؛ راه‌حل مجازی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het uitsluiten van deze collega.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ هدف این است که او هم بتواند شرکت کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Wat vond je van het evenement achteraf, wat kunnen we volgende keer beter doen?»  Jij: «Over het algemeen ging het goed, alleen de zaal was net iets te klein.»  Wat geef jij hier?",
+    "question_text_fa": "تو در اینجا چه چیزی می‌دهی؟",
+    "explanation_fa": "بازخوردِ متعادل می‌دهی: هم نکته‌ی مثبت و هم یک نکته‌ی قابلِ بهبود.",
+    "grammar_rule_fa": "بازخوردِ متعادل: «Over het algemeen …, alleen …»",
+    "extra_example_nl": "Over het algemeen was het geslaagd, alleen de catering kon beter.",
+    "extra_example_fa": "به‌طورِ کلی موفق بود، فقط پذیرایی می‌توانست بهتر باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een compleet ander onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً به همان سؤال درباره‌ی رویداد پاسخ می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Evenwichtige feedback met een positief punt en een verbeterpunt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌دهی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen kritiek, zonder iets positiefs.",
+        "is_correct": false,
+        "feedback_fa": "او با «over het algemeen ging het goed» شروع می‌کند، پس فقط انتقاد نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Alleen complimenten, zonder verbeterpunten.",
+        "is_correct": false,
+        "feedback_fa": "او یک نکته‌ی قابلِ بهبود هم ذکر می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Zullen we dit jaar een goede-doelenactie combineren met het personeelsfeest?»  Jij: «Mooi idee, zullen we vragen of collega's iets willen doneren voor de lokale voedselbank?»  Wat stel jij voor?",
+    "question_text_fa": "کدام پیشنهاد داده می‌شود؟",
+    "explanation_fa": "پیشنهاد می‌شود همکاران برای انبار غذای محلی اهدا کنند.",
+    "grammar_rule_fa": "پیشنهادِ عملی: «Zullen we vragen of collega's … willen …?»",
+    "extra_example_nl": "Zullen we vragen of collega's kleding willen doneren?",
+    "extra_example_fa": "بیا بپرسیم آیا همکاران می‌خواهند لباس اهدا کنند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alle collega's verplichten om te doneren.",
+        "is_correct": false,
+        "feedback_fa": "او سؤال می‌کند («zullen we vragen»)، نه اجبار می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het budget voor het feest verdubbelen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به پیشنهادِ اهدا است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Collega's vragen om te doneren aan de voedselbank.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین پیشنهاد را می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het personeelsfeest volledig afgelasten.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او پیشنهاد ترکیب می‌دهد، نه لغو."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: «Voordat we het budget goedkeuren, kunnen jullie een kort overzicht van de kosten sturen?»  Organisator: «Natuurlijk, ik stuur vandaag nog een overzicht.»  Wat vraagt de manager?",
+    "question_text_fa": "مدیر چه چیزی درخواست می‌کند؟",
+    "explanation_fa": "او درخواست می‌کند قبل از تأیید بودجه، فهرستی از هزینه‌ها ارسال شود.",
+    "grammar_rule_fa": "درخواستِ اطلاعات قبل از تصمیم: «Voordat we …, kunnen jullie …?»",
+    "extra_example_nl": "Voordat we akkoord gaan, kunnen jullie de details sturen?",
+    "extra_example_fa": "قبل از موافقت، می‌شود جزئیات را بفرستید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het annuleren van het evenement.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een nieuwe locatie.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به درخواستِ او است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Meer deelnemers.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به درخواستِ مدیر است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een overzicht van de verwachte kosten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را درخواست می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Wie houdt er een korte speech tijdens het afscheidsfeest van Peter?»  Jij: «Ik kan het doen, als niemand anders het wil.»  Wat bied jij aan?",
+    "question_text_fa": "تو چه چیزی پیشنهاد می‌دهی؟",
+    "explanation_fa": "تو داوطلبانه پیشنهاد می‌دهی که سخنرانیِ کوتاه را انجام دهی، در صورتی که کسِ دیگری نخواهد.",
+    "grammar_rule_fa": "پیشنهادِ داوطلبانه: «Ik kan het doen, als niemand anders het wil.»",
+    "extra_example_nl": "Ik kan het wel regelen, als niemand anders tijd heeft.",
+    "extra_example_fa": "من می‌توانم آن را ترتیب دهم، اگر کسِ دیگری وقت نداشته باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vrijwillig de speech houden als niemand anders dat wil.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را پیشنهاد می‌دهی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Weigeren om iets te doen voor het feest.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او داوطلب می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Iemand anders dwingen om de speech te houden.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ او خودش داوطلب می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het afscheidsfeest afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ سخنرانی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «De cateraar zegt dat ze twee dagen van tevoren het aantal gasten moeten weten.»  Jij: «Oké, dan sluit ik de aanmeldingen woensdag.»  Wat regel jij hier?",
+    "question_text_fa": "تو در اینجا چه چیزی ترتیب می‌دهی؟",
+    "explanation_fa": "با توجه به نیازِ کترینگ، تاریخِ بستنِ ثبتِ‌نام را مشخص می‌کنی.",
+    "grammar_rule_fa": "تصمیم بر اساس نیاز: «dan sluit ik de aanmeldingen …»",
+    "extra_example_nl": "Dan sluit ik de aanmeldingen op vrijdag, zoals gevraagd.",
+    "extra_example_fa": "پس ثبت‌نام را جمعه می‌بندم، همان‌طور که خواسته شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De cateraar veranderen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een deadline voor aanmeldingen, passend bij de eis van de cateraar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را ترتیب می‌دهی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het annuleren van de catering.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het aantal gasten verdubbelen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ گفتگو است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Ik denk dat we ook aan de toegankelijkheid moeten denken, is de locatie rolstoeltoegankelijk?»  Jij: «Goed punt, dat ga ik meteen navragen.»  Wat toont jouw reactie?",
+    "question_text_fa": "واکنشِ تو چه چیزی نشان می‌دهد؟",
+    "explanation_fa": "واکنشِ تو نشان می‌دهد که به نکته‌ی مهمِ همکار توجه می‌کنی و فوراً اقدام می‌کنی.",
+    "grammar_rule_fa": "پذیرفتنِ سریع: «Goed punt, dat ga ik meteen navragen.»",
+    "extra_example_nl": "Goed punt, dat had ik niet overwogen, ik zoek het uit.",
+    "extra_example_fa": "نکته‌ی خوبی است، به آن فکر نکرده بودم، بررسی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Boosheid op de collega.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او مثبت و قدردان است، نه عصبانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Uitstel van elke actie.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او می‌گوید «meteen»، یعنی فوراً."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waardering voor het punt en directe actie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Onverschilligheid over toegankelijkheid.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او موضوع را جدی می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Er is een nieuw teamlid gestart, zullen we een kleine welkomstborrel organiseren?»  Jij: «Leuk plan, ik regel wel wat drinken en snacks.»  Wat bied jij aan?",
+    "question_text_fa": "تو چه چیزی پیشنهاد می‌کنی؟",
+    "explanation_fa": "تو داوطلبانه مسئولیتِ تهیه‌ی نوشیدنی و تنقلات را می‌پذیری.",
+    "grammar_rule_fa": "پذیرفتنِ وظیفه: «Ik regel wel …»",
+    "extra_example_nl": "Ik regel wel de drankjes voor de borrel.",
+    "extra_example_fa": "من نوشیدنی‌ها را برای مهمانی ترتیب می‌دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het afzeggen van de borrel.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او با ایده موافق است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het nieuwe teamlid ontslaan.",
+        "is_correct": false,
+        "feedback_fa": "بی‌معنا و بی‌ربط به گفتگو است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het verplaatsen van de borrel naar volgend jaar.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regelen van drankjes en snacks.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را پیشنهاد می‌دهی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Ik kan helaas niet bij het evenement zijn vanwege een andere afspraak, kunnen jullie me op de hoogte houden?»  Organisator: «Natuurlijk, ik stuur je achteraf een korte samenvatting.»  Wat wordt hier afgesproken?",
+    "question_text_fa": "در اینجا چه توافقی صورت می‌گیرد؟",
+    "explanation_fa": "توافق می‌شود که خلاصه‌ای از رویداد برای همکارِ غایب فرستاده شود.",
+    "grammar_rule_fa": "قول با «ik stuur je achteraf …»",
+    "extra_example_nl": "Ik stuur je achteraf een paar foto's en een korte samenvatting.",
+    "extra_example_fa": "بعداً چند عکس و خلاصه‌ای کوتاه برایت می‌فرستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een samenvatting achteraf sturen naar de afwezige collega.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین توافق را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het evenement uitstellen tot deze collega wel kan.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De collega ontslaan.",
+        "is_correct": false,
+        "feedback_fa": "بی‌معنا و بی‌ربط به موضوع است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niets doen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ سازمان‌دهنده فعالانه کمک پیشنهاد می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Wie zorgt er voor de foto's tijdens het evenement?»  Jij: «Ik vraag wel of Sara dat wil doen, ze fotografeert graag.»  Wat stel jij voor?",
+    "question_text_fa": "تو چه پیشنهادی می‌دهی؟",
+    "explanation_fa": "پیشنهاد می‌دهی از سارا بخواهی که مسئولیتِ عکاسی را برعهده بگیرد.",
+    "grammar_rule_fa": "پیشنهادِ فرد مناسب: «Ik vraag wel of … dat wil doen.»",
+    "extra_example_nl": "Ik vraag wel of Tim de muziek wil regelen.",
+    "extra_example_fa": "می‌پرسم که آیا تیم می‌خواهد موسیقی را ترتیب دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zelf helemaal geen foto's willen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به پیشنهادِ او است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sara vragen om de foto's te maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را پیشنهاد می‌دهی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Geen foto's maken tijdens het evenement.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او راه‌حلی برای عکاسی پیشنهاد می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een professionele fotograaf inhuren voor duizend euro.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ او همکارِ داخلی پیشنهاد می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Na afloop moeten we ook de zaal weer opruimen, wie helpt daarbij?»  Jij: «Ik blijf sowieso, ik help graag met opruimen.»  Wat bied jij aan?",
+    "question_text_fa": "تو چه چیزی پیشنهاد می‌کنی؟",
+    "explanation_fa": "پیشنهاد می‌دهی بعد از رویداد در نظافتِ سالن کمک کنی.",
+    "grammar_rule_fa": "پیشنهادِ داوطلبانه: «Ik help graag met …»",
+    "extra_example_nl": "Ik help graag mee met het opruimen na afloop.",
+    "extra_example_fa": "بعد از تمام‌شدن، با کمالِ میل در نظافت کمک می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De schoonmaakfirma ontslaan.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط و بی‌معنا در این زمینه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Iemand anders opdragen om alles te doen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او خودش داوطلب می‌شود، نه اینکه به دیگری دستور دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Helpen met opruimen na het evenement.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را پیشنهاد می‌دهی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Meteen na het evenement weggaan.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او می‌گوید که می‌ماند تا کمک کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Zullen we een thema kiezen voor het feest, bijvoorbeeld een jaren-tachtig thema?»  Jij: «Leuk, maar laten we ook zorgen dat het niet verplicht is, niet iedereen houdt van verkleden.»  Wat is jouw zorg?",
+    "question_text_fa": "نگرانیِ تو چیست؟",
+    "explanation_fa": "نگرانی این است که شرکتِ اجباری در تم لباس ممکن است برای همه راحت نباشد.",
+    "grammar_rule_fa": "بیانِ نگرانی: «niet iedereen houdt van …»",
+    "extra_example_nl": "Niet iedereen houdt van verkleden, laten we het optioneel maken.",
+    "extra_example_fa": "همه دوست ندارند لباسِ مبدل بپوشند، بیا اختیاری کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat het thema te duur is.",
+        "is_correct": false,
+        "feedback_fa": "موضوع درباره‌ی هزینه نیست، بلکه راحتیِ افراد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat het feest te lang duurt.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به نگرانیِ گفته‌شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat de locatie te klein is.",
+        "is_correct": false,
+        "feedback_fa": "چنین نگرانی‌ای در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat niet iedereen zich prettig voelt bij verplicht verkleden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نگرانی را بیان می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Er is een last-minute wijziging: de spreker kan niet meer komen.»  Jij: «Oké, laten we snel een alternatief programma bedenken.»  Wat doe jij als reactie?",
+    "question_text_fa": "تو در واکنش چه کار می‌کنی؟",
+    "explanation_fa": "به‌جای پانیک، فوراً به دنبال راه‌حلِ عملی می‌گردی.",
+    "grammar_rule_fa": "واکنشِ سریع و آرام: «Oké, laten we snel …»",
+    "extra_example_nl": "Oké, laten we snel kijken wat de opties zijn.",
+    "extra_example_fa": "باشه، بیا سریع گزینه‌ها را بررسی کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kalm en snel op zoek gaan naar een oplossing.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het hele evenement afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید برای یک تغییرِ آخرین‌لحظه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "In paniek raken en niets doen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او آرام و راه‌حل‌محور واکنش نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De schuld bij de spreker leggen.",
+        "is_correct": false,
+        "feedback_fa": "غیرسازنده است و به حلِ مشکل کمکی نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Hoeveel tijd moeten we reserveren voor de presentaties tijdens het evenement?»  Jij: «Ik denk vijftien minuten per spreker, inclusief vragen.»  Wat stel jij voor?",
+    "question_text_fa": "تو چه چیزی پیشنهاد می‌کنی؟",
+    "explanation_fa": "پیشنهاد می‌دهی هر سخنران پانزده دقیقه، شاملِ زمانِ پرسش‌وپاسخ، وقت داشته باشد.",
+    "grammar_rule_fa": "پیشنهادِ زمان‌بندیِ مشخص: «Ik denk … minuten per …»",
+    "extra_example_nl": "Ik denk tien minuten per onderdeel, dat lijkt me genoeg.",
+    "extra_example_fa": "فکر می‌کنم ده دقیقه برای هر بخش، به نظرم کافی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een spreker per uur.",
+        "is_correct": false,
+        "feedback_fa": "پیشنهادِ او پانزده دقیقه است، نه یک ساعت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een tijdslimiet per spreker, inclusief vragen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را پیشنهاد می‌دهی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Onbeperkte tijd voor elke spreker.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او زمانِ محدود پیشنهاد می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het schrappen van alle presentaties.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Zullen we voor de conferentie ook rekening houden met reistijd van collega's uit andere steden?»  Jij: «Goed idee, laten we het niet te vroeg op de dag beginnen.»  Waarom stel jij dit voor?",
+    "question_text_fa": "چرا این پیشنهاد را می‌دهی؟",
+    "explanation_fa": "برای اینکه همکارانی که از شهرهای دیگر می‌آیند، وقتِ کافی برای رسیدن داشته باشند.",
+    "grammar_rule_fa": "بیانِ دلیل: «Laten we het niet te vroeg beginnen, zodat iedereen op tijd kan komen.»",
+    "extra_example_nl": "Laten we niet te vroeg beginnen, zodat iedereen op tijd kan komen.",
+    "extra_example_fa": "بیا خیلی زود شروع نکنیم، تا همه بتوانند به‌موقع برسند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Omdat hij zelf graag uitslaapt.",
+        "is_correct": false,
+        "feedback_fa": "دلیلِ او مربوط به همکاران است، نه ترجیحِ شخصیِ خودش."
+      },
+      {
+        "key": "B",
+        "text_nl": "Omdat het budget beperkt is.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ زمانِ سفر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om reizigers van ver genoeg tijd te geven om op tijd te komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین دلیل را دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat de locatie 's ochtends gesloten is.",
+        "is_correct": false,
+        "feedback_fa": "چنین دلیلی در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Ik heb gehoord dat een van de gasten in een rolstoel zit, is de ingang toegankelijk?»  Organisator: «Goed dat je het zegt, ik controleer dat vandaag nog.»  Wat doet de organisator?",
+    "question_text_fa": "سازمان‌دهنده چه کار می‌کند؟",
+    "explanation_fa": "او فوراً موضوعِ دسترسی برای مهمانِ ویلچرنشین را بررسی می‌کند.",
+    "grammar_rule_fa": "واکنشِ سریع: «Ik controleer dat vandaag nog.»",
+    "extra_example_nl": "Ik controleer dat vandaag nog, voor de zekerheid.",
+    "extra_example_fa": "همین امروز آن را برای اطمینان بررسی می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De gast niet uitnodigen.",
+        "is_correct": false,
+        "feedback_fa": "غیراخلاقی و بی‌ربط به واکنشِ او در متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het evenement afzeggen.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niets doen, want het is vast wel goed.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او می‌گوید که همین امروز بررسی می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Meteen de toegankelijkheid van de locatie controleren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را انجام می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Aan het einde van de planningsvergadering: «Laten we de actiepunten nog even samenvatten, zodat iedereen weet wat hij moet doen.»  Wat is het doel van deze afsluitende zin?",
+    "question_text_fa": "هدفِ این جمله‌ی پایانی چیست؟",
+    "explanation_fa": "هدف این است که همه‌ی مسئولیت‌ها روشن و مشخص شود قبل از پایانِ جلسه.",
+    "grammar_rule_fa": "خلاصه‌سازیِ پایانی: «zodat iedereen weet wat hij moet doen.»",
+    "extra_example_nl": "Laten we de taken nog even herhalen, zodat niets vergeten wordt.",
+    "extra_example_fa": "بیا وظایف را دوباره مرور کنیم تا چیزی فراموش نشود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ervoor zorgen dat iedereen zijn taken duidelijk begrijpt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین هدف را دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vergadering langer maken zonder reden.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ هدف روشن‌سازی است، نه طولانی کردنِ بی‌دلیل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nieuwe taken toevoegen zonder overleg.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het evenement helemaal opnieuw plannen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به هدفِ خلاصه‌سازیِ نهایی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Zullen we een korte enquête sturen na het evenement, om te horen wat mensen ervan vonden?»  Jij: «Goed idee, dan weten we het voor de volgende keer beter.»  Waarom is dit een goed idee volgens jou?",
+    "question_text_fa": "چرا این ایده به نظرِ تو خوب است؟",
+    "explanation_fa": "چون بازخوردِ گرفته‌شده به بهبودِ برنامه‌ریزیِ رویدادهای آینده کمک می‌کند.",
+    "grammar_rule_fa": "بیانِ نتیجه: «dan weten we het voor de volgende keer beter.»",
+    "extra_example_nl": "Dan weten we voor volgende keer wat beter kan.",
+    "extra_example_fa": "پس برای دفعه‌ی بعد می‌فهمیم چه چیزی می‌تواند بهتر شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het is verplicht volgens de manager.",
+        "is_correct": false,
+        "feedback_fa": "چنین اجباری در متن نیامده؛ این یک پیشنهادِ داوطلبانه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het levert nuttige feedback op voor toekomstige evenementen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین دلیل را می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het bespaart geld op de catering.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به دلیلِ گفته‌شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het maakt het evenement korter.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «De zaal die we wilden boeken is al bezet op die datum, wat nu?»  Jij: «Laten we een paar alternatieve data en locaties naast elkaar zetten.»  Wat stel jij voor?",
+    "question_text_fa": "کدام کار پیشنهاد داده می‌شود؟",
+    "explanation_fa": "پیشنهاد می‌شود چند گزینه‌ی جایگزین برای تاریخ و مکان با هم مقایسه شود.",
+    "grammar_rule_fa": "پیشنهادِ مقایسه: «Laten we … naast elkaar zetten.»",
+    "extra_example_nl": "Laten we een paar opties naast elkaar zetten en dan kiezen.",
+    "extra_example_fa": "بیا چند گزینه را کنار هم بگذاریم و بعد انتخاب کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wachten tot de zaal toevallig weer vrijkomt.",
+        "is_correct": false,
+        "feedback_fa": "غیرفعال است؛ او پیشنهادِ اقدامِ فعال می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Boos worden op de locatie.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و راه‌حل‌محور است، نه عصبانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een paar alternatieve opties vergelijken voordat er een keuze wordt gemaakt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را پیشنهاد می‌دهی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het evenement definitief afgelasten.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید برای یک مشکلِ حل‌شدنی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Zullen we voor de nieuwjaarsborrel ook de partners van collega's uitnodigen?»  Jij: «Dat lijkt me gezellig, laten we het wel duidelijk vermelden in de uitnodiging.»  Wat vind jij belangrijk?",
+    "question_text_fa": "تو چه چیزی را مهم می‌دانی؟",
+    "explanation_fa": "مهم می‌دانی که در دعوت‌نامه به‌وضوح ذکر شود که همراهان هم می‌توانند بیایند.",
+    "grammar_rule_fa": "تأکید بر وضوح: «laten we het wel duidelijk vermelden.»",
+    "extra_example_nl": "Laten we dat duidelijk vermelden, zodat er geen verwarring ontstaat.",
+    "extra_example_fa": "بیا این را واضح ذکر کنیم تا سردرگمی پیش نیاید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat partners absoluut niet welkom zijn.",
+        "is_correct": false,
+        "feedback_fa": "برعکسِ چیزی است که او پیشنهاد داد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat de borrel wordt afgezegd.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat alleen managers hun partners mogen meenemen.",
+        "is_correct": false,
+        "feedback_fa": "چنین onderscheid در متن نیامده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat de uitnodiging duidelijk aangeeft dat partners welkom zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را مهم می‌دانی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «We hebben nog geen muziek geregeld voor het feest, wie kan dat oppakken?»  Jij: «Ik heb wel een leuke playlist, zal ik die meenemen?»  Wat bied jij aan?",
+    "question_text_fa": "تو چه چیزی پیشنهاد می‌دهی؟",
+    "explanation_fa": "پیشنهاد می‌دهی که پلی‌لیستِ خودت را برای موسیقیِ جشن بیاوری.",
+    "grammar_rule_fa": "پیشنهادِ داوطلبانه: «Zal ik … meenemen?»",
+    "extra_example_nl": "Zal ik mijn speaker meenemen voor de muziek?",
+    "extra_example_fa": "می‌خواهی بلندگویم را برای موسیقی بیاورم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zijn eigen playlist gebruiken voor de muziek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را پیشنهاد می‌دهی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Helemaal geen muziek op het feest.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او راه‌حلی برای موسیقی پیشنهاد می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een dj inhuren voor duizend euro.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ او راه‌حلِ ساده‌تری پیشنهاد می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het feest verplaatsen naar een andere dag.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ موسیقی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "planning_event_with_colleagues",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Hoeveel mensen hebben zich al aangemeld voor de teamdag?»  Jij: «Tot nu toe twintig, maar ik verwacht dat er nog een paar bijkomen deze week.»  Wat geef jij aan?",
+    "question_text_fa": "تو چه چیزی نشان می‌دهی؟",
+    "explanation_fa": "تو وضعیتِ فعلیِ ثبت‌نام را همراه با پیش‌بینیِ افزایشِ آن گزارش می‌دهی.",
+    "grammar_rule_fa": "گزارشِ وضعیتِ فعلی همراه با پیش‌بینی: «Tot nu toe …, maar ik verwacht …»",
+    "extra_example_nl": "Tot nu toe vijftien aanmeldingen, maar ik verwacht er meer.",
+    "extra_example_fa": "تا الان پانزده ثبت‌نام، اما انتظار دارم بیشتر شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat alle honderd collega's al aangemeld zijn.",
+        "is_correct": false,
+        "feedback_fa": "عددِ دقیقِ گفته‌شده بیست نفر است، نه صد نفر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een tussenstand met een verwachting voor de rest van de week.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را گزارش می‌دهی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat er niemand zich heeft aangemeld.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ او گفت بیست نفر ثبت‌نام کرده‌اند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat de teamdag zeker wordt afgezegd.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      }
+    ]
+  }
+]

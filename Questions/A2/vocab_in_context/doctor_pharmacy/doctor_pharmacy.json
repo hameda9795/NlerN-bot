@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De dokter geeft me geen medicijn zelf, maar schrijft een ___ die ik bij de apotheek inlever.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برگه‌ای که پزشک برای دریافتِ دارو از داروخانه می‌نویسد، «recept» (نسخه) نامیده می‌شود.",
+    "grammar_rule_fa": "recept=نسخه‌ی دارو.",
+    "extra_example_nl": "Met dit recept haal ik medicijnen op.",
+    "extra_example_fa": "با این نسخه دارو می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "recept",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برگه‌ی نسخه برای داروخانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "verwijzing",
+        "is_correct": false,
+        "feedback_fa": "این برای فرستادن به متخصص است، نه دارو."
+      },
+      {
+        "key": "C",
+        "text_nl": "uitslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "afspraak",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb pijn in mijn knie. De huisarts kan het niet behandelen, dus stuurt me met een ___ naar het ziekenhuis.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برگه‌ای که پزشکِ خانواده برای فرستادنِ بیمار به متخصص می‌نویسد، «verwijzing» (ارجاع) نامیده می‌شود.",
+    "grammar_rule_fa": "verwijzing=ارجاع به متخصص/بیمارستان.",
+    "extra_example_nl": "Ik heb een verwijzing nodig voor de specialist.",
+    "extra_example_fa": "برای متخصص یک ارجاع لازم دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این برای داروست، نه فرستادن به متخصص."
+      },
+      {
+        "key": "B",
+        "text_nl": "uitslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "afspraak",
+        "is_correct": false,
+        "feedback_fa": "قرار از قبل داشته، این ارجاعِ جدید است."
+      },
+      {
+        "key": "D",
+        "text_nl": "verwijzing",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ارجاع به بیمارستان/متخصص."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb bloed laten prikken. Morgen bel ik de praktijk voor de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "نتیجه‌ی آزمایش، «uitslag» نامیده می‌شود.",
+    "grammar_rule_fa": "uitslag=نتیجه‌ی آزمایش.",
+    "extra_example_nl": "De uitslag van het bloedonderzoek komt morgen.",
+    "extra_example_fa": "نتیجه‌ی آزمایشِ خون فردا می‌رسد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verwijzing",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "afspraak",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "uitslag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نتیجه‌ی آزمایشِ خون."
+      },
+      {
+        "key": "D",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil niet zomaar bij de huisarts langskomen. Ik bel eerst voor een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "زمانِ از پیش تعیین‌شده برای دیدارِ پزشک، «afspraak» (قرار/نوبت) نامیده می‌شود.",
+    "grammar_rule_fa": "afspraak=قرارِ ملاقات.",
+    "extra_example_nl": "Ik heb een afspraak om 10:00 uur.",
+    "extra_example_fa": "ساعت ۱۰:۰۰ نوبت دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verwijzing",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "afspraak",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نوبتِ از پیش تعیین‌شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "uitslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Elke ochtend van 8 tot 10 uur kan ik zonder afspraak naar de dokter. Dit heet het ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "ساعاتی که بدونِ نوبتِ قبلی می‌شود به پزشک مراجعه کرد، «spreekuur» (ساعتِ پذیرش) نامیده می‌شود.",
+    "grammar_rule_fa": "spreekuur=ساعاتِ پذیرشِ بدونِ نوبتِ قبلی.",
+    "extra_example_nl": "Het spreekuur is 's ochtends van 8 tot 10 uur.",
+    "extra_example_fa": "ساعتِ پذیرش صبح از ۸ تا ۱۰ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "spreekuur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ساعاتِ پذیرشِ بدونِ نوبت."
+      },
+      {
+        "key": "B",
+        "text_nl": "wachtkamer",
+        "is_correct": false,
+        "feedback_fa": "این مکان است، نه ساعتِ پذیرش."
+      },
+      {
+        "key": "C",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "verwijzing",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat ik de medicijnen inneem, lees ik altijd de ___ in de doos voor instructies en bijwerkingen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برگه‌ی توضیحاتِ داخلِ جعبه‌ی دارو که دستورالعمل و عوارض را می‌گوید، «bijsluiter» نامیده می‌شود.",
+    "grammar_rule_fa": "bijsluiter=برگه‌ی توضیحاتِ دارو.",
+    "extra_example_nl": "Lees de bijsluiter voor gebruik.",
+    "extra_example_fa": "قبل از استفاده، برگه‌ی توضیحات رو بخون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این چیزی است که دکتر می‌نویسد، نه برگه‌ی داخلِ جعبه."
+      },
+      {
+        "key": "B",
+        "text_nl": "uitslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "verwijzing",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "bijsluiter",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برگه‌ی توضیحاتِ داخلِ جعبه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hoeveel tabletten je precies per dag mag nemen, noemen we de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "مقدارِ دقیقِ مصرفِ روزانه‌ی دارو، «dosering» نامیده می‌شود.",
+    "grammar_rule_fa": "dosering=مقدارِ دقیقِ مصرفِ دارو.",
+    "extra_example_nl": "De dosering is twee keer per dag één tablet.",
+    "extra_example_fa": "مقدارِ مصرف روزی دو بار یک قرص است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "verpakking",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "dosering",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مقدارِ دقیقِ مصرف."
+      },
+      {
+        "key": "D",
+        "text_nl": "bijsluiter",
+        "is_correct": false,
+        "feedback_fa": "بروشور کلِ اطلاعات را دارد، نه فقط مقدارِ مصرف."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn temperatuur is 38,5 graden. Ik heb ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دمای بالای بدن، «koorts» (تب) نامیده می‌شود.",
+    "grammar_rule_fa": "koorts=تب (دمای بالای بدن).",
+    "extra_example_nl": "Bij koorts is rusten belangrijk.",
+    "extra_example_fa": "هنگامِ تب، استراحت مهم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "griep",
+        "is_correct": false,
+        "feedback_fa": "آنفولانزا یک بیماری کلی‌تر است، نه صرفاً دما."
+      },
+      {
+        "key": "B",
+        "text_nl": "koorts",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دمای بالای بدن یعنی تب."
+      },
+      {
+        "key": "C",
+        "text_nl": "verkoudheid",
+        "is_correct": false,
+        "feedback_fa": "این علائمِ سرماخوردگی است، نه صرفاً دما."
+      },
+      {
+        "key": "D",
+        "text_nl": "hoofdpijn",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik nies veel en heb een loopneus, maar geen koorts. Dit is waarschijnlijk een ___, geen griep.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "عطسه و آب‌ریزشِ بینی بدونِ تب، معمولاً «verkoudheid» (سرماخوردگیِ ساده) است، نه آنفولانزا.",
+    "grammar_rule_fa": "verkoudheid=سرماخوردگیِ ساده (بدونِ تبِ شدید).",
+    "extra_example_nl": "Een verkoudheid gaat meestal vanzelf over.",
+    "extra_example_fa": "سرماخوردگیِ ساده معمولاً خودبه‌خود خوب می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verkoudheid",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ علائمِ بدونِ تب."
+      },
+      {
+        "key": "B",
+        "text_nl": "griep",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «geen griep»."
+      },
+      {
+        "key": "C",
+        "text_nl": "koorts",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید تب ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "allergie",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bij hoofdpijn neem ik een ___ om de pijn te verminderen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دارویی که برای کاهشِ درد استفاده می‌شود، «pijnstiller» (مسکن) نامیده می‌شود.",
+    "grammar_rule_fa": "pijnstiller=مسکنِ درد.",
+    "extra_example_nl": "Een pijnstiller helpt tegen hoofdpijn.",
+    "extra_example_fa": "مسکن به سردرد کمک می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "antibiotica",
+        "is_correct": false,
+        "feedback_fa": "این برای عفونتِ باکتریایی است، نه دردِ ساده."
+      },
+      {
+        "key": "B",
+        "text_nl": "vaccin",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "pleister",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "pijnstiller",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دارویِ کاهشِ درد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze medicijnen doden bacteriën, niet virussen. Bij een gewone verkoudheid werken ze niet. Dit zijn ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دارویی که فقط باکتری‌ها را از بین می‌برد، «antibiotica» نامیده می‌شود.",
+    "grammar_rule_fa": "antibiotica=دارویِ ضدِ باکتری (نه ضدِ ویروس).",
+    "extra_example_nl": "Antibiotica helpen niet tegen een virus.",
+    "extra_example_fa": "آنتی‌بیوتیک روی ویروس اثر ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vaccins",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "vitamines",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "antibiotica",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط روی باکتری اثر دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "pijnstillers",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Om niet ziek te worden van de griep, laat ik me elk jaar ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای پیشگیری از بیماری، فرد را واکسینه می‌کنند، نه معالجه.",
+    "grammar_rule_fa": "vaccineren=واکسینه کردن (پیشگیری، نه درمان).",
+    "extra_example_nl": "Ouderen laten zich elk jaar vaccineren tegen griep.",
+    "extra_example_fa": "سالمندان هر سال علیهِ آنفولانزا واکسینه می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verwijzen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "vaccineren",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واکسینه شدن پیش از بیماری."
+      },
+      {
+        "key": "C",
+        "text_nl": "behandelen",
+        "is_correct": false,
+        "feedback_fa": "معالجه بعد از بیماری است، نه پیشگیری."
+      },
+      {
+        "key": "D",
+        "text_nl": "opereren",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Buiten de gewone openingstijden van de huisarts, bel je 's avonds of in het weekend de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "خدماتی که خارج از ساعاتِ عادیِ پزشکِ خانواده پاسخگو است، «huisartsenpost» نامیده می‌شود.",
+    "grammar_rule_fa": "huisartsenpost=خدماتِ پزشکیِ خارج از ساعاتِ کاری.",
+    "extra_example_nl": "'s Nachts bel je de huisartsenpost, niet de praktijk.",
+    "extra_example_fa": "شب‌ها به این مرکز زنگ می‌زنی، نه به مطب.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "huisartsenpost",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خدماتِ خارج از ساعاتِ عادی."
+      },
+      {
+        "key": "B",
+        "text_nl": "ziekenhuis",
+        "is_correct": false,
+        "feedback_fa": "بیمارستان برای موارد جدی‌تر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "apotheek",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "ambulance",
+        "is_correct": false,
+        "feedback_fa": "این برای موارد اورژانسیِ جدی است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat de dokter je roept, wacht je in de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "اتاقی که بیماران قبل از ویزیت منتظر می‌مانند، «wachtkamer» نامیده می‌شود.",
+    "grammar_rule_fa": "wachtkamer=اتاقِ انتظار.",
+    "extra_example_nl": "In de wachtkamer lig je tijdschriften te lezen.",
+    "extra_example_fa": "توی اتاقِ انتظار مجله می‌خونی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "spreekkamer",
+        "is_correct": false,
+        "feedback_fa": "این اتاقی است که دکتر تو رو می‌بینه، نه اتاقِ انتظار."
+      },
+      {
+        "key": "B",
+        "text_nl": "apotheek",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "wachtkamer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اتاقِ انتظار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De dokter onderzoekt me en vertelt me daarna welke ziekte ik heb. Dit heet de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "نتیجه‌ی تشخیصِ پزشک درباره‌ی نوعِ بیماری، «diagnose» نامیده می‌شود.",
+    "grammar_rule_fa": "diagnose=تشخیصِ نوعِ بیماری.",
+    "extra_example_nl": "De diagnose is een longontsteking.",
+    "extra_example_fa": "تشخیص، عفونتِ ریه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "uitslag",
+        "is_correct": false,
+        "feedback_fa": "این معمولاً نتیجه‌ی آزمایشِ آزمایشگاهی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "diagnose",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نتیجه‌ی تشخیصِ نوعِ بیماری."
+      },
+      {
+        "key": "D",
+        "text_nl": "behandeling",
+        "is_correct": false,
+        "feedback_fa": "این مرحله‌ی بعد از تشخیص است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Nadat de diagnose bekend is, begint de dokter met de ___ om me beter te maken.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "اقداماتِ درمانی بعد از تشخیص، «behandeling» نامیده می‌شود.",
+    "grammar_rule_fa": "behandeling=روندِ درمان.",
+    "extra_example_nl": "De behandeling duurt twee weken.",
+    "extra_example_fa": "روندِ درمان دو هفته طول می‌کشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verwijzing",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "behandeling",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ روندِ درمان بعد از تشخیص."
+      },
+      {
+        "key": "C",
+        "text_nl": "diagnose",
+        "is_correct": false,
+        "feedback_fa": "این قبلاً مشخص شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "uitslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb een klein wondje. Ik doe er een ___ op om het schoon te houden.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای زخمِ کوچک، «pleister» (چسب زخم) کافی است.",
+    "grammar_rule_fa": "pleister=چسبِ زخمِ کوچک.",
+    "extra_example_nl": "Een pleister houdt het wondje schoon.",
+    "extra_example_fa": "چسبِ زخم، زخم رو تمیز نگه می‌داره.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "pleister",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای زخمِ کوچک مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "verband",
+        "is_correct": false,
+        "feedback_fa": "این برای زخم‌های بزرگ‌تر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "ontsmettingsmiddel",
+        "is_correct": false,
+        "feedback_fa": "این مایع برای تمیزکردنِ زخم است، نه پوشاندن."
+      },
+      {
+        "key": "D",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voor een grotere wond met veel bloed gebruik je geen pleister, maar ___ om het goed te bedekken.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "زخمِ بزرگ‌تر با باندپیچی (verband) پوشانده می‌شود، نه چسبِ زخمِ کوچک.",
+    "grammar_rule_fa": "verband=باندِ زخم (برای زخم‌های بزرگ‌تر).",
+    "extra_example_nl": "De verpleegkundige doet er een verband omheen.",
+    "extra_example_fa": "پرستار دورش رو باندپیچی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "pleister",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید چسبِ زخمِ کوچک کافی نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "ontsmettingsmiddel",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "verband",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای زخمِ بزرگ‌تر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat je een wond bedekt, maak je hem eerst schoon met een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "مایعی که برای ضدعفونی کردنِ زخم قبل از پوشاندن استفاده می‌شود، «ontsmettingsmiddel» نامیده می‌شود.",
+    "grammar_rule_fa": "ontsmettingsmiddel=مایعِ ضدعفونی‌کننده.",
+    "extra_example_nl": "Maak de wond schoon met ontsmettingsmiddel.",
+    "extra_example_fa": "زخم رو با مایعِ ضدعفونی‌کننده تمیز کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verband",
+        "is_correct": false,
+        "feedback_fa": "این هم برای پوشاندن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "pijnstiller",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "ontsmettingsmiddel",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای تمیز کردنِ زخم قبل از پوشاندن."
+      },
+      {
+        "key": "D",
+        "text_nl": "pleister",
+        "is_correct": false,
+        "feedback_fa": "این برای پوشاندن است، نه تمیزکردن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bij een klein ongeluk thuis geef je zelf eerste hulp, voordat er een dokter komt. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کمک‌های اولیه‌ی خانگی قبل از رسیدنِ پزشک، «EHBO» نامیده می‌شود.",
+    "grammar_rule_fa": "EHBO=کمک‌هایِ اولیه.",
+    "extra_example_nl": "Ik heb een EHBO-cursus gevolgd.",
+    "extra_example_fa": "دوره‌ی کمک‌های اولیه رو گذروندم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "EHBO",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کمک‌های اولیه قبل از پزشک."
+      },
+      {
+        "key": "C",
+        "text_nl": "diagnose",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "behandeling",
+        "is_correct": false,
+        "feedback_fa": "این معمولاً توسطِ پزشک انجام می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik betaal niet alles zelf voor medische zorg; mijn ___ betaalt een groot deel.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بیمه‌ای که بخشِ زیادی از هزینه‌های پزشکی را می‌پردازد، «zorgverzekering» نامیده می‌شود.",
+    "grammar_rule_fa": "zorgverzekering=بیمه‌ی درمانی.",
+    "extra_example_nl": "Mijn zorgverzekering betaalt de operatie.",
+    "extra_example_fa": "بیمه‌ی درمانی‌ام هزینه‌ی عمل رو می‌پردازد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zorgverzekering",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بیمه‌ای که هزینه‌ها را می‌پردازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "eigen risico",
+        "is_correct": false,
+        "feedback_fa": "این مبلغی است که خودت اول می‌پردازی."
+      },
+      {
+        "key": "C",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "bijsluiter",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Elk jaar moet ik eerst zelf 385 euro betalen voordat de verzekering meebetaalt. Dit heet het ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "مبلغی که خودِ فرد باید ابتدا بپردازد قبل از این‌که بیمه پرداخت کند، «eigen risico» (فرانشیز) نامیده می‌شود.",
+    "grammar_rule_fa": "eigen risico=مبلغِ اولیه که خودت می‌پردازی.",
+    "extra_example_nl": "Het eigen risico is dit jaar 385 euro.",
+    "extra_example_fa": "فرانشیز امسال ۳۸۵ یورو است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zorgverzekering",
+        "is_correct": false,
+        "feedback_fa": "این خودِ بیمه است، نه مبلغِ اولیه."
+      },
+      {
+        "key": "B",
+        "text_nl": "premie",
+        "is_correct": false,
+        "feedback_fa": "این مبلغِ ماهانه‌ی بیمه است، نه فرانشیز."
+      },
+      {
+        "key": "C",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "eigen risico",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مبلغی که خودت اول می‌پردازی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik hoest al twee weken en het wordt niet beter. Ik maak een ___ bij de huisarts.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای دیدنِ پزشک باید ابتدا نوبت گرفت.",
+    "grammar_rule_fa": "afspraak=نوبتِ ملاقات.",
+    "extra_example_nl": "Ik maak een afspraak voor volgende week.",
+    "extra_example_fa": "برای هفته‌ی بعد نوبت می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "uitslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "verwijzing",
+        "is_correct": false,
+        "feedback_fa": "این معمولاً بعد از دیدنِ پزشکِ خانواده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "afspraak",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای دیدنِ پزشک باید نوبت گرفت."
+      },
+      {
+        "key": "D",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "هنوز تشخیص داده نشده که دارو لازم است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Na de operatie moet ik nog een keer terugkomen om te zien of alles goed gaat. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "قرارِ ملاقاتِ بعد از عمل برای بررسیِ نتیجه، «controleafspraak» (قرارِ پیگیری) نامیده می‌شود.",
+    "grammar_rule_fa": "controleafspraak=قرارِ پیگیریِ بعد از درمان.",
+    "extra_example_nl": "De controleafspraak is over twee weken.",
+    "extra_example_fa": "قرارِ پیگیری دو هفته‌ی دیگر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "recept",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "controleafspraak",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ قرارِ پیگیری بعدِ درمان."
+      },
+      {
+        "key": "C",
+        "text_nl": "eerste afspraak",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "verwijzing",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Mijn kind moet nog twee keer worden ___ tegen verschillende ziektes, volgens het consultatiebureau.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دادنِ واکسن برای پیشگیری از بیماری، «inenten»/«vaccineren» نامیده می‌شود.",
+    "grammar_rule_fa": "inenten=واکسینه کردن.",
+    "extra_example_nl": "Baby's worden op jonge leeftijd ingeënt.",
+    "extra_example_fa": "نوزادان در سنِ پایین واکسینه می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "ingeënt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واکسینه شدن برای پیشگیری."
+      },
+      {
+        "key": "B",
+        "text_nl": "behandeld",
+        "is_correct": false,
+        "feedback_fa": "این برای درمانِ بیماریِ موجود است، نه پیشگیری."
+      },
+      {
+        "key": "C",
+        "text_nl": "onderzocht",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "opgenomen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De apotheek is dicht. Ik moet dus wachten tot morgen om mijn ___ op te halen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "چیزی که از داروخانه گرفته می‌شود، «medicijnen» (دارو) است.",
+    "grammar_rule_fa": "medicijnen=دارو.",
+    "extra_example_nl": "Ik haal mijn medicijnen morgen op.",
+    "extra_example_fa": "داروهام رو فردا می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verwijzing",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "uitslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "afspraak",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "medicijnen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ چیزی که از داروخانه می‌گیریم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb een pijnlijke keel en koorts. Dit zijn de ___ van griep.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "نشانه‌های بیماری که فرد احساس می‌کند، «symptomen» نامیده می‌شوند.",
+    "grammar_rule_fa": "symptomen=علائمِ بیماری.",
+    "extra_example_nl": "Hoofdpijn en koorts zijn symptomen van griep.",
+    "extra_example_fa": "سردرد و تب از علائمِ آنفولانزا هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "behandeling",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "bijsluiter",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "symptomen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ علائمِ بیماری."
+      },
+      {
+        "key": "D",
+        "text_nl": "diagnose",
+        "is_correct": false,
+        "feedback_fa": "این نتیجه‌گیریِ پزشک است، نه احساسِ خودِ فرد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat je medicijnen krijgt, moet de apotheek eerst controleren of je ___ nog geldig is.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "داروخانه اعتبارِ نسخه را چک می‌کند، نه ارجاع یا نتیجه‌ی آزمایش.",
+    "grammar_rule_fa": "recept=نسخه‌ی دارو.",
+    "extra_example_nl": "Zonder geldig recept krijg je geen medicijnen.",
+    "extra_example_fa": "بدونِ نسخه‌ی معتبر، دارویی نمی‌گیری.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "afspraak",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "recept",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نسخه باید معتبر باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "verwijzing",
+        "is_correct": false,
+        "feedback_fa": "این برای رفتن به متخصص است، نه دارو."
+      },
+      {
+        "key": "D",
+        "text_nl": "uitslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Als het levensgevaarlijk is, bel je niet de huisartsenpost, maar ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای موارد کاملاً اورژانسی و خطرناک، باید با شماره‌ی اضطراری تماس گرفت، نه خدماتِ عادیِ خارج از ساعات کاری.",
+    "grammar_rule_fa": "112/het alarmnummer=شماره‌ی اورژانسِ فوری.",
+    "extra_example_nl": "Bij een ernstig ongeluk bel je 112.",
+    "extra_example_fa": "در تصادفِ جدی با ۱۱۲ تماس بگیر.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "112",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای موارد کاملاً خطرناک و فوری."
+      },
+      {
+        "key": "B",
+        "text_nl": "de apotheek",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "de specialist",
+        "is_correct": false,
+        "feedback_fa": "این فوریت را در نظر نمی‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "de tandarts",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "doctor_pharmacy",
+    "life_context": "doctor_pharmacy",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik moet twee keer per dag deze tabletten innemen, precies zoals de dokter het heeft ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دستورِ دقیقِ پزشک برای نحوه‌ی مصرفِ دارو، با فعلِ «voorschrijven» (تجویز کردن) بیان می‌شود.",
+    "grammar_rule_fa": "voorschrijven=تجویز کردن.",
+    "extra_example_nl": "De dokter heeft rust voorgeschreven.",
+    "extra_example_fa": "دکتر استراحت تجویز کرده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "verwezen",
+        "is_correct": false,
+        "feedback_fa": "این فرستادن به متخصص است، نه دستورِ مصرفِ دارو."
+      },
+      {
+        "key": "B",
+        "text_nl": "onderzocht",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "behandeld",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "voorgeschreven",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دستورِ دقیقِ پزشک برای مصرفِ دارو."
+      }
+    ]
+  }
+]

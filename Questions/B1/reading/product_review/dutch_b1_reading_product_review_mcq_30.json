@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Review wasmachine: «Deze machine is verrassend stil, zelfs bij het centrifugeren. Wel jammer dat hij duurder is dan vergelijkbare modellen.»  Wat is het nadeel dat de reviewer noemt?",
+    "question_text_fa": "عیبی که نویسنده ذکر می‌کند چیست؟",
+    "explanation_fa": "او می‌گوید این دستگاه نسبت به مدل‌های مشابه گران‌تر است.",
+    "grammar_rule_fa": "«wel jammer dat …» یک انتقادِ ملایم پس از یک نکته‌ی مثبت است.",
+    "extra_example_nl": "De prijs is het enige minpunt.",
+    "extra_example_fa": "قیمت تنها عیب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De machine maakt veel lawaai.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ او می‌گوید ساکت است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De machine is te klein voor grote was.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی اندازه چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De machine is duurder dan vergelijkbare modellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً عیبِ ذکرشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De machine gebruikt te veel water.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی مصرف آب چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "food",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Restaurantreview: «Het eten was heerlijk en goed gepresenteerd. Helaas moesten we bijna drie kwartier wachten op onze bestelling.»  Waar klaagt de reviewer over?",
+    "question_text_fa": "نویسنده از چه چیزی شکایت می‌کند؟",
+    "explanation_fa": "او از انتظار طولانیِ تقریباً سه‌رُبعی برای سفارش شکایت می‌کند.",
+    "grammar_rule_fa": "«helaas» یک انتقاد را بعد از یک نکته‌ی مثبت معرفی می‌کند.",
+    "extra_example_nl": "Het eten was lekker, maar de service was traag.",
+    "extra_example_fa": "غذا خوشمزه بود، اما سرویس کند بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De hoge prijs van het menu.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De lange wachttijd voor het eten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً شکایتِ متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "De onvriendelijke bediening.",
+        "is_correct": false,
+        "feedback_fa": "چنین شکایتی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De slechte smaak van het eten.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ او می‌گوید غذا خوشمزه بود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hotelreview: «De kamer was brandschoon en het bed comfortabel. Alleen lag de kamer aan de straatkant, waardoor we ‘s nachts veel verkeerslawaai hoorden.»  Wat was het probleem met de kamer?",
+    "question_text_fa": "مشکل اتاق چه بود؟",
+    "explanation_fa": "چون اتاق رو به خیابان بود، شب‌ها سروصدای زیادی از ترافیک شنیده می‌شد.",
+    "grammar_rule_fa": "«waardoor …» نتیجه‌ی مستقیمِ چیزی را نشان می‌دهد.",
+    "extra_example_nl": "Door de ligging aan de straat hoorden ze veel lawaai.",
+    "extra_example_fa": "به‌خاطر موقعیتِ اتاق در کنار خیابان، سروصدای زیادی می‌شنیدند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het bed was oncomfortabel.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Veel verkeerslawaai door de ligging aan de straat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً مشکلِ ذکرشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kamer was vies.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید اتاق کاملاً تمیز بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er was geen warm water.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "App-review taalcursus: «De uitleg van de grammatica is helder en overzichtelijk. Wat mij tegenvalt, is dat de oefeningen na een tijdje erg herhalend worden.»  Wat zou volgens de reviewer beter kunnen?",
+    "question_text_fa": "طبق نظر کاربر، چه چیزی می‌تواند بهتر باشد؟",
+    "explanation_fa": "او می‌گوید تمرین‌ها بعد از مدتی بسیار تکراری می‌شوند؛ پس تنوع بیشتری لازم است.",
+    "grammar_rule_fa": "«wat mij tegenvalt, is dat …» یک انتقادِ خاص را معرفی می‌کند.",
+    "extra_example_nl": "Meer variatie in de oefeningen zou fijn zijn.",
+    "extra_example_fa": "تنوعِ بیشتر در تمرین‌ها خوب می‌بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Duidelijkere uitleg van de grammatica.",
+        "is_correct": false,
+        "feedback_fa": "این را او دقیقاً ستایش می‌کند، نه انتقاد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Meer talen om te leren.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een lagere prijs voor de app.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Meer variatie in de oefeningen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً انتقادِ اصلی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Review stofzuiger: «Deze stofzuiger zuigt echt heel krachtig, ook op tapijt. Het enige nadeel is het gewicht: hij is best zwaar om de trap op te dragen.»  Wat vindt de reviewer positief?",
+    "question_text_fa": "نویسنده چه چیزی را مثبت می‌داند؟",
+    "explanation_fa": "او قدرتِ مکشِ بالای دستگاه را، حتی روی فرش، مثبت می‌داند.",
+    "grammar_rule_fa": "«het enige nadeel is …» نشان می‌دهد بقیه‌ی نظر مثبت بوده.",
+    "extra_example_nl": "De zuigkracht is uitstekend.",
+    "extra_example_fa": "قدرت مکش عالی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De lage prijs van de stofzuiger.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het stille geluid tijdens het zuigen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De sterke zuigkracht, ook op tapijt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نکته‌ی مثبت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het lage gewicht van de stofzuiger.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ دستگاه سنگین است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Review verhuisbedrijf: «Het team was precies op tijd en ging voorzichtig om met onze spullen. De rekening viel wel hoger uit dan de eerste schatting.»  Wat viel tegen bij deze verhuizing?",
+    "question_text_fa": "کدام بخش از این نقل‌مکان ناامیدکننده بود؟",
+    "explanation_fa": "صورت‌حساب نهایی بیشتر از تخمینِ اولیه بود.",
+    "grammar_rule_fa": "«hoger uitvallen dan …» یعنی بیشتر از حدِ انتظار شدن.",
+    "extra_example_nl": "De prijs was hoger dan verwacht.",
+    "extra_example_fa": "قیمت بیشتر از حدِ انتظار بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De uiteindelijke kosten waren hoger dan geschat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همان چیزی که ناامیدکننده بود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het team weigerde zware spullen te dragen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het team kwam te laat.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ آن‌ها به‌موقع بودند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er ging veel kapot tijdens de verhuizing.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید با احتیاط رفتار کردند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Fietsreview: «Deze elektrische fiets rijdt heerlijk soepel en de accu gaat lang mee. Het onderhoud is echter aan de prijzige kant.»  Wat kost bij deze fiets relatief veel?",
+    "question_text_fa": "چه چیزی از این دوچرخه نسبتاً پرهزینه است؟",
+    "explanation_fa": "هزینه‌ی نگهداری این دوچرخه نسبتاً بالاست.",
+    "grammar_rule_fa": "«aan de prijzige kant» یعنی نسبتاً گران، نه خیلی گران.",
+    "extra_example_nl": "Onderhoud kost meer dan bij een gewone fiets.",
+    "extra_example_fa": "نگهداری بیشتر از دوچرخه‌ی معمولی هزینه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het onderhoud van de fiets.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً هزینه‌ی ذکرشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De verzekering van de fiets.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De aanschafprijs van de fiets.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمتِ خرید چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De accu van de fiets.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمتِ باتری چیزی گفته نشده؛ فقط دوامش ستایش شده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Review koffiezetapparaat: «Binnen twee minuten heb je een lekkere kop koffie. Na een paar weken begon het apparaat helaas een beetje water te lekken bij het waterreservoir.»  Wat ging er mis met het apparaat na verloop van tijd?",
+    "question_text_fa": "بعد از مدتی چه مشکلی پیش آمد؟",
+    "explanation_fa": "بعد از چند هفته، دستگاه از قسمت مخزن آب کمی نشتی پیدا کرد.",
+    "grammar_rule_fa": "«na een paar weken» نشان می‌دهد مشکل بعداً پیش آمد، نه از ابتدا.",
+    "extra_example_nl": "Het apparaat werkte eerst goed, maar begon later te lekken.",
+    "extra_example_fa": "دستگاه اول خوب کار می‌کرد، اما بعداً شروع به نشتی کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het apparaat duurde te lang om koffie te zetten.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید ظرف دو دقیقه آماده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het apparaat begon water te lekken bij het reservoir.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً مشکلِ ذکرشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het apparaat maakte de koffie te koud.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het apparaat werkte vanaf het begin niet.",
+        "is_correct": false,
+        "feedback_fa": "او می‌گوید مشکل بعد از چند هفته پیش آمد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "beauty",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kapperreview: «De kapster was heel vriendelijk en luisterde goed naar wat ik wilde. Ik had wel een afspraak, maar moest alsnog veertig minuten wachten.»  Wat was het minpunt van dit bezoek?",
+    "question_text_fa": "نکته‌ی منفی این بازدید چه بود؟",
+    "explanation_fa": "با وجود داشتن نوبت، مشتری باید چهل دقیقه منتظر می‌ماند.",
+    "grammar_rule_fa": "«ik had wel een afspraak, maar …» یک تضاد نشان می‌دهد.",
+    "extra_example_nl": "Ondanks de afspraak moest hij lang wachten.",
+    "extra_example_fa": "با وجود داشتنِ نوبت، مجبور شد مدت زیادی صبر کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kapster was onvriendelijk.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Lange wachttijd, ondanks een afspraak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نکته‌ی منفی."
+      },
+      {
+        "key": "C",
+        "text_nl": "De prijs was te hoog.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kapster luisterde niet naar de wensen.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "consumer",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Webshopreview kleding: «De kwaliteit van de stof is echt heel goed. Helaas viel de maat kleiner uit dan verwacht, dus ik moest ruilen voor een maatje groter.»  Wat moest de klant doen?",
+    "question_text_fa": "مشتری چه کاری باید انجام می‌داد؟",
+    "explanation_fa": "او باید لباس را به سایز بزرگ‌تری تعویض می‌کرد.",
+    "grammar_rule_fa": "«moest ruilen voor …» یعنی مجبور به تعویض بود.",
+    "extra_example_nl": "Ze moest de kleding omruilen voor een grotere maat.",
+    "extra_example_fa": "او مجبور شد لباس را با سایز بزرگ‌تر تعویض کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een kleinere maat bestellen.",
+        "is_correct": false,
+        "feedback_fa": "او سایزِ بزرگ‌تری لازم داشت، نه کوچک‌تر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ruilen voor een grotere maat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً اقدامِ مشتری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een klacht indienen over de kwaliteit van de stof.",
+        "is_correct": false,
+        "feedback_fa": "او کیفیتِ پارچه را ستایش می‌کند، نه شکایت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het geld terugvragen zonder ruilen.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید او تعویض کرد، نه بازپرداخت گرفت."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "sport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Sportschoolreview: «De apparatuur is modern en er is genoeg keuze. Rond zes uur ‘s avonds is het echter zo druk dat je soms moet wachten op een toestel.»  Wanneer is het volgens de reviewer het drukst?",
+    "question_text_fa": "طبق نظر نویسنده، چه زمانی شلوغ‌ترین وقت است؟",
+    "explanation_fa": "شلوغ‌ترین زمان حدود ساعت شش عصر است.",
+    "grammar_rule_fa": "«rond zes uur ‘s avonds» زمانِ تقریبیِ اوجِ شلوغی را نشان می‌دهد.",
+    "extra_example_nl": "Na werktijd is het altijd drukker in de sportschool.",
+    "extra_example_fa": "بعد از ساعت کاری، باشگاه همیشه شلوغ‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In het weekend.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی آخر هفته چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Rond zes uur 's avonds.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً زمانِ ذکرشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vroeg in de ochtend.",
+        "is_correct": false,
+        "feedback_fa": "چنین زمانی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nooit; het is altijd rustig.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Garagereview: «De monteur legde eerlijk uit wat er precies kapot was, zonder onnodige reparaties te verzinnen. Het duurde alleen langer dan beloofd voordat de auto klaar was.»  Waarom was de reviewer positief over de monteur?",
+    "question_text_fa": "چرا نویسنده درباره‌ی تعمیرکار نظر مثبت داشت؟",
+    "explanation_fa": "چون او صادقانه توضیح داد چه چیزی خراب است، بدون تعمیرات غیرضروری.",
+    "grammar_rule_fa": "«zonder onnodige reparaties te verzinnen» صداقتِ تعمیرکار را نشان می‌دهد.",
+    "extra_example_nl": "Hij was eerlijk over wat er echt gerepareerd moest worden.",
+    "extra_example_fa": "او درباره‌ی چیزی که واقعاً باید تعمیر شود صادق بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij gaf een garantie van vijf jaar.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij was sneller klaar dan beloofd.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ کار بیشتر طول کشید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij rekende niets voor de reparatie.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی رایگان بودن چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij was eerlijk en verzon geen onnodige reparaties.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نکته‌ی مثبت."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Review online cursus fotografie: «De praktijkopdrachten zijn erg leerzaam en direct toepasbaar. Voor wat je uiteindelijk leert, vind ik de prijs wel aan de hoge kant.»  Wat vindt de reviewer van de prijs-kwaliteitverhouding?",
+    "question_text_fa": "نظر نویسنده درباره‌ی نسبتِ قیمت به کیفیت چیست؟",
+    "explanation_fa": "او فکر می‌کند با توجه به چیزی که یاد می‌گیری، قیمت نسبتاً بالاست.",
+    "grammar_rule_fa": "«voor wat je … leert» یک مقایسه بین ارزشِ محتوا و قیمت است.",
+    "extra_example_nl": "De inhoud is goed, maar de prijs is relatief hoog.",
+    "extra_example_fa": "محتوا خوب است، اما قیمت نسبتاً بالاست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De prijs is heel laag voor de kwaliteit.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De cursus is helemaal gratis.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De praktijkopdrachten zijn niet nuttig.",
+        "is_correct": false,
+        "feedback_fa": "او دقیقاً می‌گوید مفید و آموزنده‌اند."
+      },
+      {
+        "key": "D",
+        "text_nl": "De prijs is relatief hoog vergeleken met wat je leert.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نظرِ نویسنده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Smartphonereview: «De camera maakt echt prachtige foto's, zelfs in weinig licht. De batterij is helaas leeg voordat de dag voorbij is.»  Wat is het minpunt van deze telefoon?",
+    "question_text_fa": "نکته‌ی منفیِ این گوشی چیست؟",
+    "explanation_fa": "باتری آن پیش از پایان روز تمام می‌شود.",
+    "grammar_rule_fa": "«helaas» نشانه‌ی معرفیِ یک نکته‌ی منفی است.",
+    "extra_example_nl": "De batterij gaat niet een hele dag mee.",
+    "extra_example_fa": "باتری تمامِ روز دوام نمی‌آورد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De camera maakt slechte foto's.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het scherm is te klein.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی اندازه‌ی صفحه چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De batterij gaat niet de hele dag mee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نکته‌ی منفی."
+      },
+      {
+        "key": "D",
+        "text_nl": "De telefoon is te zwaar.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "healthcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Tandartsreview: «De behandeling deed echt geen pijn en de tandarts nam de tijd om alles uit te leggen. De kosten vielen wel hoger uit dan ik had verwacht.»  Wat viel de reviewer tegen?",
+    "question_text_fa": "چه چیزی نویسنده را ناامید کرد؟",
+    "explanation_fa": "هزینه‌ی درمان بیشتر از حدِ انتظارش بود.",
+    "grammar_rule_fa": "«hoger uitvallen dan verwacht» یعنی بیشتر از تخمینِ اولیه شدن.",
+    "extra_example_nl": "De rekening was hoger dan ik dacht.",
+    "extra_example_fa": "صورت‌حساب بیشتر از حدِ انتظارم بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De tandarts legde niets uit.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De behandeling deed veel pijn.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kosten waren hoger dan verwacht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً چیزی که ناامیدکننده بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De afspraak werd geannuleerd.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "culture",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Boekrecensie: «Het verhaal grijpt je meteen vanaf de eerste pagina. Tegen het einde vond ik het wel wat langdradig worden.»  Wat vindt de recensent van het einde van het boek?",
+    "question_text_fa": "نظر منتقد درباره‌ی پایانِ کتاب چیست؟",
+    "explanation_fa": "او فکر می‌کند پایانِ کتاب کمی کسل‌کننده و طولانی شده است.",
+    "grammar_rule_fa": "«langdradig worden» یعنی خسته‌کننده و طولانی شدن.",
+    "extra_example_nl": "Het einde duurde te lang naar mijn smaak.",
+    "extra_example_fa": "پایانش به سلیقه‌ی من خیلی طول کشید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het hele boek was spannend van begin tot eind.",
+        "is_correct": false,
+        "feedback_fa": "او درباره‌ی پایان انتقاد دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het begin was saai.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ شروع جذاب بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het boek was te kort.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het einde werd wat langdradig.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نظرِ منتقد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "pets",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Review hondentrainer: «Onze hond luistert nu echt veel beter. De methode is wel behoorlijk streng, wat in het begin wennen was voor ons als baasjes.»  Wat moesten de eigenaren wennen?",
+    "question_text_fa": "صاحبان سگ به چه چیزی باید عادت می‌کردند؟",
+    "explanation_fa": "آن‌ها باید به روش نسبتاً سختگیرانه‌ی مربی عادت می‌کردند.",
+    "grammar_rule_fa": "«wat in het begin wennen was» یعنی در ابتدا سازگاری با آن دشوار بود.",
+    "extra_example_nl": "De strenge aanpak was in het begin lastig.",
+    "extra_example_fa": "روشِ سختگیرانه در ابتدا سخت بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De strenge trainingsmethode.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً چیزی که باید عادت می‌کردند."
+      },
+      {
+        "key": "B",
+        "text_nl": "De hoge prijs van de training.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het lange reizen naar de trainer.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het slechte gedrag van hun hond.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید سگ حالا بهتر گوش می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Review schoonmaakbedrijf: «Ze maken het huis echt grondig schoon, tot in de kleinste hoekjes. Alleen de aankomsttijd is onvoorspelbaar; soms een uur te laat zonder bericht.»  Wat is onbetrouwbaar aan dit bedrijf?",
+    "question_text_fa": "کدام بخشِ این شرکت غیرقابل اعتماد است؟",
+    "explanation_fa": "زمانِ رسیدنِ آن‌ها غیرقابل پیش‌بینی است، گاهی بدونِ اطلاع یک ساعت دیر می‌کنند.",
+    "grammar_rule_fa": "«zonder bericht» تأکید می‌کند که هیچ اطلاع‌رسانی هم نمی‌شود.",
+    "extra_example_nl": "Ze komen soms laat, zonder dat te laten weten.",
+    "extra_example_fa": "گاهی دیر می‌آیند، بدون اینکه اطلاع بدهند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het aantal medewerkers dat langskomt.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De aankomsttijd, die soms een uur afwijkt zonder bericht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً مشکلِ ذکرشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kwaliteit van het schoonmaken.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید کارشان بسیار دقیق است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De prijs van de schoonmaakdienst.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Fietsenmakerreview: «Mijn band was binnen tien minuten gerepareerd, echt supersnel. Voor zo'n kleine reparatie vond ik de rekening wel vrij fors.»  Wat vindt de klant van de prijs?",
+    "question_text_fa": "نظر مشتری درباره‌ی قیمت چیست؟",
+    "explanation_fa": "او فکر می‌کند قیمت برای یک تعمیرِ کوچک نسبتاً زیاد بوده است.",
+    "grammar_rule_fa": "«vrij fors» یعنی نسبتاً زیاد.",
+    "extra_example_nl": "Voor zo'n kleine reparatie was het prijzig.",
+    "extra_example_fa": "برای چنین تعمیرِ کوچکی، گران بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De reparatie duurde te lang.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید ظرف ده دقیقه تمام شد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De band was niet goed gerepareerd.",
+        "is_correct": false,
+        "feedback_fa": "چنین شکایتی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De rekening was vrij hoog voor zo'n kleine reparatie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نظرِ مشتری."
+      },
+      {
+        "key": "D",
+        "text_nl": "De rekening was heel laag.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "food",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Review bezorgservice: «De maaltijd kwam binnen twintig minuten, echt razendsnel. Helaas was de pizza niet meer warm toen die aankwam.»  Wat was het probleem met de bezorging?",
+    "question_text_fa": "مشکلِ تحویل چه بود؟",
+    "explanation_fa": "پیتزا هنگام رسیدن دیگر گرم نبود.",
+    "grammar_rule_fa": "«helaas … niet meer …» یک انتقادِ خاص را معرفی می‌کند.",
+    "extra_example_nl": "De pizza was koud bij aankomst.",
+    "extra_example_fa": "پیتزا هنگام رسیدن سرد بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De pizza was koud toen die aankwam.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً مشکلِ ذکرشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bezorging duurde meer dan een uur.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ بسیار سریع بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De pizza was te duur.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bezorger bracht de verkeerde bestelling.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Review yoga-app: «De instructeurs leggen de houdingen heel duidelijk uit, zelfs voor beginners. Storend vind ik alleen dat er om de paar minuten reclame verschijnt.»  Wat stoort de reviewer aan de app?",
+    "question_text_fa": "چه چیزی از این اپلیکیشن آزاردهنده است؟",
+    "explanation_fa": "او از تبلیغاتی که هر چند دقیقه ظاهر می‌شود ناراضی است.",
+    "grammar_rule_fa": "«storend vind ik …» یک انتقادِ صریح را معرفی می‌کند.",
+    "extra_example_nl": "De advertenties onderbreken de les steeds.",
+    "extra_example_fa": "تبلیغات مدام درسِ او را قطع می‌کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De onduidelijke uitleg van de instructeurs.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ توضیح روشن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De hoge prijs van het abonnement.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De reclames die steeds verschijnen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً چیزی که آزارش می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat de app niet geschikt is voor beginners.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید مناسبِ مبتدیان هم هست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Review wasstraat: «Voor de prijs is dit echt een koopje. De auto wordt wel maar oppervlakkig gewassen; de velgen blijven vaak nog vies.»  Wat wordt bij deze wasstraat niet goed schoongemaakt?",
+    "question_text_fa": "کدام قسمت در این کارواش خوب تمیز نمی‌شود؟",
+    "explanation_fa": "طوقه‌ی چرخ‌ها (velgen) اغلب کثیف باقی می‌ماند.",
+    "grammar_rule_fa": "«blijven vaak nog vies» یعنی هنوز کثیف باقی می‌مانند.",
+    "extra_example_nl": "De velgen worden niet goed schoongemaakt.",
+    "extra_example_fa": "طوقه‌ی چرخ‌ها خوب تمیز نمی‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kofferbak van de auto.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De binnenkant van de auto.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی داخل ماشین چیزی گفته نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "De voorruit van de auto.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی شیشه‌ی جلو چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De velgen van de auto.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً قسمتِ ذکرشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Laptopreview: «Deze laptop start supersnel op en werkt vlot met meerdere programma's tegelijk. Bij zwaar gebruik wordt de ventilator wel behoorlijk luid.»  Wanneer maakt de laptop veel geluid?",
+    "question_text_fa": "لپ‌تاپ چه زمانی صدای زیادی تولید می‌کند؟",
+    "explanation_fa": "هنگام استفاده‌ی سنگین، فن دستگاه صدای زیادی می‌دهد.",
+    "grammar_rule_fa": "«bij zwaar gebruik» شرطِ خاصِ رخ‌دادنِ صدا را نشان می‌دهد.",
+    "extra_example_nl": "Bij intensief gebruik wordt de ventilator luider.",
+    "extra_example_fa": "در استفاده‌ی سنگین، فن پرسروصداتر می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij zwaar gebruik van de laptop.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً شرطِ ذکرشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nooit; de laptop is altijd stil.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Alleen tijdens het opstarten.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید بوت‌آپ سریع است، نه پرسروصدا."
+      },
+      {
+        "key": "D",
+        "text_nl": "Altijd, ook in rust.",
+        "is_correct": false,
+        "feedback_fa": "متن یک شرطِ مشخص می‌دهد، نه همیشه."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "childcare",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Review kinderopvang: «De leidsters zijn ontzettend liefdevol en betrokken bij elk kind. Financieel is het wel een flinke aanslag op ons maandbudget.»  Wat is het nadeel van deze kinderopvang?",
+    "question_text_fa": "عیبِ این مهدکودک چیست؟",
+    "explanation_fa": "هزینه‌ی آن فشارِ مالیِ زیادی بر بودجه‌ی ماهانه‌ی خانواده وارد می‌کند.",
+    "grammar_rule_fa": "«een flinke aanslag op … budget» یعنی هزینه‌ی زیاد.",
+    "extra_example_nl": "De kosten zijn hoog vergeleken met ons inkomen.",
+    "extra_example_fa": "هزینه‌ها نسبت به درآمدمان بالاست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De leidsters zijn onvriendelijk.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Er is te weinig persoonlijke aandacht.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید توجهِ شخصی بالاست."
+      },
+      {
+        "key": "C",
+        "text_nl": "De openingstijden zijn te beperkt.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het kost veel geld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً عیبِ ذکرشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Review meubelzaak: «De bank ziet er precies zo mooi uit als op de foto's en zit heerlijk. De levertijd was wel twee keer zo lang als beloofd.»  Wat viel tegen bij deze aankoop?",
+    "question_text_fa": "کدام بخش از این خرید ناامیدکننده بود؟",
+    "explanation_fa": "زمانِ تحویل دو برابر آنچه وعده داده شده بود طول کشید.",
+    "grammar_rule_fa": "«twee keer zo lang als beloofd» مقایسه‌ی ریاضی‌گونه‌ای است.",
+    "extra_example_nl": "De levering duurde veel langer dan gepland.",
+    "extra_example_fa": "تحویل بسیار بیشتر از برنامه طول کشید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De levertijd was veel langer dan beloofd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً مشکلِ ذکرشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bank was niet comfortabel.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bank zag er anders uit dan op de foto's.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bank kwam beschadigd aan.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "insurance",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Review verzekeraar: «Toen ik schade meldde, werd het bedrag binnen een week uitbetaald, zonder gedoe. Alleen de maandelijkse premie is aan de hoge kant vergeleken met andere verzekeraars.»  Wat is positief aan deze verzekeraar?",
+    "question_text_fa": "چه چیزی درباره‌ی این بیمه مثبت است؟",
+    "explanation_fa": "پرداختِ سریع و بدون دردسرِ خسارت ظرف یک هفته، نکته‌ی مثبت است.",
+    "grammar_rule_fa": "«zonder gedoe» یعنی بدون مشکل یا دردسر.",
+    "extra_example_nl": "De uitbetaling ging snel en zonder problemen.",
+    "extra_example_fa": "پرداخت سریع و بدون مشکل انجام شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De trage klantenservice.",
+        "is_correct": false,
+        "feedback_fa": "چنین انتقادی در متن نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De snelle en probleemloze uitbetaling van schade.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نکته‌ی مثبت."
+      },
+      {
+        "key": "C",
+        "text_nl": "De lage maandelijkse premie.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ حق بیمه نسبتاً بالاست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De weigering om schade te vergoeden.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Reisbureaureview: «De reis zelf was perfect gepland, met een prima balans tussen ontspanning en activiteiten. Wel duurde het soms dagen voordat we antwoord kregen op onze vragen per e-mail.»  Waar had de reviewer moeite mee?",
+    "question_text_fa": "چه چیزی برای نویسنده مشکل‌ساز بود؟",
+    "explanation_fa": "پاسخ‌دهی به سؤالاتِ ایمیلی گاهی چند روز طول می‌کشید.",
+    "grammar_rule_fa": "«duurde het soms dagen voordat …» تأخیرِ زمانی را نشان می‌دهد.",
+    "extra_example_nl": "Het antwoord kwam pas na een paar dagen.",
+    "extra_example_fa": "پاسخ فقط بعد از چند روز رسید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het gebrek aan activiteiten tijdens de reis.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید تعادلِ خوبی بین استراحت و فعالیت بود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De slechte planning van de reis.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ برنامه‌ریزی عالی بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De hoge prijs van de reis.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی قیمت چیزی گفته نشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "De trage reactie op e-mails.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً مشکلِ ذکرشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Review elektrische step: «De step is binnen een uur volledig opgeladen en heeft genoeg bereik voor mijn woon-werkverkeer. De banden zijn echter erg gevoelig voor lekken.»  Wat is het zwakke punt van deze step?",
+    "question_text_fa": "نقطه‌ی ضعفِ این اسکوتر چیست؟",
+    "explanation_fa": "لاستیک‌های آن به‌راحتی پنچر می‌شوند.",
+    "grammar_rule_fa": "«gevoelig voor lekken» یعنی به‌آسانی سوراخ می‌شود.",
+    "extra_example_nl": "De banden raken snel lek.",
+    "extra_example_fa": "لاستیک‌ها سریع پنچر می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De banden raken makkelijk lek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً نقطه‌ضعفِ ذکرشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "De step is te zwaar om te dragen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het bereik is te kort voor dagelijks gebruik.",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید بردِ آن کافی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het opladen duurt te lang.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ شارژ سریع است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Loodgieterreview: «Het lek was binnen een halfuur gevonden en gerepareerd, heel efficiënt. De voorrijkosten vond ik echter aan de hoge kant voor zo'n kort bezoek.»  Waar had de klant kritiek op?",
+    "question_text_fa": "انتقادِ مشتری متوجه چه چیزی بود؟",
+    "explanation_fa": "او فکر می‌کند هزینه‌ی رفت‌وآمد برای یک بازدید کوتاه نسبتاً بالا بوده است.",
+    "grammar_rule_fa": "«aan de hoge kant» یعنی نسبتاً زیاد.",
+    "extra_example_nl": "Voor zo'n kort bezoek was het prijzig.",
+    "extra_example_fa": "برای چنین بازدید کوتاهی، گران بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De voorrijkosten voor een kort bezoek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً انتقادِ مشتری."
+      },
+      {
+        "key": "B",
+        "text_nl": "De tijd die het duurde om het lek te vinden.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ کار سریع بود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De onvriendelijkheid van de loodgieter.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kwaliteit van de reparatie.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی کیفیتِ تعمیر چیزی گفته نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "reading",
+    "topic": "product_review",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Review taalschool: «De klassen zijn heerlijk klein, waardoor je echt persoonlijke aandacht krijgt. Storend is dat er maar twee lestijden per week zijn, waardoor je traag vooruitgang boekt.»  Waarom vindt de reviewer de voortgang traag?",
+    "question_text_fa": "چرا نویسنده پیشرفت را کند می‌داند؟",
+    "explanation_fa": "چون فقط دو جلسه‌ی درسی در هفته وجود دارد، پیشرفت کند اتفاق می‌افتد.",
+    "grammar_rule_fa": "«waardoor …» نتیجه‌ی مستقیمِ یک محدودیت را نشان می‌دهد.",
+    "extra_example_nl": "Met maar twee lessen per week gaat het langzaam.",
+    "extra_example_fa": "با فقط دو جلسه در هفته، پیشرفت آهسته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Omdat de docenten niet goed zijn.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی کیفیتِ معلمان چیزی گفته نشده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Omdat de klassen te groot zijn.",
+        "is_correct": false,
+        "feedback_fa": "عکس معنای متن است؛ کلاس‌ها کوچک‌اند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat er maar twee lestijden per week zijn.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دلیلِ ذکرشده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat er geen huiswerk wordt gegeven.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیست."
+      }
+    ]
+  }
+]

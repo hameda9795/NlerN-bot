@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "calling_school_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt de school van je kind.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "برای شروع تماس با مدرسه، کدام جمله بهتر است؟",
+    "explanation_fa": "برای شروع تماس با مدرسه، سلام و معرفی خودت طبیعی است.",
+    "dialogue_rule_fa": "برای شروع تماس با مدرسه: سلام + معرفی خودت + نام کودک.",
+    "extra_example_nl": "Goedemorgen, u spreekt met de moeder van Lina.",
+    "extra_example_fa": "صبح بخیر، شما با مادر لینا صحبت می‌کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen, ik ben de vader van Amir.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "calling_school_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt de juf in de ochtend.",
+    "question_text_nl": "Wat zeg je eerst?",
+    "question_text_fa": "صبح با معلم تماس می‌گیری. اول چه می‌گویی؟",
+    "explanation_fa": "این جمله هم سلام دارد و هم معرفی واضح دارد.",
+    "dialogue_rule_fa": "برای شروع تماس با مدرسه: سلام + معرفی خودت + نام کودک.",
+    "extra_example_nl": "Goedemorgen, u spreekt met de moeder van Lina.",
+    "extra_example_fa": "صبح بخیر، شما با مادر لینا صحبت می‌کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen, u spreekt met de moeder van Sara.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "calling_school_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt iets vragen aan de school.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی از مدرسه چیزی بپرسی. کدام جمله مناسب‌تر است؟",
+    "explanation_fa": "این جمله کوتاه و مؤدبانه برای شروع پرسش است.",
+    "dialogue_rule_fa": "برای شروع تماس با مدرسه: سلام + معرفی خودت + نام کودک.",
+    "extra_example_nl": "Goedemorgen, u spreekt met de moeder van Lina.",
+    "extra_example_fa": "صبح بخیر، شما با مادر لینا صحبت می‌کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik iets vragen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "calling_school_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt over je dochter.",
+    "question_text_nl": "Wat zeg je tegen de school?",
+    "question_text_fa": "درباره دخترت با مدرسه تماس می‌گیری. چه می‌گویی؟",
+    "explanation_fa": "این جمله موضوع تماس را واضح می‌کند.",
+    "dialogue_rule_fa": "برای شروع تماس با مدرسه: سلام + معرفی خودت + نام کودک.",
+    "extra_example_nl": "Goedemorgen, u spreekt met de moeder van Lina.",
+    "extra_example_fa": "صبح بخیر، شما با مادر لینا صحبت می‌کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik bel over mijn dochter Noor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "calling_school_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt de administratie van school.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "با دفتر مدرسه تماس می‌گیری. کدام جمله مناسب است؟",
+    "explanation_fa": "برای درخواست کمک از دفتر مدرسه، این جمله طبیعی است.",
+    "dialogue_rule_fa": "برای شروع تماس با مدرسه: سلام + معرفی خودت + نام کودک.",
+    "extra_example_nl": "Goedemorgen, u spreekt met de moeder van Lina.",
+    "extra_example_fa": "صبح بخیر، شما با مادر لینا صحبت می‌کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u mij helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "calling_school_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt jezelf voorstellen aan de meester.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "می‌خواهی خودت را به آقای معلم معرفی کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله کوتاه و مناسب معرفی والد است.",
+    "dialogue_rule_fa": "برای شروع تماس با مدرسه: سلام + معرفی خودت + نام کودک.",
+    "extra_example_nl": "Goedemorgen, u spreekt met de moeder van Lina.",
+    "extra_example_fa": "صبح بخیر، شما با مادر لینا صحبت می‌کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben de moeder van Adam.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "calling_school_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt voor je zoon in groep 3.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "برای پسرت در گروه ۳ تماس می‌گیری. بهترین شروع کدام است؟",
+    "explanation_fa": "این جمله هم سلام دارد و هم موضوع تماس را می‌گوید.",
+    "dialogue_rule_fa": "برای شروع تماس با مدرسه: سلام + معرفی خودت + نام کودک.",
+    "extra_example_nl": "Goedemorgen, u spreekt met de moeder van Lina.",
+    "extra_example_fa": "صبح بخیر، شما با مادر لینا صحبت می‌کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Goedemorgen, ik bel over mijn zoon in groep 3.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "calling_school_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat bij de balie van school.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در دفتر مدرسه هستی. چه جمله‌ای مناسب است؟",
+    "explanation_fa": "در دفتر مدرسه، سلام و معرفی خودت مناسب است.",
+    "dialogue_rule_fa": "برای شروع تماس با مدرسه: سلام + معرفی خودت + نام کودک.",
+    "extra_example_nl": "Goedemorgen, u spreekt met de moeder van Lina.",
+    "extra_example_fa": "صبح بخیر، شما با مادر لینا صحبت می‌کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Goedemorgen, ik ben de vader van Mila.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "calling_school_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt en wilt met de leerkracht praten.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "تماس می‌گیری و می‌خواهی با معلم صحبت کنی. چه می‌گویی؟",
+    "explanation_fa": "این جمله هدف تماس را واضح و مؤدبانه می‌گوید.",
+    "dialogue_rule_fa": "برای شروع تماس با مدرسه: سلام + معرفی خودت + نام کودک.",
+    "extra_example_nl": "Goedemorgen, u spreekt met de moeder van Lina.",
+    "extra_example_fa": "صبح بخیر، شما با مادر لینا صحبت می‌کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik met de leerkracht praten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "calling_school_opening",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je belt school maar je Nederlands is nog niet sterk.",
+    "question_text_nl": "Wat zeg je eerst?",
+    "question_text_fa": "با مدرسه تماس می‌گیری ولی هلندی‌ات هنوز قوی نیست. چه شروعی مناسب است؟",
+    "explanation_fa": "این جمله شروع مؤدبانه و صادقانه برای مکالمه است.",
+    "dialogue_rule_fa": "برای شروع تماس با مدرسه: سلام + معرفی خودت + نام کودک.",
+    "extra_example_nl": "Goedemorgen, u spreekt met de moeder van Lina.",
+    "extra_example_fa": "صبح بخیر، شما با مادر لینا صحبت می‌کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Goedemorgen, ik spreek nog niet zo goed Nederlands.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_absence_sick_child",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kind is ziek en gaat vandaag niet naar school.",
+    "question_text_nl": "Wat zeg je tegen de school?",
+    "question_text_fa": "کودکت مریض است و امروز مدرسه نمی‌رود. به مدرسه چه می‌گویی؟",
+    "explanation_fa": "این جمله دلیل غیبت را ساده و واضح بیان می‌کند.",
+    "dialogue_rule_fa": "برای خبر دادن بیماری کودک، ساده بگو: Mijn kind is ziek en komt vandaag niet.",
+    "extra_example_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+    "extra_example_fa": "پسرم مریض است و امروز در خانه می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn kind is ziek en komt vandaag niet naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_absence_sick_child",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je dochter heeft koorts.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "دخترت تب دارد. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله بیماری و خانه ماندن را واضح می‌گوید.",
+    "dialogue_rule_fa": "برای خبر دادن بیماری کودک، ساده بگو: Mijn kind is ziek en komt vandaag niet.",
+    "extra_example_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+    "extra_example_fa": "پسرم مریض است و امروز در خانه می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn dochter heeft koorts en blijft thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_absence_sick_child",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoon voelt zich niet goed.",
+    "question_text_nl": "Wat meld je aan school?",
+    "question_text_fa": "پسرت حالش خوب نیست. به مدرسه چه اطلاع می‌دهی؟",
+    "explanation_fa": "این جمله برای ziekmelden طبیعی و کوتاه است.",
+    "dialogue_rule_fa": "برای خبر دادن بیماری کودک، ساده بگو: Mijn kind is ziek en komt vandaag niet.",
+    "extra_example_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+    "extra_example_fa": "پسرم مریض است و امروز در خانه می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_absence_sick_child",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt in de ochtend om je kind ziek te melden.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "صبح زنگ می‌زنی تا بیماری کودک را اطلاع بدهی. کدام جمله بهتر است؟",
+    "explanation_fa": "این جمله دقیقاً برای اطلاع دادن بیماری کودک استفاده می‌شود.",
+    "dialogue_rule_fa": "برای خبر دادن بیماری کودک، ساده بگو: Mijn kind is ziek en komt vandaag niet.",
+    "extra_example_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+    "extra_example_fa": "پسرم مریض است و امروز در خانه می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik meld mijn kind ziek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_absence_sick_child",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kind komt vandaag niet door ziekte.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "کودکت امروز به خاطر بیماری نمی‌آید. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله هم غیبت و هم دلیل را بیان می‌کند.",
+    "dialogue_rule_fa": "برای خبر دادن بیماری کودک، ساده بگو: Mijn kind is ziek en komt vandaag niet.",
+    "extra_example_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+    "extra_example_fa": "پسرم مریض است و امروز در خانه می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij komt vandaag niet naar school, want hij is ziek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_absence_sick_child",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je dochter is ziek en je wilt dit kort zeggen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دخترت مریض است و می‌خواهی کوتاه بگویی. چه می‌گویی؟",
+    "explanation_fa": "برای خبر دادن اولیه، این جمله ساده و کافی است.",
+    "dialogue_rule_fa": "برای خبر دادن بیماری کودک، ساده بگو: Mijn kind is ziek en komt vandaag niet.",
+    "extra_example_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+    "extra_example_fa": "پسرم مریض است و امروز در خانه می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn dochter is ziek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_absence_sick_child",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De school vraagt waarom je kind er niet is.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "مدرسه می‌پرسد چرا کودک حضور ندارد. چه جواب می‌دهی؟",
+    "explanation_fa": "این پاسخ مستقیم به دلیل غیبت اشاره می‌کند.",
+    "dialogue_rule_fa": "برای خبر دادن بیماری کودک، ساده بگو: Mijn kind is ziek en komt vandaag niet.",
+    "extra_example_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+    "extra_example_fa": "پسرم مریض است و امروز در خانه می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is ziek en blijft vandaag thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_absence_sick_child",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kind is ziek en misschien morgen weer beter.",
+    "question_text_nl": "Kies de beste melding.",
+    "question_text_fa": "کودکت مریض است و شاید فردا بهتر شود. بهترین اطلاع‌رسانی چیست؟",
+    "explanation_fa": "این جمله درباره غیبت امروز واضح است.",
+    "dialogue_rule_fa": "برای خبر دادن بیماری کودک، ساده بگو: Mijn kind is ziek en komt vandaag niet.",
+    "extra_example_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+    "extra_example_fa": "پسرم مریض است و امروز در خانه می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag komt mijn kind niet naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_absence_sick_child",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt de school voor je zieke zoon.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "برای پسر مریضت با مدرسه تماس می‌گیری. چه می‌گویی؟",
+    "explanation_fa": "این جمله نام و وضعیت کودک را ساده می‌گوید.",
+    "dialogue_rule_fa": "برای خبر دادن بیماری کودک، ساده بگو: Mijn kind is ziek en komt vandaag niet.",
+    "extra_example_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+    "extra_example_fa": "پسرم مریض است و امروز در خانه می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn zoon Amir is ziek vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_absence_sick_child",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je dochter kan vandaag niet naar school.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "دخترت امروز نمی‌تواند به مدرسه برود. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله برای اطلاع دادن غیبت به دلیل بیماری مناسب است.",
+    "dialogue_rule_fa": "برای خبر دادن بیماری کودک، ساده بگو: Mijn kind is ziek en komt vandaag niet.",
+    "extra_example_nl": "Mijn zoon is ziek en blijft vandaag thuis.",
+    "extra_example_fa": "پسرم مریض است و امروز در خانه می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij is ziek en komt vandaag niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_late_arrival",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kind komt vandaag tien minuten te laat.",
+    "question_text_nl": "Wat zeg je tegen de school?",
+    "question_text_fa": "کودکت امروز ده دقیقه دیر می‌رسد. به مدرسه چه می‌گویی؟",
+    "explanation_fa": "این جمله زمان دیر رسیدن را واضح می‌گوید.",
+    "dialogue_rule_fa": "برای دیر رسیدن کودک بگو: Mijn kind komt vandaag ... te laat.",
+    "extra_example_nl": "Wij zijn onderweg, maar we komen iets later.",
+    "extra_example_fa": "ما در راه هستیم، اما کمی دیرتر می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn kind komt vandaag tien minuten te laat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_late_arrival",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De bus is te laat en je zoon komt later.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "اتوبوس دیر کرده و پسرت دیرتر می‌رسد. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله دلیل دیر رسیدن را ساده توضیح می‌دهد.",
+    "dialogue_rule_fa": "برای دیر رسیدن کودک بگو: Mijn kind komt vandaag ... te laat.",
+    "extra_example_nl": "Wij zijn onderweg, maar we komen iets later.",
+    "extra_example_fa": "ما در راه هستیم، اما کمی دیرتر می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus is te laat, dus mijn zoon komt later.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_late_arrival",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent onderweg naar school.",
+    "question_text_nl": "Wat meld je?",
+    "question_text_fa": "در راه مدرسه هستی. چه اطلاع می‌دهی؟",
+    "explanation_fa": "این جمله برای اطلاع دادن دیر رسیدن طبیعی است.",
+    "dialogue_rule_fa": "برای دیر رسیدن کودک بگو: Mijn kind komt vandaag ... te laat.",
+    "extra_example_nl": "Wij zijn onderweg, maar we komen iets later.",
+    "extra_example_fa": "ما در راه هستیم، اما کمی دیرتر می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij zijn onderweg en komen iets later.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_late_arrival",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je dochter komt om half negen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "دخترت ساعت هشت و نیم می‌رسد. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله زمان رسیدن را کوتاه و واضح می‌گوید.",
+    "dialogue_rule_fa": "برای دیر رسیدن کودک بگو: Mijn kind komt vandaag ... te laat.",
+    "extra_example_nl": "Wij zijn onderweg, maar we komen iets later.",
+    "extra_example_fa": "ما در راه هستیم، اما کمی دیرتر می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij komen om half negen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_late_arrival",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoon is vijf minuten te laat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "پسرت پنج دقیقه دیر می‌رسد. چه می‌گویی؟",
+    "explanation_fa": "با Sorry جمله مؤدبانه‌تر و طبیعی‌تر می‌شود.",
+    "dialogue_rule_fa": "برای دیر رسیدن کودک بگو: Mijn kind komt vandaag ... te laat.",
+    "extra_example_nl": "Wij zijn onderweg, maar we komen iets later.",
+    "extra_example_fa": "ما در راه هستیم، اما کمی دیرتر می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, mijn zoon komt vijf minuten te laat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_late_arrival",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je belt de school omdat jullie te laat zijn.",
+    "question_text_nl": "Kies de beste melding.",
+    "question_text_fa": "زنگ می‌زنی چون شما دیر می‌رسید. بهترین جمله کدام است؟",
+    "explanation_fa": "این جمله برای خبر دادن کوتاه و مناسب است.",
+    "dialogue_rule_fa": "برای دیر رسیدن کودک بگو: Mijn kind komt vandaag ... te laat.",
+    "extra_example_nl": "Wij zijn onderweg, maar we komen iets later.",
+    "extra_example_fa": "ما در راه هستیم، اما کمی دیرتر می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn dochter komt vandaag iets later.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_late_arrival",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Er is file onderweg naar school.",
+    "question_text_nl": "Wat zeg je tegen school?",
+    "question_text_fa": "در مسیر مدرسه ترافیک است. به مدرسه چه می‌گویی؟",
+    "explanation_fa": "این جمله دلیل و نتیجه را ساده بیان می‌کند.",
+    "dialogue_rule_fa": "برای دیر رسیدن کودک بگو: Mijn kind komt vandaag ... te laat.",
+    "extra_example_nl": "Wij zijn onderweg, maar we komen iets later.",
+    "extra_example_fa": "ما در راه هستیم، اما کمی دیرتر می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "C",
+        "text_nl": "Er is file, wij komen iets later.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_late_arrival",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kind mist het begin van de les.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "کودکت شروع کلاس را از دست می‌دهد. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله برای دیر رسیدن کودک مناسب است.",
+    "dialogue_rule_fa": "برای دیر رسیدن کودک بگو: Mijn kind komt vandaag ... te laat.",
+    "extra_example_nl": "Wij zijn onderweg, maar we komen iets later.",
+    "extra_example_fa": "ما در راه هستیم، اما کمی دیرتر می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn kind is iets te laat vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_late_arrival",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt beleefd zeggen dat jullie later zijn.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی مؤدبانه بگویی دیرتر می‌رسید. چه می‌گویی؟",
+    "explanation_fa": "این جمله کوتاه، مؤدبانه و مناسب مدرسه است.",
+    "dialogue_rule_fa": "برای دیر رسیدن کودک بگو: Mijn kind komt vandaag ... te laat.",
+    "extra_example_nl": "Wij zijn onderweg, maar we komen iets later.",
+    "extra_example_fa": "ما در راه هستیم، اما کمی دیرتر می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sorry, wij komen iets later.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "reporting_late_arrival",
+    "life_context": "time_appointments",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kind komt na de afspraak bij de dokter naar school.",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "کودکت بعد از وقت دکتر به مدرسه می‌آید. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله ساده و روشن است و وارد جزئیات پیچیده نمی‌شود.",
+    "dialogue_rule_fa": "برای دیر رسیدن کودک بگو: Mijn kind komt vandaag ... te laat.",
+    "extra_example_nl": "Wij zijn onderweg, maar we komen iets later.",
+    "extra_example_fa": "ما در راه هستیم، اما کمی دیرتر می‌رسیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn kind komt later naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "homework_and_learning",
+    "life_context": "homework",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten of je dochter huiswerk heeft.",
+    "question_text_nl": "Wat vraag je aan de juf?",
+    "question_text_fa": "می‌خواهی بدانی دخترت تکلیف دارد یا نه. از معلم چه می‌پرسی؟",
+    "explanation_fa": "این جمله مستقیم درباره تکلیف می‌پرسد.",
+    "dialogue_rule_fa": "برای پرسیدن تکلیف از جمله‌هایی مثل: Heeft mijn kind huiswerk? استفاده کن.",
+    "extra_example_nl": "Moet mijn dochter thuis lezen?",
+    "extra_example_fa": "آیا دخترم باید در خانه خواندن تمرین کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft mijn dochter huiswerk?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "homework_and_learning",
+    "life_context": "homework",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zoon moet thuis oefenen, maar je weet niet wat.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "پسرت باید در خانه تمرین کند، اما نمی‌دانی چه چیزی. بهترین سؤال کدام است؟",
+    "explanation_fa": "این سؤال دقیقاً درباره تمرین در خانه است.",
+    "dialogue_rule_fa": "برای پرسیدن تکلیف از جمله‌هایی مثل: Heeft mijn kind huiswerk? استفاده کن.",
+    "extra_example_nl": "Moet mijn dochter thuis lezen?",
+    "extra_example_fa": "آیا دخترم باید در خانه خواندن تمرین کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat moet hij thuis oefenen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "homework_and_learning",
+    "life_context": "homework",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De juf zegt dat je kind moet lezen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "معلم می‌گوید کودکت باید بخواند. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال درباره خواندن در خانه است و مناسب context است.",
+    "dialogue_rule_fa": "برای پرسیدن تکلیف از جمله‌هایی مثل: Heeft mijn kind huiswerk? استفاده کن.",
+    "extra_example_nl": "Moet mijn dochter thuis lezen?",
+    "extra_example_fa": "آیا دخترم باید در خانه خواندن تمرین کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Moet zij thuis lezen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "homework_and_learning",
+    "life_context": "homework",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten of je zoon zijn huiswerk af heeft.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی بدانی پسرت تکلیفش را انجام داده یا نه. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله برای پرسیدن انجام تکلیف مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن تکلیف از جمله‌هایی مثل: Heeft mijn kind huiswerk? استفاده کن.",
+    "extra_example_nl": "Moet mijn dochter thuis lezen?",
+    "extra_example_fa": "آیا دخترم باید در خانه خواندن تمرین کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft hij zijn huiswerk gemaakt?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "homework_and_learning",
+    "life_context": "homework",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begrijpt het huiswerk niet.",
+    "question_text_nl": "Wat zeg je tegen de leerkracht?",
+    "question_text_fa": "تکلیف را متوجه نمی‌شوی. به معلم چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه درخواست توضیح درباره تکلیف است.",
+    "dialogue_rule_fa": "برای پرسیدن تکلیف از جمله‌هایی مثل: Heeft mijn kind huiswerk? استفاده کن.",
+    "extra_example_nl": "Moet mijn dochter thuis lezen?",
+    "extra_example_fa": "آیا دخترم باید در خانه خواندن تمرین کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u het huiswerk uitleggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "homework_and_learning",
+    "life_context": "homework",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je dochter zegt dat er geen huiswerk is.",
+    "question_text_nl": "Wat vraag je aan school?",
+    "question_text_fa": "دخترت می‌گوید تکلیف ندارد. از مدرسه چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای چک کردن تکلیف امروز مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن تکلیف از جمله‌هایی مثل: Heeft mijn kind huiswerk? استفاده کن.",
+    "extra_example_nl": "Moet mijn dochter thuis lezen?",
+    "extra_example_fa": "آیا دخترم باید در خانه خواندن تمرین کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft mijn dochter vandaag huiswerk?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "homework_and_learning",
+    "life_context": "homework",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je zoon heeft moeite met lezen.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "پسرت در خواندن مشکل دارد. کدام سؤال مناسب است؟",
+    "explanation_fa": "این سؤال درباره کمک و تمرین در خانه است.",
+    "dialogue_rule_fa": "برای پرسیدن تکلیف از جمله‌هایی مثل: Heeft mijn kind huiswerk? استفاده کن.",
+    "extra_example_nl": "Moet mijn dochter thuis lezen?",
+    "extra_example_fa": "آیا دخترم باید در خانه خواندن تمرین کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat kan hij thuis oefenen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "homework_and_learning",
+    "life_context": "homework",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten wat je kind leert.",
+    "question_text_nl": "Wat vraag je aan de meester?",
+    "question_text_fa": "می‌خواهی بدانی کودکت چه یاد می‌گیرد. از آقای معلم چه می‌پرسی؟",
+    "explanation_fa": "این سؤال ساده و مربوط به یادگیری در مدرسه است.",
+    "dialogue_rule_fa": "برای پرسیدن تکلیف از جمله‌هایی مثل: Heeft mijn kind huiswerk? استفاده کن.",
+    "extra_example_nl": "Moet mijn dochter thuis lezen?",
+    "extra_example_fa": "آیا دخترم باید در خانه خواندن تمرین کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat leert mijn kind deze week?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "homework_and_learning",
+    "life_context": "homework",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De school geeft een opdracht mee naar huis.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "مدرسه یک تکلیف برای خانه داده است. بهترین سؤال کدام است؟",
+    "explanation_fa": "این سؤال درباره زمان تحویل تکلیف است.",
+    "dialogue_rule_fa": "برای پرسیدن تکلیف از جمله‌هایی مثل: Heeft mijn kind huiswerk? استفاده کن.",
+    "extra_example_nl": "Moet mijn dochter thuis lezen?",
+    "extra_example_fa": "آیا دخترم باید در خانه خواندن تمرین کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer moet het huiswerk klaar zijn?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "homework_and_learning",
+    "life_context": "homework",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt je kind thuis helpen.",
+    "question_text_nl": "Wat vraag je aan de juf?",
+    "question_text_fa": "می‌خواهی در خانه به کودکت کمک کنی. از معلم چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای کمک به یادگیری کودک مناسب و طبیعی است.",
+    "dialogue_rule_fa": "برای پرسیدن تکلیف از جمله‌هایی مثل: Heeft mijn kind huiswerk? استفاده کن.",
+    "extra_example_nl": "Moet mijn dochter thuis lezen?",
+    "extra_example_fa": "آیا دخترم باید در خانه خواندن تمرین کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe kan ik thuis helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "parent_teacher_meeting",
+    "life_context": "parent_teacher",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een afspraak met de leerkracht maken.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی با معلم قرار بگذاری. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای درخواست قرار ساده و مؤدبانه است.",
+    "dialogue_rule_fa": "برای قرار با معلم بگو: Ik wil graag een afspraak maken.",
+    "extra_example_nl": "Wanneer is het oudergesprek?",
+    "extra_example_fa": "جلسه والدین و معلم چه زمانی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil graag een afspraak maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "parent_teacher_meeting",
+    "life_context": "parent_teacher",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten wanneer het oudergesprek is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی جلسه والدین و معلم چه زمانی است. کدام سؤال مناسب است؟",
+    "explanation_fa": "این سؤال مستقیم درباره زمان جلسه است.",
+    "dialogue_rule_fa": "برای قرار با معلم بگو: Ik wil graag een afspraak maken.",
+    "extra_example_nl": "Wanneer is het oudergesprek?",
+    "extra_example_fa": "جلسه والدین و معلم چه زمانی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer is het oudergesprek?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "parent_teacher_meeting",
+    "life_context": "parent_teacher",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt met de juf praten.",
+    "question_text_nl": "Wat zeg je tegen school?",
+    "question_text_fa": "می‌خواهی با خانم معلم صحبت کنی. به مدرسه چه می‌گویی؟",
+    "explanation_fa": "این جمله کوتاه و مناسب برای درخواست صحبت با معلم است.",
+    "dialogue_rule_fa": "برای قرار با معلم بگو: Ik wil graag een afspraak maken.",
+    "extra_example_nl": "Wanneer is het oudergesprek?",
+    "extra_example_fa": "جلسه والدین و معلم چه زمانی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik met de juf praten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "parent_teacher_meeting",
+    "life_context": "parent_teacher",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt met de meester van je zoon praten.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی با آقای معلم پسرت صحبت کنی. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله برای صحبت با آقای معلم طبیعی است.",
+    "dialogue_rule_fa": "برای قرار با معلم بگو: Ik wil graag een afspraak maken.",
+    "extra_example_nl": "Wanneer is het oudergesprek?",
+    "extra_example_fa": "جلسه والدین و معلم چه زمانی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik met de meester praten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "parent_teacher_meeting",
+    "life_context": "parent_teacher",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten hoe het met je kind gaat.",
+    "question_text_nl": "Wat vraag je aan de leerkracht?",
+    "question_text_fa": "می‌خواهی بدانی وضعیت کودکت در مدرسه چطور است. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای جلسه یا صحبت با معلم مناسب است.",
+    "dialogue_rule_fa": "برای قرار با معلم بگو: Ik wil graag een afspraak maken.",
+    "extra_example_nl": "Wanneer is het oudergesprek?",
+    "extra_example_fa": "جلسه والدین و معلم چه زمانی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe gaat het met mijn kind op school?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "parent_teacher_meeting",
+    "life_context": "parent_teacher",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De school nodigt je uit voor een gesprek.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "مدرسه تو را به جلسه دعوت می‌کند. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای دانستن ساعت جلسه مناسب است.",
+    "dialogue_rule_fa": "برای قرار با معلم بگو: Ik wil graag een afspraak maken.",
+    "extra_example_nl": "Wanneer is het oudergesprek?",
+    "extra_example_fa": "جلسه والدین و معلم چه زمانی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe laat is de afspraak?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "parent_teacher_meeting",
+    "life_context": "parent_teacher",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kunt niet op de voorgestelde tijd komen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "در زمان پیشنهادی نمی‌توانی بیایی. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله مؤدبانه برای تغییر روز قرار است.",
+    "dialogue_rule_fa": "برای قرار با معلم بگو: Ik wil graag een afspraak maken.",
+    "extra_example_nl": "Wanneer is het oudergesprek?",
+    "extra_example_fa": "جلسه والدین و معلم چه زمانی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan de afspraak op een andere dag?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "parent_teacher_meeting",
+    "life_context": "parent_teacher",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt een kort gesprek na school.",
+    "question_text_nl": "Wat zeg je tegen de juf?",
+    "question_text_fa": "می‌خواهی بعد از مدرسه یک گفت‌وگوی کوتاه داشته باشی. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای درخواست زمان کوتاه مناسب است.",
+    "dialogue_rule_fa": "برای قرار با معلم بگو: Ik wil graag een afspraak maken.",
+    "extra_example_nl": "Wanneer is het oudergesprek?",
+    "extra_example_fa": "جلسه والدین و معلم چه زمانی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u na school even tijd?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "parent_teacher_meeting",
+    "life_context": "parent_teacher",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt naar het oudergesprek.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "برای جلسه والدین و معلم می‌روی. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله دلیل حضور تو را واضح بیان می‌کند.",
+    "dialogue_rule_fa": "برای قرار با معلم بگو: Ik wil graag een afspraak maken.",
+    "extra_example_nl": "Wanneer is het oudergesprek?",
+    "extra_example_fa": "جلسه والدین و معلم چه زمانی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben hier voor het oudergesprek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "parent_teacher_meeting",
+    "life_context": "parent_teacher",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of de leerkracht beschikbaar is.",
+    "question_text_nl": "Wat vraag je aan school?",
+    "question_text_fa": "می‌خواهی بدانی معلم وقت دارد یا نه. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای دانستن حضور معلم مناسب است.",
+    "dialogue_rule_fa": "برای قرار با معلم بگو: Ik wil graag een afspraak maken.",
+    "extra_example_nl": "Wanneer is het oudergesprek?",
+    "extra_example_fa": "جلسه والدین و معلم چه زمانی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is de leerkracht vandaag op school?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_schedule_and_activities",
+    "life_context": "school_schedule",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten hoe laat school begint.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی مدرسه چه ساعتی شروع می‌شود. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال مستقیم درباره ساعت شروع مدرسه است.",
+    "dialogue_rule_fa": "برای برنامه مدرسه از Hoe laat, Is er و Heeft mijn kind استفاده می‌کنیم.",
+    "extra_example_nl": "Is er morgen gym op school?",
+    "extra_example_fa": "آیا فردا در مدرسه ورزش هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat begint de school?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_schedule_and_activities",
+    "life_context": "school_schedule",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten hoe laat school uit is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی مدرسه چه ساعتی تمام می‌شود. کدام سؤال مناسب است؟",
+    "explanation_fa": "این جمله درباره ساعت پایان مدرسه است.",
+    "dialogue_rule_fa": "برای برنامه مدرسه از Hoe laat, Is er و Heeft mijn kind استفاده می‌کنیم.",
+    "extra_example_nl": "Is er morgen gym op school?",
+    "extra_example_fa": "آیا فردا در مدرسه ورزش هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat is de school uit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_schedule_and_activities",
+    "life_context": "school_schedule",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten of er vandaag gym is.",
+    "question_text_nl": "Wat vraag je aan de school?",
+    "question_text_fa": "می‌خواهی بدانی امروز ورزش هست یا نه. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال کوتاه و مناسب فعالیت مدرسه است.",
+    "dialogue_rule_fa": "برای برنامه مدرسه از Hoe laat, Is er و Heeft mijn kind استفاده می‌کنیم.",
+    "extra_example_nl": "Is er morgen gym op school?",
+    "extra_example_fa": "آیا فردا در مدرسه ورزش هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is er vandaag gym?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_schedule_and_activities",
+    "life_context": "school_schedule",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Morgen is er misschien een schoolreisje.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "شاید فردا اردو باشد. کدام سؤال مناسب است؟",
+    "explanation_fa": "این سؤال ساده درباره اردوی مدرسه است.",
+    "dialogue_rule_fa": "برای برنامه مدرسه از Hoe laat, Is er و Heeft mijn kind استفاده می‌کنیم.",
+    "extra_example_nl": "Is er morgen gym op school?",
+    "extra_example_fa": "آیا فردا در مدرسه ورزش هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Is er morgen schoolreisje?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_schedule_and_activities",
+    "life_context": "school_schedule",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je weet niet of school vandaag open is.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "نمی‌دانی امروز مدرسه باز است یا نه. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال مستقیم درباره باز بودن مدرسه است.",
+    "dialogue_rule_fa": "برای برنامه مدرسه از Hoe laat, Is er و Heeft mijn kind استفاده می‌کنیم.",
+    "extra_example_nl": "Is er morgen gym op school?",
+    "extra_example_fa": "آیا فردا در مدرسه ورزش هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is de school vandaag open?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_schedule_and_activities",
+    "life_context": "school_schedule",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kind heeft misschien zwemles.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "شاید کودکت شنا داشته باشد. کدام سؤال مناسب است؟",
+    "explanation_fa": "این جمله درباره برنامه شنا کودک است.",
+    "dialogue_rule_fa": "برای برنامه مدرسه از Hoe laat, Is er و Heeft mijn kind استفاده می‌کنیم.",
+    "extra_example_nl": "Is er morgen gym op school?",
+    "extra_example_fa": "آیا فردا در مدرسه ورزش هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft mijn kind vandaag zwemles?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_schedule_and_activities",
+    "life_context": "school_schedule",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten wat de klas morgen doet.",
+    "question_text_nl": "Wat vraag je aan de juf?",
+    "question_text_fa": "می‌خواهی بدانی کلاس فردا چه کاری انجام می‌دهد. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال درباره برنامه فردای کلاس است.",
+    "dialogue_rule_fa": "برای برنامه مدرسه از Hoe laat, Is er و Heeft mijn kind استفاده می‌کنیم.",
+    "extra_example_nl": "Is er morgen gym op school?",
+    "extra_example_fa": "آیا فردا در مدرسه ورزش هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat doet de klas morgen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_schedule_and_activities",
+    "life_context": "school_schedule",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kind moet gymspullen meenemen.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "کودکت شاید باید وسایل ورزش بیاورد. کدام سؤال مناسب است؟",
+    "explanation_fa": "این سؤال به برنامه ورزش مربوط است.",
+    "dialogue_rule_fa": "برای برنامه مدرسه از Hoe laat, Is er و Heeft mijn kind استفاده می‌کنیم.",
+    "extra_example_nl": "Is er morgen gym op school?",
+    "extra_example_fa": "آیا فردا در مدرسه ورزش هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft mijn kind morgen gym?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_schedule_and_activities",
+    "life_context": "school_schedule",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Er is een activiteit op school.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "در مدرسه یک فعالیت هست. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال درباره زمان شروع فعالیت است.",
+    "dialogue_rule_fa": "برای برنامه مدرسه از Hoe laat, Is er و Heeft mijn kind استفاده می‌کنیم.",
+    "extra_example_nl": "Is er morgen gym op school?",
+    "extra_example_fa": "آیا فردا در مدرسه ورزش هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat begint de activiteit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_schedule_and_activities",
+    "life_context": "school_schedule",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of er deze week vakantie is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی این هفته تعطیلی هست یا نه. کدام سؤال مناسب است؟",
+    "explanation_fa": "این جمله درباره تعطیلی مدرسه است و مناسب context است.",
+    "dialogue_rule_fa": "برای برنامه مدرسه از Hoe laat, Is er و Heeft mijn kind استفاده می‌کنیم.",
+    "extra_example_nl": "Is er morgen gym op school?",
+    "extra_example_fa": "آیا فردا در مدرسه ورزش هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is er deze week schoolvakantie?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_items_and_forms",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kind moet misschien iets meenemen naar school.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "شاید کودکت باید چیزی به مدرسه ببرد. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای وسایل لازم مدرسه مناسب است.",
+    "dialogue_rule_fa": "برای فرم و وسایل مدرسه بگو: Moet ik dit formulier invullen? یا Moet mijn kind iets meenemen?",
+    "extra_example_nl": "Moet ik dit formulier invullen?",
+    "extra_example_fa": "آیا باید این فرم را پر کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Moet mijn kind iets meenemen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_items_and_forms",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je krijgt een formulier van school.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "از مدرسه یک فرم گرفته‌ای. کدام سؤال مناسب است؟",
+    "explanation_fa": "این جمله درباره پر کردن فرم است.",
+    "dialogue_rule_fa": "برای فرم و وسایل مدرسه بگو: Moet ik dit formulier invullen? یا Moet mijn kind iets meenemen?",
+    "extra_example_nl": "Moet ik dit formulier invullen?",
+    "extra_example_fa": "آیا باید این فرم را پر کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Moet ik dit formulier invullen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_items_and_forms",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je moet ergens op een papier tekenen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "باید جایی روی کاغذ امضا کنی. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال دقیقاً درباره محل امضا است.",
+    "dialogue_rule_fa": "برای فرم و وسایل مدرسه بگو: Moet ik dit formulier invullen? یا Moet mijn kind iets meenemen?",
+    "extra_example_nl": "Moet ik dit formulier invullen?",
+    "extra_example_fa": "آیا باید این فرم را پر کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar moet ik tekenen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_items_and_forms",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begrijpt een brief van school niet.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "نامه مدرسه را متوجه نشده‌ای. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله ساده می‌گوید که نامه را نفهمیده‌ای.",
+    "dialogue_rule_fa": "برای فرم و وسایل مدرسه بگو: Moet ik dit formulier invullen? یا Moet mijn kind iets meenemen?",
+    "extra_example_nl": "Moet ik dit formulier invullen?",
+    "extra_example_fa": "آیا باید این فرم را پر کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb de brief niet begrepen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_items_and_forms",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kind heeft morgen gym.",
+    "question_text_nl": "Wat vraag je aan school?",
+    "question_text_fa": "کودکت فردا ورزش دارد. از مدرسه چه می‌پرسی؟",
+    "explanation_fa": "این سؤال درباره لباس ورزش است.",
+    "dialogue_rule_fa": "برای فرم و وسایل مدرسه بگو: Moet ik dit formulier invullen? یا Moet mijn kind iets meenemen?",
+    "extra_example_nl": "Moet ik dit formulier invullen?",
+    "extra_example_fa": "آیا باید این فرم را پر کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft mijn kind gymkleren nodig?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_items_and_forms",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je weet niet of je kind lunch moet meenemen.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "نمی‌دانی کودکت باید ناهار بیاورد یا نه. کدام سؤال مناسب است؟",
+    "explanation_fa": "این سؤال درباره آوردن ناهار است.",
+    "dialogue_rule_fa": "برای فرم و وسایل مدرسه بگو: Moet ik dit formulier invullen? یا Moet mijn kind iets meenemen?",
+    "extra_example_nl": "Moet ik dit formulier invullen?",
+    "extra_example_fa": "آیا باید این فرم را پر کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Moet hij lunch meenemen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_items_and_forms",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt een brief gekregen over schoolreisje.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "نامه‌ای درباره اردو گرفته‌ای. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال درباره اجازه‌نامه اردو مناسب است.",
+    "dialogue_rule_fa": "برای فرم و وسایل مدرسه بگو: Moet ik dit formulier invullen? یا Moet mijn kind iets meenemen?",
+    "extra_example_nl": "Moet ik dit formulier invullen?",
+    "extra_example_fa": "آیا باید این فرم را پر کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Moet ik toestemming geven?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_items_and_forms",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet een formulier maar je weet niet voor wie het is.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "فرمی می‌بینی اما نمی‌دانی برای چه کسی است. کدام سؤال مناسب است؟",
+    "explanation_fa": "این سؤال ساده و مربوط به فرم مدرسه است.",
+    "dialogue_rule_fa": "برای فرم و وسایل مدرسه بگو: Moet ik dit formulier invullen? یا Moet mijn kind iets meenemen?",
+    "extra_example_nl": "Moet ik dit formulier invullen?",
+    "extra_example_fa": "آیا باید این فرم را پر کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is dit formulier voor mijn kind?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_items_and_forms",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je kind moet iets meenemen voor een activiteit.",
+    "question_text_nl": "Wat vraag je aan de juf?",
+    "question_text_fa": "کودکت باید برای یک فعالیت چیزی ببرد. از معلم چه می‌پرسی؟",
+    "explanation_fa": "این سؤال دقیقاً درباره وسایل لازم است.",
+    "dialogue_rule_fa": "برای فرم و وسایل مدرسه بگو: Moet ik dit formulier invullen? یا Moet mijn kind iets meenemen?",
+    "extra_example_nl": "Moet ik dit formulier invullen?",
+    "extra_example_fa": "آیا باید این فرم را پر کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat moet mijn kind meenemen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "school_items_and_forms",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten wanneer je het formulier moet teruggeven.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی بدانی فرم را چه زمانی باید برگردانی. کدام سؤال مناسب است؟",
+    "explanation_fa": "این سؤال درباره زمان تحویل فرم است.",
+    "dialogue_rule_fa": "برای فرم و وسایل مدرسه بگو: Moet ik dit formulier invullen? یا Moet mijn kind iets meenemen?",
+    "extra_example_nl": "Moet ik dit formulier invullen?",
+    "extra_example_fa": "آیا باید این فرم را پر کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer moet ik het formulier teruggeven?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "pickup_dropoff_child",
+    "life_context": "pickup_dropoff",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt je kind ophalen van school.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "برای بردن کودکت از مدرسه می‌آیی. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای بردن کودک از مدرسه مناسب است.",
+    "dialogue_rule_fa": "برای بردن و آوردن کودک از brengen, ophalen و opvang استفاده می‌کنیم.",
+    "extra_example_nl": "Ik haal mijn zoon om drie uur op.",
+    "extra_example_fa": "من پسرم را ساعت سه می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kom mijn kind ophalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "pickup_dropoff_child",
+    "life_context": "pickup_dropoff",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De vader haalt je dochter op.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "پدر دخترت او را از مدرسه برمی‌دارد. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله می‌گوید چه کسی کودک را می‌برد.",
+    "dialogue_rule_fa": "برای بردن و آوردن کودک از brengen, ophalen و opvang استفاده می‌کنیم.",
+    "extra_example_nl": "Ik haal mijn zoon om drie uur op.",
+    "extra_example_fa": "من پسرم را ساعت سه می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn dochter wordt opgehaald door haar vader.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "pickup_dropoff_child",
+    "life_context": "pickup_dropoff",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of je kind alleen naar huis mag.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی کودکت می‌تواند تنها به خانه برود یا نه. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال دقیقاً درباره تنها رفتن کودک به خانه است.",
+    "dialogue_rule_fa": "برای بردن و آوردن کودک از brengen, ophalen و opvang استفاده می‌کنیم.",
+    "extra_example_nl": "Ik haal mijn zoon om drie uur op.",
+    "extra_example_fa": "من پسرم را ساعت سه می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan mijn kind alleen naar huis?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "pickup_dropoff_child",
+    "life_context": "pickup_dropoff",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat bij school en weet niet waar je moet wachten.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "در مدرسه هستی و نمی‌دانی کجا باید منتظر بمانی. کدام سؤال مناسب است؟",
+    "explanation_fa": "این سؤال برای محل انتظار مناسب است.",
+    "dialogue_rule_fa": "برای بردن و آوردن کودک از brengen, ophalen و opvang استفاده می‌کنیم.",
+    "extra_example_nl": "Ik haal mijn zoon om drie uur op.",
+    "extra_example_fa": "من پسرم را ساعت سه می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar moet ik wachten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "pickup_dropoff_child",
+    "life_context": "pickup_dropoff",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten hoe laat je je kind kunt ophalen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی چه ساعتی می‌توانی کودکت را ببری. چه می‌پرسی؟",
+    "explanation_fa": "این جمله درباره زمان بردن کودک است.",
+    "dialogue_rule_fa": "برای بردن و آوردن کودک از brengen, ophalen و opvang استفاده می‌کنیم.",
+    "extra_example_nl": "Ik haal mijn zoon om drie uur op.",
+    "extra_example_fa": "من پسرم را ساعت سه می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe laat kan ik mijn kind ophalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "pickup_dropoff_child",
+    "life_context": "pickup_dropoff",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoon gaat na school naar de opvang.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "پسرت بعد از مدرسه به opvang می‌رود. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله برنامه بعد از مدرسه کودک را واضح می‌کند.",
+    "dialogue_rule_fa": "برای بردن و آوردن کودک از brengen, ophalen و opvang استفاده می‌کنیم.",
+    "extra_example_nl": "Ik haal mijn zoon om drie uur op.",
+    "extra_example_fa": "من پسرم را ساعت سه می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn zoon gaat naar de opvang.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "pickup_dropoff_child",
+    "life_context": "pickup_dropoff",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je brengt je kind om acht uur naar school.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کودکت را ساعت هشت به مدرسه می‌بری. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای آوردن کودک به مدرسه مناسب است.",
+    "dialogue_rule_fa": "برای بردن و آوردن کودک از brengen, ophalen و opvang استفاده می‌کنیم.",
+    "extra_example_nl": "Ik haal mijn zoon om drie uur op.",
+    "extra_example_fa": "من پسرم را ساعت سه می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik breng mijn kind om acht uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "pickup_dropoff_child",
+    "life_context": "pickup_dropoff",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je kunt je kind vandaag niet zelf ophalen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "امروز خودت نمی‌توانی کودکت را ببری. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله مشخص می‌کند چه کسی کودک را می‌برد.",
+    "dialogue_rule_fa": "برای بردن و آوردن کودک از brengen, ophalen و opvang استفاده می‌کنیم.",
+    "extra_example_nl": "Ik haal mijn zoon om drie uur op.",
+    "extra_example_fa": "من پسرم را ساعت سه می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn broer haalt mijn kind vandaag op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "pickup_dropoff_child",
+    "life_context": "pickup_dropoff",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent te vroeg bij school om je kind op te halen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "برای بردن کودکت زود به مدرسه رسیده‌ای. چه می‌پرسی؟",
+    "explanation_fa": "این سؤال برای منتظر ماندن در مدرسه مناسب است.",
+    "dialogue_rule_fa": "برای بردن و آوردن کودک از brengen, ophalen و opvang استفاده می‌کنیم.",
+    "extra_example_nl": "Ik haal mijn zoon om drie uur op.",
+    "extra_example_fa": "من پسرم را ساعت سه می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik hier wachten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "pickup_dropoff_child",
+    "life_context": "pickup_dropoff",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je dochter gaat met een vriendin mee naar huis.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "دخترت با دوستش به خانه می‌رود. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله به مدرسه اطلاع می‌دهد کودک با چه کسی می‌رود.",
+    "dialogue_rule_fa": "برای بردن و آوردن کودک از brengen, ophalen و opvang استفاده می‌کنیم.",
+    "extra_example_nl": "Ik haal mijn zoon om drie uur op.",
+    "extra_example_fa": "من پسرم را ساعت سه می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn dochter gaat met haar vriendin mee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "asking_for_help_support",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je begrijpt een brief van school niet.",
+    "question_text_nl": "Wat zeg je tegen de leerkracht?",
+    "question_text_fa": "نامه مدرسه را متوجه نشده‌ای. به معلم چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه برای درخواست توضیح است.",
+    "dialogue_rule_fa": "برای درخواست کمک یا توضیح بگو: Kunt u mij helpen? یا Kunt u het uitleggen?",
+    "extra_example_nl": "Kunt u alstublieft langzamer praten?",
+    "extra_example_fa": "می‌توانید لطفاً آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u het uitleggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "asking_for_help_support",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De juf praat te snel.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "معلم خیلی سریع صحبت می‌کند. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله مؤدبانه درخواست آهسته‌تر صحبت کردن است.",
+    "dialogue_rule_fa": "برای درخواست کمک یا توضیح بگو: Kunt u mij helpen? یا Kunt u het uitleggen?",
+    "extra_example_nl": "Kunt u alstublieft langzamer praten?",
+    "extra_example_fa": "می‌توانید لطفاً آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u langzamer praten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "asking_for_help_support",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt hulp nodig bij een formulier.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "برای یک فرم کمک لازم داری. چه می‌پرسی؟",
+    "explanation_fa": "این جمله ساده و مناسب درخواست کمک است.",
+    "dialogue_rule_fa": "برای درخواست کمک یا توضیح بگو: Kunt u mij helpen? یا Kunt u het uitleggen?",
+    "extra_example_nl": "Kunt u alstublieft langzamer praten?",
+    "extra_example_fa": "می‌توانید لطفاً آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "asking_for_help_support",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt dat de school iets voor je opschrijft.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی مدرسه چیزی را برایت بنویسد. کدام سؤال مناسب است؟",
+    "explanation_fa": "این سؤال برای درخواست نوشتن اطلاعات مناسب است.",
+    "dialogue_rule_fa": "برای درخواست کمک یا توضیح بگو: Kunt u mij helpen? یا Kunt u het uitleggen?",
+    "extra_example_nl": "Kunt u alstublieft langzamer praten?",
+    "extra_example_fa": "می‌توانید لطفاً آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dit opschrijven?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "asking_for_help_support",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je Nederlands is nog niet zo goed.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "هلندی‌ات هنوز خیلی خوب نیست. چه می‌گویی؟",
+    "explanation_fa": "این جمله ساده و کاربردی برای توضیح وضعیت زبانی است.",
+    "dialogue_rule_fa": "برای درخواست کمک یا توضیح بگو: Kunt u mij helpen? یا Kunt u het uitleggen?",
+    "extra_example_nl": "Kunt u alstublieft langzamer praten?",
+    "extra_example_fa": "می‌توانید لطفاً آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik spreek nog niet zo goed Nederlands.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "asking_for_help_support",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je begrijpt de uitleg niet.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "توضیح را متوجه نشده‌ای. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله کوتاه و مستقیم می‌گوید که متوجه نشده‌ای.",
+    "dialogue_rule_fa": "برای درخواست کمک یا توضیح بگو: Kunt u mij helpen? یا Kunt u het uitleggen?",
+    "extra_example_nl": "Kunt u alstublieft langzamer praten?",
+    "extra_example_fa": "می‌توانید لطفاً آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik begrijp het niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "asking_for_help_support",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt uitleg over een schoolbrief.",
+    "question_text_nl": "Wat vraag je aan school?",
+    "question_text_fa": "درباره نامه مدرسه توضیح می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله دقیقاً برای توضیح نامه مدرسه است.",
+    "dialogue_rule_fa": "برای درخواست کمک یا توضیح بگو: Kunt u mij helpen? یا Kunt u het uitleggen?",
+    "extra_example_nl": "Kunt u alstublieft langzamer praten?",
+    "extra_example_fa": "می‌توانید لطفاً آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u de brief uitleggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "asking_for_help_support",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt een moeilijke zin nog een keer horen.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی یک جمله سخت را دوباره بشنوی. کدام سؤال مناسب است؟",
+    "explanation_fa": "این جمله برای درخواست تکرار مناسب است.",
+    "dialogue_rule_fa": "برای درخواست کمک یا توضیح بگو: Kunt u mij helpen? یا Kunt u het uitleggen?",
+    "extra_example_nl": "Kunt u alstublieft langzamer praten?",
+    "extra_example_fa": "می‌توانید لطفاً آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kunt u dat nog een keer zeggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "asking_for_help_support",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat bij de balie en weet niet wat je moet doen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در دفتر مدرسه هستی و نمی‌دانی باید چه کار کنی. چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه و مناسب درخواست کمک است.",
+    "dialogue_rule_fa": "برای درخواست کمک یا توضیح بگو: Kunt u mij helpen? یا Kunt u het uitleggen?",
+    "extra_example_nl": "Kunt u alstublieft langzamer praten?",
+    "extra_example_fa": "می‌توانید لطفاً آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kunt u mij alstublieft helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "asking_for_help_support",
+    "life_context": "school_forms",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt zeker weten dat je alles goed hebt begrepen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی مطمئن شوی همه چیز را درست فهمیده‌ای. کدام جمله مناسب است؟",
+    "explanation_fa": "این جمله برای چک کردن فهم خودت مناسب است.",
+    "dialogue_rule_fa": "برای درخواست کمک یا توضیح بگو: Kunt u mij helpen? یا Kunt u het uitleggen?",
+    "extra_example_nl": "Kunt u alstublieft langzamer praten?",
+    "extra_example_fa": "می‌توانید لطفاً آهسته‌تر صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Begrijp ik het goed?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "choosing_best_school_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Mijn zoon is ziek. B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "در این مکالمه، بهترین پاسخ مدرسه کدام است؟",
+    "explanation_fa": "این پاسخ با خبر بیماری کودک هماهنگ و مؤدبانه است.",
+    "dialogue_rule_fa": "در مکالمه، باید جمله‌ای را انتخاب کنی که مستقیم به حرف طرف مقابل جواب می‌دهد.",
+    "extra_example_nl": "Dank u voor het doorgeven. Beterschap!",
+    "extra_example_fa": "ممنون که اطلاع دادید. زود خوب شود!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik de menukaart zien?",
+        "is_correct": false,
+        "feedback_fa": "این جمله در رستوران استفاده می‌شود، نه در مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dank u voor het doorgeven. Beterschap!",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "choosing_best_school_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Komt mijn dochter vandaag te laat? B: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "کدام جمله در این مکالمه مناسب‌تر است؟",
+    "explanation_fa": "این پاسخ مستقیم به سؤال درباره دیر رسیدن جواب می‌دهد.",
+    "dialogue_rule_fa": "در مکالمه، باید جمله‌ای را انتخاب کنی که مستقیم به حرف طرف مقابل جواب می‌دهد.",
+    "extra_example_nl": "Dank u voor het doorgeven. Beterschap!",
+    "extra_example_fa": "ممنون که اطلاع دادید. زود خوب شود!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil een treinkaartje kopen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید بلیت قطار است، نه موضوع مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, zij komt tien minuten later.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "choosing_best_school_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Heeft mijn kind huiswerk? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "در جواب سؤال درباره تکلیف، کدام جمله بهتر است؟",
+    "explanation_fa": "این پاسخ درباره تکلیف و تمرین در خانه است.",
+    "dialogue_rule_fa": "در مکالمه، باید جمله‌ای را انتخاب کنی که مستقیم به حرف طرف مقابل جواب می‌دهد.",
+    "extra_example_nl": "Dank u voor het doorgeven. Beterschap!",
+    "extra_example_fa": "ممنون که اطلاع دادید. زود خوب شود!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ja, hij moet thuis lezen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn fiets is rood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رنگ دوچرخه است و برای این context مناسب نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "choosing_best_school_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wanneer is het oudergesprek? B: ___",
+    "question_text_nl": "Wat zegt de school?",
+    "question_text_fa": "مدرسه در جواب زمان جلسه والدین و معلم چه می‌گوید؟",
+    "explanation_fa": "این جمله زمان جلسه را واضح می‌گوید.",
+    "dialogue_rule_fa": "در مکالمه، باید جمله‌ای را انتخاب کنی که مستقیم به حرف طرف مقابل جواب می‌دهد.",
+    "extra_example_nl": "Dank u voor het doorgeven. Beterschap!",
+    "extra_example_fa": "ممنون که اطلاع دادید. زود خوب شود!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik luister graag naar muziek.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره علاقه شخصی است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het oudergesprek is maandag om drie uur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "choosing_best_school_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Moet mijn kind iets meenemen? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "در جواب سؤال درباره وسایل مدرسه، بهترین پاسخ چیست؟",
+    "explanation_fa": "این پاسخ دقیقاً درباره چیزی است که کودک باید بیاورد.",
+    "dialogue_rule_fa": "در مکالمه، باید جمله‌ای را انتخاب کنی که مستقیم به حرف طرف مقابل جواب می‌دهد.",
+    "extra_example_nl": "Dank u voor het doorgeven. Beterschap!",
+    "extra_example_fa": "ممنون که اطلاع دادید. زود خوب شود!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bank is om vijf uur dicht.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره بانک است و به مدرسه کودک مربوط نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, graag gymkleren meenemen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "choosing_best_school_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Ik begrijp de brief niet. B: ___",
+    "question_text_nl": "Welke zin past?",
+    "question_text_fa": "وقتی والد نامه را نمی‌فهمد، بهترین پاسخ مدرسه چیست؟",
+    "explanation_fa": "این پاسخ طبیعی است و پیشنهاد توضیح می‌دهد.",
+    "dialogue_rule_fa": "در مکالمه، باید جمله‌ای را انتخاب کنی که مستقیم به حرف طرف مقابل جواب می‌دهد.",
+    "extra_example_nl": "Dank u voor het doorgeven. Beterschap!",
+    "extra_example_fa": "ممنون که اطلاع دادید. زود خوب شود!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een nieuwe jas.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره لباس است و پاسخ مناسب مکالمه مدرسه نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Natuurlijk, ik leg het uit.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "choosing_best_school_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Ik kom mijn dochter ophalen. B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "وقتی والد برای بردن دخترش آمده، پاسخ مناسب مدرسه چیست؟",
+    "explanation_fa": "این پاسخ درباره محل انتظار برای بردن کودک است.",
+    "dialogue_rule_fa": "در مکالمه، باید جمله‌ای را انتخاب کنی که مستقیم به حرف طرف مقابل جواب می‌دهد.",
+    "extra_example_nl": "Dank u voor het doorgeven. Beterschap!",
+    "extra_example_fa": "ممنون که اطلاع دادید. زود خوب شود!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U kunt bij de deur wachten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil koffie bestellen.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره سفارش قهوه است و به این موقعیت مدرسه ربطی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "choosing_best_school_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Is er morgen gym? B: ___",
+    "question_text_nl": "Wat zegt de juf?",
+    "question_text_fa": "معلم در جواب سؤال درباره ورزش فردا چه می‌گوید؟",
+    "explanation_fa": "این پاسخ مستقیم و واضح به سؤال ورزش است.",
+    "dialogue_rule_fa": "در مکالمه، باید جمله‌ای را انتخاب کنی که مستقیم به حرف طرف مقابل جواب می‌دهد.",
+    "extra_example_nl": "Dank u voor het doorgeven. Beterschap!",
+    "extra_example_fa": "ممنون که اطلاع دادید. زود خوب شود!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar is het station?",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره پرسیدن مسیر ایستگاه است، نه مکالمه با مدرسه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, morgen is er gym.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "choosing_best_school_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Kan ik met de meester praten? B: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "والد می‌خواهد با آقای معلم صحبت کند. بهترین پاسخ چیست؟",
+    "explanation_fa": "این پاسخ درباره وقت داشتن معلم است و مناسب context است.",
+    "dialogue_rule_fa": "در مکالمه، باید جمله‌ای را انتخاب کنی که مستقیم به حرف طرف مقابل جواب می‌دهد.",
+    "extra_example_nl": "Dank u voor het doorgeven. Beterschap!",
+    "extra_example_fa": "ممنون که اطلاع دادید. زود خوب شود!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop vandaag brood.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره خرید نان است و برای این گفت‌وگو مناسب نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, hij heeft na school tijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "child_school",
+    "subtopic": "choosing_best_school_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Kunt u langzamer praten? B: ___",
+    "question_text_nl": "Welke zin past in het gesprek?",
+    "question_text_fa": "وقتی والد می‌خواهد آرام‌تر صحبت شود، پاسخ مناسب چیست؟",
+    "explanation_fa": "این پاسخ درخواست والد را می‌پذیرد و مناسب مکالمه است.",
+    "dialogue_rule_fa": "در مکالمه، باید جمله‌ای را انتخاب کنی که مستقیم به حرف طرف مقابل جواب می‌دهد.",
+    "extra_example_nl": "Dank u voor het doorgeven. Beterschap!",
+    "extra_example_fa": "ممنون که اطلاع دادید. زود خوب شود!",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De winkel is vandaag open.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره فروشگاه است، نه مدرسه کودک."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het regent vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره هواست و پاسخ مناسب این مکالمه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar de supermarkt.",
+        "is_correct": false,
+        "feedback_fa": "این جمله درباره رفتن به سوپرمارکت است و به مدرسه ربطی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, natuurlijk. Ik praat langzamer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با موقعیت مکالمه هماهنگ است و طبیعی گفته می‌شود."
+      }
+    ]
+  }
+]

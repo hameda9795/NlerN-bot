@@ -1,0 +1,1232 @@
+[
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "work_experience_past",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft in een sollicitatiebrief over je vorige baan. Welke zin beschrijft je ervaring het meest professioneel en correct?",
+    "question_text_fa": "کدام جمله تجربه‌ی کاری قبلی را حرفه‌ای‌تر و درست بیان می‌کند؟",
+    "explanation_fa": "«In mijn vorige functie heb ik veel geleerd over klantenservice.» با perfectum و فاعل روشن، طبیعی و حرفه‌ای است.",
+    "grammar_rule_fa": "توصیف تجربه‌ی گذشته: «In mijn vorige functie heb ik … geleerd» (have + voltooid deelwoord).",
+    "extra_example_nl": "In die periode heb ik veel nieuwe vaardigheden opgedaan.",
+    "extra_example_fa": "در آن دوره مهارت‌های زیادی یاد گرفتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In mijn vorige functie ik heb veel geleerd over klantenservice.",
+        "is_correct": false,
+        "feedback_fa": "woordvolgorde fout: na de plaatsbepaling moet inversie komen (heb ik)."
+      },
+      {
+        "key": "B",
+        "text_nl": "In mijn vorige functie heb ik veel leer over klantenservice.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: na heb moet het voltooid deelwoord «geleerd» komen, niet de tegenwoordige tijd «leer»."
+      },
+      {
+        "key": "C",
+        "text_nl": "In mijn vorige functie ik veel geleerd over klantenservice.",
+        "is_correct": false,
+        "feedback_fa": "hulpwerkwoord «heb» ontbreekt en geen inversie; ongrammaticaal."
+      },
+      {
+        "key": "D",
+        "text_nl": "In mijn vorige functie heb ik veel geleerd over klantenservice.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijd (perfectum) en natuurlijk."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "travel_story",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je mailt een vriend over je vakantie. Welke zin klinkt het meest natuurlijk om over een leuk bezoek te vertellen?",
+    "question_text_fa": "کدام جمله برای تعریف یک دیدار خوب در پیام به دوست طبیعی‌تر است؟",
+    "explanation_fa": "«Vorige week ben ik naar Amsterdam geweest; het was fantastisch!» met zijn + voltooid deelwoord en een natuurlijke reactie erachter.",
+    "grammar_rule_fa": "verslag van een uitstapje: «ben ik naar … geweest» (zijn als hulpwerkwoord bij bewegingswerkwoorden/gekomen).",
+    "extra_example_nl": "Gisteren ben ik naar de bioscoop geweest; het was gezellig.",
+    "extra_example_fa": "دیروز سینما رفتم؛ خیلی دنج و خوب بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vorige week heb ik naar Amsterdam geweest; het was fantastisch!",
+        "is_correct": false,
+        "feedback_fa": "verkeerd hulpwerkwoord: bij «gaan/geweest» hoort «ben», niet «heb»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vorige week ben ik naar Amsterdam geweest; het is fantastisch!",
+        "is_correct": false,
+        "feedback_fa": "«is fantastisch» (heden) is niet passend bij het verleden verhaal; zou «was» moeten zijn."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vorige week ben ik naar Amsterdam geweest; het was fantastisch!",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijd en natuurlijk, met «geweest»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorige week ik ben naar Amsterdam gegaan; het is fantastisch!",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na de tijdsbepaling en «is» (heden) past niet bij een verhaal over de vakantie."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "first_time_event",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft over je eerste dag op een nieuwe cursus. Welke zin is correct en natuurlijk?",
+    "question_text_fa": "کدام جمله درباره‌ی روز اول در دوره‌ی جدید درست و طبیعی است؟",
+    "explanation_fa": "«Op mijn eerste dag kende ik niemand, maar iedereen was aardig.» simplex verleden tijd (kende, was), natuurlijk en correct.",
+    "grammar_rule_fa": "verleden tijd (onvold. tijd): kennen → kende; zijn → was.",
+    "extra_example_nl": "Op mijn eerste werkdag wist ik niet veel, maar mijn collega's hielpen.",
+    "extra_example_fa": "روز اول کاری زیاد نمی‌دانستم، ولی همکارانم کمک کردند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op mijn eerste dag ken ik niemand, maar iedereen is aardig.",
+        "is_correct": false,
+        "feedback_fa": "tegenwoordige tijd (ken/is) past niet bij een verhaal over de eerste dag in het verleden."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op mijn eerste dag kende ik niemand, maar iedereen waren aardig.",
+        "is_correct": false,
+        "feedback_fa": "«iedereen» is enkelvoud, dus «was», niet «waren»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Op mijn eerste dag kende ik niemand, maar iedereen was aardig.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte verleden tijd en natuurlijk."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op mijn eerste dag ik kende niemand, maar iedereen was aardig.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na de plaatsbepaling; zou «kende ik» moeten zijn."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "challenge_overcome",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "In een reflectieverslag beschrijf je een moeilijk project dat goed is afgelopen. Welke zin is het meest professioneel?",
+    "question_text_fa": "کدام جمله برای توصیف یک پروژه‌ی سخت که خوب تمام شد حرفه‌ای‌تر است؟",
+    "explanation_fa": "«Hoewel het project moeilijk was, hebben we het met succes afgerond.» concessief met hoewel + perfectum; professioneel en evenwichtig.",
+    "grammar_rule_fa": "concessieve bijzin: «Hoewel … was, hebben we …» (hoewel + bijzin, werkwoord aan het einde).",
+    "extra_example_nl": "Hoewel de deadline krap was, hebben we het opgeleverd.",
+    "extra_example_fa": "با اینکه مهلت تنگ بود، کار را تحویل دادیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het project was moeilijk, hoewel hebben we het afgerond.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd gebruik van hoewel: het is een bijvoeging, niet correct gekoppeld; «hoewel» hoort aan het begin van de bijzin."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoewel het project makkelijk was, hebben we het met succes afgerond.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde betekenis: «makkelijk» i.p.v. «moeilijk»; past niet bij een verhaal over een uitdaging."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoewel het project moeilijk was, hebben we het met succes afgerond.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte structuur met hoewel en natuurlijke perfectum."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoewel het project moeilijk was, we hebben het afgerond.",
+        "is_correct": false,
+        "feedback_fa": "na de bijzin ontbreekt inversie: zou «hebben we» moeten zijn."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "lesson_learned",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft over een fout op het werk en wat je ervan hebt geleerd. Welke zin is het meest gepast?",
+    "question_text_fa": "کدام جمله برای توصیف یک اشتباه و درس گرفته‌شده مناسب‌تر است؟",
+    "explanation_fa": "«Ik heb een fout gemaakt, maar daar heb ik veel van geleerd.» eerlijk en professioneel; perfectum met les.",
+    "grammar_rule_fa": "ervaring + les: «Ik heb … gemaakt, maar daar heb ik van geleerd.»",
+    "extra_example_nl": "Ik heb het verkeerd gedaan, maar nu weet ik beter.",
+    "extra_example_fa": "اشتباه انجام دادم، ولی حالا بهتر می‌دانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een fout gemaakt, maar daar ik heb veel van geleerd.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie en woordvolgorde verstoord na «maar»; zou «heb ik» moeten zijn."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb geen fout gemaakt, dus ik heb niets geleerd.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde inhoud: ontkent de fout, terwijl de situatie juist over een fout gaat."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een fout gemaakt, maar daar heb ik veel van geleerd.",
+        "is_correct": true,
+        "feedback_fa": "✅ natuurlijk, eerlijk en professioneel."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik maakte een fout, maar daar heb ik veel van leren.",
+        "is_correct": false,
+        "feedback_fa": "«leren» moet voltooid deelwoord «geleerd» zijn na «heb»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "meeting_someone",
+    "life_context": "relationships_and_society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je vertelt in een e-mail hoe je een belangrijke persoon hebt ontmoet. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی آشنایی با یک شخص مهم درست است؟",
+    "explanation_fa": "«Tijdens een conferentie heb ik mijn huidige mentor ontmoet.» perfectum met hebben; tijd en plaats duidelijk.",
+    "grammar_rule_fa": "verslag met perfectum: «Tijdens … heb ik … ontmoet».",
+    "extra_example_nl": "Op een feestje heb ik mijn toekomstige vrouw ontmoet.",
+    "extra_example_fa": "در یک مهمانی با همسر آینده‌ام آشنا شدم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Tijdens een conferentie ik mijn mentor ontmoet.",
+        "is_correct": false,
+        "feedback_fa": "hulpwerkwoord «heb» ontbreekt en geen inversie; ongrammaticaal."
+      },
+      {
+        "key": "B",
+        "text_nl": "Tijdens een conferentie ik heb mijn mentor ontmoet.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na de plaatsbepaling; «heb ik» is juist."
+      },
+      {
+        "key": "C",
+        "text_nl": "Tijdens een conferentie heb ik mijn huidige mentor ontmoet.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijd en natuurlijke woordvolgorde."
+      },
+      {
+        "key": "D",
+        "text_nl": "Tijdens een conferentie heb ik mijn mentor ontmoet heb.",
+        "is_correct": false,
+        "feedback_fa": "dubbel hulpwerkwoord; het tweede «heb» aan het einde is fout."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "moving_city",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft over je verhuizing naar een nieuwe stad. Welke zin is natuurlijk?",
+    "question_text_fa": "کدام جمله درباره‌ی نقل‌مکان به شهر جدید طبیعی است؟",
+    "explanation_fa": "«Vijf jaar geleden ben ik naar Rotterdam verhuisd.» perfectum met zijn voor verhuizen; tijdsaanduiding duidelijk.",
+    "grammar_rule_fa": "perfectum met zijn: «… ben ik … verhuisd» (verhuizen → zijn).",
+    "extra_example_nl": "Twee maanden geleden ben ik naar een nieuw huis verhuisd.",
+    "extra_example_fa": "دو ماه پیش به خانه‌ی جدید نقل مکان کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vijf jaar geleden ben ik naar Rotterdam verhuisd geweest.",
+        "is_correct": false,
+        "feedback_fa": "dubbel voltooid deelwoord; «verhuisd» al afdoende, «geweest» is overbodig."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vijf jaar geleden ben ik naar Rotterdam verhuisd.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijd (zijn) en natuurlijke woordvolgorde."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vijf jaar geleden ik ben naar Rotterdam verhuisd.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na de tijdsaanduiding; «ben ik» is juist."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vijf jaar geleden heb ik naar Rotterdam verhuisd.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd hulpwerkwoord: «verhuizen» neemt «ben/zijn», niet «heb»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "illness_recovery",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft een update nadat je ziek bent geweest. Welke zin is correct?",
+    "question_text_fa": "کدام جمله برای به‌روزرسانی بعد از بیماری درست است؟",
+    "explanation_fa": "«Ik ben een week ziek geweest, maar nu voel ik me beter.» perfectum met zijn en een duidelijke overgang naar het heden.",
+    "grammar_rule_fa": "verslag ziekte: «Ik ben … ziek geweest, maar nu …».",
+    "extra_example_nl": "Ik ben drie dagen verkouden geweest, maar nu gaat het weer.",
+    "extra_example_fa": "سه روز سرما خوردم، ولی حالا خوبم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben een week ziek geweest, maar nu voel ik me beter.",
+        "is_correct": true,
+        "feedback_fa": "✅ correct en natuurlijk."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben een week ziek geweest, maar nu voelde ik me beter.",
+        "is_correct": false,
+        "feedback_fa": "«voelde» is verleden tijd, maar «nu» vraagt om heden (voel)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ben een week ziek, maar nu voel ik me beter.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: «ben ziek» is heden; hier gaat het over de afgelopen week (geweest)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een week ziek geweest, maar nu voel ik me beter.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd hulpwerkwoord: «ziek geweest» neemt «ben», niet «heb»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "achievement_celebration",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft over het halen van een diploma. Welke zin is het meest expressief en correct?",
+    "question_text_fa": "کدام جمله درباره‌ی گرفتن دیپلم پرشورتر و درست است؟",
+    "explanation_fa": " «Toen ik mijn diploma kreeg, was ik ontzettend trots.» simplex verleden tijd en een sterke emotie; natuurlijk.",
+    "grammar_rule_fa": "tijdsmoment + emotie: «Toen ik … kreeg, was ik … trots».",
+    "extra_example_nl": "Toen ik het nieuws hoorde, was ik erg blij.",
+    "extra_example_fa": "وقتی خبر را شنیدم، خیلی خوشحال بودم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen ik mijn diploma krijg, was ik ontzettend trots.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: «krijg» is heden; in de bijzin hoort verleden tijd «kreeg»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen ik mijn diploma kreeg, was ik ontzettend verdrietig.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde emotie: «verdrietig» i.p.v. «trots»; past niet bij een diploma."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen ik mijn diploma kreeg, ik was ontzettend trots.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na de bijzin met toen; «was ik» is juist."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen ik mijn diploma kreeg, was ik ontzettend trots.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte verleden tijd en natuurlijk."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "cultural_experience",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft over een traditioneel feest dat je in het buitenland meemaakte. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی یک جشن سنتی در خارج طبیعی و درست است؟",
+    "explanation_fa": " «Ik heb een lokaal feest meegemaakt en dat was een bijzondere ervaring.» perfectum met hebben + natuurlijke waardering.",
+    "grammar_rule_fa": "ervaring met perfectum: «Ik heb … meegemaakt en dat was …».",
+    "extra_example_nl": "Ik heb een bijzondere tentoonstelling meegemaakt.",
+    "extra_example_fa": "از یک نمایشگاه خاصی دیدن کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een lokaal feest meemaakte en dat was een bijzondere ervaring.",
+        "is_correct": false,
+        "feedback_fa": "«heb … meemaakte» mengt twee tijden; kies perfectum of simplex, niet beide."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik een lokaal feest meegemaakt en dat was een bijzondere ervaring.",
+        "is_correct": false,
+        "feedback_fa": "hulpwerkwoord «heb» ontbreekt."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een lokaal feest meegemaakt en dat is een bijzondere ervaring.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd na en: verhaal over verleden, dus «was» (niet «is»)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een lokaal feest meegemaakt en dat was een bijzondere ervaring.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijd en natuurlijk."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "first_job",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft over je eerste bijbaantje. Welke zin is correct en natuurlijk?",
+    "question_text_fa": "کدام جمله درباره‌ی اولین کار پاره‌وقت درست و طبیعی است؟",
+    "explanation_fa": " «Mijn eerste baantje was in een bakkerij; daar heb ik veel geleerd.» simplex verleden + perfectum; natuurlijk.",
+    "grammar_rule_fa": "ervaring gekoppeld: «Mijn eerste … was …; daar heb ik …».",
+    "extra_example_nl": "Mijn eerste stage was leuk; daar heb ik veel gedaan.",
+    "extra_example_fa": "اولین کارآموزی‌ام جالب بود؛ آن‌جا کارهای زیادی کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn eerste baantje was in een bakkerij; daar ik heb veel geleerd.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na «daar»; «heb ik» is juist."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn eerste baantje was in een bakkerij; daar heb ik veel geleerd.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en natuurlijk."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn eerste baantje is in een bakkerij; daar heb ik veel geleerd.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: «is» (heden) voor een baan uit het verleden; moet «was»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn eerste baantje was in een bakkerij; daar heb ik veel geleerd niets.",
+        "is_correct": false,
+        "feedback_fa": "dubbele ontkenning/betekenis: «veel geleerd» en «niets» spreken elkaar tegen."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "lost_and_found",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je vertelt over een keer dat je je bagage kwijt was. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی گم‌کردن چمدان درست است؟",
+    "explanation_fa": " «Op het vliegveld ben ik mijn koffer kwijtgeraakt.» perfectum met zijn voor raken/kwijtraken.",
+    "grammar_rule_fa": "perfectum met zijn: «ben ik … kwijtgeraakt».",
+    "extra_example_nl": "In de stad ben ik mijn sleutels kwijtgeraakt.",
+    "extra_example_fa": "در شهر کلیدهایم را گم کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op het vliegveld ben ik mijn koffer gevonden.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde betekenis: «gevonden» i.p.v. «kwijtgeraakt»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op het vliegveld ben ik mijn koffer kwijtgeraakt.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijd (zijn) en woordvolgorde."
+      },
+      {
+        "key": "C",
+        "text_nl": "Op het vliegveld heb ik mijn koffer kwijtgeraakt.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd hulpwerkwoord: «kwijtraken» neemt «ben», niet «heb»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op het vliegveld ik ben mijn koffer kwijtgeraakt.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na de plaatsbepaling."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "helping_someone",
+    "life_context": "relationships_and_society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft over een keer dat je een vreemde hielp. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی کمک به یک غریبه درست است؟",
+    "explanation_fa": " «Gisteren heb ik een oudere vrouw geholpen met haar boodschappen.» perfectum met hebben; duidelijk en natuurlijk.",
+    "grammar_rule_fa": "perfectum met hebben: «heb ik … geholpen».",
+    "extra_example_nl": "Ik heb een kind geholpen de straat over te steken.",
+    "extra_example_fa": "به یک بچه کمک کردم از خیابان رد شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Gisteren ik heb een oudere vrouw geholpen met haar boodschappen.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na de tijdsaanduiding; «heb ik» is juist."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gisteren heb ik een oudere vrouw geholpen met haar boodschappen.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijd en natuurlijke woordvolgorde."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gisteren heb ik een oudere vrouw helpt met haar boodschappen.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd voltooid deelwoord: «helpt» is tegenwoordige tijd; moet «geholpen»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gisteren heb ik een oudere vrouw geholpen met zijn boodschappen.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd voornaamwoord: «een oudere vrouw» → «haar», niet «zijn»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "weather_event",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je beschrijft een hevige storm die je meemaakte. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی یک طوفان شدید درست است؟",
+    "explanation_fa": " «Vorige maand was er een zware storm; veel bomen zijn omgevallen.» simplex + perfectum met zijn; natuurlijk.",
+    "grammar_rule_fa": "perfectum met zijn: «bomen zijn omgevallen».",
+    "extra_example_nl": "Tijdens de storm zijn veel dakpannen gevallen.",
+    "extra_example_fa": "در زمان طوفان بسیاری از سفال‌های بام افتادند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vorige maand is er een zware storm; veel bomen zijn omgevallen.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: «is» is heden; een storm in het verleden vraagt «was er»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vorige maand was er een zware storm; veel bomen zijn omgevallen.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en natuurlijk."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vorige maand was er een zware storm; veel bomen hebben omgevallen.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd hulpwerkwoord: «omvallen» neemt «zijn», niet «hebben»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorige maand was er een zware zon; veel bomen zijn omgevallen.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd woord: «zware zon» klopt niet in de context van een storm."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "language_progress",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft over je vooruitgang in het Nederlands. Welke zin is correct en bemoedigend?",
+    "question_text_fa": "کدام جمله درباره‌ی پیشرفت در هلندی درست و دل‌گرم‌کننده است؟",
+    "explanation_fa": " «Sinds een jaar leer ik Nederlands en ik merk dat ik veel vooruitga.» heden + progressieve waarneming; natuurlijk.",
+    "grammar_rule_fa": "voortgang beschrijven: «Sinds … leer ik … en ik merk dat ik …».",
+    "extra_example_nl": "Sinds september leer ik Spaans en ik word steeds beter.",
+    "extra_example_fa": "از سپتامبر اسپانیایی یاد می‌گیرم و هر چه پیش می‌روم بهتر می‌شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Sinds een jaar leer ik Nederlands en ik merk dat ik veel vooruitga.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en natuurlijk."
+      },
+      {
+        "key": "B",
+        "text_nl": "Sinds een jaar leer ik Nederlands en ik merkte dat ik veel vooruitga.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd in de tweede zin: «merkte» i.p.v. «merk»; inconsistent."
+      },
+      {
+        "key": "C",
+        "text_nl": "Sinds een jaar leerde ik Nederlands en ik merk dat ik veel vooruitga.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: «leerde» is verleden tijd; met «sinds» hoort heden «leer»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Sinds een jaar leer ik Nederlands en ik merk dat ik veel achteruitga.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde betekenis: «achteruitga» i.p.v. «vooruitga»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "volunteer_experience",
+    "life_context": "relationships_and_society",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft over je vrijwilligerswerk. Welke zin is het meest professioneel?",
+    "question_text_fa": "کدام جمله درباره‌ی کار داوطلبانه حرفه‌ای‌تر است؟",
+    "explanation_fa": " «Als vrijwilliger heb ik geholpen bij het organiseren van evenementen.» perfectum met hebben; professioneel en concreet.",
+    "grammar_rule_fa": "ervaring concretiseren: «Als … heb ik geholpen bij …».",
+    "extra_example_nl": "Als stagiair heb ik geholpen met het onderzoek.",
+    "extra_example_fa": "به‌عنوان کارآموز در پژوهش کمک کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als vrijwilliger heb ik helpt bij het organiseren van evenementen.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde vorm na «heb»: moet voltooid deelwoord «geholpen»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als vrijwilliger ik heb geholpen bij het organiseren van evenementen.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na het voorzetsel; «heb ik» is juist."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als vrijwilliger heb ik geholpen bij het negeren van evenementen.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd woord: «negeren» i.p.v. «organiseren»; tegenovergestelde betekenis."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als vrijwilliger heb ik geholpen bij het organiseren van evenementen.",
+        "is_correct": true,
+        "feedback_fa": "✅ correct, concreet en professioneel."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "holiday_highlights",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft over het leukste deel van je vakantie. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی بهترین بخش تعطیلات درست است؟",
+    "explanation_fa": " «Het leukste deel van de vakantie was het bezoek aan het museum.» superlatief + simplex verleden; natuurlijk.",
+    "grammar_rule_fa": "superlatief + verslag: «Het leukste deel … was …».",
+    "extra_example_nl": "Het mooiste moment was de zonsondergang.",
+    "extra_example_fa": "زیباترین لحظه غروب آفتاب بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het leuker deel van de vakantie was het bezoek aan het museum.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde graad: «leuker» is comparatief, maar met «het … deel» hoort superlatief «leukste»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het leukste deel van de vakantie was het bezoek aan het museum.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte superlatief en tijd."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het saaiste deel van de vakantie was het bezoek aan het museum.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde betekenis: «saaiste» i.p.v. «leukste»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het leukste deel van de vakantie is het bezoek aan het museum.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: «is» (heden); verhaal over vakantie vraagt «was»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "family_gathering",
+    "life_context": "relationships_and_society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je beschrijft een groot familiefeest. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی یک جشن بزرگ خانوادگی درست است؟",
+    "explanation_fa": " «We hebben het hele gezin uitgenodigd en het was een mooie dag.» perfectum + evaluatie; natuurlijk.",
+    "grammar_rule_fa": "verslag + evaluatie: «We hebben … uitgenodigd en het was …».",
+    "extra_example_nl": "We hebben alle vrienden gebeld en het was gezellig.",
+    "extra_example_fa": "به همه‌ی دوستان زنگ زدیم و دنج و خوب بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We hebben het hele gezin genegeerd en het was een mooie dag.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd woord: «genegeerd» i.p.v. «uitgenodigd»; tegenovergestelde betekenis."
+      },
+      {
+        "key": "B",
+        "text_nl": "We hebben het hele gezin uitgenodigd en het was een mooie dag.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en natuurlijk."
+      },
+      {
+        "key": "C",
+        "text_nl": "We hebben het hele gezin uitnodigen en het was een mooie dag.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde vorm na «hebben»: moet voltooid deelwoord «uitgenodigd»."
+      },
+      {
+        "key": "D",
+        "text_nl": "We hebben het hele gezin uitgenodigd en het is een mooie dag.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd in evaluatie: «is» (heden); verhaal vraagt «was»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "shopping_find",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je vertelt over een geweldige aankoop. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی خرید عالی درست است؟",
+    "explanation_fa": " «Ik heb een fantastische jas gekocht met veel korting.» perfectum met hebben; concreet en natuurlijk.",
+    "grammar_rule_fa": "perfectum met hebben: «heb ik … gekocht».",
+    "extra_example_nl": "Ik heb een nieuwe telefoon gekocht.",
+    "extra_example_fa": "یک گوشی جدید خریدم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een fantastische jas gekocht met veel dure.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd woord/grammatica: «veel dure» klopt niet; «veel korting» is juist."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een fantastische jas verkocht met veel korting.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd werkwoord: «verkocht» (verkocht) i.p.v. «gekocht»; tegenovergestelde handeling."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een fantastische jas gekocht met veel korting.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijd en natuurlijk."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een fantastische jas koopt met veel korting.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde vorm na «heb»: moet voltooid deelwoord «gekocht»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "commute_incident",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft over een trein die te laat was. Welke zin is correct en natuurlijk?",
+    "question_text_fa": "کدام جمله درباره‌ی تأخیر قطار درست و طبیعی است؟",
+    "explanation_fa": " «De trein had meer dan een uur vertraging, dus ik ben te laat op het werk aangekomen.» simplex + perfectum met zijn; oorzaak en gevolg duidelijk.",
+    "grammar_rule_fa": "oorzaak + gevolg: «… had … vertraging, dus ik ben … aangekomen».",
+    "extra_example_nl": "De bus had vertraging, dus ik ben laat gekomen.",
+    "extra_example_fa": "اتوبوس تأخیر داشت، پس دیر رسیدم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De trein heeft meer dan een uur vertraging, dus ik ben te laat op het werk aangekomen.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: «heeft» (heden); verhaal vraagt «had»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De trein had meer dan een uur vertraging, dus ik ben te vroeg op het werk aangekomen.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde betekenis: «te vroeg» i.p.v. «te laat»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De trein had meer dan een uur vertraging, dus ik ben te laat op het werk aangekomen.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en logische volgorde."
+      },
+      {
+        "key": "D",
+        "text_nl": "De trein had meer dan een uur vertraging, dus ik heb te laat op het werk aangekomen.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd hulpwerkwoord: «aankomen» neemt «ben», niet «heb»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "school_presentation",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je beschrijft een presentatie die je gaf. Welke zin is correct en professioneel?",
+    "question_text_fa": "کدام جمله درباره‌ی یک ارائه‌ای که انجام دادی درست و حرفه‌ای است؟",
+    "explanation_fa": " «Ik heb een presentatie gegeven voor de hele klas en het ging goed.» perfectum + evaluatie; concreet.",
+    "grammar_rule_fa": "verslag + evaluatie: «Ik heb … gegeven … en het ging goed».",
+    "extra_example_nl": "Ik heb een spreekbeurt gehouden en het ging prima.",
+    "extra_example_fa": "یک سخنرانی داشتم و خوب پیش رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb een presentatie geeft voor de hele klas en het ging goed.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde vorm na «heb»: moet voltooid deelwoord «gegeven»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb een presentatie gegeven voor de hele klas en het ging goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en natuurlijk."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb een presentatie gegeven voor de hele klas en het ging slecht.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde evaluatie: «slecht» i.p.v. «goed»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een presentatie gegeven voor de hele klas en het gaat goed.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd in evaluatie: «gaat» (heden); verhaal vraagt «ging»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "trying_new_food",
+    "life_context": "food_drink",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft over de eerste keer dat je een nieuw gerecht probeerde. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی اولین بار امتحان غذای جدید درست است؟",
+    "explanation_fa": " «Gisteren heb ik voor het eerst sushi gegeten en het was heerlijk.» perfectum + evaluatie; natuurlijk.",
+    "grammar_rule_fa": "perfectum met hebben: «heb ik … gegeten».",
+    "extra_example_nl": "Ik heb voor het eerst Indiaas gegeten; het was lekker.",
+    "extra_example_fa": "برای اولین بار غذای هندی خوردم؛ خوش‌مزه بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Gisteren heb ik voor het eerst sushi gegeten en het was heerlijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en natuurlijk."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gisteren heb ik voor het eerst sushi gegeten en het was vreselijk.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde evaluatie: «vreselijk» i.p.v. «heerlijk»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gisteren heb ik voor het eerst sushi eet en het was heerlijk.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde vorm na «heb»: moet voltooid deelwoord «gegeten»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gisteren ik heb voor het eerst sushi gegeten en het was heerlijk.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na tijdsaanduiding; «heb ik» is juist."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "getting_lost",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je vertelt over een keer dat je verdwaalde. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی گم‌شدن در راه درست است؟",
+    "explanation_fa": " «In een onbekende stad ben ik verdwaald, maar een aardige voorbijganger heeft me geholpen.» perfectum met zijn + hebben; verhaal met afloop.",
+    "grammar_rule_fa": "perfectum: «ben ik verdwaald» (zijn); «heeft … geholpen» (hebben).",
+    "extra_example_nl": "In het bos ben ik verdwaald, maar ik heb de weg terug gevonden.",
+    "extra_example_fa": "در جنگل گم شدم، ولی راه برگشتم را پیدا کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In een onbekende stad ben ik verdwaald, maar een aardige voorbijganger heeft me geholpen.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en verhaal met afloop."
+      },
+      {
+        "key": "B",
+        "text_nl": "In een onbekende stad ben ik verdwaald, maar een aardige voorbijganger heeft me gehinderd.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd woord: «gehinderd» (belemmerd) i.p.v. «geholpen»; tegenovergestelde handeling."
+      },
+      {
+        "key": "C",
+        "text_nl": "In een onbekende stad heb ik verdwaald, maar een aardige voorbijganger heeft me geholpen.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd hulpwerkwoord: «verdwalen» neemt «ben», niet «heb»."
+      },
+      {
+        "key": "D",
+        "text_nl": "In een onbekende stad ik ben verdwaald, maar een aardige voorbijganger heeft me geholpen.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na de plaatsbepaling."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "workshop_attendance",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft een korte verslag over een workshop die je bijwoonde. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی شرکت در یک کارگاه درست است؟",
+    "explanation_fa": " «Vorige week heb ik een interessante workshop bijgewoond over communicatie.» perfectum met hebben; concreet en professioneel.",
+    "grammar_rule_fa": "perfectum met hebben: «heb ik … bijgewoond».",
+    "extra_example_nl": "Ik heb een lezing bijgewoond over gezondheid.",
+    "extra_example_fa": "در یک سخنرانی درباره‌ی سلامت شرکت کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vorige week heb ik een interessante workshop bijgewoond over communicatie.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijd en concreet."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vorige week ik heb een interessante workshop bijgewoond over communicatie.",
+        "is_correct": false,
+        "feedback_fa": "geen inversie na de tijdsaanduiding."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vorige week heb ik een interessante workshop bijwon over communicatie.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde vorm na «heb»: moet voltooid deelwoord «bijgewoond»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorige week heb ik een saaie workshop bijgewoond over communicatie.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd bijvoeglijk naamwoord: «saaie» i.p.v. «interessante»; tegenovergestelde evaluatie."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "sports_event",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je beschrijft je deelname aan een hardloopwedstrijd. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی شرکت در یک مسابقه‌ی دو درست است؟",
+    "explanation_fa": " «Ik heb voor het eerst aan een wedstrijd meegedaan en ik heb de finish gehaald.» perfectum met hebben; concreet en positief.",
+    "grammar_rule_fa": "perfectum met hebben: «heb ik … meegedaan».",
+    "extra_example_nl": "Ik heb meegedaan aan een toernooi en ik heb gewonnen.",
+    "extra_example_fa": "در یک تورنمنت شرکت کردم و بردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb voor het eerst aan een wedstrijd meegedaan en ik heb de finish gemist.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde afloop: «gemist» i.p.v. «gehaald»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb voor het eerst aan een wedstrijd meedoen en ik heb de finish gehaald.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde vorm na «heb»: moet voltooid deelwoord «meegedaan»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb voor het eerst aan een wedstrijd meegedaan en ik heb de finish gehaald gisteren.",
+        "is_correct": false,
+        "feedback_fa": "woordvolgorde verstoord: tijdsaanduiding «gisteren» staat onnatuurlijk achteraan na het voltooid deelwoord."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb voor het eerst aan een wedstrijd meegedaan en ik heb de finish gehaald.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en concreet."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "childhood_memory",
+    "life_context": "relationships_and_society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft een herinnering uit je kindertijd. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی یک خاطره‌ی کودکی درست است؟",
+    "explanation_fa": " «Toen ik klein was, bracht ik elke zomer door bij mijn grootouders.» simplex verleden tijd; natuurlijk en beeldend.",
+    "grammar_rule_fa": "verleden gewoonte: «Toen ik klein was, … bracht ik … door».",
+    "extra_example_nl": "Toen ik acht was, fietste ik elke dag naar school.",
+    "extra_example_fa": "وقتی هشت‌ساله بودم، هر روز با دوچرخه به مدرسه می‌رفتم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toen ik klein was, bracht ik elke zomer door bij mijn grootouders.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte verleden tijd en natuurlijk."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toen ik klein was, breng ik elke zomer door bij mijn grootouders.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd in hoofdzin: «breng» (heden); moet «bracht»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toen ik klein ben, bracht ik elke zomer door bij mijn grootouders.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: «ben» (heden); met «toen» hoort verleden «was»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toen ik klein was, bracht ik elke winter door bij mijn grootouders.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd seizoen: «winter» i.p.v. «zomer»; past niet bij het gevraagde."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "renovation_project",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft over het opknappen van een kamer. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی بازسازی یک اتاق درست است؟",
+    "explanation_fa": " «We hebben de kamer zelf geschilderd en het resultaat is prachtig.» perfectum met hebben + evaluatie in heden; natuurlijk.",
+    "grammar_rule_fa": "perfectum + evaluatie: «We hebben … geschilderd en het resultaat is …».",
+    "extra_example_nl": "We hebben de keuken geschilderd en hij is nu mooi.",
+    "extra_example_fa": "آشپزخانه را رنگ کردیم و حالا قشنگ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We hebben de kamer zelf geschilderd en het resultaat was prachtig.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd in evaluatie: «was» i.p.v. «is»; het resultaat is nu zichtbaar."
+      },
+      {
+        "key": "B",
+        "text_nl": "We hebben de kamer zelf schildert en het resultaat is prachtig.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde vorm na «hebben»: moet voltooid deelwoord «geschilderd»."
+      },
+      {
+        "key": "C",
+        "text_nl": "We hebben de kamer zelf gesloopt en het resultaat is prachtig.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd werkwoord: «gesloopt» (afgebroken) i.p.v. «geschilderd»."
+      },
+      {
+        "key": "D",
+        "text_nl": "We hebben de kamer zelf geschilderd en het resultaat is prachtig.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en natuurlijk."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "interview_experience",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft over een sollicitatiegesprek. Welke zin is correct en professioneel?",
+    "question_text_fa": "کدام جمله درباره‌ی یک مصاحبه‌ی شغلی درست و حرفه‌ای است؟",
+    "explanation_fa": " «Het gesprek ging goed en ik heb een positief gevoel over de uitkomst.» simplex + perfectum; concreet en zelfverzekerd.",
+    "grammar_rule_fa": "verslag + gevoel: «Het gesprek ging … en ik heb … gevoel».",
+    "extra_example_nl": "De meeting ging goed en ik heb een goed gevoel.",
+    "extra_example_fa": "جلسه خوب بود و حس خوبی دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het gesprek ging goed en ik heb een positief gevoel over de uitkomst.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en natuurlijk."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het gesprek ging slecht en ik heb een positief gevoel over de uitkomst.",
+        "is_correct": false,
+        "feedback_fa": "tegenstrijdig: «slecht» i.p.v. «goed», maar wel een positief gevoel; inconsistent."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het gesprek ging goed en ik had een positief gevoel over de uitkomst.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd in de tweede zin: «had» i.p.v. «heb»; het gevoel is nu actueel."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het gesprek gaat goed en ik heb een positief gevoel over de uitkomst.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: «gaat» (heden); verslag vraagt «ging»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "concert_experience",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Je schrijft over een concert dat je bijwoonde. Welke zin is correct en expressief?",
+    "question_text_fa": "کدام جمله درباره‌ی کنسرتی که شرکت کردی درست و پرشور است؟",
+    "explanation_fa": " «Het concert was geweldig en de sfeer was onvergetelijk.» simplex verleden + evaluatie; natuurlijk en beeldend.",
+    "grammar_rule_fa": "verslag + evaluatie: «Het concert was … en de sfeer was …».",
+    "extra_example_nl": "De voorstelling was prachtig en de muziek was indrukwekkend.",
+    "extra_example_fa": "نمایش زیبا و موسیقی تأثیرگذار بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het concert is geweldig en de sfeer was onvergetelijk.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd: «is» (heden); verslag vraagt «was»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het concert was saai en de sfeer was onvergetelijk.",
+        "is_correct": false,
+        "feedback_fa": "tegenstrijdig: «saai» i.p.v. «geweldig», maar wel onvergetelijke sfeer; inconsistent."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het concert was geweldig en de sfeer is onvergetelijk.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde tijd in de tweede zin: «is» i.p.v. «was»; inconsistent met verleden verslag."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het concert was geweldig en de sfeer was onvergetelijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijd en expressief."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "writing",
+    "topic": "describing_an_experience",
+    "subtopic": "accident_minor",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Je schrijft over een klein ongelukje thuis. Welke zin is correct?",
+    "question_text_fa": "کدام جمله درباره‌ی یک حادثه‌ی کوچک در خانه درست است؟",
+    "explanation_fa": " «Ik ben uitgegleden in de keuken, maar ik heb me niet bezeerd.» perfectum met zijn + hebben; concreet en met geruststellende afloop.",
+    "grammar_rule_fa": "perfectum: «ben ik uitgegleden» (zijn); «heb ik me … bezeerd» (hebben).",
+    "extra_example_nl": "Ik ben gevallen, maar ik heb me niet pijn gedaan.",
+    "extra_example_fa": "افتادم، ولی آسیب ندیدم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ben uitgegleden in de keuken, maar ik heb me niet bezeerd.",
+        "is_correct": true,
+        "feedback_fa": "✅ correcte tijden en geruststellende afloop."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ben uitgegleden in de keuken, maar ik heb me wel bezeerd.",
+        "is_correct": false,
+        "feedback_fa": "tegenovergestelde afloop: «wel» i.p.v. «niet»; past niet bij een geruststellend verhaal."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb uitgegleden in de keuken, maar ik heb me niet bezeerd.",
+        "is_correct": false,
+        "feedback_fa": "verkeerd hulpwerkwoord: «uitglijden» neemt «ben», niet «heb»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ben uitgegleden in de keuken, maar ik heb me niet helpt.",
+        "is_correct": false,
+        "feedback_fa": "verkeerde vorm: «helpt» i.p.v. «bezeerd»; ongrammaticaal."
+      }
+    ]
+  }
+]

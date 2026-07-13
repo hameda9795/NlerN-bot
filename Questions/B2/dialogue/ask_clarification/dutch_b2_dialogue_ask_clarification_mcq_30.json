@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: Kun je dit rapport voor vrijdag afronden en ook meteen naar de klant sturen?\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه توضیح می‌خواهد که آیا باید هر دو کار (تمام کردن و ارسال) قبل از جمعه انجام شود یا فقط یکی از آن‌ها، بدون اینکه لحن دستوری یا مخالف داشته باشد.",
+    "grammar_rule_fa": "برای درخواست مؤدبانهٔ توضیح از ساختار «Bedoelt u dat...?» یا «Moet ik... of...?» استفاده می‌شود که با فعل کمکی مؤدبانه شروع می‌شود، نه با شکل امری. مثال: «Bedoelt u dat ik het rapport eerst moet afronden voordat ik het verstuur?»",
+    "extra_example_nl": "Bedoelt u dat ik u een kopie moet sturen voordat het naar de klant gaat?",
+    "extra_example_fa": "منظورتان این است که باید قبل از ارسال به مشتری، یک نسخه برای شما بفرستم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bedoelt u dat ik het rapport eerst moet afronden en het daarna meteen naar de klant moet sturen, zonder dat u het nog ziet?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله با احترام و به‌درستی توضیح می‌خواهد که آیا باید بدون بررسیِ مدیر مستقیماً برای مشتری فرستاده شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Stuur het rapport gewoon meteen naar de klant, ik heb geen tijd om het te checken.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و مدیر آن را می‌گوید، نه کارمند؛ این یک درخواستِ توضیح‌خواهیِ مؤدبانه نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "U wilde het rapport gisteren al naar de klant sturen, toch?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: اینجا از گذشته صحبت می‌شود در حالی که موضوع یک کارِ آینده (قبل از جمعه) است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik snap het helemaal, ik stuur het rapport niet naar de klant.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: کارمند می‌گوید که رپورت را ارسال نمی‌کند، در حالی که هدف پرسیدن توضیح دربارهٔ نحوهٔ ارسال است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: Ik heb je een e-mail gestuurd over het project, maar ik denk dat ik iets niet duidelijk heb uitgelegd.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور مؤدبانه از همکار می‌خواهد که دقیقاً مشخص کند کدام بخش نامه نامشخص بوده است، که دقیقاً همان چیزی است که برای درخواست توضیح لازم است.",
+    "grammar_rule_fa": "در درخواست توضیح از فعل‌های «kun je... toelichten/uitleggen» به همراه لحن مؤدبانه استفاده می‌شود. مثال: «Kun je aangeven welk deel je bedoelt?»",
+    "extra_example_nl": "Zou je kunnen aangeven welk onderdeel van de planning nog onduidelijk is?",
+    "extra_example_fa": "می‌توانید مشخص کنید کدام بخش از برنامه‌ریزی هنوز نامشخص است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Leg het nu meteen nog een keer uit, ik heb geen tijd te verliezen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و کمی خشن دارد، در حالی که در این موقعیت باید مؤدبانه درخواست شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kun je aangeven welk deel van de e-mail je bedoelt, zodat ik het beter begrijp?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه است و دقیقاً درخواست می‌کند که بخش نامشخص مشخص شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, alles was volledig duidelijk in je e-mail.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: در حالی که همکار خودش گفته توضیح ناقص بوده، این پاسخ آن را تأیید می‌کند به‌جای پرسیدن توضیح."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zal het morgen wel opzoeken, het maakt niet uit.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیریِ اشتباه: این جمله به‌جای درخواستِ توضیح، موضوع را نادیده می‌گیرد و به فردا موکول می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Docent: Voor het examen moeten jullie ook hoofdstuk 5 kennen, al staat het niet op de literatuurlijst.\nStudent: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست با احترام می‌پرسد که آیا واقعاً منظور استاد این بوده که فصل پنج اجباری است، بدون آنکه لحن دستوری یا اشتباه در فعل داشته باشد.",
+    "grammar_rule_fa": "برای تأیید گرفتنِ درک درست از حرفِ دیگری از عبارت «Als ik het goed begrijp...» استفاده می‌شود. مثال: «Als ik het goed begrijp, moeten we hoofdstuk 5 ook bestuderen?»",
+    "extra_example_nl": "Als ik het goed begrijp, telt hoofdstuk 5 dus ook mee voor het examen, ook al staat het niet op de lijst?",
+    "extra_example_fa": "اگر درست فهمیده باشم، پس فصل پنج هم برای امتحان حساب می‌شود، حتی اگر در فهرست نباشد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als ik het goed begrijp, telt hoofdstuk 5 dus ook mee, ook al staat het niet op de literatuurlijst?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله به‌درستی و مؤدبانه تأیید می‌گیرد که آیا فصل پنج واقعاً جزو مطالب امتحان است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Schrap hoofdstuk 5 dan maar van de literatuurlijst, want dat is logischer.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد؛ دانشجو به استاد دستور می‌دهد به‌جای اینکه مؤدبانه توضیح بخواهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vorig jaar hoefden we hoofdstuk 5 ook al niet te kennen, hè?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این جمله دربارهٔ سال گذشته صحبت می‌کند، در حالی که موضوع امتحانِ امسال است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus hoofdstuk 5 hoeven we zeker niet te kennen voor het examen?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: استاد گفته فصل پنج لازم است، اما این جمله فرض می‌کند که لازم نیست."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: Ik wil dat de levering sneller gaat, maar ik weet niet zeker wat jullie standaardtermijn is.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست از مشتری می‌پرسد که منظورش از «سریع‌تر» دقیقاً چه بازهٔ زمانی است، که این دقیقاً هدف درخواست توضیح در این موقعیت است.",
+    "grammar_rule_fa": "برای درخواست دقیق‌سازیِ اطلاعات از سؤال با «Wat bedoelt u precies met...?» استفاده می‌شود. مثال: «Wat bedoelt u precies met 'sneller'?»",
+    "extra_example_nl": "Zou u kunnen aangeven binnen hoeveel dagen u de levering verwacht?",
+    "extra_example_fa": "می‌توانید مشخص کنید که ظرف چند روز انتظار تحویل را دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zou u kunnen aangeven wat u precies bedoelt met 'sneller', zodat ik het goed kan inschatten?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق است و منظورِ مشتری از «سریع‌تر» را جویا می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vertel me nu meteen hoe snel u het wilt hebben.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و کمی خشن دارد؛ در ارتباط با مشتری باید مؤدبانه‌تر پرسید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Onze standaardtermijn was vorig jaar drie weken, klopt dat nog?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: صحبت از «سال گذشته» است، در حالی که سؤال باید دربارهٔ وضعیتِ فعلی باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "U hoeft de levering niet sneller te laten gaan, dat is geen probleem.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیریِ اشتباه: این جمله بدون پرسیدن توضیح، مستقیماً نتیجه‌ای اشتباه می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Teamleider: We gaan de taken anders verdelen vanaf volgende week, maar de details volgen nog.\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که چه زمانی جزئیات اعلام می‌شود، بدون تغییر زمان فعل یا شخص و بدون لحن دستوری.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ زمانِ آینده از «Wanneer kunnen we... verwachten?» استفاده می‌شود که فعل کمکیِ مؤدبانه دارد. مثال: «Wanneer kunnen we de details verwachten?»",
+    "extra_example_nl": "Wanneer kunnen we de precieze taakverdeling verwachten, zodat we ons kunnen voorbereiden?",
+    "extra_example_fa": "چه زمانی می‌توانیم تقسیم دقیق وظایف را انتظار داشته باشیم تا بتوانیم آماده شویم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Geef ons die details nu meteen, we kunnen niet wachten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک درخواستِ مؤدبانه برای زمان‌بندی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer kunnen we de precieze details van de nieuwe taakverdeling verwachten?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و درست می‌پرسد که چه زمانی جزئیات اعلام خواهد شد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De taken zijn dus al vorige week anders verdeeld, begrijp ik dat goed?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: صحبت دربارهٔ هفتهٔ آینده است، نه هفتهٔ گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Oké, dan blijft de taakverdeling dus precies hetzelfde als nu.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: تیم‌لیدر گفته تقسیم وظایف تغییر می‌کند، اما این جمله فرض می‌کند که تغییر نمی‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: Jouw functioneringsgesprek was over het algemeen positief, maar er waren ook een paar aandachtspunten.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌خواهد که موارد مشخصِ نیازمند بهبود بیان شود، که دقیقاً هدف درخواست توضیح در بازخورد شغلی است.",
+    "grammar_rule_fa": "برای درخواستِ جزئیات بیشتر دربارهٔ بازخورد از فعل «Zou u kunnen toelichten...?» استفاده می‌شود. مثال: «Zou u kunnen toelichten welke punten u bedoelt?»",
+    "extra_example_nl": "Zou u concreet kunnen toelichten op welke punten ik me moet verbeteren?",
+    "extra_example_fa": "می‌توانید به‌طور مشخص توضیح دهید که در چه مواردی باید بهبود پیدا کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zou u concreet kunnen toelichten welke aandachtspunten u precies bedoelt?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق نکات موردنظر مدیر را جویا می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Noem die punten dan nu meteen op, ik wil het meteen weten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و مستقیم دارد، در حالی که باید مؤدبانه‌تر باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dus er waren helemaal geen aandachtspunten in mijn gesprek?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیر گفته چند نکته وجود داشت، اما این جمله فرض می‌کند که هیچ نکته‌ای نبود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Had ik vorig jaar ook al zulke aandachtspunten?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ گفتگوی اخیر است، نه سال گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: Ik draag dit dossier aan jou over, maar sommige stukken zijn nog niet compleet.\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد کدام قسمت‌های پرونده ناقص است، که این دقیقاً همان اطلاعاتی است که برای تحویل‌گیریِ درست پرونده لازم است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ جزئیاتِ ناقص از عبارت «Welke onderdelen precies...?» استفاده می‌شود. مثال: «Kun je aangeven welke stukken nog ontbreken?»",
+    "extra_example_nl": "Kun je me vertellen welke stukken nog ontbreken, zodat ik weet waar ik op moet letten?",
+    "extra_example_fa": "می‌توانید بگویید کدام مدارک هنوز کم است، تا بدانم به چه چیزی باید توجه کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vertel me nu meteen welke stukken ontbreken, ik heb geen tijd om te wachten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک درخواستِ مؤدبانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alle stukken in het dossier zijn dus al helemaal compleet?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: همکار گفته برخی مدارک ناقص است، اما این جمله فرض کامل‌بودن آن‌ها را می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kun je aangeven welke stukken nog ontbreken, zodat ik weet wat ik nog moet aanvullen?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد کدام مدارک هنوز کامل نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waren die stukken vorige maand ook al niet compleet?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: صحبت دربارهٔ وضعیتِ فعلیِ پرونده است، نه وضعیتِ ماهِ گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "HR-medewerker: Volgens het nieuwe beleid mag je soms thuiswerken, maar niet in alle gevallen.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که دقیقاً در چه شرایطی دورکاری مجاز است، بدون آنکه فعل یا شخص اشتباه به کار رفته باشد.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ شرایط دقیق از عبارت «In welke gevallen precies...?» استفاده می‌شود. مثال: «In welke gevallen mag ik wel thuiswerken?»",
+    "extra_example_nl": "Zou u kunnen uitleggen in welke gevallen thuiswerken precies wel of niet is toegestaan?",
+    "extra_example_fa": "می‌توانید توضیح دهید که دقیقاً در چه مواردی دورکاری مجاز است یا نیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik mag dus voortaan altijd thuiswerken, zonder enige uitzondering?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: کارمند منابع انسانی گفته دورکاری همیشه مجاز نیست، اما این جمله فرض همیشگی‌بودن آن را می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zou u kunnen uitleggen in welke gevallen ik precies wel of niet mag thuiswerken?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق شرایط مجاز و غیرمجاز دورکاری را جویا می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Leg dat beleid nu meteen helemaal uit, ik wil geen onduidelijkheid.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک درخواستِ مؤدبانهٔ توضیح."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mocht jij vroeger ook al niet altijd thuiswerken?",
+        "is_correct": false,
+        "feedback_fa": "❌ شخص/صرفِ فعل اشتباه است: سؤال باید دربارهٔ «من» (کارمند) باشد، نه دربارهٔ کارمند منابع انسانی («jij»)."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Projectleider: In de briefing staat dat we prioriteit geven aan kwaliteit, maar de deadline blijft ook belangrijk.\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که در صورت تعارض بین کیفیت و مهلت زمانی، کدام یک اولویت دارد؛ این دقیقاً همان ابهامی است که باید روشن شود.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ اولویت در حالت تعارض از «Wat heeft voorrang als...?» استفاده می‌شود. مثال: «Wat heeft voorrang als het niet allebei lukt?»",
+    "extra_example_nl": "Wat heeft voorrang als we door tijdgebrek niet allebei kunnen halen: de kwaliteit of de deadline?",
+    "extra_example_fa": "اگر به‌خاطر کمبود وقت نتوانیم هر دو را رعایت کنیم، کدام اولویت دارد: کیفیت یا مهلت زمانی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zeg me nu precies wat ik moet doen als het niet allebei lukt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک سؤالِ مؤدبانه دربارهٔ اولویت."
+      },
+      {
+        "key": "B",
+        "text_nl": "De deadline was dus vorige week al niet meer belangrijk?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: صحبت دربارهٔ پروژهٔ جاری است، نه هفتهٔ گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dus kwaliteit is helemaal niet belangrijk, alleen de deadline telt?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: پروژه‌لیدر گفته کیفیت اولویت دارد، اما این جمله آن را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat heeft dan voorrang als we door tijdgebrek niet allebei kunnen halen: de kwaliteit of de deadline?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد که در صورت تعارض کدام یک اولویت دارد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: In de vergadering van morgen bespreken we het nieuwe voorstel, maar ik weet nog niet wie het presenteert.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد چه زمانی مشخص می‌شود چه کسی ارائه‌دهنده خواهد بود، بدون تغییر معنا یا لحن دستوری.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ زمانِ تصمیم‌گیری از «Wanneer weten we...?» به همراه لحن مؤدبانه استفاده می‌شود. مثال: «Wanneer weten we wie het voorstel presenteert?»",
+    "extra_example_nl": "Wanneer laat u ons weten wie de presentatie morgen gaat verzorgen?",
+    "extra_example_fa": "چه زمانی به ما اطلاع می‌دهید که چه کسی فردا ارائه را انجام خواهد داد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer laat u ons weten wie de presentatie morgen gaat verzorgen?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و درست می‌پرسد که چه زمانی مشخص می‌شود چه کسی ارائه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zeg nu meteen wie het gaat presenteren, we hebben geen tijd meer.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک درخواستِ مؤدبانه برای اطلاع‌رسانی."
+      },
+      {
+        "key": "C",
+        "text_nl": "U wist gisteren toch al wie het ging presenteren?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: مدیر گفته هنوز نمی‌داند، اما این جمله فرض می‌کند که دیروز مشخص بوده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus het is al helemaal duidelijk wie er presenteert?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیر گفته هنوز نمی‌داند، اما این جمله فرض می‌کند که کاملاً مشخص است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: We willen de nieuwe procedure invoeren, maar sommige afdelingen mogen nog even de oude gebruiken.\nMedewerker: Ik wil het goed begrijpen voordat ik het aan mijn team uitleg.\n___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که کدام بخش‌ها مشمول استثنا هستند و تا چه زمانی، که این دقیقاً ابهامِ اصلی در این وضعیت است.",
+    "grammar_rule_fa": "در جملات پیچیده‌تر با بندهای وابسته از «Welke afdelingen precies... en tot wanneer...?» استفاده می‌شود که دو بخشِ سؤال را با هم ترکیب می‌کند. مثال: «Welke afdelingen mogen de oude procedure nog gebruiken, en tot wanneer geldt die uitzondering?»",
+    "extra_example_nl": "Zou u kunnen aangeven welke afdelingen precies onder de uitzondering vallen en tot wanneer die geldt?",
+    "extra_example_fa": "می‌توانید مشخص کنید دقیقاً کدام بخش‌ها مشمول استثنا می‌شوند و این استثنا تا چه زمانی معتبر است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vertel me nu precies welke afdelingen dat zijn, ik heb geen tijd te verliezen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک درخواستِ مؤدبانهٔ توضیح."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zou u kunnen aangeven welke afdelingen precies onder de uitzondering vallen en tot wanneer die geldt?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق دو نکتهٔ مبهم (کدام بخش‌ها و تا چه زمانی) را جویا می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dus alle afdelingen moeten meteen morgen al helemaal overstappen op de nieuwe procedure?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیر گفته برخی بخش‌ها می‌توانند موقتاً از روش قدیمی استفاده کنند، اما این جمله آن را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gebruikten sommige afdelingen de oude procedure vorig jaar ook al?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ وضعیتِ فعلی و آینده است، نه سال گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: Ik heb de planning aangepast, maar ik heb niet voor iedereen dezelfde deadline gebruikt.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که چرا مهلت‌ها متفاوت است تا معیار تصمیم‌گیری روشن شود، که دقیقاً هدفِ درخواست توضیح است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ دلیل تصمیمی از «Waarom heb je ervoor gekozen om...?» استفاده می‌شود. مثال: «Waarom heb je voor sommige mensen een andere deadline gekozen?»",
+    "extra_example_nl": "Kun je toelichten waarom je voor het ene team een andere deadline hebt aangehouden dan voor het andere?",
+    "extra_example_fa": "می‌توانید توضیح دهید چرا برای یک تیم مهلت متفاوتی نسبت به تیم دیگر در نظر گرفته‌اید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Verander die planning nu onmiddellijk, dit kan echt niet.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک سؤالِ مؤدبانه دربارهٔ دلیلِ تصمیم."
+      },
+      {
+        "key": "B",
+        "text_nl": "Iedereen heeft dus precies dezelfde deadline gekregen, toch?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: همکار گفته مهلت‌ها متفاوت است، اما این جمله فرض یکسان‌بودن آن‌ها را می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kun je toelichten waarom je voor sommige mensen een andere deadline hebt aangehouden dan voor anderen?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق دلیلِ تفاوتِ مهلت‌ها را جویا می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Had je die planning vorige week ook al aangepast?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ برنامهٔ جدید (اخیر) است، نه هفتهٔ گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: In uw offerte staat een bedrag, maar ik zie ook een aparte regel met extra kosten.\nMedewerker (bij een collega): ___\nWat is de beste manier om hier om verduidelijking te vragen aan een collega?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه از همکار می‌پرسد که آیا هزینه‌های اضافی جدا از مبلغ اصلی محاسبه می‌شود یا در آن ادغام شده، که دقیقاً ابهامِ مطرح‌شده توسط مشتری است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ نحوهٔ محاسبه از عبارت «Komen... erbovenop of zijn ze al inbegrepen?» استفاده می‌شود. مثال: «Komen die extra kosten erbovenop, of zijn ze al in het bedrag inbegrepen?»",
+    "extra_example_nl": "Weet jij of de extra kosten al in het totaalbedrag zijn verwerkt of dat ze er nog bovenop komen?",
+    "extra_example_fa": "می‌دانی که آیا هزینه‌های اضافی از قبل در مبلغ کل لحاظ شده یا هنوز باید به آن اضافه شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zoek dat nu meteen voor me uit, ik moet de klant snel antwoorden.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک درخواستِ مؤدبانه از همکار."
+      },
+      {
+        "key": "B",
+        "text_nl": "Weet jij of die extra kosten al in het totaalbedrag zijn verwerkt of dat ze er nog bovenop komen?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد که آیا هزینهٔ اضافی جداست یا در مبلغ کل گنجانده شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Die extra kosten stonden vorige maand ook al op de offerte, toch?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ پیش‌فاکتور فعلی است، نه ماهِ گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Er staan dus helemaal geen extra kosten in deze offerte?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مشتری گفته یک ردیفِ هزینهٔ اضافی دیده، اما این جمله وجود آن را انکار می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Teamleider: We moeten het budget dit kwartaal verlagen, behalve voor projecten die al goedgekeurd zijn.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که آیا پروژهٔ خودِ کارمند جزو پروژه‌های تأییدشده محسوب می‌شود یا نه، که دقیقاً نکتهٔ نامشخص است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ شمولِ یک استثنا از «Valt... hier ook onder?» استفاده می‌شود. مثال: «Valt mijn project ook onder de uitzondering?»",
+    "extra_example_nl": "Valt het project van mijn team ook onder de projecten die al zijn goedgekeurd, of moeten wij ook bezuinigen?",
+    "extra_example_fa": "آیا پروژهٔ تیمِ من هم جزو پروژه‌های تأییدشده محسوب می‌شود، یا ما هم باید در هزینه‌ها صرفه‌جویی کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Verlaag ons budget dan niet, want ons project is toch al goedgekeurd.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری/دستوری دارد و یک نتیجه‌گیریِ زودهنگام است، به‌جای یک سؤالِ مؤدبانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Werd het budget vorig kwartaal ook al verlaagd?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ این فصل (kwartaal) است، نه فصل گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Valt het project van mijn team ook onder de projecten die al zijn goedgekeurd, of moeten wij ook bezuinigen?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد که آیا پروژهٔ تیمِ کارمند مشمولِ استثنا می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus alle projecten moeten sowieso extra budget krijgen dit kwartaal?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: تیم‌لیدر گفته بودجه باید کاهش یابد، اما این جمله فرض افزایشِ بودجه را می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: De klant was niet helemaal tevreden, maar ik denk dat het vooral aan de communicatie lag.\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که دقیقاً کدام بخش از ارتباط باعث نارضایتی مشتری شده، که این دقیقاً نکتهٔ نامشخصِ بازخورد است.",
+    "grammar_rule_fa": "برای درخواستِ نمونه یا مثالِ مشخص از «Kunt u een voorbeeld geven van...?» استفاده می‌شود. مثال: «Kunt u een voorbeeld geven van wat er misging in de communicatie?»",
+    "extra_example_nl": "Zou u een concreet voorbeeld kunnen geven van het communicatieprobleem waar de klant het over had?",
+    "extra_example_fa": "می‌توانید یک نمونهٔ مشخص از مشکل ارتباطی که مشتری به آن اشاره کرده را بیان کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Leg dat communicatieprobleem nu onmiddellijk helemaal uit.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک درخواستِ مؤدبانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zou u een concreet voorbeeld kunnen geven van het communicatieprobleem waar de klant het over had?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق درخواست یک نمونهٔ مشخص می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Was de klant vorige maand ook al ontevreden over de communicatie?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ بازخوردِ اخیر است، نه ماهِ گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus de klant was juist heel tevreden over alles?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیر گفته مشتری کاملاً راضی نبوده، اما این جمله فرض رضایتِ کامل را می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: De nieuwe software werkt anders, maar niet iedereen heeft daar al training voor gehad.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که چه کسانی باید منتظر آموزش بمانند قبل از استفاده از نرم‌افزار جدید، که دقیقاً نکتهٔ نامشخص است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ ترتیب یا شرطِ لازم از «Moeten we wachten totdat...?» استفاده می‌شود. مثال: «Moeten we wachten met de nieuwe software totdat iedereen training heeft gehad?»",
+    "extra_example_nl": "Moeten we wachten met het gebruik van de nieuwe software totdat iedereen training heeft gehad?",
+    "extra_example_fa": "آیا باید صبر کنیم تا همه آموزش ببینند قبل از استفاده از نرم‌افزار جدید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Begin nu meteen met de nieuwe software, iedereen kan het wel zelf uitzoeken.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و در واقع یک دستور است، نه یک سؤالِ مؤدبانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Had iedereen die training vorig jaar al gehad?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ وضعیتِ فعلی/آینده است، نه سال گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Iedereen heeft dus al genoeg training gehad om ermee te werken?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: همکار گفته همه هنوز آموزش ندیده‌اند، اما این جمله فرض کافی‌بودنِ آموزش را می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Moeten we dan wachten met de nieuwe software totdat iedereen training heeft gehad?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد که آیا باید تا آموزشِ همه صبر کرد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager (in een vergadering): We moeten kritischer kijken naar de kosten, maar kwaliteit mag niet lijden.\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه از مدیر می‌خواهد که یک مثال عینی از نحوهٔ کاهش هزینه بدون افت کیفیت ارائه دهد، که دقیقاً ابهامِ این دستورالعمل است.",
+    "grammar_rule_fa": "برای درخواستِ مثال یا نمونهٔ عملی از «Kunt u een voorbeeld noemen van hoe...?» استفاده می‌شود. مثال: «Kunt u een voorbeeld noemen van hoe we kosten kunnen besparen zonder kwaliteitsverlies?»",
+    "extra_example_nl": "Kunt u een voorbeeld noemen van waar we op de kosten kunnen besparen zonder dat de kwaliteit eronder lijdt?",
+    "extra_example_fa": "می‌توانید نمونه‌ای بیاورید که در آن بتوانیم در هزینه‌ها صرفه‌جویی کنیم بدون آنکه کیفیت افت کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kwaliteit is dus helemaal niet belangrijk meer, alleen de kosten tellen?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیر گفته کیفیت نباید افت کند، اما این جمله بی‌اهمیت‌بودنِ کیفیت را فرض می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kunt u een voorbeeld noemen van waar we op de kosten kunnen besparen zonder dat de kwaliteit eronder lijdt?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و مشخص یک مثال عملی را درخواست می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vertel ons nu meteen precies waar we op moeten bezuinigen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک درخواستِ مؤدبانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Keken we vorig kwartaal ook al kritisch naar de kosten?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ سیاستِ جدید و آینده است، نه فصل گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Collega: Ik heb de klant beloofd dat we volgende week reageren, maar dat hangt af van de leverancier.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد چه باید گفت به مشتری اگر تأمین‌کننده به‌موقع پاسخ ندهد، که این دقیقاً نکتهٔ نامشخصِ ریسک است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ برنامهٔ جایگزین (در صورت وقوع مشکل) از «Wat doen we als...?» استفاده می‌شود. مثال: «Wat doen we als de leverancier niet op tijd reageert?»",
+    "extra_example_nl": "Wat zeggen we tegen de klant als de leverancier niet op tijd reageert?",
+    "extra_example_fa": "اگر تأمین‌کننده به‌موقع پاسخ ندهد، به مشتری چه می‌گوییم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Beloof de klant dan nu meteen iets anders, dat lost het wel op.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک سؤالِ مؤدبانه دربارهٔ برنامهٔ جایگزین."
+      },
+      {
+        "key": "B",
+        "text_nl": "De leverancier reageerde vorige keer toch ook op tijd?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ وضعیتِ آینده (هفتهٔ بعد) است، نه دفعهٔ قبل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het hangt dus helemaal niet af van de leverancier, we hebben het volledig zelf in de hand?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: همکار گفته موضوع به تأمین‌کننده بستگی دارد، اما این جمله آن وابستگی را انکار می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat zeggen we tegen de klant als de leverancier niet op tijd reageert?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد که در صورتِ تأخیرِ تأمین‌کننده چه باید گفت."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Docent: Jullie eindopdracht moet origineel zijn, maar je mag wel bronnen gebruiken als inspiratie.\nStudent: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد کجا مرز بین «الهام‌گرفتن از منبع» و «کپی‌کردن» قرار دارد، که این دقیقاً ابهامِ اصلی است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ مرزِ دقیقِ یک قانون از «Waar ligt precies de grens tussen...?» استفاده می‌شود. مثال: «Waar ligt de grens tussen inspiratie en overnemen?»",
+    "extra_example_nl": "Waar ligt precies de grens tussen het gebruiken van een bron als inspiratie en het letterlijk overnemen ervan?",
+    "extra_example_fa": "دقیقاً مرز بین استفاده از یک منبع به‌عنوان الهام و کپی‌کردنِ عینیِ آن کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Leg die grens nu meteen precies vast, ik wil er geen risico mee lopen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک سؤالِ مؤدبانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "We mogen dus gewoon letterlijk overnemen uit onze bronnen?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: استاد گفته کار باید اصیل باشد، اما این جمله کپی‌کردن را مجاز فرض می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar ligt precies de grens tussen het gebruiken van een bron als inspiratie en het letterlijk overnemen ervan?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق مرزِ نامشخص بین الهام‌گرفتن و کپی‌کردن را جویا می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Moesten we vorig jaar ook al originele opdrachten inleveren?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ تکلیفِ فعلی است، نه سال گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Manager: Ik wil dat je initiatief neemt, maar overleg wel eerst grote beslissingen met mij.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که دقیقاً چه نوع تصمیمی «بزرگ» محسوب می‌شود و نیاز به مشورت دارد، که این دقیقاً ابهامِ مطرح‌شده است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ تعریفِ دقیقِ یک مفهوم از «Wat verstaat u precies onder...?» استفاده می‌شود. مثال: «Wat verstaat u precies onder een grote beslissing?»",
+    "extra_example_nl": "Wat verstaat u precies onder een grote beslissing waarover ik eerst met u moet overleggen?",
+    "extra_example_fa": "دقیقاً منظورتان از یک تصمیمِ بزرگ که باید ابتدا با شما مشورت کنم چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Overlegde ik vroeger ook al grote beslissingen met u?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ انتظاراتِ فعلی/آینده است، نه گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zeg me nu precies welke beslissingen ik zelf mag nemen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک سؤالِ مؤدبانه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat verstaat u precies onder een grote beslissing waarover ik eerst met u moet overleggen?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق تعریفِ «تصمیمِ بزرگ» را جویا می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus ik hoef eigenlijk nooit meer iets met u te overleggen?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیر گفته تصمیمات بزرگ باید با او مشورت شود، اما این جمله آن را نفی می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Directeur: We herstructureren de afdeling, maar niemand verliest per se zijn baan, tenzij zijn functie helemaal vervalt.\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که دقیقاً کدام معیار تعیین می‌کند چه سمت‌هایی از بین می‌روند، بدون آنکه لحن دستوری یا نتیجه‌گیریِ اشتباه داشته باشد.",
+    "grammar_rule_fa": "در جملاتِ شرطیِ پیچیده با «tenzij» (مگر اینکه)، برای درخواست توضیح از «Volgens welke criteria wordt bepaald of...?» استفاده می‌شود. مثال: «Volgens welke criteria wordt bepaald of een functie vervalt?»",
+    "extra_example_nl": "Volgens welke criteria wordt precies bepaald of een functie komt te vervallen bij deze herstructurering?",
+    "extra_example_fa": "بر اساس چه معیارهایی دقیقاً مشخص می‌شود که آیا یک سمت در این بازسازی حذف می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zeg nu gewoon eerlijk wiens functie er precies vervalt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک درخواستِ مؤدبانه دربارهٔ معیارها."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dus iedereen verliest sowieso zijn baan bij deze herstructurering?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیر گفته کسی لزوماً شغلش را از دست نمی‌دهد، اما این جمله فرضِ اخراجِ همه را می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Is de afdeling vorig jaar ook al geherstructureerd?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ بازسازیِ فعلی/آینده است، نه سال گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volgens welke criteria wordt precies bepaald of een functie komt te vervallen bij deze herstructurering?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق معیارِ نامشخصِ حذفِ سمت‌ها را جویا می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Projectleider: De opdrachtgever wil dat we flexibel blijven, maar tegelijkertijd mag het budget niet overschreden worden.\nMedewerker: Ik snap het uitgangspunt, maar in de praktijk botst dat soms.\n___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد در صورت تعارضِ واقعیِ بین انعطاف‌پذیری و بودجه، چه تصمیمی باید گرفته شود، که این دقیقاً معضلِ مطرح‌شده است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ نحوهٔ حلِ یک تعارضِ عملی از «Hoe gaan we daarmee om als...?» استفاده می‌شود. مثال: «Hoe gaan we daarmee om als een aanpassing het budget overschrijdt?»",
+    "extra_example_nl": "Hoe gaan we daarmee om als een gewenste aanpassing het budget dreigt te overschrijden?",
+    "extra_example_fa": "اگر یک تغییرِ خواسته‌شده بودجه را به خطر بیندازد، با آن چگونه برخورد می‌کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Los dat zelf maar op, ik wil er niets meer over horen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و کمی بی‌ادبانه دارد، در حالی که باید مؤدبانه توضیح خواسته شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoe gaan we daarmee om als een gewenste aanpassing het budget dreigt te overschrijden?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد که در صورتِ تعارضِ واقعی چه باید کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het budget speelde vorig project ook al een grote rol, hè?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ پروژهٔ فعلی است، نه پروژهٔ قبلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus het budget speelt eigenlijk helemaal geen rol meer?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: پروژه‌لیدر گفته بودجه نباید از حد تجاوز کند، اما این جمله بی‌اهمیتیِ بودجه را فرض می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "HR-manager: De nieuwe beoordelingscyclus is transparanter, hoewel niet elk team op dezelfde manier wordt beoordeeld.\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که تفاوتِ روشِ ارزیابی بینِ تیم‌ها دقیقاً چگونه است، که این دقیقاً نکتهٔ نامشخص در حرفِ مدیر منابع انسانی است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ نحوهٔ تفاوت در یک فرایند از «Waarin verschilt... precies per team?» استفاده می‌شود. مثال: «Waarin verschilt de beoordeling precies per team?»",
+    "extra_example_nl": "Waarin verschilt de beoordeling precies per team, en welke criteria gelden voor mijn team?",
+    "extra_example_fa": "ارزیابی دقیقاً بین تیم‌ها چه تفاوتی دارد، و چه معیارهایی برای تیمِ من اعمال می‌شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Leg dat verschil nu onmiddellijk volledig uit, ik accepteer geen vaagheid.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و کمی تهاجمی دارد، به‌جای یک سؤالِ مؤدبانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alle teams worden dus precies op dezelfde manier beoordeeld?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیر منابع انسانی گفته تیم‌ها به‌طور یکسان ارزیابی نمی‌شوند، اما این جمله یکسان‌بودن را فرض می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Werd de vorige beoordelingscyclus ook al zo uitgevoerd?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ چرخهٔ جدید است، نه چرخهٔ قبلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waarin verschilt de beoordeling precies per team, en welke criteria gelden voor mijn team?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق تفاوتِ روشِ ارزیابی و معیارهای مربوط به تیمِ خودش را جویا می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: In principe werken we vanaf nu met zelfsturende teams, al blijft er wel een aanspreekpunt nodig voor grote problemen.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که چه کسی نقشِ نقطهٔ تماس برای مشکلاتِ بزرگ را بر عهده دارد در تیمِ خودگردان، که این دقیقاً ابهامِ اصلی است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ مسئولیتِ یک نقش در ساختارِ جدید از «Wie is er dan het aanspreekpunt als...?» استفاده می‌شود. مثال: «Wie is het aanspreekpunt als er een groot probleem ontstaat?»",
+    "extra_example_nl": "Wie is er binnen het zelfsturende team dan het aanspreekpunt als er een groot probleem ontstaat?",
+    "extra_example_fa": "در تیمِ خودگردان، در صورت بروزِ یک مشکلِ بزرگ، چه کسی نقطهٔ تماس خواهد بود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Er is dus helemaal geen aanspreekpunt meer nodig, wat er ook gebeurt?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیر گفته برای مشکلاتِ بزرگ همچنان یک نقطهٔ تماس لازم است، اما این جمله نبودِ آن را فرض می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zeg nu meteen wie dat aanspreekpunt wordt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک سؤالِ مؤدبانه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Werkten we vorig jaar ook al met zelfsturende teams?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ ساختارِ جدید (از الان به بعد) است، نه سال گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wie is er binnen het zelfsturende team dan het aanspreekpunt als er een groot probleem ontstaat?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد که در تیمِ خودگردان چه کسی مسئولِ مشکلاتِ بزرگ است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Klant (via e-mail): We willen doorgaan met de samenwerking, maar we heroverwegen wel de omvang van het contract.\nMedewerker (telefonisch): ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که آیا منظور مشتری کاهشِ حجمِ همکاری است یا فقط تجدیدنظر در جزئیاتِ قرارداد، بدون نتیجه‌گیریِ زودهنگام.",
+    "grammar_rule_fa": "برای بررسیِ فرضیه‌های ممکن و پرسیدنِ کدام‌یک درست است از «Betekent dit dat..., of gaat het om...?» استفاده می‌شود. مثال: «Betekent dit dat de samenwerking kleiner wordt, of gaat het om de inhoud van het contract?»",
+    "extra_example_nl": "Betekent dit dat u de samenwerking wilt verkleinen, of gaat het vooral om de voorwaarden in het contract?",
+    "extra_example_fa": "آیا این به این معناست که می‌خواهید همکاری را کوچک‌تر کنید، یا بیشتر دربارهٔ شرایطِ قرارداد است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vertel me nu meteen hoeveel kleiner het contract wordt.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و پیش‌فرض می‌گیرد که قرارداد کوچک‌تر می‌شود، در حالی که این هنوز نامشخص است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Betekent dit dat u de samenwerking wilt verkleinen, of gaat het vooral om de voorwaarden in het contract?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق دو احتمالِ ممکن را مطرح می‌کند و از مشتری می‌پرسد کدام درست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "U wilde de samenwerking dus vorige maand al stopzetten?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: صحبت دربارهٔ وضعیتِ فعلی/آینده است، نه ماهِ گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus u wilt het contract juist flink uitbreiden?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مشتری گفته می‌خواهد حجمِ قرارداد را تجدیدنظر (احتمالاً کاهش) کند، اما این جمله فرضِ گسترش را می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Directeur: We investeren komend jaar vooral in duurzaamheid, maar niet ten koste van de korte termijn resultaten.\nMedewerker: ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که اگر سرمایه‌گذاریِ پایدار با نتایجِ کوتاه‌مدت در تضاد باشد، کدام یک اولویت دارد، که این دقیقاً معضلِ ضمنی در حرفِ مدیرعامل است.",
+    "grammar_rule_fa": "برای پرسیدن دربارهٔ اولویتِ نهایی در تصمیم‌گیریِ استراتژیک از «Wat weegt zwaarder als...?» استفاده می‌شود. مثال: «Wat weegt zwaarder als duurzaamheid en kortetermijnresultaat botsen?»",
+    "extra_example_nl": "Wat weegt uiteindelijk zwaarder als een duurzame investering ten koste dreigt te gaan van de resultaten dit jaar?",
+    "extra_example_fa": "در نهایت اگر یک سرمایه‌گذاریِ پایدار نتایجِ امسال را تهدید کند، کدام یک وزنِ بیشتری دارد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Investeerden we vorig jaar ook al zoveel in duurzaamheid?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ سالِ آینده است، نه سال گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "De korte termijn resultaten zijn dus totaal niet belangrijk meer?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیرعامل گفته نتایجِ کوتاه‌مدت نباید فدا شود، اما این جمله بی‌اهمیتیِ آن‌ها را فرض می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zeg me nu precies hoeveel we in duurzaamheid gaan steken.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و به سؤالِ اصلی (اولویت در تعارض) پاسخ نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat weegt uiteindelijk zwaarder als een duurzame investering ten koste dreigt te gaan van de resultaten dit jaar?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد که در صورتِ تعارض، کدام اولویت با ارزش‌تر است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Collega: Ik heb de rapportage al ingeleverd, maar sommige cijfers waren nog voorlopig toen ik ze doorstuurde.\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد کدام ارقامِ گزارش هنوز موقتی بوده و باید بعداً اصلاح شود، که این دقیقاً ابهامِ نگران‌کننده در این وضعیت است.",
+    "grammar_rule_fa": "برای پرسیدنِ دقیق دربارهٔ کدام بخش هنوز نامطمئن است از «Welke cijfers precies waren nog voorlopig?» استفاده می‌شود. مثال: «Kun je aangeven welke cijfers nog aangepast moeten worden?»",
+    "extra_example_nl": "Kun je aangeven welke cijfers in de rapportage nog aangepast moeten worden zodra de definitieve gegevens er zijn?",
+    "extra_example_fa": "می‌توانید مشخص کنید کدام ارقام در گزارش باید پس از دریافتِ داده‌های نهایی اصلاح شوند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Stuur die rapportage dan nu meteen opnieuw, ik wil geen fouten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک سؤالِ مؤدبانه دربارهٔ کدام بخش نامشخص است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Alle cijfers in de rapportage waren dus al helemaal definitief?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: همکار گفته برخی ارقام موقتی بوده، اما این جمله فرضِ قطعی‌بودنِ همه را می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kun je aangeven welke cijfers in de rapportage nog aangepast moeten worden zodra de definitieve gegevens er zijn?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد کدام ارقام هنوز نیاز به اصلاح دارند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waren die cijfers vorige maand ook al voorlopig?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ گزارشِ اخیر است، نه ماهِ گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Manager: We willen meer diversiteit in het team, maar de vacature moet wel op basis van competenties ingevuld worden.\nMedewerker (HR): ___\nWelke zin past hier het beste?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که چگونه معیارِ تنوع و معیارِ شایستگی در فرایندِ انتخاب با هم ترکیب می‌شود، بدون نتیجه‌گیریِ اشتباه یا تغییرِ معنا.",
+    "grammar_rule_fa": "برای پرسیدنِ نحوهٔ تلفیقِ دو معیارِ به‌ظاهر متضاد از «Hoe wegen we... mee, naast...?» استفاده می‌شود. مثال: «Hoe wegen we diversiteit mee naast de competenties bij de selectie?»",
+    "extra_example_nl": "Hoe wegen we diversiteit precies mee in de selectieprocedure, naast de vereiste competenties?",
+    "extra_example_fa": "دقیقاً چگونه تنوع را در کنارِ شایستگی‌های موردنیاز، در فرایندِ انتخاب لحاظ می‌کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Selecteer gewoon nu meteen op basis van diversiteit, competenties komen later wel.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و یک نتیجه‌گیریِ نادرست ارائه می‌دهد، به‌جای پرسیدنِ نحوهٔ تلفیق."
+      },
+      {
+        "key": "B",
+        "text_nl": "Competenties spelen dus eigenlijk helemaal geen rol meer bij deze vacature?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیر گفته وظیفه باید بر اساسِ شایستگی پر شود، اما این جمله بی‌اهمیتیِ شایستگی را فرض می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe wegen we diversiteit precies mee in de selectieprocedure, naast de vereiste competenties?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق می‌پرسد که چگونه دو معیارِ تنوع و شایستگی با هم ترکیب می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wilden we vorig jaar ook al meer diversiteit in het team?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ سیاستِ فعلی/آینده است، نه سال گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Projectleider: De opdrachtgever accepteert kleine vertragingen, zolang we daar transparant over communiceren.\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که چه زمانی و از چه طریقی باید تأخیر به کارفرما اطلاع داده شود، که این دقیقاً جزئیاتِ عملیِ نامشخص است.",
+    "grammar_rule_fa": "برای پرسیدنِ جزئیاتِ عملیِ یک فرایندِ ارتباطی از «Op welk moment en op welke manier moeten we...?» استفاده می‌شود. مثال: «Op welk moment moeten we de opdrachtgever informeren over een vertraging?»",
+    "extra_example_nl": "Op welk moment en op welke manier moeten we de opdrachtgever precies informeren zodra er een vertraging dreigt?",
+    "extra_example_fa": "دقیقاً چه زمانی و به چه شکلی باید کارفرما را در صورتِ احتمالِ تأخیر مطلع کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Informeer de opdrachtgever dan nu meteen over elke kleine vertraging, zonder overleg.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد به‌جای یک سؤالِ مؤدبانه دربارهٔ زمان و روشِ اطلاع‌رسانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "De opdrachtgever accepteerde vorige keer ook al geen enkele vertraging?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ رویهٔ فعلی است، نه پروژهٔ قبلی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dus we hoeven helemaal niets te communiceren over eventuele vertragingen?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: پروژه‌لیدر گفته شفافیت لازم است، اما این جمله نیاز به اطلاع‌رسانی را انکار می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op welk moment en op welke manier moeten we de opdrachtgever precies informeren zodra er een vertraging dreigt?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق زمان و روشِ اطلاع‌رسانیِ تأخیر را جویا می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "ask_clarification",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Directeur: We schrappen enkele functies, maar medewerkers krijgen voorrang bij vergelijkbare vacatures elders in het bedrijf.\nMedewerker: ___\nWat is de beste manier om hier om verduidelijking te vragen?",
+    "question_text_fa": "کدام جمله در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست مؤدبانه می‌پرسد که «اولویت» دقیقاً چه معنایی دارد در عمل و آیا تضمینی برای گرفتنِ شغلِ جدید وجود دارد، که این دقیقاً ابهامِ حساسِ این وضعیت است.",
+    "grammar_rule_fa": "برای پرسیدنِ معنای دقیقِ یک تعهدِ نیمه‌مبهم از «Betekent 'voorrang krijgen' dat...?» استفاده می‌شود. مثال: «Betekent voorrang krijgen dat we gegarandeerd een andere functie krijgen?»",
+    "extra_example_nl": "Betekent 'voorrang krijgen' dat we gegarandeerd een andere functie binnen het bedrijf krijgen, of is dat geen zekerheid?",
+    "extra_example_fa": "آیا «اولویت داشتن» به این معناست که شغلِ دیگری در شرکت تضمین می‌شود، یا این قطعیتی ندارد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Garandeer ons nu meteen een nieuwe baan, anders accepteren we dit niet.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و مطالبه‌گرانه دارد، به‌جای یک سؤالِ مؤدبانه برای روشن‌شدنِ معنا."
+      },
+      {
+        "key": "B",
+        "text_nl": "Werden er vorig jaar ook al functies geschrapt?",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: موضوع دربارهٔ تصمیمِ فعلی است، نه سال گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Betekent 'voorrang krijgen' dat we gegarandeerd een andere functie binnen het bedrijf krijgen, of is dat geen zekerheid?",
+        "is_correct": true,
+        "feedback_fa": "✅ این جمله مؤدبانه و دقیق معنای واقعیِ «اولویت‌داشتن» را جویا می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dus medewerkers krijgen helemaal geen voorrang bij andere vacatures?",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای مخالف دارد: مدیرعامل گفته کارکنان اولویت دارند، اما این جمله وجودِ اولویت را انکار می‌کند."
+      }
+    ]
+  }
+]

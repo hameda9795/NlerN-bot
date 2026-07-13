@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Ik denk dat we de deadline gewoon kunnen halen als we harder werken.»  Jij bent het daar niet mee eens. Welke reactie is beleefd én duidelijk?",
+    "question_text_fa": "کدام واکنش هم مودبانه و هم روشن است؟",
+    "explanation_fa": "بهترین شکلِ مخالفت، ابرازِ نظر متفاوت با دلیل و لحنِ مودبانه است.",
+    "grammar_rule_fa": "مخالفتِ مودبانه: «Ik denk er eigenlijk anders over, want …»",
+    "extra_example_nl": "Ik denk er eigenlijk anders over, want we hebben al weinig tijd.",
+    "extra_example_fa": "من در واقع نظر متفاوتی دارم، چون زمان کمی داریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik denk er eigenlijk anders over, want we hebben al weinig tijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مخالفتِ مودبانه همراه با دلیل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is een belachelijk idee.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و توهین‌آمیز است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Prima, doe wat je wilt.",
+        "is_correct": false,
+        "feedback_fa": "مخالفتِ واقعی را بیان نمی‌کند؛ بی‌تفاوتی نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, helemaal mee eens.",
+        "is_correct": false,
+        "feedback_fa": "این موافقت است، درحالی‌که سؤال مخالفت می‌خواهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisgenoot: «Ik vind dat jij vaker zou moeten schoonmaken dan ik.»  Jij bent het hier niet mee eens. Welke reactie klinkt het meest redelijk?",
+    "question_text_fa": "کدام واکنش منطقی‌تر به نظر می‌رسد؟",
+    "explanation_fa": "بهترین واکنش، توضیحِ دیدگاهِ خودت بدون تهاجم است.",
+    "grammar_rule_fa": "توضیحِ دیدگاه: «Ik zie het anders, ik maak ook regelmatig schoon.»",
+    "extra_example_nl": "Ik zie het anders, want ik doe ook mijn deel.",
+    "extra_example_fa": "من طور دیگری می‌بینم، چون سهم خودم را هم انجام می‌دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waarom vraag je dat nu ineens?",
+        "is_correct": false,
+        "feedback_fa": "موضوع را دور می‌زند به‌جای پاسخ دادن به آن."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zie het anders, ik maak ook regelmatig schoon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توضیحِ آرام و منطقیِ دیدگاهِ خود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij bent gewoon lui en oneerlijk.",
+        "is_correct": false,
+        "feedback_fa": "حمله‌ی شخصی است، نه بحثِ منطقی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Oké, ik doe voortaan alles.",
+        "is_correct": false,
+        "feedback_fa": "این تسلیم شدن است، نه بیانِ مخالفتِ واقعی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Zus: «Ik vind dat we het familiefeest bij mama thuis moeten houden.»  Jij zou liever een restaurant boeken. Welke reactie combineert respect en een eigen mening?",
+    "question_text_fa": "کدام واکنش هم احترام و هم نظر شخصی را نشان می‌دهد؟",
+    "explanation_fa": "بهترین واکنش، احترام به نظر دیگری همراه با پیشنهادِ دیدگاه خود است.",
+    "grammar_rule_fa": "پیشنهادِ جایگزین با احترام: «Ik snap je punt, maar ik zou liever …»",
+    "extra_example_nl": "Ik snap je punt, maar ik zou liever een restaurant boeken.",
+    "extra_example_fa": "منظورت را می‌فهمم، اما ترجیح می‌دهم رستوران رزرو کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het maakt mij niets uit, jij beslist alles maar.",
+        "is_correct": false,
+        "feedback_fa": "نظرِ واقعی خودش را پنهان می‌کند، درحالی‌که او ترجیحی داشت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mama's huis is altijd te klein voor iedereen sowieso.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ گلایه‌آمیز دارد و به‌جای بحثِ سازنده، انتقاد می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik snap je punt, maar ik zou liever een restaurant boeken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ احترام همراه با بیانِ نظرِ شخصی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, dat is een slecht idee, punt uit.",
+        "is_correct": false,
+        "feedback_fa": "مخالفتِ خشک و بدون توضیح یا احترام است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Manager: «Ik wil dat jij deze taak alleen doet.»  Werknemer: «Ik ben het daar niet helemaal mee eens, ik denk dat het sneller gaat als we het samen doen.»  Wat is de meest waarschijnlijke reactie van een redelijke manager?",
+    "question_text_fa": "کدام واکنشِ مدیرِ منطقی محتمل‌تر است؟",
+    "explanation_fa": "مدیرِ منطقی معمولاً دلیلِ کارمند را می‌شنود و درباره‌اش فکر می‌کند.",
+    "grammar_rule_fa": "شنیدنِ دلیلِ مخالف: «Oké, leg eens uit waarom.»",
+    "extra_example_nl": "Oké, leg eens uit waarom je dat denkt.",
+    "extra_example_fa": "باشه، توضیح بده چرا این‌طور فکر می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doe gewoon wat ik zeg, zonder discussie.",
+        "is_correct": false,
+        "feedback_fa": "این واکنشِ مستبدانه است، نه منطقیِ یک مدیرِ باز به گفتگو."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ontsla je vandaag nog.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید برای یک مخالفتِ ساده و مودبانه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen mening hierover.",
+        "is_correct": false,
+        "feedback_fa": "با نقشِ مدیر که تصمیم گرفته بود در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Oké, leg eens uit waarom je dat denkt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واکنشِ منطقی و بازِ یک مدیرِ خوب."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "social",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Ik vind dat de gemeente meer geld aan fietspaden moet uitgeven dan aan wegen.»  Jij denkt daar anders over. Welke reactie houdt het gesprek vriendelijk?",
+    "question_text_fa": "کدام واکنش گفتگو را دوستانه نگه می‌دارد؟",
+    "explanation_fa": "بهترین راه، بیانِ نظرِ متفاوت بدون رد کردنِ نظرِ طرفِ مقابل است.",
+    "grammar_rule_fa": "بیانِ نظرِ متفاوت: «Daar denk ik anders over, ik vind dat …»",
+    "extra_example_nl": "Daar denk ik anders over, ik vind wegen ook belangrijk.",
+    "extra_example_fa": "من درباره‌ی این موضوع نظر متفاوتی دارم، جاده‌ها را هم مهم می‌دانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daar denk ik anders over, ik vind wegen ook belangrijk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دوستانه و روشن، بدون رد کردنِ طرف مقابل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is compleet onzin wat je zegt.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ادبانه و تحقیرآمیز است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, helemaal mee eens, altijd.",
+        "is_correct": false,
+        "feedback_fa": "موافقت را نشان می‌دهد، درحالی‌که او نظر متفاوتی دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik praat niet meer met je over politiek.",
+        "is_correct": false,
+        "feedback_fa": "مکالمه را قطع می‌کند به‌جای بحثِ دوستانه."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Ik vind ons rapport nu al goed genoeg om te versturen.»  Jij vindt het nog niet klaar. Welke zin drukt duidelijk mededogen én mening uit?",
+    "question_text_fa": "کدام جمله هم نظر و هم درک متقابل را نشان می‌دهد؟",
+    "explanation_fa": "بهترین واکنش، پذیرفتنِ بخشی از نظرِ همکار و افزودنِ دلیلِ خودت است.",
+    "grammar_rule_fa": "نیمه‌موافقت: «Ik snap wat je bedoelt, maar ik denk dat …»",
+    "extra_example_nl": "Ik snap wat je bedoelt, maar ik denk dat we nog een controle nodig hebben.",
+    "extra_example_fa": "منظورت را می‌فهمم، اما فکر می‌کنم هنوز به یک بررسی نیاز داریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb hier geen tijd voor.",
+        "is_correct": false,
+        "feedback_fa": "از بحث فرار می‌کند به‌جای بیانِ نظر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik snap wat je bedoelt, maar ik denk dat we nog een controle nodig hebben.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترکیب مناسبِ درک و نظرِ متفاوت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij hebt hier duidelijk niets van begrepen.",
+        "is_correct": false,
+        "feedback_fa": "تحقیرآمیز است و بحث را غیرسازنده می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Verstuur het maar, het maakt me niet uit.",
+        "is_correct": false,
+        "feedback_fa": "نظرِ واقعیِ او را پنهان می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Partner: «Ik wil deze zomer echt naar Spanje op vakantie.»  Jij zou liever naar Italië gaan. Welke reactie zoekt het beste naar een compromis?",
+    "question_text_fa": "کدام واکنش بهتر به دنبال راه‌حلِ میانه است؟",
+    "explanation_fa": "بهترین واکنش، پیشنهادِ گفتگو برای یافتنِ راه‌حلِ مشترک است.",
+    "grammar_rule_fa": "پیشنهادِ سازش: «Zullen we samen kijken naar een compromis?»",
+    "extra_example_nl": "Zullen we samen kijken of er een plek is die we allebei leuk vinden?",
+    "extra_example_fa": "بیا با هم دنبال جایی بگردیم که هر دو دوست داریم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Prima, we gaan naar Spanje, ik zeg toch nooit iets.",
+        "is_correct": false,
+        "feedback_fa": "تسلیمِ ناراضی است، نه بحثِ سازنده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ga sowieso niet mee, dan.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید برای یک اختلافِ نظرِ ساده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zullen we samen kijken of er een compromis mogelijk is?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سازنده و به دنبال راه‌حلِ مشترک."
+      },
+      {
+        "key": "D",
+        "text_nl": "Spanje is een verschrikkelijk land om naartoe te gaan.",
+        "is_correct": false,
+        "feedback_fa": "توهین‌آمیز و غیرمرتبط با بحثِ منطقی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "university",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Groepslid: «Ik vind dat we de presentatie in het Engels moeten geven.»  Jij vindt Nederlands beter passen bij het publiek. Welke reactie is het meest constructief?",
+    "question_text_fa": "کدام واکنش سازنده‌ترین است؟",
+    "explanation_fa": "بهترین راه، بیانِ دلیل و دعوت به بحث است، نه رد کردنِ مستقیم.",
+    "grammar_rule_fa": "دعوت به بحث: «Zullen we de voor- en nadelen bespreken?»",
+    "extra_example_nl": "Zullen we eerst de voor- en nadelen van beide talen bespreken?",
+    "extra_example_fa": "بیا اول مزایا و معایب هر دو زبان را بررسی کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Engels is duidelijk de betere keuze, punt uit.",
+        "is_correct": false,
+        "feedback_fa": "خیلی قاطع است و جایی برای گفتگو نمی‌گذارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doe wat je wilt, ik doe toch niet mee met de presentatie.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ غیرسازنده و تهدیدآمیز است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waarom vraag je mijn mening eigenlijk?",
+        "is_correct": false,
+        "feedback_fa": "دفاعی و بی‌ربط به موضوعِ اصلی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zullen we eerst de voor- en nadelen bespreken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سازنده و باز به گفتگو."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Broer: «Ik vind dat we het geld beter aan een nieuwe keuken kunnen besteden dan aan de tuin.»  Jij bent het daar niet mee eens. Welke zin klinkt het meest volwassen?",
+    "question_text_fa": "کدام جمله بالغانه‌تر به نظر می‌رسد؟",
+    "explanation_fa": "بهترین واکنش، بیانِ دلیلِ خودت بدون تحقیرِ نظرِ دیگری است.",
+    "grammar_rule_fa": "بیانِ دلیل: «Ik zou het geld liever aan … besteden, omdat …»",
+    "extra_example_nl": "Ik zou het geld liever aan de tuin besteden, omdat we die meer gebruiken.",
+    "extra_example_fa": "ترجیح می‌دهم پول را برای باغ خرج کنیم، چون بیشتر از آن استفاده می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zou het geld liever aan de tuin besteden, omdat we die meer gebruiken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بالغانه، با دلیلِ روشن."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij denkt ook nooit aan iemand anders dan jezelf.",
+        "is_correct": false,
+        "feedback_fa": "حمله‌ی شخصی است، نه بحثِ منطقی درباره‌ی موضوع."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een nieuwe keuken is zonde van het geld, altijd.",
+        "is_correct": false,
+        "feedback_fa": "تعمیمِ کلی و قضاوتی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Prima, doe waar je zin in hebt.",
+        "is_correct": false,
+        "feedback_fa": "نظرِ واقعی خودش را پنهان می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega A: «We moeten dit budget vooral aan marketing besteden.»  Collega B: «Ik zie het anders, maar laten we het aan het team voorleggen.»  Hoe zou je collega B's houding het beste omschrijven?",
+    "question_text_fa": "نگرشِ همکارِ B را چطور بهتر می‌توان توصیف کرد؟",
+    "explanation_fa": "همکار B مخالفت می‌کند اما راه‌حلِ گروهی و منطقی پیشنهاد می‌دهد.",
+    "grammar_rule_fa": "«laten we … voorleggen» یعنی پیشنهادِ تصمیم‌گیریِ گروهی.",
+    "extra_example_nl": "Laten we dit onderwerp aan de rest van het team voorleggen.",
+    "extra_example_fa": "بیا این موضوع را به بقیه‌ی تیم ارائه دهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Onverschillig over het onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "او نظرِ روشنی دارد؛ بی‌تفاوت نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Respectvol oneens, en op zoek naar een gezamenlijke oplossing.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نگرش را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Volledig het eens met collega A.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ او گفت «ik zie het anders»، یعنی مخالف است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Boos en onwillig om te praten.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و سازنده است، نه عصبانی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "social",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriendin: «Dat restaurant is echt te duur, laten we ergens anders eten.»  Jij wilt daar juist heel graag eten. Wat is een goede, vriendelijke reactie?",
+    "question_text_fa": "کدام واکنش دوستانه و مناسب است؟",
+    "explanation_fa": "بهترین واکنش، پیشنهادِ راه‌حل (مثلاً یک بار در ماه) به‌جای رد کردنِ مستقیم است.",
+    "grammar_rule_fa": "پیشنهادِ جایگزین: «Wat dacht je ervan als …?»",
+    "extra_example_nl": "Wat dacht je ervan als we dit een keer als uitzondering doen?",
+    "extra_example_fa": "نظرت چیه یک بار به‌عنوان استثنا این کار را بکنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Prima, ik ga toch nooit meer met jou uit eten.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید برای یک اختلافِ نظرِ ساده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik hou niet van eten sowieso.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط و غیرصادقانه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat dacht je ervan als we dit een keer als uitzondering doen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دوستانه و راه‌حل‌محور."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij bent altijd zo gierig.",
+        "is_correct": false,
+        "feedback_fa": "حمله‌ی شخصی است و بحث را خراب می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisgenoot: «De verwarming mag van mij altijd op twintig graden.»  Jij vindt dat te warm. Welke reactie is beleefd en helder?",
+    "question_text_fa": "کدام واکنش هم مودبانه و هم روشن است؟",
+    "explanation_fa": "بهترین راه، بیانِ ترجیحِ خودت و پیشنهادِ یک دمای میانه است.",
+    "grammar_rule_fa": "پیشنهادِ میانه: «Zullen we het op achttien graden zetten?»",
+    "extra_example_nl": "Zullen we het ergens tussenin zetten, op achttien graden?",
+    "extra_example_fa": "بیا آن را وسط بگذاریم، هجده درجه؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Twintig graden is absurd, jij weet niets van energie besparen.",
+        "is_correct": false,
+        "feedback_fa": "تحقیرآمیز است، نه بحثِ سازنده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Prima, twintig graden dan maar, ik zwijg wel.",
+        "is_correct": false,
+        "feedback_fa": "نظرِ واقعیِ خودش را پنهان می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik zet de verwarming stiekem 's nachts uit.",
+        "is_correct": false,
+        "feedback_fa": "غیرصادقانه است، نه گفتگوی روراست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zullen we het ergens tussenin zetten, op achttien graden?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مودبانه و راه‌حل‌محور."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Ik vind dat we die klant te streng hebben behandeld.»  Jij denkt dat het terecht was. Welke reactie houdt de discussie professioneel?",
+    "question_text_fa": "کدام واکنش بحث را حرفه‌ای نگه می‌دارد؟",
+    "explanation_fa": "بهترین راه، بیانِ دلیلِ خودت به‌صورت آرام و حرفه‌ای است.",
+    "grammar_rule_fa": "توضیحِ حرفه‌ای: «Ik begrijp je zorg, maar ik denk dat …»",
+    "extra_example_nl": "Ik begrijp je zorg, maar ik denk dat de regels duidelijk waren.",
+    "extra_example_fa": "نگرانی‌ات را می‌فهمم، اما فکر می‌کنم قوانین روشن بودند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik begrijp je zorg, maar ik denk dat de regels duidelijk waren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ حرفه‌ای و متعادل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij bent altijd te aardig voor klanten.",
+        "is_correct": false,
+        "feedback_fa": "قضاوتِ شخصی است، نه استدلالِ حرفه‌ای."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het maakt me niet uit wat er gebeurd is.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگیِ حرفه‌ای مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Praat er maar met de manager over, niet met mij.",
+        "is_correct": false,
+        "feedback_fa": "از بحث فرار می‌کند به‌جای مشارکت."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "social",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «We kunnen prima zonder reservering naar dat restaurant gaan.»  Jij denkt dat het altijd druk is. Na een korte discussie zegt hij: «Oké, we zien het gewoon.»  Wat betekent dit het beste?",
+    "question_text_fa": "این جمله دقیقاً چه معنایی دارد؟",
+    "explanation_fa": "«we zien het gewoon» یعنی اختلاف‌نظر را کنار می‌گذارند و منتظر می‌مانند چه پیش می‌آید.",
+    "grammar_rule_fa": "«we zien het wel» یک شکلِ رایج برای «بگذار ببینیم چه می‌شود» است.",
+    "extra_example_nl": "We zien het gewoon als we daar zijn.",
+    "extra_example_fa": "وقتی رسیدیم می‌بینیم چه می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is het nu volledig met jou eens.",
+        "is_correct": false,
+        "feedback_fa": "او نظرش را عوض نکرده، فقط بحث را متوقف می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ze stoppen met discussiëren en wachten af wat er gebeurt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین معنا را دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij wil helemaal niet meer naar het restaurant.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ فقط تصمیم را به بعد موکول می‌کنند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij is boos en wil niet meer praten.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ جمله آرام است، نه عصبانی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ouder: «Ik vind dat je te laat naar bed gaat op schooldagen.»  Tiener: «Ik snap je punt, maar ik heb echt tijd nodig voor huiswerk 's avonds.»  Hoe zou je de reactie van de tiener het beste omschrijven?",
+    "question_text_fa": "واکنشِ نوجوان را چطور بهتر می‌توان توصیف کرد؟",
+    "explanation_fa": "نوجوان با احترام مخالفت می‌کند و دلیل منطقی می‌آورد.",
+    "grammar_rule_fa": "مخالفتِ محترمانه: «Ik snap je punt, maar …»",
+    "extra_example_nl": "Ik snap je punt, maar ik denk dat het anders ligt.",
+    "extra_example_fa": "منظورت را می‌فهمم، اما فکر می‌کنم قضیه فرق دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volledig het eens met de ouder.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ او گفت «maar» و دلیلِ مخالفِ خود را داد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Onverschillig over het onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "او نظرِ روشنی دارد، بی‌تفاوت نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Respectvol, met een duidelijke reden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین نگرش را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Onbeleefd en zonder uitleg.",
+        "is_correct": false,
+        "feedback_fa": "او دلیل واضحی ارائه داد؛ بی‌ادبانه نبود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Werknemer: «Ik ben het niet eens met mijn beoordeling, ik vind dat ik meer verantwoordelijkheid heb genomen dan hier staat.»  Manager: «Vertel me eens welke concrete voorbeelden je hebt.»  Wat is een sterke reactie van de werknemer?",
+    "question_text_fa": "کدام واکنشِ محکمِ کارمند مناسب است؟",
+    "explanation_fa": "بهترین واکنش، دادنِ مثال‌های مشخص برای اثباتِ ادعا است.",
+    "grammar_rule_fa": "استدلال با مثال: «Bijvoorbeeld toen ik …»",
+    "extra_example_nl": "Bijvoorbeeld toen ik het project alleen heb afgerond.",
+    "extra_example_fa": "مثلاً وقتی که پروژه را به‌تنهایی تمام کردم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb gewoon gelijk, dat weet ik zeker.",
+        "is_correct": false,
+        "feedback_fa": "مثالِ عینی نمی‌دهد، فقط ادعا می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het maakt niet uit, verander de beoordeling toch niet.",
+        "is_correct": false,
+        "feedback_fa": "با هدفِ اصلیِ او، یعنی اعتراض به ارزیابی، در تضاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil hier niet over praten.",
+        "is_correct": false,
+        "feedback_fa": "او خودش موضوع را مطرح کرده بود؛ حالا نمی‌تواند از بحث فرار کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bijvoorbeeld toen ik het project vorige maand alleen heb afgerond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ استدلالِ محکم با مثالِ مشخص."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Buurman: «Die boom van jullie hangt te ver over onze tuin.»  Jij bent het daar niet helemaal mee eens. Welke reactie voorkomt ruzie het beste?",
+    "question_text_fa": "کدام واکنش بهتر از دعوا جلوگیری می‌کند؟",
+    "explanation_fa": "بهترین واکنش، پیشنهادِ بررسیِ مشترک به‌جای انکار یا مخالفتِ تند است.",
+    "grammar_rule_fa": "پیشنهادِ بررسی: «Zullen we er samen naar kijken?»",
+    "extra_example_nl": "Zullen we er samen naar kijken en een oplossing zoeken?",
+    "extra_example_fa": "بیا با هم به آن نگاه کنیم و راه‌حلی پیدا کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zullen we er samen naar kijken en een oplossing zoeken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ آرام و پیشگیرانه از دعوا."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is jouw probleem, niet het onze.",
+        "is_correct": false,
+        "feedback_fa": "غیرهمکاری‌جویانه است و می‌تواند دعوا ایجاد کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "De boom blijft precies zo, ik verander niets.",
+        "is_correct": false,
+        "feedback_fa": "خیلی قاطع است و راهی برای گفتگو باز نمی‌گذارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bel de politie maar als je een probleem hebt.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید برای یک اختلافِ همسایگی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "university",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Docent: «Uw conclusie is niet goed onderbouwd.»  Student: «Ik begrijp uw punt, maar volgens mij ondersteunen de cijfers in tabel 2 mijn conclusie wel.»  Hoe zou je de reactie van de student omschrijven?",
+    "question_text_fa": "واکنشِ دانشجو را چطور بهتر می‌توان توصیف کرد؟",
+    "explanation_fa": "دانشجو محترمانه مخالفت می‌کند و به داده‌ی مشخصی اشاره می‌کند.",
+    "grammar_rule_fa": "مخالفتِ مستدل: «volgens mij ondersteunen de cijfers …»",
+    "extra_example_nl": "Volgens mij laat de grafiek duidelijk iets anders zien.",
+    "extra_example_fa": "به نظر من نمودار چیز دیگری را نشان می‌دهد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Onverschillig over het cijfer.",
+        "is_correct": false,
+        "feedback_fa": "او فعالانه از نظرِ خود دفاع می‌کند، بی‌تفاوت نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Beleefd oneens, met verwijzing naar concreet bewijs.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین رویکرد را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Volledig het eens met de docent.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ او گفت «maar» و نظرِ متفاوتِ خود را داد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Boos en beledigend tegen de docent.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و مودبانه است، نه عصبانی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Baas: «Ik wil dit idee volgende week meteen uitvoeren.»  Werknemer: «Ik zou toch willen voorstellen om eerst een korte test te doen.»  Wat probeert de werknemer hier te bereiken?",
+    "question_text_fa": "کارمند در اینجا به دنبال چه چیزی است؟",
+    "explanation_fa": "کارمند سعی می‌کند بدون مخالفتِ مستقیم، احتیاط بیشتری پیشنهاد دهد.",
+    "grammar_rule_fa": "پیشنهادِ محتاطانه: «Ik zou toch willen voorstellen om …»",
+    "extra_example_nl": "Ik zou toch willen voorstellen om eerst de risico's te bekijken.",
+    "extra_example_fa": "با این حال پیشنهاد می‌دهم اول ریسک‌ها را بررسی کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij weigert om aan het idee mee te werken.",
+        "is_correct": false,
+        "feedback_fa": "او رد نمی‌کند، فقط پیشنهادِ احتیاط می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij vraagt om ontslag.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij probeert voorzichtig een alternatief voor te stellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین هدف را دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij is het volledig eens met de baas.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ او در حال پیشنهادِ روشِ دیگری است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "social",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend: «Ik vind dat sociale media meer kwaad dan goed doen.»  Jij bent het daar niet mee eens, maar wilt het gesprek niet laten escaleren. Welke zin past het beste?",
+    "question_text_fa": "کدام جمله بهترین گزینه است؟",
+    "explanation_fa": "بهترین راه، بیانِ نظرِ متفاوت به‌صورت آرام همراه با دلیل است.",
+    "grammar_rule_fa": "بیانِ نظرِ متعادل: «Ik zie ook voordelen, bijvoorbeeld …»",
+    "extra_example_nl": "Ik zie ook voordelen, bijvoorbeeld het contact met familie ver weg.",
+    "extra_example_fa": "من مزایایی هم می‌بینم، مثلاً ارتباط با خانواده‌ی دور.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is echt een naïeve mening.",
+        "is_correct": false,
+        "feedback_fa": "تحقیرآمیز است و گفتگو را تشدید می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Helemaal mee eens, sociale media is verschrikkelijk.",
+        "is_correct": false,
+        "feedback_fa": "موافقت نشان می‌دهد، درحالی‌که او مخالف است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil het hier niet meer over hebben, punt.",
+        "is_correct": false,
+        "feedback_fa": "مکالمه را ناگهان قطع می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik zie ook voordelen, bijvoorbeeld het contact met familie ver weg.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ آرام، متعادل و دلیل‌محور."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Broer: «Ik denk dat wij om de beurt voor mama moeten zorgen, elke maand een ander.»  Jij vindt dat onrealistisch door je werk. Welke reactie is eerlijk en respectvol?",
+    "question_text_fa": "کدام واکنش صادقانه و محترمانه است؟",
+    "explanation_fa": "بهترین راه، توضیحِ محدودیتِ واقعیِ خودت و پیشنهادِ راه‌حلِ جایگزین است.",
+    "grammar_rule_fa": "بیانِ محدودیت: «Dat lukt mij niet vanwege …, misschien kunnen we …»",
+    "extra_example_nl": "Dat lukt mij niet elke maand vanwege mijn werk, misschien om de twee maanden?",
+    "extra_example_fa": "من هر ماه نمی‌توانم به‌خاطر کارم، شاید هر دو ماه یک‌بار؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat lukt mij niet elke maand vanwege mijn werk, misschien om de twee maanden?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صادقانه و همراه با پیشنهادِ جایگزین."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij denkt nooit na over mijn situatie.",
+        "is_correct": false,
+        "feedback_fa": "حمله‌ی شخصی است، نه گفتگوی سازنده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Prima, ik doe het toch wel, al red ik het niet.",
+        "is_correct": false,
+        "feedback_fa": "محدودیتِ واقعیِ خود را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zorg jij er maar alleen voor.",
+        "is_correct": false,
+        "feedback_fa": "مسئولیت را کاملاً رد می‌کند بدون گفتگوی منصفانه."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega: «Ik vind dat thuiswerken de productiviteit verlaagt.»  Jij denkt het tegenovergestelde op basis van je eigen ervaring. Welke reactie is het meest overtuigend én beleefd?",
+    "question_text_fa": "کدام واکنش هم قانع‌کننده و هم مودبانه است؟",
+    "explanation_fa": "بهترین راه، اشاره به تجربه‌ی شخصی به‌عنوان دلیل است.",
+    "grammar_rule_fa": "دلیل با تجربه: «Uit mijn ervaring blijkt juist het tegenovergestelde.»",
+    "extra_example_nl": "Uit mijn eigen ervaring blijkt juist dat ik thuis productiever ben.",
+    "extra_example_fa": "بر اساس تجربه‌ی خودم، برعکس است و در خانه بهره‌ورترم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk toch nooit meer op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به استدلالِ همکار است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Uit mijn eigen ervaring blijkt juist het tegenovergestelde.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مودبانه و با استدلالِ شخصی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is duidelijk niet waar, iedereen weet dat.",
+        "is_correct": false,
+        "feedback_fa": "مدعی است بدون دلیل و کمی تحقیرآمیز است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Misschien heb je gelijk, ik weet het ook niet.",
+        "is_correct": false,
+        "feedback_fa": "نظرِ واقعیِ خودش را کنار می‌گذارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisgenoot: «Ik vind dat we een hond moeten nemen.»  Jij denkt dat jullie appartement te klein is. Welke reactie is redelijk en niet bot?",
+    "question_text_fa": "کدام واکنش منطقی و بدون بی‌ادبی است؟",
+    "explanation_fa": "بهترین راه، ابرازِ نگرانیِ واقعی به‌همراه دلیلِ عملی است.",
+    "grammar_rule_fa": "ابرازِ نگرانی: «Ik maak me zorgen dat …»",
+    "extra_example_nl": "Ik maak me zorgen dat ons appartement te klein is voor een hond.",
+    "extra_example_fa": "نگرانم که آپارتمانمان برای سگ کوچک باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Prima, we nemen toch een hond, al vind ik het niks.",
+        "is_correct": false,
+        "feedback_fa": "نگرانیِ واقعیِ خودش را کنار می‌گذارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik hou sowieso niet van dieren.",
+        "is_correct": false,
+        "feedback_fa": "دلیلِ متفاوتی می‌آورد که با نگرانیِ اصلی (فضای کوچک) مرتبط نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik maak me zorgen dat ons appartement te klein is voor een hond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ منطقی و بدون بی‌ادبی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een hond nemen is een belachelijk idee.",
+        "is_correct": false,
+        "feedback_fa": "قضاوتی و بی‌ادبانه است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "social",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriendin: «Ik denk dat we dit weekend beter thuis kunnen blijven vanwege het weer.»  Jij wilt juist graag op pad. Welke reactie zoekt naar een middenweg?",
+    "question_text_fa": "کدام واکنش به دنبال راه‌حلِ میانه است؟",
+    "explanation_fa": "بهترین راه، پیشنهادِ یک فعالیتِ جایگزین است که هر دو را راضی کند.",
+    "grammar_rule_fa": "پیشنهادِ جایگزین: «Wat als we in plaats daarvan …?»",
+    "extra_example_nl": "Wat als we in plaats daarvan iets binnen doen, zoals een museum?",
+    "extra_example_fa": "نظرت چیه به‌جای آن یک کار سرپوشیده انجام بدهیم، مثل موزه؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het weer interesseert me niet, we gaan gewoon.",
+        "is_correct": false,
+        "feedback_fa": "نگرانیِ او را کاملاً نادیده می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Oké, we blijven thuis, jij bepaalt toch altijd alles.",
+        "is_correct": false,
+        "feedback_fa": "تسلیمِ ناراضی است، نه گفتگوی سازنده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dan ga ik wel alleen.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید برای یک اختلافِ نظرِ ساده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat als we in plaats daarvan iets binnen doen, zoals een museum?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ راه‌حلِ میانه که هر دو خواسته را در نظر می‌گیرد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Teamleider: «Ik wil dat iedereen weer vijf dagen op kantoor werkt.»  Werknemer: «Ik begrijp de reden, maar ik denk dat twee thuiswerkdagen ook goed kunnen werken.»  Wat toont deze reactie vooral?",
+    "question_text_fa": "این واکنش عمدتاً چه چیزی را نشان می‌دهد؟",
+    "explanation_fa": "این واکنش نشان می‌دهد که کارمند با احترام مخالفت می‌کند و راه‌حلِ جایگزین پیشنهاد می‌دهد.",
+    "grammar_rule_fa": "«Ik begrijp de reden, maar …» ترکیبِ درک و مخالفت را نشان می‌دهد.",
+    "extra_example_nl": "Ik begrijp de reden, maar ik denk dat er een betere balans mogelijk is.",
+    "extra_example_fa": "دلیل را می‌فهمم، اما فکر می‌کنم تعادلِ بهتری ممکن است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Respectvolle onenigheid met een concreet tegenvoorstel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Volledige instemming met de teamleider.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ او پیشنهادِ جایگزین می‌دهد، پس کاملاً موافق نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Woede en weigering om te werken.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام و سازنده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Onverschilligheid over het onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "او فعالانه نظر می‌دهد، بی‌تفاوت نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Ouder: «Ik vind dat onze zoon naar de openbare school moet, niet de particuliere.»  Partner: «Ik snap je argument over geld, maar de kleinere klassen vind ik ook belangrijk.»  Wat probeert de partner te doen?",
+    "question_text_fa": "شریکِ زندگی در اینجا به دنبال چه چیزی است؟",
+    "explanation_fa": "او سعی می‌کند دلیلِ طرفِ مقابل را بپذیرد و در عین حال دلیلِ خودش را هم مطرح کند.",
+    "grammar_rule_fa": "پذیرفتنِ جزئی: «Ik snap je argument, maar …»",
+    "extra_example_nl": "Ik snap je argument over geld, maar kwaliteit is ook belangrijk.",
+    "extra_example_fa": "استدلالت درباره‌ی پول را می‌فهمم، اما کیفیت هم مهم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Alle beslissingen aan de ander overlaten.",
+        "is_correct": false,
+        "feedback_fa": "او نظرِ خودش را هم مطرح می‌کند، پس تصمیم را کاملاً واگذار نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Beide argumenten erkennen en een eigen punt toevoegen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین رویکردِ متعادل را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het argument van de ander volledig afwijzen.",
+        "is_correct": false,
+        "feedback_fa": "اشتباه؛ او با «ik snap» دلیلِ طرفِ مقابل را می‌پذیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Boos worden en het gesprek stoppen.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او آرام است، نه عصبانی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "university",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Groepslid: «Laten we het onderwerp klimaatverandering nemen voor de presentatie.»  Jij denkt dat het onderwerp al vaak gedaan is. Welke reactie is opbouwend?",
+    "question_text_fa": "کدام واکنش سازنده است؟",
+    "explanation_fa": "بهترین راه، بیانِ نگرانی همراه با یک پیشنهادِ جایگزینِ عملی است.",
+    "grammar_rule_fa": "پیشنهادِ جایگزین: «Wat vinden jullie van … in plaats daarvan?»",
+    "extra_example_nl": "Wat vinden jullie van een minder bekend onderwerp, zoals waterbeheer?",
+    "extra_example_fa": "نظرتان درباره‌ی موضوعی کمترشناخته‌شده مثل مدیریت آب چیست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Prima, we doen het toch al zo vaak gedaan onderwerp maar weer.",
+        "is_correct": false,
+        "feedback_fa": "نظرِ واقعیِ خودش را کنار می‌گذارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik doe niet mee met deze presentatie.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بیش‌ازحد شدید و غیرسازنده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat vinden jullie van een minder bekend onderwerp, zoals waterbeheer?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سازنده و همراه با پیشنهادِ عملی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Klimaatverandering is een saai onderwerp.",
+        "is_correct": false,
+        "feedback_fa": "قضاوتی و بدون پیشنهادِ جایگزین است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Collega A: «Volgens mij moeten we deze klant gewoon afwijzen.»  Collega B: «Ik zie het toch anders, ik denk dat we samen naar een oplossing kunnen zoeken.»  Hoe eindigt zo'n gesprek meestal het beste?",
+    "question_text_fa": "چنین گفتگویی معمولاً چطور بهترین پایان را دارد؟",
+    "explanation_fa": "بهترین پایان، رسیدن به یک نتیجه‌ی مشترک از طریق گفتگوی بیشتر است.",
+    "grammar_rule_fa": "پیشنهادِ ادامه‌ی گفتگو: «Laten we er samen verder over praten.»",
+    "extra_example_nl": "Laten we er straks samen met het hele team over praten.",
+    "extra_example_fa": "بیا بعداً با کل تیم درباره‌اش صحبت کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Met collega A die meteen wint zonder discussie.",
+        "is_correct": false,
+        "feedback_fa": "این پایانِ سازنده نیست؛ نظرِ B نادیده گرفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Met beide collega's die boos weglopen.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ گفتگو آرام است، نه پرخاشگرانه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Met het volledig negeren van de klant.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ اصلیِ گفتگو است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Met een gezamenlijk gesprek om tot een besluit te komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سازنده‌ترین راهِ پایان‌دادن به مخالفت است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisgenoot: «Ik vind niet dat we een gezamenlijke boodschappenlijst nodig hebben, iedereen koopt toch zijn eigen spullen.»  Jij denkt dat het handiger is. Welke reactie is het meest overtuigend?",
+    "question_text_fa": "کدام واکنش قانع‌کننده‌تر است؟",
+    "explanation_fa": "بهترین راه، اشاره به یک مزیتِ عملی و مشخص است.",
+    "grammar_rule_fa": "استدلال با مزیت: «Het voordeel is dat …»",
+    "extra_example_nl": "Het voordeel is dat we minder vaak dubbele dingen kopen.",
+    "extra_example_fa": "مزیتش این است که کمتر چیزهای تکراری می‌خریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het voordeel is dat we minder vaak dubbele dingen kopen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ استدلالِ عملی و قانع‌کننده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij denkt nooit na over het huishouden.",
+        "is_correct": false,
+        "feedback_fa": "حمله‌ی شخصی است، نه استدلال درباره‌ی موضوع."
+      },
+      {
+        "key": "C",
+        "text_nl": "Prima, dan doet iedereen maar zijn eigen ding.",
+        "is_correct": false,
+        "feedback_fa": "نظرِ واقعیِ خودش را کنار می‌گذارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Boodschappen doen is toch niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ اصلی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "disagreement_conversation",
+    "life_context": "social",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Vriend zegt op felle toon: «Ik snap gewoon niet hoe je dat kunt denken!»  Jij wilt kalm blijven. Welke reactie de-escaleert het beste?",
+    "question_text_fa": "کدام واکنش بهترین راه برای آرام کردنِ فضاست؟",
+    "explanation_fa": "بهترین راه، آرام ماندن و پیشنهادِ گوش‌دادنِ متقابل به دلایلِ یکدیگر است.",
+    "grammar_rule_fa": "پیشنهادِ آرام‌سازی: «Laten we rustig naar elkaars argumenten luisteren.»",
+    "extra_example_nl": "Laten we rustig blijven en naar elkaars argumenten luisteren.",
+    "extra_example_fa": "بیا آرام بمانیم و به دلایل یکدیگر گوش کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik loop nu gewoon weg, zonder iets te zeggen.",
+        "is_correct": false,
+        "feedback_fa": "گفتگو را حل‌نشده رها می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Laten we rustig blijven en naar elkaars argumenten luisteren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بهترین راه برای کاهشِ تنش."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij snapt duidelijk helemaal niets.",
+        "is_correct": false,
+        "feedback_fa": "تنش را بیشتر می‌کند به‌جای کاهش."
+      },
+      {
+        "key": "D",
+        "text_nl": "Prima, jij hebt gelijk, ik zeg niets meer.",
+        "is_correct": false,
+        "feedback_fa": "نظرِ واقعیِ خودش را کاملاً کنار می‌گذارد."
+      }
+    ]
+  }
+]

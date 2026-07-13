@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Sinds wanneer heeft u deze pijn in uw buik?»  Patiënt: «___»  Welk antwoord geeft de huisarts de meest bruikbare informatie?",
+    "question_text_fa": "کدام پاسخ اطلاعاتِ مفیدتری به پزشک می‌دهد؟",
+    "explanation_fa": "بهترین پاسخ، مشخص‌کردنِ دقیقِ زمانِ شروعِ درد است.",
+    "grammar_rule_fa": "پاسخ به «sinds wanneer»: با مدتِ زمانِ مشخص جواب می‌دهیم.",
+    "extra_example_nl": "Sinds drie dagen heb ik last van hoofdpijn.",
+    "extra_example_fa": "از سه روز پیش سردرد دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Al ongeveer drie dagen, het wordt steeds erger.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ مدتِ زمانِ دقیق و روندِ درد را نشان می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik weet het niet, het doet gewoon pijn.",
+        "is_correct": false,
+        "feedback_fa": "اطلاعاتِ کافی برای تشخیص نمی‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb vandaag ontbeten.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ پزشک است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn buurman heeft ook buikpijn.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به وضعیتِ خودِ بیمار است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Patiënt belt de huisartsenpraktijk: «Ik heb hoge koorts en ben erg duizelig, kan ik vandaag nog terecht?»  Assistente: «Dat klinkt dringend, ik plan u in bij het spreekuur van vanmiddag.»  Wat is een gepaste reactie van de patiënt?",
+    "question_text_fa": "کدام واکنش بیمار مناسب است؟",
+    "explanation_fa": "بهترین واکنش، تشکر و پرسیدنِ زمانِ دقیق است.",
+    "grammar_rule_fa": "پرسیدنِ زمانِ دقیق: «Hoe laat moet ik er zijn?»",
+    "extra_example_nl": "Dank u wel, hoe laat moet ik er precies zijn?",
+    "extra_example_fa": "ممنون، دقیقاً چه ساعتی باید آنجا باشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik bel wel een ander ziekenhuis.",
+        "is_correct": false,
+        "feedback_fa": "غیرمنطقی است؛ او همین الان کمک دریافت کرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dank u wel, hoe laat moet ik er precies zijn?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تشکر و درخواستِ اطلاعاتِ عملی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, ik kom liever morgen pas.",
+        "is_correct": false,
+        "feedback_fa": "با فوریتِ حالِ خودش («hoge koorts, duizelig») در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is niet belangrijk, laat maar.",
+        "is_correct": false,
+        "feedback_fa": "با اضطرارِ اولیه‌ی تماس در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Het lijkt op een ontsteking van de bijholtes, ik schrijf een neusspray voor.»  Patiënt: «___»  Welke reactie past het beste bij het willen begrijpen van de diagnose?",
+    "question_text_fa": "کدام واکنش برای فهمیدنِ بهترِ تشخیص مناسب است؟",
+    "explanation_fa": "بهترین واکنش، پرسیدنِ توضیحِ بیشتر درباره‌ی تشخیص است.",
+    "grammar_rule_fa": "درخواستِ توضیح: «Kunt u uitleggen wat dat precies inhoudt?»",
+    "extra_example_nl": "Kunt u uitleggen wat een ontsteking van de bijholtes precies inhoudt?",
+    "extra_example_fa": "می‌شود توضیح دهید التهاب سینوس‌ها دقیقاً یعنی چه؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga liever naar een andere dokter.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به درخواستِ فهمیدنِ تشخیص است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Neussprays vind ik niet lekker ruiken.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ پزشکی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u uitleggen wat dat precies inhoudt?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ درخواستِ روشن برای فهمِ بهترِ تشخیص."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat interesseert me niet.",
+        "is_correct": false,
+        "feedback_fa": "بی‌علاقگی نشان می‌دهد، درحالی‌که فهمیدنِ تشخیص مهم است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Apotheker: «Neemt u deze pillen tweemaal per dag in, altijd met wat eten erbij.»  Patiënt: «___»  Welke vraag laat zien dat de patiënt de instructie goed wil begrijpen?",
+    "question_text_fa": "کدام سؤال نشان می‌دهد بیمار می‌خواهد دستورالعمل را درست بفهمد؟",
+    "explanation_fa": "پرسیدنِ عاقبتِ نخوردنِ همراه با غذا، نشانِ فهمِ دقیقِ دستورالعمل است.",
+    "grammar_rule_fa": "پرسیدنِ پیامد: «Wat gebeurt er als …?»",
+    "extra_example_nl": "Wat gebeurt er als ik de pil zonder eten inneem?",
+    "extra_example_fa": "اگر قرص را بدون غذا بخورم چه اتفاقی می‌افتد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik hou niet van pillen.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به فهمِ دستورالعمل است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar kan ik hier parkeren?",
+        "is_correct": false,
+        "feedback_fa": "کاملاً بی‌ربط به موضوعِ دارو است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem ze wanneer ik zin heb.",
+        "is_correct": false,
+        "feedback_fa": "نادیده‌گرفتنِ دستورالعملِ روشنِ داروخانه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat gebeurt er als ik ze zonder eten inneem?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ منطقی برای فهمِ بهترِ دستورالعمل."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Ik ga u doorverwijzen naar een specialist in het ziekenhuis voor verder onderzoek.»  Patiënt: «___»  Wat is een logische vervolgvraag?",
+    "question_text_fa": "کدام سؤالِ بعدی منطقی است؟",
+    "explanation_fa": "پرسیدنِ زمانِ تقریبیِ نوبت با متخصص، سؤالِ عملی و منطقی است.",
+    "grammar_rule_fa": "سؤالِ زمان‌بندی: «Hoelang duurt het ongeveer voordat …?»",
+    "extra_example_nl": "Hoelang duurt het ongeveer voordat ik een afspraak krijg?",
+    "extra_example_fa": "تقریباً چقدر طول می‌کشد تا نوبت بگیرم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoelang duurt het ongeveer voordat ik een afspraak krijg?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ادامه‌ی منطقیِ گفتگو درباره‌ی ارجاع."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil niet naar het ziekenhuis.",
+        "is_correct": false,
+        "feedback_fa": "بدون دلیل، درخواستِ منطقیِ پزشک را رد می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat is uw lievelingskleur?",
+        "is_correct": false,
+        "feedback_fa": "کاملاً بی‌ربط به موضوعِ پزشکی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik voel me prima, stuur me nergens heen.",
+        "is_correct": false,
+        "feedback_fa": "با شکایتِ اولیه‌ای که او خودش مطرح کرده بود در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Kunt u de pijn beschrijven? Is het een stekende of een dove pijn?»  Wat is het doel van deze vraag?",
+    "question_text_fa": "هدفِ این سؤالِ پزشک چیست؟",
+    "explanation_fa": "پزشک می‌خواهد نوعِ دقیقِ درد را بفهمد تا تشخیصِ بهتری بدهد.",
+    "grammar_rule_fa": "توصیفِ درد: «stekend» = تیز و ناگهانی، «doof» = مبهم و کند.",
+    "extra_example_nl": "Het is meer een dove pijn, geen stekende.",
+    "extra_example_fa": "بیشتر یک درد مبهم است، نه تیز.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om te controleren of de patiënt goed Nederlands spreekt.",
+        "is_correct": false,
+        "feedback_fa": "هدفِ سؤال پزشکی است، نه زبانی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om een beter beeld van de klacht te krijgen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توصیفِ دقیق به تشخیصِ بهتر کمک می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om te weten of de patiënt gevoelig is voor pijn.",
+        "is_correct": false,
+        "feedback_fa": "این هدفِ اصلیِ سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om een gesprek te beginnen over iets anders.",
+        "is_correct": false,
+        "feedback_fa": "سؤال کاملاً پزشکی و مرتبط با تشخیص است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Bent u ergens allergisch voor, bijvoorbeeld voor bepaalde medicijnen?»  Patiënt: «___»  Welk antwoord is het meest bruikbaar voor de arts?",
+    "question_text_fa": "کدام پاسخ برای پزشک مفیدتر است؟",
+    "explanation_fa": "بهترین پاسخ، ذکرِ دقیقِ نوعِ دارو و واکنشِ آلرژیک است.",
+    "grammar_rule_fa": "توصیفِ آلرژی: «Ik ben allergisch voor …, ik krijg dan …»",
+    "extra_example_nl": "Ik ben allergisch voor penicilline, ik krijg dan uitslag.",
+    "extra_example_fa": "به پنی‌سیلین حساسیت دارم، دچار جوش می‌شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik hou niet van groenten.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ آلرژیِ دارویی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn zus is allergisch voor katten.",
+        "is_correct": false,
+        "feedback_fa": "درباره‌ی خودِ بیمار نیست، بلکه خواهرش است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, voor penicilline, dan krijg ik uitslag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اطلاعاتِ دقیق و مفید برای پزشک."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik weet het echt niet, misschien wel.",
+        "is_correct": false,
+        "feedback_fa": "اطلاعاتِ کافی برای تصمیم‌گیریِ پزشک نمی‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Uw bloedonderzoek laat zien dat uw ijzergehalte laag is, dat verklaart waarschijnlijk uw vermoeidheid.»  Patiënt: «___»  Wat is een logische vervolgvraag?",
+    "question_text_fa": "کدام سؤالِ بعدی منطقی است؟",
+    "explanation_fa": "پرسیدنِ راهِ درمانِ کمبود آهن، ادامه‌ی منطقیِ گفتگو است.",
+    "grammar_rule_fa": "پرسیدنِ راه‌حل: «Wat kan ik daaraan doen?»",
+    "extra_example_nl": "Wat kan ik daaraan doen, moet ik supplementen nemen?",
+    "extra_example_fa": "برای این چه کار می‌توانم بکنم، باید مکمل بخورم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik voel me eigenlijk helemaal niet moe.",
+        "is_correct": false,
+        "feedback_fa": "با شکایتِ اولیه‌ای که خودش مطرح کرده بود در تضاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "IJzer vind ik een mooi metaal.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط و نامناسب برای این موقعیتِ پزشکی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil het bloedonderzoek niet geloven.",
+        "is_correct": false,
+        "feedback_fa": "بدون دلیل، نتیجه‌ی آزمایشِ پزشکی را رد می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wat kan ik daaraan doen, moet ik supplementen nemen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ عملی و مرتبط با نتیجه‌ی آزمایش."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Het zou goed zijn als u wat meer beweegt en minder zout eet, dat helpt bij uw bloeddruk.»  Patiënt: «___»  Welke reactie toont oprechte betrokkenheid?",
+    "question_text_fa": "کدام واکنش نشان‌دهنده‌ی توجهِ واقعی است؟",
+    "explanation_fa": "بهترین واکنش، پرسیدنِ راهکارهای عملی برای تغییرِ سبکِ زندگی است.",
+    "grammar_rule_fa": "درخواستِ راهنماییِ عملی: «Heeft u tips voor …?»",
+    "extra_example_nl": "Heeft u tips voor hoe ik dat het beste kan aanpakken?",
+    "extra_example_fa": "برای اینکه بهتر این کار را انجام دهم، پیشنهادی دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u tips voor hoe ik dat het beste kan aanpakken?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توجهِ واقعی به توصیه‌ی پزشک."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zout eten vind ik gewoon te lekker om te stoppen.",
+        "is_correct": false,
+        "feedback_fa": "توصیه‌ی پزشک را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bewegen is toch niet zo belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "با توصیه‌ی مستقیمِ پزشک در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb hier geen tijd voor.",
+        "is_correct": false,
+        "feedback_fa": "توصیه‌ی سلامتی را بدون توجیه رد می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Patiënt: «Ik ben niet helemaal gerust op deze diagnose, zou ik een tweede mening kunnen krijgen?»  Huisarts: «Natuurlijk, dat is uw goed recht, ik verwijs u graag door.»  Wat laat de vraag van de patiënt zien?",
+    "question_text_fa": "سؤالِ بیمار چه چیزی را نشان می‌دهد؟",
+    "explanation_fa": "بیمار به‌طور مودبانه درباره‌ی گرفتنِ نظرِ دومِ پزشکی سؤال می‌کند.",
+    "grammar_rule_fa": "درخواستِ مودبانه‌ی نظرِ دوم: «Zou ik een tweede mening kunnen krijgen?»",
+    "extra_example_nl": "Zou ik hierover een tweede mening kunnen krijgen?",
+    "extra_example_fa": "می‌شود درباره‌ی این نظرِ پزشکِ دیگری را هم بشنوم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een weigering om medicijnen te nemen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در متن نیامده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een beleefd verzoek om een second opinion.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین درخواست را نشان می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Boosheid op de huisarts.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او مودبانه است، نه عصبانی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een klacht over de wachttijd.",
+        "is_correct": false,
+        "feedback_fa": "موضوع درباره‌ی زمانِ انتظار نیست."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Patiënt: «Kan ik geen antibiotica krijgen voor mijn verkoudheid?»  Huisarts: «Nee, want een verkoudheid komt door een virus, en antibiotica werken alleen tegen bacteriën.»  Waarom krijgt de patiënt geen antibiotica?",
+    "question_text_fa": "چرا بیمار آنتی‌بیوتیک دریافت نمی‌کند؟",
+    "explanation_fa": "چون سرماخوردگی ویروسی است و آنتی‌بیوتیک فقط روی باکتری‌ها اثر دارد.",
+    "grammar_rule_fa": "«want» دلیلِ پزشکی را توضیح می‌دهد.",
+    "extra_example_nl": "Antibiotica helpen niet tegen een griepvirus.",
+    "extra_example_fa": "آنتی‌بیوتیک روی ویروسِ آنفولانزا اثر ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Omdat de patiënt niet ziek genoeg is.",
+        "is_correct": false,
+        "feedback_fa": "دلیلِ پزشک درباره‌ی نوعِ عامل بیماری‌زا (ویروس) است، نه شدتِ بیماری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Omdat de apotheek gesloten is.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به دلیلِ پزشکیِ گفته‌شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat een verkoudheid door een virus komt, niet door bacteriën.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً دلیلِ گفته‌شده توسط پزشک."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat antibiotica te duur zijn.",
+        "is_correct": false,
+        "feedback_fa": "چنین دلیلی در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Nu u diabetes heeft, is het belangrijk om regelmatig uw bloedsuiker te controleren.»  Patiënt: «___»  Welke vraag hoort bij goed omgaan met een chronische ziekte?",
+    "question_text_fa": "کدام سؤال برای مدیریتِ خوبِ یک بیماریِ مزمن مناسب است؟",
+    "explanation_fa": "پرسیدنِ فراوانیِ دقیقِ اندازه‌گیریِ قندِ خون، سؤالِ عملی و مرتبط است.",
+    "grammar_rule_fa": "سؤالِ فراوانی: «Hoe vaak moet ik dat controleren?»",
+    "extra_example_nl": "Hoe vaak moet ik mijn bloedsuiker precies controleren?",
+    "extra_example_fa": "دقیقاً هر چند وقت باید قندِ خونم را چک کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Diabetes klinkt niet zo erg.",
+        "is_correct": false,
+        "feedback_fa": "جدیتِ بیماری را دست‌کم می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ga liever geen controles doen.",
+        "is_correct": false,
+        "feedback_fa": "توصیه‌ی مهمِ پزشکی را رد می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Suiker in eten vind ik lekker.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط و نامناسب برای این موقعیتِ پزشکی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe vaak moet ik dat precies controleren?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ عملی برای مدیریتِ بیماریِ مزمن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Fysiotherapeut: «Doe deze oefening drie keer per dag, tien herhalingen per keer.»  Patiënt: «___»  Welke reactie laat zien dat de patiënt de instructie goed volgt?",
+    "question_text_fa": "کدام واکنش نشان می‌دهد بیمار دستورالعمل را درست دنبال می‌کند؟",
+    "explanation_fa": "بازگویی دستورالعمل برای تأیید فهمیدن، بهترین نشانه‌ی رعایتِ آن است.",
+    "grammar_rule_fa": "بازگوییِ تأییدی: «Dus drie keer per dag, tien keer?»",
+    "extra_example_nl": "Dus drie keer per dag, tien herhalingen per keer, klopt dat?",
+    "extra_example_fa": "پس سه بار در روز، هر بار ده تکرار، درسته؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dus drie keer per dag, tien herhalingen per keer, klopt dat?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بازگوییِ دقیق برای تأییدِ فهمیدن."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik doe het wel als ik eraan denk.",
+        "is_correct": false,
+        "feedback_fa": "نشانِ رعایتِ دقیقِ دستورالعمل نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Oefeningen vind ik saai.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به تأییدِ فهمیدنِ دستورالعمل است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik doe liever twintig keer per dag.",
+        "is_correct": false,
+        "feedback_fa": "از دستورالعملِ دقیقِ فیزیوتراپیست منحرف می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Tandarts: «Deze kies moet getrokken worden, hij is niet meer te redden.»  Patiënt: «___»  Welke vraag toont dat de patiënt de gevolgen wil begrijpen?",
+    "question_text_fa": "کدام سؤال نشان می‌دهد بیمار می‌خواهد پیامدها را بفهمد؟",
+    "explanation_fa": "پرسیدنِ مراقبتِ بعد از کشیدنِ دندان، سؤالِ منطقی و عملی است.",
+    "grammar_rule_fa": "سؤالِ مراقبتِ بعدی: «Waar moet ik na de behandeling op letten?»",
+    "extra_example_nl": "Waar moet ik na het trekken van de kies op letten?",
+    "extra_example_fa": "بعد از کشیدنِ دندان به چه چیزی باید توجه کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil liever over iets anders praten.",
+        "is_correct": false,
+        "feedback_fa": "از موضوعِ مهمِ درمان فرار می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar moet ik na de behandeling op letten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نشانِ توجهِ عملی به مراحلِ بعدی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga liever nooit meer naar de tandarts.",
+        "is_correct": false,
+        "feedback_fa": "غیرمنطقی و مضر برای سلامتیِ دندان است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kiezen vind ik toch niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "با اهمیتِ موقعیتِ پزشکی در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «U zegt dat u al een tijdje moe bent, kunt u dat wat preciezer omschrijven? Weken, maanden?»  Wat probeert de huisarts hier te doen?",
+    "question_text_fa": "پزشک در اینجا به دنبال چه چیزی است؟",
+    "explanation_fa": "پزشک سعی می‌کند شکایتِ مبهمِ بیمار را دقیق‌تر و قابلِ ارزیابی کند.",
+    "grammar_rule_fa": "درخواستِ دقت: «Kunt u dat wat preciezer omschrijven?»",
+    "extra_example_nl": "Kunt u dat wat preciezer omschrijven, hoe vaak gebeurt het?",
+    "extra_example_fa": "می‌شود دقیق‌تر توضیح دهید، چند وقت به چند وقت اتفاق می‌افتد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het gesprek sneller beëindigen.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او سؤالِ بیشتری می‌پرسد، نه اینکه گفتگو را کوتاه کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Twijfelen aan het verhaal van de patiënt.",
+        "is_correct": false,
+        "feedback_fa": "او فقط دقتِ بیشتری می‌خواهد، نه شک به صداقتِ بیمار."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een vage klacht duidelijker en meetbaarder maken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین هدف را دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De patiënt testen op zijn Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "هدفِ سؤال پزشکی است، نه زبانی."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Patiënt: «Ik voel me de laatste tijd steeds gestrest en kan slecht slapen.»  Huisarts: «Dat kan met stress te maken hebben, zullen we samen kijken of een gesprek met een psycholoog kan helpen?»  Wat stelt de huisarts voor?",
+    "question_text_fa": "پزشک چه پیشنهادی می‌دهد؟",
+    "explanation_fa": "پزشک پیشنهاد می‌دهد بررسی کنند که آیا مشاوره با روان‌شناس کمک‌کننده است.",
+    "grammar_rule_fa": "پیشنهادِ ملایم: «zullen we samen kijken of …?»",
+    "extra_example_nl": "Zullen we samen kijken of extra rust helpt?",
+    "extra_example_fa": "بیا با هم ببینیم آیا استراحتِ بیشتر کمک می‌کند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Meteen medicijnen voorschrijven zonder gesprek.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد؛ او فقط گفتگو با روان‌شناس را پیشنهاد می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "De patiënt naar huis sturen zonder advies.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او یک راه‌حلِ مشخص پیشنهاد می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "De patiënt bekritiseren om zijn klacht.",
+        "is_correct": false,
+        "feedback_fa": "لحنِ او همدلانه است، نه انتقادی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Een mogelijke verwijzing naar een psycholoog overwegen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین پیشنهاد را می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Patiënt aan de balie: «Mijn recept is bijna op, kan ik het laten verlengen zonder een nieuwe afspraak?»  Assistente: «Dat kan meestal wel, ik overleg even met de huisarts.»  Wat is een gepaste reactie van de patiënt?",
+    "question_text_fa": "کدام واکنش بیمار مناسب است؟",
+    "explanation_fa": "بهترین واکنش، تشکر و صبرِ مودبانه برای پاسخِ کارمند است.",
+    "grammar_rule_fa": "صبرِ مودبانه: «Prima, ik wacht wel even.»",
+    "extra_example_nl": "Prima, ik wacht wel even op uw antwoord.",
+    "extra_example_fa": "باشه، منتظرِ جوابتان می‌مانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Prima, ik wacht wel even, dank u.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صبرِ مودبانه و تشکر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat duurt te lang, ik ga naar een andere apotheek.",
+        "is_correct": false,
+        "feedback_fa": "واکنشِ بی‌صبرانه است، درحالی‌که کارمند در حالِ کمک‌رسانی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb geen recept nodig.",
+        "is_correct": false,
+        "feedback_fa": "با درخواستِ اولیه‌ی خودش در تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Overleggen is niet nodig, geef het gewoon.",
+        "is_correct": false,
+        "feedback_fa": "بی‌احترامی به روندِ کاریِ کارمند است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Voor deze reis naar het buitenland heeft u een aantal vaccinaties nodig.»  Patiënt: «___»  Welke vraag is het meest logisch?",
+    "question_text_fa": "کدام سؤال منطقی‌تر است؟",
+    "explanation_fa": "پرسیدنِ اینکه دقیقاً کدام واکسن‌ها لازم است، سؤالِ منطقی است.",
+    "grammar_rule_fa": "سؤالِ مشخص: «Welke vaccinaties precies?»",
+    "extra_example_nl": "Welke vaccinaties heb ik precies nodig voor deze reis?",
+    "extra_example_fa": "دقیقاً به کدام واکسن‌ها برای این سفر نیاز دارم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Waar kan ik goedkope vliegtickets vinden?",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ پزشکیِ گفتگو است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Welke vaccinaties heb ik precies nodig?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سؤالِ عملی و مستقیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga toch niet meer op reis.",
+        "is_correct": false,
+        "feedback_fa": "بی‌منطق است؛ او خودش سفر را مطرح کرده بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vaccinaties zijn toch niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "با توصیه‌ی مستقیمِ پزشک در تضاد است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «U heeft een lichte vorm van artrose.»  Patiënt: «Sorry, wat betekent dat precies? Ik ken dat woord niet.»  Wat vraagt de patiënt hier?",
+    "question_text_fa": "بیمار در اینجا چه چیزی می‌پرسد؟",
+    "explanation_fa": "بیمار به‌صورت مودبانه معنیِ یک اصطلاحِ پزشکیِ ناآشنا را می‌پرسد.",
+    "grammar_rule_fa": "پرسیدنِ معنیِ کلمه: «Wat betekent dat precies?»",
+    "extra_example_nl": "Sorry, wat betekent «ontsteking» precies?",
+    "extra_example_fa": "ببخشید، «التهاب» دقیقاً یعنی چه؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoe laat de volgende afspraak is.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ او درباره‌ی معنیِ کلمه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Of hij naar huis mag gaan.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ او درباره‌ی معنیِ اصطلاح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De betekenis van een onbekende medische term.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین سؤال را می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Of hij wel echt ziek is.",
+        "is_correct": false,
+        "feedback_fa": "موضوعِ سؤال معنیِ کلمه است، نه صحتِ تشخیص."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Patiënt belt 's avonds laat: «Mijn kind heeft heel hoge koorts en is suf, wat moet ik doen?»  Doktersassistente: «Dat klinkt als spoed, ik verbind u door met de huisartsenpost.»  Waarom wordt de patiënt doorverbonden?",
+    "question_text_fa": "چرا تماس به مرکز اورژانس منتقل می‌شود؟",
+    "explanation_fa": "چون علائم (تبِ بالا و بی‌حالی) فوری به نظر می‌رسد و باید سریع رسیدگی شود.",
+    "grammar_rule_fa": "«dat klinkt als spoed» یعنی این وضعیت فوری به‌نظر می‌رسد.",
+    "extra_example_nl": "Bij zulke symptomen klinkt het als spoed, bel meteen.",
+    "extra_example_fa": "با چنین علائمی، فوری به نظر می‌رسد، همین الان زنگ بزن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Omdat de huisartsenpraktijk gesloten is voor altijd.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی گفته نشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Omdat het kind niet ziek genoeg is voor de huisarts.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ علائم جدی به نظر می‌رسند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat de assistente het te druk heeft.",
+        "is_correct": false,
+        "feedback_fa": "دلیلِ گفته‌شده مربوط به فوریتِ پزشکی است، نه شلوغی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat de symptomen op een spoedgeval wijzen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین دلیل در متن آمده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Chirurg tijdens de controle: «De wond geneest goed, over twee weken mag u weer sporten.»  Patiënt: «___»  Welke reactie past het beste?",
+    "question_text_fa": "کدام واکنش بهترین است؟",
+    "explanation_fa": "بهترین واکنش، تشکر و پرسیدنِ نوعِ ورزشِ مجاز است.",
+    "grammar_rule_fa": "سؤالِ دقیق‌تر: «Mag ik dan alles doen, of moet ik rustig beginnen?»",
+    "extra_example_nl": "Mag ik dan meteen alles doen, of moet ik rustig opbouwen?",
+    "extra_example_fa": "آیا می‌توانم همه چیز را انجام دهم یا باید آرام شروع کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Fijn om te horen, mag ik dan meteen alles doen, of moet ik rustig opbouwen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خوشحالی همراه با سؤالِ عملی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik sport toch nooit.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ ارزیابیِ بهبودی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Twee weken is veel te lang, ik begin morgen al.",
+        "is_correct": false,
+        "feedback_fa": "توصیه‌ی مستقیمِ پزشک را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "De wond ziet er toch niet goed uit.",
+        "is_correct": false,
+        "feedback_fa": "با اطمینانِ پزشک در تضاد است بدون دلیلِ روشن."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Komt deze aandoening ook voor bij andere familieleden, zoals uw ouders?»  Wat wil de huisarts hiermee te weten komen?",
+    "question_text_fa": "پزشک با این سؤال می‌خواهد چه چیزی بفهمد؟",
+    "explanation_fa": "پزشک می‌خواهد بداند آیا این بیماری در خانواده ارثی یا شایع است.",
+    "grammar_rule_fa": "سابقه‌ی خانوادگی: «komt dit voor bij familieleden?»",
+    "extra_example_nl": "Komt diabetes voor bij uw ouders of grootouders?",
+    "extra_example_fa": "دیابت در والدین یا پدربزرگ و مادربزرگتان وجود داشته است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Of de ouders ook bij deze huisarts staan ingeschreven.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به هدفِ پزشکیِ سؤال است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Of de aandoening mogelijk erfelijk is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ هدفِ اصلیِ این نوع سؤال، بررسیِ ارثی‌بودن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoe vaak de patiënt zijn ouders ziet.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به هدفِ پزشکیِ سؤال است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Of de familie ver weg woont.",
+        "is_correct": false,
+        "feedback_fa": "چنین موضوعی مطرح نشده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Verloskundige: «Alles ziet er goed uit, de baby groeit precies zoals verwacht.»  Zwangere vrouw: «___»  Welke reactie is het meest natuurlijk?",
+    "question_text_fa": "کدام واکنش طبیعی‌ترین است؟",
+    "explanation_fa": "ابرازِ خوشحالی و پرسیدنِ نوبتِ بعدی، واکنشِ طبیعی است.",
+    "grammar_rule_fa": "ابرازِ رضایت: «Wat fijn om te horen!»",
+    "extra_example_nl": "Wat fijn om te horen! Wanneer is de volgende controle?",
+    "extra_example_fa": "چقدر خوشحال‌کننده! نوبتِ بعدی کی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Groeien is toch niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "با اهمیتِ موضوع در تضاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil geen controles meer.",
+        "is_correct": false,
+        "feedback_fa": "غیرمنطقی است در بارداری؛ کنترل‌های منظم مهم‌اند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat fijn om te horen! Wanneer is de volgende controle?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ طبیعی، خوشحال و عملی."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik geloof u niet.",
+        "is_correct": false,
+        "feedback_fa": "بی‌اعتمادیِ غیرضروری در برابر خبرِ خوب است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Patiënt: «Sinds ik deze pillen slik, voel ik me misselijk en duizelig.»  Huisarts: «Dat kan een bijwerking zijn, laten we een andere dosering proberen.»  Wat doet de huisarts als reactie op de klacht?",
+    "question_text_fa": "پزشک در واکنش به این شکایت چه کار می‌کند؟",
+    "explanation_fa": "پزشک عوارضِ احتمالیِ دارو را می‌پذیرد و پیشنهادِ تغییرِ دوز را می‌دهد.",
+    "grammar_rule_fa": "پیشنهادِ تغییر: «Laten we … proberen.»",
+    "extra_example_nl": "Laten we een lagere dosering proberen.",
+    "extra_example_fa": "بیا دوز کمتری را امتحان کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij negeert de klacht van de patiënt.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او شکایت را جدی می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij stuurt de patiënt meteen naar het ziekenhuis.",
+        "is_correct": false,
+        "feedback_fa": "چنین اقدامی در متن نیامده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij zegt dat de patiënt moet stoppen met alle medicijnen.",
+        "is_correct": false,
+        "feedback_fa": "او پیشنهادِ تغییرِ دوز می‌دهد، نه توقفِ کاملِ دارو."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij past de behandeling aan op basis van de bijwerking.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین کار را می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts: «Ik schrijf u een week ziekteverlof voor, u moet echt rust nemen.»  Patiënt: «Moet ik dit zelf doorgeven aan mijn werkgever, of doet u dat?»  Wat wil de patiënt weten?",
+    "question_text_fa": "بیمار می‌خواهد چه چیزی بداند؟",
+    "explanation_fa": "او می‌خواهد بداند مسئولیتِ اطلاع‌رسانی به کارفرما با چه کسی است.",
+    "grammar_rule_fa": "سؤالِ مسئولیت: «Moet ik dit zelf doen, of doet u dat?»",
+    "extra_example_nl": "Moet ik dit zelf regelen, of regelt de praktijk dat?",
+    "extra_example_fa": "باید خودم این کار را انجام دهم یا مطب انجام می‌دهد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wie de werkgever informeert over het ziekteverlof.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین را می‌پرسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel de huisarts verdient.",
+        "is_correct": false,
+        "feedback_fa": "کاملاً بی‌ربط به سؤالِ اصلی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Of hij zijn baan gaat verliezen.",
+        "is_correct": false,
+        "feedback_fa": "چنین چیزی در سؤال نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoe laat de praktijk sluit.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به موضوعِ مرخصیِ استعلاجی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Specialist: «Voordat we de operatie plannen, moet ik u eerst alle risico's uitleggen.»  Patiënt: «___»  Welke reactie toont dat de patiënt goed geïnformeerd wil worden?",
+    "question_text_fa": "کدام واکنش نشان می‌دهد بیمار می‌خواهد کاملاً مطلع شود؟",
+    "explanation_fa": "درخواستِ توضیحِ کامل، نشانِ تمایل به دریافتِ اطلاعاتِ کافی قبل از تصمیم‌گیری است.",
+    "grammar_rule_fa": "درخواستِ اطلاعات: «Ja, graag, ik wil alles goed begrijpen.»",
+    "extra_example_nl": "Ja, graag, ik wil alle risico's goed begrijpen voordat ik beslis.",
+    "extra_example_fa": "بله، لطفاً، می‌خواهم قبل از تصمیم‌گیری همه‌ی ریسک‌ها را خوب بفهمم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb hier geen tijd voor vandaag.",
+        "is_correct": false,
+        "feedback_fa": "توضیحِ مهمِ پزشکی را کنار می‌گذارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, graag, ik wil alles goed begrijpen voordat ik beslis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تمایل به اطلاعاتِ کاملِ قبل از تصمیم."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is niet nodig, doe maar gewoon de operatie.",
+        "is_correct": false,
+        "feedback_fa": "از دریافتِ اطلاعاتِ مهم قبل از رضایتِ آگاهانه صرف‌نظر می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Risico's interesseren me niet.",
+        "is_correct": false,
+        "feedback_fa": "بی‌احتیاطی نشان می‌دهد در یک موقعیتِ پزشکیِ مهم."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Patiënt: «Wordt deze behandeling vergoed door mijn zorgverzekering?»  Assistente: «Dat hangt af van uw polis, ik raad u aan dit na te vragen bij uw verzekeraar.»  Wat raadt de assistente aan?",
+    "question_text_fa": "کارمند چه توصیه‌ای می‌کند؟",
+    "explanation_fa": "توصیه می‌کند مستقیماً از شرکتِ بیمه درباره‌ی پوششِ بیمه‌ای سؤال کند.",
+    "grammar_rule_fa": "توصیه با «ik raad u aan om …»",
+    "extra_example_nl": "Ik raad u aan dit telefonisch na te vragen.",
+    "extra_example_fa": "توصیه می‌کنم این را تلفنی پیگیری کنید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De behandeling helemaal niet te doen.",
+        "is_correct": false,
+        "feedback_fa": "موضوع درباره‌ی هزینه است، نه لغوِ درمان."
+      },
+      {
+        "key": "B",
+        "text_nl": "Een andere huisarts te zoeken.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ پوششِ بیمه‌ای است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Contact opnemen met de zorgverzekeraar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین توصیه را می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "De behandeling gewoon zelf volledig te betalen.",
+        "is_correct": false,
+        "feedback_fa": "چنین توصیه‌ای در متن نیامده."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts belt na een week: «Hoe gaat het nu met de pijn, is het iets minder geworden?»  Patiënt: «___»  Welk antwoord geeft de meest bruikbare update?",
+    "question_text_fa": "کدام پاسخ به‌روزرسانیِ مفیدتری می‌دهد؟",
+    "explanation_fa": "بهترین پاسخ، مقایسه‌ی وضعیتِ فعلی با هفته‌ی قبل است.",
+    "grammar_rule_fa": "مقایسه با گذشته: «Het is iets beter dan vorige week.»",
+    "extra_example_nl": "Het is iets beter dan vorige week, maar nog niet helemaal weg.",
+    "extra_example_fa": "کمی بهتر از هفته‌ی پیش است، اما هنوز کاملاً از بین نرفته.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik weet het niet meer.",
+        "is_correct": false,
+        "feedback_fa": "اطلاعاتِ کافی برای ارزیابیِ روند نمی‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het weer is deze week erg wisselvallig.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به سؤالِ پزشک درباره‌ی درد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb de pillen niet meer.",
+        "is_correct": false,
+        "feedback_fa": "به سؤالِ مستقیمِ پزشک درباره‌ی درد پاسخ نمی‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het is iets beter dan vorige week, maar nog niet helemaal weg.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ به‌روزرسانیِ دقیق و مفید."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Patiënt: «Ik heb al weken regelmatig hoofdpijn, vooral 's middags.»  Huisarts: «Heeft u ook stress op het werk, of slaapt u voldoende?»  Waarom stelt de huisarts deze extra vraag?",
+    "question_text_fa": "چرا پزشک این سؤالِ اضافه را می‌پرسد؟",
+    "explanation_fa": "پزشک می‌خواهد بداند آیا عواملِ زندگی (استرس، خواب) باعثِ سردرد شده‌اند.",
+    "grammar_rule_fa": "بررسیِ عللِ زمینه‌ای: «Heeft u ook … ?»",
+    "extra_example_nl": "Heeft u ook last van stress thuis?",
+    "extra_example_fa": "در خانه هم استرس دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om te onderzoeken of levensstijl een rol speelt bij de klacht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً همین هدف را دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om over het werk van de patiënt te roddelen.",
+        "is_correct": false,
+        "feedback_fa": "هدف کاملاً پزشکی است، نه شخصی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Om het gesprek af te sluiten.",
+        "is_correct": false,
+        "feedback_fa": "برعکس؛ او سؤالِ بیشتری می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om te controleren of de patiënt liegt.",
+        "is_correct": false,
+        "feedback_fa": "هدفِ سؤال، بررسیِ عللِ احتمالی است، نه شک به صداقتِ بیمار."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "dialogue",
+    "topic": "healthcare_consultation",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Huisarts sluit af: «Neemt u de pillen twee weken, en maak een nieuwe afspraak als het niet beter wordt.»  Patiënt: «___»  Welke afsluitende zin toont dat de patiënt alles begrepen heeft?",
+    "question_text_fa": "کدام جمله‌ی پایانی نشان می‌دهد بیمار همه چیز را فهمیده؟",
+    "explanation_fa": "بازگوییِ دستورالعمل، بهترین نشانه‌ی فهمیدنِ کاملِ آن است.",
+    "grammar_rule_fa": "بازگوییِ نهایی: «Dus … en anders …»",
+    "extra_example_nl": "Dus twee weken de pillen nemen en anders terugkomen, begrepen.",
+    "extra_example_fa": "پس دو هفته قرص بخورم و اگر بهتر نشد برگردم، فهمیدم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kom sowieso niet meer terug.",
+        "is_correct": false,
+        "feedback_fa": "با دستورالعملِ پزشک درباره‌ی برگشتنِ احتمالی در تضاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dus twee weken de pillen nemen en anders terugkomen, begrepen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خلاصه‌ی دقیقِ دستورالعمل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik neem de pillen wel als ik eraan denk.",
+        "is_correct": false,
+        "feedback_fa": "نشانِ فهمیدنِ کاملِ دستورالعمل نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Pillen vind ik niet lekker.",
+        "is_correct": false,
+        "feedback_fa": "بی‌ربط به تأییدِ فهمیدنِ دستورالعمل است."
+      }
+    ]
+  }
+]

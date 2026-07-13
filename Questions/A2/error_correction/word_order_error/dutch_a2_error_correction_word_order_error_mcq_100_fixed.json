@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "basic_svo_order",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik brood eet.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Ik eet brood.»، فاعل اول آمده، فعل بعد از فاعل آمده و بقیه جمله بعد از فعل قرار گرفته است.",
+    "correction_rule_fa": "ترتیب پایه جمله خبری ساده در هلندی معمولاً subject + verb + rest است.",
+    "extra_example_nl": "Wij drinken water.",
+    "extra_example_fa": "ما آب می‌نوشیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik eet brood.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب جمله ساده subject + verb + rest است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik brood eet.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید بلافاصله بعد از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Brood ik eet.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده استاندارد نیست؛ جای فاعل و فعل درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Eet brood ik.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله ترتیب کلمات طبیعی هلندی رعایت نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "basic_svo_order",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij koffie drinkt.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Hij drinkt koffie.»، فاعل اول آمده، فعل بعد از فاعل آمده و بقیه جمله بعد از فعل قرار گرفته است.",
+    "correction_rule_fa": "ترتیب پایه جمله خبری ساده در هلندی معمولاً subject + verb + rest است.",
+    "extra_example_nl": "Zij leest een boek.",
+    "extra_example_fa": "او یک کتاب می‌خواند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij koffie drinkt.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید بلافاصله بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij drinkt koffie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب جمله ساده subject + verb + rest است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Koffie hij drinkt.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده استاندارد نیست؛ جای فاعل و فعل درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Drinkt koffie hij.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله ترتیب کلمات طبیعی هلندی رعایت نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "basic_svo_order",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij Nederlands leren.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Wij leren Nederlands.»، فاعل اول آمده، فعل بعد از فاعل آمده و بقیه جمله بعد از فعل قرار گرفته است.",
+    "correction_rule_fa": "ترتیب پایه جمله خبری ساده در هلندی معمولاً subject + verb + rest است.",
+    "extra_example_nl": "Ik leer nieuwe woorden.",
+    "extra_example_fa": "من کلمات جدید یاد می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij Nederlands leren.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید بلافاصله بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nederlands wij leren.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده استاندارد نیست؛ جای فاعل و فعل درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij leren Nederlands.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب جمله ساده subject + verb + rest است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Leren Nederlands wij.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله ترتیب کلمات طبیعی هلندی رعایت نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "basic_svo_order",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij melk koopt.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Zij koopt melk.»، فاعل اول آمده، فعل بعد از فاعل آمده و بقیه جمله بعد از فعل قرار گرفته است.",
+    "correction_rule_fa": "ترتیب پایه جمله خبری ساده در هلندی معمولاً subject + verb + rest است.",
+    "extra_example_nl": "Hij koopt brood.",
+    "extra_example_fa": "او نان می‌خرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij melk koopt.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید بلافاصله بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Melk zij koopt.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده استاندارد نیست؛ جای فاعل و فعل درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Koopt melk zij.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله ترتیب کلمات طبیعی هلندی رعایت نشده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij koopt melk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب جمله ساده subject + verb + rest است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "basic_svo_order",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik mijn moeder bel.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Ik bel mijn moeder.»، فاعل اول آمده، فعل بعد از فاعل آمده و بقیه جمله بعد از فعل قرار گرفته است.",
+    "correction_rule_fa": "ترتیب پایه جمله خبری ساده در هلندی معمولاً subject + verb + rest است.",
+    "extra_example_nl": "Hij belt zijn vader.",
+    "extra_example_fa": "او به پدرش زنگ می‌زند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik bel mijn moeder.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب جمله ساده subject + verb + rest است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik mijn moeder bel.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید بلافاصله بعد از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn moeder ik bel.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده استاندارد نیست؛ جای فاعل و فعل درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bel mijn moeder ik.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله ترتیب کلمات طبیعی هلندی رعایت نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "basic_svo_order",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De man de mail leest.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «De man leest de mail.»، فاعل اول آمده، فعل بعد از فاعل آمده و بقیه جمله بعد از فعل قرار گرفته است.",
+    "correction_rule_fa": "ترتیب پایه جمله خبری ساده در هلندی معمولاً subject + verb + rest است.",
+    "extra_example_nl": "De vrouw schrijft een mail.",
+    "extra_example_fa": "زن یک ایمیل می‌نویسد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De man de mail leest.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید بلافاصله بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De man leest de mail.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب جمله ساده subject + verb + rest است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De mail de man leest.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده استاندارد نیست؛ جای فاعل و فعل درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Leest de mail de man.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله ترتیب کلمات طبیعی هلندی رعایت نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "basic_svo_order",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij de soep maken.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Wij maken de soep.»، فاعل اول آمده، فعل بعد از فاعل آمده و بقیه جمله بعد از فعل قرار گرفته است.",
+    "correction_rule_fa": "ترتیب پایه جمله خبری ساده در هلندی معمولاً subject + verb + rest است.",
+    "extra_example_nl": "Ik maak ontbijt.",
+    "extra_example_fa": "من صبحانه درست می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij de soep maken.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید بلافاصله بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De soep wij maken.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده استاندارد نیست؛ جای فاعل و فعل درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij maken de soep.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب جمله ساده subject + verb + rest است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Maken de soep wij.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله ترتیب کلمات طبیعی هلندی رعایت نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "basic_svo_order",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij de bus neemt.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Hij neemt de bus.»، فاعل اول آمده، فعل بعد از فاعل آمده و بقیه جمله بعد از فعل قرار گرفته است.",
+    "correction_rule_fa": "ترتیب پایه جمله خبری ساده در هلندی معمولاً subject + verb + rest است.",
+    "extra_example_nl": "Wij nemen de trein.",
+    "extra_example_fa": "ما قطار را می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij de bus neemt.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید بلافاصله بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus hij neemt.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده استاندارد نیست؛ جای فاعل و فعل درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Neemt de bus hij.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله ترتیب کلمات طبیعی هلندی رعایت نشده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij neemt de bus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب جمله ساده subject + verb + rest است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "basic_svo_order",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij een afspraak maakt.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Zij maakt een afspraak.»، فاعل اول آمده، فعل بعد از فاعل آمده و بقیه جمله بعد از فعل قرار گرفته است.",
+    "correction_rule_fa": "ترتیب پایه جمله خبری ساده در هلندی معمولاً subject + verb + rest است.",
+    "extra_example_nl": "Ik maak een plan.",
+    "extra_example_fa": "من یک برنامه می‌سازم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij maakt een afspraak.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب جمله ساده subject + verb + rest است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij een afspraak maakt.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید بلافاصله بعد از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een afspraak zij maakt.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده استاندارد نیست؛ جای فاعل و فعل درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Maakt een afspraak zij.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله ترتیب کلمات طبیعی هلندی رعایت نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "basic_svo_order",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De kinderen voetbal spelen.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «De kinderen spelen voetbal.»، فاعل اول آمده، فعل بعد از فاعل آمده و بقیه جمله بعد از فعل قرار گرفته است.",
+    "correction_rule_fa": "ترتیب پایه جمله خبری ساده در هلندی معمولاً subject + verb + rest است.",
+    "extra_example_nl": "Wij spelen samen.",
+    "extra_example_fa": "ما با هم بازی می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen voetbal spelen.",
+        "is_correct": false,
+        "feedback_fa": "در جمله خبری ساده، فعل باید بلافاصله بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen spelen voetbal.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ترتیب جمله ساده subject + verb + rest است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voetbal de kinderen spelen.",
+        "is_correct": false,
+        "feedback_fa": "این ترتیب برای جمله خبری ساده استاندارد نیست؛ جای فاعل و فعل درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Spelen voetbal de kinderen.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله ترتیب کلمات طبیعی هلندی رعایت نشده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_time_first",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Vandaag ik werk thuis.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Vandaag werk ik thuis.»، چون جمله با زمان شروع شده، فعل صرف‌شده بلافاصله بعد از عبارت زمان آمده است.",
+    "correction_rule_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Morgen kom ik later.",
+    "extra_example_fa": "فردا من دیرتر می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vandaag ik werk thuis.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با زمان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik vandaag werk thuis.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag werk ik thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت زمان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vandaag thuis ik werk.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمان، ترتیب درست باید زمان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_time_first",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Morgen wij gaan naar school.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Morgen gaan wij naar school.»، چون جمله با زمان شروع شده، فعل صرف‌شده بلافاصله بعد از عبارت زمان آمده است.",
+    "correction_rule_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Vandaag leren wij Nederlands.",
+    "extra_example_fa": "امروز ما هلندی یاد می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Morgen wij gaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با زمان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij morgen gaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Morgen naar school wij gaan.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمان، ترتیب درست باید زمان + فعل + فاعل باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Morgen gaan wij naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت زمان، فعل صرف‌شده در جای دوم آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_time_first",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Vanavond wij eten samen.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Vanavond eten wij samen.»، چون جمله با زمان شروع شده، فعل صرف‌شده بلافاصله بعد از عبارت زمان آمده است.",
+    "correction_rule_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Morgen drinken wij koffie.",
+    "extra_example_fa": "فردا ما قهوه می‌نوشیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vanavond eten wij samen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت زمان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vanavond wij eten samen.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با زمان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij vanavond eten samen.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vanavond samen wij eten.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمان، ترتیب درست باید زمان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_time_first",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Om acht uur hij neemt de bus.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Om acht uur neemt hij de bus.»، چون جمله با زمان شروع شده، فعل صرف‌شده بلافاصله بعد از عبارت زمان آمده است.",
+    "correction_rule_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Om negen uur begint de les.",
+    "extra_example_fa": "ساعت نه کلاس شروع می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Om acht uur hij neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با زمان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Om acht uur neemt hij de bus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت زمان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij om acht uur neemt de bus.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Om acht uur de bus hij neemt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمان، ترتیب درست باید زمان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_time_first",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Na het werk ik kook eten.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Na het werk kook ik eten.»، چون جمله با زمان شروع شده، فعل صرف‌شده بلافاصله بعد از عبارت زمان آمده است.",
+    "correction_rule_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Na school maak ik huiswerk.",
+    "extra_example_fa": "بعد از مدرسه تکلیف انجام می‌دهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Na het werk ik kook eten.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با زمان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik na het werk kook eten.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Na het werk kook ik eten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت زمان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Na het werk eten ik kook.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمان، ترتیب درست باید زمان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_time_first",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Elke dag zij leest de mail.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Elke dag leest zij de mail.»، چون جمله با زمان شروع شده، فعل صرف‌شده بلافاصله بعد از عبارت زمان آمده است.",
+    "correction_rule_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Elke ochtend open ik de deur.",
+    "extra_example_fa": "هر صبح در را باز می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Elke dag zij leest de mail.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با زمان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij elke dag leest de mail.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Elke dag de mail zij leest.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمان، ترتیب درست باید زمان + فعل + فاعل باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Elke dag leest zij de mail.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت زمان، فعل صرف‌شده در جای دوم آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_time_first",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Straks wij bellen de dokter.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Straks bellen wij de dokter.»، چون جمله با زمان شروع شده، فعل صرف‌شده بلافاصله بعد از عبارت زمان آمده است.",
+    "correction_rule_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Later bel ik mijn vriend.",
+    "extra_example_fa": "بعداً به دوستم زنگ می‌زنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Straks bellen wij de dokter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت زمان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Straks wij bellen de dokter.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با زمان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij straks bellen de dokter.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Straks de dokter wij bellen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمان، ترتیب درست باید زمان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_time_first",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zaterdag zij koopt groente.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Zaterdag koopt zij groente.»، چون جمله با زمان شروع شده، فعل صرف‌شده بلافاصله بعد از عبارت زمان آمده است.",
+    "correction_rule_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Vrijdag koop ik fruit.",
+    "extra_example_fa": "جمعه میوه می‌خرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zaterdag zij koopt groente.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با زمان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zaterdag koopt zij groente.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت زمان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij zaterdag koopt groente.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zaterdag groente zij koopt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمان، ترتیب درست باید زمان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_time_first",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "In het weekend wij bezoeken oma.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «In het weekend bezoeken wij oma.»، چون جمله با زمان شروع شده، فعل صرف‌شده بلافاصله بعد از عبارت زمان آمده است.",
+    "correction_rule_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Morgen bezoeken wij opa.",
+    "extra_example_fa": "فردا به دیدن پدربزرگ می‌رویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In het weekend wij bezoeken oma.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با زمان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij in het weekend bezoeken oma.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "In het weekend bezoeken wij oma.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت زمان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "In het weekend oma wij bezoeken.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمان، ترتیب درست باید زمان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_time_first",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Vandaag de kinderen spelen buiten.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Vandaag spelen de kinderen buiten.»، چون جمله با زمان شروع شده، فعل صرف‌شده بلافاصله بعد از عبارت زمان آمده است.",
+    "correction_rule_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Morgen wachten de mensen hier.",
+    "extra_example_fa": "فردا مردم اینجا منتظر می‌مانند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vandaag de kinderen spelen buiten.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با زمان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen vandaag spelen buiten.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag buiten de kinderen spelen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت زمان، ترتیب درست باید زمان + فعل + فاعل باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vandaag spelen de kinderen buiten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت زمان، فعل صرف‌شده در جای دوم آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_place_first",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "In de winkel ik koop brood.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «In de winkel koop ik brood.»، چون جمله با مکان شروع شده، فعل صرف‌شده در جای دوم آمده است.",
+    "correction_rule_fa": "اگر جمله با مکان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Op de markt koop ik fruit.",
+    "extra_example_fa": "در بازار میوه می‌خرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In de winkel koop ik brood.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت مکان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "In de winkel ik koop brood.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با مکان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik in de winkel koop brood.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "In de winkel brood ik koop.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت مکان، ترتیب درست باید مکان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_place_first",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Op school wij leren Nederlands.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Op school leren wij Nederlands.»، چون جمله با مکان شروع شده، فعل صرف‌شده در جای دوم آمده است.",
+    "correction_rule_fa": "اگر جمله با مکان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "In de klas lezen wij een tekst.",
+    "extra_example_fa": "در کلاس ما یک متن می‌خوانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op school wij leren Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با مکان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Op school leren wij Nederlands.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت مکان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij op school leren Nederlands.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op school Nederlands wij leren.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت مکان، ترتیب درست باید مکان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_place_first",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Thuis zij drinkt thee.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Thuis drinkt zij thee.»، چون جمله با مکان شروع شده، فعل صرف‌شده در جای دوم آمده است.",
+    "correction_rule_fa": "اگر جمله با مکان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Thuis eet ik ontbijt.",
+    "extra_example_fa": "در خانه صبحانه می‌خورم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Thuis zij drinkt thee.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با مکان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij thuis drinkt thee.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Thuis drinkt zij thee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت مکان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thuis thee zij drinkt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت مکان، ترتیب درست باید مکان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_place_first",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Op kantoor hij schrijft een mail.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Op kantoor schrijft hij een mail.»، چون جمله با مکان شروع شده، فعل صرف‌شده در جای دوم آمده است.",
+    "correction_rule_fa": "اگر جمله با مکان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Op kantoor werk ik rustig.",
+    "extra_example_fa": "در دفتر آرام کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Op kantoor hij schrijft een mail.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با مکان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij op kantoor schrijft een mail.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Op kantoor een mail hij schrijft.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت مکان، ترتیب درست باید مکان + فعل + فاعل باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op kantoor schrijft hij een mail.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت مکان، فعل صرف‌شده در جای دوم آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_place_first",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Bij de bushalte wij wachten.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Bij de bushalte wachten wij.»، چون جمله با مکان شروع شده، فعل صرف‌شده در جای دوم آمده است.",
+    "correction_rule_fa": "اگر جمله با مکان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Op het station wacht ik.",
+    "extra_example_fa": "در ایستگاه منتظر می‌مانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij de bushalte wachten wij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت مکان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij de bushalte wij wachten.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با مکان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij bij de bushalte wachten.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wachten bij de bushalte wij.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت مکان، ترتیب درست باید مکان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_place_first",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "In het restaurant wij bestellen soep.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «In het restaurant bestellen wij soep.»، چون جمله با مکان شروع شده، فعل صرف‌شده در جای دوم آمده است.",
+    "correction_rule_fa": "اگر جمله با مکان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "In het café drinken wij koffie.",
+    "extra_example_fa": "در کافه قهوه می‌نوشیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In het restaurant wij bestellen soep.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با مکان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "In het restaurant bestellen wij soep.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت مکان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij in het restaurant bestellen soep.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "In het restaurant soep wij bestellen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت مکان، ترتیب درست باید مکان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_place_first",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Buiten de kinderen spelen voetbal.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Buiten spelen de kinderen voetbal.»، چون جمله با مکان شروع شده، فعل صرف‌شده در جای دوم آمده است.",
+    "correction_rule_fa": "اگر جمله با مکان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Binnen lezen wij een boek.",
+    "extra_example_fa": "داخل خانه کتاب می‌خوانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Buiten de kinderen spelen voetbal.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با مکان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen buiten spelen voetbal.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Buiten spelen de kinderen voetbal.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت مکان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Buiten voetbal de kinderen spelen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت مکان، ترتیب درست باید مکان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_place_first",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Bij oma wij eten taart.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Bij oma eten wij taart.»، چون جمله با مکان شروع شده، فعل صرف‌شده در جای دوم آمده است.",
+    "correction_rule_fa": "اگر جمله با مکان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "Bij mijn broer drink ik thee.",
+    "extra_example_fa": "پیش برادرم چای می‌نوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bij oma wij eten taart.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با مکان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij bij oma eten taart.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bij oma taart wij eten.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت مکان، ترتیب درست باید مکان + فعل + فاعل باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bij oma eten wij taart.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت مکان، فعل صرف‌شده در جای دوم آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_place_first",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "In de pauzeplek zij belt haar man.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «In de pauzeplek belt zij haar man.»، چون جمله با مکان شروع شده، فعل صرف‌شده در جای دوم آمده است.",
+    "correction_rule_fa": "اگر جمله با مکان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "In de kantine eet ik lunch.",
+    "extra_example_fa": "در غذاخوری ناهار می‌خورم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In de pauzeplek belt zij haar man.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت مکان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "In de pauzeplek zij belt haar man.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با مکان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij in de pauzeplek belt haar man.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "In de pauzeplek haar man zij belt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت مکان، ترتیب درست باید مکان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "v2_after_place_first",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "In het park wij lopen samen.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «In het park lopen wij samen.»، چون جمله با مکان شروع شده، فعل صرف‌شده در جای دوم آمده است.",
+    "correction_rule_fa": "اگر جمله با مکان شروع شود، فعل صرف‌شده باید جای دوم بیاید و بعد فاعل می‌آید.",
+    "extra_example_nl": "In de straat loopt hij langzaam.",
+    "extra_example_fa": "در خیابان او آرام راه می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In het park wij lopen samen.",
+        "is_correct": false,
+        "feedback_fa": "وقتی جمله با مکان شروع می‌شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "In het park lopen wij samen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بعد از عبارت مکان، فعل صرف‌شده در جای دوم آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij in het park lopen samen.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده در جای دوم نیامده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "In het park samen wij lopen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارت مکان، ترتیب درست باید مکان + فعل + فاعل باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "time_position_in_sentence",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik vandaag werk thuis.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Ik werk vandaag thuis.»، فعل «werk» بعد از فاعل آمده و زمان «vandaag» در جای طبیعی A2 قرار گرفته است.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Ik werk morgen thuis.",
+    "extra_example_fa": "من فردا در خانه کار می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik vandaag werk thuis.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه، قید زمان قبل از فعل صرف‌شده آمده یا فعل در جای دوم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag ik werk thuis.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با زمان شروع شود، بعد از آن باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik werk vandaag thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. قید زمان بعد از فعل صرف‌شده و قبل از بخش پایانی جمله آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thuis vandaag ik werk.",
+        "is_correct": false,
+        "feedback_fa": "در این جمله فعل صرف‌شده جای دوم نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "time_position_in_sentence",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij morgen gaan naar school.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Wij gaan morgen naar school.»، قید زمان بعد از فعل آمده و جمله طبیعی و آموزشی است.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Ik ga vandaag naar de les.",
+    "extra_example_fa": "امروز به کلاس می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij morgen gaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه، قید زمان قبل از فعل صرف‌شده آمده یا فعل در جای دوم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen wij gaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «Morgen» باید فعل بیاید؛ ترتیب درست «Morgen gaan wij ...» است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij naar school morgen gaan.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده باید بعد از فاعل بیاید، نه آخر جمله."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij gaan morgen naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. قید زمان بعد از فعل صرف‌شده و قبل از بخش پایانی جمله آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "time_position_in_sentence",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij vanavond eten samen.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Wij eten vanavond samen.»، فعل بعد از فاعل آمده و قید زمان در جای درست قرار گرفته است.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Zij kookt vandaag thuis.",
+    "extra_example_fa": "او امروز در خانه آشپزی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij eten vanavond samen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. قید زمان بعد از فعل صرف‌شده و قبل از بخش پایانی جمله آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij vanavond eten samen.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه، قید زمان قبل از فعل صرف‌شده آمده یا فعل در جای دوم نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vanavond wij eten samen.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با زمان شروع شود، فعل باید بلافاصله بعد از آن بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij samen vanavond eten.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده نباید آخر جمله بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "time_position_in_sentence",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij straks komt naar huis.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Hij komt straks naar huis.»، قید زمان بعد از فعل و قبل از مکان آمده است.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Ik kom later naar huis.",
+    "extra_example_fa": "من بعداً به خانه می‌آیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij straks komt naar huis.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه، قید زمان قبل از فعل صرف‌شده آمده یا فعل در جای دوم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij komt straks naar huis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. قید زمان بعد از فعل صرف‌شده و قبل از بخش پایانی جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Straks hij komt naar huis.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «Straks» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij naar huis straks komt.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده باید جای دوم جمله باشد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "time_position_in_sentence",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik morgen bel mijn vader.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Ik bel morgen mijn vader.»، فعل بعد از فاعل آمده و زمان در جای طبیعی قرار دارد.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Zij belt vandaag haar moeder.",
+    "extra_example_fa": "او امروز به مادرش زنگ می‌زند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik morgen bel mijn vader.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه، قید زمان قبل از فعل صرف‌شده آمده یا فعل در جای دوم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen ik bel mijn vader.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «Morgen» باید فعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bel morgen mijn vader.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. قید زمان بعد از فعل صرف‌شده و قبل از بخش پایانی جمله آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn vader ik bel morgen.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده در جای دوم جمله نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "time_position_in_sentence",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij zaterdag koopt groente.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Zij koopt zaterdag groente.»، فعل «koopt» بعد از فاعل آمده و زمان در جای درست است.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Ik koop vandaag brood.",
+    "extra_example_fa": "من امروز نان می‌خرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij zaterdag koopt groente.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه، قید زمان قبل از فعل صرف‌شده آمده یا فعل در جای دوم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zaterdag zij koopt groente.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با زمان شروع شود، فعل باید جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij groente zaterdag koopt.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده نباید آخر جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij koopt zaterdag groente.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. قید زمان بعد از فعل صرف‌شده و قبل از بخش پایانی جمله آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "time_position_in_sentence",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De baas vandaag komt op kantoor.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «De baas komt vandaag op kantoor.»، قید زمان بعد از فعل آمده و قبل از مکان قرار گرفته است.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "De collega komt morgen op kantoor.",
+    "extra_example_fa": "همکار فردا به دفتر می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De baas komt vandaag op kantoor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. قید زمان بعد از فعل صرف‌شده و قبل از بخش پایانی جمله آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De baas vandaag komt op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه، قید زمان قبل از فعل صرف‌شده آمده یا فعل در جای دوم نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag de baas komt op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «Vandaag» باید فعل بیاید؛ ترتیب درست «Vandaag komt de baas ...» است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De baas op kantoor vandaag komt.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده در جای دوم جمله نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "time_position_in_sentence",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De bus straks komt bij de halte.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «De bus komt straks bij de halte.»، زمان بعد از فعل و قبل از مکان آمده است.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "De trein komt vandaag op tijd.",
+    "extra_example_fa": "قطار امروز به‌موقع می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bus straks komt bij de halte.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه، قید زمان قبل از فعل صرف‌شده آمده یا فعل در جای دوم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus komt straks bij de halte.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. قید زمان بعد از فعل صرف‌شده و قبل از بخش پایانی جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Straks de bus komt bij de halte.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «Straks» باید فعل بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bus bij de halte straks komt.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده نباید آخر جمله بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "time_position_in_sentence",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik vanavond slaap thuis.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Ik slaap vanavond thuis.»، فعل بعد از فاعل آمده و زمان قبل از مکان قرار گرفته است.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Wij eten vanavond thuis.",
+    "extra_example_fa": "ما امشب در خانه غذا می‌خوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik vanavond slaap thuis.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه، قید زمان قبل از فعل صرف‌شده آمده یا فعل در جای دوم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vanavond ik slaap thuis.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با زمان شروع شود، فعل باید بعد از آن بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik slaap vanavond thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. قید زمان بعد از فعل صرف‌شده و قبل از بخش پایانی جمله آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik thuis vanavond slaap.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده در جای دوم جمله نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "time_position_in_sentence",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij vandaag wachten bij de balie.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Wij wachten vandaag bij de balie.»، زمان بعد از فعل و قبل از مکان آمده است.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Ik wacht morgen bij de deur.",
+    "extra_example_fa": "من فردا کنار در منتظر می‌مانم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij vandaag wachten bij de balie.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه، قید زمان قبل از فعل صرف‌شده آمده یا فعل در جای دوم نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag wij wachten bij de balie.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «Vandaag» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij bij de balie vandaag wachten.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده نباید آخر جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij wachten vandaag bij de balie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. قید زمان بعد از فعل صرف‌شده و قبل از بخش پایانی جمله آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "place_position_in_sentence",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik in de keuken drink koffie.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Ik drink koffie in de keuken.»، عبارت مکان بعد از بخش اصلی جمله آمده و ترتیب کلمات طبیعی است.",
+    "correction_rule_fa": "در جمله ساده A2، مکان معمولاً بعد از فعل و object یا بعد از زمان می‌آید.",
+    "extra_example_nl": "Wij eten soep aan tafel.",
+    "extra_example_fa": "ما پشت میز سوپ می‌خوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik drink koffie in de keuken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت مکان در جای طبیعی جمله آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik in de keuken drink koffie.",
+        "is_correct": false,
+        "feedback_fa": "عبارت مکان در این جمله جای درستی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "In de keuken ik drink koffie.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، مکان معمولاً بعد از فعل و object می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik koffie in de keuken drink.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و عبارت مکان در این گزینه درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "place_position_in_sentence",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij in de klas lezen een tekst.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Wij lezen een tekst in de klas.»، عبارت مکان بعد از بخش اصلی جمله آمده و ترتیب کلمات طبیعی است.",
+    "correction_rule_fa": "در جمله ساده A2، مکان معمولاً بعد از فعل و object یا بعد از زمان می‌آید.",
+    "extra_example_nl": "Ik schrijf een zin op school.",
+    "extra_example_fa": "من در مدرسه یک جمله می‌نویسم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij in de klas lezen een tekst.",
+        "is_correct": false,
+        "feedback_fa": "عبارت مکان در این جمله جای درستی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij lezen een tekst in de klas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت مکان در جای طبیعی جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "In de klas wij lezen een tekst.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، مکان معمولاً بعد از فعل و object می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij een tekst in de klas lezen.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و عبارت مکان در این گزینه درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "place_position_in_sentence",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij in de winkel koopt brood.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Zij koopt brood in de winkel.»، عبارت مکان بعد از بخش اصلی جمله آمده و ترتیب کلمات طبیعی است.",
+    "correction_rule_fa": "در جمله ساده A2، مکان معمولاً بعد از فعل و object یا بعد از زمان می‌آید.",
+    "extra_example_nl": "Hij koopt melk in de supermarkt.",
+    "extra_example_fa": "او در سوپرمارکت شیر می‌خرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij in de winkel koopt brood.",
+        "is_correct": false,
+        "feedback_fa": "عبارت مکان در این جمله جای درستی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "In de winkel zij koopt brood.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، مکان معمولاً بعد از فعل و object می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij koopt brood in de winkel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت مکان در جای طبیعی جمله آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij brood in de winkel koopt.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و عبارت مکان در این گزینه درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "place_position_in_sentence",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Hij bij de halte wacht.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Hij wacht bij de halte.»، عبارت مکان بعد از بخش اصلی جمله آمده و ترتیب کلمات طبیعی است.",
+    "correction_rule_fa": "در جمله ساده A2، مکان معمولاً بعد از فعل و object یا بعد از زمان می‌آید.",
+    "extra_example_nl": "Wij wachten op het station.",
+    "extra_example_fa": "ما در ایستگاه منتظر می‌مانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij bij de halte wacht.",
+        "is_correct": false,
+        "feedback_fa": "عبارت مکان در این جمله جای درستی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij de halte hij wacht.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، مکان معمولاً بعد از فعل و object می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wacht bij de halte hij.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و عبارت مکان در این گزینه درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij wacht bij de halte.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت مکان در جای طبیعی جمله آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "place_position_in_sentence",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij in het restaurant eten pizza.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Wij eten pizza in het restaurant.»، عبارت مکان بعد از بخش اصلی جمله آمده و ترتیب کلمات طبیعی است.",
+    "correction_rule_fa": "در جمله ساده A2، مکان معمولاً بعد از فعل و object یا بعد از زمان می‌آید.",
+    "extra_example_nl": "Ik drink water in het café.",
+    "extra_example_fa": "من در کافه آب می‌نوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij eten pizza in het restaurant.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت مکان در جای طبیعی جمله آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij in het restaurant eten pizza.",
+        "is_correct": false,
+        "feedback_fa": "عبارت مکان در این جمله جای درستی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "In het restaurant wij eten pizza.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، مکان معمولاً بعد از فعل و object می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij pizza in het restaurant eten.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و عبارت مکان در این گزینه درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "place_position_in_sentence",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Ik op kantoor maak een afspraak.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Ik maak een afspraak op kantoor.»، عبارت مکان بعد از بخش اصلی جمله آمده و ترتیب کلمات طبیعی است.",
+    "correction_rule_fa": "در جمله ساده A2، مکان معمولاً بعد از فعل و object یا بعد از زمان می‌آید.",
+    "extra_example_nl": "Zij schrijft een mail op kantoor.",
+    "extra_example_fa": "او در دفتر یک ایمیل می‌نویسد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik op kantoor maak een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "عبارت مکان در این جمله جای درستی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik maak een afspraak op kantoor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت مکان در جای طبیعی جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Op kantoor ik maak een afspraak.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، مکان معمولاً بعد از فعل و object می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik een afspraak op kantoor maak.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و عبارت مکان در این گزینه درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "place_position_in_sentence",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Wij bij oma drinken thee.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Wij drinken thee bij oma.»، عبارت مکان بعد از بخش اصلی جمله آمده و ترتیب کلمات طبیعی است.",
+    "correction_rule_fa": "در جمله ساده A2، مکان معمولاً بعد از فعل و object یا بعد از زمان می‌آید.",
+    "extra_example_nl": "Ik eet taart bij mijn tante.",
+    "extra_example_fa": "من پیش خاله‌ام کیک می‌خورم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij bij oma drinken thee.",
+        "is_correct": false,
+        "feedback_fa": "عبارت مکان در این جمله جای درستی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bij oma wij drinken thee.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، مکان معمولاً بعد از فعل و object می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij drinken thee bij oma.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت مکان در جای طبیعی جمله آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij thee bij oma drinken.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و عبارت مکان در این گزینه درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "place_position_in_sentence",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De kinderen buiten spelen.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «De kinderen spelen buiten.»، فعل بعد از فاعل آمده و مکان در جای طبیعی قرار دارد.",
+    "correction_rule_fa": "در جمله ساده، مکان معمولاً بعد از فعل و بقیه جمله می‌آید.",
+    "extra_example_nl": "Wij wachten buiten.",
+    "extra_example_fa": "ما بیرون منتظر می‌مانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen buiten spelen.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، فعل باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Buiten de kinderen spelen.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با مکان شروع شود، باید بعد از آن فعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen vandaag buiten spelen.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده در جای دوم جمله نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen spelen buiten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل بعد از فاعل آمده و مکان در پایان جمله است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "place_position_in_sentence",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "De collega in de kamer leest de mail.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «De collega leest de mail in de kamer.»، عبارت مکان بعد از بخش اصلی جمله آمده و ترتیب کلمات طبیعی است.",
+    "correction_rule_fa": "در جمله ساده A2، مکان معمولاً بعد از فعل و object یا بعد از زمان می‌آید.",
+    "extra_example_nl": "De baas spreekt met mij in het kantoor.",
+    "extra_example_fa": "رئیس در دفتر با من صحبت می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De collega leest de mail in de kamer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت مکان در جای طبیعی جمله آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De collega in de kamer leest de mail.",
+        "is_correct": false,
+        "feedback_fa": "عبارت مکان در این جمله جای درستی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "In de kamer de collega leest de mail.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، مکان معمولاً بعد از فعل و object می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De collega de mail in de kamer leest.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و عبارت مکان در این گزینه درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "place_position_in_sentence",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_with_error_nl": "Zij in de rij staat.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Zij staat in de rij.»، عبارت مکان بعد از بخش اصلی جمله آمده و ترتیب کلمات طبیعی است.",
+    "correction_rule_fa": "در جمله ساده A2، مکان معمولاً بعد از فعل و object یا بعد از زمان می‌آید.",
+    "extra_example_nl": "Hij staat bij de deur.",
+    "extra_example_fa": "او کنار در ایستاده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij in de rij staat.",
+        "is_correct": false,
+        "feedback_fa": "عبارت مکان در این جمله جای درستی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij staat in de rij.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عبارت مکان در جای طبیعی جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "In de rij zij staat.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، مکان معمولاً بعد از فعل و object می‌آید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Staat in de rij zij.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و عبارت مکان در این گزینه درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "modal_second_verb_end",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik kan helpen jou.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Ik kan jou helpen.»، modal verb در جای فعل صرف‌شده آمده و فعل اصلی در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی معمولاً در پایان جمله می‌آید.",
+    "extra_example_nl": "Wij willen koffie drinken.",
+    "extra_example_fa": "ما می‌خواهیم قهوه بنوشیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan helpen jou.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی معمولاً باید آخر جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik helpen jou kan.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب modal verb و فعل اصلی در این جمله درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan jou helpen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. modal verb آمده و فعل اصلی در پایان جمله قرار گرفته است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jou ik kan helpen.",
+        "is_correct": false,
+        "feedback_fa": "فعل اصلی در جای طبیعی پایان جمله قرار نگرفته است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "modal_second_verb_end",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij nu moeten betalen.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Wij moeten nu betalen.»، modal verb در جای دوم است و فعل اصلی در پایان جمله آمده است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik moet vandaag werken.",
+    "extra_example_fa": "من باید امروز کار کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij nu moeten betalen.",
+        "is_correct": false,
+        "feedback_fa": "modal verb «moeten» باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nu wij moeten betalen.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با زمان شروع شود، فعل صرف‌شده باید جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij betalen nu moeten.",
+        "is_correct": false,
+        "feedback_fa": "modal verb و فعل اصلی در ترتیب درست نیستند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij moeten nu betalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. modal در جای دوم و فعل اصلی در پایان جمله است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "modal_second_verb_end",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij wil drinken thee.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Hij wil thee drinken.»، modal verb در جای فعل صرف‌شده آمده و فعل اصلی در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی معمولاً در پایان جمله می‌آید.",
+    "extra_example_nl": "Zij wil water drinken.",
+    "extra_example_fa": "او می‌خواهد آب بنوشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij wil thee drinken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. modal verb آمده و فعل اصلی در پایان جمله قرار گرفته است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij wil drinken thee.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی معمولاً باید آخر جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij thee wil drinken.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب modal verb و فعل اصلی در این جمله درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thee hij wil drinken.",
+        "is_correct": false,
+        "feedback_fa": "فعل اصلی در جای طبیعی پایان جمله قرار نگرفته است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "modal_second_verb_end",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij samen kunnen leren.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Wij kunnen samen leren.»، modal verb در جای دوم است و فعل اصلی در پایان جمله آمده است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Zij kan goed fietsen.",
+    "extra_example_fa": "او می‌تواند خوب دوچرخه‌سواری کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij kunnen leren samen.",
+        "is_correct": false,
+        "feedback_fa": "برای این تمرین، فعل اصلی باید بعد از قید و در پایان جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij kunnen samen leren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. modal در جای دوم و فعل اصلی در پایان جمله است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij samen kunnen leren.",
+        "is_correct": false,
+        "feedback_fa": "modal verb باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Samen wij kunnen leren.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با قید شروع شود، فعل باید جای دوم بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "modal_second_verb_end",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik moet schrijven mijn naam.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Ik moet mijn naam schrijven.»، modal verb در جای فعل صرف‌شده آمده و فعل اصلی در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی معمولاً در پایان جمله می‌آید.",
+    "extra_example_nl": "Hij moet een mail sturen.",
+    "extra_example_fa": "او باید یک ایمیل بفرستد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik moet schrijven mijn naam.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی معمولاً باید آخر جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik mijn naam moet schrijven.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب modal verb و فعل اصلی در این جمله درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik moet mijn naam schrijven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. modal verb آمده و فعل اصلی در پایان جمله قرار گرفته است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn naam ik moet schrijven.",
+        "is_correct": false,
+        "feedback_fa": "فعل اصلی در جای طبیعی پایان جمله قرار نگرفته است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "modal_second_verb_end",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij wil bellen haar moeder.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Zij wil haar moeder bellen.»، modal verb در جای فعل صرف‌شده آمده و فعل اصلی در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی معمولاً در پایان جمله می‌آید.",
+    "extra_example_nl": "Ik wil mijn broer zien.",
+    "extra_example_fa": "من می‌خواهم برادرم را ببینم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij wil bellen haar moeder.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی معمولاً باید آخر جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij haar moeder wil bellen.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب modal verb و فعل اصلی در این جمله درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Haar moeder zij wil bellen.",
+        "is_correct": false,
+        "feedback_fa": "فعل اصلی در جای طبیعی پایان جمله قرار نگرفته است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij wil haar moeder bellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. modal verb آمده و فعل اصلی در پایان جمله قرار گرفته است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "modal_second_verb_end",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij hier mogen wachten.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Wij mogen hier wachten.»، modal verb در جای دوم است و فعل اصلی آخر جمله آمده است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "U mag hier zitten.",
+    "extra_example_fa": "شما اجازه دارید اینجا بنشینید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij mogen hier wachten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. modal در جای دوم و فعل اصلی در پایان جمله است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hier mogen wachten.",
+        "is_correct": false,
+        "feedback_fa": "modal verb باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hier wij mogen wachten.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با مکان شروع شود، فعل باید جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij wachten hier mogen.",
+        "is_correct": false,
+        "feedback_fa": "modal verb و فعل اصلی در ترتیب درست نیستند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "modal_second_verb_end",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij kan openen de deur.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Hij kan de deur openen.»، modal verb در جای فعل صرف‌شده آمده و فعل اصلی در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی معمولاً در پایان جمله می‌آید.",
+    "extra_example_nl": "Wij kunnen de computer gebruiken.",
+    "extra_example_fa": "ما می‌توانیم از کامپیوتر استفاده کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij kan openen de deur.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی معمولاً باید آخر جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij kan de deur openen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. modal verb آمده و فعل اصلی در پایان جمله قرار گرفته است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij de deur kan openen.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب modal verb و فعل اصلی در این جمله درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "De deur hij kan openen.",
+        "is_correct": false,
+        "feedback_fa": "فعل اصلی در جای طبیعی پایان جمله قرار نگرفته است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "modal_second_verb_end",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik wil kopen brood.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Ik wil brood kopen.»، modal verb در جای فعل صرف‌شده آمده و فعل اصلی در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی معمولاً در پایان جمله می‌آید.",
+    "extra_example_nl": "Zij wil melk kopen.",
+    "extra_example_fa": "او می‌خواهد شیر بخرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil kopen brood.",
+        "is_correct": false,
+        "feedback_fa": "بعد از modal verb، فعل اصلی معمولاً باید آخر جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik brood wil kopen.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب modal verb و فعل اصلی در این جمله درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil brood kopen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. modal verb آمده و فعل اصلی در پایان جمله قرار گرفته است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Brood ik wil kopen.",
+        "is_correct": false,
+        "feedback_fa": "فعل اصلی در جای طبیعی پایان جمله قرار نگرفته است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "modal_second_verb_end",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik Nederlands kan leren.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Ik kan Nederlands leren.»، modal verb در جای دوم است و فعل اصلی در پایان جمله آمده است.",
+    "correction_rule_fa": "بعد از modal verb، فعل اصلی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Wij kunnen Engels spreken.",
+    "extra_example_fa": "ما می‌توانیم انگلیسی صحبت کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik leren Nederlands kan.",
+        "is_correct": false,
+        "feedback_fa": "modal verb نباید در پایان جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik Nederlands kan leren.",
+        "is_correct": false,
+        "feedback_fa": "modal verb باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nederlands ik kan leren.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با مفعول شروع شود، فعل باید جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan Nederlands leren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. modal در جای دوم و فعل اصلی در پایان جمله است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "perfectum_participle_end",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik gisteren heb gewerkt.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Ik heb gisteren gewerkt.»، فعل کمکی «heb» در جای دوم است و «gewerkt» در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij heeft gisteren gebeld.",
+    "extra_example_fa": "او دیروز زنگ زده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb gisteren gewerkt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل کمکی جای دوم است و voltooid deelwoord آخر جمله آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik gisteren heb gewerkt.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید در جای دوم جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gisteren ik heb gewerkt.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با زمان شروع شود، بعد از آن باید فعل کمکی بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik gewerkt heb gisteren.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل کمکی و voltooid deelwoord درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "perfectum_participle_end",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij heeft gebeld mij.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Hij heeft mij gebeld.»، فعل کمکی در جای دوم است و voltooid deelwoord در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Zij heeft haar moeder geholpen.",
+    "extra_example_fa": "او به مادرش کمک کرده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft gebeld mij.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum، voltooid deelwoord معمولاً آخر جمله می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft mij gebeld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. voltooid deelwoord در پایان جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij mij heeft gebeld.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید در جای دوم جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mij hij heeft gebeld.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب قید زمان و voltooid deelwoord در این جمله طبیعی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "perfectum_participle_end",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij naar huis zijn gegaan.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Wij zijn naar huis gegaan.»، فعل کمکی در جای دوم است و voltooid deelwoord در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Zij is naar school gegaan.",
+    "extra_example_fa": "او به مدرسه رفته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij zijn gegaan naar huis.",
+        "is_correct": false,
+        "feedback_fa": "voltooid deelwoord در این جمله در جای مناسب قرار نگرفته است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij naar huis zijn gegaan.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij zijn naar huis gegaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. voltooid deelwoord در پایان جمله آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar huis wij zijn gegaan.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با مکان شروع شود، فعل کمکی باید جای دوم بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "perfectum_participle_end",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij heeft gekocht brood.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Zij heeft brood gekocht.»، فعل کمکی در جای دوم است و voltooid deelwoord در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik heb melk gekocht.",
+    "extra_example_fa": "من شیر خریده‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij heeft gekocht brood.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum، voltooid deelwoord معمولاً آخر جمله می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij brood heeft gekocht.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید در جای دوم جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Brood zij heeft gekocht.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب قید زمان و voltooid deelwoord در این جمله طبیعی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij heeft brood gekocht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. voltooid deelwoord در پایان جمله آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "perfectum_participle_end",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik heb gedronken koffie.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Ik heb koffie gedronken.»، فعل کمکی در جای دوم است و voltooid deelwoord در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Wij hebben thee gedronken.",
+    "extra_example_fa": "ما چای نوشیده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb koffie gedronken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. voltooid deelwoord در پایان جمله آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb gedronken koffie.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum، voltooid deelwoord معمولاً آخر جمله می‌آید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik koffie heb gedronken.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید در جای دوم جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Koffie ik heb gedronken.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب قید زمان و voltooid deelwoord در این جمله طبیعی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "perfectum_participle_end",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De bus vandaag is gekomen.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «De bus is vandaag gekomen.»، فعل کمکی «is» در جای دوم است و «gekomen» در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "De trein is laat gekomen.",
+    "extra_example_fa": "قطار دیر آمده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bus vandaag is gekomen.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید در جای دوم جمله باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus is vandaag gekomen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل کمکی جای دوم است و voltooid deelwoord آخر جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vandaag de bus is gekomen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «Vandaag» باید فعل کمکی بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "De bus gekomen is vandaag.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل کمکی و voltooid deelwoord درست نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "perfectum_participle_end",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij samen hebben gegeten.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Wij hebben samen gegeten.»، فعل کمکی در جای دوم است و voltooid deelwoord در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik heb thuis gegeten.",
+    "extra_example_fa": "من در خانه غذا خورده‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij hebben gegeten samen.",
+        "is_correct": false,
+        "feedback_fa": "در این تمرین، voltooid deelwoord باید بعد از قید و در پایان جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij samen hebben gegeten.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben samen gegeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل کمکی جای دوم است و voltooid deelwoord آخر جمله آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Samen wij hebben gegeten.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با قید شروع شود، فعل کمکی باید جای دوم بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "perfectum_participle_end",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij heeft gemaakt de afspraak.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Hij heeft de afspraak gemaakt.»، فعل کمکی در جای دوم است و voltooid deelwoord در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik heb een afspraak gemaakt.",
+    "extra_example_fa": "من یک قرار گذاشته‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft gemaakt de afspraak.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum، voltooid deelwoord معمولاً آخر جمله می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij de afspraak heeft gemaakt.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید در جای دوم جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "De afspraak hij heeft gemaakt.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب قید زمان و voltooid deelwoord در این جمله طبیعی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij heeft de afspraak gemaakt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. voltooid deelwoord در پایان جمله آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "perfectum_participle_end",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij naar school is gegaan.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Zij is naar school gegaan.»، فعل کمکی در جای دوم است و voltooid deelwoord در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Wij zijn naar huis gegaan.",
+    "extra_example_fa": "ما به خانه رفته‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij is naar school gegaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل کمکی جای دوم است و voltooid deelwoord آخر جمله آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij naar school is gegaan.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij gegaan is naar school.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل کمکی و voltooid deelwoord درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar school zij is gegaan.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با مکان شروع شود، فعل کمکی باید جای دوم بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "perfectum_participle_end",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik heb geholpen mijn moeder.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Ik heb mijn moeder geholpen.»، فعل کمکی در جای دوم است و voltooid deelwoord در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij heeft zijn vriend geholpen.",
+    "extra_example_fa": "او به دوستش کمک کرده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb geholpen mijn moeder.",
+        "is_correct": false,
+        "feedback_fa": "در perfectum، voltooid deelwoord معمولاً آخر جمله می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb mijn moeder geholpen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. voltooid deelwoord در پایان جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik mijn moeder heb geholpen.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید در جای دوم جمله باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn moeder ik heb geholpen.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب قید زمان و voltooid deelwoord در این جمله طبیعی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "separable_particle_end",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik sta op vroeg.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Ik sta vroeg op.»، فعل صرف‌شده بعد از فاعل آمده و بخش جداشدنی فعل در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij komt morgen terug.",
+    "extra_example_fa": "او فردا برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik sta op vroeg.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی فعل باید در پایان جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik op sta vroeg.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل صرف‌شده و بخش جداشدنی درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik sta vroeg op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بخش جداشدنی فعل در پایان جمله آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op ik sta vroeg.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، particle در این جمله جای درستی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "separable_particle_end",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij terug komt morgen.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Hij komt morgen terug.»، فعل صرف‌شده «komt» بعد از فاعل آمده و بخش جداشدنی «terug» آخر جمله است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Zij komt vanavond terug.",
+    "extra_example_fa": "او امشب برمی‌گردد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij terug komt morgen.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده باید بعد از فاعل بیاید و «terug» آخر جمله باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Morgen hij komt terug.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با زمان شروع شود، فعل باید جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Terug hij komt morgen.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی نباید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij komt morgen terug.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «komt» جای دوم است و «terug» آخر جمله آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "separable_particle_end",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij ruimen op de kamer.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Wij ruimen de kamer op.»، فعل صرف‌شده بعد از فاعل آمده و بخش جداشدنی فعل در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik ruim mijn bureau op.",
+    "extra_example_fa": "من میز کارم را مرتب می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij ruimen de kamer op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بخش جداشدنی فعل در پایان جمله آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij ruimen op de kamer.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی فعل باید در پایان جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij de kamer ruimen op.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل صرف‌شده و بخش جداشدنی درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op wij ruimen de kamer.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، particle در این جمله جای درستی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "separable_particle_end",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij doet aan het licht.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Zij doet het licht aan.»، فعل صرف‌شده بعد از فاعل آمده و بخش جداشدنی فعل در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Hij doet de deur open.",
+    "extra_example_fa": "او در را باز می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij doet aan het licht.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی فعل باید در پایان جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij doet het licht aan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بخش جداشدنی فعل در پایان جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij het licht doet aan.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل صرف‌شده و بخش جداشدنی درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aan zij doet het licht.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، particle در این جمله جای درستی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "separable_particle_end",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik vul in het formulier.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Ik vul het formulier in.»، فعل صرف‌شده بعد از فاعل آمده و بخش جداشدنی فعل در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Zij vult haar naam in.",
+    "extra_example_fa": "او نامش را وارد می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik vul in het formulier.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی فعل باید در پایان جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik het formulier vul in.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل صرف‌شده و بخش جداشدنی درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik vul het formulier in.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بخش جداشدنی فعل در پایان جمله آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "In ik vul het formulier.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، particle در این جمله جای درستی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "separable_particle_end",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij maken open de deur.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Wij maken de deur open.»، فعل صرف‌شده بعد از فاعل آمده و بخش جداشدنی فعل در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik maak het raam open.",
+    "extra_example_fa": "من پنجره را باز می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij maken open de deur.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی فعل باید در پایان جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij de deur maken open.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل صرف‌شده و بخش جداشدنی درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Open wij maken de deur.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، particle در این جمله جای درستی ندارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij maken de deur open.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بخش جداشدنی فعل در پایان جمله آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "separable_particle_end",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij zet neer de tas.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Hij zet de tas neer.»، فعل صرف‌شده بعد از فاعل آمده و بخش جداشدنی فعل در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik zet mijn boek neer.",
+    "extra_example_fa": "من کتابم را می‌گذارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij zet de tas neer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بخش جداشدنی فعل در پایان جمله آمده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij zet neer de tas.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی فعل باید در پایان جمله بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij de tas zet neer.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل صرف‌شده و بخش جداشدنی درست نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Neer hij zet de tas.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، particle در این جمله جای درستی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "separable_particle_end",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij haar jas trekt aan.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Zij trekt haar jas aan.»، فعل صرف‌شده بعد از فاعل آمده و بخش جداشدنی «aan» در پایان جمله است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik doe mijn jas aan.",
+    "extra_example_fa": "من کتم را می‌پوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij haar jas trekt aan.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij trekt haar jas aan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «trekt» جای دوم است و «aan» آخر جمله آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij aan trekt haar jas.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Aan zij trekt haar jas.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی نباید اول جمله بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "separable_particle_end",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik bel op mijn vriend.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Ik bel mijn vriend op.»، فعل صرف‌شده بعد از فاعل آمده و بخش جداشدنی فعل در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Zij belt haar zus op.",
+    "extra_example_fa": "او به خواهرش زنگ می‌زند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik bel op mijn vriend.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی فعل باید در پایان جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik mijn vriend bel op.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فعل صرف‌شده و بخش جداشدنی درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik bel mijn vriend op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. بخش جداشدنی فعل در پایان جمله آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op ik bel mijn vriend.",
+        "is_correct": false,
+        "feedback_fa": "در فعل جداشدنی، particle در این جمله جای درستی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "separable_particle_end",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij weg gaan vroeg.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Wij gaan vroeg weg.»، فعل صرف‌شده «gaan» بعد از فاعل آمده و بخش جداشدنی «weg» آخر جمله است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik ga morgen weg.",
+    "extra_example_fa": "من فردا می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij weg gaan vroeg.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده باید بعد از فاعل بیاید و «weg» آخر جمله باشد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vroeg wij gaan weg.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با زمان شروع شود، فعل باید جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Weg wij gaan vroeg.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی نباید اول جمله بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij gaan vroeg weg.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «gaan» جای دوم است و «weg» آخر جمله آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "niet_position_simple",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik niet werk vandaag.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Ik werk vandaag niet.»، جای niet با ترتیب ساده و طبیعی جمله هماهنگ است.",
+    "correction_rule_fa": "در جمله ساده، niet معمولاً بعد از فعل و قبل از بخش پایانی یا در پایان جمله می‌آید.",
+    "extra_example_nl": "Hij werkt morgen niet.",
+    "extra_example_fa": "او فردا کار نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk vandaag niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جای niet در جمله درست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik niet werk vandaag.",
+        "is_correct": false,
+        "feedback_fa": "جای niet در این جمله درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik vandaag niet werk.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، niet نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet ik werk vandaag.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات با niet در این گزینه طبیعی و استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "niet_position_simple",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij niet is thuis.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Hij is niet thuis.»، جای niet با ترتیب ساده و طبیعی جمله هماهنگ است.",
+    "correction_rule_fa": "در جمله ساده، niet معمولاً بعد از فعل و قبل از بخش پایانی یا در پایان جمله می‌آید.",
+    "extra_example_nl": "Zij is niet moe.",
+    "extra_example_fa": "او خسته نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij niet is thuis.",
+        "is_correct": false,
+        "feedback_fa": "جای niet در این جمله درست نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij is niet thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جای niet در جمله درست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij thuis niet is.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، niet نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet hij is thuis.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات با niet در این گزینه طبیعی و استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "niet_position_simple",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij niet gaan naar school.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Wij gaan niet naar school.»، فعل بعد از فاعل آمده و «niet» قبل از عبارت مکانی قرار گرفته است.",
+    "correction_rule_fa": "niet در جمله ساده معمولاً بعد از فعل و قبل از بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Ik ga niet naar buiten.",
+    "extra_example_fa": "من بیرون نمی‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij niet gaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "«niet» نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij naar school niet gaan.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده باید جای دوم جمله باشد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij gaan niet naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «niet» قبل از عبارت «naar school» آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet wij gaan naar school.",
+        "is_correct": false,
+        "feedback_fa": "جمله خبری استاندارد با «Niet» در این جایگاه ساخته نمی‌شود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "niet_position_simple",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij niet komt morgen.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Zij komt morgen niet.»، جای niet با ترتیب ساده و طبیعی جمله هماهنگ است.",
+    "correction_rule_fa": "در جمله ساده، niet معمولاً بعد از فعل و قبل از بخش پایانی یا در پایان جمله می‌آید.",
+    "extra_example_nl": "Hij komt vandaag niet.",
+    "extra_example_fa": "او امروز نمی‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij niet komt morgen.",
+        "is_correct": false,
+        "feedback_fa": "جای niet در این جمله درست نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij morgen niet komt.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، niet نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niet zij komt morgen.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات با niet در این گزینه طبیعی و استاندارد نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij komt morgen niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جای niet در جمله درست است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "niet_position_simple",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik niet slaap vanavond.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Ik slaap vanavond niet.»، جای niet با ترتیب ساده و طبیعی جمله هماهنگ است.",
+    "correction_rule_fa": "در جمله ساده، niet معمولاً بعد از فعل و قبل از بخش پایانی یا در پایان جمله می‌آید.",
+    "extra_example_nl": "Wij slapen vannacht niet.",
+    "extra_example_fa": "ما امشب نمی‌خوابیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik slaap vanavond niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جای niet در جمله درست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik niet slaap vanavond.",
+        "is_correct": false,
+        "feedback_fa": "جای niet در این جمله درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik vanavond niet slaap.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، niet نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet ik slaap vanavond.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات با niet در این گزینه طبیعی و استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "niet_position_simple",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De bus niet komt vandaag.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «De bus komt vandaag niet.»، جای niet با ترتیب ساده و طبیعی جمله هماهنگ است.",
+    "correction_rule_fa": "در جمله ساده، niet معمولاً بعد از فعل و قبل از بخش پایانی یا در پایان جمله می‌آید.",
+    "extra_example_nl": "De trein rijdt vandaag niet.",
+    "extra_example_fa": "قطار امروز حرکت نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De bus niet komt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "جای niet در این جمله درست نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "De bus komt vandaag niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جای niet در جمله درست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De bus vandaag niet komt.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، niet نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet de bus komt vandaag.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات با niet در این گزینه طبیعی و استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "niet_position_simple",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij niet eten hier.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Wij eten hier niet.»، جای niet با ترتیب ساده و طبیعی جمله هماهنگ است.",
+    "correction_rule_fa": "در جمله ساده، niet معمولاً بعد از فعل و قبل از بخش پایانی یا در پایان جمله می‌آید.",
+    "extra_example_nl": "Ik drink hier niet.",
+    "extra_example_fa": "من اینجا چیزی نمی‌نوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij niet eten hier.",
+        "is_correct": false,
+        "feedback_fa": "جای niet در این جمله درست نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij hier niet eten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، niet نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij eten hier niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جای niet در جمله درست است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet wij eten hier.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات با niet در این گزینه طبیعی و استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "niet_position_simple",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij niet woont in Utrecht.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Hij woont niet in Utrecht.»، «niet» بعد از فعل و قبل از عبارت مکانی آمده است.",
+    "correction_rule_fa": "niet در جمله ساده معمولاً بعد از فعل و قبل از بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Zij woont niet in Amsterdam.",
+    "extra_example_fa": "او در آمستردام زندگی نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij niet woont in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "«niet» نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij in Utrecht niet woont.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niet hij woont in Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "جمله خبری استاندارد با «Niet» در این جایگاه ساخته نمی‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij woont niet in Utrecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «niet» قبل از عبارت مکانی آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "niet_position_simple",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik niet koop dit.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Ik koop dit niet.»، جای niet با ترتیب ساده و طبیعی جمله هماهنگ است.",
+    "correction_rule_fa": "در جمله ساده، niet معمولاً بعد از فعل و قبل از بخش پایانی یا در پایان جمله می‌آید.",
+    "extra_example_nl": "Wij kopen dat niet.",
+    "extra_example_fa": "ما آن را نمی‌خریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik koop dit niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جای niet در جمله درست است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik niet koop dit.",
+        "is_correct": false,
+        "feedback_fa": "جای niet در این جمله درست نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik dit niet koop.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، niet نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet ik koop dit.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات با niet در این گزینه طبیعی و استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "niet_position_simple",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij niet betaalt nu.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Zij betaalt nu niet.»، جای niet با ترتیب ساده و طبیعی جمله هماهنگ است.",
+    "correction_rule_fa": "در جمله ساده، niet معمولاً بعد از فعل و قبل از بخش پایانی یا در پایان جمله می‌آید.",
+    "extra_example_nl": "Hij betaalt vandaag niet.",
+    "extra_example_fa": "او امروز پرداخت نمی‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij niet betaalt nu.",
+        "is_correct": false,
+        "feedback_fa": "جای niet در این جمله درست نیست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij betaalt nu niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. جای niet در جمله درست است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij nu niet betaalt.",
+        "is_correct": false,
+        "feedback_fa": "در جمله ساده، niet نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Niet zij betaalt nu.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب کلمات با niet در این گزینه طبیعی و استاندارد نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "choosing_best_word_order_correction",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Morgen ik ga naar school.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Morgen ga ik naar school.»، ترتیب کلمات استاندارد و طبیعی A2 رعایت شده است.",
+    "correction_rule_fa": "در جمله خبری هلندی، فعل صرف‌شده معمولاً جای دوم می‌آید و بقیه کلمات جای طبیعی خود را دارند.",
+    "extra_example_nl": "Vandaag ga ik naar de les.",
+    "extra_example_fa": "امروز به کلاس می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Morgen ik ga naar school.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه فعل صرف‌شده جای دوم درست را ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik morgen ga naar school.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و بقیه جمله استاندارد نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Morgen ga ik naar school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله بهترین ترتیب کلمات را دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Naar school morgen ik ga.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه از نظر word order طبیعی و آموزشی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "choosing_best_word_order_correction",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "In de winkel ik koop fruit.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «In de winkel koop ik fruit.»، ترتیب کلمات استاندارد و طبیعی A2 رعایت شده است.",
+    "correction_rule_fa": "در جمله خبری هلندی، فعل صرف‌شده معمولاً جای دوم می‌آید و بقیه کلمات جای طبیعی خود را دارند.",
+    "extra_example_nl": "Op de markt koop ik groente.",
+    "extra_example_fa": "در بازار سبزی می‌خرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "In de winkel ik koop fruit.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه فعل صرف‌شده جای دوم درست را ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik in de winkel koop fruit.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و بقیه جمله استاندارد نیست."
+      },
+      {
+        "key": "C",
+        "text_nl": "Fruit in de winkel ik koop.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه از نظر word order طبیعی و آموزشی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "In de winkel koop ik fruit.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله بهترین ترتیب کلمات را دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "choosing_best_word_order_correction",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik kan bellen je morgen.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «Ik kan je morgen bellen.»، ترتیب کلمات استاندارد و طبیعی A2 رعایت شده است.",
+    "correction_rule_fa": "در جمله خبری هلندی، فعل صرف‌شده معمولاً جای دوم می‌آید و بقیه کلمات جای طبیعی خود را دارند.",
+    "extra_example_nl": "Hij kan mij vandaag helpen.",
+    "extra_example_fa": "او امروز می‌تواند به من کمک کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan je morgen bellen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله بهترین ترتیب کلمات را دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan bellen je morgen.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه فعل صرف‌شده جای دوم درست را ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik morgen kan je bellen.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و بقیه جمله استاندارد نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Je ik kan morgen bellen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه از نظر word order طبیعی و آموزشی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "choosing_best_word_order_correction",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik heb gedaan vandaag boodschappen.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Ik heb vandaag boodschappen gedaan.»، ترتیب کلمات استاندارد و طبیعی A2 رعایت شده است.",
+    "correction_rule_fa": "در جمله خبری هلندی، فعل صرف‌شده معمولاً جای دوم می‌آید و بقیه کلمات جای طبیعی خود را دارند.",
+    "extra_example_nl": "Wij hebben gisteren gewerkt.",
+    "extra_example_fa": "ما دیروز کار کرده‌ایم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik heb gedaan vandaag boodschappen.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه فعل صرف‌شده جای دوم درست را ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb vandaag boodschappen gedaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله بهترین ترتیب کلمات را دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik vandaag heb boodschappen gedaan.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و بقیه جمله استاندارد نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vandaag ik heb boodschappen gedaan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه از نظر word order طبیعی و آموزشی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "choosing_best_word_order_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij staat op vroeg.",
+    "question_text_nl": "Kies de zin met de juiste woordvolgorde.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که ترتیب کلمات درست دارد.",
+    "explanation_fa": "در جمله «Hij staat vroeg op.»، فعل صرف‌شده «staat» بعد از فاعل است و بخش جداشدنی «op» آخر جمله آمده است.",
+    "correction_rule_fa": "در جمله خبری با فعل جداشدنی، بخش جداشدنی معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik sta vroeg op.",
+    "extra_example_fa": "من زود بیدار می‌شوم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij staat op vroeg.",
+        "is_correct": false,
+        "feedback_fa": "جای «op» درست نیست؛ بخش جداشدنی باید آخر جمله بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij op staat vroeg.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی نباید بین فاعل و فعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij staat vroeg op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «staat» جای دوم و «op» آخر جمله است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Op hij staat vroeg.",
+        "is_correct": false,
+        "feedback_fa": "بخش جداشدنی نباید اول جمله بیاید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "choosing_best_word_order_correction",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij niet gaan vandaag naar het park.",
+    "question_text_nl": "Wat is de juiste correctie?",
+    "question_text_fa": "اصلاح درست جمله کدام است؟",
+    "explanation_fa": "در جمله «Wij gaan vandaag niet naar het park.»، فعل در جای دوم است و «niet» قبل از عبارت مکانی آمده است.",
+    "correction_rule_fa": "niet در جمله ساده معمولاً بعد از فعل و قبل از بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Ik ga vandaag niet naar school.",
+    "extra_example_fa": "من امروز به مدرسه نمی‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij niet gaan vandaag naar het park.",
+        "is_correct": false,
+        "feedback_fa": "«niet» نباید بین فاعل و فعل صرف‌شده بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij vandaag gaan niet naar het park.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Niet wij gaan vandaag naar het park.",
+        "is_correct": false,
+        "feedback_fa": "جمله خبری استاندارد با «Niet» در این جایگاه ساخته نمی‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij gaan vandaag niet naar het park.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «niet» قبل از عبارت «naar het park» آمده است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "choosing_best_word_order_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Thuis zij drinkt thee.",
+    "question_text_nl": "Kies de juiste zin.",
+    "question_text_fa": "جمله درست را انتخاب کن.",
+    "explanation_fa": "در جمله «Thuis drinkt zij thee.»، ترتیب کلمات استاندارد و طبیعی A2 رعایت شده است.",
+    "correction_rule_fa": "در جمله خبری هلندی، فعل صرف‌شده معمولاً جای دوم می‌آید و بقیه کلمات جای طبیعی خود را دارند.",
+    "extra_example_nl": "In de keuken drink ik water.",
+    "extra_example_fa": "در آشپزخانه آب می‌نوشم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Thuis drinkt zij thee.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله بهترین ترتیب کلمات را دارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Thuis zij drinkt thee.",
+        "is_correct": false,
+        "feedback_fa": "در این گزینه فعل صرف‌شده جای دوم درست را ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij thuis drinkt thee.",
+        "is_correct": false,
+        "feedback_fa": "ترتیب فاعل، فعل و بقیه جمله استاندارد نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thee thuis zij drinkt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه از نظر word order طبیعی و آموزشی نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "choosing_best_word_order_correction",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik vanavond eet thuis.",
+    "question_text_nl": "Kies de correcte zin.",
+    "question_text_fa": "جمله صحیح را انتخاب کن.",
+    "explanation_fa": "در جمله «Ik eet vanavond thuis.»، فعل بعد از فاعل آمده و زمان قبل از مکان قرار گرفته است.",
+    "correction_rule_fa": "در جمله ساده A2، قید زمان معمولاً بعد از فعل صرف‌شده و قبل از مکان یا بخش پایانی جمله می‌آید.",
+    "extra_example_nl": "Wij eten vandaag thuis.",
+    "extra_example_fa": "ما امروز در خانه غذا می‌خوریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik vanavond eet thuis.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik eet vanavond thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل جای دوم است و زمان قبل از مکان آمده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vanavond ik eet thuis.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با زمان شروع شود، فعل باید جای دوم بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Thuis vanavond ik eet.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده در جای دوم جمله نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "choosing_best_word_order_correction",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De kinderen buiten spelen.",
+    "question_text_nl": "Corrigeer de fout.",
+    "question_text_fa": "اشتباه ترتیب کلمات را اصلاح کن.",
+    "explanation_fa": "در جمله «De kinderen spelen buiten.»، فعل بعد از فاعل آمده و مکان در پایان جمله قرار گرفته است.",
+    "correction_rule_fa": "در جمله ساده، ترتیب طبیعی این است: فاعل + فعل + بقیه جمله.",
+    "extra_example_nl": "Zij speelt buiten.",
+    "extra_example_fa": "او بیرون بازی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen buiten spelen.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Buiten de kinderen spelen.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با مکان شروع شود، فعل باید جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen spelen buiten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل بعد از فاعل آمده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen vandaag buiten spelen.",
+        "is_correct": false,
+        "feedback_fa": "فعل صرف‌شده در جای دوم جمله نیست."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "error_correction",
+    "topic": "word_order_error",
+    "subtopic": "choosing_best_word_order_correction",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij gisteren hebben thuis gegeten.",
+    "question_text_nl": "Welke zin is correct?",
+    "question_text_fa": "کدام جمله از نظر ترتیب کلمات درست است؟",
+    "explanation_fa": "در جمله «Wij hebben gisteren thuis gegeten.»، فعل کمکی در جای دوم است و voltooid deelwoord در پایان جمله آمده است.",
+    "correction_rule_fa": "در perfectum، فعل کمکی جای دوم می‌آید و voltooid deelwoord معمولاً آخر جمله می‌آید.",
+    "extra_example_nl": "Ik heb vandaag thuis gewerkt.",
+    "extra_example_fa": "من امروز در خانه کار کرده‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij gisteren hebben thuis gegeten.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی باید بعد از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gisteren wij hebben thuis gegeten.",
+        "is_correct": false,
+        "feedback_fa": "اگر جمله با زمان شروع شود، فعل کمکی باید جای دوم بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij thuis gisteren hebben gegeten.",
+        "is_correct": false,
+        "feedback_fa": "فعل کمکی در جای دوم جمله نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij hebben gisteren thuis gegeten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل کمکی جای دوم است و voltooid deelwoord آخر جمله آمده است."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De lucht is helemaal blauw en de zon schijnt de hele dag. Het is ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "وقتی آسمان کاملاً آبی است و آفتاب می‌تابد، هوا «zonnig» (آفتابی) است.",
+    "grammar_rule_fa": "zonnig=آفتابی.",
+    "extra_example_nl": "Het is vandaag heerlijk zonnig.",
+    "extra_example_fa": "امروز خیلی آفتابیه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zonnig",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ آسمانِ آبی و آفتابی."
+      },
+      {
+        "key": "B",
+        "text_nl": "bewolkt",
+        "is_correct": false,
+        "feedback_fa": "این یعنی آسمان ابری است، برعکسِ متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "regenachtig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "winderig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De lucht is grijs en je ziet de zon helemaal niet. Het is ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "وقتی آسمان خاکستری است و آفتاب دیده نمی‌شود، هوا «bewolkt» (ابری) است.",
+    "grammar_rule_fa": "bewolkt=ابری.",
+    "extra_example_nl": "Het is de hele dag bewolkt.",
+    "extra_example_fa": "کلِ روز ابری بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zonnig",
+        "is_correct": false,
+        "feedback_fa": "این یعنی آفتابی، برعکسِ متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "helder",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "droog",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "bewolkt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ آسمانِ خاکستریِ بدونِ آفتاب."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het valt de hele dag water uit de lucht. Het is ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "وقتی باران کلِ روز می‌بارد، هوا «regenachtig» است.",
+    "grammar_rule_fa": "regenachtig=بارانی.",
+    "extra_example_nl": "Het is regenachtig deze week.",
+    "extra_example_fa": "این هفته بارانیه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zonnig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "winderig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "regenachtig",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ باران در تمامِ روز."
+      },
+      {
+        "key": "D",
+        "text_nl": "bewolkt",
+        "is_correct": false,
+        "feedback_fa": "این فقط ابری بودنِ آسمان است، بدونِ حتماً باریدنِ باران."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik hoor harde knallen in de lucht en zie fel licht flitsen. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "صدای رعد و نورِ برق در آسمان، «onweer» نامیده می‌شود.",
+    "grammar_rule_fa": "onweer=رعدوبرق.",
+    "extra_example_nl": "Tijdens het onweer bleef ik binnen.",
+    "extra_example_fa": "موقعِ رعدوبرق توی خونه موندم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "storm",
+        "is_correct": false,
+        "feedback_fa": "این بادِ شدید است، نه لزوماً رعدوبرق."
+      },
+      {
+        "key": "B",
+        "text_nl": "onweer",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ صدای رعد و نورِ برق."
+      },
+      {
+        "key": "C",
+        "text_nl": "regen",
+        "is_correct": false,
+        "feedback_fa": "این فقط باریدنِ آب است، بدونِ رعدوبرق."
+      },
+      {
+        "key": "D",
+        "text_nl": "mist",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik kan nauwelijks 50 meter ver zien vanwege een dikke witte laag in de lucht. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "لایه‌ی غلیظِ سفید که دیدِ نزدیک را کم می‌کند، «mist» (مه) نامیده می‌شود.",
+    "grammar_rule_fa": "mist=مه.",
+    "extra_example_nl": "Door de mist zie ik de weg bijna niet.",
+    "extra_example_fa": "به‌خاطرِ مه تقریباً جاده رو نمی‌بینم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mist",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کاهشِ شدیدِ دید."
+      },
+      {
+        "key": "B",
+        "text_nl": "bewolkt",
+        "is_correct": false,
+        "feedback_fa": "این فقط خاکستریِ آسمان است، نه کاهشِ دیدِ نزدیک."
+      },
+      {
+        "key": "C",
+        "text_nl": "regen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "onweer",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De bomen bewegen sterk heen en weer en mijn paraplu waait bijna om. Het is erg ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "وقتی باد قوی است و درخت‌ها تکان می‌خورند، هوا «winderig» است.",
+    "grammar_rule_fa": "winderig=بادی.",
+    "extra_example_nl": "Het is vandaag winderig aan zee.",
+    "extra_example_fa": "امروز کنارِ دریا بادیه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zonnig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "bewolkt",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "mistig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "winderig",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بادِ قوی که درخت‌ها را تکان می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De wind is zo sterk dat er takken van de bomen breken en het gevaarlijk is buiten. Dit heet een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بادِ بسیار شدید و خطرناک که شاخه‌ها را می‌شکند، «storm» نامیده می‌شود.",
+    "grammar_rule_fa": "storm=طوفانِ بادی.",
+    "extra_example_nl": "De storm brak veel takken af.",
+    "extra_example_fa": "طوفان شاخه‌های زیادی رو شکست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "onweer",
+        "is_correct": false,
+        "feedback_fa": "این رعدوبرق است، نه لزوماً بادِ شدید."
+      },
+      {
+        "key": "B",
+        "text_nl": "mist",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "storm",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بادِ بسیار شدید و خطرناک."
+      },
+      {
+        "key": "D",
+        "text_nl": "wind",
+        "is_correct": false,
+        "feedback_fa": "این بادِ معمولی و ملایم‌تر است، نه شدید و خطرناک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Er vallen kleine, harde balletjes ijs uit de lucht tijdens het onweer. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "توپ‌های کوچک و سختِ یخ که از آسمان می‌بارند، «hagel» (تگرگ) نامیده می‌شوند.",
+    "grammar_rule_fa": "hagel=تگرگ.",
+    "extra_example_nl": "De hagel maakte deuken in de auto's.",
+    "extra_example_fa": "تگرگ روی ماشین‌ها فرورفتگی ایجاد کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mist",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "hagel",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توپ‌های سختِ یخ."
+      },
+      {
+        "key": "C",
+        "text_nl": "sneeuw",
+        "is_correct": false,
+        "feedback_fa": "این دانه‌های نرم و سفید است، نه توپ‌های سخت."
+      },
+      {
+        "key": "D",
+        "text_nl": "regen",
+        "is_correct": false,
+        "feedback_fa": "این مایع است، نه یخِ سخت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Alles buiten is wit geworden en het is heel koud. Er valt ___ uit de lucht.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دانه‌های نرم و سفید که همه‌جا را سفید می‌کنند، «sneeuw» (برف) نامیده می‌شوند.",
+    "grammar_rule_fa": "sneeuw=برف.",
+    "extra_example_nl": "De sneeuw ligt dik op straat.",
+    "extra_example_fa": "برف روی خیابون کلفت نشسته.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "sneeuw",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دانه‌های نرمِ سفید."
+      },
+      {
+        "key": "B",
+        "text_nl": "hagel",
+        "is_correct": false,
+        "feedback_fa": "این توپ‌های سختِ کوچک است، نه لایه‌ی سفیدِ نرم."
+      },
+      {
+        "key": "C",
+        "text_nl": "regen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "mist",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het is zo koud dat het water op straat hard wordt als ijs. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "سفت‌شدنِ آب به‌خاطرِ سرمای شدید، «vriezen» نامیده می‌شود.",
+    "grammar_rule_fa": "vriezen=یخ‌زدن.",
+    "extra_example_nl": "Het vriest vannacht.",
+    "extra_example_fa": "امشب یخ می‌زنه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dooien",
+        "is_correct": false,
+        "feedback_fa": "این ذوب‌شدنِ یخ است، برعکسِ متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "regenen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "waaien",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "vriezen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ سفت‌شدنِ آب از سرما."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Na een koude week wordt het warmer en de sneeuw smelt weer. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "ذوب‌شدنِ برف و یخ به‌خاطرِ گرم‌شدنِ هوا، «dooien» نامیده می‌شود.",
+    "grammar_rule_fa": "dooien=ذوب‌شدن.",
+    "extra_example_nl": "De sneeuw dooit langzaam.",
+    "extra_example_fa": "برف آروم داره ذوب می‌شه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "regenen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "waaien",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "dooien",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ذوب‌شدنِ برف."
+      },
+      {
+        "key": "D",
+        "text_nl": "vriezen",
+        "is_correct": false,
+        "feedback_fa": "این یخ‌زدن است، برعکسِ متن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vanwege de vrieskou is de stoep spekglad; ik moet voorzichtig lopen. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "لغزنده‌بودنِ سطحِ زمین به‌خاطرِ یخ، «gladheid» نامیده می‌شود.",
+    "grammar_rule_fa": "gladheid=لغزندگی.",
+    "extra_example_nl": "Door gladheid vielen veel mensen.",
+    "extra_example_fa": "به‌خاطرِ لغزندگی خیلی‌ها افتادن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "bewolking",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "gladheid",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ لغزنده‌بودنِ زمین از یخ."
+      },
+      {
+        "key": "C",
+        "text_nl": "mist",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "neerslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vandaag is het 22 graden Celsius, en daarom draag ik geen jas. Dit getal heet de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "عددِ درجه‌ی حرارتِ هوا، «temperatuur» نامیده می‌شود.",
+    "grammar_rule_fa": "temperatuur=دما.",
+    "extra_example_nl": "De temperatuur stijgt naar 25 graden.",
+    "extra_example_fa": "دما تا ۲۵ درجه بالا می‌ره.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "temperatuur",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ عددِ دمای هوا."
+      },
+      {
+        "key": "B",
+        "text_nl": "neerslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "gladheid",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "bewolking",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het is zomer en erg warm buiten, 30 graden. Ik voel me ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "احساسِ گرما در دمای بالا، با کلمه‌ی «warm» بیان می‌شود.",
+    "grammar_rule_fa": "warm=گرم.",
+    "extra_example_nl": "Ik heb het warm vandaag.",
+    "extra_example_fa": "امروز گرمم هست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "koud",
+        "is_correct": false,
+        "feedback_fa": "این احساسِ سرما است، برعکسِ متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "fris",
+        "is_correct": false,
+        "feedback_fa": "این خنکِ ملایم است، خیلی ملایم‌تر از ۳۰ درجه."
+      },
+      {
+        "key": "C",
+        "text_nl": "koel",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "warm",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ احساسِ گرما در ۳۰ درجه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het is winter en ik draag een dikke jas, want ik voel me erg ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "احساسِ سرما در زمستان، با کلمه‌ی «koud» بیان می‌شود.",
+    "grammar_rule_fa": "koud=سرد.",
+    "extra_example_nl": "Ik heb het koud zonder jas.",
+    "extra_example_fa": "بدونِ کت سردمه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "fris",
+        "is_correct": false,
+        "feedback_fa": "این خنکِ ملایم است، نه سرمای شدید."
+      },
+      {
+        "key": "B",
+        "text_nl": "zonnig",
+        "is_correct": false,
+        "feedback_fa": "این توصیفِ هواست، نه احساسِ بدن."
+      },
+      {
+        "key": "C",
+        "text_nl": "koud",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ احساسِ سرما در زمستان."
+      },
+      {
+        "key": "D",
+        "text_nl": "warm",
+        "is_correct": false,
+        "feedback_fa": "این احساسِ گرما است، برعکسِ متن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het is 15 graden: niet echt warm en niet echt koud, maar wel aangenaam koel. Dit voelt ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "احساسِ خنکیِ ملایم و مطبوع، با کلمه‌ی «fris» بیان می‌شود.",
+    "grammar_rule_fa": "fris=خنکِ مطبوع.",
+    "extra_example_nl": "De ochtend voelt fris aan.",
+    "extra_example_fa": "صبح احساسِ خنکیِ مطبوعی داره.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "heet",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "fris",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خنکیِ ملایم و مطبوع."
+      },
+      {
+        "key": "C",
+        "text_nl": "warm",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "koud",
+        "is_correct": false,
+        "feedback_fa": "این سرمای شدید است، نه خنکیِ ملایم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik ben helemaal nat geworden door de harde regen zonder paraplu. Ik ben ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "خیس‌شدنِ کامل و شدید، «drijfnat» نامیده می‌شود.",
+    "grammar_rule_fa": "drijfnat=خیسِ خیس.",
+    "extra_example_nl": "Mijn jas is drijfnat.",
+    "extra_example_fa": "کتم خیسِ خیسه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "drijfnat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خیس‌شدنِ کامل و شدید."
+      },
+      {
+        "key": "B",
+        "text_nl": "vochtig",
+        "is_correct": false,
+        "feedback_fa": "این فقط کمی نم‌دار است، نه خیسِ کامل."
+      },
+      {
+        "key": "C",
+        "text_nl": "droog",
+        "is_correct": false,
+        "feedback_fa": "این برعکسِ متن است."
+      },
+      {
+        "key": "D",
+        "text_nl": "koud",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Om mijn hoofd en schouders droog te houden tijdens de regen, hou ik een ___ boven mijn hoofd.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "وسیله‌ای که بالای سر گرفته می‌شود تا از باران محافظت کند، «paraplu» (چتر) نامیده می‌شود.",
+    "grammar_rule_fa": "paraplu=چتر.",
+    "extra_example_nl": "Mijn paraplu waaide om door de wind.",
+    "extra_example_fa": "چترم به‌خاطرِ باد برگشت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "jas",
+        "is_correct": false,
+        "feedback_fa": "این پوشیده می‌شود، نه بالای سر گرفته می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "sjaal",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "muts",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "paraplu",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ گرفته‌شده بالای سر برای بارون."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het verschil tussen het weer van vandaag en het gemiddelde weer van een heel jaar in een land heet het ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "الگویِ درازمدتِ هوا در یک منطقه، «klimaat» (اقلیم) نامیده می‌شود.",
+    "grammar_rule_fa": "klimaat=اقلیم.",
+    "extra_example_nl": "Het klimaat in Nederland is mild.",
+    "extra_example_fa": "اقلیمِ هلند ملایمه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "weerbericht",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "temperatuur",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "klimaat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ الگویِ درازمدتِ هوا."
+      },
+      {
+        "key": "D",
+        "text_nl": "weer",
+        "is_correct": false,
+        "feedback_fa": "این وضعیتِ روزانه است، نه الگویِ درازمدت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Op de radio vertellen ze elke ochtend of het morgen gaat regenen of zonnig wordt. Dit heet het ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "گزارشِ پیش‌بینیِ هوا، «weerbericht» نامیده می‌شود.",
+    "grammar_rule_fa": "weerbericht=پیش‌بینیِ هوا.",
+    "extra_example_nl": "Het weerbericht voorspelt regen.",
+    "extra_example_fa": "پیش‌بینیِ هوا بارون رو پیش‌بینی می‌کنه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "temperatuur",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "weerbericht",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ گزارشِ پیش‌بینیِ هوا."
+      },
+      {
+        "key": "C",
+        "text_nl": "klimaat",
+        "is_correct": false,
+        "feedback_fa": "این الگویِ درازمدت است، نه گزارشِ روزانه."
+      },
+      {
+        "key": "D",
+        "text_nl": "weer",
+        "is_correct": false,
+        "feedback_fa": "این خودِ وضعیتِ هواست، نه گزارشِ رادیویی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vanochtend was het bewolkt, maar nu schijnt de zon af en toe. De wolken ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "وقتی ابرها کم‌کم می‌روند و آفتاب دیده می‌شود، می‌گوییم ابرها «optrekken».",
+    "grammar_rule_fa": "optrekken=پراکنده‌شدنِ ابرها.",
+    "extra_example_nl": "De wolken trekken langzaam op.",
+    "extra_example_fa": "ابرها آروم دارن پراکنده می‌شن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "trekken op",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پراکنده‌شدنِ ابرها."
+      },
+      {
+        "key": "B",
+        "text_nl": "komen op",
+        "is_correct": false,
+        "feedback_fa": "این یعنی ابرها جمع می‌شن، برعکسِ متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "vallen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "smelten",
+        "is_correct": false,
+        "feedback_fa": "این برای برف است، نه ابر."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het regent niet de hele dag, maar af en toe een klein beetje. We noemen dit lichte ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بارشِ کمِ باران یا برف، «neerslag» نامیده می‌شود.",
+    "grammar_rule_fa": "neerslag=بارش.",
+    "extra_example_nl": "Er wordt weinig neerslag verwacht.",
+    "extra_example_fa": "بارشِ کمی پیش‌بینی می‌شه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mist",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "onweer",
+        "is_correct": false,
+        "feedback_fa": "این پدیده‌ای شدیدتر با رعدوبرق است."
+      },
+      {
+        "key": "C",
+        "text_nl": "storm",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "neerslag",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بارشِ کمِ باران."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De lucht is deels blauw en deels grijs; niet helemaal zonnig en niet helemaal bewolkt. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "آسمانِ نیمه‌آفتابی و نیمه‌ابری، «halfbewolkt» نامیده می‌شود.",
+    "grammar_rule_fa": "halfbewolkt=نیمه‌ابری.",
+    "extra_example_nl": "Het is vandaag halfbewolkt.",
+    "extra_example_fa": "امروز نیمه‌ابریه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zonnig",
+        "is_correct": false,
+        "feedback_fa": "این یعنی کاملاً آفتابی، نه نیمه."
+      },
+      {
+        "key": "B",
+        "text_nl": "mistig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "halfbewolkt",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ آسمانِ نیمه‌آفتابی و نیمه‌ابری."
+      },
+      {
+        "key": "D",
+        "text_nl": "bewolkt",
+        "is_correct": false,
+        "feedback_fa": "این یعنی کاملاً ابری، نه نیمه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vandaag is het min 3 graden: het water buiten bevriest. We zeggen dat het ___ vandaag.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "یخ‌زدنِ آب به‌خاطرِ دمای زیرِ صفر، با فعلِ «vriezen» بیان می‌شود.",
+    "grammar_rule_fa": "vriezen=یخ‌زدن.",
+    "extra_example_nl": "Het vriest al drie dagen.",
+    "extra_example_fa": "سه روزه که یخ می‌زنه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dooit",
+        "is_correct": false,
+        "feedback_fa": "این ذوب‌شدن است، برعکسِ متن."
+      },
+      {
+        "key": "B",
+        "text_nl": "vriest",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ یخ‌زدنِ آب زیرِ صفر درجه."
+      },
+      {
+        "key": "C",
+        "text_nl": "regent",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "waait",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vanwege de dikke, donkere wolken lijkt het al avond, hoewel het pas 15:00 uur is. De lucht is erg ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "تاریک‌بودنِ آسمان به‌خاطرِ ابرهای غلیظ، «donker» نامیده می‌شود.",
+    "grammar_rule_fa": "donker=تاریک.",
+    "extra_example_nl": "De lucht wordt donker voor de storm.",
+    "extra_example_fa": "قبل از طوفان آسمون تاریک می‌شه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "donker",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تاریکیِ آسمان از ابرهای غلیظ."
+      },
+      {
+        "key": "B",
+        "text_nl": "zonnig",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "helder",
+        "is_correct": false,
+        "feedback_fa": "این یعنی روشن و صاف، برعکسِ متن."
+      },
+      {
+        "key": "D",
+        "text_nl": "mistig",
+        "is_correct": false,
+        "feedback_fa": "این کاهشِ دیدِ نزدیک است، نه تاریکیِ کلیِ آسمان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het heeft de hele nacht gevroren, dus 's ochtends is de weg spiegelglad. Automobilisten moeten oppassen voor ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "لغزنده‌بودنِ جاده به‌خاطرِ یخ، «gladheid» نامیده می‌شود.",
+    "grammar_rule_fa": "gladheid=لغزندگیِ جاده.",
+    "extra_example_nl": "Bij gladheid rijden auto's langzamer.",
+    "extra_example_fa": "موقعِ لغزندگی ماشین‌ها آروم‌تر می‌رن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "neerslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "mist",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "storm",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "gladheid",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ لغزنده‌بودنِ جاده از یخ."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Er stond vannacht een harde wind en een paar dikke takken liggen nu afgebroken op straat. Er was dus een lichte ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بادِ به‌اندازه‌ای شدید که شاخه‌ها را می‌شکند، «storm» نامیده می‌شود.",
+    "grammar_rule_fa": "storm=طوفانِ بادی.",
+    "extra_example_nl": "De storm heeft een boom omgewaaid.",
+    "extra_example_fa": "طوفان یک درخت رو انداخت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mist",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "onweer",
+        "is_correct": false,
+        "feedback_fa": "این رعدوبرق است؛ متن فقط به باد اشاره دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "storm",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بادِ شدید که شاخه می‌شکند."
+      },
+      {
+        "key": "D",
+        "text_nl": "bries",
+        "is_correct": false,
+        "feedback_fa": "این نسیمِ ملایم است، خیلی ضعیف‌تر از آنچه شاخه بشکند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Kinderen maken buiten een sneeuwpop, want de tuin ligt helemaal vol ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "لایه‌ی ضخیمِ سفید که برای ساختنِ آدم‌برفی لازم است، «sneeuw» نامیده می‌شود.",
+    "grammar_rule_fa": "sneeuw=برف.",
+    "extra_example_nl": "De tuin ligt vol sneeuw.",
+    "extra_example_fa": "حیاط پر از برفه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mist",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "sneeuw",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ لایه‌ی سفید برای آدم‌برفی."
+      },
+      {
+        "key": "C",
+        "text_nl": "hagel",
+        "is_correct": false,
+        "feedback_fa": "این توپ‌های کوچک است، نه لایه‌ی ضخیم برای ساختن."
+      },
+      {
+        "key": "D",
+        "text_nl": "regen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het was gisteren nog erg koud met sneeuw, maar vandaag is het warmer en de sneeuw smelt langzaam weg. Het weer is aan het ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "ذوب‌شدنِ تدریجیِ برف با گرم‌شدنِ هوا، «dooien» نامیده می‌شود.",
+    "grammar_rule_fa": "dooien=ذوب‌شدنِ تدریجی.",
+    "extra_example_nl": "Het dooit al sinds gisteren.",
+    "extra_example_fa": "از دیروز داره ذوب می‌شه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "dooien",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ذوب‌شدنِ تدریجیِ برف."
+      },
+      {
+        "key": "B",
+        "text_nl": "vriezen",
+        "is_correct": false,
+        "feedback_fa": "این یخ‌زدن است، برعکسِ متن."
+      },
+      {
+        "key": "C",
+        "text_nl": "waaien",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "regenen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "weather",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik kijk elke avond naar het ___ op tv om te weten of ik morgen een paraplu nodig heb.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برنامه‌ی پیش‌بینیِ هوا در تلویزیون، «weerbericht» نامیده می‌شود.",
+    "grammar_rule_fa": "weerbericht=پیش‌بینیِ هوا.",
+    "extra_example_nl": "Volgens het weerbericht regent het morgen.",
+    "extra_example_fa": "طبقِ پیش‌بینیِ هوا فردا بارون میاد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "klimaat",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "temperatuur",
+        "is_correct": false,
+        "feedback_fa": "این فقط عددِ دماست، نه کلِ برنامه."
+      },
+      {
+        "key": "C",
+        "text_nl": "neerslag",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "weerbericht",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برنامه‌ی پیش‌بینیِ هوا."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "worden_present_ongoing",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit gebouw is elke dag schoongemaakt.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون این کار هر روز تکرار می‌شود، باید مجهولِ زمانِ حال «wordt … schoongemaakt» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "Dit kantoor wordt elke week schoongemaakt.",
+    "extra_example_fa": "این دفتر هر هفته تمیز می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit gebouw wordt elke dag schoongemaakt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit gebouw is elke dag schoongemaakt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit gebouw wordt elke dag schoonmaken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit gebouw heeft elke dag schoongemaakt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "worden_present_ongoing",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De post is elke ochtend bezorgd.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "چون این کار هر روز تکرار می‌شود، باید مجهولِ زمانِ حال «wordt … bezorgd» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "De pakketten worden elke middag bezorgd.",
+    "extra_example_fa": "بسته‌ها هر بعدازظهر تحویل داده می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De post is elke ochtend bezorgd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De post wordt elke ochtend bezorgd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De post wordt elke ochtend bezorgen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De post heeft elke ochtend bezorgd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "worden_present_ongoing",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het eten is in de keuken klaargemaakt.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون این کارِ روزمره و در حال انجام است، باید مجهولِ زمانِ حال «wordt … klaargemaakt» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "Het diner wordt buiten geserveerd.",
+    "extra_example_fa": "شام بیرون سرو می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het eten is in de keuken klaargemaakt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het eten wordt in de keuken klaarmaken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het eten wordt in de keuken klaargemaakt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het eten heeft in de keuken klaargemaakt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "worden_present_ongoing",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De regels zijn elk jaar veranderd.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "چون این تغییر هرساله تکرار می‌شود، باید مجهولِ زمانِ حال «worden … veranderd» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "De prijzen worden elk kwartaal aangepast.",
+    "extra_example_fa": "قیمت‌ها هر فصل تعدیل می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De regels zijn elk jaar veranderd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De regels worden elk jaar veranderen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "De regels hebben elk jaar veranderd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De regels worden elk jaar veranderd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "worden_present_ongoing",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Nieuwe medewerkers zijn goed opgeleid.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون این آموزش برای هر کارمندِ جدید تکرار می‌شود، باید مجهولِ زمانِ حال «worden … opgeleid» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "Stagiairs worden altijd goed begeleid.",
+    "extra_example_fa": "کارآموزان همیشه خوب راهنمایی می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nieuwe medewerkers worden goed opgeleid.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nieuwe medewerkers zijn goed opgeleid.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nieuwe medewerkers worden goed opleiden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nieuwe medewerkers hebben goed opgeleid.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "worden_present_ongoing",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De lessen zijn online gegeven.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "چون این کلاس‌ها به‌طور مرتب برگزار می‌شوند، باید مجهولِ زمانِ حال «worden … gegeven» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "De colleges worden dit jaar online gegeven.",
+    "extra_example_fa": "این سال دروسِ دانشگاه آنلاین ارائه می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De lessen zijn online gegeven.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De lessen worden online gegeven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De lessen worden online geven.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De lessen hebben online gegeven.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "worden_present_ongoing",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het park is elk weekend schoongehouden.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون این کار هر آخر هفته تکرار می‌شود، باید مجهولِ زمانِ حال «wordt … schoongehouden» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "Het strand wordt elke zomer schoongemaakt.",
+    "extra_example_fa": "ساحل هر تابستان تمیز می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het park is elk weekend schoongehouden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het park wordt elk weekend schoonhouden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het park wordt elk weekend schoongehouden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het park heeft elk weekend schoongehouden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "worden_present_ongoing",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De patiënten zijn dagelijks gecontroleerd.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "چون این معاینه هر روز تکرار می‌شود، باید مجهولِ زمانِ حال «worden … gecontroleerd» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "De bloeddruk wordt elke ochtend gemeten.",
+    "extra_example_fa": "فشار خون هر صبح اندازه‌گیری می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De patiënten zijn dagelijks gecontroleerd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De patiënten worden dagelijks controleren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "De patiënten hebben dagelijks gecontroleerd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De patiënten worden dagelijks gecontroleerd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "worden_present_ongoing",
+    "life_context": "money",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De rekeningen zijn automatisch betaald.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون این پرداخت هرماهه به‌طور خودکار تکرار می‌شود، باید مجهولِ زمانِ حال «worden … betaald» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "De huur wordt automatisch overgemaakt.",
+    "extra_example_fa": "اجاره به‌طور خودکار واریز می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De rekeningen worden automatisch betaald.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De rekeningen zijn automatisch betaald.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De rekeningen worden automatisch betalen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De rekeningen hebben automatisch betaald.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "worden_present_ongoing",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De software is regelmatig geüpdatet.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "چون این به‌روزرسانی مرتب تکرار می‌شود، باید مجهولِ زمانِ حال «wordt … geüpdatet» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "De app wordt maandelijks bijgewerkt.",
+    "extra_example_fa": "این اپلیکیشن ماهانه به‌روزرسانی می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De software is regelmatig geüpdatet.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De software wordt regelmatig geüpdatet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De software wordt regelmatig updaten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De software heeft regelmatig geüpdatet.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "werd_imperfectum_past",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De brief wordt gisteren verstuurd.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون نشانه‌ی زمانِ گذشته «gisteren» وجود دارد، باید مجهولِ گذشته‌ی ساده «werd … verstuurd» به‌کار رود.",
+    "correction_rule_fa": "چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden».",
+    "extra_example_nl": "Het pakket werd vorige week verstuurd.",
+    "extra_example_fa": "بسته هفته‌ی قبل ارسال شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De brief wordt gisteren verstuurd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De brief werd gisteren versturen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "De brief werd gisteren verstuurd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De brief had gisteren verstuurd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "werd_imperfectum_past",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het huis wordt vorig jaar verkocht.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "چون نشانه‌ی زمانِ گذشته «vorig jaar» وجود دارد، باید مجهولِ گذشته‌ی ساده «werd … verkocht» به‌کار رود.",
+    "correction_rule_fa": "چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden».",
+    "extra_example_nl": "De flat werd twee maanden geleden verkocht.",
+    "extra_example_fa": "آپارتمان دو ماه پیش فروخته شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het huis wordt vorig jaar verkocht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het huis werd vorig jaar verkopen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het huis had vorig jaar verkocht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het huis werd vorig jaar verkocht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "werd_imperfectum_past",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De vergadering wordt twee keer uitgesteld.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون رویداد در گذشته و به‌طور مشخص اتفاق افتاده، باید مجهولِ گذشته‌ی ساده «werd … uitgesteld» به‌کار رود.",
+    "correction_rule_fa": "چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden».",
+    "extra_example_nl": "De training werd één keer verzet.",
+    "extra_example_fa": "دوره‌ی آموزشی یک بار جابه‌جا شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergadering werd twee keer uitgesteld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vergadering wordt twee keer uitgesteld.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vergadering werd twee keer uitstellen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergadering had twee keer uitgesteld.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "werd_imperfectum_past",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De dief wordt door de politie opgepakt.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "چون این اتفاق قبلاً و در گذشته رخ داده، باید مجهولِ گذشته‌ی ساده «werd … opgepakt» به‌کار رود.",
+    "correction_rule_fa": "چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden».",
+    "extra_example_nl": "De verdachte werd gisteren gearresteerd.",
+    "extra_example_fa": "مظنون دیروز دستگیر شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De dief wordt door de politie opgepakt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De dief werd door de politie opgepakt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De dief werd door de politie oppakken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De dief had door de politie opgepakt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "werd_imperfectum_past",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De patiënt wordt meteen geopereerd.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون این عمل در گذشته انجام شده، باید مجهولِ گذشته‌ی ساده «werd … geopereerd» به‌کار رود.",
+    "correction_rule_fa": "چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden».",
+    "extra_example_nl": "De man werd meteen naar het ziekenhuis gebracht.",
+    "extra_example_fa": "آن مرد فوراً به بیمارستان برده شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De patiënt wordt meteen geopereerd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De patiënt werd meteen opereren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "De patiënt werd meteen geopereerd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "D",
+        "text_nl": "De patiënt had meteen geopereerd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "werd_imperfectum_past",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het probleem wordt snel opgelost.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "چون این مشکل قبلاً حل شده و در گذشته اتفاق افتاده، باید مجهولِ گذشته‌ی ساده «werd … opgelost» به‌کار رود.",
+    "correction_rule_fa": "چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden».",
+    "extra_example_nl": "De storing werd binnen een uur verholpen.",
+    "extra_example_fa": "اختلال ظرف یک ساعت برطرف شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het probleem wordt snel opgelost.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het probleem werd snel oplossen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het probleem had snel opgelost.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het probleem werd snel opgelost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "werd_imperfectum_past",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De koffer wordt op het vliegveld gecontroleerd.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون این بازرسی در گذشته اتفاق افتاده، باید مجهولِ گذشته‌ی ساده «werd … gecontroleerd» به‌کار رود.",
+    "correction_rule_fa": "چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden».",
+    "extra_example_nl": "De tas werd bij de balie gewogen.",
+    "extra_example_fa": "کیف در باجه وزن شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De koffer werd op het vliegveld gecontroleerd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De koffer wordt op het vliegveld gecontroleerd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De koffer werd op het vliegveld controleren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De koffer had op het vliegveld gecontroleerd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "werd_imperfectum_past",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De nieuwe wet wordt vorige maand goedgekeurd.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "چون نشانه‌ی زمانِ گذشته «vorige maand» وجود دارد، باید مجهولِ گذشته‌ی ساده «werd … goedgekeurd» به‌کار رود.",
+    "correction_rule_fa": "چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden».",
+    "extra_example_nl": "Het voorstel werd vorige week besproken.",
+    "extra_example_fa": "پیشنهاد هفته‌ی قبل بررسی شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De nieuwe wet wordt vorige maand goedgekeurd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De nieuwe wet werd vorige maand goedgekeurd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De nieuwe wet werd vorige maand goedkeuren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De nieuwe wet had vorige maand goedgekeurd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "is_zijn_perfect_passive",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het rapport wordt al verstuurd.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون کار «قبلاً» تمام شده (al)، باید مجهولِ کامل «is … verstuurd» به‌کار رود، نه «heeft».",
+    "correction_rule_fa": "فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود.",
+    "extra_example_nl": "De uitnodiging is al gestuurd.",
+    "extra_example_fa": "دعوت‌نامه قبلاً ارسال شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het rapport wordt al verstuurd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون کار قبلاً تمام شده، باید از مجهولِ کامل «is/zijn + قسمتِ سوم فعل» استفاده شود، نه «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het rapport is al versturen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het rapport is al verstuurd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het rapport heeft al verstuurd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "is_zijn_perfect_passive",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De auto wordt net gerepareerd.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "چون کار «همین الان» تمام شده (net)، باید مجهولِ کامل «is … gerepareerd» به‌کار رود، نه «heeft».",
+    "correction_rule_fa": "فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود.",
+    "extra_example_nl": "De fiets is net gemaakt.",
+    "extra_example_fa": "دوچرخه همین الان تعمیر شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De auto wordt net gerepareerd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون کار قبلاً تمام شده، باید از مجهولِ کامل «is/zijn + قسمتِ سوم فعل» استفاده شود، نه «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De auto is net repareren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "De auto heeft net gerepareerd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De auto is net gerepareerd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "is_zijn_perfect_passive",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De uitslagen worden onlangs bekendgemaakt.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون کار «اخیراً» تمام شده (onlangs)، باید مجهولِ کامل «zijn … bekendgemaakt» به‌کار رود، نه «hebben».",
+    "correction_rule_fa": "فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود.",
+    "extra_example_nl": "De cijfers zijn al gepubliceerd.",
+    "extra_example_fa": "نمرات قبلاً منتشر شده‌اند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De uitslagen zijn onlangs bekendgemaakt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De uitslagen worden onlangs bekendgemaakt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون کار قبلاً تمام شده، باید از مجهولِ کامل «is/zijn + قسمتِ سوم فعل» استفاده شود، نه «wordt/worden»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De uitslagen zijn onlangs bekendmaken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De uitslagen hebben onlangs bekendgemaakt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "is_zijn_perfect_passive",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het pakket wordt vanmorgen geleverd.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "چون تحویل «امروز صبح» انجام و تمام شده، باید مجهولِ کامل «is … geleverd» به‌کار رود، نه «heeft».",
+    "correction_rule_fa": "فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود.",
+    "extra_example_nl": "De bestelling is gisteren bezorgd.",
+    "extra_example_fa": "سفارش دیروز تحویل داده شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het pakket wordt vanmorgen geleverd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون کار قبلاً تمام شده، باید از مجهولِ کامل «is/zijn + قسمتِ سوم فعل» استفاده شود، نه «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het pakket is vanmorgen geleverd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het pakket is vanmorgen leveren.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het pakket heeft vanmorgen geleverd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "is_zijn_perfect_passive",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De vergunning wordt eindelijk verleend.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون کار «بالاخره» تمام شده (eindelijk)، باید مجهولِ کامل «is … verleend» به‌کار رود، نه «heeft».",
+    "correction_rule_fa": "فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود.",
+    "extra_example_nl": "De vergunning is gisteren afgegeven.",
+    "extra_example_fa": "مجوز دیروز صادر شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vergunning wordt eindelijk verleend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون کار قبلاً تمام شده، باید از مجهولِ کامل «is/zijn + قسمتِ سوم فعل» استفاده شود، نه «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vergunning is eindelijk verlenen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vergunning is eindelijk verleend.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vergunning heeft eindelijk verleend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "is_zijn_perfect_passive",
+    "life_context": "money",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De schade wordt volledig vergoed.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "چون جبرانِ خسارت «کاملاً» تمام شده، باید مجهولِ کامل «is … vergoed» به‌کار رود، نه «heeft».",
+    "correction_rule_fa": "فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود.",
+    "extra_example_nl": "De kosten zijn helemaal terugbetaald.",
+    "extra_example_fa": "هزینه‌ها به‌طور کامل بازپرداخت شده‌اند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De schade wordt volledig vergoed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون کار قبلاً تمام شده، باید از مجهولِ کامل «is/zijn + قسمتِ سوم فعل» استفاده شود، نه «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "De schade is volledig vergoeden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "De schade heeft volledig vergoed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "De schade is volledig vergoed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "is_zijn_perfect_passive",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De vacature wordt al vervuld.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون این موقعیتِ شغلی «قبلاً» پر شده (al)، باید مجهولِ کامل «is … vervuld» به‌کار رود، نه «heeft».",
+    "correction_rule_fa": "فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود.",
+    "extra_example_nl": "De functie is intussen ingevuld.",
+    "extra_example_fa": "آن سِمَت در این میان پر شده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De vacature is al vervuld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De vacature wordt al vervuld.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون کار قبلاً تمام شده، باید از مجهولِ کامل «is/zijn + قسمتِ سوم فعل» استفاده شود، نه «wordt/worden»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De vacature is al vervullen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De vacature heeft al vervuld.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "is_zijn_perfect_passive",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Het probleem met de verwarming wordt opgelost.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "چون مشکل «الان» حل‌شده و تمام است، باید مجهولِ کامل «is … opgelost» به‌کار رود، نه «heeft».",
+    "correction_rule_fa": "فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود.",
+    "extra_example_nl": "De lekkage is gisteren gerepareerd.",
+    "extra_example_fa": "نشتی دیروز تعمیر شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het probleem met de verwarming wordt opgelost.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون کار قبلاً تمام شده، باید از مجهولِ کامل «is/zijn + قسمتِ سوم فعل» استفاده شود، نه «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het probleem met de verwarming is opgelost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het probleem met de verwarming is oplossen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het probleem met de verwarming heeft opgelost.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "passive_with_door_agent",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De brug is momenteel gerepareerd door de gemeente.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "چون تعمیر «هم‌اکنون» در حال انجام است، باید مجهولِ زمانِ حال «wordt … gerepareerd» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "De weg wordt momenteel aangelegd door een bedrijf.",
+    "extra_example_fa": "جاده هم‌اکنون توسط یک شرکت ساخته می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De brug is momenteel gerepareerd door de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De brug wordt momenteel repareren door de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "De brug wordt momenteel gerepareerd door de gemeente.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De brug heeft momenteel gerepareerd door de gemeente.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "passive_with_door_agent",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Het artikel wordt vorige week geschreven door een bekende journalist.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "چون نشانه‌ی زمانِ گذشته «vorige week» وجود دارد، باید مجهولِ گذشته‌ی ساده «werd … geschreven» به‌کار رود.",
+    "correction_rule_fa": "چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden».",
+    "extra_example_nl": "Het boek werd geschreven door een bekende auteur.",
+    "extra_example_fa": "کتاب توسط نویسنده‌ای مشهور نوشته شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Het artikel wordt vorige week geschreven door een bekende journalist.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Het artikel werd vorige week schrijven door een bekende journalist.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het artikel had vorige week geschreven door een bekende journalist.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Het artikel werd vorige week geschreven door een bekende journalist.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. چون در جمله نشانه‌ی زمانِ گذشته وجود دارد، باید فعل کمکیِ مجهولِ گذشته «werd/werden» بیاید، نه زمان حال «wordt/worden»."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "passive_with_door_agent",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De klacht wordt serieus genomen door het bedrijf.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "چون این اقدام «قبلاً» انجام و تمام شده، باید مجهولِ کامل «is … genomen» به‌کار رود، نه «heeft».",
+    "correction_rule_fa": "فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود.",
+    "extra_example_nl": "De vraag is snel beantwoord door de medewerker.",
+    "extra_example_fa": "سؤال سریع توسط کارمند پاسخ داده شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De klacht is serieus genomen door het bedrijf.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "De klacht wordt serieus genomen door het bedrijf.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: چون کار قبلاً تمام شده، باید از مجهولِ کامل «is/zijn + قسمتِ سوم فعل» استفاده شود، نه «wordt/worden»."
+      },
+      {
+        "key": "C",
+        "text_nl": "De klacht is serieus nemen door het bedrijf.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De klacht heeft serieus genomen door het bedrijf.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "passive_voice_error",
+    "subtopic": "passive_with_door_agent",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De beslissing is binnenkort genomen door de rechter.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "چون تصمیم «به‌زودی» گرفته خواهد شد و هنوز اتفاق نیفتاده، باید مجهولِ زمانِ حال «wordt … genomen» به‌کار رود.",
+    "correction_rule_fa": "برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است.",
+    "extra_example_nl": "Het vonnis wordt volgende week uitgesproken door de rechtbank.",
+    "extra_example_fa": "حکم هفته‌ی آینده توسط دادگاه اعلام می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De beslissing is binnenkort genomen door de rechter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De beslissing wordt binnenkort genomen door de rechter.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برای عملی که الان یا به‌طور مرتب انجام می‌شود، باید از مجهولِ «worden» استفاده شود، نه «zijn» که برای نتیجه‌ی تمام‌شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De beslissing wordt binnenkort nemen door de rechter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از فعل کمکیِ مجهول، باید قسمتِ سومِ فعل (voltooid deelwoord) بیاید، نه مصدر (فعل ساده)."
+      },
+      {
+        "key": "D",
+        "text_nl": "De beslissing heeft binnenkort genomen door de rechter.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: فعل مجهول هرگز با «hebben» ساخته نمی‌شود؛ برای زمانِ حال/گذشته‌ی ساده از «worden/werd» و برای زمانِ کامل از «is/zijn» استفاده می‌شود."
+      }
+    ]
+  }
+]

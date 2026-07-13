@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "wrong_person_reflexive",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik vergis zich vaak in namen.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "فعلِ «zich vergissen» انعکاسی است؛ با فاعلِ «ik» ضمیرِ درست «me» است.",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری.",
+    "extra_example_nl": "Jij vergist je soms in data.",
+    "extra_example_fa": "تو گاهی در تاریخ‌ها اشتباه می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik vergis me vaak in namen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik vergis zich vaak in namen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik vergis vaak in namen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik vergis vaak in namen me.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "missing_reflexive",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Jij voelt niet lekker vandaag.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "فعلِ «zich voelen» انعکاسی است؛ با فاعلِ «jij» ضمیرِ درست «je» است.",
+    "correction_rule_fa": "این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است.",
+    "extra_example_nl": "Ik voel me vandaag beter.",
+    "extra_example_fa": "امروز حالم بهتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jij voelt niet lekker vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jij voelt je niet lekker vandaag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jij voelt zich niet lekker vandaag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «jij» ضمیرِ درست «je» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jij voelt niet lekker vandaag je.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "object_pronoun_instead_of_reflexive",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij herinnert hem die dag nog goed.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "فعلِ «zich herinneren» انعکاسی است؛ با فاعلِ سوم‌شخص «hij» ضمیرِ درست «zich» است، نه «hem».",
+    "correction_rule_fa": "با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است.",
+    "extra_example_nl": "Zij herinnert zich die reis nog goed.",
+    "extra_example_fa": "او آن سفر را هنوز خوب به‌یاد دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij herinnert hem die dag nog goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij herinnert die dag nog goed.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij herinnert zich die dag nog goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij herinnert die dag nog goed zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "missing_reflexive",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij vraagt af of dat wel klopt.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "فعلِ «zich afvragen» انعکاسی است؛ با فاعلِ سوم‌شخص «zij» ضمیرِ درست «zich» است.",
+    "correction_rule_fa": "این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است.",
+    "extra_example_nl": "Hij vraagt zich af waarom ze niet belde.",
+    "extra_example_fa": "او از خودش می‌پرسد چرا او زنگ نزد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij vraagt af of dat wel klopt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij vraagt haar af of dat wel klopt.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij vraagt of dat wel klopt zich af.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij vraagt zich af of dat wel klopt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "wrong_person_reflexive",
+    "life_context": "money",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij maken zich zorgen over de kosten.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "فعلِ «zich zorgen maken» انعکاسی است؛ با فاعلِ «wij» ضمیرِ درست «ons» است، نه «zich».",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «wij» ضمیرِ درست «ons» است، نه ضمیرِ دیگری.",
+    "extra_example_nl": "Zij maken zich zorgen over hun baan.",
+    "extra_example_fa": "آن‌ها نگرانِ شغلشان هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij maken ons zorgen over de kosten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «wij» ضمیرِ درست «ons» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij maken zich zorgen over de kosten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «wij» ضمیرِ درست «ons» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij maken zorgen over de kosten.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij maken zorgen over de kosten ons.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "word_order_reflexive",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Jullie moeten concentreren je op het werk.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "با فعلِ وجهی (moeten)، ضمیرِ انعکاسی بلافاصله بعد از فاعل می‌آید و فعلِ اصلی به انتهای جمله می‌رود: «moeten je concentreren».",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر.",
+    "extra_example_nl": "Ik moet me concentreren op de test.",
+    "extra_example_fa": "باید روی آزمون تمرکز کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie moeten concentreren je op het werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie moeten je concentreren op het werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jullie moeten zich concentreren op het werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «jullie» ضمیرِ درست «je» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie moeten concentreren op het werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "wrong_person_reflexive",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik meld zich aan voor de cursus.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "فعلِ جدایی‌پذیرِ انعکاسی «zich aanmelden» است؛ با فاعلِ «ik» ضمیرِ درست «me» است.",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری.",
+    "extra_example_nl": "Jij meldt je aan voor de opleiding.",
+    "extra_example_fa": "تو برای آن دوره ثبت‌نام می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik meld zich aan voor de cursus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik meld aan voor de cursus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik meld me aan voor de cursus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik meld aan voor de cursus me.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "object_pronoun_instead_of_reflexive",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij verontschuldigt hem voor de fout.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "فعلِ «zich verontschuldigen» انعکاسی است؛ با فاعلِ سوم‌شخص «hij» ضمیرِ درست «zich» است، نه «hem».",
+    "correction_rule_fa": "با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است.",
+    "extra_example_nl": "Zij verontschuldigt zich voor de vertraging.",
+    "extra_example_fa": "او بابتِ تأخیر عذرخواهی می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij verontschuldigt hem voor de fout.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij verontschuldigt voor de fout.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij verontschuldigt voor de fout zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij verontschuldigt zich voor de fout.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "object_pronoun_instead_of_reflexive",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij haast haar naar het station.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "فعلِ «zich haasten» انعکاسی است؛ با فاعلِ سوم‌شخص «zij» ضمیرِ درست «zich» است، نه «haar».",
+    "correction_rule_fa": "با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است.",
+    "extra_example_nl": "Hij haast zich naar de vergadering.",
+    "extra_example_fa": "او با عجله به سمتِ جلسه می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij haast zich naar het station.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij haast haar naar het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij haast naar het station.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij haast naar het station zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "word_order_reflexive",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik wil ontspannen me na het werk.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "با فعلِ وجهی (willen)، ضمیرِ انعکاسی بلافاصله بعد از فاعل می‌آید: «wil me ontspannen».",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر.",
+    "extra_example_nl": "Zij wil zich ontspannen in het weekend.",
+    "extra_example_fa": "او می‌خواهد آخر هفته استراحت کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil ontspannen me na het werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil me ontspannen na het werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil zich ontspannen na het werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik wil ontspannen na het werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "object_pronoun_instead_of_reflexive",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De kinderen gedragen hen netjes op school.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "فعلِ «zich gedragen» انعکاسی است؛ با فاعلِ جمعِ سوم‌شخص «de kinderen» ضمیرِ درست «zich» است، نه «hen».",
+    "correction_rule_fa": "با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hen» که برای شخصِ دیگری است.",
+    "extra_example_nl": "De leerlingen gedragen zich rustig in de klas.",
+    "extra_example_fa": "دانش‌آموزان در کلاس آرام رفتار می‌کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen gedragen hen netjes op school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hen» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen gedragen netjes op school.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen gedragen zich netjes op school.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hen» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen gedragen netjes op school zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "object_pronoun_instead_of_reflexive",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij interesseert hem voor techniek.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "فعلِ «zich interesseren voor» انعکاسی است؛ با فاعلِ سوم‌شخص «hij» ضمیرِ درست «zich» است، نه «hem».",
+    "correction_rule_fa": "با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است.",
+    "extra_example_nl": "Zij interesseert zich voor kunst.",
+    "extra_example_fa": "او به هنر علاقه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij interesseert hem voor techniek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij interesseert voor techniek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij interesseert voor techniek zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij interesseert zich voor techniek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "missing_reflexive",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij ergert aan het lawaai.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "فعلِ «zich ergeren aan» انعکاسی است؛ با فاعلِ سوم‌شخص «zij» ضمیرِ درست «zich» است.",
+    "correction_rule_fa": "این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است.",
+    "extra_example_nl": "Hij ergert zich aan de drukte.",
+    "extra_example_fa": "او از شلوغی آزرده می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij ergert zich aan het lawaai.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij ergert aan het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij ergert haar aan het lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij ergert aan het lawaai zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "wrong_person_reflexive",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik schaam zich voor mijn fout.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "فعلِ «zich schamen voor» انعکاسی است؛ با فاعلِ «ik» ضمیرِ درست «me» است.",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری.",
+    "extra_example_nl": "Hij schaamt zich voor zijn gedrag.",
+    "extra_example_fa": "او از رفتارش خجالت می‌کشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik schaam zich voor mijn fout.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik schaam me voor mijn fout.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik schaam voor mijn fout.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik schaam voor mijn fout me.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "object_pronoun_instead_of_reflexive",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De kinderen vervelen hen thuis.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "فعلِ «zich vervelen» انعکاسی است؛ با فاعلِ جمعِ سوم‌شخص «de kinderen» ضمیرِ درست «zich» است، نه «hen».",
+    "correction_rule_fa": "با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hen» که برای شخصِ دیگری است.",
+    "extra_example_nl": "De leerlingen vervelen zich in de les.",
+    "extra_example_fa": "دانش‌آموزان در کلاس حوصله‌شان سر می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen vervelen hen thuis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hen» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen vervelen thuis.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen vervelen zich thuis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hen» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen vervelen thuis zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "wrong_person_reflexive",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Wij bereiden zich voor op het examen.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "فعلِ «zich voorbereiden op» انعکاسی است؛ با فاعلِ «wij» ضمیرِ درست «ons» است، نه «zich».",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «wij» ضمیرِ درست «ons» است، نه ضمیرِ دیگری.",
+    "extra_example_nl": "Zij bereiden zich voor op de reis.",
+    "extra_example_fa": "آن‌ها برای سفر آماده می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij bereiden zich voor op het examen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «wij» ضمیرِ درست «ons» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij bereiden voor op het examen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij bereiden voor op het examen ons.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij bereiden ons voor op het examen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «wij» ضمیرِ درست «ons» است، نه ضمیرِ دیگری."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "object_pronoun_instead_of_reflexive",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij verheugt haar op de vakantie.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "فعلِ «zich verheugen op» انعکاسی است؛ با فاعلِ سوم‌شخص «zij» ضمیرِ درست «zich» است، نه «haar».",
+    "correction_rule_fa": "با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است.",
+    "extra_example_nl": "Hij verheugt zich op het weekend.",
+    "extra_example_fa": "او مشتاقِ آخر هفته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij verheugt zich op de vakantie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij verheugt haar op de vakantie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij verheugt op de vakantie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij verheugt op de vakantie haar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ اشتباه «haar» به‌کار رفته و در جای نادرستی هم آمده؛ باید «zich» بلافاصله بعد از فعل بیاید"
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "object_pronoun_instead_of_reflexive",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij wast hem elke ochtend.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "فعلِ «zich wassen» انعکاسی است؛ با فاعلِ سوم‌شخص «hij» ضمیرِ درست «zich» است، نه «hem».",
+    "correction_rule_fa": "با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است.",
+    "extra_example_nl": "Zij wast zich voor het slapen.",
+    "extra_example_fa": "او قبل از خواب خودش را می‌شوید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij wast hem elke ochtend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij wast zich elke ochtend.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij wast elke ochtend.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij wast elke ochtend zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "missing_reflexive",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "De kinderen kleden zelf aan.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "فعلِ جدایی‌پذیرِ انعکاسی «zich aankleden» است؛ با فاعلِ جمعِ سوم‌شخص «de kinderen» ضمیرِ درست «zich» است.",
+    "correction_rule_fa": "این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است.",
+    "extra_example_nl": "Het kind kleedt zich zelf aan.",
+    "extra_example_fa": "آن بچه خودش لباس می‌پوشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kinderen kleden zelf aan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "B",
+        "text_nl": "De kinderen kleden hen zelf aan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hen» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "C",
+        "text_nl": "De kinderen kleden zich zelf aan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "De kinderen kleden zelf aan zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "register",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "U vergist je, meneer.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "با ضمیرِ رسمیِ «u» باید ضمیرِ انعکاسیِ رسمیِ «zich» به‌کار رود، نه «je» که غیررسمی است.",
+    "correction_rule_fa": "با ضمیرِ رسمیِ «u» باید ضمیرِ انعکاسیِ «zich» به‌کار رود، نه «je» که غیررسمی است.",
+    "extra_example_nl": "Vergist u zich niet in het adres?",
+    "extra_example_fa": "آیا در آدرس اشتباه نمی‌کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U vergist je, meneer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با ضمیرِ رسمیِ «u» باید ضمیرِ انعکاسیِ «zich» به‌کار رود، نه «je» که غیررسمی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "U vergist, meneer.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "U vergist meneer zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "U vergist zich, meneer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با ضمیرِ رسمیِ «u» باید ضمیرِ انعکاسیِ «zich» به‌کار رود، نه «je» که غیررسمی است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "wrong_person_reflexive",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik vraag zich af waarom hij niet belde.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "فعلِ «zich afvragen» انعکاسی است؛ با فاعلِ «ik» ضمیرِ درست «me» است.",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری.",
+    "extra_example_nl": "Zij vraagt zich af of hij komt.",
+    "extra_example_fa": "او از خودش می‌پرسد آیا او می‌آید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik vraag me af waarom hij niet belde.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik vraag zich af waarom hij niet belde.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik vraag af waarom hij niet belde.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik vraag waarom hij niet belde me af.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "object_pronoun_instead_of_reflexive",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Mijn ouders maken hen zorgen over mijn baan.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "فعلِ «zich zorgen maken» انعکاسی است؛ با فاعلِ جمعِ سوم‌شخص «mijn ouders» ضمیرِ درست «zich» است، نه «hen».",
+    "correction_rule_fa": "با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hen» که برای شخصِ دیگری است.",
+    "extra_example_nl": "Mijn buren maken zich zorgen over de storm.",
+    "extra_example_fa": "همسایه‌هایم نگرانِ طوفان هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn ouders maken hen zorgen over mijn baan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hen» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn ouders maken zich zorgen over mijn baan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hen» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn ouders maken zorgen over mijn baan.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn ouders maken zorgen over mijn baan zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "word_order_reflexive",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik kan niet concentreren me met dat lawaai.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "با فعلِ وجهی (kunnen)، ضمیرِ انعکاسی بلافاصله بعد از فاعل می‌آید: «kan me niet concentreren».",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر.",
+    "extra_example_nl": "Zij kan zich niet concentreren op haar werk.",
+    "extra_example_fa": "او نمی‌تواند روی کارش تمرکز کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik kan niet concentreren me met dat lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kan zich niet concentreren met dat lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik kan me niet concentreren met dat lawaai.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik kan niet concentreren met dat lawaai.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "word_order_reflexive",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij moet voorbereiden zich op het gesprek.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "با فعلِ وجهی (moeten)، ضمیرِ انعکاسی بلافاصله بعد از فاعل می‌آید: «moet zich voorbereiden».",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر.",
+    "extra_example_nl": "Zij moet zich voorbereiden op de reis.",
+    "extra_example_fa": "او باید برای سفر آماده شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij moet voorbereiden zich op het gesprek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij moet hem voorbereiden op het gesprek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij moet voorbereiden op het gesprek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij moet zich voorbereiden op het gesprek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "word_order_reflexive",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Jullie moeten haasten je, de trein vertrekt zo.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "با فعلِ وجهی (moeten)، ضمیرِ انعکاسی بلافاصله بعد از فاعل می‌آید: «moeten je haasten».",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر.",
+    "extra_example_nl": "Wij moeten ons haasten naar de gate.",
+    "extra_example_fa": "باید به‌سمتِ گیت عجله کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Jullie moeten je haasten, de trein vertrekt zo.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Jullie moeten haasten je, de trein vertrekt zo.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "C",
+        "text_nl": "Jullie moeten zich haasten, de trein vertrekt zo.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «jullie» ضمیرِ درست «je» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Jullie moeten haasten, de trein vertrekt zo.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "wrong_person_reflexive",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Wij interesseren zich voor kunst.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "فعلِ «zich interesseren voor» انعکاسی است؛ با فاعلِ «wij» ضمیرِ درست «ons» است، نه «zich».",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «wij» ضمیرِ درست «ons» است، نه ضمیرِ دیگری.",
+    "extra_example_nl": "Zij interesseren zich voor muziek.",
+    "extra_example_fa": "آن‌ها به موسیقی علاقه دارند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wij interesseren zich voor kunst.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «wij» ضمیرِ درست «ons» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wij interesseren ons voor kunst.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «wij» ضمیرِ درست «ons» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij interesseren voor kunst.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wij interesseren voor kunst ons.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "wrong_person_reflexive",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik erger zich aan lange wachttijden.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "فعلِ «zich ergeren aan» انعکاسی است؛ با فاعلِ «ik» ضمیرِ درست «me» است.",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری.",
+    "extra_example_nl": "Jij ergert je aan de drukte in de stad.",
+    "extra_example_fa": "تو از شلوغیِ شهر آزرده می‌شوی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik erger zich aan lange wachttijden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik erger aan lange wachttijden.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik erger me aan lange wachttijden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik erger aan lange wachttijden me.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "word_order_reflexive",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij moet gedragen zich beter op zijn werk.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "با فعلِ وجهی (moeten)، ضمیرِ انعکاسی بلافاصله بعد از فاعل می‌آید: «moet zich gedragen».",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر.",
+    "extra_example_nl": "Zij moet zich beter gedragen tegenover klanten.",
+    "extra_example_fa": "او باید رفتارِ بهتری با مشتری‌ها داشته باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij moet gedragen zich beter op zijn werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij moet hem beter gedragen op zijn werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «hem» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij moet beter gedragen op zijn werk.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij moet zich beter gedragen op zijn werk.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "object_pronoun_instead_of_reflexive",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij schaamt haar voor haar gedrag.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "فعلِ «zich schamen voor» انعکاسی است؛ با فاعلِ سوم‌شخص «zij» ضمیرِ درست «zich» است، نه «haar».",
+    "correction_rule_fa": "با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است.",
+    "extra_example_nl": "Hij schaamt zich voor zijn fout.",
+    "extra_example_fa": "او از اشتباهش خجالت می‌کشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij schaamt zich voor haar gedrag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij schaamt haar voor haar gedrag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با فاعلِ سوم‌شخص، ضمیرِ انعکاسیِ «zich» لازم است، نه ضمیرِ مفعولیِ «haar» که برای شخصِ دیگری است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij schaamt voor haar gedrag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij schaamt voor haar gedrag zich.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "reflexive_verb_error",
+    "subtopic": "wrong_person_reflexive",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Ik verveel zich op zondagmiddag.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "فعلِ «zich vervelen» انعکاسی است؛ با فاعلِ «ik» ضمیرِ درست «me» است.",
+    "correction_rule_fa": "ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری.",
+    "extra_example_nl": "Jij verveelt je in de vakantie.",
+    "extra_example_fa": "تو در تعطیلات حوصله‌ات سر می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik verveel zich op zondagmiddag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik verveel me op zondagmiddag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. ضمیرِ انعکاسی باید با فاعل هماهنگ باشد؛ با «ik» ضمیرِ درست «me» است، نه ضمیرِ دیگری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik verveel op zondagmiddag.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: این فعل، فعلِ انعکاسی (wederkerend) است و همیشه به ضمیرِ انعکاسی نیاز دارد؛ بدون آن جمله ناقص است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik verveel op zondagmiddag me.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: ضمیرِ انعکاسی باید بلافاصله بعد از فاعل (یا بعد از فعلِ کمکی/وجهی) بیاید، نه در انتهای جمله بعد از مصدر."
+      }
+    ]
+  }
+]

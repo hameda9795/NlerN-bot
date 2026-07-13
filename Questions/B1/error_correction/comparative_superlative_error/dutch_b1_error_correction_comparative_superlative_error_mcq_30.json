@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_irregular",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Amsterdam is grootst dan Utrecht.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "برای مقایسه‌ی دو چیز، صفت + -er + «dan» استفاده می‌شود: «groter dan».",
+    "correction_rule_fa": "تفضیلی: صفت + -er + dan (نه als، نه meer).",
+    "extra_example_nl": "Rotterdam is drukker dan Utrecht.",
+    "extra_example_fa": "روتردام شلوغ‌تر از اوترخت است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Amsterdam is groter dan Utrecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. تفضیلی: صفت + -er + dan (نه als، نه meer)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Amsterdam is grootst dan Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای شکل تفضیلی «groter»، شکل عالی بدون کاربرد درست «grootst» آمده است. تفضیلی: صفت + -er + dan (نه als، نه meer)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Amsterdam is meer groot dan Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: صفتِ کوتاه هلندی با «meer» ساخته نمی‌شود؛ باید پسوند -er بگیرد: «groter». تفضیلی: صفت + -er + dan (نه als، نه meer)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Amsterdam is groter als Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای مقایسه با تفضیلی از «dan» استفاده می‌شود، نه «als». تفضیلی: صفت + -er + dan (نه als، نه meer)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_regular",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Dit jaar is de zomer warmst dan vorig jaar.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "صفتِ «warm» در مقایسه با -er می‌شود «warmer» و با «dan» ادامه می‌یابد.",
+    "correction_rule_fa": "تفضیلی: صفت + -er + dan.",
+    "extra_example_nl": "Deze winter is kouder dan vorig jaar.",
+    "extra_example_fa": "این زمستان از سال قبل سردتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit jaar is de zomer warmst dan vorig jaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکل عالیِ «warmst» به‌جای تفضیلیِ «warmer» به‌کار رفته. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit jaar is de zomer warmer dan vorig jaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit jaar is de zomer meer warm dan vorig jaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -er، از «meer» استفاده شده که اضافی و غلط است. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit jaar is de zomer warmer als vorig jaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از تفضیلی باید «dan» بیاید، نه «als». تفضیلی: صفت + -er + dan."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_irregular_goed",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Mijn cijfer dit jaar is goeder dan vorig jaar.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "صفتِ goed نامنظم است: goed → beter → best. اینجا تفضیلی «beter» با «dan» درست است.",
+    "correction_rule_fa": "نامنظم: goed → beter → best.",
+    "extra_example_nl": "Zijn Nederlands is beter dan mijn Nederlands.",
+    "extra_example_fa": "هلندی‌اش از هلندی من بهتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn cijfer dit jaar is goeder dan vorig jaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «goeder» وجود ندارد؛ شکل تفضیلیِ نامنظمِ goed برابر است با «beter». نامنظم: goed → beter → best."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn cijfer dit jaar is meer goed dan vorig jaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با صفتِ نامنظم goed نباید از «meer» استفاده کرد؛ شکل درست «beter» است. نامنظم: goed → beter → best."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn cijfer dit jaar is beter dan vorig jaar.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: goed → beter → best."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn cijfer dit jaar is beter als vorig jaar.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از تفضیلی «beter» باید «dan» بیاید، نه «als». نامنظم: goed → beter → best."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_irregular_goed",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij is de goedste student van de klas.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "صفتِ goed نامنظم است: goed → beter → best. در حالت عالی و پیش از اسم، «de beste» با -e می‌آید.",
+    "correction_rule_fa": "نامنظم: goed → beter → best؛ عالی همیشه با de/het + -e.",
+    "extra_example_nl": "Zij is de beste dokter van het ziekenhuis.",
+    "extra_example_fa": "او بهترین دکترِ بیمارستان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is de goedste student van de klas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «goedste» وجود ندارد؛ شکل عالیِ نامنظمِ goed برابر است با «beste». نامنظم: goed → beter → best؛ عالی همیشه با de/het + -e."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij is de meest goede student van de klas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با صفتِ نامنظم goed نباید از «meest» استفاده کرد؛ شکل درست «beste» است. نامنظم: goed → beter → best؛ عالی همیشه با de/het + -e."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij is beste student van de klas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید: «de beste». نامنظم: goed → beter → best؛ عالی همیشه با de/het + -e."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij is de beste student van de klas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: goed → beter → best؛ عالی همیشه با de/het + -e."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_irregular_veel",
+    "life_context": "money",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij geeft het veelste geld uit van het hele gezin.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "صفتِ veel نامنظم است: veel → meer → meest. چون «geld» کلمه‌ی het است، می‌شود «het meeste geld».",
+    "correction_rule_fa": "نامنظم: veel → meer → meest؛ با het-woord: het meeste.",
+    "extra_example_nl": "Hij verdient het meeste geld van het bedrijf.",
+    "extra_example_fa": "او بیشترین درآمد را در شرکت دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij geeft het meeste geld uit van het hele gezin.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: veel → meer → meest؛ با het-woord: het meeste."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij geeft het veelste geld uit van het hele gezin.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «veelste» وجود ندارد؛ شکل عالیِ نامنظمِ veel برابر است با «meest». نامنظم: veel → meer → meest؛ با het-woord: het meeste."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij geeft de meeste geld uit van het hele gezin.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «geld» کلمه‌ی het است؛ باید «het meeste geld» باشد، نه «de meeste». نامنظم: veel → meer → meest؛ با het-woord: het meeste."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij geeft meer geld uit van het hele gezin.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای مقایسه با همه‌ی گروه باید از حالتِ عالی «meeste» استفاده شود، نه تفضیلیِ «meer». نامنظم: veel → meer → meest؛ با het-woord: het meeste."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_weinig",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij eet weiniger vlees dan vroeger.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "صفتِ weinig نامنظم است: weinig → minder → minst. اینجا تفضیلی «minder» با «dan» درست است.",
+    "correction_rule_fa": "نامنظم: weinig → minder → minst.",
+    "extra_example_nl": "Hij slaapt minder dan vroeger.",
+    "extra_example_fa": "او کمتر از قبل می‌خوابد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij eet weiniger vlees dan vroeger.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «weiniger» وجود ندارد؛ شکل تفضیلیِ نامنظمِ weinig برابر است با «minder». نامنظم: weinig → minder → minst."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij eet minder vlees dan vroeger.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: weinig → minder → minst."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij eet meer weinig vlees dan vroeger.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با صفتِ نامنظم weinig نباید از «meer» استفاده کرد؛ شکل درست «minder» است. نامنظم: weinig → minder → minst."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij eet minder vlees als vroeger.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از تفضیلی «minder» باید «dan» بیاید، نه «als». نامنظم: weinig → minder → minst."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_weinig",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Van alle collega's heeft zij de weinigste vrije tijd.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "صفتِ weinig نامنظم است: weinig → minder → minst. چون «tijd» کلمه‌ی de است، می‌شود «de minste tijd».",
+    "correction_rule_fa": "نامنظم: weinig → minder → minst؛ با de-woord: de minste.",
+    "extra_example_nl": "Van de hele groep heeft hij de minste ervaring.",
+    "extra_example_fa": "او در کل گروه کمترین تجربه را دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Van alle collega's heeft zij de weinigste vrije tijd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «weinigste» وجود ندارد؛ شکل عالیِ نامنظمِ weinig برابر است با «minste». نامنظم: weinig → minder → minst؛ با de-woord: de minste."
+      },
+      {
+        "key": "B",
+        "text_nl": "Van alle collega's heeft zij het minste vrije tijd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «tijd» کلمه‌ی de است؛ باید «de minste tijd» باشد، نه «het minste». نامنظم: weinig → minder → minst؛ با de-woord: de minste."
+      },
+      {
+        "key": "C",
+        "text_nl": "Van alle collega's heeft zij de minste vrije tijd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: weinig → minder → minst؛ با de-woord: de minste."
+      },
+      {
+        "key": "D",
+        "text_nl": "Van alle collega's heeft zij minder vrije tijd.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای مقایسه با همه‌ی همکاران باید از حالتِ عالی «minste» استفاده شود، نه تفضیلیِ «minder». نامنظم: weinig → minder → minst؛ با de-woord: de minste."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_graag_liever",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Ik werk graager thuis dan op kantoor.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "قیدِ graag نامنظم است: graag → liever → liefst. اینجا تفضیلی «liever» با «dan» درست است.",
+    "correction_rule_fa": "نامنظم: graag → liever → liefst.",
+    "extra_example_nl": "Zij drinkt liever thee dan koffie.",
+    "extra_example_fa": "او چای را بیشتر از قهوه دوست دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik werk graager thuis dan op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «graager» وجود ندارد؛ شکل تفضیلیِ نامنظمِ graag برابر است با «liever». نامنظم: graag → liever → liefst."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik werk meer graag thuis dan op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با قیدِ نامنظم graag نباید از «meer» استفاده کرد؛ شکل درست «liever» است. نامنظم: graag → liever → liefst."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik werk liever thuis als op kantoor.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از تفضیلی «liever» باید «dan» بیاید، نه «als». نامنظم: graag → liever → liefst."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik werk liever thuis dan op kantoor.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: graag → liever → liefst."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_ouder",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Mijn broer is oudst dan mijn zus.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "صفتِ «oud» در مقایسه با -er می‌شود «ouder» و با «dan» ادامه می‌یابد.",
+    "correction_rule_fa": "تفضیلی: صفت + -er + dan.",
+    "extra_example_nl": "Mijn opa is ouder dan mijn oma.",
+    "extra_example_fa": "پدربزرگم از مادربزرگم مسن‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn broer is ouder dan mijn zus.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn broer is oudst dan mijn zus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکل عالیِ «oudst» به‌جای تفضیلیِ «ouder» به‌کار رفته. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn broer is meer oud dan mijn zus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -er، از «meer» استفاده شده که اضافی و غلط است. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn broer is ouder als mijn zus.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از تفضیلی باید «dan» بیاید، نه «als». تفضیلی: صفت + -er + dan."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_lekker_r_ending",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Dit recept is lekkerst dan het oude recept.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "صفت‌هایی که به -r ختم می‌شوند (مثل lekker) در تفضیلی -der می‌گیرند: «lekkerder».",
+    "correction_rule_fa": "تفضیلی برای صفتِ ختم‌شده به -r: صفت + -der + dan.",
+    "extra_example_nl": "Deze soep is lekkerder dan de andere soep.",
+    "extra_example_fa": "این سوپ از سوپ دیگر خوشمزه‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit recept is lekkerst dan het oude recept.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکل عالیِ «lekkerst» به‌جای تفضیلیِ «lekkerder» به‌کار رفته. تفضیلی برای صفتِ ختم‌شده به -r: صفت + -der + dan."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit recept is lekkerder dan het oude recept.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. تفضیلی برای صفتِ ختم‌شده به -r: صفت + -der + dan."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit recept is meer lekker dan het oude recept.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -der، از «meer» استفاده شده که اضافی و غلط است. تفضیلی برای صفتِ ختم‌شده به -r: صفت + -der + dan."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit recept is lekkerder als het oude recept.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از تفضیلی باید «dan» بیاید، نه «als». تفضیلی برای صفتِ ختم‌شده به -r: صفت + -der + dan."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_aardig",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Mijn nieuwe buurman is aardigst dan de vorige.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "صفتِ «aardig» در مقایسه با -er می‌شود «aardiger» و با «dan» ادامه می‌یابد.",
+    "correction_rule_fa": "تفضیلی: صفت + -er + dan.",
+    "extra_example_nl": "Deze buurt is rustiger dan de vorige.",
+    "extra_example_fa": "این محله از قبلی آرام‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn nieuwe buurman is aardigst dan de vorige.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکل عالیِ «aardigst» به‌جای تفضیلیِ «aardiger» به‌کار رفته. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn nieuwe buurman is meer aardig dan de vorige.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -er، از «meer» استفاده شده که اضافی و غلط است. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn nieuwe buurman is aardiger dan de vorige.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn nieuwe buurman is aardiger als de vorige.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از تفضیلی باید «dan» بیاید، نه «als». تفضیلی: صفت + -er + dan."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_duur",
+    "life_context": "technology",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De nieuwe telefoon is duurst dan de oude.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "صفتِ «duur» در مقایسه با -der می‌شود «duurder» و با «dan» ادامه می‌یابد.",
+    "correction_rule_fa": "تفضیلی برای صفتِ ختم‌شده به -r: صفت + -der + dan.",
+    "extra_example_nl": "Deze laptop is duurder dan die laptop.",
+    "extra_example_fa": "این لپ‌تاپ از آن لپ‌تاپ گران‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De nieuwe telefoon is duurst dan de oude.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکل عالیِ «duurst» به‌جای تفضیلیِ «duurder» به‌کار رفته. تفضیلی برای صفتِ ختم‌شده به -r: صفت + -der + dan."
+      },
+      {
+        "key": "B",
+        "text_nl": "De nieuwe telefoon is meer duur dan de oude.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -er، از «meer» استفاده شده که اضافی و غلط است. تفضیلی برای صفتِ ختم‌شده به -r: صفت + -der + dan."
+      },
+      {
+        "key": "C",
+        "text_nl": "De nieuwe telefoon is duurder als de oude.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از تفضیلی باید «dan» بیاید، نه «als». تفضیلی برای صفتِ ختم‌شده به -r: صفت + -der + dan."
+      },
+      {
+        "key": "D",
+        "text_nl": "De nieuwe telefoon is duurder dan de oude.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. تفضیلی برای صفتِ ختم‌شده به -r: صفت + -der + dan."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_interessant",
+    "life_context": "media",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit artikel is interessantst dan het vorige artikel.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "صفتِ «interessant» در مقایسه با -er می‌شود «interessanter» و با «dan» ادامه می‌یابد.",
+    "correction_rule_fa": "تفضیلی: صفت + -er + dan (حتی برای صفت‌های بلند).",
+    "extra_example_nl": "Deze film is interessanter dan die film.",
+    "extra_example_fa": "این فیلم از آن فیلم جالب‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit artikel is interessanter dan het vorige artikel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. تفضیلی: صفت + -er + dan (حتی برای صفت‌های بلند)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit artikel is interessantst dan het vorige artikel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکل عالیِ «interessantst» به‌جای تفضیلیِ «interessanter» به‌کار رفته. تفضیلی: صفت + -er + dan (حتی برای صفت‌های بلند)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit artikel is meer interessant dan het vorige artikel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: صفتِ چندهجایی نیز باید -er بگیرد، نه «meer»؛ «interessanter» درست است. تفضیلی: صفت + -er + dan (حتی برای صفت‌های بلند)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit artikel is interessanter als het vorige artikel.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از تفضیلی باید «dan» بیاید، نه «als». تفضیلی: صفت + -er + dan (حتی برای صفت‌های بلند)."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "comparative_duidelijk",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "De uitleg van de leraar was duidelijkst dan die van het boek.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "صفتِ «duidelijk» در مقایسه با -er می‌شود «duidelijker» و با «dan» ادامه می‌یابد.",
+    "correction_rule_fa": "تفضیلی: صفت + -er + dan.",
+    "extra_example_nl": "Zijn uitleg was duidelijker dan de vorige les.",
+    "extra_example_fa": "توضیحِ او از درسِ قبلی واضح‌تر بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De uitleg van de leraar was duidelijkst dan die van het boek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: شکل عالیِ «duidelijkst» به‌جای تفضیلیِ «duidelijker» به‌کار رفته. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "B",
+        "text_nl": "De uitleg van de leraar was duidelijker dan die van het boek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "C",
+        "text_nl": "De uitleg van de leraar was meer duidelijk dan die van het boek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -er، از «meer» استفاده شده که اضافی و غلط است. تفضیلی: صفت + -er + dan."
+      },
+      {
+        "key": "D",
+        "text_nl": "De uitleg van de leraar was duidelijker als die van het boek.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: بعد از تفضیلی باید «dan» بیاید، نه «als». تفضیلی: صفت + -er + dan."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_grootste",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Amsterdam is grootste stad van Nederland.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "برای مقایسه با یک گروه کامل (اینجا کل کشور)، حالتِ عالی لازم است: de + صفت + -ste.",
+    "correction_rule_fa": "عالی: de/het + صفت + -ste/-st + van.",
+    "extra_example_nl": "Utrecht is de oudste stad van deze regio.",
+    "extra_example_fa": "اوترخت قدیمی‌ترین شهرِ این منطقه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Amsterdam is grootste stad van Nederland.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "B",
+        "text_nl": "Amsterdam is de groter stad van Nederland.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای شکل عالی «grootste»، شکل تفضیلیِ «groter» به‌کار رفته. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "C",
+        "text_nl": "Amsterdam is de grootste stad van Nederland.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "D",
+        "text_nl": "Amsterdam is de meest grote stad van Nederland.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -ste، از «meest» استفاده شده که اضافی و غلط است. عالی: de/het + صفت + -ste/-st + van."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_beste_oplossing",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Dit is beste oplossing van alle opties.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "صفتِ goed نامنظم است: goed → beter → best. در حالتِ عالی و پیش از اسم، «de beste» می‌شود.",
+    "correction_rule_fa": "نامنظم: goed → beter → best؛ عالی: de + beste.",
+    "extra_example_nl": "Dit is de beste keuze van alle mogelijkheden.",
+    "extra_example_fa": "این بهترین انتخاب از میان همه‌ی گزینه‌هاست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is beste oplossing van alle opties.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. نامنظم: goed → beter → best؛ عالی: de + beste."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is de goedste oplossing van alle opties.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «goedste» وجود ندارد؛ شکل عالیِ نامنظمِ goed برابر است با «beste». نامنظم: goed → beter → best؛ عالی: de + beste."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is de meer goede oplossing van alle opties.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با صفتِ نامنظم goed نباید از «meer» استفاده کرد؛ شکل درست «beste» است. نامنظم: goed → beter → best؛ عالی: de + beste."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is de beste oplossing van alle opties.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: goed → beter → best؛ عالی: de + beste."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_oudste_familie",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Hij is oudste van de hele familie.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "برای مقایسه با کل خانواده، حالتِ عالی لازم است: de + صفت + -ste.",
+    "correction_rule_fa": "عالی: de/het + صفت + -ste/-st + van.",
+    "extra_example_nl": "Zij is de jongste van de hele familie.",
+    "extra_example_fa": "او جوان‌ترینِ کل خانواده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij is de oudste van de hele familie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij is oudste van de hele familie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij is de ouder van de hele familie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای شکل عالی «oudste»، شکل تفضیلیِ «ouder» به‌کار رفته. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij is de meest oud van de hele familie.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -ste، از «meest» استفاده شده که اضافی و غلط است. عالی: de/het + صفت + -ste/-st + van."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_duurste_wijk",
+    "life_context": "housing",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Deze wijk is duurste van de hele stad.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "برای مقایسه با کل شهر، حالتِ عالی لازم است: de + صفت + -ste.",
+    "correction_rule_fa": "عالی: de/het + صفت + -ste/-st + van.",
+    "extra_example_nl": "Dit huis is het duurste van de straat.",
+    "extra_example_fa": "این خانه گران‌ترینِ خیابان است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze wijk is duurste van de hele stad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze wijk is de duurste van de hele stad.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze wijk is de duurder van de hele stad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای شکل عالی «duurste»، شکل تفضیلیِ «duurder» به‌کار رفته. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze wijk is de meest duur van de hele stad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -ste، از «meest» استفاده شده که اضافی و غلط است. عالی: de/het + صفت + -ste/-st + van."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_moeilijkste_test",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Dit is moeilijkste vraag van de hele test.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "برای مقایسه با تمامِ سؤال‌های آزمون، حالتِ عالی لازم است: de + صفت + -ste.",
+    "correction_rule_fa": "عالی: de/het + صفت + -ste/-st + van.",
+    "extra_example_nl": "Dit is de makkelijkste oefening van het boek.",
+    "extra_example_fa": "این ساده‌ترین تمرینِ کتاب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is moeilijkste vraag van de hele test.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is de moeilijker vraag van de hele test.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای شکل عالی «moeilijkste»، شکل تفضیلیِ «moeilijker» به‌کار رفته. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is de moeilijkste vraag van de hele test.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is de meest moeilijke vraag van de hele test.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -ste، از «meest» استفاده شده که اضافی و غلط است. عالی: de/het + صفت + -ste/-st + van."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_meeste_geld_team",
+    "life_context": "money",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Zij verdient meeste geld van het hele team.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "صفتِ veel نامنظم است: veel → meer → meest؛ چون «geld» het-woord است، «het meeste geld» می‌شود.",
+    "correction_rule_fa": "نامنظم: veel → meer → meest؛ het-woord: het meeste.",
+    "extra_example_nl": "Hij spaart het meeste geld van de familie.",
+    "extra_example_fa": "او بیشترین پس‌انداز را در خانواده دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij verdient meeste geld van het hele team.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «het» بیاید (geld است het-woord). نامنظم: veel → meer → meest؛ het-woord: het meeste."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij verdient het veelste geld van het hele team.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «veelste» وجود ندارد؛ شکل عالیِ نامنظمِ veel برابر است با «meest». نامنظم: veel → meer → meest؛ het-woord: het meeste."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij verdient meer geld van het hele team.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای مقایسه با کل تیم باید از حالتِ عالی «meeste» استفاده شود، نه تفضیلیِ «meer». نامنظم: veel → meer → meest؛ het-woord: het meeste."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij verdient het meeste geld van het hele team.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: veel → meer → meest؛ het-woord: het meeste."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_minste_tijd",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Van iedereen heb ik minste tijd deze week.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "صفتِ weinig نامنظم است: weinig → minder → minst؛ چون «tijd» de-woord است، «de minste tijd» می‌شود.",
+    "correction_rule_fa": "نامنظم: weinig → minder → minst؛ de-woord: de minste.",
+    "extra_example_nl": "Van de groep heeft hij de minste tijd voor sport.",
+    "extra_example_fa": "او در گروه کمترین وقت را برای ورزش دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Van iedereen heb ik de minste tijd deze week.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: weinig → minder → minst؛ de-woord: de minste."
+      },
+      {
+        "key": "B",
+        "text_nl": "Van iedereen heb ik minste tijd deze week.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید (tijd است de-woord). نامنظم: weinig → minder → minst؛ de-woord: de minste."
+      },
+      {
+        "key": "C",
+        "text_nl": "Van iedereen heb ik de weinigste tijd deze week.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «weinigste» وجود ندارد؛ شکل عالیِ نامنظمِ weinig برابر است با «minste». نامنظم: weinig → minder → minst؛ de-woord: de minste."
+      },
+      {
+        "key": "D",
+        "text_nl": "Van iedereen heb ik minder tijd deze week.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای مقایسه با همه باید از حالتِ عالی «minste» استفاده شود، نه تفضیلیِ «minder». نامنظم: weinig → minder → minst؛ de-woord: de minste."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_lekkerste_pizza",
+    "life_context": "daily",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dit restaurant heeft lekkerste pizza van de stad.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "برای مقایسه با تمامِ شهر، حالتِ عالی لازم است: de + صفت + -ste.",
+    "correction_rule_fa": "عالی: de/het + صفت + -ste/-st + van.",
+    "extra_example_nl": "Dit café heeft de lekkerste koffie van de buurt.",
+    "extra_example_fa": "این کافه بهترین قهوه‌ی محله را دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit restaurant heeft lekkerste pizza van de stad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit restaurant heeft de lekkerste pizza van de stad.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit restaurant heeft de lekkerder pizza van de stad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای شکل عالی «lekkerste»، شکل تفضیلیِ «lekkerder» به‌کار رفته. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit restaurant heeft de meest lekkere pizza van de stad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -ste، از «meest» استفاده شده که اضافی و غلط است. عالی: de/het + صفت + -ste/-st + van."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_snelste_auto",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Deze auto is snelste van alle merken.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "برای مقایسه با تمامِ برندها، حالتِ عالی لازم است: de + صفت + -ste.",
+    "correction_rule_fa": "عالی: de/het + صفت + -ste/-st + van.",
+    "extra_example_nl": "Deze trein is de snelste van het hele land.",
+    "extra_example_fa": "این قطار سریع‌ترینِ کل کشور است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze auto is snelste van alle merken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze auto is de sneller van alle merken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای شکل عالی «snelste»، شکل تفضیلیِ «sneller» به‌کار رفته. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze auto is de snelste van alle merken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze auto is de meest snelle van alle merken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -ste، از «meest» استفاده شده که اضافی و غلط است. عالی: de/het + صفت + -ste/-st + van."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_aardigste_persoon",
+    "life_context": "relationships",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Mijn opa is aardigste persoon die ik ken.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "برای بیانِ «در میانِ همه»، حالتِ عالی لازم است: de + صفت + -ste.",
+    "correction_rule_fa": "عالی: de/het + صفت + -ste/-st.",
+    "extra_example_nl": "Zij is de aardigste collega van de afdeling.",
+    "extra_example_fa": "او مهربان‌ترین همکارِ بخش است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mijn opa is aardigste persoon die ik ken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. عالی: de/het + صفت + -ste/-st."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mijn opa is de aardiger persoon die ik ken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای شکل عالی «aardigste»، شکل تفضیلیِ «aardiger» به‌کار رفته. عالی: de/het + صفت + -ste/-st."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mijn opa is de meest aardige persoon die ik ken.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -ste، از «meest» استفاده شده که اضافی و غلط است. عالی: de/het + صفت + -ste/-st."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mijn opa is de aardigste persoon die ik ken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عالی: de/het + صفت + -ste/-st."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_meeste_regen",
+    "life_context": "environment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Deze maand hebben we meeste regen van het hele jaar gehad.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "صفتِ veel نامنظم است: veel → meer → meest؛ چون «regen» de-woord است، «de meeste regen» می‌شود.",
+    "correction_rule_fa": "نامنظم: veel → meer → meest.",
+    "extra_example_nl": "Deze zomer hebben we de meeste zon van het jaar gehad.",
+    "extra_example_fa": "این تابستان بیشترین آفتابِ سال را داشتیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze maand hebben we de meeste regen van het hele jaar gehad.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: veel → meer → meest."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze maand hebben we meeste regen van het hele jaar gehad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. نامنظم: veel → meer → meest."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze maand hebben we de veelste regen van het hele jaar gehad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «veelste» وجود ندارد؛ شکل عالیِ نامنظمِ veel برابر است با «meest». نامنظم: veel → meer → meest."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze maand hebben we meer regen van het hele jaar gehad.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای مقایسه با کل سال باید از حالتِ عالی «meeste» استفاده شود، نه تفضیلیِ «meer». نامنظم: veel → meer → meest."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_mooiste_vakantie",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Dat was mooiste vakantie van mijn leven.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "برای مقایسه با تمامِ زندگی، حالتِ عالی لازم است: de + صفت + -ste.",
+    "correction_rule_fa": "عالی: de/het + صفت + -ste/-st + van.",
+    "extra_example_nl": "Dat was de leukste reis van ons leven.",
+    "extra_example_fa": "آن بهترین سفرِ زندگی‌مان بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat was mooiste vakantie van mijn leven.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat was de mooiste vakantie van mijn leven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat was de mooier vakantie van mijn leven.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای شکل عالی «mooiste»، شکل تفضیلیِ «mooier» به‌کار رفته. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat was de meest mooie vakantie van mijn leven.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -ste، از «meest» استفاده شده که اضافی و غلط است. عالی: de/het + صفت + -ste/-st + van."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_minste_ervaring",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Hij heeft minste ervaring van alle collega's.",
+    "question_text_nl": "Kies de zin zonder fout.",
+    "question_text_fa": "جمله‌ای را انتخاب کن که هیچ اشتباهی ندارد.",
+    "explanation_fa": "صفتِ weinig نامنظم است: weinig → minder → minst؛ در حالتِ عالی «de minste ervaring» می‌شود.",
+    "correction_rule_fa": "نامنظم: weinig → minder → minst.",
+    "extra_example_nl": "Zij heeft de minste ervaring van het team.",
+    "extra_example_fa": "او در تیم کمترین تجربه را دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij heeft minste ervaring van alle collega's.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. نامنظم: weinig → minder → minst."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij heeft de weinigste ervaring van alle collega's.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «weinigste» وجود ندارد؛ شکل عالیِ نامنظمِ weinig برابر است با «minste». نامنظم: weinig → minder → minst."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij heeft de minste ervaring van alle collega's.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: weinig → minder → minst."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij heeft minder ervaring van alle collega's.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای مقایسه با همه‌ی همکاران باید از حالتِ عالی «minste» استفاده شود، نه تفضیلیِ «minder». نامنظم: weinig → minder → minst."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_beste_plan",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Dit is beste plan van alle plannen.",
+    "question_text_nl": "Welke zin klinkt natuurlijk en correct?",
+    "question_text_fa": "کدام جمله طبیعی و درست است؟",
+    "explanation_fa": "صفتِ goed نامنظم است: goed → beter → best؛ چون «plan» het-woord است، «het beste plan» می‌شود.",
+    "correction_rule_fa": "نامنظم: goed → beter → best؛ het-woord: het beste.",
+    "extra_example_nl": "Dit is het beste idee van de vergadering.",
+    "extra_example_fa": "این بهترین ایده‌ی جلسه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dit is beste plan van alle plannen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «het» بیاید (plan است het-woord). نامنظم: goed → beter → best؛ het-woord: het beste."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dit is het goedste plan van alle plannen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: «goedste» وجود ندارد؛ شکل عالیِ نامنظمِ goed برابر است با «beste». نامنظم: goed → beter → best؛ het-woord: het beste."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dit is het meer goede plan van alle plannen.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با صفتِ نامنظم goed نباید از «meer» استفاده کرد؛ شکل درست «beste» است. نامنظم: goed → beter → best؛ het-woord: het beste."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dit is het beste plan van alle plannen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. نامنظم: goed → beter → best؛ het-woord: het beste."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "superlative_jongste_klas",
+    "life_context": "education",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_with_error_nl": "Zij is jongste van de klas.",
+    "question_text_nl": "Welke zin is grammaticaal correct?",
+    "question_text_fa": "کدام جمله از نظر گرامری درست است؟",
+    "explanation_fa": "برای مقایسه با کل کلاس، حالتِ عالی لازم است: de + صفت + -ste.",
+    "correction_rule_fa": "عالی: de/het + صفت + -ste/-st + van.",
+    "extra_example_nl": "Hij is de jongste van de groep.",
+    "extra_example_fa": "او جوان‌ترینِ گروه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij is de jongste van de klas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij is jongste van de klas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: قبل از شکل عالی باید حرف تعریف «de» بیاید. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij is de jonger van de klas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای شکل عالی «jongste»، شکل تفضیلیِ «jonger» به‌کار رفته. عالی: de/het + صفت + -ste/-st + van."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij is de meest jonge van de klas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: به‌جای پسوند -ste، از «meest» استفاده شده که اضافی و غلط است. عالی: de/het + صفت + -ste/-st + van."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "error_correction",
+    "topic": "comparative_superlative_error",
+    "subtopic": "equative_als",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_with_error_nl": "Deze tas is even duur dan die tas.",
+    "question_text_nl": "Wat is de juiste correctie van deze zin?",
+    "question_text_fa": "اصلاح درست این جمله کدام است؟",
+    "explanation_fa": "برای بیانِ برابریِ دو چیز از «even + صفت + als» استفاده می‌شود؛ این با تفضیلیِ «صفت+er + dan» فرق دارد.",
+    "correction_rule_fa": "برابری: even + صفت + als (نه dan)؛ تفضیلی: صفت+er + dan (نه als).",
+    "extra_example_nl": "Mijn huis is even groot als jouw huis.",
+    "extra_example_fa": "خانه‌ی من به‌اندازه‌ی خانه‌ی تو بزرگ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze tas is even duur dan die tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: برای بیانِ برابری («even … als») باید «als» بیاید، نه «dan». برابری: even + صفت + als (نه dan)؛ تفضیلی: صفت+er + dan (نه als)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Deze tas is even duur als die tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. برابری: even + صفت + als (نه dan)؛ تفضیلی: صفت+er + dan (نه als)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze tas is zo duur dan die tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: با ساختار «zo … als» یا «even … als» باید «als» بیاید، نه «dan». برابری: even + صفت + als (نه dan)؛ تفضیلی: صفت+er + dan (نه als)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze tas is duurder als die tas.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه هنوز اشتباه دارد: اینجا منظور برابری است نه تفضیلی؛ اگر تفضیلی «duurder» به‌کار رود، باید با «dan» بیاید نه «als». برابری: even + صفت + als (نه dan)؛ تفضیلی: صفت+er + dan (نه als)."
+      }
+    ]
+  }
+]

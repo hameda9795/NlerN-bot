@@ -1,0 +1,1262 @@
+[
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "simple_comparatives",
+    "life_context": "technology_and_internet",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Deze laptop is sneller dan mijn oude computer.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "این لپ‌تاپ از کامپیوتر قدیمی من سریع‌تر است.",
+    "usage_note_fa": "«sneller dan» یک مقایسهٔ ساده بین دو چیز است.",
+    "extra_example_nl": "Deze telefoon is lichter dan mijn oude telefoon.",
+    "extra_example_fa": "این گوشی از گوشی قدیمی من سبک‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این لپ‌تاپ از کامپیوتر قدیمی من سریع‌تر است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این لپ‌تاپ کندتر از کامپیوتر قدیمی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این دو کامپیوتر یک سرعت دارند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه تفاوت بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_fa": "کامپیوتر قدیمی من خراب شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به مقایسهٔ سرعت ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "simple_comparatives",
+    "life_context": "housing_and_neighborhood",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Het appartement in het centrum is duurder dan de woning buiten de stad.",
+    "question_text_nl": "Wat wordt hier vergeleken?",
+    "question_text_fa": "در اینجا چه چیزی مقایسه شده است؟",
+    "meaning_fa": "آپارتمان در مرکز شهر از خانه بیرون شهر گران‌تر است.",
+    "usage_note_fa": "«duurder dan» تفاوت قیمت بین دو مکان را نشان می‌دهد.",
+    "extra_example_nl": "De huur in het centrum is hoger dan buiten de stad.",
+    "extra_example_fa": "اجاره در مرکز شهر از بیرون شهر بالاتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "خانه بیرون شهر گران‌تر است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "آپارتمان در مرکز شهر از خانه بیرون شهر گران‌تر است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این دو خانه هم‌قیمت هستند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه تفاوت قیمت بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_fa": "خانهٔ بیرون شهر فروخته شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به مقایسهٔ قیمت ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "simple_comparatives",
+    "life_context": "education_and_courses",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Deze cursus is moeilijker dan de vorige.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "این دوره از دورهٔ قبلی سخت‌تر است.",
+    "usage_note_fa": "«moeilijker dan» سطح دشواری دو چیز را مقایسه می‌کند.",
+    "extra_example_nl": "Dit examen is moeilijker dan het vorige examen.",
+    "extra_example_fa": "این امتحان از امتحان قبلی سخت‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "دورهٔ قبلی سخت‌تر بود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این دو دوره هم‌سطح هستند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه تفاوت بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این دوره از دورهٔ قبلی سخت‌تر است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "دورهٔ قبلی هنوز شروع نشده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به مقایسهٔ دشواری ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "simple_comparatives",
+    "life_context": "health_and_lifestyle",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Groenten zijn gezonder dan snoep.",
+    "question_text_nl": "Wat is het verschil in deze zin?",
+    "question_text_fa": "تفاوت در این جمله چیست؟",
+    "meaning_fa": "سبزیجات از شیرینی سالم‌ترند.",
+    "usage_note_fa": "این جمله یک مقایسهٔ ساده دربارهٔ تغذیه است.",
+    "extra_example_nl": "Water is beter voor je dan frisdrank.",
+    "extra_example_fa": "آب برای تو بهتر از نوشابه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "شیرینی سالم‌تر از سبزیجات است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این دو یکسان سالم هستند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه تفاوت بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "سبزیجات گران‌تر شده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به مقایسهٔ سلامت ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "سبزیجات از شیرینی سالم‌ترند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "simple_comparatives",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Deze baan betaalt beter dan mijn vorige baan.",
+    "question_text_nl": "Wat zegt deze persoon over de vergelijking?",
+    "question_text_fa": "این شخص دربارهٔ مقایسه چه می‌گوید؟",
+    "meaning_fa": "این شغل نسبت به شغل قبلی‌ام حقوق بهتری می‌دهد.",
+    "usage_note_fa": "«beter dan» در اینجا برای مقایسهٔ حقوق استفاده شده است.",
+    "extra_example_nl": "Dit contract is voordeliger dan mijn vorige contract.",
+    "extra_example_fa": "این قرارداد نسبت به قرارداد قبلی سودمندتر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این شغل نسبت به شغل قبلی‌ام حقوق بهتری می‌دهد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "شغل قبلی حقوق بهتری داشت.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این دو شغل حقوق یکسانی دارند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه تفاوت بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من دیگر کار نمی‌کنم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به مقایسهٔ حقوق ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "simple_comparatives",
+    "life_context": "environment_and_sustainability",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Reizen met de trein is milieuvriendelijker dan met de auto.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "سفر با قطار نسبت به ماشین برای محیط‌زیست دوستانه‌تر است.",
+    "usage_note_fa": "این جمله دو روش سفر را از نظر تأثیر زیست‌محیطی مقایسه می‌کند.",
+    "extra_example_nl": "Fietsen is duurzamer dan autorijden.",
+    "extra_example_fa": "دوچرخه‌سواری پایدارتر از رانندگی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "سفر با ماشین برای محیط‌زیست بهتر است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "سفر با قطار نسبت به ماشین برای محیط‌زیست دوستانه‌تر است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این دو روش سفر یک تأثیر دارند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه تفاوت بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_fa": "قطارها دیگر کار نمی‌کنند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به مقایسهٔ زیست‌محیطی ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "superlatives",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Dit is de goedkoopste supermarkt in de buurt.",
+    "question_text_nl": "Wat wordt hier vergeleken?",
+    "question_text_fa": "در اینجا چه چیزی مقایسه شده است؟",
+    "meaning_fa": "این ارزان‌ترین سوپرمارکت در این محله است.",
+    "usage_note_fa": "شکل عالی (superlatief) برای نشان دادن بالاترین یا پایین‌ترین درجه استفاده می‌شود.",
+    "extra_example_nl": "Dit is de duurste winkel in de stad.",
+    "extra_example_fa": "این گران‌ترین مغازه در شهر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این گران‌ترین سوپرمارکت است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "همهٔ سوپرمارکت‌ها هم‌قیمت هستند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی برتری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این ارزان‌ترین سوپرمارکت در این محله است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این سوپرمارکت بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "superlatives",
+    "life_context": "health_and_lifestyle",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Zij is de snelste hardloopster van het team.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "او سریع‌ترین دونده تیم است.",
+    "usage_note_fa": "این جمله برتری کامل یک نفر نسبت به بقیهٔ تیم را نشان می‌دهد.",
+    "extra_example_nl": "Hij is de sterkste speler van het team.",
+    "extra_example_fa": "او قوی‌ترین بازیکن تیم است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "او کندترین دونده تیم است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "همهٔ دونده‌ها هم‌سرعت هستند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی برتری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "او دیگر در تیم نیست.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "او سریع‌ترین دونده تیم است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "superlatives",
+    "life_context": "education_and_courses",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Dit is het populairste vak op de universiteit.",
+    "question_text_nl": "Wat is het verschil in deze zin?",
+    "question_text_fa": "تفاوت در این جمله چیست؟",
+    "meaning_fa": "این محبوب‌ترین درس در دانشگاه است.",
+    "usage_note_fa": "این جمله بالاترین درجهٔ محبوبیت را در بین همه نشان می‌دهد.",
+    "extra_example_nl": "Dit is de populairste opleiding van dit jaar.",
+    "extra_example_fa": "این محبوب‌ترین رشتهٔ امسال است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این محبوب‌ترین درس در دانشگاه است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این کم‌طرفدارترین درس است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "همهٔ درس‌ها یک اندازه محبوب هستند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی برتری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این درس حذف شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "superlatives",
+    "life_context": "housing_and_neighborhood",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Deze wijk heeft de hoogste huurprijzen van de stad.",
+    "question_text_nl": "Wat zegt deze persoon over de vergelijking?",
+    "question_text_fa": "این شخص دربارهٔ مقایسه چه می‌گوید؟",
+    "meaning_fa": "این محله بالاترین اجاره‌بها را در شهر دارد.",
+    "usage_note_fa": "این جمله بالاترین درجهٔ قیمت را در مقایسه با همهٔ محله‌ها نشان می‌دهد.",
+    "extra_example_nl": "Deze straat heeft de laagste criminaliteit van de wijk.",
+    "extra_example_fa": "این خیابان کمترین میزان جرم را در محله دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این محله پایین‌ترین اجاره‌بها را دارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این محله بالاترین اجاره‌بها را در شهر دارد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "همهٔ محله‌ها اجاره‌بهای یکسان دارند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی برتری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این محله دیگر وجود ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "superlatives",
+    "life_context": "technology_and_internet",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Deze smartphone heeft de beste camera op de markt.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "این گوشی هوشمند بهترین دوربین را در بازار دارد.",
+    "usage_note_fa": "این جمله برتری کامل یک محصول را نسبت به همهٔ محصولات دیگر نشان می‌دهد.",
+    "extra_example_nl": "Deze laptop heeft de langste batterijduur op de markt.",
+    "extra_example_fa": "این لپ‌تاپ طولانی‌ترین عمر باتری را در بازار دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این گوشی بدترین دوربین را دارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "همهٔ گوشی‌ها دوربین یکسانی دارند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی برتری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این گوشی هوشمند بهترین دوربین را در بازار دارد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این گوشی هنوز به بازار نیامده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "superlatives",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Hij heeft de meeste ervaring in dit vakgebied.",
+    "question_text_nl": "Wat wordt hier vergeleken?",
+    "question_text_fa": "در اینجا چه چیزی مقایسه شده است؟",
+    "meaning_fa": "او بیشترین تجربه را در این حوزه دارد.",
+    "usage_note_fa": "این جمله برتری یک فرد از نظر تجربه نسبت به دیگران را نشان می‌دهد.",
+    "extra_example_nl": "Zij heeft de meeste kennis van dit onderwerp.",
+    "extra_example_fa": "او بیشترین دانش را دربارهٔ این موضوع دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "او کمترین تجربه را دارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "همه هم‌تجربه هستند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی برتری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "او در این حوزه کار نمی‌کند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "او بیشترین تجربه را در این حوزه دارد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "equal_comparison",
+    "life_context": "media_and_news",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Deze film is net zo spannend als de vorige.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "این فیلم به همان اندازهٔ فیلم قبلی هیجان‌انگیز است.",
+    "usage_note_fa": "«net zo... als» برابری بین دو چیز را نشان می‌دهد.",
+    "extra_example_nl": "Dit boek is net zo interessant als de vorige roman.",
+    "extra_example_fa": "این کتاب به همان اندازهٔ رمان قبلی جالب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این فیلم به همان اندازهٔ فیلم قبلی هیجان‌انگیز است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این فیلم کاملاً کسل‌کننده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این فیلم هیجان‌انگیزتر از قبلی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه برابری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_fa": "فیلم قبلی هنوز اکران نشده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "equal_comparison",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Zij verdient evenveel als haar collega.",
+    "question_text_nl": "Wat is het verschil in deze zin?",
+    "question_text_fa": "تفاوت در این جمله چیست؟",
+    "meaning_fa": "او همان‌قدری که همکارش درآمد دارد، درآمد دارد.",
+    "usage_note_fa": "«evenveel als» برابری در مقدار را نشان می‌دهد.",
+    "extra_example_nl": "Hij werkt evenveel uren als zijn collega.",
+    "extra_example_fa": "او به همان اندازهٔ همکارش ساعت کار می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "او بیشتر از همکارش درآمد دارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه برابری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_fa": "او همان‌قدری که همکارش درآمد دارد، درآمد دارد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "او کمتر از همکارش درآمد دارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه برابری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_fa": "همکارش دیگر کار نمی‌کند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "equal_comparison",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Dit product kost hetzelfde als het vorige model.",
+    "question_text_nl": "Wat zegt deze persoon over de vergelijking?",
+    "question_text_fa": "این شخص دربارهٔ مقایسه چه می‌گوید؟",
+    "meaning_fa": "این محصول همان قیمت مدل قبلی را دارد.",
+    "usage_note_fa": "«hetzelfde als» برابری کامل بین دو چیز را نشان می‌دهد.",
+    "extra_example_nl": "Deze reis kost hetzelfde als vorig jaar.",
+    "extra_example_fa": "این سفر همان هزینهٔ سال گذشته را دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این محصول گران‌تر از مدل قبلی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه برابری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_fa": "این محصول ارزان‌تر از مدل قبلی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه برابری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این محصول همان قیمت مدل قبلی را دارد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "مدل قبلی دیگر موجود نیست.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "equal_comparison",
+    "life_context": "education_and_courses",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Deze studie duurt even lang als de andere opleiding.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "این تحصیل به همان اندازهٔ آموزش دیگر طول می‌کشد.",
+    "usage_note_fa": "«even lang als» برابری در مدت‌زمان را نشان می‌دهد.",
+    "extra_example_nl": "Deze training duurt even lang als de vorige.",
+    "extra_example_fa": "این دوره به همان اندازهٔ دورهٔ قبلی طول می‌کشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این تحصیل طولانی‌تر است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه برابری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_fa": "این تحصیل کوتاه‌تر است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه برابری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "آموزش دیگر تمام شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این تحصیل به همان اندازهٔ آموزش دیگر طول می‌کشد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "equal_comparison",
+    "life_context": "housing_and_neighborhood",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "sentence_nl": "Het nieuwe huis is even groot als het oude huis.",
+    "question_text_nl": "Wat wordt hier vergeleken?",
+    "question_text_fa": "در اینجا چه چیزی مقایسه شده است؟",
+    "meaning_fa": "خانهٔ جدید به همان اندازهٔ خانهٔ قدیمی بزرگ است.",
+    "usage_note_fa": "«even groot als» برابری در اندازه را نشان می‌دهد.",
+    "extra_example_nl": "De nieuwe keuken is even groot als de oude keuken.",
+    "extra_example_fa": "آشپزخانهٔ جدید به همان اندازهٔ آشپزخانهٔ قدیمی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "خانهٔ جدید به همان اندازهٔ خانهٔ قدیمی بزرگ است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "خانهٔ جدید بزرگ‌تر است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه برابری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "خانهٔ جدید کوچک‌تر است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه برابری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_fa": "خانهٔ قدیمی فروخته شده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "equal_comparison",
+    "life_context": "travel_and_culture",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Beide steden hebben ongeveer evenveel inwoners.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "هر دو شهر تقریباً جمعیت یکسانی دارند.",
+    "usage_note_fa": "«ongeveer evenveel» برابری تقریبی بین دو چیز را نشان می‌دهد.",
+    "extra_example_nl": "Beide landen hebben ongeveer evenveel toeristen per jaar.",
+    "extra_example_fa": "هر دو کشور تقریباً تعداد گردشگر یکسانی در سال دارند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "یکی از شهرها جمعیت بیشتری دارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه برابری بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_fa": "هر دو شهر تقریباً جمعیت یکسانی دارند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "یکی از شهرها کاملاً خالی از سکنه است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این دو شهر با هم متحد شده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "contrast_comparison",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "In tegenstelling tot vroeger werkt zij nu vanuit huis.",
+    "question_text_nl": "Wat is het verschil in deze zin?",
+    "question_text_fa": "تفاوت در این جمله چیست؟",
+    "meaning_fa": "برخلاف گذشته، او اکنون از خانه کار می‌کند.",
+    "usage_note_fa": "«in tegenstelling tot» تفاوت بین دو وضعیت (گذشته و حال) را نشان می‌دهد.",
+    "extra_example_nl": "In tegenstelling tot vroeger reist hij nu veel voor zijn werk.",
+    "extra_example_fa": "برخلاف گذشته، او اکنون برای کارش زیاد سفر می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مثل گذشته، او هنوز در دفتر کار می‌کند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "او هرگز از خانه کار نکرده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "برخلاف گذشته، او اکنون از خانه کار می‌کند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "او دیگر کار نمی‌کند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "contrast_comparison",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Vergeleken met vorig jaar zijn de energiekosten flink gestegen.",
+    "question_text_nl": "Wat zegt deze persoon over de vergelijking?",
+    "question_text_fa": "این شخص دربارهٔ مقایسه چه می‌گوید؟",
+    "meaning_fa": "در مقایسه با سال گذشته، هزینه‌های انرژی به‌شدت افزایش یافته‌اند.",
+    "usage_note_fa": "«vergeleken met» یک وضعیت را با وضعیت دیگر مقایسه می‌کند.",
+    "extra_example_nl": "Vergeleken met vorig jaar zijn de huurprijzen gedaald.",
+    "extra_example_fa": "در مقایسه با سال گذشته، اجاره‌بها کاهش یافته است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "در مقایسه با سال گذشته، هزینه‌ها کاهش یافته‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "هزینه‌های انرژی هیچ تغییری نکرده‌اند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این جمله دربارهٔ سال آینده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "در مقایسه با سال گذشته، هزینه‌های انرژی به‌شدت افزایش یافته‌اند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "contrast_comparison",
+    "life_context": "health_and_lifestyle",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Terwijl hij graag buiten sport, blijft zij liever binnen.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "درحالی‌که او (مرد) دوست دارد بیرون ورزش کند، او (زن) ترجیح می‌دهد داخل بماند.",
+    "usage_note_fa": "«terwijl» تضاد بین رفتار دو نفر را نشان می‌دهد.",
+    "extra_example_nl": "Terwijl hij vroeg opstaat, slaapt zij graag uit.",
+    "extra_example_fa": "درحالی‌که او زود بیدار می‌شود، او (زن) دوست دارد دیر بیدار شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "درحالی‌که او (مرد) دوست دارد بیرون ورزش کند، او (زن) ترجیح می‌دهد داخل بماند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "هر دو دوست دارند بیرون ورزش کنند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه تضاد بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "هر دو ترجیح می‌دهند داخل بمانند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه تضاد بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ آب‌وهوا است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "contrast_comparison",
+    "life_context": "travel_and_culture",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "In tegenstelling tot andere landen heeft Nederland veel fietspaden.",
+    "question_text_nl": "Wat wordt hier vergeleken?",
+    "question_text_fa": "در اینجا چه چیزی مقایسه شده است؟",
+    "meaning_fa": "برخلاف کشورهای دیگر، هلند مسیرهای دوچرخه‌سواری زیادی دارد.",
+    "usage_note_fa": "این جمله تفاوت هلند با کشورهای دیگر را نشان می‌دهد.",
+    "extra_example_nl": "In tegenstelling tot andere steden is het verkeer hier rustig.",
+    "extra_example_fa": "برخلاف شهرهای دیگر، ترافیک اینجا آرام است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "مثل کشورهای دیگر، هلند مسیر دوچرخه‌سواری کمی دارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "برخلاف کشورهای دیگر، هلند مسیرهای دوچرخه‌سواری زیادی دارد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "هیچ کشوری مسیر دوچرخه‌سواری ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ حمل‌ونقل عمومی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "contrast_comparison",
+    "life_context": "technology_and_internet",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Vergeleken met de oude methode is deze aanpak veel efficiënter.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "در مقایسه با روش قدیمی، این روش بسیار کارآمدتر است.",
+    "usage_note_fa": "این جمله برتری یک روش جدید نسبت به روش قدیمی را نشان می‌دهد.",
+    "extra_example_nl": "Vergeleken met vorig jaar is de nieuwe software veel sneller.",
+    "extra_example_fa": "در مقایسه با سال گذشته، نرم‌افزار جدید بسیار سریع‌تر است.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "این روش کمتر کارآمد از روش قدیمی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این دو روش کاملاً یکسان هستند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "در مقایسه با روش قدیمی، این روش بسیار کارآمدتر است.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "روش قدیمی هنوز استفاده می‌شود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "contrast_comparison",
+    "life_context": "housing_and_neighborhood",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Terwijl de huren in de stad stijgen, dalen ze op het platteland.",
+    "question_text_nl": "Wat is het verschil in deze zin?",
+    "question_text_fa": "تفاوت در این جمله چیست؟",
+    "meaning_fa": "درحالی‌که اجاره‌ها در شهر افزایش می‌یابند، در روستا کاهش می‌یابند.",
+    "usage_note_fa": "«terwijl» تضاد بین دو روند مختلف را نشان می‌دهد.",
+    "extra_example_nl": "Terwijl de prijzen in de stad stijgen, blijven ze op het platteland stabiel.",
+    "extra_example_fa": "درحالی‌که قیمت‌ها در شهر افزایش می‌یابند، در روستا ثابت می‌مانند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "اجاره‌ها در هر دو مکان افزایش می‌یابند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه تضاد بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "B",
+        "text_fa": "اجاره‌ها در هر دو مکان کاهش می‌یابند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه تضاد بیان‌شده در جمله را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_fa": "این جمله دربارهٔ قیمت خانه‌ها در آینده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "درحالی‌که اجاره‌ها در شهر افزایش می‌یابند، در روستا کاهش می‌یابند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "proportional_comparison",
+    "life_context": "education_and_courses",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Hoe meer je oefent, hoe beter je wordt in de taal.",
+    "question_text_nl": "Wat zegt deze persoon over de vergelijking?",
+    "question_text_fa": "این شخص دربارهٔ مقایسه چه می‌گوید؟",
+    "meaning_fa": "هر چقدر بیشتر تمرین کنی، در زبان بهتر می‌شوی.",
+    "usage_note_fa": "«hoe meer... hoe...» رابطهٔ تناسبی بین دو چیز را نشان می‌دهد.",
+    "extra_example_nl": "Hoe meer je leest, hoe groter je woordenschat wordt.",
+    "extra_example_fa": "هر چقدر بیشتر بخوانی، دایرهٔ لغاتت بزرگ‌تر می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "هر چقدر بیشتر تمرین کنی، در زبان بهتر می‌شوی.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "هر چقدر کمتر تمرین کنی، بهتر می‌شوی.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "تمرین هیچ تأثیری در یادگیری زبان ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ گرامر است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "proportional_comparison",
+    "life_context": "money_and_finance",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Naarmate de prijzen stijgen, kopen mensen minder luxeproducten.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "همان‌طور که قیمت‌ها بالا می‌روند، مردم کالاهای لوکس کمتری می‌خرند.",
+    "usage_note_fa": "«naarmate» رابطهٔ تناسبی بین دو روند را نشان می‌دهد.",
+    "extra_example_nl": "Naarmate het inkomen stijgt, verandert het bestedingspatroon.",
+    "extra_example_fa": "همان‌طور که درآمد افزایش می‌یابد، الگوی هزینه‌کرد تغییر می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "همان‌طور که قیمت‌ها بالا می‌روند، مردم بیشتر می‌خرند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "همان‌طور که قیمت‌ها بالا می‌روند، مردم کالاهای لوکس کمتری می‌خرند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "قیمت‌ها هیچ تأثیری بر خرید ندارند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ کالاهای ضروری است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "proportional_comparison",
+    "life_context": "travel_and_culture",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Hoe drukker het verkeer, hoe langer de reistijd.",
+    "question_text_nl": "Wat wordt hier vergeleken?",
+    "question_text_fa": "در اینجا چه چیزی مقایسه شده است؟",
+    "meaning_fa": "هر چقدر ترافیک شلوغ‌تر باشد، زمان سفر طولانی‌تر می‌شود.",
+    "usage_note_fa": "این جمله رابطهٔ تناسبی بین شلوغی ترافیک و زمان سفر را نشان می‌دهد.",
+    "extra_example_nl": "Hoe verder de reis, hoe hoger de kosten.",
+    "extra_example_fa": "هر چقدر سفر دورتر باشد، هزینه‌ها بیشتر می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "هر چقدر ترافیک شلوغ‌تر باشد، زمان سفر کوتاه‌تر می‌شود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "ترافیک هیچ تأثیری بر زمان سفر ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "هر چقدر ترافیک شلوغ‌تر باشد، زمان سفر طولانی‌تر می‌شود.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ هزینهٔ سفر است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "proportional_comparison",
+    "life_context": "relationships_and_society",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Naarmate mensen ouder worden, veranderen hun prioriteiten vaak.",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "همان‌طور که افراد مسن‌تر می‌شوند، اولویت‌هایشان اغلب تغییر می‌کند.",
+    "usage_note_fa": "این جمله رابطهٔ تناسبی بین سن و تغییر اولویت‌ها را نشان می‌دهد.",
+    "extra_example_nl": "Naarmate kinderen ouder worden, krijgen ze meer verantwoordelijkheid.",
+    "extra_example_fa": "همان‌طور که کودکان بزرگ‌تر می‌شوند، مسئولیت بیشتری می‌گیرند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "اولویت‌های افراد هرگز تغییر نمی‌کند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "فقط اولویت‌های جوانان تغییر می‌کند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "C",
+        "text_fa": "این جمله دربارهٔ سلامتی است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      },
+      {
+        "key": "D",
+        "text_fa": "همان‌طور که افراد مسن‌تر می‌شوند، اولویت‌هایشان اغلب تغییر می‌کند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "proportional_comparison",
+    "life_context": "media_and_news",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "sentence_nl": "Hoe meer mensen op sociale media actief zijn, hoe meer nepnieuws zich verspreidt.",
+    "question_text_nl": "Wat is het verschil in deze zin?",
+    "question_text_fa": "تفاوت در این جمله چیست؟",
+    "meaning_fa": "هر چقدر افراد بیشتری در شبکه‌های اجتماعی فعال باشند، اخبار جعلی بیشتری منتشر می‌شود.",
+    "usage_note_fa": "این جمله رابطهٔ تناسبی بین فعالیت آنلاین و پخش اخبار جعلی را نشان می‌دهد.",
+    "extra_example_nl": "Hoe sneller nieuws zich verspreidt, hoe moeilijker het is om het te controleren.",
+    "extra_example_fa": "هر چقدر خبر سریع‌تر پخش شود، بررسی آن سخت‌تر می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "هر چقدر افراد بیشتری در شبکه‌های اجتماعی فعال باشند، اخبار جعلی بیشتری منتشر می‌شود.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "فعالیت در شبکه‌های اجتماعی باعث کاهش اخبار جعلی می‌شود.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "شبکه‌های اجتماعی هیچ ربطی به اخبار جعلی ندارند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ امنیت اینترنت است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "section": "meaning",
+    "topic": "comparison_meaning",
+    "subtopic": "proportional_comparison",
+    "life_context": "work_and_career",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "sentence_nl": "Naarmate het bedrijf groeit, neemt ook de behoefte aan personeel toe.",
+    "question_text_nl": "Wat zegt deze persoon over de vergelijking?",
+    "question_text_fa": "این شخص دربارهٔ مقایسه چه می‌گوید؟",
+    "meaning_fa": "همان‌طور که شرکت رشد می‌کند، نیاز به پرسنل نیز افزایش می‌یابد.",
+    "usage_note_fa": "این جمله رابطهٔ تناسبی بین رشد شرکت و نیاز به نیروی کار را نشان می‌دهد.",
+    "extra_example_nl": "Naarmate de productie toeneemt, stijgen ook de kosten.",
+    "extra_example_fa": "همان‌طور که تولید افزایش می‌یابد، هزینه‌ها نیز بالا می‌روند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "همان‌طور که شرکت رشد می‌کند، نیاز به پرسنل کاهش می‌یابد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دقیقاً برعکس معنی جمله است."
+      },
+      {
+        "key": "B",
+        "text_fa": "همان‌طور که شرکت رشد می‌کند، نیاز به پرسنل نیز افزایش می‌یابد.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این دقیقاً معنی درست جمله است."
+      },
+      {
+        "key": "C",
+        "text_fa": "رشد شرکت هیچ ربطی به پرسنل ندارد.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه با معنی جمله در تناقض است."
+      },
+      {
+        "key": "D",
+        "text_fa": "این جمله دربارهٔ کاهش تولید است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه ربطی به معنی جمله ندارد."
+      }
+    ]
+  }
+]

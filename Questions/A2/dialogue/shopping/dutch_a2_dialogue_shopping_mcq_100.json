@@ -1,0 +1,4202 @@
+[
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "entering_shop",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt een kledingwinkel binnen en zoekt een jas.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "وارد لباس‌فروشی می‌شوی و دنبال کت هستی. بهترین شروع مکالمه چیست؟",
+    "explanation_fa": "این جمله با سلام شروع می‌شود و می‌گوید دنبال کت هستی.",
+    "dialogue_rule_fa": "برای شروع مکالمه در فروشگاه معمولاً سلام می‌کنی و خیلی ساده می‌گویی دنبال چه چیزی هستی.",
+    "extra_example_nl": "Hallo, ik zoek een broek.",
+    "extra_example_fa": "سلام، دنبال یک شلوار هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemiddag, ik zoek een jas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله با سلام شروع می‌شود و می‌گوید دنبال کت هستی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "entering_shop",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt een winkel binnen, maar je wilt eerst zelf kijken.",
+    "question_text_nl": "Wat zeg je tegen de verkoper?",
+    "question_text_fa": "وارد فروشگاه شده‌ای و فعلاً فقط می‌خواهی نگاه کنی. چه می‌گویی؟",
+    "explanation_fa": "این جمله یعنی فعلاً فقط نگاه می‌کنی و کمک لازم نداری.",
+    "dialogue_rule_fa": "برای شروع مکالمه در فروشگاه معمولاً سلام می‌کنی و خیلی ساده می‌گویی دنبال چه چیزی هستی.",
+    "extra_example_nl": "Dank u, ik kijk even rond.",
+    "extra_example_fa": "ممنون، فعلاً فقط نگاه می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik kijk even rond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی فعلاً فقط نگاه می‌کنی و کمک لازم نداری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "entering_shop",
+    "life_context": "store_help",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent in een winkel en je hebt hulp nodig.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در فروشگاه هستی و کمک لازم داری. چه می‌گویی؟",
+    "explanation_fa": "این جمله مؤدبانه برای درخواست کمک از فروشنده است.",
+    "dialogue_rule_fa": "برای شروع مکالمه در فروشگاه معمولاً سلام می‌کنی و خیلی ساده می‌گویی دنبال چه چیزی هستی.",
+    "extra_example_nl": "Hallo, kunt u mij helpen?",
+    "extra_example_fa": "سلام، می‌توانید کمکم کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kunt u mij helpen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مؤدبانه برای درخواست کمک از فروشنده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "entering_shop",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent in de winkel en je wilt iets vragen.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "در فروشگاه هستی و می‌خواهی سؤال بپرسی. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله ساده و طبیعی برای شروع یک سؤال در فروشگاه است.",
+    "dialogue_rule_fa": "برای شروع مکالمه در فروشگاه معمولاً سلام می‌کنی و خیلی ساده می‌گویی دنبال چه چیزی هستی.",
+    "extra_example_nl": "Goedemiddag, ik heb een vraag.",
+    "extra_example_fa": "ظهر بخیر، یک سؤال دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb een vraag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله ساده و طبیعی برای شروع یک سؤال در فروشگاه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "entering_shop",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt een cadeauwinkel binnen en zoekt een cadeau.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "وارد فروشگاه هدیه شده‌ای و دنبال کادو هستی. چه می‌گویی؟",
+    "explanation_fa": "این جمله هم سلام دارد و هم هدف خرید را می‌گوید.",
+    "dialogue_rule_fa": "برای شروع مکالمه در فروشگاه معمولاً سلام می‌کنی و خیلی ساده می‌گویی دنبال چه چیزی هستی.",
+    "extra_example_nl": "Ik zoek een cadeau voor mijn vriend.",
+    "extra_example_fa": "دنبال یک کادو برای دوستم هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Goedemorgen, ik zoek een cadeau.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله هم سلام دارد و هم هدف خرید را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "entering_shop",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt een winkel binnen en zoekt een tas.",
+    "question_text_nl": "Kies de beste opening.",
+    "question_text_fa": "وارد فروشگاه شده‌ای و دنبال کیف هستی. بهترین شروع چیست؟",
+    "explanation_fa": "این جمله کوتاه، طبیعی و مناسب شروع خرید کیف است.",
+    "dialogue_rule_fa": "برای شروع مکالمه در فروشگاه معمولاً سلام می‌کنی و خیلی ساده می‌گویی دنبال چه چیزی هستی.",
+    "extra_example_nl": "Goedemiddag, ik zoek een tas.",
+    "extra_example_fa": "ظهر بخیر، دنبال یک کیف هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hallo, ik zoek een tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله کوتاه، طبیعی و مناسب شروع خرید کیف است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "entering_shop",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt een schoenenwinkel binnen.",
+    "question_text_nl": "Wat zeg je tegen de verkoper?",
+    "question_text_fa": "وارد کفش‌فروشی شده‌ای. به فروشنده چه می‌گویی؟",
+    "explanation_fa": "این جمله برای شروع خرید کفش مناسب است.",
+    "dialogue_rule_fa": "برای شروع مکالمه در فروشگاه معمولاً سلام می‌کنی و خیلی ساده می‌گویی دنبال چه چیزی هستی.",
+    "extra_example_nl": "Ik zoek zwarte schoenen.",
+    "extra_example_fa": "دنبال کفش مشکی هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hallo, ik zoek schoenen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع خرید کفش مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "entering_shop",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt een artikel in je hand en wilt weten of de winkel het heeft.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک کالا در دستت است و می‌خواهی بدانی فروشگاه آن را دارد یا نه. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن موجود بودن یک کالا مناسب است.",
+    "dialogue_rule_fa": "برای شروع مکالمه در فروشگاه معمولاً سلام می‌کنی و خیلی ساده می‌گویی دنبال چه چیزی هستی.",
+    "extra_example_nl": "Heeft u deze oplader?",
+    "extra_example_fa": "این شارژر را دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u dit artikel?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن موجود بودن یک کالا مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "entering_shop",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De verkoper vraagt of hij kan helpen, maar je wilt alleen kijken.",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "فروشنده می‌پرسد کمک می‌خواهی یا نه، اما فقط می‌خواهی نگاه کنی. بهترین جواب چیست؟",
+    "explanation_fa": "این جواب مؤدبانه می‌گوید فعلاً فقط نگاه می‌کنی.",
+    "dialogue_rule_fa": "برای شروع مکالمه در فروشگاه معمولاً سلام می‌کنی و خیلی ساده می‌گویی دنبال چه چیزی هستی.",
+    "extra_example_nl": "Nee dank u, ik kijk alleen even.",
+    "extra_example_fa": "نه ممنون، فقط کمی نگاه می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee dank u, ik kijk even rond.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب مؤدبانه می‌گوید فعلاً فقط نگاه می‌کنی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "entering_shop",
+    "life_context": "store_help",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je komt een winkel binnen en zoekt iets, maar je weet nog niet precies wat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "وارد فروشگاه شده‌ای و دنبال چیزی هستی، اما دقیق نمی‌دانی چه. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای شروع کمک گرفتن در فروشگاه مناسب است.",
+    "dialogue_rule_fa": "برای شروع مکالمه در فروشگاه معمولاً سلام می‌کنی و خیلی ساده می‌گویی دنبال چه چیزی هستی.",
+    "extra_example_nl": "Ik zoek iets leuks voor mijn huis.",
+    "extra_example_fa": "دنبال یک چیز خوب برای خانه‌ام هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hallo, ik zoek iets.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع کمک گرفتن در فروشگاه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_for_item",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent in de supermarkt en zoekt brood.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "در سوپرمارکت هستی و دنبال نان می‌گردی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن موجود بودن نان مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن موجود بودن کالا از «Heeft u ...?» یا برای پیدا کردن کالا از «Waar vind ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Heeft u vers brood?",
+    "extra_example_fa": "نان تازه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u brood?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن موجود بودن نان مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_for_item",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt melk in de supermarkt.",
+    "question_text_nl": "Wat vraag je aan een medewerker?",
+    "question_text_fa": "در سوپرمارکت دنبال شیر هستی. از کارمند چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن محل شیر در فروشگاه مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن موجود بودن کالا از «Heeft u ...?» یا برای پیدا کردن کالا از «Waar vind ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Waar kan ik rijst vinden?",
+    "extra_example_fa": "برنج را کجا می‌توانم پیدا کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar kan ik melk vinden?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن محل شیر در فروشگاه مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_for_item",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet een tas op een foto en wilt weten of de winkel die heeft.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک کیف را در عکس دیده‌ای و می‌خواهی بدانی فروشگاه آن را دارد. چه می‌پرسی؟",
+    "explanation_fa": "این جمله درباره موجود بودن همان کیف سؤال می‌کند.",
+    "dialogue_rule_fa": "برای پرسیدن موجود بودن کالا از «Heeft u ...?» یا برای پیدا کردن کالا از «Waar vind ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Heeft u deze jas?",
+    "extra_example_fa": "این کت را دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u deze tas?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره موجود بودن همان کیف سؤال می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_for_item",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt een artikel en wilt weten of het in de winkel is.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "دنبال یک کالا هستی و می‌خواهی بدانی در فروشگاه هست یا نه. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله برای پرسیدن موجود بودن کالا در فروشگاه است.",
+    "dialogue_rule_fa": "برای پرسیدن موجود بودن کالا از «Heeft u ...?» یا برای پیدا کردن کالا از «Waar vind ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Heeft u dit boek in de winkel?",
+    "extra_example_fa": "این کتاب را در فروشگاه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u dit in de winkel?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن موجود بودن کالا در فروشگاه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_for_item",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt een pen, maar je ziet hem niet.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "دنبال خودکار هستی اما آن را نمی‌بینی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن محل خودکار مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن موجود بودن کالا از «Heeft u ...?» یا برای پیدا کردن کالا از «Waar vind ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Waar kan ik een oplader vinden?",
+    "extra_example_fa": "شارژر را کجا می‌توانم پیدا کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar kan ik een pen vinden?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن محل خودکار مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_for_item",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent in een winkel en zoekt schoenen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "در فروشگاه هستی و دنبال کفش می‌گردی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله می‌پرسد آیا فروشگاه کفش می‌فروشد یا نه.",
+    "dialogue_rule_fa": "برای پرسیدن موجود بودن کالا از «Heeft u ...?» یا برای پیدا کردن کالا از «Waar vind ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Verkoopt u jassen?",
+    "extra_example_fa": "کت می‌فروشید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Verkoopt u schoenen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله می‌پرسد آیا فروشگاه کفش می‌فروشد یا نه."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_for_item",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een broek kopen.",
+    "question_text_nl": "Wat zeg je tegen de verkoper?",
+    "question_text_fa": "می‌خواهی شلوار بخری. به فروشنده چه می‌گویی؟",
+    "explanation_fa": "این جمله کالایی را که دنبال آن هستی واضح می‌گوید.",
+    "dialogue_rule_fa": "برای پرسیدن موجود بودن کالا از «Heeft u ...?» یا برای پیدا کردن کالا از «Waar vind ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Ik zoek een trui.",
+    "extra_example_fa": "دنبال یک پلیور هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zoek een broek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله کالایی را که دنبال آن هستی واضح می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_for_item",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt een cadeau kopen voor een vriend.",
+    "question_text_nl": "Kies de beste zin.",
+    "question_text_fa": "می‌خواهی برای یک دوست کادو بخری. بهترین جمله چیست؟",
+    "explanation_fa": "این جمله برای شروع خرید هدیه مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن موجود بودن کالا از «Heeft u ...?» یا برای پیدا کردن کالا از «Waar vind ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Ik zoek een klein cadeau.",
+    "extra_example_fa": "دنبال یک کادوی کوچک هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zoek een cadeau.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع خرید هدیه مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_for_item",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je telefoon is leeg en je zoekt een oplader in een winkel.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "باتری گوشی‌ات تمام شده و در فروشگاه دنبال شارژر هستی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن موجود بودن شارژر مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن موجود بودن کالا از «Heeft u ...?» یا برای پیدا کردن کالا از «Waar vind ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Heeft u een telefoonhoesje?",
+    "extra_example_fa": "قاب موبایل دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u een oplader?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن موجود بودن شارژر مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_for_item",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt eieren kopen, maar je ziet ze niet.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی تخم‌مرغ بخری اما آن‌ها را نمی‌بینی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن محل تخم‌مرغ‌ها مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن موجود بودن کالا از «Heeft u ...?» یا برای پیدا کردن کالا از «Waar vind ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Waar vind ik de appels?",
+    "extra_example_fa": "سیب‌ها را کجا پیدا کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar vind ik de eieren?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن محل تخم‌مرغ‌ها مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_price",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet een tas, maar je weet de prijs niet.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک کیف می‌بینی اما قیمتش را نمی‌دانی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله ساده‌ترین راه پرسیدن قیمت است.",
+    "dialogue_rule_fa": "برای پرسیدن قیمت می‌توانی بگویی: «Hoeveel kost dit?» یا «Wat kost deze ...?»",
+    "extra_example_nl": "Hoeveel kost deze tas?",
+    "extra_example_fa": "این کیف چقدر قیمت دارد؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله ساده‌ترین راه پرسیدن قیمت است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik dit passen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای امتحان کردن لباس است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_price",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt de prijs van een jas weten.",
+    "question_text_nl": "Kies de beste vraag.",
+    "question_text_fa": "می‌خواهی قیمت یک کت را بدانی. بهترین سؤال چیست؟",
+    "explanation_fa": "این جمله دقیقاً قیمت کت را می‌پرسد.",
+    "dialogue_rule_fa": "برای پرسیدن قیمت می‌توانی بگویی: «Hoeveel kost dit?» یا «Wat kost deze ...?»",
+    "extra_example_nl": "Wat kost deze broek?",
+    "extra_example_fa": "این شلوار چقدر است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wat kost deze jas?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله دقیقاً قیمت کت را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_price",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Er staat geen prijs op het product.",
+    "question_text_nl": "Wat vraag je aan de verkoper?",
+    "question_text_fa": "روی کالا قیمت نوشته نشده است. از فروشنده چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن قیمت کالا مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن قیمت می‌توانی بگویی: «Hoeveel kost dit?» یا «Wat kost deze ...?»",
+    "extra_example_nl": "Wat is de prijs van deze trui?",
+    "extra_example_fa": "قیمت این پلیور چقدر است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wat is de prijs?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن قیمت کالا مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_price",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je ziet een rood kaartje bij een trui.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کنار یک پلیور کارت قرمز تخفیف می‌بینی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله درباره پیشنهاد ویژه یا حراج سؤال می‌کند.",
+    "dialogue_rule_fa": "برای پرسیدن قیمت می‌توانی بگویی: «Hoeveel kost dit?» یا «Wat kost deze ...?»",
+    "extra_example_nl": "Is deze jas in de aanbieding?",
+    "extra_example_fa": "آیا این کت در پیشنهاد ویژه است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Is dit in de aanbieding?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله درباره پیشنهاد ویژه یا حراج سؤال می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_price",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten of de prijs lager kan.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی قیمت کمتر می‌شود یا نه. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن تخفیف مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن قیمت می‌توانی بگویی: «Hoeveel kost dit?» یا «Wat kost deze ...?»",
+    "extra_example_nl": "Is er korting op deze tas?",
+    "extra_example_fa": "روی این کیف تخفیف هست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Is er korting?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن تخفیف مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_price",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je denkt dat een product tien euro kost.",
+    "question_text_nl": "Wat vraag je om zeker te zijn?",
+    "question_text_fa": "فکر می‌کنی یک کالا ده یورو است. برای اطمینان چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای تأیید یک قیمت مشخص است.",
+    "dialogue_rule_fa": "برای پرسیدن قیمت می‌توانی بگویی: «Hoeveel kost dit?» یا «Wat kost deze ...?»",
+    "extra_example_nl": "Kost deze pen twee euro?",
+    "extra_example_fa": "این خودکار دو یورو است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kost dit tien euro?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تأیید یک قیمت مشخص است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_price",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De verkoper zegt: Deze jas kost 150 euro. Jij vindt dat veel.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "فروشنده می‌گوید این کت ۱۵۰ یورو است و برایت زیاد است. چه می‌گویی؟",
+    "explanation_fa": "این جمله یعنی قیمت خیلی گران است.",
+    "dialogue_rule_fa": "برای پرسیدن قیمت می‌توانی بگویی: «Hoeveel kost dit?» یا «Wat kost deze ...?»",
+    "extra_example_nl": "Deze tas is te duur.",
+    "extra_example_fa": "این کیف خیلی گران است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat is te duur.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی قیمت خیلی گران است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_price",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De verkoper zegt: Deze tas kost 10 euro. Jij vindt de prijs goed.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "فروشنده می‌گوید این کیف ۱۰ یورو است و قیمت خوب است. چه می‌گویی؟",
+    "explanation_fa": "این جمله یعنی قیمت مناسب است.",
+    "dialogue_rule_fa": "برای پرسیدن قیمت می‌توانی بگویی: «Hoeveel kost dit?» یا «Wat kost deze ...?»",
+    "extra_example_nl": "Dat is niet duur.",
+    "extra_example_fa": "گران نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is een goede prijs.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی قیمت مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_price",
+    "life_context": "market",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent op de markt en wilt de prijs van appels weten.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "در بازار هستی و می‌خواهی قیمت سیب را بدانی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله قیمت سیب‌ها را می‌پرسد.",
+    "dialogue_rule_fa": "برای پرسیدن قیمت می‌توانی بگویی: «Hoeveel kost dit?» یا «Wat kost deze ...?»",
+    "extra_example_nl": "Wat kosten de bananen?",
+    "extra_example_fa": "موزها چقدر هستند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wat kosten de appels?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله قیمت سیب‌ها را می‌پرسد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_price",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten of de prijs bij de kassa klopt.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی قیمت کنار صندوق درست است یا نه. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای چک کردن درست بودن قیمت است.",
+    "dialogue_rule_fa": "برای پرسیدن قیمت می‌توانی بگویی: «Hoeveel kost dit?» یا «Wat kost deze ...?»",
+    "extra_example_nl": "Klopt de prijs van deze jas?",
+    "extra_example_fa": "قیمت این کت درست است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Klopt de prijs?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای چک کردن درست بودن قیمت است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_size_color",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je vindt een jas mooi, maar je wilt maat M.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک کت را دوست داری اما سایز M می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله سایز M همان کت را می‌پرسد.",
+    "dialogue_rule_fa": "برای پرسیدن سایز یا رنگ می‌گویی: «Heeft u deze in maat ...?» یا «Heeft u deze in het ...?»",
+    "extra_example_nl": "Heeft u deze trui in maat L?",
+    "extra_example_fa": "این پلیور را در سایز L دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u deze jas in maat M?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله سایز M همان کت را می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_size_color",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Een broek is te klein en je wilt een grotere maat.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک شلوار کوچک است و سایز بزرگ‌تر می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای درخواست سایز بزرگ‌تر است.",
+    "dialogue_rule_fa": "برای پرسیدن سایز یا رنگ می‌گویی: «Heeft u deze in maat ...?» یا «Heeft u deze in het ...?»",
+    "extra_example_nl": "Heeft u deze in een grotere maat?",
+    "extra_example_fa": "این را در سایز بزرگ‌تر دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een grotere maat?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست سایز بزرگ‌تر است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_size_color",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Een jas is te groot en je wilt een kleinere maat.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک کت بزرگ است و سایز کوچک‌تر می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای درخواست سایز کوچک‌تر است.",
+    "dialogue_rule_fa": "برای پرسیدن سایز یا رنگ می‌گویی: «Heeft u deze in maat ...?» یا «Heeft u deze in het ...?»",
+    "extra_example_nl": "Heeft u deze broek in een kleinere maat?",
+    "extra_example_fa": "این شلوار را در سایز کوچک‌تر دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een kleinere maat?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست سایز کوچک‌تر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_size_color",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet een jas, maar je wilt hem in het zwart.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک کت می‌بینی اما رنگ مشکی آن را می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن رنگ مشکی است.",
+    "dialogue_rule_fa": "برای پرسیدن سایز یا رنگ می‌گویی: «Heeft u deze in maat ...?» یا «Heeft u deze in het ...?»",
+    "extra_example_nl": "Heeft u deze tas in het zwart?",
+    "extra_example_fa": "این کیف را در رنگ مشکی دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u deze in het zwart?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن رنگ مشکی است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_size_color",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je vindt een trui mooi, maar je wilt hem in het blauw.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک پلیور را دوست داری اما رنگ آبی آن را می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن رنگ آبی است.",
+    "dialogue_rule_fa": "برای پرسیدن سایز یا رنگ می‌گویی: «Heeft u deze in maat ...?» یا «Heeft u deze in het ...?»",
+    "extra_example_nl": "Heeft u deze jas in het blauw?",
+    "extra_example_fa": "این کت را در رنگ آبی دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u deze in het blauw?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن رنگ آبی است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_size_color",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet een broek, maar je weet de maat niet.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک شلوار می‌بینی اما سایزش را نمی‌دانی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن سایز کالا است.",
+    "dialogue_rule_fa": "برای پرسیدن سایز یا رنگ می‌گویی: «Heeft u deze in maat ...?» یا «Heeft u deze in het ...?»",
+    "extra_example_nl": "Welke maat is deze jas?",
+    "extra_example_fa": "این کت چه سایزی است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Welke maat is dit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن سایز کالا است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_size_color",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je vindt de kleur niet mooi en wilt een andere kleur.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "رنگ کالا را دوست نداری و رنگ دیگری می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای درخواست رنگ دیگر است.",
+    "dialogue_rule_fa": "برای پرسیدن سایز یا رنگ می‌گویی: «Heeft u deze in maat ...?» یا «Heeft u deze in het ...?»",
+    "extra_example_nl": "Heeft u deze tas in een andere kleur?",
+    "extra_example_fa": "این کیف را در رنگ دیگری دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een andere kleur?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست رنگ دیگر است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_size_color",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt schoenen in maat 42.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کفش سایز ۴۲ می‌خواهی. چه می‌گویی؟",
+    "explanation_fa": "این جمله کوتاه و طبیعی برای گفتن سایز موردنظر است.",
+    "dialogue_rule_fa": "برای پرسیدن سایز یا رنگ می‌گویی: «Heeft u deze in maat ...?» یا «Heeft u deze in het ...?»",
+    "extra_example_nl": "Ik zoek maat 40.",
+    "extra_example_fa": "دنبال سایز ۴۰ هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zoek maat 42.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله کوتاه و طبیعی برای گفتن سایز موردنظر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_size_color",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je ziet een tas, maar je wilt hetzelfde model in rood.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک کیف می‌بینی اما همین مدل را در قرمز می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله هم مدل را می‌گوید و هم رنگ را.",
+    "dialogue_rule_fa": "برای پرسیدن سایز یا رنگ می‌گویی: «Heeft u deze in maat ...?» یا «Heeft u deze in het ...?»",
+    "extra_example_nl": "Heeft u dit model in het zwart?",
+    "extra_example_fa": "این مدل را در رنگ مشکی دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u dit model in het rood?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله هم مدل را می‌گوید و هم رنگ را."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "asking_size_color",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten of de schoenen in maat 43 zijn.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی کفش‌ها سایز ۴۳ هستند یا نه. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای چک کردن سایز کفش‌ها است.",
+    "dialogue_rule_fa": "برای پرسیدن سایز یا رنگ می‌گویی: «Heeft u deze in maat ...?» یا «Heeft u deze in het ...?»",
+    "extra_example_nl": "Zijn deze schoenen maat 42?",
+    "extra_example_fa": "این کفش‌ها سایز ۴۲ هستند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zijn deze schoenen maat 43?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای چک کردن سایز کفش‌ها است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "trying_on_clothes",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt een jas passen.",
+    "question_text_nl": "Wat zeg je tegen de verkoper?",
+    "question_text_fa": "می‌خواهی یک کت را امتحان کنی. به فروشنده چه می‌گویی؟",
+    "explanation_fa": "این جمله برای امتحان کردن کت مناسب است.",
+    "dialogue_rule_fa": "برای امتحان کردن لباس از فعل «passen» استفاده می‌شود: «Mag ik dit passen?»",
+    "extra_example_nl": "Mag ik deze broek passen?",
+    "extra_example_fa": "می‌توانم این شلوار را امتحان کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik deze jas passen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای امتحان کردن کت مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "trying_on_clothes",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt weten waar je kleding kunt passen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی کجا می‌توانی لباس را امتحان کنی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله محل اتاق پرو را می‌پرسد.",
+    "dialogue_rule_fa": "برای امتحان کردن لباس از فعل «passen» استفاده می‌شود: «Mag ik dit passen?»",
+    "extra_example_nl": "Waar zijn de paskamers?",
+    "extra_example_fa": "اتاق‌های پرو کجا هستند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Waar is de paskamer?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله محل اتاق پرو را می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "trying_on_clothes",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je past een broek en hij zit goed.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک شلوار را امتحان می‌کنی و اندازه‌اش خوب است. چه می‌گویی؟",
+    "explanation_fa": "این جمله یعنی شلوار خوب اندازه است.",
+    "dialogue_rule_fa": "برای امتحان کردن لباس از فعل «passen» استفاده می‌شود: «Mag ik dit passen?»",
+    "extra_example_nl": "Deze jas past goed.",
+    "extra_example_fa": "این کت خوب اندازه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Deze broek past goed.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی شلوار خوب اندازه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "trying_on_clothes",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je past een jas, maar hij is te klein.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک کت را امتحان می‌کنی اما کوچک است. چه می‌گویی؟",
+    "explanation_fa": "این جمله یعنی کت خیلی کوچک است.",
+    "dialogue_rule_fa": "برای امتحان کردن لباس از فعل «passen» استفاده می‌شود: «Mag ik dit passen?»",
+    "extra_example_nl": "Deze broek is te klein.",
+    "extra_example_fa": "این شلوار خیلی کوچک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Deze jas is te klein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی کت خیلی کوچک است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "trying_on_clothes",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je past een trui, maar hij is te groot.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک پلیور را امتحان می‌کنی اما بزرگ است. چه می‌گویی؟",
+    "explanation_fa": "این جمله یعنی پلیور خیلی بزرگ است.",
+    "dialogue_rule_fa": "برای امتحان کردن لباس از فعل «passen» استفاده می‌شود: «Mag ik dit passen?»",
+    "extra_example_nl": "Deze jas is te groot.",
+    "extra_example_fa": "این کت خیلی بزرگ است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Deze trui is te groot.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی پلیور خیلی بزرگ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "trying_on_clothes",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De jas past niet en je wilt een andere maat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کت اندازه نیست و سایز دیگری می‌خواهی. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای درخواست سایز دیگر است.",
+    "dialogue_rule_fa": "برای امتحان کردن لباس از فعل «passen» استفاده می‌شود: «Mag ik dit passen?»",
+    "extra_example_nl": "Ik wil maat L proberen.",
+    "extra_example_fa": "می‌خواهم سایز L را امتحان کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een andere maat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست سایز دیگر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "trying_on_clothes",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je past schoenen, maar ze zitten niet goed.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کفش‌ها را امتحان می‌کنی اما راحت نیستند. چه می‌گویی؟",
+    "explanation_fa": "این جمله ساده می‌گوید اندازه مناسب نیست.",
+    "dialogue_rule_fa": "برای امتحان کردن لباس از فعل «passen» استفاده می‌شود: «Mag ik dit passen?»",
+    "extra_example_nl": "Deze schoenen passen niet.",
+    "extra_example_fa": "این کفش‌ها اندازه نیستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het past niet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله ساده می‌گوید اندازه مناسب نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "trying_on_clothes",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je past een jas en je wilt hem kopen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کت را امتحان کرده‌ای و می‌خواهی بخری. چه می‌گویی؟",
+    "explanation_fa": "این جمله یعنی همین را می‌خرم.",
+    "dialogue_rule_fa": "برای امتحان کردن لباس از فعل «passen» استفاده می‌شود: «Mag ik dit passen?»",
+    "extra_example_nl": "Ik neem deze broek.",
+    "extra_example_fa": "این شلوار را می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik neem deze.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی همین را می‌خرم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "trying_on_clothes",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt een trui eerst passen voordat je hem koopt.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی پلیور را قبل از خرید امتحان کنی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای امتحان کردن پلیور مناسب است.",
+    "dialogue_rule_fa": "برای امتحان کردن لباس از فعل «passen» استفاده می‌شود: «Mag ik dit passen?»",
+    "extra_example_nl": "Mag ik dit even passen?",
+    "extra_example_fa": "می‌توانم این را کمی امتحان کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Mag ik deze trui passen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای امتحان کردن پلیور مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "trying_on_clothes",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je past een broek en hij is goed. De verkoper vraagt: Neemt u hem?",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "شلوار را امتحان کرده‌ای و خوب است. فروشنده می‌پرسد آن را می‌خری؟ چه جواب می‌دهی؟",
+    "explanation_fa": "این جواب نشان می‌دهد که شلوار را می‌خری.",
+    "dialogue_rule_fa": "برای امتحان کردن لباس از فعل «passen» استفاده می‌شود: «Mag ik dit passen?»",
+    "extra_example_nl": "Ja, ik neem deze.",
+    "extra_example_fa": "بله، همین را می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, ik neem deze broek.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب نشان می‌دهد که شلوار را می‌خری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "supermarket_shopping",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent in de supermarkt en zoekt melk.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "در سوپرمارکت هستی و دنبال شیر می‌گردی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله محل شیر را می‌پرسد.",
+    "dialogue_rule_fa": "در سوپرمارکت برای پیدا کردن کالا می‌گویی: «Waar vind ik ...?» یا «Waar ligt ...?»",
+    "extra_example_nl": "Waar ligt de kaas?",
+    "extra_example_fa": "پنیر کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar ligt de melk?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله محل شیر را می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "supermarket_shopping",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt brood in de supermarkt.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "در سوپرمارکت دنبال نان هستی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پیدا کردن نان مناسب است.",
+    "dialogue_rule_fa": "در سوپرمارکت برای پیدا کردن کالا می‌گویی: «Waar vind ik ...?» یا «Waar ligt ...?»",
+    "extra_example_nl": "Waar vind ik rijst?",
+    "extra_example_fa": "برنج را کجا پیدا کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Waar vind ik brood?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پیدا کردن نان مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "supermarket_shopping",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt eieren kopen.",
+    "question_text_nl": "Wat vraag je aan een medewerker?",
+    "question_text_fa": "می‌خواهی تخم‌مرغ بخری. از کارمند چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن موجود بودن تخم‌مرغ است.",
+    "dialogue_rule_fa": "در سوپرمارکت برای پیدا کردن کالا می‌گویی: «Waar vind ik ...?» یا «Waar ligt ...?»",
+    "extra_example_nl": "Heeft u melk?",
+    "extra_example_fa": "شیر دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u eieren?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن موجود بودن تخم‌مرغ است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "supermarket_shopping",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je bent in de supermarkt en zoekt rijst.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در سوپرمارکت هستی و دنبال برنج می‌گردی. چه می‌گویی؟",
+    "explanation_fa": "این جمله ساده و واضح است.",
+    "dialogue_rule_fa": "در سوپرمارکت برای پیدا کردن کالا می‌گویی: «Waar vind ik ...?» یا «Waar ligt ...?»",
+    "extra_example_nl": "Ik zoek suiker.",
+    "extra_example_fa": "دنبال شکر هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik zoek rijst.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله ساده و واضح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "supermarket_shopping",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt groenten kopen, maar je weet niet waar ze zijn.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی سبزیجات بخری اما نمی‌دانی کجا هستند. چه می‌پرسی؟",
+    "explanation_fa": "این جمله محل سبزیجات را می‌پرسد.",
+    "dialogue_rule_fa": "در سوپرمارکت برای پیدا کردن کالا می‌گویی: «Waar vind ik ...?» یا «Waar ligt ...?»",
+    "extra_example_nl": "Waar zijn de appels?",
+    "extra_example_fa": "سیب‌ها کجا هستند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar zijn de groenten?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله محل سبزیجات را می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "supermarket_shopping",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt weinig boodschappen, maar je wilt een mandje.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "خرید کمی داری اما سبد خرید می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای درخواست سبد خرید است.",
+    "dialogue_rule_fa": "در سوپرمارکت برای پیدا کردن کالا می‌گویی: «Waar vind ik ...?» یا «Waar ligt ...?»",
+    "extra_example_nl": "Waar zijn de mandjes?",
+    "extra_example_fa": "سبدهای خرید کجا هستند؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u een mandje?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست سبد خرید است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "supermarket_shopping",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt geen tas bij je in de supermarkt.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "در سوپرمارکت کیسه همراهت نیست. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای درخواست کیسه خرید است.",
+    "dialogue_rule_fa": "در سوپرمارکت برای پیدا کردن کالا می‌گویی: «Waar vind ik ...?» یا «Waar ligt ...?»",
+    "extra_example_nl": "Mag ik een tas?",
+    "extra_example_fa": "می‌توانم یک کیسه داشته باشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Heeft u een tas?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست کیسه خرید است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "supermarket_shopping",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De kassamedewerker vraagt: Heeft u een bonuskaart? Jij hebt die niet.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "صندوقدار می‌پرسد کارت بونوس داری؟ تو نداری. چه جواب می‌دهی؟",
+    "explanation_fa": "این جمله می‌گوید کارت بونوس نداری.",
+    "dialogue_rule_fa": "در سوپرمارکت برای پیدا کردن کالا می‌گویی: «Waar vind ik ...?» یا «Waar ligt ...?»",
+    "extra_example_nl": "Ik heb geen klantenkaart.",
+    "extra_example_fa": "کارت مشتری ندارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik heb geen bonuskaart.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله می‌گوید کارت بونوس نداری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "supermarket_shopping",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je zoekt de afdeling met fruit.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "دنبال بخش میوه هستی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله محل میوه را می‌پرسد.",
+    "dialogue_rule_fa": "در سوپرمارکت برای پیدا کردن کالا می‌گویی: «Waar vind ik ...?» یا «Waar ligt ...?»",
+    "extra_example_nl": "Waar is het brood?",
+    "extra_example_fa": "نان کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Waar is het fruit?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله محل میوه را می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "supermarket_shopping",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt weten of er verse appels zijn.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی بدانی سیب تازه هست یا نه. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرسیدن موجود بودن سیب تازه است.",
+    "dialogue_rule_fa": "در سوپرمارکت برای پیدا کردن کالا می‌گویی: «Waar vind ik ...?» یا «Waar ligt ...?»",
+    "extra_example_nl": "Heeft u verse broodjes?",
+    "extra_example_fa": "نان‌های تازه دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u verse appels?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن موجود بودن سیب تازه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "quantity_and_choice",
+    "life_context": "market",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent op de markt en wilt twee kilo appels.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "در بازار هستی و دو کیلو سیب می‌خواهی. چه می‌گویی؟",
+    "explanation_fa": "این جمله مقدار و کالا را مشخص می‌کند.",
+    "dialogue_rule_fa": "برای گفتن تعداد یا مقدار از جمله‌هایی مثل «Ik wil ...» و «Mag ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Ik wil één kilo tomaten.",
+    "extra_example_fa": "یک کیلو گوجه می‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil twee kilo appels.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مقدار و کالا را مشخص می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "quantity_and_choice",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je bent bij de bakker en wilt drie broodjes.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "نزد نانوا هستی و سه نان کوچک می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله تعداد نان‌ها را مؤدبانه می‌پرسد.",
+    "dialogue_rule_fa": "برای گفتن تعداد یا مقدار از جمله‌هایی مثل «Ik wil ...» و «Mag ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Mag ik twee broodjes?",
+    "extra_example_fa": "می‌توانم دو نان کوچک داشته باشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik drie broodjes?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله تعداد نان‌ها را مؤدبانه می‌پرسد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "quantity_and_choice",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt maar één stuk kopen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "فقط یک عدد از کالا را می‌خواهی. چه می‌گویی؟",
+    "explanation_fa": "این جمله یعنی یک عدد، لطفاً.",
+    "dialogue_rule_fa": "برای گفتن تعداد یا مقدار از جمله‌هایی مثل «Ik wil ...» و «Mag ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Eén tas, alstublieft.",
+    "extra_example_fa": "یک کیسه، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Eén stuk, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی یک عدد، لطفاً."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "quantity_and_choice",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt twee stuks van hetzelfde artikel.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "از یک کالا دو عدد می‌خواهی. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای دو عدد کالا مناسب است.",
+    "dialogue_rule_fa": "برای گفتن تعداد یا مقدار از جمله‌هایی مثل «Ik wil ...» و «Mag ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Drie stuks, graag.",
+    "extra_example_fa": "سه عدد، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Twee stuks, graag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای دو عدد کالا مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "quantity_and_choice",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je hebt twee jassen bekeken en kiest de jas in je hand.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "دو کت را نگاه کرده‌ای و کتی را که در دستت است انتخاب می‌کنی. چه می‌گویی؟",
+    "explanation_fa": "«deze» یعنی همین چیزی که نزدیک من است.",
+    "dialogue_rule_fa": "برای گفتن تعداد یا مقدار از جمله‌هایی مثل «Ik wil ...» و «Mag ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Ik neem deze tas.",
+    "extra_example_fa": "این کیف را می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik neem deze.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «deze» یعنی همین چیزی که نزدیک من است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "quantity_and_choice",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wijst naar een tas verder weg en wilt die kopen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "به کیفی که کمی دورتر است اشاره می‌کنی و می‌خواهی آن را بخری. چه می‌گویی؟",
+    "explanation_fa": "«die» برای چیزی است که کمی دورتر است.",
+    "dialogue_rule_fa": "برای گفتن تعداد یا مقدار از جمله‌هایی مثل «Ik wil ...» و «Mag ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Ik neem die jas.",
+    "extra_example_fa": "آن کت را می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem die.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. «die» برای چیزی است که کمی دورتر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "quantity_and_choice",
+    "life_context": "checkout",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je koopt weinig spullen en wilt een kleine tas.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "خرید کمی داری و کیسه کوچک می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای درخواست کیسه کوچک مناسب است.",
+    "dialogue_rule_fa": "برای گفتن تعداد یا مقدار از جمله‌هایی مثل «Ik wil ...» و «Mag ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Mag ik een kleine doos?",
+    "extra_example_fa": "می‌توانم یک جعبه کوچک داشته باشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik een kleine tas?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست کیسه کوچک مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "quantity_and_choice",
+    "life_context": "checkout",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je koopt veel spullen en wilt een grote tas.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "خرید زیادی داری و کیسه بزرگ می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای درخواست کیسه بزرگ مناسب است.",
+    "dialogue_rule_fa": "برای گفتن تعداد یا مقدار از جمله‌هایی مثل «Ik wil ...» و «Mag ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Mag ik een grote zak?",
+    "extra_example_fa": "می‌توانم یک کیسه بزرگ داشته باشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Mag ik een grote tas?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست کیسه بزرگ مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "quantity_and_choice",
+    "life_context": "market",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "Je wilt een halve kilo kaas kopen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی نیم کیلو پنیر بخری. چه می‌گویی؟",
+    "explanation_fa": "این جمله مقدار و کالا را درست می‌گوید.",
+    "dialogue_rule_fa": "برای گفتن تعداد یا مقدار از جمله‌هایی مثل «Ik wil ...» و «Mag ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Ik wil een halve kilo appels.",
+    "extra_example_fa": "نیم کیلو سیب می‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil een halve kilo kaas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله مقدار و کالا را درست می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "quantity_and_choice",
+    "life_context": "shop",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "dialogue_context_nl": "De verkoper vraagt: Welke wilt u? Jij kiest de blauwe tas.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "فروشنده می‌پرسد کدام را می‌خواهی؟ تو کیف آبی را انتخاب می‌کنی. چه جواب می‌دهی؟",
+    "explanation_fa": "این جمله انتخاب تو را واضح می‌گوید.",
+    "dialogue_rule_fa": "برای گفتن تعداد یا مقدار از جمله‌هایی مثل «Ik wil ...» و «Mag ik ...?» استفاده می‌شود.",
+    "extra_example_nl": "Ik neem de zwarte jas.",
+    "extra_example_fa": "کت مشکی را می‌برم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik neem de blauwe tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله انتخاب تو را واضح می‌گوید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "checkout_payment",
+    "life_context": "checkout",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat bij de kassa en bent klaar om te betalen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کنار صندوق هستی و آماده پرداختی. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای شروع پرداخت مناسب است.",
+    "dialogue_rule_fa": "کنار صندوق درباره پرداخت، رسید و کیسه خرید صحبت می‌کنی.",
+    "extra_example_nl": "Ik wil graag pinnen.",
+    "extra_example_fa": "می‌خواهم با کارت پرداخت کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik wil graag betalen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای شروع پرداخت مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "checkout_payment",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je staat bij de kassa en wilt met pin betalen.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "کنار صندوق هستی و می‌خواهی با کارت پرداخت کنی. چه می‌پرسی؟",
+    "explanation_fa": "در هلندی پرداخت با کارت معمولاً «pinnen» است.",
+    "dialogue_rule_fa": "کنار صندوق درباره پرداخت، رسید و کیسه خرید صحبت می‌کنی.",
+    "extra_example_nl": "Kan ik hier pinnen?",
+    "extra_example_fa": "اینجا می‌توانم با کارت پرداخت کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Mag ik dit passen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای امتحان کردن لباس است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. در هلندی پرداخت با کارت معمولاً «pinnen» است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "checkout_payment",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je wilt met cash betalen.",
+    "question_text_nl": "Wat vraag je bij de kassa?",
+    "question_text_fa": "می‌خواهی نقدی پرداخت کنی. کنار صندوق چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای پرداخت نقدی است.",
+    "dialogue_rule_fa": "کنار صندوق درباره پرداخت، رسید و کیسه خرید صحبت می‌کنی.",
+    "extra_example_nl": "Ik wil contant betalen.",
+    "extra_example_fa": "می‌خواهم نقدی پرداخت کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik contant betalen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرداخت نقدی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "checkout_payment",
+    "life_context": "checkout",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt betaald en wilt een bon.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "پرداخت کرده‌ای و رسید می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای درخواست رسید مناسب است.",
+    "dialogue_rule_fa": "کنار صندوق درباره پرداخت، رسید و کیسه خرید صحبت می‌کنی.",
+    "extra_example_nl": "Mag ik een bonnetje?",
+    "extra_example_fa": "می‌توانم یک رسید داشته باشم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Mag ik de bon?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست رسید مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "checkout_payment",
+    "life_context": "checkout",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De kassamedewerker vraagt: Wilt u de bon? Jij wilt de bon.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "صندوقدار می‌پرسد رسید می‌خواهی؟ تو رسید را می‌خواهی. چه جواب می‌دهی؟",
+    "explanation_fa": "این جواب کوتاه برای قبول کردن رسید مناسب است.",
+    "dialogue_rule_fa": "کنار صندوق درباره پرداخت، رسید و کیسه خرید صحبت می‌کنی.",
+    "extra_example_nl": "Ja, graag de bon.",
+    "extra_example_fa": "بله، رسید را لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, graag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب کوتاه برای قبول کردن رسید مناسب است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "checkout_payment",
+    "life_context": "checkout",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De kassamedewerker vraagt: Een tas erbij? Jij wilt een tas.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "صندوقدار می‌پرسد کیسه هم می‌خواهی؟ تو کیسه می‌خواهی. چه جواب می‌دهی؟",
+    "explanation_fa": "این جواب برای گرفتن کیسه خرید است.",
+    "dialogue_rule_fa": "کنار صندوق درباره پرداخت، رسید و کیسه خرید صحبت می‌کنی.",
+    "extra_example_nl": "Ja, graag een kleine tas.",
+    "extra_example_fa": "بله، یک کیسه کوچک لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, graag een tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب برای گرفتن کیسه خرید است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "checkout_payment",
+    "life_context": "checkout",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De kassamedewerker vraagt: Een tas erbij? Jij hebt geen tas nodig.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "صندوقدار می‌پرسد کیسه هم می‌خواهی؟ تو نیاز نداری. چه جواب می‌دهی؟",
+    "explanation_fa": "این جواب یعنی کیسه نمی‌خواهی.",
+    "dialogue_rule_fa": "کنار صندوق درباره پرداخت، رسید و کیسه خرید صحبت می‌کنی.",
+    "extra_example_nl": "Nee dank u, geen tas.",
+    "extra_example_fa": "نه ممنون، کیسه نمی‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, geen tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب یعنی کیسه نمی‌خواهی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "checkout_payment",
+    "life_context": "checkout",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De kassamedewerker vraagt of je nog iets wilt. Je bent klaar.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "صندوقدار می‌پرسد چیز دیگری می‌خواهی یا نه. کارت تمام شده. چه می‌گویی؟",
+    "explanation_fa": "این جمله یعنی همین کافی است و خرید تمام شده است.",
+    "dialogue_rule_fa": "کنار صندوق درباره پرداخت، رسید و کیسه خرید صحبت می‌کنی.",
+    "extra_example_nl": "Nee, dat is alles.",
+    "extra_example_fa": "نه، همین کافی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is alles.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی همین کافی است و خرید تمام شده است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "checkout_payment",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "De kassamedewerker vraagt: Hoe wilt u betalen? Jij wilt met pin betalen.",
+    "question_text_nl": "Wat antwoord je?",
+    "question_text_fa": "صندوقدار می‌پرسد چطور می‌خواهی پرداخت کنی؟ تو می‌خواهی با کارت پرداخت کنی. چه جواب می‌دهی؟",
+    "explanation_fa": "این جواب روش پرداخت با کارت را می‌گوید.",
+    "dialogue_rule_fa": "کنار صندوق درباره پرداخت، رسید و کیسه خرید صحبت می‌کنی.",
+    "extra_example_nl": "Met pin, graag.",
+    "extra_example_fa": "با کارت، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Met pin, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب روش پرداخت با کارت را می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "checkout_payment",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "dialogue_context_nl": "Je hebt alleen contant geld bij je.",
+    "question_text_nl": "Wat zeg je bij de kassa?",
+    "question_text_fa": "فقط پول نقد همراهت داری. کنار صندوق چه می‌گویی؟",
+    "explanation_fa": "این جمله یعنی نقدی پرداخت می‌کنم.",
+    "dialogue_rule_fa": "کنار صندوق درباره پرداخت، رسید و کیسه خرید صحبت می‌کنی.",
+    "extra_example_nl": "Ik betaal met pin.",
+    "extra_example_fa": "با کارت پرداخت می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik betaal contant.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یعنی نقدی پرداخت می‌کنم."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "return_exchange_item",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je hebt een trui gekocht, maar je wilt hem terugbrengen.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک پلیور خریده‌ای اما می‌خواهی پس بدهی. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای پس دادن کالا مناسب است.",
+    "dialogue_rule_fa": "برای تعویض یا پس دادن کالا از «ruilen» و «terugbrengen» استفاده می‌شود.",
+    "extra_example_nl": "Ik wil deze jas terugbrengen.",
+    "extra_example_fa": "می‌خواهم این کت را پس بدهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil dit terugbrengen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پس دادن کالا مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "return_exchange_item",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je hebt een broek gekocht, maar je wilt een andere broek.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "یک شلوار خریده‌ای اما شلوار دیگری می‌خواهی. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای تعویض کالا مناسب است.",
+    "dialogue_rule_fa": "برای تعویض یا پس دادن کالا از «ruilen» و «terugbrengen» استفاده می‌شود.",
+    "extra_example_nl": "Kan ik deze tas ruilen?",
+    "extra_example_fa": "می‌توانم این کیف را تعویض کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik dit ruilen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تعویض کالا مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "return_exchange_item",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je wilt iets ruilen en de medewerker vraagt om de bon.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی چیزی را تعویض کنی و کارمند رسید را می‌خواهد. چه می‌گویی؟",
+    "explanation_fa": "این جمله می‌گوید رسید همراهت است.",
+    "dialogue_rule_fa": "برای تعویض یا پس دادن کالا از «ruilen» و «terugbrengen» استفاده می‌شود.",
+    "extra_example_nl": "Hier is de bon.",
+    "extra_example_fa": "رسید اینجاست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik heb de bon.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله می‌گوید رسید همراهت است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "return_exchange_item",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je wilt een jas ruilen omdat hij te klein is.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی کتی را تعویض کنی چون کوچک است. چه می‌گویی؟",
+    "explanation_fa": "این جمله دلیل تعویض را ساده می‌گوید.",
+    "dialogue_rule_fa": "برای تعویض یا پس دادن کالا از «ruilen» و «terugbrengen» استفاده می‌شود.",
+    "extra_example_nl": "Deze jas is te klein.",
+    "extra_example_fa": "این کت خیلی کوچک است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij is te klein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله دلیل تعویض را ساده می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "return_exchange_item",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je hebt een tas gekocht, maar de tas is kapot.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "یک کیف خریده‌ای اما کیف خراب است. چه می‌گویی؟",
+    "explanation_fa": "این جمله دلیل پس دادن یا تعویض را می‌گوید.",
+    "dialogue_rule_fa": "برای تعویض یا پس دادن کالا از «ruilen» و «terugbrengen» استفاده می‌شود.",
+    "extra_example_nl": "Deze oplader is kapot.",
+    "extra_example_fa": "این شارژر خراب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De tas is kapot.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله دلیل پس دادن یا تعویض را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "return_exchange_item",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je wilt dezelfde trui, maar in een andere maat.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "همان پلیور را می‌خواهی اما در سایز دیگر. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای درخواست سایز دیگر هنگام تعویض است.",
+    "dialogue_rule_fa": "برای تعویض یا پس دادن کالا از «ruilen» و «terugbrengen» استفاده می‌شود.",
+    "extra_example_nl": "Ik wil deze in maat L.",
+    "extra_example_fa": "این را در سایز L می‌خواهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik wil een andere maat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست سایز دیگر هنگام تعویض است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "return_exchange_item",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je wilt je geld terug voor een artikel.",
+    "question_text_nl": "Wat vraag je?",
+    "question_text_fa": "می‌خواهی پولت را برای یک کالا پس بگیری. چه می‌پرسی؟",
+    "explanation_fa": "این جمله برای درخواست بازگشت پول است.",
+    "dialogue_rule_fa": "برای تعویض یا پس دادن کالا از «ruilen» و «terugbrengen» استفاده می‌شود.",
+    "extra_example_nl": "Kan ik het geld terugkrijgen?",
+    "extra_example_fa": "می‌توانم پول را پس بگیرم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Kan ik mijn geld terugkrijgen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست بازگشت پول است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "return_exchange_item",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "De medewerker vraagt wanneer je het artikel hebt gekocht. Het was gisteren.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "کارمند می‌پرسد کالا را کی خریدی. دیروز بوده. چه می‌گویی؟",
+    "explanation_fa": "این جمله زمان خرید را می‌گوید.",
+    "dialogue_rule_fa": "برای تعویض یا پس دادن کالا از «ruilen» و «terugbrengen» استفاده می‌شود.",
+    "extra_example_nl": "Ik heb deze jas vandaag gekocht.",
+    "extra_example_fa": "این کت را امروز خریده‌ام.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik heb dit gisteren gekocht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله زمان خرید را می‌گوید."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "return_exchange_item",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je wilt een broek terugbrengen omdat hij niet past.",
+    "question_text_nl": "Wat zeg je?",
+    "question_text_fa": "می‌خواهی شلواری را پس بدهی چون اندازه نیست. چه می‌گویی؟",
+    "explanation_fa": "این جمله برای پس دادن شلوار مناسب است.",
+    "dialogue_rule_fa": "برای تعویض یا پس دادن کالا از «ruilen» و «terugbrengen» استفاده می‌شود.",
+    "extra_example_nl": "Ik wil deze schoenen terugbrengen.",
+    "extra_example_fa": "می‌خواهم این کفش‌ها را پس بدهم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik wil deze broek terugbrengen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پس دادن شلوار مناسب است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "return_exchange_item",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "Je wilt een kapotte oplader ruilen.",
+    "question_text_nl": "Wat zeg je in de winkel?",
+    "question_text_fa": "می‌خواهی یک شارژر خراب را تعویض کنی. در فروشگاه چه می‌گویی؟",
+    "explanation_fa": "این جمله برای تعویض شارژر مناسب است.",
+    "dialogue_rule_fa": "برای تعویض یا پس دادن کالا از «ruilen» و «terugbrengen» استفاده می‌شود.",
+    "extra_example_nl": "Kan ik deze pen ruilen?",
+    "extra_example_fa": "می‌توانم این خودکار را تعویض کنم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik deze oplader ruilen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای تعویض شارژر مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "choosing_best_shopping_dialogue_response",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Kan ik u helpen?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "فروشنده می‌پرسد می‌تواند کمک کند. بهترین جواب مشتری چیست؟",
+    "explanation_fa": "این جواب مستقیم به پیشنهاد کمک پاسخ می‌دهد.",
+    "dialogue_rule_fa": "در مکالمه باید پاسخی را انتخاب کنی که دقیقاً به جمله قبل مربوط است.",
+    "extra_example_nl": "Ja, ik zoek een tas.",
+    "extra_example_fa": "بله، دنبال یک کیف هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ja, ik zoek een jas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب مستقیم به پیشنهاد کمک پاسخ می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "choosing_best_shopping_dialogue_response",
+    "life_context": "checkout",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Wilt u de bon?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "صندوقدار می‌پرسد رسید می‌خواهی یا نه. بهترین جواب چیست؟",
+    "explanation_fa": "این جواب کوتاه برای قبول کردن رسید مناسب است.",
+    "dialogue_rule_fa": "در مکالمه باید پاسخی را انتخاب کنی که دقیقاً به جمله قبل مربوط است.",
+    "extra_example_nl": "Nee dank u.",
+    "extra_example_fa": "نه ممنون.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ja, graag.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب کوتاه برای قبول کردن رسید مناسب است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "choosing_best_shopping_dialogue_response",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Welke maat zoekt u?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "فروشنده می‌پرسد چه سایزی می‌خواهی. بهترین جواب چیست؟",
+    "explanation_fa": "این جواب سایز موردنظر را می‌گوید.",
+    "dialogue_rule_fa": "در مکالمه باید پاسخی را انتخاب کنی که دقیقاً به جمله قبل مربوط است.",
+    "extra_example_nl": "Ik zoek maat 42.",
+    "extra_example_fa": "دنبال سایز ۴۲ هستم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik zoek maat M.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب سایز موردنظر را می‌گوید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "choosing_best_shopping_dialogue_response",
+    "life_context": "clothing_store",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Mag ik u helpen?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "فروشنده می‌پرسد آیا کمک می‌خواهی. بهترین پاسخ چیست؟",
+    "explanation_fa": "این جواب درخواست مشخص درباره رنگ کالا است.",
+    "dialogue_rule_fa": "در مکالمه باید پاسخی را انتخاب کنی که دقیقاً به جمله قبل مربوط است.",
+    "extra_example_nl": "Ja, heeft u deze in maat L?",
+    "extra_example_fa": "بله، این را در سایز L دارید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ja, heeft u deze in het zwart?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب درخواست مشخص درباره رنگ کالا است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "choosing_best_shopping_dialogue_response",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Heeft u een bonuskaart?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "صندوقدار سوپرمارکت می‌پرسد کارت بونوس داری؟ بهترین جواب چیست؟",
+    "explanation_fa": "این جواب مستقیم می‌گوید کارت نداری.",
+    "dialogue_rule_fa": "در مکالمه باید پاسخی را انتخاب کنی که دقیقاً به جمله قبل مربوط است.",
+    "extra_example_nl": "Ja, ik heb een bonuskaart.",
+    "extra_example_fa": "بله، کارت بونوس دارم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, ik heb geen bonuskaart.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب مستقیم می‌گوید کارت نداری."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "choosing_best_shopping_dialogue_response",
+    "life_context": "fitting_room",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Past de jas goed?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "فروشنده می‌پرسد کت خوب اندازه است یا نه. بهترین جواب چیست؟",
+    "explanation_fa": "این جواب درباره اندازه کت است.",
+    "dialogue_rule_fa": "در مکالمه باید پاسخی را انتخاب کنی که دقیقاً به جمله قبل مربوط است.",
+    "extra_example_nl": "Ja, hij past goed.",
+    "extra_example_fa": "بله، خوب اندازه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nee, hij is te klein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب درباره اندازه کت است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "choosing_best_shopping_dialogue_response",
+    "life_context": "checkout",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Een tas erbij?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "صندوقدار می‌پرسد کیسه هم می‌خواهی؟ بهترین جواب چیست؟",
+    "explanation_fa": "این جواب مستقیم به سؤال درباره کیسه پاسخ می‌دهد.",
+    "dialogue_rule_fa": "در مکالمه باید پاسخی را انتخاب کنی که دقیقاً به جمله قبل مربوط است.",
+    "extra_example_nl": "Ja, graag een tas.",
+    "extra_example_fa": "بله، یک کیسه لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, geen tas.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب مستقیم به سؤال درباره کیسه پاسخ می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "choosing_best_shopping_dialogue_response",
+    "life_context": "payment",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Hoe wilt u betalen?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "صندوقدار می‌پرسد چطور می‌خواهی پرداخت کنی. بهترین جواب چیست؟",
+    "explanation_fa": "این جواب روش پرداخت را مشخص می‌کند.",
+    "dialogue_rule_fa": "در مکالمه باید پاسخی را انتخاب کنی که دقیقاً به جمله قبل مربوط است.",
+    "extra_example_nl": "Contant, alstublieft.",
+    "extra_example_fa": "نقدی، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Met pin, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب روش پرداخت را مشخص می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "choosing_best_shopping_dialogue_response",
+    "life_context": "customer_service",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Waarom wilt u dit ruilen?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "کارمند می‌پرسد چرا می‌خواهی کالا را تعویض کنی. بهترین جواب چیست؟",
+    "explanation_fa": "این جواب دلیل تعویض را می‌گوید.",
+    "dialogue_rule_fa": "در مکالمه باید پاسخی را انتخاب کنی که دقیقاً به جمله قبل مربوط است.",
+    "extra_example_nl": "Het is kapot.",
+    "extra_example_fa": "خراب است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Het is te klein.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب دلیل تعویض را می‌گوید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "dialogue",
+    "topic": "shopping",
+    "subtopic": "choosing_best_shopping_dialogue_response",
+    "life_context": "market",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "dialogue_context_nl": "A: Hoeveel appels wilt u?\nB: ___",
+    "question_text_nl": "Kies het beste antwoord.",
+    "question_text_fa": "فروشنده می‌پرسد چند سیب می‌خواهی. بهترین جواب چیست؟",
+    "explanation_fa": "این جواب مقدار سیب را مشخص می‌کند.",
+    "dialogue_rule_fa": "در مکالمه باید پاسخی را انتخاب کنی که دقیقاً به جمله قبل مربوط است.",
+    "extra_example_nl": "Eén kilo, graag.",
+    "extra_example_fa": "یک کیلو، لطفاً.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Kan ik pinnen?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرداخت با کارت است، نه این موقعیت."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoeveel kost dit?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن قیمت است، نه این موقعیت."
+      },
+      {
+        "key": "C",
+        "text_nl": "Heeft u maat M?",
+        "is_correct": false,
+        "feedback_fa": "این جمله برای پرسیدن سایز است، نه این موقعیت."
+      },
+      {
+        "key": "D",
+        "text_nl": "Twee kilo, alstublieft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جواب مقدار سیب را مشخص می‌کند."
+      }
+    ]
+  }
+]

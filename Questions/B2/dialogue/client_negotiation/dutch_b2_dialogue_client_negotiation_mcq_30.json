@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: Dit bedrag ligt boven ons budget. Kunt u ons ergens tegemoetkomen?\nVerkoper: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست یک پیشنهاد مؤدبانه و واقع‌بینانه است: تخفیف کوچک در ازای سفارش بزرگ‌تر. این دقیقاً چیزی است که مشتری درخواست کرده است.",
+    "grammar_rule_fa": "در مذاکره مؤدبانه از فعل شرطی/پیشنهادی استفاده می‌شود، نه امر: «We zouden u een korting kunnen aanbieden als...»",
+    "extra_example_nl": "We zouden de prijs kunnen verlagen als u een langer contract tekent.",
+    "extra_example_fa": "اگر شما یک قرارداد طولانی‌تر امضا کنید، ما می‌توانیم قیمت را کاهش دهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U betaalt gewoon de volledige prijs, daar valt niet over te praten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و قاطع دارد، نه یک پیشنهادِ مؤدبانه برای مذاکره."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vorige maand hebben we de prijs al verlaagd voor u.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: اینجا باید over een mogelijke korting nu of in de toekomst gesproken worden, niet over het verleden."
+      },
+      {
+        "key": "C",
+        "text_nl": "We zouden u vijf procent korting kunnen geven als u een grotere hoeveelheid bestelt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پیشنهادی مؤدبانه و مشخص که به درخواست مشتری پاسخ می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "We verhogen de prijs zelfs nog met tien procent.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای برعکس دارد: مشتری خواستار تخفیف بود، نه افزایش قیمت."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leverancier: De levertijd is momenteel zes weken.\nKlant: Dat is te lang voor ons project. ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور مؤدبانه درخواست می‌کند که زمان تحویل کوتاه‌تر شود و دلیل آن (فوریت پروژه) را نیز ذکر می‌کند.",
+    "grammar_rule_fa": "استفاده از فعل کمکی مؤدبانه «Zou het mogelijk zijn...» برای درخواست تغییر بدون خشونت: «Zou het mogelijk zijn om de levertijd te verkorten?»",
+    "extra_example_nl": "Zou het mogelijk zijn om de bestelling binnen drie weken te leveren?",
+    "extra_example_fa": "آیا ممکن است سفارش ظرف سه هفته تحویل داده شود؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zes weken vonden wij vorige keer eigenlijk prima.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این جمله عملاً مدت‌زمان طولانی را می‌پذیرد، در حالی که مشتری گفته آن خیلی طولانی است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zou het mogelijk zijn om de levertijd te verkorten, gezien de urgentie van ons project?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: درخواستی مؤدبانه با دلیل مشخص، مناسب مذاکره."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wij hebben liever een langere levertijd dan normaal.",
+        "is_correct": false,
+        "feedback_fa": "❌ معنای این جمله برعکس است: مشتری زمان کوتاه‌تر می‌خواهد، نه طولانی‌تر."
+      },
+      {
+        "key": "D",
+        "text_nl": "Lever het morgen, anders zoeken wij een andere leverancier.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و تهدیدآمیز است، نه یک درخواستِ مؤدبانه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: We willen graag de betalingstermijn van dertig naar zestig dagen verlengen.\nVerkoper: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست موضع فروشنده را روشن می‌کند و در عین حال راه میانه‌ای (مثلاً ۴۵ روز) پیشنهاد می‌دهد که در مذاکره طبیعی است.",
+    "grammar_rule_fa": "برای بیان یک محدودیت مؤدبانه از «Helaas kunnen we... maar we kunnen wel...» استفاده می‌شود، نه فعل ماضی.",
+    "extra_example_nl": "Helaas kunnen we geen zestig dagen aanbieden, maar veertig dagen is bespreekbaar.",
+    "extra_example_fa": "متأسفانه ما نمی‌توانیم شصت روز پیشنهاد دهیم، اما چهل روز قابل بحث است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Betaal maar binnen dertig dagen, punt uit.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و قاطع دارد، نه یک پاسخِ مذاکره‌ای مؤدبانه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zestig dagen is voor ons lastig, maar we kunnen wel akkoord gaan met vijfenveertig dagen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی متعادل که هم محدودیت را نشان می‌دهد و هم راه‌حل میانه پیشنهاد می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Vorig jaar hadden we al een termijn van zestig dagen afgesproken.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید درباره‌ی وضعیت فعلی یا آینده صحبت شود، نه گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Prima, dan verkorten we de termijn zelfs naar vijftien dagen.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری این جمله برعکس درخواست مشتری است: مشتری خواستار مهلت طولانی‌تر بود، نه کوتاه‌تر."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Verkoper: We kunnen de deadline van vrijdag helaas niet halen.\nKlant: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور مؤدبانه درخواست تاریخ جدید و مشخص می‌کند، که واکنش طبیعی در مذاکره است.",
+    "grammar_rule_fa": "برای پرسیدن جایگزین از فعل شرطی استفاده می‌شود: «Welke datum zou dan wel haalbaar zijn?»",
+    "extra_example_nl": "Welke nieuwe datum zou voor u haalbaar zijn?",
+    "extra_example_fa": "چه تاریخ جدیدی برای شما ممکن است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zorg dat het toch vrijdag klaar is, ik wil geen smoesjes horen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و خشن دارد، نه یک واکنشِ مؤدبانه در مذاکره."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geen probleem, neem gerust nog een extra week de tijd.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این جمله بدون هیچ روشن‌سازی، بلافاصله زمان بیشتری می‌دهد، در حالی که ابتدا باید تاریخ دقیق پرسیده شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gisteren zei u nog dat het geen probleem zou zijn.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: تمرکز باید بر راه‌حلِ آینده باشد، نه بازگویی گفته‌های گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dat is jammer om te horen. Welke datum zou dan wel haalbaar zijn voor u?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: واکنشی مؤدبانه که به دنبال راه‌حل عملی است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: De kwaliteit van de laatste levering was niet wat we hadden verwacht.\nLeverancier: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست شکایت مشتری را جدی می‌گیرد و راه‌حلی عملی (بررسی و جایگزینی) پیشنهاد می‌دهد.",
+    "grammar_rule_fa": "برای عذرخواهی و پیشنهاد راه‌حل از فعل «zullen» به‌عنوان زمان آینده مؤدبانه استفاده می‌شود: «We zullen dit direct onderzoeken.»",
+    "extra_example_nl": "We zullen dit probleem meteen onderzoeken en u snel informeren.",
+    "extra_example_fa": "ما بلافاصله این مشکل را بررسی خواهیم کرد و به‌زودی به شما اطلاع می‌دهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "De kwaliteit was toen precies zoals u had gevraagd.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای برعکس دارد: در حالی که مشتری ناراضی است، این پاسخ ادعا می‌کند همه‌چیز درست بوده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "We hebben de kwaliteit vorige week al verbeterd, dus geen zorgen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید درباره‌ی اقدام آینده برای این شکایت مشخص صحبت شود، نه ادعای گذشته‌ی نامرتبط."
+      },
+      {
+        "key": "C",
+        "text_nl": "Onze excuses, we zullen dit direct onderzoeken en zorgen voor een oplossing.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی مسئولانه که شکایت را می‌پذیرد و راه‌حل پیشنهاد می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Klaag maar niet zo, andere klanten zijn wel tevreden.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و تدافعی دارد، نه واکنشِ حرفه‌ای و مؤدبانه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Verkoper: We willen het contract graag met twee jaar verlengen.\nKlant: Voordat we dat doen, ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور منطقی شرطی برای بحث درباره‌ی شرایط جدید قرارداد مطرح می‌کند که با «Voordat» در ابتدای جمله هماهنگ است.",
+    "grammar_rule_fa": "جمله‌ی وابسته با «voordat» نیاز به فعل کامل در جمله‌ی پیرو دارد: «...willen we de voorwaarden opnieuw bespreken.»",
+    "extra_example_nl": "Voordat we tekenen, willen we eerst de prijzen opnieuw bekijken.",
+    "extra_example_fa": "قبل از امضا، ابتدا می‌خواهیم قیمت‌ها را دوباره بررسی کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "willen we eerst de voorwaarden van het nieuwe contract goed doornemen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: دنباله‌ی منطقی جمله‌ی شرطی، درخواست منطقی برای بررسی شرایط پیش از تمدید."
+      },
+      {
+        "key": "B",
+        "text_nl": "weigeren we absoluut elke vorm van samenwerking in de toekomst.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این جمله ناگهان به رد کامل همکاری می‌رسد، در حالی که گفت‌وگو فقط درباره‌ی بررسی شرایط است."
+      },
+      {
+        "key": "C",
+        "text_nl": "hebben we het contract al twee jaar geleden ondertekend.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: جمله باید به شرط آینده اشاره کند، نه رویدادی در گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "teken het gewoon meteen, we hebben geen tijd te verliezen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، در حالی که پس از «voordat» انتظار یک شرط یا بررسی می‌رود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: Kunt u de omvang van het project uitbreiden zonder extra kosten?\nVerkoper: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور مؤدبانه توضیح می‌دهد که تغییر در دامنه‌ی کار معمولاً هزینه‌ی اضافی دارد، بدون این‌که کاملاً رد کند.",
+    "grammar_rule_fa": "برای توضیح محدودیت مالی به‌صورت مؤدبانه از عبارت «Dat brengt helaas wel extra kosten met zich mee» استفاده می‌شود.",
+    "extra_example_nl": "Een uitbreiding van de opdracht brengt meestal wel extra kosten met zich mee.",
+    "extra_example_fa": "معمولاً گسترش سفارش هزینه‌ی اضافی به همراه دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Een uitbreiding van de omvang brengt helaas wel extra kosten met zich mee, maar we kunnen samen kijken naar een passend voorstel.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: توضیحی واقع‌بینانه همراه با پیشنهاد همکاری برای یافتن راه‌حل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vorige keer hebben we dat al zonder kosten voor u gedaan.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: تمرکز باید بر وضعیت فعلی و آینده باشد، نه ادعا درباره‌ی گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Natuurlijk, uitbreiding is altijd helemaal gratis voor al onze klanten.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله معنای برعکس و غیرواقعی دارد: در تجارت واقعی، افزایش دامنه‌ی کار معمولاً هزینه دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Betaal gewoon extra, zo werkt het nu eenmaal.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و بی‌ادبانه دارد، نه یک توضیحِ حرفه‌ای."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Leverancier: Wij stellen voor om de prijs jaarlijks te indexeren.\nKlant: Dat begrijpen we, maar ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست پیشنهادی متعادل ارائه می‌دهد: پذیرش اصل موضوع اما با محدودیت درصدی، که رفتاری طبیعی در مذاکره است.",
+    "grammar_rule_fa": "برای پیشنهاد محدودیت مؤدبانه از فعل شرطی استفاده می‌شود: «zouden we graag een maximumpercentage willen afspreken.»",
+    "extra_example_nl": "We zouden graag een maximum van drie procent per jaar willen afspreken.",
+    "extra_example_fa": "ما مایلیم حداکثر سه درصد در سال توافق کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vinden we een onbeperkte jaarlijkse verhoging een prima idee.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: پذیرش بدون هیچ محدودیتی برخلاف منطق مذاکره‌ای است که مشتری معمولاً دنبال می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "zouden we graag een maximumpercentage per jaar willen afspreken.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی متعادل که اصل موضوع را می‌پذیرد اما محدودیت منطقی پیشنهاد می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "hebben we vorig jaar nooit over indexering gesproken.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: بحث باید درباره‌ی توافق آینده باشد، نه ادعا درباره‌ی گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "verlaag de prijs onmiddellijk met tien procent.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و کاملاً به موضوع اصلی (شاخص‌گذاری سالانه) بی‌ربط است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Klant: We overwegen om naar een andere leverancier over te stappen vanwege de prijs.\nVerkoper: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست بدون تسلیم فوری، پیشنهاد گفت‌وگو درباره‌ی راه‌حل مشترک می‌دهد تا مشتری را حفظ کند.",
+    "grammar_rule_fa": "برای پیشنهاد گفت‌وگوی سازنده از عبارت مؤدبانه «Laten we samen kijken of...» استفاده می‌شود.",
+    "extra_example_nl": "Laten we samen kijken of we een oplossing kunnen vinden die voor beide partijen werkt.",
+    "extra_example_fa": "بیایید با هم بررسی کنیم که آیا می‌توانیم راه‌حلی پیدا کنیم که برای هر دو طرف مناسب باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ga dan maar naar die andere leverancier, dat maakt ons niets uit.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ بی‌تفاوت و تقریباً امری دارد، نه واکنشِ حرفه‌ای در مذاکره."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat begrijp ik. Laten we samen kijken of we een oplossing kunnen vinden voordat u die stap zet.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: واکنشی سازنده که فضایی برای مذاکره باز نگه می‌دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Prima, dan verhogen we de prijs nog verder voor u.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری این جمله برعکس است: افزایش قیمت باعث از دست دادن مشتری می‌شود، نه حفظ او."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorig jaar dreigde u ook al met een overstap.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: تمرکز باید بر وضعیت فعلی و راه‌حل باشد، نه یادآوری تهدیدهای گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 3,
+    "question_text_nl": "Verkoper: Bij een langer contract kunnen we een gunstiger tarief aanbieden.\nKlant: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست علاقه‌مندی به شنیدن جزئیات را نشان می‌دهد، که واکنشی منطقی به پیشنهاد فروشنده است.",
+    "grammar_rule_fa": "برای درخواست اطلاعات بیشتر با ادب از فعل «kunt u» به‌عنوان سؤال مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Kunt u toelichten hoeveel korting we bij een driejarig contract krijgen?",
+    "extra_example_fa": "می‌توانید توضیح دهید که در قرارداد سه‌ساله چقدر تخفیف دریافت می‌کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nee, we willen liever een korter contract met een hoger tarief.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ بدون دلیل روشن، دقیقاً برعکس چیزی را می‌خواهد که معمولاً مطلوب مشتری است (تعرفه‌ی پایین‌تر)."
+      },
+      {
+        "key": "B",
+        "text_nl": "We hadden vorig jaar al een langer contract afgesloten.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید درباره‌ی پیشنهاد فعلی صحبت شود، نه قراردادی در گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat klinkt interessant, kunt u toelichten hoeveel korting een driejarig contract oplevert?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: واکنشی طبیعی که علاقه نشان می‌دهد و جزئیات بیشتری می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Geef ons dat tarief nu meteen, zonder verdere uitleg.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، نه یک واکنشِ مؤدبانه که به مذاکره ادامه می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: We zouden de samenwerking willen voortzetten, mits de voorwaarden worden aangepast.\nLeverancier: ___\nAangenomen dat u openstaat voor overleg, welke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست آمادگی برای بررسی شرایط جدید را نشان می‌دهد و از مشتری می‌خواهد نکات مشخص را ارائه دهد، که واکنشی منطقی و سازنده است.",
+    "grammar_rule_fa": "جمله‌ی شرطی با «mits» به معنای «به‌شرط آنکه» است و پاسخ باید متناسب با این شرط، آماده‌ی گفت‌وگو باشد: «We staan open om de voorwaarden te bespreken.»",
+    "extra_example_nl": "We staan open om de voorwaarden te bespreken, mits dit binnen redelijke grenzen blijft.",
+    "extra_example_fa": "ما آماده‌ی بحث درباره‌ی شرایط هستیم، به‌شرط آنکه در محدوده‌ی معقول باقی بماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We hebben de voorwaarden vorig kwartaal al definitief vastgesteld.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید درباره‌ی امکان تغییر در آینده صحبت شود، نه ادعای قطعیت گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "We staan open om de voorwaarden te bespreken; kunt u aangeven welke punten voor u het belangrijkst zijn?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی سازنده که آمادگی برای مذاکره را نشان می‌دهد و جزئیات می‌خواهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Accepteer de huidige voorwaarden gewoon, ze zijn niet onderhandelbaar.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و هرگونه فضای مذاکره را می‌بندد، در حالی که مشتری به‌روشنی از تمایل به گفت‌وگو صحبت کرده است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dan stoppen we de samenwerking per direct.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: مشتری خواستار ادامه‌ی همکاری با شرایط جدید بود، نه پایان آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Verkoper: Als u nu tekent, kunnen we de huidige prijs nog garanderen.\nKlant: Voordat ik een beslissing neem, ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور منطقی زمان بیشتری برای بررسی داخلی درخواست می‌کند، که واکنشی محتاطانه و طبیعی در مذاکره است.",
+    "grammar_rule_fa": "پس از عبارت وابسته «Voordat ik een beslissing neem» باید فعل کامل با فاعل مناسب در جمله‌ی اصلی بیاید: «...wil ik dit eerst intern bespreken.»",
+    "extra_example_nl": "Voordat we akkoord gaan, willen we dit eerst met het management bespreken.",
+    "extra_example_fa": "پیش از موافقت، ابتدا می‌خواهیم این موضوع را با مدیریت در میان بگذاریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "weiger ik voortaan alle voorstellen van uw bedrijf.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این واکنش بیش از حد شدید است و با لحن محتاطانه‌ی جمله‌ی اصلی هم‌خوانی ندارد."
+      },
+      {
+        "key": "B",
+        "text_nl": "teken nu maar snel, dan hebben we het geregeld.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، در حالی که پس از «Voordat ik een beslissing neem» انتظار محتاطانه‌تری می‌رود."
+      },
+      {
+        "key": "C",
+        "text_nl": "had ik dit voorstel al vorige week goedgekeurd.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: جمله‌ی وابسته به آینده اشاره دارد («voordat ik... neem»)، نه به تصمیمی که قبلاً گرفته شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "wil ik dit voorstel eerst intern bespreken met mijn collega's.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی منطقی که زمان بیشتری برای تصمیم‌گیری آگاهانه می‌خواهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: De extra werkzaamheden die u voorstelt, vallen buiten de oorspronkelijke offerte.\nLeverancier: U heeft gelijk, ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست موافقت با نکته‌ی مشتری را نشان می‌دهد و پیشنهاد می‌کند برای این کار اضافی، پیشنهاد قیمت جداگانه تهیه شود.",
+    "grammar_rule_fa": "پس از «U heeft gelijk,» باید ادامه‌ی جمله با فعل مناسب برای پیشنهادِ عملی بیاید: «...daarom stellen we een aparte prijsopgave voor.»",
+    "extra_example_nl": "U heeft gelijk, daarom sturen we u een aangepaste offerte voor het extra werk.",
+    "extra_example_fa": "شما حق دارید، به همین دلیل پیشنهاد قیمت اصلاح‌شده‌ای برای کار اضافی برای شما ارسال می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "betaal toch maar gewoon voor deze extra werkzaamheden.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، در حالی که پس از پذیرفتن حق مشتری انتظار یک پیشنهادِ مؤدبانه می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "hadden we dit al twee maanden geleden in de offerte opgenomen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این ادعا با جمله‌ی مشتری («valt buiten de offerte») در تناقض است و باید درباره‌ی راه‌حل آینده صحبت شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "vallen deze werkzaamheden dus helemaal gratis onder de offerte.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این جمله معنای برعکس می‌دهد؛ چیزی که خارج از پیشنهاد قیمت است، نمی‌تواند به‌طور خودکار رایگان باشد."
+      },
+      {
+        "key": "D",
+        "text_nl": "daarom stellen we hiervoor een aparte prijsopgave op, zodat alles duidelijk blijft.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی شفاف و حرفه‌ای که موضوع را منصفانه حل می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: Onze vorige leverancier bood dezelfde dienst voor een lagere prijs aan.\nVerkoper: Dat kan, maar ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست بدون رد کردن حرف مشتری، ارزش افزوده‌ی خدمات خود را توضیح می‌دهد، که استراتژی متداول در مذاکره است.",
+    "grammar_rule_fa": "پس از «Dat kan, maar» باید یک استدلال منطقی با فعل زمان حال بیاید که تفاوت را توجیه کند.",
+    "extra_example_nl": "Dat kan, maar onze prijs omvat ook een uitgebreide garantie en snelle service.",
+    "extra_example_fa": "ممکن است، اما قیمت ما شامل گارانتی گسترده و خدمات سریع نیز می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "ga dan toch terug naar die vorige leverancier.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و تدافعی دارد، نه واکنشِ حرفه‌ای برای حفظ مشتری."
+      },
+      {
+        "key": "B",
+        "text_nl": "boden wij vorig jaar exact dezelfde lage prijs aan.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: پاسخ باید درباره‌ی تفاوتِ فعلی توضیح دهد، نه ادعای نامرتبط درباره‌ی گذشته."
+      },
+      {
+        "key": "C",
+        "text_nl": "onze prijs omvat wel extra service en een langere garantieperiode.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی که تفاوت قیمت را با ارزش افزوده توجیه می‌کند، بدون رد کردن نظر مشتری."
+      },
+      {
+        "key": "D",
+        "text_nl": "is onze prijs dus vanaf nu nog hoger dan die van hen.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این جمله به‌جای توجیه یا نزدیک کردن قیمت‌ها، به‌طور غیرمنطقی تفاوت قیمت را افزایش می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Leverancier: We stellen een aanbetaling van dertig procent voor bij de start van het project.\nKlant: Dat lijkt ons wat veel; ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست پیشنهاد جایگزین منطقی (درصد کمتر یا پرداخت مرحله‌ای) ارائه می‌دهد که ادامه‌ی طبیعی جمله‌ی نیمه‌کاره است.",
+    "grammar_rule_fa": "بعد از «dat lijkt ons wat veel;» باید یک پیشنهاد جایگزین با فعل شرطی بیاید: «...zouden vijftien procent redelijker vinden.»",
+    "extra_example_nl": "We zouden een aanbetaling van vijftien procent redelijker vinden.",
+    "extra_example_fa": "ما پیش‌پرداخت پانزده درصدی را معقول‌تر می‌دانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "hadden we vorige keer al zestig procent vooraf betaald.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: بحث باید درباره‌ی پیشنهاد فعلی باشد، نه ادعایی درباره‌ی گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "stort direct het volledige bedrag vooraf.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و کاملاً برعکس نگرانی مشتری درباره‌ی مبلغ بالای پیش‌پرداخت است."
+      },
+      {
+        "key": "C",
+        "text_nl": "we zouden een aanbetaling van vijftien procent, met de rest bij oplevering, redelijker vinden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پیشنهادی متعادل و منطقی که ادامه‌ی طبیعی نگرانی مشتری است."
+      },
+      {
+        "key": "D",
+        "text_nl": "vinden we vijftig procent aanbetaling juist een prima idee.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این جمله برخلاف نگرانی مشتری، درصد پیش‌پرداخت را حتی افزایش می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: Als de kwaliteit niet verbetert, overwegen we het contract te beëindigen.\nLeverancier: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست هشدار مشتری را جدی می‌گیرد و یک برنامه‌ی مشخص برای بهبود کیفیت پیشنهاد می‌دهد.",
+    "grammar_rule_fa": "برای پاسخ به یک جمله‌ی شرطی هشدارآمیز، از فعل آینده یا پیشنهادی استفاده می‌شود: «We zullen een verbeterplan opstellen.»",
+    "extra_example_nl": "We zullen samen met u een concreet verbeterplan opstellen binnen twee weken.",
+    "extra_example_fa": "ما ظرف دو هفته با شما یک برنامه‌ی بهبود مشخص تهیه خواهیم کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We hadden de kwaliteit vorig kwartaal al helemaal opgelost.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این ادعا با نگرانی فعلی مشتری در تناقض است و باید به اقدام آینده اشاره شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Beëindig het contract dan toch maar meteen zelf.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و کاملاً به ضرر رابطه‌ی تجاری است، نه یک واکنشِ سازنده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dan stoppen we inderdaad beter meteen met de samenwerking.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ به‌جای تلاش برای حفظ مشتری، بلافاصله پایان همکاری را می‌پذیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "We nemen dit signaal serieus en stellen binnen twee weken een concreet verbeterplan op.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی مسئولانه که هشدار مشتری را جدی می‌گیرد و راه‌حل مشخص می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Verkoper: We kunnen de scope van het project alleen uitbreiden als de deadline ook verschuift.\nKlant: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور منطقی این رابطه‌ی شرطی (دامنه‌ی بیشتر = زمان بیشتر) را می‌پذیرد و درباره‌ی جزئیات زمان جدید سؤال می‌کند.",
+    "grammar_rule_fa": "برای پذیرش مشروط و پرسیدن جزئیات از ساختار سؤالی مؤدبانه استفاده می‌شود: «Met hoeveel weken zou de deadline dan verschuiven?»",
+    "extra_example_nl": "Met hoeveel tijd moeten we dan rekening houden bij deze uitbreiding?",
+    "extra_example_fa": "در این صورت باید چقدر زمان اضافی در نظر بگیریم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat begrijpen we. Met hoeveel weken zou de deadline dan ongeveer verschuiven?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پذیرش منطقی شرط و پرسیدن جزئیات عملی، مناسب مذاکره."
+      },
+      {
+        "key": "B",
+        "text_nl": "We hebben de scope vorige maand al zonder probleem uitgebreid.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این جمله به‌جای پاسخ به شرط فعلی، درباره‌ی رویدادی نامرتبط در گذشته صحبت می‌کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nee, wij willen juist de deadline vervroegen bij een grotere scope.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ منطق شرط فروشنده (دامنه‌ی بیشتر نیاز به زمان بیشتر دارد) را کاملاً معکوس می‌کند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Verschuif die deadline dan maar met een heel jaar.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و غیرمنطقی دارد، بدون هیچ گفت‌وگویی درباره‌ی مدت‌زمان واقعی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: We willen de samenwerking alleen voortzetten als er een boeteclausule in het contract komt.\nLeverancier: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست آمادگی برای بحث درباره‌ی بند جریمه را نشان می‌دهد و شرایط منطقی آن را مطرح می‌کند.",
+    "grammar_rule_fa": "برای بحث درباره‌ی یک شرط حساس، از عبارت مؤدبانه‌ی «We staan hiervoor open, mits...» استفاده می‌شود.",
+    "extra_example_nl": "We staan open voor een boeteclausule, mits deze redelijk en duidelijk omschreven is.",
+    "extra_example_fa": "ما با بند جریمه موافقیم، به‌شرط آنکه معقول و به‌روشنی تعریف‌شده باشد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dan schrappen we voortaan juist alle clausules uit het contract.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ دقیقاً برعکس چیزی است که مشتری خواسته است (افزودن بند جریمه، نه حذف بندها)."
+      },
+      {
+        "key": "B",
+        "text_nl": "We staan hiervoor open, mits de voorwaarden van de clausule redelijk en duidelijk omschreven worden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی سازنده که تمایل به مذاکره را نشان می‌دهد، اما با شرط منطقی."
+      },
+      {
+        "key": "C",
+        "text_nl": "Een boeteclausule komt er niet in, punt uit, daar praten we niet over.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و بستن مذاکره را نشان می‌دهد، نه یک واکنشِ باز برای گفت‌وگو."
+      },
+      {
+        "key": "D",
+        "text_nl": "We hadden die clausule vorig jaar al standaard in elk contract staan.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید درباره‌ی این قرارداد خاص و آینده صحبت شود، نه ادعای کلی درباره‌ی گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Verkoper: Gezien de huidige marktprijzen, kunnen wij ons tarief niet verder verlagen.\nKlant: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌جای اصرار روی تخفیف بیشتر، پیشنهاد جایگزین (شرایط پرداخت بهتر) را مطرح می‌کند که راهکاری منطقی و رایج در مذاکره است.",
+    "grammar_rule_fa": "برای پیشنهاد جایگزین به‌جای پافشاری، از عبارت مؤدبانه «Zouden we dan misschien kunnen kijken naar...» استفاده می‌شود.",
+    "extra_example_nl": "Zouden we dan misschien kunnen kijken naar gunstigere betalingsvoorwaarden?",
+    "extra_example_fa": "پس شاید بتوانیم به شرایط پرداخت مطلوب‌تری نگاه کنیم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "U had vorige maand nog een veel lagere prijs aangeboden.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید درباره‌ی راه‌حلی برای وضعیت فعلی صحبت شود، نه یادآوری مبهم از گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dan vragen we juist om een nog hoger tarief van u.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این جمله معنای برعکس دارد؛ مشتری به‌دنبال کاهش هزینه بود، نه افزایش آن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zouden we dan misschien kunnen kijken naar gunstigere betalingsvoorwaarden in plaats van een lagere prijs?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پیشنهادی خلاقانه که به بن‌بست قیمتی راه‌حل جایگزین می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Verlaag die prijs toch nu meteen, anders stoppen we het gesprek.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و تهدیدآمیز دارد، نه یک پیشنهادِ مؤدبانه برای ادامه‌ی مذاکره."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 4,
+    "question_text_nl": "Klant: We hebben begrepen dat andere klanten een betere korting krijgen dan wij.\nVerkoper: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست بدون تأیید یا رد شایعه، توضیحی حرفه‌ای درباره‌ی معیارهای تخفیف ارائه می‌دهد.",
+    "grammar_rule_fa": "برای پاسخ حرفه‌ای به یک ادعای حساس، از فعل زمان حال با توضیح عینی استفاده می‌شود، نه اتهام یا انکار مستقیم.",
+    "extra_example_nl": "Onze kortingen zijn gebaseerd op afname­volume en de duur van de samenwerking.",
+    "extra_example_fa": "تخفیف‌های ما بر اساس حجم خرید و مدت‌زمان همکاری تعیین می‌شوند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Onze kortingen zijn gebaseerd op afnamevolume en samenwerkingsduur; laten we samen kijken wat voor u mogelijk is.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی شفاف و حرفه‌ای که موضوع را منصفانه توضیح می‌دهد و به گفت‌وگو ادامه می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat is niet uw zaak, accepteer gewoon uw huidige korting.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و بی‌ادبانه دارد، نه واکنشِ حرفه‌ای در برابر نگرانی مشتری."
+      },
+      {
+        "key": "C",
+        "text_nl": "Klopt, andere klanten krijgen inderdaad altijd een betere deal dan u.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ بدون هیچ توضیحی، ادعای مشتری را تأیید می‌کند و اعتماد را از بین می‌برد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vorig jaar kreeg u nog wel de hoogste korting van iedereen.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: توضیح باید درباره‌ی وضعیت و معیارهای فعلی باشد، نه ادعایی مبهم درباره‌ی گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Klant: Hoewel we tevreden zijn over de samenwerking, vinden we het tarief niet meer in verhouding staan tot de geleverde diensten.\nLeverancier: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست نگرانی مشتری را جدی می‌گیرد و پیشنهاد می‌دهد که خدمات و قیمت با هم دوباره بررسی شوند، که واکنشی متعادل و حرفه‌ای است.",
+    "grammar_rule_fa": "جمله‌ی وابسته با «Hoewel» بیانگر تضاد است (رضایت کلی در برابر نارضایتی از قیمت)؛ پاسخ باید هر دو طرف را به‌رسمیت بشناسد: «We waarderen dat, en we bekijken graag samen...»",
+    "extra_example_nl": "Hoewel de resultaten goed zijn, begrijpen we dat de prijs-kwaliteitverhouding besproken moet worden.",
+    "extra_example_fa": "هرچند نتایج خوب هستند، درک می‌کنیم که نسبت قیمت به کیفیت باید بررسی شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Betaal toch gewoon het volledige tarief, zonder discussie.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و به‌کلی نادیده می‌گیرد که مشتری با احترام نگرانی خود را مطرح کرده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dan verhogen we het tarief nog verder om de kwaliteit te garanderen.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ کاملاً برعکس نگرانی مشتری است؛ مشتری خواستار نسبت بهتر قیمت به کیفیت بود، نه قیمت بالاتر."
+      },
+      {
+        "key": "C",
+        "text_nl": "We waarderen uw eerlijkheid en bekijken graag samen met u hoe we de dienstverlening en het tarief beter kunnen afstemmen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی متعادل که هم رضایت کلی و هم نگرانی مشتری را در نظر می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "We hadden dit tarief vorig kwartaal al met u geëvalueerd en afgesloten.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید درباره‌ی گفت‌وگوی فعلی و راه‌حل آینده صحبت شود، نه ادعای بسته‌شدن موضوع در گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Verkoper: Mocht u besluiten om het volume te verdubbelen, dan kunnen we een aanzienlijke korting overwegen.\nKlant: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست پیشنهاد شرطی فروشنده را به‌طور منطقی دنبال می‌کند و می‌پرسد این تخفیف دقیقاً چقدر خواهد بود، پیش از تصمیم‌گیری.",
+    "grammar_rule_fa": "جمله‌ی شرطی با «Mocht u besluiten...» به معنای احتمال آینده است؛ پاسخ منطقی باید درباره‌ی همان شرط سؤال یا مذاکره کند، نه گذشته یا موضوعی نامرتبط.",
+    "extra_example_nl": "Mocht de vraag stijgen, dan overwegen we een langere levertermijn.",
+    "extra_example_fa": "اگر تقاضا افزایش یابد، مدت تحویل طولانی‌تری را در نظر می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dan verlagen we het volume liever nog verder dan nu.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این جمله دقیقاً برعکس شرط پیشنهادی است که نیاز به افزایش حجم دارد، نه کاهش آن."
+      },
+      {
+        "key": "B",
+        "text_nl": "We hebben het volume vorig jaar al verdubbeld zonder enige korting.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: پیشنهاد فروشنده درباره‌ی آینده است («mocht u besluiten»)، نه رویدادی که قبلاً رخ داده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Verdubbel die korting nu al, ook zonder dat wij het volume verhogen.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و به‌کلی شرط اصلی پیشنهاد (افزایش حجم) را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Interessant. Kunt u concreet aangeven om welk kortingspercentage het dan zou gaan?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: ادامه‌ی منطقی گفت‌وگو با درخواست جزئیات مشخص درباره‌ی همان پیشنهاد شرطی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Klant: Zodra de vertraging is opgelost, zijn we bereid het contract te verlengen.\nLeverancier: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست تعهد مشخصی برای حل تأخیر ارائه می‌دهد که با شرط زمانی مشتری («Zodra...») هماهنگ است.",
+    "grammar_rule_fa": "جمله‌ی وابسته با «Zodra» به معنای «به‌محض اینکه» است و نشان‌دهنده‌ی توالی زمانی است؛ پاسخ باید تعهدی مشخص برای اقدام فوری بدهد.",
+    "extra_example_nl": "Zodra we het probleem hebben opgelost, nemen we meteen contact met u op.",
+    "extra_example_fa": "به‌محض اینکه مشکل را حل کنیم، بلافاصله با شما تماس می‌گیریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We begrijpen dat, en we verwachten de vertraging binnen twee weken volledig te hebben opgelost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی مشخص و متعهدانه که به شرط زمانی مشتری پاسخ می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dan verlengen we de vertraging liever nog met een paar weken.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ دقیقاً برعکس چیزی است که باید اتفاق بیفتد تا مشتری راضی شود (کوتاه کردن تأخیر، نه طولانی‌تر کردن آن)."
+      },
+      {
+        "key": "C",
+        "text_nl": "Verleng het contract toch nu al, ongeacht de vertraging.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و شرط زمانی مشتری را نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "We hadden die vertraging vorig jaar trouwens ook al eens gehad.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید درباره‌ی حل مشکل در آینده‌ی نزدیک صحبت شود، نه ذکر رویدادی نامرتبط از گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Verkoper: Wij stellen voor om een deel van het risico bij u neer te leggen in ruil voor een lagere prijs.\nKlant: Dat is een interessante gedachte, maar ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور منطقی می‌خواهد بداند دقیقاً کدام ریسک‌ها منتقل می‌شوند، پیش از پذیرش پیشنهاد، که واکنشی محتاطانه و طبیعی در مذاکره است.",
+    "grammar_rule_fa": "پس از «maar» باید ادامه‌ی جمله با فعل مناسب برای بیان یک نگرانی یا سؤال دقیق بیاید، نه یک نتیجه‌گیری نامرتبط.",
+    "extra_example_nl": "Dat is interessant, maar we willen eerst precies weten welke risico's dit betreft.",
+    "extra_example_fa": "این جالب است، اما ابتدا می‌خواهیم دقیقاً بدانیم این شامل چه ریسک‌هایی می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "leg al het risico dan maar volledig bij ons neer, zonder verdere afspraken.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری و بدون بررسی دقیق دارد، در حالی که پس از «maar» انتظار یک نگرانی یا شرط محتاطانه می‌رود."
+      },
+      {
+        "key": "B",
+        "text_nl": "hadden we dit risico vorig jaar al helemaal geaccepteerd.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: این پیشنهاد تازه مطرح شده است، پس نمی‌توان از پذیرش آن در گذشته صحبت کرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "willen we juist dat u alle risico's blijft dragen zoals voorheen.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ کاملاً موضوع پیشنهاد فروشنده (انتقال بخشی از ریسک به مشتری) را رد می‌کند بدون بررسی جزئیات."
+      },
+      {
+        "key": "D",
+        "text_nl": "we willen eerst precies weten welke risico's u daarmee bedoelt voordat we akkoord gaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: واکنشی محتاطانه و منطقی که پیش از تصمیم‌گیری، جزئیات بیشتری می‌خواهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Klant: Ondanks de prijsstijging blijven we graag met u samenwerken, op voorwaarde dat de service verbetert.\nLeverancier: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست به‌طور مشخص متعهد می‌شود که خدمات بهبود یابد، که دقیقاً شرط مطرح‌شده توسط مشتری است.",
+    "grammar_rule_fa": "عبارت «op voorwaarde dat» شرطی صریح ایجاد می‌کند؛ پاسخ باید مستقیماً به همان شرط (بهبود خدمات) بپردازد، نه موضوعی دیگر مانند قیمت.",
+    "extra_example_nl": "We nemen concrete stappen om de service structureel te verbeteren.",
+    "extra_example_fa": "ما گام‌های مشخصی برای بهبود ساختاری خدمات برمی‌داریم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We hebben de service vorig jaar al voor eens en altijd verbeterd.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید به تعهد آینده اشاره شود، در حالی که این جمله ادعایی نامعتبر درباره‌ی گذشته مطرح می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Dat waarderen we, en we nemen concrete stappen om de service de komende maanden merkbaar te verbeteren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی که دقیقاً به شرط مشتری (بهبود خدمات) پاسخ می‌دهد و تعهدی مشخص می‌دهد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Betaal die hogere prijs gewoon zonder verdere voorwaarden.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و شرط اصلی مشتری (بهبود خدمات) را کاملاً نادیده می‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dan verlagen we de service liever nog verder in kwaliteit.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ دقیقاً برعکس شرط مشتری است؛ مشتری خواستار بهبود خدمات بود، نه کاهش کیفیت آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Verkoper: Nu de grondstofprijzen zijn gestegen, zien wij ons genoodzaakt de tarieven aan te passen.\nKlant: Dat begrijpen we, echter ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست ضمن پذیرش منطق افزایش قیمت، خواستار محدودسازی یا مرحله‌بندی آن می‌شود، که واکنشی متعادل و واقع‌بینانه است.",
+    "grammar_rule_fa": "بعد از «echter» (اما، با این حال) باید یک نگرانی یا درخواست منطقی بیاید که با پذیرش کلی هم‌خوانی داشته باشد، نه رد کامل یا تناقض.",
+    "extra_example_nl": "We begrijpen de situatie, echter zouden we de verhoging graag gefaseerd invoeren.",
+    "extra_example_fa": "ما وضعیت را درک می‌کنیم، با این حال ترجیح می‌دهیم افزایش قیمت به‌صورت مرحله‌ای اجرا شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "hadden de grondstofprijzen vorig jaar al een keer een piek bereikt.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید به وضعیت فعلی و راه‌حل عملی اشاره شود، نه یادآوری نامرتبط از گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "zouden we de verhoging graag gefaseerd willen invoeren, zodat we ons erop kunnen voorbereiden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی متعادل که واقعیت افزایش قیمت را می‌پذیرد اما درخواست منطقی برای مرحله‌بندی دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "verhoog de tarieven dan maar direct met vijftig procent.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و کاملاً برخلاف منافع مشتری است، نه واکنشِ منطقی به افزایش قیمت."
+      },
+      {
+        "key": "D",
+        "text_nl": "vinden we een onmiddellijke en onbeperkte verhoging juist heel redelijk.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ برخلاف لحن محتاطانه‌ی «echter» است و بدون هیچ مقاومتی افزایش نامحدود را می‌پذیرد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Klant: We zijn bereid een hoger tarief te betalen, mits de reactietijd bij storingen aanzienlijk korter wordt.\nLeverancier: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست پیشنهاد مشخصی برای زمان واکنش جدید ارائه می‌دهد که دقیقاً به شرط مشتری («mits...») پاسخ می‌دهد.",
+    "grammar_rule_fa": "عبارت «mits» شرط لازم برای پذیرش پیشنهاد است؛ پاسخ باید مستقیماً همان شرط (کاهش زمان واکنش) را با تعهد مشخص برآورده کند.",
+    "extra_example_nl": "We kunnen de reactietijd terugbrengen tot maximaal vier uur.",
+    "extra_example_fa": "ما می‌توانیم زمان واکنش را به حداکثر چهار ساعت کاهش دهیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We hadden de reactietijd vorig jaar al eens verkort voor een andere klant.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید تعهد مشخص برای همین قرارداد و آینده داده شود، نه ادعایی نامرتبط درباره‌ی گذشته."
+      },
+      {
+        "key": "B",
+        "text_nl": "Betaal dat hogere tarief nu maar vast, de reactietijd blijft verder ongewijzigd.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و شرط اصلی مشتری (کاهش زمان واکنش) را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dan verlengen we de reactietijd bij storingen liever nog met een paar uur.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ دقیقاً برعکس شرط مشتری است؛ مشتری خواستار زمان واکنش کوتاه‌تر بود، نه طولانی‌تر."
+      },
+      {
+        "key": "D",
+        "text_nl": "We kunnen de reactietijd bij storingen terugbrengen tot maximaal vier uur, vastgelegd in een nieuwe serviceovereenkomst.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی مشخص و قابل‌اندازه‌گیری که دقیقاً به شرط مشتری پاسخ می‌دهد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Verkoper: Wat betreft de exclusiviteitsclausule, die zouden wij liever uit het contract laten.\nKlant: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست موضع خود درباره‌ی اهمیت بند انحصاری بودن را روشن می‌کند و آماده است شرایط جایگزین آن را بشنود.",
+    "grammar_rule_fa": "برای بیان یک موضع محکم اما مذاکره‌پذیر، از عبارت «We hechten wel aan..., maar staan open voor...» استفاده می‌شود.",
+    "extra_example_nl": "We hechten wel aan deze clausule, maar staan open voor een aangepaste versie.",
+    "extra_example_fa": "ما به این بند اهمیت می‌دهیم، اما برای نسخه‌ی اصلاح‌شده‌ای از آن باز هستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We hechten wel aan deze clausule vanwege onze investeringen, maar staan open voor een aangepaste versie.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی که موضع مشتری را با دلیل روشن می‌کند و در عین حال فضای مذاکره باز می‌ماند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Prima, dan geven we andere leveranciers voortaan net zoveel ruimte als u.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ به‌سادگی و بدون مقاومت اصل انحصاری‌بودن را کنار می‌گذارد، در حالی که این بند برای مشتری اهمیت دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Die clausule stond vorig jaar toch ook al niet in het contract.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید درباره‌ی وضعیت فعلی قرارداد صحبت شود، نه ادعایی نامرتبط درباره‌ی گذشته."
+      },
+      {
+        "key": "D",
+        "text_nl": "Schrap die clausule dan maar meteen helemaal, zonder verder overleg.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد، در حالی که انتظار می‌رود مشتری موضع خود را با استدلال مؤدبانه بیان کند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Klant: Voordat we verdergaan met de onderhandeling, willen we duidelijkheid over wie aansprakelijk is bij vertraging.\nLeverancier: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست پیشنهاد می‌دهد که مسئولیت به‌طور مشخص و منصفانه در قرارداد تعریف شود، که دقیقاً خواسته‌ی مشتری است.",
+    "grammar_rule_fa": "جمله‌ی وابسته با «Voordat» نشان می‌دهد که موضوع باید پیش از ادامه‌ی مذاکره حل شود؛ پاسخ باید مستقیماً همان موضوع (مسئولیت در قبال تأخیر) را روشن کند.",
+    "extra_example_nl": "We kunnen een duidelijke clausule opnemen over aansprakelijkheid bij vertraging.",
+    "extra_example_fa": "ما می‌توانیم بندی روشن درباره‌ی مسئولیت در صورت تأخیر در قرارداد بگنجانیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Dat is een terechte vraag; we stellen voor om dit expliciet en evenwichtig in het contract vast te leggen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی مستقیم و منصفانه که دقیقاً به نگرانی مشتری درباره‌ی مسئولیت پاسخ می‌دهد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ga toch gewoon verder met de onderhandeling, dat is nu niet belangrijk.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و دقیقاً نگرانی مشخص مشتری درباره‌ی مسئولیت را نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dan is de aansprakelijkheid bij vertraging dus volledig voor uw rekening.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ بدون هیچ گفت‌وگویی، به‌طور یک‌جانبه نتیجه‌گیری می‌کند، در حالی که مشتری فقط خواستار شفاف‌سازی مشترک بود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Die aansprakelijkheid hebben we vorig jaar al eens duidelijk besproken.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: مشتری خواستار روشن‌شدن این موضوع برای قرارداد فعلی است، نه یادآوری گفت‌وگویی مبهم از گذشته."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "dialogue",
+    "topic": "client_negotiation",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 5,
+    "question_text_nl": "Verkoper: Aangezien u al jarenlang klant bent, willen we u een loyaliteitskorting aanbieden in plaats van de gevraagde prijsverlaging.\nKlant: ___\nWelke reactie past hier het beste?",
+    "question_text_fa": "کدام پاسخ در اینجا بهترین است؟",
+    "explanation_fa": "پاسخ درست از پیشنهاد جایگزین (تخفیف وفاداری) استقبال می‌کند و درباره‌ی جزئیات دقیق آن سؤال می‌کند.",
+    "grammar_rule_fa": "برای واکنش مؤدبانه به یک پیشنهاد جایگزین، باید ابتدا از آن استقبال شود و سپس جزئیات دقیق پرسیده شود: «Dat waarderen we; kunt u aangeven hoeveel dit precies inhoudt?»",
+    "extra_example_nl": "Dat waarderen we; kunt u aangeven hoeveel deze loyaliteitskorting precies bedraagt?",
+    "extra_example_fa": "ما این را ارج می‌نهیم؛ می‌توانید بگویید این تخفیف وفاداری دقیقاً چقدر است؟",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We waren vorig jaar al trouwe klant, dus dat is niets nieuws.",
+        "is_correct": false,
+        "feedback_fa": "❌ زمانِ فعل اشتباه است: باید درباره‌ی پیشنهاد فعلی صحبت شود، نه اظهارنظری کلی درباره‌ی گذشته که هیچ پیشرفتی در مذاکره ایجاد نمی‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Geef ons gewoon de prijsverlaging die we hebben gevraagd, zonder verdere discussie.",
+        "is_correct": false,
+        "feedback_fa": "❌ این جمله حالتِ امری دارد و پیشنهاد جایگزین فروشنده را کاملاً نادیده می‌گیرد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Dat waarderen we zeker; kunt u aangeven hoeveel deze loyaliteitskorting precies zou bedragen?",
+        "is_correct": true,
+        "feedback_fa": "✅ درست است: پاسخی مؤدبانه که از پیشنهاد استقبال می‌کند و جزئیات دقیق می‌خواهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Dan willen we voortaan juist geen enkele korting meer van u ontvangen.",
+        "is_correct": false,
+        "feedback_fa": "❌ نتیجه‌گیری اشتباه است: این پاسخ کاملاً برعکس منافع مشتری است؛ رد کردن هرگونه تخفیف با هدف اصلی مذاکره (کاهش هزینه) در تناقض است."
+      }
+    ]
+  }
+]

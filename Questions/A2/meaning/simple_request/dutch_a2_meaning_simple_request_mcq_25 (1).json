@@ -1,0 +1,1052 @@
+[
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "simple_help_requests",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Kunt u mij helpen?",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "می‌توانید به من کمک کنید؟",
+    "usage_note_fa": "این جمله برای درخواست کمک به شکل مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Kunt u even helpen?",
+    "extra_example_fa": "می‌توانید کمی کمک کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "می‌توانید به من کمک کنید؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست کمک مؤدبانه استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "من دیر رسیدم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره دیر رسیدن است، نه درخواست کمک."
+      },
+      {
+        "key": "C",
+        "text_fa": "مشکلی نیست.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه پاسخ به مشکل یا عذرخواهی است، نه درخواست کمک."
+      },
+      {
+        "key": "D",
+        "text_fa": "من امروز کار می‌کنم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره کار کردن است، نه کمک خواستن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "simple_help_requests",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Mag ik hulp vragen?",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "می‌توانم کمک بخواهم؟",
+    "usage_note_fa": "این جمله برای پرسیدن اجازه جهت کمک خواستن استفاده می‌شود.",
+    "extra_example_nl": "Mag ik iets vragen?",
+    "extra_example_fa": "می‌توانم چیزی بپرسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من کمک لازم ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی را برعکس کرده است."
+      },
+      {
+        "key": "B",
+        "text_fa": "می‌توانم کمک بخواهم؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست اجازه جهت کمک خواستن است."
+      },
+      {
+        "key": "C",
+        "text_fa": "لطفاً اینجا صبر کنید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره صبر کردن است، نه کمک خواستن."
+      },
+      {
+        "key": "D",
+        "text_fa": "من آدرس را نمی‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره ندانستن آدرس است، نه درخواست کمک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "simple_help_requests",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Kunt u even naar mij kijken?",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "می‌توانید یک لحظه به من نگاه کنید؟",
+    "usage_note_fa": "این جمله برای جلب توجه و درخواست کمک کوتاه استفاده می‌شود.",
+    "extra_example_nl": "Kunt u even meekijken?",
+    "extra_example_fa": "می‌توانید یک لحظه با من نگاه کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من الان می‌روم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره رفتن است، نه درخواست توجه یا کمک."
+      },
+      {
+        "key": "B",
+        "text_fa": "امروز وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره وقت نداشتن است، نه درخواست."
+      },
+      {
+        "key": "C",
+        "text_fa": "می‌توانید یک لحظه به من نگاه کنید؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یک درخواست مؤدبانه برای توجه یا کمک است."
+      },
+      {
+        "key": "D",
+        "text_fa": "من اشتباه کردم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه عذرخواهی است، نه درخواست کمک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "simple_help_requests",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Wilt u mij even helpen?",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "ممکن است کمی به من کمک کنید؟",
+    "usage_note_fa": "این جمله برای درخواست کمک مؤدبانه از یک نفر استفاده می‌شود.",
+    "extra_example_nl": "Wilt u dit uitleggen?",
+    "extra_example_fa": "ممکن است این را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لطفاً بیرون بروید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه یک دستور است، نه درخواست کمک."
+      },
+      {
+        "key": "B",
+        "text_fa": "من امروز درس دارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره درس داشتن است، نه کمک خواستن."
+      },
+      {
+        "key": "C",
+        "text_fa": "بله، با کمال میل.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه پاسخ مثبت است، نه خود درخواست."
+      },
+      {
+        "key": "D",
+        "text_fa": "ممکن است کمی به من کمک کنید؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یک درخواست کمک مؤدبانه است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "simple_help_requests",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Kun je mij hiermee helpen?",
+    "question_text_nl": "Kies de beste betekenis.",
+    "question_text_fa": "بهترین معنی فارسی را انتخاب کن.",
+    "meaning_fa": "می‌توانی در این مورد به من کمک کنی؟",
+    "usage_note_fa": "این جمله برای درخواست کمک دوستانه درباره یک موضوع مشخص استفاده می‌شود.",
+    "extra_example_nl": "Kun je mij even helpen?",
+    "extra_example_fa": "می‌توانی کمی به من کمک کنی؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "می‌توانی در این مورد به من کمک کنی؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست کمک دوستانه است."
+      },
+      {
+        "key": "B",
+        "text_fa": "من این را نمی‌خواهم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره نخواستن است، نه کمک خواستن."
+      },
+      {
+        "key": "C",
+        "text_fa": "این برای من خوب است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره موافقت است، نه درخواست کمک."
+      },
+      {
+        "key": "D",
+        "text_fa": "او فردا می‌آید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره آمدن فرد دیگر است، نه درخواست کمک."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_for_information",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Mag ik iets vragen?",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "می‌توانم چیزی بپرسم؟",
+    "usage_note_fa": "این جمله برای شروع یک سؤال به شکل مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Mag ik een vraag stellen?",
+    "extra_example_fa": "می‌توانم یک سؤال بپرسم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من جواب را می‌دانم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره دانستن جواب است، نه سؤال پرسیدن."
+      },
+      {
+        "key": "B",
+        "text_fa": "می‌توانم چیزی بپرسم؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اجازه گرفتن جهت سؤال پرسیدن است."
+      },
+      {
+        "key": "C",
+        "text_fa": "من نمی‌توانم بیایم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره نیامدن است، نه سؤال پرسیدن."
+      },
+      {
+        "key": "D",
+        "text_fa": "لطفاً صبر کن.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درخواست صبر کردن است، نه سؤال پرسیدن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_for_information",
+    "life_context": "transport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Weet u waar het station is?",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "می‌دانید ایستگاه کجاست؟",
+    "usage_note_fa": "این جمله برای پرسیدن مسیر یا مکان استفاده می‌شود.",
+    "extra_example_nl": "Weet u waar de bushalte is?",
+    "extra_example_fa": "می‌دانید ایستگاه اتوبوس کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من با قطار می‌روم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره وسیله رفت‌وآمد است، نه پرسیدن مکان."
+      },
+      {
+        "key": "B",
+        "text_fa": "ایستگاه بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره بسته بودن است، نه پرسیدن مکان."
+      },
+      {
+        "key": "C",
+        "text_fa": "می‌دانید ایستگاه کجاست؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مکان ایستگاه است."
+      },
+      {
+        "key": "D",
+        "text_fa": "قطار ساعت هشت حرکت می‌کند.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره زمان حرکت قطار است، نه پرسیدن مکان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_for_information",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Kunt u zeggen waar de kassa is?",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "می‌توانید بگویید صندوق کجاست؟",
+    "usage_note_fa": "این جمله برای درخواست اطلاعات درباره مکان چیزی استفاده می‌شود.",
+    "extra_example_nl": "Waar is de ingang?",
+    "extra_example_fa": "ورودی کجاست؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "می‌توانید بگویید صندوق کجاست؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن مکان صندوق است."
+      },
+      {
+        "key": "B",
+        "text_fa": "من با کارت پرداخت می‌کنم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پرداخت است، نه پرسیدن مکان صندوق."
+      },
+      {
+        "key": "C",
+        "text_fa": "صندوق بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه خبر می‌دهد صندوق بسته است، اما جمله هلندی مکان صندوق را می‌پرسد."
+      },
+      {
+        "key": "D",
+        "text_fa": "من نان می‌خرم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره خرید نان است، نه درخواست اطلاعات."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_for_information",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Kunt u mij de naam geven?",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "می‌توانید نام را به من بدهید؟",
+    "usage_note_fa": "این جمله برای درخواست یک اطلاعات مشخص استفاده می‌شود.",
+    "extra_example_nl": "Kunt u mij het adres geven?",
+    "extra_example_fa": "می‌توانید آدرس را به من بدهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من نامم را فراموش کردم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره فراموش کردن نام است، نه درخواست نام."
+      },
+      {
+        "key": "B",
+        "text_fa": "لطفاً در را ببندید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه یک درخواست عملی است، نه درخواست اطلاعات."
+      },
+      {
+        "key": "C",
+        "text_fa": "من قرار ملاقات دارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره قرار ملاقات است، نه گرفتن نام."
+      },
+      {
+        "key": "D",
+        "text_fa": "می‌توانید نام را به من بدهید؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست یک اطلاعات مشخص است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_for_information",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Waar kan ik wachten?",
+    "question_text_nl": "Kies de beste betekenis.",
+    "question_text_fa": "بهترین معنی فارسی را انتخاب کن.",
+    "meaning_fa": "کجا می‌توانم منتظر بمانم؟",
+    "usage_note_fa": "این جمله برای پرسیدن مکان مناسب برای انتظار استفاده می‌شود.",
+    "extra_example_nl": "Waar kan ik zitten?",
+    "extra_example_fa": "کجا می‌توانم بنشینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "کجا می‌توانم منتظر بمانم؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای پرسیدن محل انتظار است."
+      },
+      {
+        "key": "B",
+        "text_fa": "من منتظر نمی‌مانم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی را برعکس کرده است."
+      },
+      {
+        "key": "C",
+        "text_fa": "لطفاً سریع‌تر بیایید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درخواست سرعت است، نه پرسیدن مکان انتظار."
+      },
+      {
+        "key": "D",
+        "text_fa": "من امروز وقت ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره وقت نداشتن است، نه محل انتظار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_to_repeat_or_speak_slowly",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Kunt u dat herhalen?",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "می‌توانید آن را تکرار کنید؟",
+    "usage_note_fa": "این جمله وقتی استفاده می‌شود که چیزی را خوب نشنیده‌ای یا نفهمیده‌ای.",
+    "extra_example_nl": "Kunt u het nog een keer zeggen?",
+    "extra_example_fa": "می‌توانید آن را یک بار دیگر بگویید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "می‌توانید آن را تکرار کنید؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست تکرار استفاده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_fa": "می‌توانید به من کمک کنید؟",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درخواست کمک کلی است، نه درخواست تکرار."
+      },
+      {
+        "key": "C",
+        "text_fa": "من امروز خانه هستم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره مکان شخص است، نه درخواست تکرار."
+      },
+      {
+        "key": "D",
+        "text_fa": "لطفاً اینجا بنشینید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درخواست نشستن است، نه تکرار کردن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_to_repeat_or_speak_slowly",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Kunt u wat langzamer praten?",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "می‌توانید کمی آرام‌تر صحبت کنید؟",
+    "usage_note_fa": "این جمله برای درخواست آهسته‌تر صحبت کردن استفاده می‌شود.",
+    "extra_example_nl": "Kunt u langzaam praten?",
+    "extra_example_fa": "می‌توانید آرام صحبت کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لطفاً بلندتر بخندید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره خندیدن است، نه آرام‌تر صحبت کردن."
+      },
+      {
+        "key": "B",
+        "text_fa": "می‌توانید کمی آرام‌تر صحبت کنید؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست آهسته‌تر صحبت کردن است."
+      },
+      {
+        "key": "C",
+        "text_fa": "می‌توانید صندوق را نشان دهید؟",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره مکان صندوق است، نه نحوه صحبت کردن."
+      },
+      {
+        "key": "D",
+        "text_fa": "من هلندی صحبت نمی‌کنم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره توانایی صحبت کردن است، نه درخواست آرام‌تر صحبت کردن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_to_repeat_or_speak_slowly",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Wilt u dat nog een keer zeggen?",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "ممکن است آن را یک بار دیگر بگویید؟",
+    "usage_note_fa": "این جمله برای درخواست تکرار مؤدبانه استفاده می‌شود.",
+    "extra_example_nl": "Kunt u dat herhalen?",
+    "extra_example_fa": "می‌توانید آن را تکرار کنید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "ممکن است آن را یک بار دیگر بگویید؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست تکرار مؤدبانه است."
+      },
+      {
+        "key": "B",
+        "text_fa": "ممکن است فردا بیایید؟",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره آمدن فردا است، نه تکرار جمله."
+      },
+      {
+        "key": "C",
+        "text_fa": "لطفاً در را ببندید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره بستن در است، نه تکرار کردن."
+      },
+      {
+        "key": "D",
+        "text_fa": "من موافقم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره موافقت است، نه درخواست تکرار."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_to_repeat_or_speak_slowly",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Kunt u het uitleggen?",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "می‌توانید آن را توضیح دهید؟",
+    "usage_note_fa": "این جمله برای درخواست توضیح استفاده می‌شود.",
+    "extra_example_nl": "Kunt u de opdracht uitleggen?",
+    "extra_example_fa": "می‌توانید تکلیف را توضیح دهید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من آن را فهمیدم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره فهمیدن است، اما جمله هلندی درخواست توضیح است."
+      },
+      {
+        "key": "B",
+        "text_fa": "این خیلی گران است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره قیمت است، نه درخواست توضیح."
+      },
+      {
+        "key": "C",
+        "text_fa": "می‌توانید آن را توضیح دهید؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست توضیح است."
+      },
+      {
+        "key": "D",
+        "text_fa": "او امروز مریض است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره وضعیت سلامتی است، نه درخواست توضیح."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_to_repeat_or_speak_slowly",
+    "life_context": "daily_life",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Kunt u het opschrijven?",
+    "question_text_nl": "Kies de beste betekenis.",
+    "question_text_fa": "بهترین معنی فارسی را انتخاب کن.",
+    "meaning_fa": "می‌توانید آن را بنویسید؟",
+    "usage_note_fa": "این جمله برای درخواست نوشتن یک چیز استفاده می‌شود.",
+    "extra_example_nl": "Kunt u het adres opschrijven?",
+    "extra_example_fa": "می‌توانید آدرس را بنویسید؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لطفاً آن را پاک کنید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پاک کردن است، نه نوشتن."
+      },
+      {
+        "key": "B",
+        "text_fa": "لطفاً آن را بخوانید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره خواندن است، نه نوشتن."
+      },
+      {
+        "key": "C",
+        "text_fa": "من چیزی نمی‌نویسم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی را برعکس کرده است."
+      },
+      {
+        "key": "D",
+        "text_fa": "می‌توانید آن را بنویسید؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست نوشتن چیزی است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_for_permission",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Mag ik hier zitten?",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "می‌توانم اینجا بنشینم؟",
+    "usage_note_fa": "این جمله برای اجازه گرفتن جهت نشستن استفاده می‌شود.",
+    "extra_example_nl": "Mag ik hier wachten?",
+    "extra_example_fa": "می‌توانم اینجا منتظر بمانم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "می‌توانم اینجا بنشینم؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اجازه گرفتن جهت نشستن است."
+      },
+      {
+        "key": "B",
+        "text_fa": "شما می‌توانید اینجا بنشینید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه اجازه دادن است، اما جمله هلندی اجازه گرفتن است."
+      },
+      {
+        "key": "C",
+        "text_fa": "اینجا بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره بسته بودن مکان است، نه اجازه نشستن."
+      },
+      {
+        "key": "D",
+        "text_fa": "من اینجا کار می‌کنم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره کار کردن است، نه اجازه گرفتن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_for_permission",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Mag ik even binnenkomen?",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "می‌توانم یک لحظه داخل بیایم؟",
+    "usage_note_fa": "این جمله برای اجازه گرفتن جهت وارد شدن استفاده می‌شود.",
+    "extra_example_nl": "Mag ik naar binnen?",
+    "extra_example_fa": "می‌توانم داخل بیایم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لطفاً بیرون بمانید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه دستور ماندن بیرون است، نه اجازه گرفتن برای ورود."
+      },
+      {
+        "key": "B",
+        "text_fa": "می‌توانم یک لحظه داخل بیایم؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اجازه ورود گرفتن است."
+      },
+      {
+        "key": "C",
+        "text_fa": "من از داخل می‌آیم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه جهت حرکت را اشتباه نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_fa": "در بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره بسته بودن در است، نه اجازه ورود."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_for_permission",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Mag ik de kaart zien?",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "می‌توانم منو را ببینم؟",
+    "usage_note_fa": "این جمله در رستوران برای درخواست دیدن منو استفاده می‌شود.",
+    "extra_example_nl": "Mag ik het menu zien?",
+    "extra_example_fa": "می‌توانم منو را ببینم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "می‌توانم منو را ببینم؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست دیدن منو است."
+      },
+      {
+        "key": "B",
+        "text_fa": "من غذا سفارش دادم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره سفارش دادن است، نه دیدن منو."
+      },
+      {
+        "key": "C",
+        "text_fa": "صورت‌حساب را می‌خواهم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره صورت‌حساب است، نه منو."
+      },
+      {
+        "key": "D",
+        "text_fa": "غذا آماده است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره آماده بودن غذا است، نه درخواست منو."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_for_permission",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Mag ik naar het toilet?",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "می‌توانم به دستشویی بروم؟",
+    "usage_note_fa": "این جمله برای اجازه گرفتن جهت رفتن به دستشویی استفاده می‌شود.",
+    "extra_example_nl": "Mag ik even weg?",
+    "extra_example_fa": "می‌توانم یک لحظه بروم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "دستشویی کجاست؟",
+        "is_correct": false,
+        "feedback_fa": "این گزینه سؤال درباره مکان است، اما جمله هلندی اجازه رفتن می‌خواهد."
+      },
+      {
+        "key": "B",
+        "text_fa": "من از دستشویی آمدم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره برگشتن است، نه اجازه گرفتن."
+      },
+      {
+        "key": "C",
+        "text_fa": "می‌توانم به دستشویی بروم؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای اجازه گرفتن جهت رفتن به دستشویی است."
+      },
+      {
+        "key": "D",
+        "text_fa": "لطفاً در را ببندید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره بستن در است، نه اجازه رفتن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "asking_for_permission",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Mag ik morgen vrij nemen?",
+    "question_text_nl": "Kies de beste betekenis.",
+    "question_text_fa": "بهترین معنی فارسی را انتخاب کن.",
+    "meaning_fa": "می‌توانم فردا مرخصی بگیرم؟",
+    "usage_note_fa": "این جمله برای درخواست اجازه مرخصی گرفتن استفاده می‌شود.",
+    "extra_example_nl": "Mag ik vandaag eerder weg?",
+    "extra_example_fa": "می‌توانم امروز زودتر بروم؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من فردا باید کار کنم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره کار کردن است، اما جمله هلندی درخواست مرخصی است."
+      },
+      {
+        "key": "B",
+        "text_fa": "فردا اداره بسته است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره بسته بودن اداره است، نه مرخصی گرفتن."
+      },
+      {
+        "key": "C",
+        "text_fa": "من فردا دیر می‌آیم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره دیر آمدن است، نه درخواست مرخصی."
+      },
+      {
+        "key": "D",
+        "text_fa": "می‌توانم فردا مرخصی بگیرم؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست مرخصی است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "polite_daily_requests",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "sentence_nl": "Doe de deur dicht, alsjeblieft.",
+    "question_text_nl": "Wat betekent deze zin?",
+    "question_text_fa": "معنی این جمله چیست؟",
+    "meaning_fa": "لطفاً در را ببند.",
+    "usage_note_fa": "این جمله برای درخواست ساده و دوستانه انجام یک کار استفاده می‌شود.",
+    "extra_example_nl": "Doe het raam dicht, alsjeblieft.",
+    "extra_example_fa": "لطفاً پنجره را ببند.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لطفاً در را ببند.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یک درخواست ساده و دوستانه است."
+      },
+      {
+        "key": "B",
+        "text_fa": "در باز است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه وضعیت در را می‌گوید، اما جمله هلندی درخواست بستن در است."
+      },
+      {
+        "key": "C",
+        "text_fa": "من کلید ندارم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره کلید است، نه بستن در."
+      },
+      {
+        "key": "D",
+        "text_fa": "لطفاً بنشین.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درخواست نشستن است، نه بستن در."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "polite_daily_requests",
+    "life_context": "restaurant",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Mag ik een glas water, alstublieft?",
+    "question_text_nl": "Kies de juiste betekenis.",
+    "question_text_fa": "معنی درست را انتخاب کن.",
+    "meaning_fa": "می‌توانم یک لیوان آب داشته باشم، لطفاً؟",
+    "usage_note_fa": "این جمله برای درخواست مؤدبانه چیزی در رستوران یا مکان عمومی استفاده می‌شود.",
+    "extra_example_nl": "Mag ik koffie, alstublieft?",
+    "extra_example_fa": "می‌توانم قهوه داشته باشم، لطفاً؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من آب نمی‌خواهم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه معنی را برعکس کرده است."
+      },
+      {
+        "key": "B",
+        "text_fa": "می‌توانم یک لیوان آب داشته باشم، لطفاً؟",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله یک درخواست مؤدبانه برای آب است."
+      },
+      {
+        "key": "C",
+        "text_fa": "آب خیلی سرد است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره وضعیت آب است، نه درخواست آب."
+      },
+      {
+        "key": "D",
+        "text_fa": "صورت‌حساب را می‌خواهم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره صورت‌حساب است، نه درخواست آب."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "polite_daily_requests",
+    "life_context": "office",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Stuur mij de mail, alsjeblieft.",
+    "question_text_nl": "Wat zegt deze persoon?",
+    "question_text_fa": "این شخص چه می‌گوید؟",
+    "meaning_fa": "لطفاً ایمیل را برای من بفرست.",
+    "usage_note_fa": "این جمله برای درخواست فرستادن ایمیل استفاده می‌شود.",
+    "extra_example_nl": "Stuur mij het adres, alsjeblieft.",
+    "extra_example_fa": "لطفاً آدرس را برای من بفرست.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لطفاً ایمیل را برای من بفرست.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست فرستادن ایمیل است."
+      },
+      {
+        "key": "B",
+        "text_fa": "من ایمیل را دریافت کردم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره دریافت ایمیل است، نه درخواست فرستادن آن."
+      },
+      {
+        "key": "C",
+        "text_fa": "ایمیل را پیدا نکردم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره پیدا نکردن ایمیل است، نه درخواست فرستادن آن."
+      },
+      {
+        "key": "D",
+        "text_fa": "کامپیوتر خراب است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره خرابی کامپیوتر است، نه ایمیل فرستادن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "polite_daily_requests",
+    "life_context": "public_place",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Wacht hier even, alstublieft.",
+    "question_text_nl": "Wat is de juiste betekenis in het Farsi?",
+    "question_text_fa": "معنی درست فارسی چیست؟",
+    "meaning_fa": "لطفاً یک لحظه اینجا صبر کنید.",
+    "usage_note_fa": "این جمله برای درخواست مؤدبانه صبر کردن استفاده می‌شود.",
+    "extra_example_nl": "Blijf hier even, alstublieft.",
+    "extra_example_fa": "لطفاً یک لحظه اینجا بمانید.",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "لطفاً بیرون بروید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره بیرون رفتن است، اما جمله هلندی درخواست صبر کردن است."
+      },
+      {
+        "key": "B",
+        "text_fa": "لطفاً اینجا بنشینید.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره نشستن است، نه صبر کردن."
+      },
+      {
+        "key": "C",
+        "text_fa": "لطفاً یک لحظه اینجا صبر کنید.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست صبر کردن است."
+      },
+      {
+        "key": "D",
+        "text_fa": "من اینجا منتظر هستم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره خود شخص است، اما جمله هلندی به طرف مقابل می‌گوید صبر کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "meaning",
+    "topic": "simple_request",
+    "subtopic": "polite_daily_requests",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "sentence_nl": "Geef mij de bon, alstublieft.",
+    "question_text_nl": "Kies de beste betekenis.",
+    "question_text_fa": "بهترین معنی فارسی را انتخاب کن.",
+    "meaning_fa": "لطفاً رسید را به من بدهید.",
+    "usage_note_fa": "این جمله برای درخواست مؤدبانه گرفتن رسید استفاده می‌شود.",
+    "extra_example_nl": "Mag ik de bon, alstublieft?",
+    "extra_example_fa": "می‌توانم رسید را داشته باشم، لطفاً؟",
+    "options": [
+      {
+        "key": "A",
+        "text_fa": "من با کارت پرداخت می‌کنم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره روش پرداخت است، نه درخواست رسید."
+      },
+      {
+        "key": "B",
+        "text_fa": "رسید را گم کردم.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره گم کردن رسید است، نه درخواست گرفتن آن."
+      },
+      {
+        "key": "C",
+        "text_fa": "قیمت خیلی زیاد است.",
+        "is_correct": false,
+        "feedback_fa": "این گزینه درباره قیمت است، نه رسید."
+      },
+      {
+        "key": "D",
+        "text_fa": "لطفاً رسید را به من بدهید.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست. این جمله برای درخواست گرفتن رسید است."
+      }
+    ]
+  }
+]

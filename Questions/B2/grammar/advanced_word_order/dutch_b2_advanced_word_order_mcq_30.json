@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "وقتی جمله با یک قید (مثلِ «vandaag») شروع می‌شود، فعل باید بلافاصله بعد از آن بیاید (قاعده‌ی V2).",
+    "grammar_rule_fa": "قاعده‌ی V2: وقتی چیزی غیر از فاعل اول جمله می‌آید، فعل و فاعل جای خود را عوض می‌کنند.",
+    "extra_example_nl": "Morgen ga ik naar de dokter.",
+    "extra_example_fa": "فردا نزدِ دکتر می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Vandaag ga ik naar de tandarts.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بعد از «vandaag»، فعل قبل از فاعل می‌آید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Vandaag ik ga naar de tandarts.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «vandaag» باید فعل بیاید، نه فاعل. واژگونی (inversie) رعایت نشده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik vandaag ga naar de tandarts.",
+        "is_correct": false,
+        "feedback_fa": "«vandaag» نمی‌تواند بینِ فاعل و فعل بیاید؛ جای آن اول جمله یا بعد از فعل است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Vandaag gaat ik naar de tandarts.",
+        "is_correct": false,
+        "feedback_fa": "«gaat» صرفِ سوم‌شخص است؛ با «ik» باید «ga» بیاید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "با شروعِ جمله با «daarom»، فعل باید بلافاصله بعد از آن و قبل از فاعل بیاید؛ فعلِ سوم (قسمتِ گذشته) در انتهای جمله می‌ماند.",
+    "grammar_rule_fa": "قاعده‌ی V2 + قسمتِ سومِ فعل در انتهای جمله.",
+    "extra_example_nl": "Daarom heeft ze extra hulp gevraagd.",
+    "extra_example_fa": "به همین دلیل او کمکِ اضافه خواست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarom hij heeft het rapport niet op tijd ingeleverd.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «daarom» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Daarom heeft hij het rapport niet op tijd ingeleverd.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واژگونیِ درست + قسمتِ سومِ فعل در انتها."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij daarom heeft het rapport niet op tijd ingeleverd.",
+        "is_correct": false,
+        "feedback_fa": "«daarom» باید اول جمله بیاید، نه بینِ فاعل و فعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Daarom heeft hij het rapport niet ingeleverd op tijd.",
+        "is_correct": false,
+        "feedback_fa": "قسمتِ سومِ فعل «ingeleverd» باید در انتهای جمله بماند، نه قبل از «op tijd»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "بعد از «toch»، فعل باید بلافاصله بیاید و فاعل بعد از فعل قرار می‌گیرد.",
+    "grammar_rule_fa": "قاعده‌ی V2.",
+    "extra_example_nl": "Toch ging hij naar het feest.",
+    "extra_example_fa": "با این حال، او به مهمانی رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toch ze besloot om te blijven.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «toch» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ze toch besloot om te blijven.",
+        "is_correct": false,
+        "feedback_fa": "«toch» باید اول جمله بیاید، نه بینِ فاعل و فعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toch besloot ze om te blijven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واژگونیِ درست بعد از «toch»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toch besloot om te blijven ze.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «ze» نباید به انتهای جمله برود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "بعد از «gisteren»، فعلِ کمکی می‌آید و قسمتِ سومِ فعل در انتهای جمله می‌ماند.",
+    "grammar_rule_fa": "قاعده‌ی V2 + قسمتِ سومِ فعل در انتها.",
+    "extra_example_nl": "Gisteren hebben we een film gekeken.",
+    "extra_example_fa": "دیروز فیلمی تماشا کردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Gisteren we hebben de hele dag gewerkt.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «gisteren» باید فعلِ کمکی بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Gisteren hebben we gewerkt de hele dag.",
+        "is_correct": false,
+        "feedback_fa": "قسمتِ سومِ فعل «gewerkt» باید در انتهای جمله بماند، نه قبل از «de hele dag»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Gisteren hebben de hele dag we gewerkt.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «we» درست بعد از فعلِ کمکی می‌آید، نه بعد از «de hele dag»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Gisteren hebben we de hele dag gewerkt.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واژگونی + ترتیبِ درستِ اجزای جمله."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "«volgens de manager» یک واحدِ کامل است و نباید تقسیم شود؛ بعد از آن فعل می‌آید.",
+    "grammar_rule_fa": "قاعده‌ی V2 + عبارت‌های اضافه‌ای نباید تقسیم شوند.",
+    "extra_example_nl": "Volgens de directeur moet iedereen op tijd komen.",
+    "extra_example_fa": "به گفته‌ی مدیر، همه باید سرِ وقت بیایند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volgens de manager moet het project sneller afgerond worden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واژگونیِ درست و ترتیبِ منطقیِ اجزا."
+      },
+      {
+        "key": "B",
+        "text_nl": "Volgens de manager het project moet sneller afgerond worden.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارتِ «volgens de manager» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "De manager volgens moet het project sneller afgerond worden.",
+        "is_correct": false,
+        "feedback_fa": "«volgens de manager» یک عبارتِ ثابت است و نباید تقسیم شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volgens de manager moet het project afgerond worden sneller.",
+        "is_correct": false,
+        "feedback_fa": "قیدِ «sneller» باید قبل از فعل‌های انتهایی بیاید، نه بعد از آن‌ها."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "بعد از «helaas»، فعل بلافاصله می‌آید و فاعل بعد از آن.",
+    "grammar_rule_fa": "قاعده‌ی V2.",
+    "extra_example_nl": "Helaas kon ze niet komen.",
+    "extra_example_fa": "متأسفانه او نتوانست بیاید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Helaas hij kon niet meekomen naar het feest.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «helaas» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Helaas kon hij niet meekomen naar het feest.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واژگونیِ درست بعد از «helaas»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij helaas kon niet meekomen naar het feest.",
+        "is_correct": false,
+        "feedback_fa": "«helaas» باید اول جمله بیاید، نه بینِ فاعل و فعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Helaas kon hij niet meekomen het feest naar.",
+        "is_correct": false,
+        "feedback_fa": "حرفِ اضافه‌ی «naar» باید قبل از «het feest» بیاید، نه بعد از آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "بعد از عبارتِ «na de vergadering»، فعل بلافاصله می‌آید.",
+    "grammar_rule_fa": "قاعده‌ی V2.",
+    "extra_example_nl": "Na het werk gaan we sporten.",
+    "extra_example_fa": "بعد از کار، ورزش می‌رویم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Na de vergadering we gaan samen lunchen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «na de vergadering» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "We na de vergadering gaan samen lunchen.",
+        "is_correct": false,
+        "feedback_fa": "عبارتِ زمانی باید اول جمله بیاید یا بعد از فعل، نه بینِ فاعل و فعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Na de vergadering gaan we samen lunchen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واژگونیِ درست و ترتیبِ منطقیِ اجزا."
+      },
+      {
+        "key": "D",
+        "text_nl": "Na de vergadering gaan samen we lunchen.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «we» باید بلافاصله بعد از فعل بیاید، نه بعد از «samen»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "بعد از «ondanks de regen»، فعل بلافاصله می‌آید.",
+    "grammar_rule_fa": "قاعده‌ی V2.",
+    "extra_example_nl": "Ondanks het slechte weer, gingen we toch.",
+    "extra_example_fa": "با وجودِ هوای بد، بازهم رفتیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ondanks de regen gingen wandelen ze.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «ze» نباید به انتهای جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ondanks de regen ze gingen wandelen.",
+        "is_correct": false,
+        "feedback_fa": "بعد از عبارتِ «ondanks de regen» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ze ondanks de regen gingen wandelen.",
+        "is_correct": false,
+        "feedback_fa": "«ondanks de regen» باید اول جمله بیاید، نه بینِ فاعل و فعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ondanks de regen gingen ze wandelen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واژگونیِ درست بعد از عبارتِ فرعی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "بعد از «eigenlijk»، فعل بلافاصله می‌آید.",
+    "grammar_rule_fa": "قاعده‌ی V2.",
+    "extra_example_nl": "Eigenlijk heeft hij geen zin.",
+    "extra_example_fa": "در واقع او اصلاً حال‌وحوصله ندارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Eigenlijk wil ik liever thuisblijven.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واژگونیِ درست بعد از «eigenlijk»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Eigenlijk ik wil liever thuisblijven.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «eigenlijk» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "C",
+        "text_nl": "Eigenlijk wil liever ik thuisblijven.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «ik» باید بلافاصله بعد از فعل بیاید، نه بعد از «liever»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik eigenlijk wil liever thuisblijven.",
+        "is_correct": false,
+        "feedback_fa": "«eigenlijk» باید اول جمله بیاید، نه بینِ فاعل و فعل."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "بعد از «volgend jaar»، فعل بلافاصله می‌آید.",
+    "grammar_rule_fa": "قاعده‌ی V2.",
+    "extra_example_nl": "Volgend jaar gaan we trouwen.",
+    "extra_example_fa": "سالِ آینده ازدواج می‌کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Volgend jaar we gaan verhuizen naar een groter huis.",
+        "is_correct": false,
+        "feedback_fa": "بعد از «volgend jaar» باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Volgend jaar gaan we verhuizen naar een groter huis.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واژگونیِ درست بعد از «volgend jaar»."
+      },
+      {
+        "key": "C",
+        "text_nl": "We volgend jaar gaan verhuizen naar een groter huis.",
+        "is_correct": false,
+        "feedback_fa": "«volgend jaar» باید اول جمله بیاید، نه بینِ فاعل و فعل."
+      },
+      {
+        "key": "D",
+        "text_nl": "Volgend jaar gaan verhuizen we naar een groter huis.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «we» باید بلافاصله بعد از فعل بیاید، نه بعد از «verhuizen»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "وقتی جمله‌ی فرعی با «omdat» اول می‌آید، در جمله‌ی اصلی فعل قبل از فاعل می‌آید (واژگونی).",
+    "grammar_rule_fa": "جمله‌ی فرعیِ آغازین + واژگونی در جمله‌ی اصلی. فعل در جمله‌ی فرعی به انتها می‌رود.",
+    "extra_example_nl": "Omdat het koud was, bleven we binnen.",
+    "extra_example_fa": "چون هوا سرد بود، داخل ماندیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Omdat het hard regende, we bleven binnen.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی اصلی، بعد از جمله‌ی فرعی باید فعل بیاید، نه فاعل."
+      },
+      {
+        "key": "B",
+        "text_nl": "Omdat regende het hard, bleven we binnen.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «omdat»، فعل باید به انتها برود، نه اول بماند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Omdat het hard regende, bleven we binnen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فعل در جمله‌ی فرعی به انتها رفته و در جمله‌ی اصلی واژگونی رعایت شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Omdat het hard regende, bleven binnen we.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «we» باید بلافاصله بعد از فعل بیاید، نه بعد از «binnen»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "جمله‌ی فرعیِ «als» اول آمده؛ در جمله‌ی اصلی فعلِ کمکی قبل از فاعل می‌آید.",
+    "grammar_rule_fa": "جمله‌ی فرعیِ آغازین + واژگونی در جمله‌ی اصلی.",
+    "extra_example_nl": "Als je ziek bent, kun je beter thuisblijven.",
+    "extra_example_fa": "اگر مریضی، بهتر است در خانه بمانی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Als je moe bent, je kunt beter vroeg naar bed gaan.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی اصلی باید فعلِ کمکی قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Als bent je moe, kun je beter vroeg naar bed gaan.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «als»، فعل باید به انتها برود، نه اول بماند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Als je moe bent, kun beter je vroeg naar bed gaan.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «je» باید بلافاصله بعد از فعلِ کمکی بیاید، نه بعد از «beter»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Als je moe bent, kun je beter vroeg naar bed gaan.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ واژگونیِ درست بعد از جمله‌ی فرعی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "جمله‌ی فرعیِ «terwijl» اول آمده؛ در جمله‌ی اصلی فعل قبل از فاعل می‌آید.",
+    "grammar_rule_fa": "جمله‌ی فرعیِ آغازین + واژگونی در جمله‌ی اصلی.",
+    "extra_example_nl": "Terwijl ze at, keek ze naar het journaal.",
+    "extra_example_fa": "در حالی که غذا می‌خورد، اخبار تماشا می‌کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Terwijl hij kookte, luisterde hij naar de radio.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ درست در هر دو جمله‌ی فرعی و اصلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "Terwijl hij kookte, hij luisterde naar de radio.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی اصلی باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Terwijl kookte hij, luisterde hij naar de radio.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «terwijl»، فعل باید به انتها برود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Terwijl hij kookte, luisterde naar de radio hij.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «hij» نباید به انتهای جمله‌ی اصلی برود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "جمله‌ی فرعیِ «voordat» اول آمده؛ در جمله‌ی اصلی فعل قبل از فاعل می‌آید.",
+    "grammar_rule_fa": "جمله‌ی فرعیِ آغازین + واژگونی در جمله‌ی اصلی.",
+    "extra_example_nl": "Voordat hij ging slapen, las hij nog even.",
+    "extra_example_fa": "قبل از این که بخوابد، کمی مطالعه کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Voordat vertrok ze, controleerde ze alles nog een keer.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «voordat»، فعل باید به انتها برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Voordat ze vertrok, controleerde ze alles nog een keer.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ درست در هر دو جمله."
+      },
+      {
+        "key": "C",
+        "text_nl": "Voordat ze vertrok, ze controleerde alles nog een keer.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی اصلی باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Voordat ze vertrok, controleerde alles ze nog een keer.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «ze» باید بلافاصله بعد از فعل بیاید، نه بعد از «alles»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "جمله‌ی فرعیِ «nadat» اول آمده؛ در جمله‌ی اصلی فعل قبل از فاعل می‌آید.",
+    "grammar_rule_fa": "جمله‌ی فرعیِ آغازین + واژگونی در جمله‌ی اصلی.",
+    "extra_example_nl": "Nadat ze had gegeten, ging ze wandelen.",
+    "extra_example_fa": "بعد از این که غذا خورد، پیاده‌روی رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Nadat hij had gegeten, ging sporten hij.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «hij» نباید به انتهای جمله‌ی اصلی برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Nadat hij had gegeten, hij ging sporten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی اصلی باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "Nadat hij had gegeten, ging hij sporten.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ درست در هر دو جمله."
+      },
+      {
+        "key": "D",
+        "text_nl": "Nadat had hij gegeten, ging hij sporten.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «nadat»، فعلِ کمکی باید به انتها برود، نه اول بماند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "جمله‌ی فرعیِ «zodra» اول آمده؛ در جمله‌ی اصلی فعل قبل از فاعل می‌آید.",
+    "grammar_rule_fa": "جمله‌ی فرعیِ آغازین + واژگونی در جمله‌ی اصلی.",
+    "extra_example_nl": "Zodra hij thuiskwam, belde hij zijn moeder.",
+    "extra_example_fa": "به‌محض این که به خانه رسید، به مادرش زنگ زد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zodra de bus kwam, we stapten snel in.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی اصلی باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zodra kwam de bus, stapten we snel in.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «zodra»، فعل باید به انتها برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zodra de bus kwam, stapten snel we in.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «we» باید بلافاصله بعد از فعل بیاید، نه بعد از «snel»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zodra de bus kwam, stapten we snel in.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ درست در هر دو جمله."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "جمله‌ی فرعیِ «hoewel» اول آمده؛ در جمله‌ی اصلی فعل قبل از فاعل می‌آید.",
+    "grammar_rule_fa": "جمله‌ی فرعیِ آغازین + واژگونی در جمله‌ی اصلی.",
+    "extra_example_nl": "Hoewel het laat was, gingen ze nog even weg.",
+    "extra_example_fa": "با این که دیر بود، بازهم کمی بیرون رفتند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hoewel het duur was, kochten ze het toch.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ درست در هر دو جمله."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hoewel het duur was, kochten het ze toch.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «ze» باید بلافاصله بعد از فعل بیاید، نه بعد از «het»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hoewel het duur was, ze kochten het toch.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی اصلی باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hoewel was het duur, kochten ze het toch.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «hoewel»، فعل باید به انتها برود، نه اول بماند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "جمله‌ی فرعیِ «zodat» اول آمده؛ در جمله‌ی اصلی فعل قبل از فاعل می‌آید.",
+    "grammar_rule_fa": "جمله‌ی فرعیِ آغازین + واژگونی در جمله‌ی اصلی.",
+    "extra_example_nl": "Zodat iedereen kon meedoen, herhaalde hij de regels.",
+    "extra_example_fa": "تا همه بتوانند شرکت کنند، او قوانین را تکرار کرد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zodat iedereen het kon horen, sprak extra hard ze.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «ze» نباید به انتهای جمله برود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zodat iedereen het kon horen, sprak ze extra hard.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ درست در هر دو جمله."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zodat kon iedereen het horen, sprak ze extra hard.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «zodat»، فعل باید به انتها برود، نه اول بماند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zodat iedereen het kon horen, ze sprak extra hard.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی اصلی باید فعل قبل از فاعل بیاید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "جمله‌ی فرعیِ «doordat» اول آمده؛ در جمله‌ی اصلی فعل قبل از فاعل می‌آید.",
+    "grammar_rule_fa": "جمله‌ی فرعیِ آغازین + واژگونی در جمله‌ی اصلی.",
+    "extra_example_nl": "Doordat het druk was, moesten we wachten.",
+    "extra_example_fa": "به‌خاطرِ شلوغی، مجبور شدیم صبر کنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Doordat de trein vertraging had, kwamen te laat we.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «we» باید بلافاصله بعد از فعل بیاید، نه بعد از «te laat»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Doordat had de trein vertraging, kwamen we te laat.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «doordat»، فعل باید به انتها برود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Doordat de trein vertraging had, kwamen we te laat.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ درست در هر دو جمله."
+      },
+      {
+        "key": "D",
+        "text_nl": "Doordat de trein vertraging had, we kwamen te laat.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی اصلی باید فعل قبل از فاعل بیاید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "جمله‌ی فرعیِ «wanneer» اول آمده؛ در جمله‌ی اصلی فعل قبل از فاعل می‌آید.",
+    "grammar_rule_fa": "جمله‌ی فرعیِ آغازین + واژگونی در جمله‌ی اصلی.",
+    "extra_example_nl": "Wanneer het klaar is, laat ik het weten.",
+    "extra_example_fa": "هروقت آماده شد، خبرت می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Wanneer het project klaar is, we vieren dat samen.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی اصلی باید فعل قبل از فاعل بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Wanneer is het project klaar, vieren we dat samen.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «wanneer»، فعل باید به انتها برود، نه اول بماند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Wanneer het project klaar is, vieren dat we samen.",
+        "is_correct": false,
+        "feedback_fa": "فاعل «we» باید بلافاصله بعد از فعل بیاید، نه بعد از «dat»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Wanneer het project klaar is, vieren we dat samen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ درست در هر دو جمله."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste tijd-manier-plaats volgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ درستِ «زمان-حالت-مکان» را دارد؟",
+    "explanation_fa": "ترتیبِ استاندارد در هلندی: اول زمان، بعد حالت/وسیله، در آخر مکان.",
+    "grammar_rule_fa": "ترتیب: زمان (morgen) → حالت (met de trein) → مکان (naar Utrecht).",
+    "extra_example_nl": "Ik ga vanavond met de fiets naar mijn ouders.",
+    "extra_example_fa": "امشب با دوچرخه پیشِ والدینم می‌روم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik ga morgen met de trein naar Utrecht.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ زمان-حالت-مکان رعایت شده."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik ga met de trein morgen naar Utrecht.",
+        "is_correct": false,
+        "feedback_fa": "«زمان» باید قبل از «حالت» بیاید؛ اینجا حالت جلوتر از زمان آمده."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik ga naar Utrecht morgen met de trein.",
+        "is_correct": false,
+        "feedback_fa": "«مکان» باید در آخر بیاید، نه اول."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik ga morgen naar Utrecht met de trein.",
+        "is_correct": false,
+        "feedback_fa": "«مکان» باید بعد از «حالت» بیاید، نه قبل از آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste tijd-manier-plaats volgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ درستِ «زمان-حالت-مکان» را دارد؟",
+    "explanation_fa": "ترتیبِ استاندارد: زمان (gisteren) → حالت (rustig) → مکان (in het park).",
+    "grammar_rule_fa": "ترتیب: زمان → حالت → مکان.",
+    "extra_example_nl": "We hebben vandaag lekker in de tuin gezeten.",
+    "extra_example_fa": "امروز با آرامش در باغ نشستیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We hebben rustig gisteren in het park gewandeld.",
+        "is_correct": false,
+        "feedback_fa": "«زمان» باید قبل از «حالت» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "We hebben gisteren rustig in het park gewandeld.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ زمان-حالت-مکان رعایت شده."
+      },
+      {
+        "key": "C",
+        "text_nl": "We hebben in het park gisteren rustig gewandeld.",
+        "is_correct": false,
+        "feedback_fa": "«مکان» باید در آخر بیاید، نه اول."
+      },
+      {
+        "key": "D",
+        "text_nl": "We hebben gisteren in het park rustig gewandeld.",
+        "is_correct": false,
+        "feedback_fa": "«مکان» باید بعد از «حالت» بیاید، نه قبل از آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "sport",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste tijd-manier-plaats volgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ درستِ «زمان-حالت-مکان» را دارد؟",
+    "explanation_fa": "ترتیبِ استاندارد: زمان (elke week) → حالت (met haar vriendin) → مکان (naar de sportschool).",
+    "grammar_rule_fa": "ترتیب: زمان → حالت → مکان.",
+    "extra_example_nl": "Hij gaat elke ochtend alleen naar zijn werk.",
+    "extra_example_fa": "او هر صبح تنها سرِ کارش می‌رود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Zij gaat met haar vriendin elke week naar de sportschool.",
+        "is_correct": false,
+        "feedback_fa": "«زمان» باید قبل از «حالت» بیاید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Zij gaat naar de sportschool elke week met haar vriendin.",
+        "is_correct": false,
+        "feedback_fa": "«مکان» باید در آخر بیاید، نه اول."
+      },
+      {
+        "key": "C",
+        "text_nl": "Zij gaat elke week met haar vriendin naar de sportschool.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ زمان-حالت-مکان رعایت شده."
+      },
+      {
+        "key": "D",
+        "text_nl": "Zij gaat elke week naar de sportschool met haar vriendin.",
+        "is_correct": false,
+        "feedback_fa": "«مکان» باید بعد از «حالت» بیاید، نه قبل از آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste tijd-manier-plaats volgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ درستِ «زمان-حالت-مکان» را دارد؟",
+    "explanation_fa": "ترتیبِ استاندارد: زمان (volgend jaar) → حالت (alleen) → مکان (naar Spanje).",
+    "grammar_rule_fa": "ترتیب: زمان → حالت → مکان.",
+    "extra_example_nl": "Ze reist volgend jaar samen met vrienden naar Italië.",
+    "extra_example_fa": "سالِ آینده همراه با دوستانش به ایتالیا سفر می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij reist naar Spanje volgend jaar alleen.",
+        "is_correct": false,
+        "feedback_fa": "«مکان» باید در آخر بیاید، نه اول."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij reist volgend jaar naar Spanje alleen.",
+        "is_correct": false,
+        "feedback_fa": "«مکان» باید بعد از «حالت» بیاید، نه قبل از آن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij reist alleen volgend jaar naar Spanje.",
+        "is_correct": false,
+        "feedback_fa": "«زمان» باید قبل از «حالت» بیاید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij reist volgend jaar alleen naar Spanje.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ زمان-حالت-مکان رعایت شده."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "family",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste tijd-manier-plaats volgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ درستِ «زمان-حالت-مکان» را دارد؟",
+    "explanation_fa": "ترتیبِ استاندارد: زمان (vanavond) → حالت (samen) → مکان (bij oma).",
+    "grammar_rule_fa": "ترتیب: زمان → حالت → مکان.",
+    "extra_example_nl": "We koken vanavond samen bij ons thuis.",
+    "extra_example_fa": "امشب با هم در خانه‌مان غذا می‌پزیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "We eten vanavond samen bij oma.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترتیبِ زمان-حالت-مکان رعایت شده."
+      },
+      {
+        "key": "B",
+        "text_nl": "We eten samen vanavond bij oma.",
+        "is_correct": false,
+        "feedback_fa": "«زمان» باید قبل از «حالت» بیاید."
+      },
+      {
+        "key": "C",
+        "text_nl": "We eten bij oma vanavond samen.",
+        "is_correct": false,
+        "feedback_fa": "«مکان» باید در آخر بیاید، نه اول."
+      },
+      {
+        "key": "D",
+        "text_nl": "We eten vanavond bij oma samen.",
+        "is_correct": false,
+        "feedback_fa": "«مکان» باید بعد از «حالت» بیاید، نه قبل از آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde?",
+    "question_text_fa": "کدام جمله ترتیبِ کلماتِ درست را دارد؟",
+    "explanation_fa": "در جمله‌ی فرعیِ «dat»، فعلِ کمکی+مصدر باید در انتها بیاید، به‌ترتیبِ «moet inleveren».",
+    "grammar_rule_fa": "خوشه‌ی فعل در جمله‌ی فرعی: فعلِ کمکی + مصدر، هر دو در انتها.",
+    "extra_example_nl": "Ik weet dat ze het morgen moet afmaken.",
+    "extra_example_fa": "می‌دانم که او باید فردا آن را تمام کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik weet dat hij het rapport morgen inleveren moet.",
+        "is_correct": false,
+        "feedback_fa": "ترتیبِ استانداردِ خوشه‌ی فعل «moet inleveren» است، نه برعکس."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik weet dat hij het rapport morgen moet inleveren.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خوشه‌ی فعل «moet inleveren» در انتهای جمله."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik weet dat hij moet het rapport morgen inleveren.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعی، فعل باید به انتها برود، نه اول بماند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik weet dat hij het rapport morgen moet om inleveren.",
+        "is_correct": false,
+        "feedback_fa": "بعد از فعلِ کمکیِ «moet»، «om» اضافه و اشتباه است؛ باید مستقیم مصدر بیاید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde en betekenis?",
+    "question_text_fa": "کدام جمله هم ترتیبِ کلمات و هم معنیِ درست را دارد؟",
+    "explanation_fa": "خوشه‌ی فعل «had opgelost» باید در انتها بیاید و معنیِ «حل کرده بود» را برساند.",
+    "grammar_rule_fa": "خوشه‌ی فعل در جمله‌ی فرعی در انتها می‌ماند.",
+    "extra_example_nl": "Ze zei dat ze de fout had gevonden.",
+    "extra_example_fa": "او گفت که اشتباه را پیدا کرده بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ze zei dat ze had het probleem opgelost.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعی، فعل باید به انتها برود، نه اول بماند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ze zei dat ze het probleem moest oplossen.",
+        "is_correct": false,
+        "feedback_fa": "«moest oplossen» یعنی «باید حل می‌کرد»؛ این معنیِ اجبار است، نه نتیجه‌ی کاملِ «حل کرده بود»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ze zei dat ze het probleem had opgelost.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خوشه‌ی فعل درست در انتها و معنیِ کاملِ «حل کرده بود»."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ze zei dat ze het probleem oplossen had.",
+        "is_correct": false,
+        "feedback_fa": "ترتیبِ خوشه‌ی فعل «had opgelost» درست است، نه «oplossen had»."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde en betekenis?",
+    "question_text_fa": "کدام جمله هم ترتیبِ کلمات و هم معنیِ درست را دارد؟",
+    "explanation_fa": "خوشه‌ی فعل «kunt vinden» باید در انتها بیاید و معنیِ توانایی را برساند.",
+    "grammar_rule_fa": "خوشه‌ی فعل در جمله‌ی فرعی در انتها می‌ماند.",
+    "extra_example_nl": "Ik hoop dat je het kunt oplossen.",
+    "extra_example_fa": "امیدوارم بتوانی آن را حل کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ik hoop dat je het snel vinden kunt.",
+        "is_correct": false,
+        "feedback_fa": "ترتیبِ استانداردِ خوشه‌ی فعل «kunt vinden» است، نه برعکس."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ik hoop dat je kunt het snel vinden.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعی، فعل باید به انتها برود، نه اول بماند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ik hoop dat je het snel moet vinden.",
+        "is_correct": false,
+        "feedback_fa": "«moet vinden» یعنی «باید پیدا کنی» (اجبار)، نه «بتوانی پیدا کنی» (توانایی)."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ik hoop dat je het snel kunt vinden.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خوشه‌ی فعل درست در انتها و معنیِ توانایی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde en betekenis?",
+    "question_text_fa": "کدام جمله هم ترتیبِ کلمات و هم معنیِ درست را دارد؟",
+    "explanation_fa": "خوشه‌ی سه‌فعلیِ «had kunnen komen» به این ترتیب می‌آید و معنیِ «نتوانست بیاید» را می‌رساند.",
+    "grammar_rule_fa": "خوشه‌ی سه‌فعلی: had + kunnen + مصدر، هر سه در انتها.",
+    "extra_example_nl": "Hij zei dat hij niet had kunnen bellen.",
+    "extra_example_fa": "او گفت که نتوانسته بود زنگ بزند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Hij vertelde dat hij die dag niet had kunnen komen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خوشه‌ی فعل درست و معنیِ «نتوانست بیاید»."
+      },
+      {
+        "key": "B",
+        "text_nl": "Hij vertelde dat hij die dag niet kunnen had komen.",
+        "is_correct": false,
+        "feedback_fa": "ترتیبِ استانداردِ خوشه‌ی فعل «had kunnen komen» است، نه «kunnen had komen»."
+      },
+      {
+        "key": "C",
+        "text_nl": "Hij vertelde dat hij niet had kunnen komen die dag.",
+        "is_correct": false,
+        "feedback_fa": "عبارتِ زمانی «die dag» باید قبل از خوشه‌ی فعل بیاید، نه بعد از آن."
+      },
+      {
+        "key": "D",
+        "text_nl": "Hij vertelde dat hij die dag niet had moeten komen.",
+        "is_correct": false,
+        "feedback_fa": "«had moeten komen» یعنی «نباید می‌آمد» (پشیمانی)، نه «نتوانست بیاید» (ناتوانی)."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_word_order",
+    "life_context": "society",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Welke zin heeft de juiste woordvolgorde en betekenis?",
+    "question_text_fa": "کدام جمله هم ترتیبِ کلمات و هم معنیِ درست را دارد؟",
+    "explanation_fa": "خوشه‌ی فعل «wilde helpen» باید در انتها بیاید و معنیِ خواستن/تمایل را برساند.",
+    "grammar_rule_fa": "خوشه‌ی فعل در جمله‌ی فرعی در انتها می‌ماند.",
+    "extra_example_nl": "Ze vroeg of hij mee wilde doen.",
+    "extra_example_fa": "او پرسید که آیا او می‌خواهد شرکت کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Ze vroeg of hij wilde haar helpen.",
+        "is_correct": false,
+        "feedback_fa": "در جمله‌ی فرعیِ «of»، فعل باید به انتها برود، نه اول بماند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Ze vroeg of hij haar wilde helpen.",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خوشه‌ی فعل درست در انتها و معنیِ تمایل/خواستن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Ze vroeg of hij haar helpen wilde.",
+        "is_correct": false,
+        "feedback_fa": "ترتیبِ استانداردِ خوشه‌ی فعل «wilde helpen» است، نه برعکس."
+      },
+      {
+        "key": "D",
+        "text_nl": "Ze vroeg of hij haar moest helpen.",
+        "is_correct": false,
+        "feedback_fa": "«moest helpen» یعنی «باید کمک می‌کرد» (اجبار)، نه «می‌خواست کمک کند» (تمایل)."
+      }
+    ]
+  }
+]

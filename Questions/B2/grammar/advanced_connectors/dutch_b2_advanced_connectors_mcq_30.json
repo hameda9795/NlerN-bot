@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het regende de hele dag. ___ bleven we binnen.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "ماندن در خانه نتیجه‌ی مستقیمِ باران است، پس «Daarom» (به همین دلیل) درست است.",
+    "grammar_rule_fa": "daarom = به همین دلیل (نتیجه).",
+    "extra_example_nl": "Het was koud. Daarom deden we de kachel aan.",
+    "extra_example_fa": "هوا سرد بود. به همین دلیل بخاری را روشن کردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarom",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رابطه‌ی نتیجه (ماندن در خانه به‌خاطرِ باران)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا رابطه‌ی نتیجه است، نه تضاد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد، اما اینجا رابطه‌ی علّی/نتیجه مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ نتیجه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ze werkte heel hard. ___ kreeg ze een promotie.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "ترفیع نتیجه‌ی مستقیمِ سخت‌کار کردن است، پس «Daardoor» درست است.",
+    "grammar_rule_fa": "daardoor = در نتیجه‌ی آن (رابطه‌ی علّیِ مستقیم).",
+    "extra_example_nl": "Hij studeerde veel. Daardoor haalde hij het examen.",
+    "extra_example_fa": "او خیلی درس خواند. در نتیجه، امتحان را قبول شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Echter",
+        "is_correct": false,
+        "feedback_fa": "«echter» تضاد نشان می‌دهد؛ اما اینجا رابطه‌ی نتیجه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Daardoor",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ترفیع نتیجه‌ی مستقیمِ سخت‌کار کردن است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Daarnaast",
+        "is_correct": false,
+        "feedback_fa": "«daarnaast» یک نکته‌ی اضافه می‌آورد؛ اینجا رابطه‌ی علّی مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ نتیجه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De trein had vertraging. ___ kwam hij te laat op zijn werk.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "دیر رسیدن نتیجه‌ی مستقیمِ تأخیرِ قطار است، پس «Daardoor» درست است.",
+    "grammar_rule_fa": "daardoor = در نتیجه‌ی آن.",
+    "extra_example_nl": "De weg was afgesloten. Daardoor moesten we omrijden.",
+    "extra_example_fa": "جاده بسته بود. در نتیجه مجبور شدیم دور بزنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا رابطه‌ی نتیجه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا رابطه‌ی علّی مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Daardoor",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دیر رسیدن نتیجه‌ی تأخیرِ قطار است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ نتیجه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "health",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Hij had de hele nacht niet geslapen. ___ was hij de volgende dag heel moe.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "خستگی نتیجه‌ی مستقیمِ نخوابیدن است، پس «Daardoor» درست است.",
+    "grammar_rule_fa": "daardoor = در نتیجه‌ی آن.",
+    "extra_example_nl": "Ze had gestrest. Daardoor kon ze niet slapen.",
+    "extra_example_fa": "او استرس داشت. در نتیجه نتوانست بخوابد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Echter",
+        "is_correct": false,
+        "feedback_fa": "«echter» تضاد نشان می‌دهد؛ اما اینجا رابطه‌ی نتیجه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ نتیجه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Daarnaast",
+        "is_correct": false,
+        "feedback_fa": "«daarnaast» یک نکته‌ی اضافه می‌آورد؛ اینجا رابطه‌ی علّی مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Daardoor",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خستگی نتیجه‌ی مستقیمِ نخوابیدن است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De prijzen zijn gestegen. ___ kopen mensen minder.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "خرید کمتر نتیجه‌ی مستقیمِ افزایشِ قیمت‌هاست، پس «Daardoor» درست است.",
+    "grammar_rule_fa": "daardoor = در نتیجه‌ی آن.",
+    "extra_example_nl": "De lonen stegen niet. Daardoor kunnen mensen minder besteden.",
+    "extra_example_fa": "حقوق‌ها افزایش نیافت. در نتیجه مردم کمتر خرج می‌کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daardoor",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خرید کمتر نتیجه‌ی مستقیمِ افزایشِ قیمت‌هاست."
+      },
+      {
+        "key": "B",
+        "text_nl": "Daarnaast",
+        "is_correct": false,
+        "feedback_fa": "«daarnaast» یک نکته‌ی اضافه می‌آورد؛ اینجا رابطه‌ی علّی مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Echter",
+        "is_correct": false,
+        "feedback_fa": "«echter» تضاد نشان می‌دهد؛ اما اینجا رابطه‌ی نتیجه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ نتیجه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ze vergat haar paraplu. ___ werd ze kletsnat.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "خیس شدن نتیجه‌ی مستقیمِ فراموش کردنِ چتر است، پس «Daardoor» درست است.",
+    "grammar_rule_fa": "daardoor = در نتیجه‌ی آن.",
+    "extra_example_nl": "Hij vergat zijn jas. Daardoor had hij het koud.",
+    "extra_example_fa": "او کتش را فراموش کرد. در نتیجه سردش شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا رابطه‌ی علّی مطرح است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Daardoor",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ خیس شدن نتیجه‌ی مستقیمِ فراموش کردنِ چتر است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا رابطه‌ی نتیجه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ نتیجه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het bedrijf maakte verlies. ___ moesten er mensen worden ontslagen.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "اخراج نتیجه‌ی مستقیمِ زیانِ شرکت است، پس «Daardoor» درست است.",
+    "grammar_rule_fa": "daardoor = در نتیجه‌ی آن.",
+    "extra_example_nl": "De omzet daalde. Daardoor moest het bedrijf bezuinigen.",
+    "extra_example_fa": "فروش کاهش یافت. در نتیجه شرکت مجبور به صرفه‌جویی شد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ نتیجه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Echter",
+        "is_correct": false,
+        "feedback_fa": "«echter» تضاد نشان می‌دهد؛ اما اینجا رابطه‌ی نتیجه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Daardoor",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ اخراج نتیجه‌ی مستقیمِ زیانِ شرکت است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Daarnaast",
+        "is_correct": false,
+        "feedback_fa": "«daarnaast» یک نکته‌ی اضافه می‌آورد؛ اینجا رابطه‌ی علّی مطرح است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Hij had een sterk cv. ___ kreeg hij snel een baan.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "پیدا کردنِ سریعِ شغل نتیجه‌ی مستقیمِ رزومه‌ی قوی است، پس «Daarom» درست است.",
+    "grammar_rule_fa": "daarom = به همین دلیل (نتیجه).",
+    "extra_example_nl": "Ze had veel ervaring. Daarom kreeg ze de baan.",
+    "extra_example_fa": "او تجربه‌ی زیادی داشت. به همین دلیل شغل را گرفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا رابطه‌ی نتیجه است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا رابطه‌ی علّی مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ نتیجه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Daarom",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رابطه‌ی نتیجه (رزومه‌ی قوی → شغلِ سریع)."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De weg was afgesloten. ___ moesten we omrijden.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "دور زدن نتیجه‌ی مستقیمِ بسته بودنِ جاده است، پس «Daarom» درست است.",
+    "grammar_rule_fa": "daarom = به همین دلیل.",
+    "extra_example_nl": "De brug was kapot. Daarom moesten we omlopen.",
+    "extra_example_fa": "پل خراب بود. به همین دلیل مجبور شدیم دور بزنیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarom",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دور زدن نتیجه‌ی بسته بودنِ جاده است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا رابطه‌ی علّی مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا رابطه‌ی نتیجه است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ نتیجه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ze had veel ervaring. ___ koos het bedrijf voor haar.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "انتخاب شدن نتیجه‌ی مستقیمِ تجربه‌ی زیاد است، پس «Daarom» درست است.",
+    "grammar_rule_fa": "daarom = به همین دلیل.",
+    "extra_example_nl": "Hij had de beste papieren. Daarom kreeg hij de functie.",
+    "extra_example_fa": "او بهترین مدارک را داشت. به همین دلیل آن سمت را گرفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ نتیجه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Daarom",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ انتخاب شدن نتیجه‌ی تجربه‌ی زیاد است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا رابطه‌ی علّی مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا رابطه‌ی نتیجه است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij was ziek. ___ ging hij naar zijn werk.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "رفتن به سرِ کار با وجودِ مریض بودن یک تضاد است، پس «Toch» درست است.",
+    "grammar_rule_fa": "toch = با این حال (تضادِ غیرمنتظره).",
+    "extra_example_nl": "Ze was verkouden. Toch ging ze naar de les.",
+    "extra_example_fa": "او سرما خورده بود. با این حال به کلاس رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما اینجا نتیجه‌ی منطقی برعکس بود (بیماری باید مانعِ رفتن به کار شود)."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا تضاد مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toch",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رفتن به کار با وجودِ بیماری، تضادِ غیرمنتظره است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ تضاد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "weather",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het weer was slecht. ___ gingen we naar het strand.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "رفتن به ساحل با وجودِ هوای بد یک تضاد است، پس «Toch» درست است.",
+    "grammar_rule_fa": "toch = با این حال.",
+    "extra_example_nl": "Het was koud. Toch gingen ze zwemmen.",
+    "extra_example_fa": "هوا سرد بود. با این حال رفتند شنا کنند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما هوای بد منطقاً مانعِ رفتن به ساحل است، نه دلیلِ آن."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا تضاد مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ تضاد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toch",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رفتن به ساحل با وجودِ هوای بد، تضادِ غیرمنتظره است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Ze had weinig tijd. ___ hielp ze ons.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "کمک کردن با وجودِ کمبودِ وقت یک تضاد است، پس «Toch» درست است.",
+    "grammar_rule_fa": "toch = با این حال.",
+    "extra_example_nl": "Hij had het druk. Toch nam hij de tijd voor ons.",
+    "extra_example_fa": "او سرش شلوغ بود. با این حال برای ما وقت گذاشت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toch",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کمک کردن با وجودِ کمبودِ وقت، تضادِ غیرمنتظره است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا تضاد مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ تضاد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما کمبودِ وقت منطقاً مانعِ کمک کردن است، نه دلیلِ آن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het eten was heerlijk. ___ was de bediening traag.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این دو نکته با هم در تضادند (غذای خوب اما خدماتِ کند)، پس «Echter» درست است.",
+    "grammar_rule_fa": "echter = اما/با این حال (تضادِ رسمی‌تر).",
+    "extra_example_nl": "De kamer was mooi. Het uitzicht was echter teleurstellend.",
+    "extra_example_fa": "اتاق زیبا بود. اما منظره ناامیدکننده بود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما اینجا دو نکته در تضاد هستند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Echter",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تضادِ بینِ غذای خوب و خدماتِ کند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» فرض می‌کند نکته‌ی دوم هم‌جهت با اولی است؛ اما اینجا دو نکته در تضادند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ تضاد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het plan leek goed doordacht. ___ mislukte het uiteindelijk.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "شکست خوردنِ برنامه با وجودِ خوب بودنِ آن یک تضاد است، پس «Echter» درست است.",
+    "grammar_rule_fa": "echter = اما/با این حال.",
+    "extra_example_nl": "De strategie klonk logisch. Echter, de uitvoering ging mis.",
+    "extra_example_fa": "استراتژی منطقی به‌نظر می‌رسید. اما اجرا اشتباه پیش رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما یک برنامه‌ی خوب منطقاً نباید باعثِ شکست شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا تضاد مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Echter",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تضادِ بینِ برنامه‌ی خوب و نتیجه‌ی بد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ تضاد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij had geen ervaring. ___ kreeg hij de baan.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "گرفتنِ شغل با وجودِ نداشتنِ تجربه یک تضاد است، پس «Toch» درست است.",
+    "grammar_rule_fa": "toch = با این حال.",
+    "extra_example_nl": "Ze had geen diploma. Toch kreeg ze de kans.",
+    "extra_example_fa": "او مدرک نداشت. با این حال فرصت را گرفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما نداشتنِ تجربه منطقاً نباید باعثِ گرفتنِ شغل شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ تضاد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا تضاد مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Toch",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ گرفتنِ شغل با وجودِ نداشتنِ تجربه، تضادِ غیرمنتظره است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De vergadering was saai. ___ bleven we tot het einde.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "ماندن تا آخر با وجودِ خسته‌کننده بودنِ جلسه یک تضاد است، پس «Toch» درست است.",
+    "grammar_rule_fa": "toch = با این حال.",
+    "extra_example_nl": "De film was lang. Toch keken we hem helemaal.",
+    "extra_example_fa": "فیلم طولانی بود. با این حال تا آخر تماشا کردیم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toch",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ ماندن تا آخر با وجودِ خسته‌کننده بودنِ جلسه، تضاد است."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا تضاد مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ تضاد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما خسته‌کننده بودن منطقاً باید باعثِ ترک کردن شود، نه ماندن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ze studeerde hard. ___ zakte ze voor het examen.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "رد شدن با وجودِ سخت درس خواندن یک تضاد است، پس «Echter» درست است.",
+    "grammar_rule_fa": "echter = اما/با این حال.",
+    "extra_example_nl": "Hij bereidde zich goed voor. Echter, het gesprek verliep moeizaam.",
+    "extra_example_fa": "او خوب آماده شده بود. اما مصاحبه به‌سختی پیش رفت.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما درسِ سخت منطقاً نباید باعثِ رد شدن شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Echter",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تضادِ بینِ تلاشِ زیاد و نتیجه‌ی بد."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا تضاد مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ تضاد."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De reis was duur. ___ boekten ze een extra week.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "رزرو کردنِ هفته‌ی اضافه با وجودِ گران بودنِ سفر یک تضاد است، پس «Toch» درست است.",
+    "grammar_rule_fa": "toch = با این حال.",
+    "extra_example_nl": "Het ticket was duur. Toch kocht hij het.",
+    "extra_example_fa": "بلیت گران بود. با این حال آن را خرید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ تضاد."
+      },
+      {
+        "key": "B",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما گران بودن منطقاً باید باعثِ کوتاه‌تر کردنِ سفر شود، نه طولانی‌تر کردن."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toch",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رزروِ هفته‌ی اضافه با وجودِ گران بودنِ سفر، تضاد است."
+      },
+      {
+        "key": "D",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا تضاد مطرح است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "shopping",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De computer is oud. ___ werkt hij nog uitstekend.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "خوب کار کردن با وجودِ قدیمی بودن یک تضاد است، پس «Echter» درست است.",
+    "grammar_rule_fa": "echter = اما/با این حال.",
+    "extra_example_nl": "De auto is oud. Echter, hij rijdt nog perfect.",
+    "extra_example_fa": "ماشین قدیمی است. اما هنوز عالی حرکت می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما قدیمی بودن منطقاً نباید باعثِ عملکردِ عالی شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اینجا تضاد مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه بیانِ تضاد."
+      },
+      {
+        "key": "D",
+        "text_nl": "Echter",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تضادِ بینِ قدیمی بودن و عملکردِ عالی."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "home",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Het huis is ruim. ___ heeft het een mooie tuin.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این جمله یک نکته‌ی مثبتِ اضافه به نکته‌ی قبلی اضافه می‌کند، پس «Bovendien» درست است.",
+    "grammar_rule_fa": "bovendien = علاوه‌براین (اضافه‌کردنِ یک نکته‌ی هم‌جهت).",
+    "extra_example_nl": "De flat is goedkoop. Bovendien ligt hij centraal.",
+    "extra_example_fa": "آپارتمان ارزان است. علاوه‌براین موقعیتش مرکزی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Bovendien",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ یک نکته‌ی مثبتِ اضافه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما اینجا فقط یک نکته‌ی اضافه بیان می‌شود، نه نتیجه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا هر دو نکته مثبت و هم‌جهت‌اند."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه اضافه‌کردنِ نکته‌ی جدید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "Zij spreekt goed Engels. ___ spreekt ze ook Duits.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این جمله یک مهارتِ اضافه به نکته‌ی قبلی اضافه می‌کند، پس «Bovendien» درست است.",
+    "grammar_rule_fa": "bovendien = علاوه‌براین.",
+    "extra_example_nl": "Hij is slim. Bovendien werkt hij hard.",
+    "extra_example_fa": "او باهوش است. علاوه‌براین سخت کار می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا هر دو نکته مثبت و هم‌جهت‌اند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ یک مهارتِ اضافه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما اینجا فقط یک نکته‌ی اضافه بیان می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه اضافه‌کردنِ نکته‌ی جدید."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "school",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De cursus is praktisch. ___ is hij goedkoop.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این جمله یک نکته‌ی مثبتِ اضافه می‌آورد، پس «Bovendien» درست است.",
+    "grammar_rule_fa": "bovendien = علاوه‌براین.",
+    "extra_example_nl": "De training is nuttig. Bovendien duurt hij niet lang.",
+    "extra_example_fa": "آموزش مفید است. علاوه‌براین طولانی نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه اضافه‌کردنِ نکته‌ی جدید."
+      },
+      {
+        "key": "B",
+        "text_nl": "Toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا هر دو نکته مثبت و هم‌جهت‌اند."
+      },
+      {
+        "key": "C",
+        "text_nl": "Bovendien",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ یک نکته‌ی مثبتِ اضافه."
+      },
+      {
+        "key": "D",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما اینجا فقط یک نکته‌ی اضافه بیان می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het hotel ligt centraal. ___ is het personeel heel vriendelijk.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این جمله یک نکته‌ی مثبتِ اضافه می‌آورد، پس «Daarnaast» درست است.",
+    "grammar_rule_fa": "daarnaast = علاوه‌براین/در کنارِ آن.",
+    "extra_example_nl": "Het restaurant is lekker. Daarnaast is het niet duur.",
+    "extra_example_fa": "رستوران خوشمزه است. علاوه‌براین گران نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Echter",
+        "is_correct": false,
+        "feedback_fa": "«echter» تضاد نشان می‌دهد؛ اما اینجا هر دو نکته مثبت و هم‌جهت‌اند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Daardoor",
+        "is_correct": false,
+        "feedback_fa": "«daardoor» رابطه‌ی نتیجه می‌سازد؛ اما اینجا فقط یک نکته‌ی اضافه بیان می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه اضافه‌کردنِ نکته‌ی جدید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Daarnaast",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ یک نکته‌ی مثبتِ اضافه."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij is een goede monteur. ___ is hij altijd op tijd.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این جمله یک نکته‌ی مثبتِ اضافه می‌آورد، پس «Daarnaast» درست است.",
+    "grammar_rule_fa": "daarnaast = علاوه‌براین.",
+    "extra_example_nl": "Ze is heel precies. Daarnaast werkt ze snel.",
+    "extra_example_fa": "او خیلی دقیق است. علاوه‌براین سریع کار می‌کند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Daarnaast",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ یک نکته‌ی مثبتِ اضافه."
+      },
+      {
+        "key": "B",
+        "text_nl": "Daardoor",
+        "is_correct": false,
+        "feedback_fa": "«daardoor» رابطه‌ی نتیجه می‌سازد؛ اما اینجا فقط یک نکته‌ی اضافه بیان می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه اضافه‌کردنِ نکته‌ی جدید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Echter",
+        "is_correct": false,
+        "feedback_fa": "«echter» تضاد نشان می‌دهد؛ اما اینجا هر دو نکته مثبت و هم‌جهت‌اند."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 1,
+    "question_text_nl": "De nieuwe collega is slim. ___ werkt ze heel nauwkeurig.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این جمله یک نکته‌ی مثبتِ اضافه می‌آورد، پس «Bovendien» درست است.",
+    "grammar_rule_fa": "bovendien = علاوه‌براین.",
+    "extra_example_nl": "Hij is vriendelijk. Bovendien is hij heel behulpzaam.",
+    "extra_example_fa": "او مهربان است. علاوه‌براین خیلی کمک‌کننده است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "Toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا هر دو نکته مثبت و هم‌جهت‌اند."
+      },
+      {
+        "key": "B",
+        "text_nl": "Bovendien",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ یک نکته‌ی مثبتِ اضافه."
+      },
+      {
+        "key": "C",
+        "text_nl": "Namelijk",
+        "is_correct": false,
+        "feedback_fa": "«namelijk» برای توضیحِ بیشتر است، نه اضافه‌کردنِ نکته‌ی جدید."
+      },
+      {
+        "key": "D",
+        "text_nl": "Daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما اینجا فقط یک نکته‌ی اضافه بیان می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "We moeten het project uitstellen. Er is ___ een probleem met de planning.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این جمله توضیحِ دقیق‌تری از دلیلِ قبلی می‌دهد، پس «namelijk» درست است.",
+    "grammar_rule_fa": "namelijk = یعنی/زیرا (توضیحِ دقیق‌تر).",
+    "extra_example_nl": "We moeten wachten. Er is namelijk een storing.",
+    "extra_example_fa": "باید صبر کنیم. چون یک اختلال وجود دارد (توضیح).",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما اینجا توضیحِ دلیل مطرح است، نه نتیجه‌گیری."
+      },
+      {
+        "key": "B",
+        "text_nl": "toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا فقط توضیح داده می‌شود."
+      },
+      {
+        "key": "C",
+        "text_nl": "namelijk",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توضیحِ دقیق‌ترِ دلیلِ به‌تعویق افتادنِ پروژه."
+      },
+      {
+        "key": "D",
+        "text_nl": "bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اما اینجا توضیحِ دلیلِ قبلی مطرح است."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Hij kon niet komen. Hij was ___ ziek.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این جمله توضیحِ دلیلِ نیامدنِ او را می‌دهد، پس «namelijk» درست است.",
+    "grammar_rule_fa": "namelijk = یعنی/زیرا.",
+    "extra_example_nl": "Ze belde af. Ze had namelijk een andere afspraak.",
+    "extra_example_fa": "او لغو کرد. چون قرارِ دیگری داشت (توضیح).",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا فقط توضیح داده می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما اینجا توضیحِ دلیل مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اما اینجا توضیحِ دلیل مطرح است."
+      },
+      {
+        "key": "D",
+        "text_nl": "namelijk",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توضیحِ دلیلِ نیامدن."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "travel",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De reis werd geannuleerd. Er was ___ een storm voorspeld.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این جمله توضیحِ دلیلِ کنسل شدنِ سفر را می‌دهد، پس «namelijk» درست است.",
+    "grammar_rule_fa": "namelijk = یعنی/زیرا.",
+    "extra_example_nl": "De vlucht werd uitgesteld. Er was namelijk technisch probleem.",
+    "extra_example_fa": "پرواز به تعویق افتاد. چون مشکلِ فنی بود (توضیح).",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "namelijk",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توضیحِ دلیلِ کنسلی."
+      },
+      {
+        "key": "B",
+        "text_nl": "bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اما اینجا توضیحِ دلیل مطرح است."
+      },
+      {
+        "key": "C",
+        "text_nl": "daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما اینجا توضیحِ دلیل مطرح است، نه نتیجه."
+      },
+      {
+        "key": "D",
+        "text_nl": "toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا فقط توضیح داده می‌شود."
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "section": "grammar",
+    "topic": "advanced_connectors",
+    "life_context": "work",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ze nam ontslag. Ze had ___ een andere baan gevonden.",
+    "question_text_fa": "کدام حرفِ ربط رابطه‌ی منطقی را درست نشان می‌دهد؟",
+    "explanation_fa": "این جمله توضیحِ دلیلِ استعفا دادن را می‌دهد، پس «namelijk» درست است.",
+    "grammar_rule_fa": "namelijk = یعنی/زیرا.",
+    "extra_example_nl": "Hij vertrok vroeg. Hij had namelijk een trein te halen.",
+    "extra_example_fa": "او زود رفت. چون باید به قطار می‌رسید (توضیح).",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "daarom",
+        "is_correct": false,
+        "feedback_fa": "«daarom» رابطه‌ی نتیجه می‌سازد؛ اما اینجا توضیحِ دلیل مطرح است، نه نتیجه."
+      },
+      {
+        "key": "B",
+        "text_nl": "namelijk",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ توضیحِ دلیلِ استعفا."
+      },
+      {
+        "key": "C",
+        "text_nl": "toch",
+        "is_correct": false,
+        "feedback_fa": "«toch» تضاد نشان می‌دهد؛ اما اینجا فقط توضیح داده می‌شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "bovendien",
+        "is_correct": false,
+        "feedback_fa": "«bovendien» یک نکته‌ی اضافه می‌آورد؛ اما اینجا توضیحِ دلیل مطرح است."
+      }
+    ]
+  }
+]

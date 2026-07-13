@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze melk is over drie dagen niet meer goed. Kijk naar de ___ op het pak.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "تاریخِ روی بسته که نشان می‌دهد محصول تا کِی خوب می‌ماند، «houdbaarheidsdatum» (تاریخِ انقضا) نامیده می‌شود.",
+    "grammar_rule_fa": "houdbaarheidsdatum=تاریخِ انقضا.",
+    "extra_example_nl": "Check altijd de houdbaarheidsdatum van yoghurt.",
+    "extra_example_fa": "همیشه تاریخِ انقضای ماست را چک کن.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "houdbaarheidsdatum",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تاریخِ مربوط به خوب ماندنِ محصول."
+      },
+      {
+        "key": "B",
+        "text_nl": "prijs",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "merk",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "gewicht",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik koop geen vlees vandaag, ik ga alleen naar de ___ voor brood.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بخشِ فروشِ نان در سوپرمارکت، «bakkerij»/بخشِ نانوایی نامیده می‌شود.",
+    "grammar_rule_fa": "bakkerij=بخشِ نان.",
+    "extra_example_nl": "Vers brood koop ik bij de bakkerij.",
+    "extra_example_fa": "نانِ تازه رو از نانوایی می‌خرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "slagerij",
+        "is_correct": false,
+        "feedback_fa": "این بخشِ گوشت است؛ متن می‌گوید گوشت نمی‌خرد."
+      },
+      {
+        "key": "B",
+        "text_nl": "viswinkel",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "groenteafdeling",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "bakkerij",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بخشِ مخصوصِ نان."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Melk, yoghurt en kaas horen bij de ___ afdeling.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "شیر، ماست و پنیر همگی محصولاتِ لبنی هستند، پس بخشِ آن‌ها «zuivel» نامیده می‌شود.",
+    "grammar_rule_fa": "zuivel=لبنیات (شیر، ماست، پنیر).",
+    "extra_example_nl": "De zuivelafdeling is naast de groenten.",
+    "extra_example_fa": "بخشِ لبنیات کنارِ سبزیجات است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "groente",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "diepvries",
+        "is_correct": false,
+        "feedback_fa": "این بخشِ فریزری است، نه محصولاتِ تازه‌ی لبنی."
+      },
+      {
+        "key": "C",
+        "text_nl": "zuivel",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ نامِ بخشِ لبنیات."
+      },
+      {
+        "key": "D",
+        "text_nl": "vlees",
+        "is_correct": false,
+        "feedback_fa": "این بخشِ گوشت است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik zet de boodschappen niet in een mandje, want ik heb er te veel. Ik pak een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای خریدِ زیاد که در سبدِ دستی جا نمی‌شود، از چرخِ خرید (karretje) استفاده می‌شود.",
+    "grammar_rule_fa": "karretje=چرخِ خرید (برای خریدِ زیاد)، mandje=سبدِ دستی (برای خریدِ کم).",
+    "extra_example_nl": "Voor veel boodschappen gebruik ik een karretje.",
+    "extra_example_fa": "برای خریدِ زیاد از چرخ استفاده می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "doos",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "karretje",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای خریدِ زیاد."
+      },
+      {
+        "key": "C",
+        "text_nl": "mandje",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید سبد کافی نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "tas",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bij deze fles cola betaal je 25 cent extra. Als je de fles terugbrengt, krijg je dat geld terug. Dit heet ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "پولِ اضافه‌ای که بابتِ بطری گرفته می‌شود و با برگرداندنِ بطری پس داده می‌شود، «statiegeld» نامیده می‌شود.",
+    "grammar_rule_fa": "statiegeld=پولِ ودیعه‌ی بطری.",
+    "extra_example_nl": "Breng de flessen terug voor statiegeld.",
+    "extra_example_fa": "بطری‌ها رو برگردون برای پولِ ودیعه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "statiegeld",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ پولِ ودیعه‌ی بطری."
+      },
+      {
+        "key": "B",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "wisselgeld",
+        "is_correct": false,
+        "feedback_fa": "این پولِ خردِ پرداختِ نقد است، نه ودیعه‌ی بطری."
+      },
+      {
+        "key": "D",
+        "text_nl": "prijs",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit brood ligt in de ___ om lang goed te blijven, tot wel drie maanden.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای نگه‌داریِ طولانی‌مدتِ نان (تا چند ماه)، فریزر لازم است، نه یخچالِ معمولی.",
+    "grammar_rule_fa": "diepvries=فریزر (نگه‌داریِ طولانی‌مدت).",
+    "extra_example_nl": "Brood in de diepvries blijft maanden goed.",
+    "extra_example_fa": "نان در فریزر ماه‌ها خوب می‌ماند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "koelkast",
+        "is_correct": false,
+        "feedback_fa": "یخچال برای نگه‌داریِ کوتاه‌مدت است."
+      },
+      {
+        "key": "B",
+        "text_nl": "schap",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "mandje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "diepvries",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط فریزر تا این‌قدر طولانی نگه می‌دارد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil weten hoeveel dit kilogram appels precies kost. Ik kijk naar de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "قیمتِ هر کیلوگرم، «prijs per kilo» نامیده می‌شود.",
+    "grammar_rule_fa": "prijs per kilo=قیمتِ هر کیلوگرم.",
+    "extra_example_nl": "De prijs per kilo staat op het schap.",
+    "extra_example_fa": "قیمتِ هر کیلو روی قفسه نوشته شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "merk",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "prijs per kilo",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دقیقاً این اطلاعات را نشان می‌دهد."
+      },
+      {
+        "key": "D",
+        "text_nl": "houdbaarheidsdatum",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze rijst heeft geen bekend merk, het is het goedkopere ___ van de supermarkt zelf.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "محصولِ ارزان‌ترِ خودِ سوپرمارکت (بدونِ برندِ معروف) «huismerk» نامیده می‌شود.",
+    "grammar_rule_fa": "huismerk=برندِ خودِ فروشگاه (ارزان‌تر).",
+    "extra_example_nl": "Het huismerk is vaak goedkoper dan A-merken.",
+    "extra_example_fa": "برندِ خودِ فروشگاه معمولاً ارزان‌تر از برندهای معروف است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "bioproduct",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "huismerk",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برندِ ارزانِ خودِ فروشگاه."
+      },
+      {
+        "key": "C",
+        "text_nl": "A-merk",
+        "is_correct": false,
+        "feedback_fa": "این برندِ معروف است؛ متن می‌گوید برندِ معروف نیست."
+      },
+      {
+        "key": "D",
+        "text_nl": "streekproduct",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil geen producten met chemische bestrijdingsmiddelen. Ik koop alleen ___ groenten.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "سبزیجاتی که بدونِ موادِ شیمیایی پرورش یافته‌اند، «biologisch» (ارگانیک) نامیده می‌شوند.",
+    "grammar_rule_fa": "biologisch=بدونِ موادِ شیمیایی/ارگانیک.",
+    "extra_example_nl": "Biologische groenten zijn vaak duurder.",
+    "extra_example_fa": "سبزیجاتِ ارگانیک معمولاً گران‌ترند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "biologische",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بدونِ موادِ شیمیایی."
+      },
+      {
+        "key": "B",
+        "text_nl": "verse",
+        "is_correct": false,
+        "feedback_fa": "تازه بودن ربطی به موادِ شیمیایی ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "diepvries",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "huismerk",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil niet in de rij staan bij een medewerker. Ik gebruik liever de ___, waar ik zelf mijn boodschappen scan.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "صندوقی که خودِ مشتری کالاها را اسکن می‌کند، «zelfscankassa» نامیده می‌شود.",
+    "grammar_rule_fa": "zelfscankassa=صندوقِ خوداسکن.",
+    "extra_example_nl": "Bij de zelfscankassa hoef je niet te wachten.",
+    "extra_example_fa": "کنارِ صندوقِ خوداسکن نیازی به انتظار نیست.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "صندوقِ معمولی توسطِ کارمند اسکن می‌شود."
+      },
+      {
+        "key": "B",
+        "text_nl": "weegschaal",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "karretje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "zelfscankassa",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط این‌جا خودِ مشتری اسکن می‌کند."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Voordat je los fruit afrekent, moet je het soms eerst ___ om de prijs te weten.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای فهمیدنِ قیمتِ میوه‌ی بدونِ بسته‌بندی، باید آن را وزن کرد.",
+    "grammar_rule_fa": "wegen=وزن کردن.",
+    "extra_example_nl": "Je moet de bananen eerst wegen.",
+    "extra_example_fa": "باید اول موزها رو وزن کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "scannen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "ruilen",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "wegen",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای فهمیدنِ قیمت، باید وزن شود."
+      },
+      {
+        "key": "D",
+        "text_nl": "betalen",
+        "is_correct": false,
+        "feedback_fa": "پرداخت بعد از دانستنِ قیمت است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik lees de ___ van deze week om te zien wat in de aanbieding is.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بروشورِ تبلیغاتیِ هفتگیِ فروشگاه که تخفیف‌ها را نشان می‌دهد، «folder» نامیده می‌شود.",
+    "grammar_rule_fa": "folder=بروشورِ تبلیغاتی.",
+    "extra_example_nl": "In de folder staat de aanbieding van deze week.",
+    "extra_example_fa": "توی بروشور تخفیفِ این هفته نوشته شده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "houdbaarheidsdatum",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "folder",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بروشورِ تبلیغاتیِ هفتگی."
+      },
+      {
+        "key": "C",
+        "text_nl": "kassabon",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "prijskaartje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze aardbeien komen niet uit het buitenland, ze zijn een ___, verbouwd hier in de regio.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "محصولی که در همان منطقه پرورش یافته، «streekproduct» (محصولِ محلی) نامیده می‌شود.",
+    "grammar_rule_fa": "streekproduct=محصولِ محلی/منطقه‌ای.",
+    "extra_example_nl": "Deze kaas is een streekproduct uit Gouda.",
+    "extra_example_fa": "این پنیر محصولِ محلیِ خودا است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "streekproduct",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محصولِ پرورش‌یافته در همان منطقه."
+      },
+      {
+        "key": "B",
+        "text_nl": "huismerk",
+        "is_correct": false,
+        "feedback_fa": "این ربطی به برندِ فروشگاه ندارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "bioproduct",
+        "is_correct": false,
+        "feedback_fa": "ارگانیک بودن با محلی بودن فرق دارد."
+      },
+      {
+        "key": "D",
+        "text_nl": "diepvriesproduct",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Het vlees ligt niet los in het schap, het zit in speciale ___ om vers te blijven.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بسته‌بندیِ محافظی که کالا را تازه نگه می‌دارد، «verpakking» نامیده می‌شود.",
+    "grammar_rule_fa": "verpakking=بسته‌بندی.",
+    "extra_example_nl": "De verpakking houdt het vlees vers.",
+    "extra_example_fa": "بسته‌بندی گوشت رو تازه نگه می‌داره.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "karretje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "mandje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "verpakking",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محافظتِ کالا برای تازه ماندن."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Groente en fruit die niet in blik of verpakt zijn, liggen op de ___ vers voorin de winkel.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "بخشِ محصولاتِ تازه‌ی بدونِ بسته‌بندی، «versafdeling» نامیده می‌شود.",
+    "grammar_rule_fa": "versafdeling=بخشِ محصولاتِ تازه.",
+    "extra_example_nl": "De versafdeling ligt bij de ingang.",
+    "extra_example_fa": "بخشِ تازه کنارِ ورودی است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "zuivelafdeling",
+        "is_correct": false,
+        "feedback_fa": "این بخشِ لبنیات است، نه میوه/سبزی."
+      },
+      {
+        "key": "C",
+        "text_nl": "versafdeling",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بخشِ محصولاتِ تازه."
+      },
+      {
+        "key": "D",
+        "text_nl": "diepvriesafdeling",
+        "is_correct": false,
+        "feedback_fa": "این بخشِ فریزری است."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb per ongeluk twee blikken tomaten gepakt in plaats van één. Ik zet er één terug op het ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "قفسه‌ای که کالاها روی آن چیده شده‌اند، «schap» نامیده می‌شود.",
+    "grammar_rule_fa": "schap=قفسه‌ی فروشگاه.",
+    "extra_example_nl": "Zet het blik terug op het schap.",
+    "extra_example_fa": "قوطی رو برگردون رو قفسه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "karretje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "schap",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محلِ چیدمانِ کالاها."
+      },
+      {
+        "key": "C",
+        "text_nl": "mandje",
+        "is_correct": false,
+        "feedback_fa": "سبد برای حملِ کالا در دستِ مشتری است، نه محلِ چیدمان."
+      },
+      {
+        "key": "D",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit is de laatste dag dat je dit yoghurt mag eten. Morgen is de ___ verlopen.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "زمانی که تاریخِ خوب‌ماندنِ محصول تمام می‌شود، می‌گویند «houdbaarheidsdatum» گذشته است.",
+    "grammar_rule_fa": "houdbaarheidsdatum=تاریخِ انقضا.",
+    "extra_example_nl": "De houdbaarheidsdatum is morgen verlopen.",
+    "extra_example_fa": "تاریخِ انقضا فردا تمام می‌شود.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "houdbaarheidsdatum",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ تاریخِ انقضا."
+      },
+      {
+        "key": "B",
+        "text_nl": "prijs",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "korting",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "verpakking",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "De supermarkt is dit weekend extra druk, want alles in de winkel heeft 20 procent ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "درصدِ کاهشِ قیمت، «korting» نامیده می‌شود.",
+    "grammar_rule_fa": "korting=درصد/مبلغِ تخفیف.",
+    "extra_example_nl": "Alles heeft deze week korting.",
+    "extra_example_fa": "همه چیز این هفته تخفیف دارد.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "statiegeld",
+        "is_correct": false,
+        "feedback_fa": "این ودیعه‌ی بطری است، نه تخفیف."
+      },
+      {
+        "key": "B",
+        "text_nl": "gewicht",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "merk",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "korting",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ درصدِ کاهشِ قیمت."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik weeg niet meer met de hand; ik gebruik nu de digitale ___ bij het fruit.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دستگاهی که وزنِ میوه را نشان می‌دهد، «weegschaal» (ترازو) نامیده می‌شود.",
+    "grammar_rule_fa": "weegschaal=ترازو.",
+    "extra_example_nl": "Leg de appels op de weegschaal.",
+    "extra_example_fa": "سیب‌ها رو روی ترازو بذار.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "karretje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "mandje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "weegschaal",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دستگاهِ وزن کردن."
+      },
+      {
+        "key": "D",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb maar twee dingen nodig, dus ik pak geen karretje, ik neem een ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برای خریدِ کم، سبدِ دستیِ کوچک (mandje) کافی است.",
+    "grammar_rule_fa": "mandje=سبدِ دستی (برای خریدِ کم).",
+    "extra_example_nl": "Voor twee producten pak ik een mandje.",
+    "extra_example_fa": "برای دو محصول یک سبد می‌گیرم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "doos",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "mandje",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برای خریدِ کم مناسب است."
+      },
+      {
+        "key": "C",
+        "text_nl": "karretje",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید چرخ نمی‌گیرد."
+      },
+      {
+        "key": "D",
+        "text_nl": "tas",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Vlees en vis moeten koud blijven. Ze liggen daarom niet op een gewoon schap, maar in een ___ met glas ervoor.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "محفظه‌ی سردکننده‌ی شیشه‌ای برای گوشت و ماهی، «koeling» نامیده می‌شود.",
+    "grammar_rule_fa": "koeling=محفظه‌ی سردکننده.",
+    "extra_example_nl": "De koeling voor vis staat achterin.",
+    "extra_example_fa": "محفظه‌ی سردِ ماهی ته فروشگاه است.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "koeling",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ محفظه‌ی سردکننده‌ی شیشه‌ای."
+      },
+      {
+        "key": "B",
+        "text_nl": "vriezer",
+        "is_correct": false,
+        "feedback_fa": "فریزر خیلی سردتر است؛ گوشت/ماهیِ تازه معمولاً یخ نمی‌زند."
+      },
+      {
+        "key": "C",
+        "text_nl": "schap",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید «niet op een gewoon schap»."
+      },
+      {
+        "key": "D",
+        "text_nl": "mandje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit product komt niet uit een fabriek met chemische middelen; het is 100 procent ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "محصولِ بدونِ موادِ شیمیایی، «biologisch» (ارگانیک) نامیده می‌شود.",
+    "grammar_rule_fa": "biologisch=بدونِ موادِ شیمیایی.",
+    "extra_example_nl": "Deze eieren zijn biologisch.",
+    "extra_example_fa": "این تخم‌مرغ‌ها ارگانیک هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "huismerk",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "streekproduct",
+        "is_correct": false,
+        "feedback_fa": "محلی بودن با ارگانیک بودن فرق دارد."
+      },
+      {
+        "key": "C",
+        "text_nl": "diepvries",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "biologisch",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ بدونِ موادِ شیمیایی."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Bij de kassa hoeft de medewerker niet alles handmatig in te typen; ze gebruikt de ___ over de streepjescode.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دستگاهی که با گذشتن از روی بارکد قیمت را می‌خواند، «scanner» نامیده می‌شود.",
+    "grammar_rule_fa": "scanner=دستگاهِ خواندنِ بارکد.",
+    "extra_example_nl": "De scanner leest de streepjescode snel.",
+    "extra_example_fa": "اسکنر سریع بارکد رو می‌خونه.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kassabon",
+        "is_correct": false,
+        "feedback_fa": "این خروجیِ چاپ‌شده است، نه دستگاهِ خواندن."
+      },
+      {
+        "key": "B",
+        "text_nl": "prijskaartje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "scanner",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دستگاهِ خواندنِ بارکد."
+      },
+      {
+        "key": "D",
+        "text_nl": "weegschaal",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Nadat ik heb afgerekend, krijg ik een ___ met alle prijzen erop.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "برگه‌ی چاپ‌شده بعدِ پرداخت که همه‌ی قیمت‌ها را نشان می‌دهد، «kassabon» نامیده می‌شود.",
+    "grammar_rule_fa": "kassabon=رسیدِ صندوق.",
+    "extra_example_nl": "Bewaar de kassabon voor als je iets wilt ruilen.",
+    "extra_example_fa": "رسید رو نگه‌دار برای مواقعِ تعویض.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "statiegeldbon",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "kassabon",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ رسیدِ چاپ‌شده بعدِ پرداخت."
+      },
+      {
+        "key": "C",
+        "text_nl": "prijskaartje",
+        "is_correct": false,
+        "feedback_fa": "این روی خودِ کالا است، نه بعدِ پرداخت."
+      },
+      {
+        "key": "D",
+        "text_nl": "folder",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Chips, koekjes en snoep vind je meestal niet bij het fruit, maar in een apart ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "راهروی جداگانه‌ای که محصولاتِ خاصی در آن چیده شده، «gangpad» نامیده می‌شود.",
+    "grammar_rule_fa": "gangpad=راهروی فروشگاه.",
+    "extra_example_nl": "Snoep vind je in gangpad 5.",
+    "extra_example_fa": "شیرینی رو تو راهروی ۵ پیدا می‌کنی.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "gangpad",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ راهروی جداگانه برای این محصولات."
+      },
+      {
+        "key": "B",
+        "text_nl": "versafdeling",
+        "is_correct": false,
+        "feedback_fa": "این بخشِ میوه/سبزیِ تازه است."
+      },
+      {
+        "key": "C",
+        "text_nl": "diepvriesafdeling",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze fles heeft statiegeld. Als ik hem breng naar de ___, krijg ik mijn geld terug.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "دستگاهی که بطری‌های ودیعه‌دار در آن پس داده می‌شوند، «statiegeldautomaat» نامیده می‌شود.",
+    "grammar_rule_fa": "statiegeldautomaat=دستگاهِ بازگرداندنِ بطری.",
+    "extra_example_nl": "Lever de flessen in bij de statiegeldautomaat.",
+    "extra_example_fa": "بطری‌ها رو تحویلِ دستگاهِ ودیعه بده.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "kassa",
+        "is_correct": false,
+        "feedback_fa": "صندوق برای پرداخت است، نه تحویلِ بطری."
+      },
+      {
+        "key": "B",
+        "text_nl": "weegschaal",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "karretje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "statiegeldautomaat",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ دستگاهِ مخصوصِ بازگرداندنِ بطری."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik heb maar een klein tasje bij me. Ik moet een nieuwe ___ kopen bij de kassa.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "کیسه‌ای که برای بردنِ خریدها استفاده می‌شود، «boodschappentas» نامیده می‌شود.",
+    "grammar_rule_fa": "boodschappentas=کیسه‌ی خرید.",
+    "extra_example_nl": "Bij de kassa kun je een boodschappentas kopen.",
+    "extra_example_fa": "کنارِ صندوق می‌شه کیسه‌ی خرید خرید.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "mandje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "doos",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "boodschappentas",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ کیسه‌ی مخصوصِ بردنِ خرید."
+      },
+      {
+        "key": "D",
+        "text_nl": "karretje",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Deze appels zijn extra goedkoop, want ze zijn niet meer helemaal vers. Ze liggen in het ___ met de rode stickers.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "قفسه‌ای که کالاهای نزدیک به تاریخِ انقضا با تخفیف در آن گذاشته می‌شوند، «kortingsschap» نامیده می‌شود.",
+    "grammar_rule_fa": "kortingsschap=قفسه‌ی تخفیف.",
+    "extra_example_nl": "In het kortingsschap liggen producten bijna over datum.",
+    "extra_example_fa": "توی قفسه‌ی تخفیف محصولاتی هستند که نزدیکِ تاریخ انقضا هستند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zuivelafdeling",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "B",
+        "text_nl": "kortingsschap",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ قفسه‌ی مخصوصِ کالاهای تخفیف‌دار."
+      },
+      {
+        "key": "C",
+        "text_nl": "versafdeling",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید دیگر کاملاً تازه نیستند."
+      },
+      {
+        "key": "D",
+        "text_nl": "diepvries",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Ik wil zelf scannen en inpakken zonder in de rij te wachten. Ik ga naar de ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "صندوقی که خودِ مشتری اسکن و بسته‌بندی می‌کند، «zelfscankassa» نامیده می‌شود.",
+    "grammar_rule_fa": "zelfscankassa=صندوقِ خوداسکن.",
+    "extra_example_nl": "Bij drukte kies ik de zelfscankassa.",
+    "extra_example_fa": "وقتِ شلوغی، صندوقِ خوداسکن رو انتخاب می‌کنم.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "zelfscankassa",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ فقط این‌جا خودِ مشتری کار می‌کند."
+      },
+      {
+        "key": "B",
+        "text_nl": "klantenservice",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "weegschaal",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "D",
+        "text_nl": "bakkerij",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "section": "vocab_in_context",
+    "topic": "supermarket",
+    "life_context": "supermarket",
+    "question_type": "mcq_4",
+    "difficulty": 2,
+    "question_text_nl": "Dit voedsel is net gemaakt, vandaag vers. Het tegenovergestelde hiervan, voedsel dat lang goed blijft zonder koeling, noemen we ___.",
+    "question_text_fa": "کدام کلمه در جمله مناسب است؟",
+    "explanation_fa": "غذایی که بدونِ نیاز به سرما مدتِ طولانی خوب می‌ماند، «houdbaar» نامیده می‌شود؛ برخلافِ «vers».",
+    "grammar_rule_fa": "houdbaar=ماندگار (نیازی به یخچال ندارد و طولانی خوب می‌ماند).",
+    "extra_example_nl": "Blikjes zijn lang houdbaar zonder koeling.",
+    "extra_example_fa": "کنسروها بدونِ یخچال مدت‌ها ماندگارند.",
+    "options": [
+      {
+        "key": "A",
+        "text_nl": "vers",
+        "is_correct": false,
+        "feedback_fa": "متن می‌گوید این نقطه‌ی مقابلِ vers است."
+      },
+      {
+        "key": "B",
+        "text_nl": "biologisch",
+        "is_correct": false,
+        "feedback_fa": "این کلمه در این جمله معنی درستی نمی‌سازد."
+      },
+      {
+        "key": "C",
+        "text_nl": "diepvries",
+        "is_correct": false,
+        "feedback_fa": "این یک روشِ نگه‌داری است، نه صفتِ کلی."
+      },
+      {
+        "key": "D",
+        "text_nl": "houdbaar",
+        "is_correct": true,
+        "feedback_fa": "✅ درست؛ برخلافِ vers، نیازی به سرما ندارد."
+      }
+    ]
+  }
+]

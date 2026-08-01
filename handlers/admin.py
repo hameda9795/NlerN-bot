@@ -48,6 +48,14 @@ from utils.admin import is_admin
 
 router = Router(name="admin")
 
+# Strong references to in-flight broadcast tasks. asyncio.create_task()'s
+# return value is only weakly held by the event loop — an unreferenced task
+# can be garbage-collected mid-execution, which would skip run_broadcast's
+# `finally: _broadcast_running = False` and wedge the concurrency guard on
+# forever. Kept alive here until each task finishes (see add_done_callback
+# in admin_broadcast_launch).
+_pending_broadcast_tasks: set[asyncio.Task] = set()
+
 
 class AdminStates(StatesGroup):
     searching = State()
@@ -404,7 +412,7 @@ async def admin_broadcast_launch(
     if user is None or not is_admin(user.telegram_id):
         await callback.answer()
         return
-    if bc.is_broadcast_running():
+    if not bc.try_start_broadcast():
         await callback.answer("⏳ یه ارسال همگانی دیگه در حال اجراست.", show_alert=True)
         return
 
@@ -414,7 +422,7 @@ async def admin_broadcast_launch(
     await callback.message.edit_text("🚀 در حال ارسال…")
     await callback.answer()
 
-    asyncio.create_task(
+    task = asyncio.create_task(
         bc.run_broadcast(
             bot,
             admin_user_id=user.id,
@@ -424,6 +432,8 @@ async def admin_broadcast_launch(
             status_message_id=callback.message.message_id,
         )
     )
+    _pending_broadcast_tasks.add(task)
+    task.add_done_callback(_pending_broadcast_tasks.discard)
 
 
 # --- pagination (shared by users / past-due / payments lists) ------------

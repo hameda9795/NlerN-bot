@@ -65,6 +65,19 @@ def is_broadcast_running() -> bool:
     return _broadcast_running
 
 
+def try_start_broadcast() -> bool:
+    """Atomically claim the broadcast slot. Must be called synchronously,
+    before scheduling run_broadcast — closes the gap between "decided to
+    launch" and run_broadcast's own first line actually running on the
+    event loop (asyncio.create_task only schedules; it doesn't run
+    synchronously). Returns False if a broadcast is already running."""
+    global _broadcast_running
+    if _broadcast_running:
+        return False
+    _broadcast_running = True
+    return True
+
+
 async def _safe_edit_status(bot: Bot, chat_id: int, message_id: int, text: str) -> None:
     try:
         await bot.edit_message_text(text, chat_id=chat_id, message_id=message_id)

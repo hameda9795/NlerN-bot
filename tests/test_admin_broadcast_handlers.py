@@ -285,7 +285,7 @@ async def test_confirm_launches_background_broadcast(monkeypatch):
 
     run_broadcast_mock = AsyncMock(return_value=None)
     monkeypatch.setattr(admin_module.bc, "run_broadcast", run_broadcast_mock)
-    monkeypatch.setattr(admin_module.bc, "is_broadcast_running", lambda: False)
+    monkeypatch.setattr(admin_module.bc, "try_start_broadcast", lambda: True)
 
     admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
     state = _fresh_state()
@@ -314,7 +314,7 @@ async def test_confirm_rejects_when_broadcast_already_running(monkeypatch):
 
     run_broadcast_mock = AsyncMock(return_value=None)
     monkeypatch.setattr(admin_module.bc, "run_broadcast", run_broadcast_mock)
-    monkeypatch.setattr(admin_module.bc, "is_broadcast_running", lambda: True)
+    monkeypatch.setattr(admin_module.bc, "try_start_broadcast", lambda: False)
 
     admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
     state = _fresh_state()
@@ -331,3 +331,58 @@ async def test_confirm_rejects_when_broadcast_already_running(monkeypatch):
     run_broadcast_mock.assert_not_awaited()
     answers = _calls(bot, AnswerCallbackQuery)
     assert answers, "expected an alert telling the admin a broadcast is already running"
+    # rejected path must leave FSM state untouched (nothing was sent, so the
+    # admin should still be able to retry from the same confirmation screen)
+    assert await state.get_state() == AdminStates.broadcast_composing.state
+    data = await state.get_data()
+    assert data["segment"] == "all"
+    assert data["target_count"] == 230
+    assert data["message_html"] == "hi"
+
+
+@pytest.mark.asyncio
+async def test_confirm_launch_closes_double_tap_race(monkeypatch):
+    """Two back-to-back taps of "✅ مطمئنم، بفرست" (e.g. before the keyboard
+    visually updates) must not both schedule a broadcast. `run_broadcast` is
+    mocked so its own `finally: _broadcast_running = False` never runs — the
+    real `try_start_broadcast()` (not mocked) must still block the second tap
+    because it claims the slot synchronously, before either dispatch call
+    returns to the caller.
+    """
+    import handlers.admin as admin_module
+    from aiogram.methods import AnswerCallbackQuery
+
+    # Force a clean starting slate regardless of what earlier tests left
+    # behind; monkeypatch restores this to its pre-test value automatically,
+    # so this can't leak into other tests either.
+    monkeypatch.setattr(admin_module.bc, "_broadcast_running", False)
+
+    run_broadcast_mock = AsyncMock(return_value=None)
+    monkeypatch.setattr(admin_module.bc, "run_broadcast", run_broadcast_mock)
+    # try_start_broadcast is intentionally left real (not mocked): the whole
+    # point of this test is to prove *it* is what closes the race.
+
+    admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
+    state = _fresh_state()
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment="all", target_count=42, message_html="hi")
+
+    message = _make_message("")
+    bot = _mocked_bot()
+
+    first_tap = _make_callback("admin:bc:go:confirm", message)
+    await _dispatch(admin_router, state, first_tap, bot=bot, user=admin_user)
+
+    # Second tap: the first dispatch already cleared FSM state, exactly like
+    # it would once the real send is underway. try_start_broadcast() must
+    # reject this call before it ever reads segment/message_html from state.
+    second_tap = _make_callback("admin:bc:go:confirm", message)
+    await _dispatch(admin_router, state, second_tap, bot=bot, user=admin_user)
+
+    await asyncio.sleep(0.05)
+
+    run_broadcast_mock.assert_awaited_once()
+    answers = _calls(bot, AnswerCallbackQuery)
+    assert any(getattr(a, "show_alert", False) for a in answers), (
+        "expected the second tap to be rejected with a show_alert callback answer"
+    )

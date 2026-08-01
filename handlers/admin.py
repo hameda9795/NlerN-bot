@@ -15,7 +15,7 @@ from __future__ import annotations
 
 from datetime import datetime
 
-from aiogram import F, Router
+from aiogram import Bot, F, Router
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
@@ -29,6 +29,8 @@ from aiogram.types import (
 
 from database.models import User
 from keyboards.admin_keyboard import (
+    broadcast_preview_keyboard,
+    broadcast_segment_keyboard,
     confirm_keyboard,
     list_row_keyboard,
     overview_keyboard,
@@ -38,6 +40,7 @@ from keyboards.admin_keyboard import (
 )
 from keyboards.main_menu import BTN_ADMIN
 from services import admin_service
+from services import broadcast_service as bc
 from services import subscription_service as subs
 from utils.admin import is_admin
 
@@ -46,6 +49,7 @@ router = Router(name="admin")
 
 class AdminStates(StatesGroup):
     searching = State()
+    broadcast_composing = State()
 
 
 def _fmt(dt: datetime | None) -> str:
@@ -295,6 +299,73 @@ async def admin_payments_csv(callback: CallbackQuery) -> None:
         caption="📄 خروجی کامل پرداخت‌ها",
     )
     await callback.answer()
+
+
+# --- broadcast ---------------------------------------------------------------
+
+@router.callback_query(F.data == "admin:bc")
+async def admin_broadcast_menu(callback: CallbackQuery, state: FSMContext, user: User | None) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    await state.clear()
+    segments = [
+        (key, label, len(await bc.resolve_segment_user_ids(key)))
+        for key, label in bc.SEGMENTS.items()
+    ]
+    await callback.message.edit_text(
+        "📢 <b>پیام همگانی</b>\nگروه هدف رو انتخاب کن:",
+        reply_markup=broadcast_segment_keyboard(segments),
+    )
+    await callback.answer()
+
+
+@router.callback_query(F.data.startswith("admin:bc:seg:"))
+async def admin_broadcast_segment_chosen(
+    callback: CallbackQuery, state: FSMContext, user: User | None
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    segment = callback.data.split(":")[3]
+    target_count = len(await bc.resolve_segment_user_ids(segment))
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment=segment, target_count=target_count)
+    await callback.message.edit_text(
+        f"✍️ متن پیام رو بفرست (گیرنده‌ها: {target_count} نفر).\n"
+        "فرمت بولد/ایتالیک تلگرام حفظ می‌شه."
+    )
+    await callback.answer()
+
+
+@router.message(AdminStates.broadcast_composing)
+async def admin_broadcast_text_received(
+    message: Message, state: FSMContext, user: User | None
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await _denied(message)
+        return
+    html_text = message.html_text or ""
+    await state.update_data(message_html=html_text)
+    data = await state.get_data()
+    await message.answer(
+        f"👀 <b>پیش‌نمایش</b> (برای {data['target_count']} نفر):\n\n{html_text}\n\n"
+        "می‌تونی متن جدیدی بفرستی تا جایگزین بشه، یا یکی از گزینه‌های زیر رو انتخاب کن.",
+        reply_markup=broadcast_preview_keyboard(),
+    )
+
+
+@router.callback_query(F.data == "admin:bc:test")
+async def admin_broadcast_test_send(
+    callback: CallbackQuery, state: FSMContext, user: User | None, bot: Bot
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    data = await state.get_data()
+    html_text = data.get("message_html", "")
+    await bot.send_message(user.telegram_id, html_text, parse_mode="HTML")
+    await callback.answer("✅ برای خودت فرستاده شد.", show_alert=True)
 
 
 # --- pagination (shared by users / past-due / payments lists) ------------

@@ -194,3 +194,140 @@ async def test_test_send_sends_to_admins_own_chat():
     assert len(sends) == 1
     assert sends[0].chat_id == ADMIN_TG_ID
     assert sends[0].text == "<b>hi</b>"
+
+
+import asyncio
+
+from keyboards.admin_keyboard import broadcast_confirm_keyboard  # noqa: F401 (import sanity)
+
+
+@pytest.mark.asyncio
+async def test_confirm_prompt_shows_final_confirmation():
+    from aiogram.methods import EditMessageText
+
+    admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
+    state = _fresh_state()
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment="all", target_count=7, message_html="hi")
+
+    message = _make_message("")
+    callback = _make_callback("admin:bc:go", message)
+    bot = _mocked_bot()
+
+    await _dispatch(admin_router, state, callback, bot=bot, user=admin_user)
+
+    edits = _calls(bot, EditMessageText)
+    assert edits, "expected the final confirmation prompt to be shown"
+    assert "7 نفر" in edits[-1].text
+
+
+@pytest.mark.asyncio
+async def test_cancel_returns_to_overview_and_clears_state(monkeypatch):
+    # `_overview_text()` (rendered on cancel) hits real DB-backed service
+    # calls; stub them out the same way `admin_module.bc.*` is stubbed
+    # elsewhere in this file, so this stays a focused handler-behavior test.
+    import handlers.admin as admin_module
+
+    monkeypatch.setattr(admin_module.admin_service, "count_users", AsyncMock(return_value=0))
+    monkeypatch.setattr(
+        admin_module.admin_service,
+        "count_by_subscription_status",
+        AsyncMock(
+            return_value={
+                "active": 0,
+                "trialing": 0,
+                "past_due": 0,
+                "canceled": 0,
+                "pending": 0,
+                "expired": 0,
+                "none": 0,
+            }
+        ),
+    )
+    monkeypatch.setattr(
+        admin_module.admin_service, "revenue_this_month", AsyncMock(return_value=0.0)
+    )
+
+    admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
+    state = _fresh_state()
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment="all", target_count=7, message_html="hi")
+
+    message = _make_message("")
+    callback = _make_callback("admin:bc:cancel", message)
+
+    await _dispatch(admin_router, state, callback, bot=_mocked_bot(), user=admin_user)
+
+    assert await state.get_state() is None
+
+
+@pytest.mark.asyncio
+async def test_non_admin_cannot_cancel_broadcast():
+    # admin_broadcast_cancel must re-check is_admin like every other handler
+    # in this file, even though it only clears state and shows the overview.
+    non_admin = User(id=2, telegram_id=NON_ADMIN_TG_ID)
+    state = _fresh_state(chat_id=NON_ADMIN_TG_ID)
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment="all", target_count=7, message_html="hi")
+
+    message = _make_message("", from_id=NON_ADMIN_TG_ID)
+    callback = _make_callback("admin:bc:cancel", message)
+
+    await _dispatch(admin_router, state, callback, bot=_mocked_bot(), user=non_admin)
+
+    # state must NOT be cleared for a rejected non-admin request
+    assert await state.get_state() == AdminStates.broadcast_composing.state
+
+
+@pytest.mark.asyncio
+async def test_confirm_launches_background_broadcast(monkeypatch):
+    import handlers.admin as admin_module
+
+    run_broadcast_mock = AsyncMock(return_value=None)
+    monkeypatch.setattr(admin_module.bc, "run_broadcast", run_broadcast_mock)
+    monkeypatch.setattr(admin_module.bc, "is_broadcast_running", lambda: False)
+
+    admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
+    state = _fresh_state()
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment="never_subscribed", target_count=127, message_html="<b>hi</b>")
+
+    message = _make_message("")
+    callback = _make_callback("admin:bc:go:confirm", message)
+    bot = _mocked_bot()
+
+    await _dispatch(admin_router, state, callback, bot=bot, user=admin_user)
+    await asyncio.sleep(0.05)  # let the scheduled background task run
+
+    run_broadcast_mock.assert_awaited_once()
+    _, kwargs = run_broadcast_mock.call_args
+    assert kwargs["admin_user_id"] == 1
+    assert kwargs["segment"] == "never_subscribed"
+    assert kwargs["message_html"] == "<b>hi</b>"
+    assert await state.get_state() is None
+
+
+@pytest.mark.asyncio
+async def test_confirm_rejects_when_broadcast_already_running(monkeypatch):
+    import handlers.admin as admin_module
+    from aiogram.methods import AnswerCallbackQuery
+
+    run_broadcast_mock = AsyncMock(return_value=None)
+    monkeypatch.setattr(admin_module.bc, "run_broadcast", run_broadcast_mock)
+    monkeypatch.setattr(admin_module.bc, "is_broadcast_running", lambda: True)
+
+    admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
+    state = _fresh_state()
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment="all", target_count=230, message_html="hi")
+
+    message = _make_message("")
+    callback = _make_callback("admin:bc:go:confirm", message)
+    bot = _mocked_bot()
+
+    await _dispatch(admin_router, state, callback, bot=bot, user=admin_user)
+    await asyncio.sleep(0.05)
+
+    run_broadcast_mock.assert_not_awaited()
+    answers = _calls(bot, AnswerCallbackQuery)
+    assert answers, "expected an alert telling the admin a broadcast is already running"

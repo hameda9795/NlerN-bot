@@ -13,6 +13,7 @@ small enough that real DB-side pagination isn't needed yet.
 
 from __future__ import annotations
 
+import asyncio
 from datetime import datetime
 
 from aiogram import Bot, F, Router
@@ -29,6 +30,7 @@ from aiogram.types import (
 
 from database.models import User
 from keyboards.admin_keyboard import (
+    broadcast_confirm_keyboard,
     broadcast_preview_keyboard,
     broadcast_segment_keyboard,
     confirm_keyboard,
@@ -366,6 +368,62 @@ async def admin_broadcast_test_send(
     html_text = data.get("message_html", "")
     await bot.send_message(user.telegram_id, html_text, parse_mode="HTML")
     await callback.answer("✅ برای خودت فرستاده شد.", show_alert=True)
+
+
+@router.callback_query(F.data == "admin:bc:go")
+async def admin_broadcast_confirm_prompt(
+    callback: CallbackQuery, state: FSMContext, user: User | None
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    data = await state.get_data()
+    await callback.message.edit_text(
+        f"مطمئنی می‌خوای این پیام رو برای <b>{data['target_count']} نفر</b> بفرستی؟",
+        reply_markup=broadcast_confirm_keyboard(),
+    )
+    await callback.answer()
+
+
+@router.callback_query(F.data == "admin:bc:cancel")
+async def admin_broadcast_cancel(
+    callback: CallbackQuery, state: FSMContext, user: User | None
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    await state.clear()
+    await callback.message.edit_text(await _overview_text(), reply_markup=overview_keyboard())
+    await callback.answer()
+
+
+@router.callback_query(F.data == "admin:bc:go:confirm")
+async def admin_broadcast_launch(
+    callback: CallbackQuery, state: FSMContext, user: User | None, bot: Bot
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    if bc.is_broadcast_running():
+        await callback.answer("⏳ یه ارسال همگانی دیگه در حال اجراست.", show_alert=True)
+        return
+
+    data = await state.get_data()
+    segment, html_text = data["segment"], data["message_html"]
+    await state.clear()
+    await callback.message.edit_text("🚀 در حال ارسال…")
+    await callback.answer()
+
+    asyncio.create_task(
+        bc.run_broadcast(
+            bot,
+            admin_user_id=user.id,
+            segment=segment,
+            message_html=html_text,
+            status_chat_id=callback.message.chat.id,
+            status_message_id=callback.message.message_id,
+        )
+    )
 
 
 # --- pagination (shared by users / past-due / payments lists) ------------

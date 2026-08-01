@@ -13,9 +13,11 @@ small enough that real DB-side pagination isn't needed yet.
 
 from __future__ import annotations
 
+import asyncio
 from datetime import datetime
 
-from aiogram import F, Router
+from aiogram import Bot, F, Router
+from aiogram.exceptions import TelegramAPIError
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
@@ -29,6 +31,9 @@ from aiogram.types import (
 
 from database.models import User
 from keyboards.admin_keyboard import (
+    broadcast_confirm_keyboard,
+    broadcast_preview_keyboard,
+    broadcast_segment_keyboard,
     confirm_keyboard,
     list_row_keyboard,
     overview_keyboard,
@@ -38,14 +43,24 @@ from keyboards.admin_keyboard import (
 )
 from keyboards.main_menu import BTN_ADMIN
 from services import admin_service
+from services import broadcast_service as bc
 from services import subscription_service as subs
 from utils.admin import is_admin
 
 router = Router(name="admin")
 
+# Strong references to in-flight broadcast tasks. asyncio.create_task()'s
+# return value is only weakly held by the event loop — an unreferenced task
+# can be garbage-collected mid-execution, which would skip run_broadcast's
+# `finally: _broadcast_running = False` and wedge the concurrency guard on
+# forever. Kept alive here until each task finishes (see add_done_callback
+# in admin_broadcast_launch).
+_pending_broadcast_tasks: set[asyncio.Task] = set()
+
 
 class AdminStates(StatesGroup):
     searching = State()
+    broadcast_composing = State()
 
 
 def _fmt(dt: datetime | None) -> str:
@@ -295,6 +310,155 @@ async def admin_payments_csv(callback: CallbackQuery) -> None:
         caption="📄 خروجی کامل پرداخت‌ها",
     )
     await callback.answer()
+
+
+# --- broadcast ---------------------------------------------------------------
+
+@router.callback_query(F.data == "admin:bc")
+async def admin_broadcast_menu(callback: CallbackQuery, state: FSMContext, user: User | None) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    if bc.is_broadcast_running():
+        await callback.answer("⏳ یه ارسال همگانی دیگه در حال اجراست.", show_alert=True)
+        return
+    await state.clear()
+    segments = [
+        (key, label, len(await bc.resolve_segment_user_ids(key)))
+        for key, label in bc.SEGMENTS.items()
+    ]
+    await callback.message.edit_text(
+        "📢 <b>پیام همگانی</b>\nگروه هدف رو انتخاب کن:",
+        reply_markup=broadcast_segment_keyboard(segments),
+    )
+    await callback.answer()
+
+
+@router.callback_query(F.data.startswith("admin:bc:seg:"))
+async def admin_broadcast_segment_chosen(
+    callback: CallbackQuery, state: FSMContext, user: User | None
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    segment = callback.data.split(":")[3]
+    target_count = len(await bc.resolve_segment_user_ids(segment))
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment=segment, target_count=target_count)
+    await callback.message.edit_text(
+        f"✍️ متن پیام رو بفرست (گیرنده‌ها: {target_count} نفر).\n"
+        "فرمت بولد/ایتالیک تلگرام حفظ می‌شه."
+    )
+    await callback.answer()
+
+
+@router.message(AdminStates.broadcast_composing)
+async def admin_broadcast_text_received(
+    message: Message, state: FSMContext, user: User | None
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await _denied(message)
+        return
+    html_text = message.html_text
+    if not html_text:
+        await message.answer("متن پیام نمی‌تونه خالی باشه. یه پیام متنی بفرست. 🙏")
+        return
+    await state.update_data(message_html=html_text)
+    data = await state.get_data()
+    await message.answer(
+        f"👀 <b>پیش‌نمایش</b> (برای {data['target_count']} نفر):\n\n{html_text}\n\n"
+        "می‌تونی متن جدیدی بفرستی تا جایگزین بشه، یا یکی از گزینه‌های زیر رو انتخاب کن.",
+        reply_markup=broadcast_preview_keyboard(),
+    )
+
+
+@router.callback_query(F.data == "admin:bc:test")
+async def admin_broadcast_test_send(
+    callback: CallbackQuery, state: FSMContext, user: User | None, bot: Bot
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    data = await state.get_data()
+    html_text = data.get("message_html", "")
+    try:
+        await bot.send_message(user.telegram_id, html_text, parse_mode="HTML")
+    except TelegramAPIError:
+        await callback.answer("❌ ارسال آزمایشی ناموفق بود. متن پیام رو بررسی کن.", show_alert=True)
+        return
+    await callback.answer("✅ برای خودت فرستاده شد.", show_alert=True)
+
+
+@router.callback_query(F.data == "admin:bc:go")
+async def admin_broadcast_confirm_prompt(
+    callback: CallbackQuery, state: FSMContext, user: User | None
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    data = await state.get_data()
+    await callback.message.edit_text(
+        f"مطمئنی می‌خوای این پیام رو برای <b>{data['target_count']} نفر</b> بفرستی؟",
+        reply_markup=broadcast_confirm_keyboard(),
+    )
+    await callback.answer()
+
+
+@router.callback_query(F.data == "admin:bc:cancel")
+async def admin_broadcast_cancel(
+    callback: CallbackQuery, state: FSMContext, user: User | None
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+    await state.clear()
+    await callback.message.edit_text(await _overview_text(), reply_markup=overview_keyboard())
+    await callback.answer()
+
+
+@router.callback_query(F.data == "admin:bc:go:confirm")
+async def admin_broadcast_launch(
+    callback: CallbackQuery, state: FSMContext, user: User | None, bot: Bot
+) -> None:
+    if user is None or not is_admin(user.telegram_id):
+        await callback.answer()
+        return
+
+    # Read + validate FSM data BEFORE claiming the concurrency slot, so a
+    # missing/expired FSM state (e.g. MemoryStorage wiped by a redeploy while
+    # a stale confirm keyboard is still on-screen) can't leave the slot
+    # claimed forever with no task ever scheduled to release it.
+    data = await state.get_data()
+    segment = data.get("segment")
+    html_text = data.get("message_html")
+    if segment is None or html_text is None:
+        await callback.answer("⌛️ این پیام منقضی شده. از اول شروع کن.", show_alert=True)
+        return
+
+    if not bc.try_start_broadcast():
+        await callback.answer("⏳ یه ارسال همگانی دیگه در حال اجراست.", show_alert=True)
+        return
+
+    try:
+        await state.clear()
+        await callback.message.edit_text("🚀 در حال ارسال…")
+        await callback.answer()
+
+        task = asyncio.create_task(
+            bc.run_broadcast(
+                bot,
+                admin_user_id=user.id,
+                segment=segment,
+                message_html=html_text,
+                status_chat_id=callback.message.chat.id,
+                status_message_id=callback.message.message_id,
+            )
+        )
+        _pending_broadcast_tasks.add(task)
+        task.add_done_callback(_pending_broadcast_tasks.discard)
+    except Exception:
+        bc.release_broadcast()
+        raise
 
 
 # --- pagination (shared by users / past-due / payments lists) ------------

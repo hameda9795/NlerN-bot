@@ -10,6 +10,7 @@ def overview_keyboard() -> InlineKeyboardMarkup:
         [InlineKeyboardButton(text="👥 کاربران", callback_data="admin:users")],
         [InlineKeyboardButton(text="⚠️ نیاز به پیگیری", callback_data="admin:pastdue")],
         [InlineKeyboardButton(text="💳 پرداخت‌ها", callback_data="admin:pay")],
+        [InlineKeyboardButton(text="📢 پیام همگانی", callback_data="admin:bc")],
     ])
 
 
@@ -72,5 +73,37 @@ def confirm_keyboard(yes_callback: str, cancel_user_id: int) -> InlineKeyboardMa
         [
             InlineKeyboardButton(text="✅ مطمئنم", callback_data=yes_callback),
             InlineKeyboardButton(text="↩️ انصراف", callback_data=f"admin:u:{cancel_user_id}"),
+        ],
+    ])
+
+
+def broadcast_segment_keyboard(segments: list[tuple[str, str, int]]) -> InlineKeyboardMarkup:
+    """``segments`` is a list of (segment_key, label, recipient_count)."""
+    rows = [
+        [
+            InlineKeyboardButton(
+                text=f"{label} ({count} نفر)",
+                callback_data=f"admin:bc:seg:{key}",
+            )
+        ]
+        for key, label, count in segments
+    ]
+    rows.append([InlineKeyboardButton(text="↩️ بازگشت", callback_data="admin:home")])
+    return InlineKeyboardMarkup(inline_keyboard=rows)
+
+
+def broadcast_preview_keyboard() -> InlineKeyboardMarkup:
+    return InlineKeyboardMarkup(inline_keyboard=[
+        [InlineKeyboardButton(text="🧪 ارسال آزمایشی به خودم", callback_data="admin:bc:test")],
+        [InlineKeyboardButton(text="🚀 ارسال نهایی", callback_data="admin:bc:go")],
+        [InlineKeyboardButton(text="❌ لغو", callback_data="admin:bc:cancel")],
+    ])
+
+
+def broadcast_confirm_keyboard() -> InlineKeyboardMarkup:
+    return InlineKeyboardMarkup(inline_keyboard=[
+        [
+            InlineKeyboardButton(text="✅ مطمئنم، بفرست", callback_data="admin:bc:go:confirm"),
+            InlineKeyboardButton(text="↩️ انصراف", callback_data="admin:bc:cancel"),
         ],
     ])

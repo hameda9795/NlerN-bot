@@ -17,6 +17,7 @@ import asyncio
 from datetime import datetime
 
 from aiogram import Bot, F, Router
+from aiogram.exceptions import TelegramAPIError
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
@@ -318,6 +319,9 @@ async def admin_broadcast_menu(callback: CallbackQuery, state: FSMContext, user:
     if user is None or not is_admin(user.telegram_id):
         await callback.answer()
         return
+    if bc.is_broadcast_running():
+        await callback.answer("⏳ یه ارسال همگانی دیگه در حال اجراست.", show_alert=True)
+        return
     await state.clear()
     segments = [
         (key, label, len(await bc.resolve_segment_user_ids(key)))
@@ -355,7 +359,10 @@ async def admin_broadcast_text_received(
     if user is None or not is_admin(user.telegram_id):
         await _denied(message)
         return
-    html_text = message.html_text or ""
+    html_text = message.html_text
+    if not html_text:
+        await message.answer("متن پیام نمی‌تونه خالی باشه. یه پیام متنی بفرست. 🙏")
+        return
     await state.update_data(message_html=html_text)
     data = await state.get_data()
     await message.answer(
@@ -374,7 +381,11 @@ async def admin_broadcast_test_send(
         return
     data = await state.get_data()
     html_text = data.get("message_html", "")
-    await bot.send_message(user.telegram_id, html_text, parse_mode="HTML")
+    try:
+        await bot.send_message(user.telegram_id, html_text, parse_mode="HTML")
+    except TelegramAPIError:
+        await callback.answer("❌ ارسال آزمایشی ناموفق بود. متن پیام رو بررسی کن.", show_alert=True)
+        return
     await callback.answer("✅ برای خودت فرستاده شد.", show_alert=True)
 
 
@@ -412,28 +423,42 @@ async def admin_broadcast_launch(
     if user is None or not is_admin(user.telegram_id):
         await callback.answer()
         return
+
+    # Read + validate FSM data BEFORE claiming the concurrency slot, so a
+    # missing/expired FSM state (e.g. MemoryStorage wiped by a redeploy while
+    # a stale confirm keyboard is still on-screen) can't leave the slot
+    # claimed forever with no task ever scheduled to release it.
+    data = await state.get_data()
+    segment = data.get("segment")
+    html_text = data.get("message_html")
+    if segment is None or html_text is None:
+        await callback.answer("⌛️ این پیام منقضی شده. از اول شروع کن.", show_alert=True)
+        return
+
     if not bc.try_start_broadcast():
         await callback.answer("⏳ یه ارسال همگانی دیگه در حال اجراست.", show_alert=True)
         return
 
-    data = await state.get_data()
-    segment, html_text = data["segment"], data["message_html"]
-    await state.clear()
-    await callback.message.edit_text("🚀 در حال ارسال…")
-    await callback.answer()
+    try:
+        await state.clear()
+        await callback.message.edit_text("🚀 در حال ارسال…")
+        await callback.answer()
 
-    task = asyncio.create_task(
-        bc.run_broadcast(
-            bot,
-            admin_user_id=user.id,
-            segment=segment,
-            message_html=html_text,
-            status_chat_id=callback.message.chat.id,
-            status_message_id=callback.message.message_id,
+        task = asyncio.create_task(
+            bc.run_broadcast(
+                bot,
+                admin_user_id=user.id,
+                segment=segment,
+                message_html=html_text,
+                status_chat_id=callback.message.chat.id,
+                status_message_id=callback.message.message_id,
+            )
         )
-    )
-    _pending_broadcast_tasks.add(task)
-    task.add_done_callback(_pending_broadcast_tasks.discard)
+        _pending_broadcast_tasks.add(task)
+        task.add_done_callback(_pending_broadcast_tasks.discard)
+    except Exception:
+        bc.release_broadcast()
+        raise
 
 
 # --- pagination (shared by users / past-due / payments lists) ------------

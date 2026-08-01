@@ -78,6 +78,15 @@ def try_start_broadcast() -> bool:
     return True
 
 
+def release_broadcast() -> None:
+    """Release the broadcast slot claimed by try_start_broadcast() without
+    ever having reached run_broadcast (e.g. the launch handler failed
+    before scheduling the task). run_broadcast's own finally block remains
+    the release path for a broadcast that actually started."""
+    global _broadcast_running
+    _broadcast_running = False
+
+
 async def _safe_edit_status(bot: Bot, chat_id: int, message_id: int, text: str) -> None:
     try:
         await bot.edit_message_text(text, chat_id=chat_id, message_id=message_id)

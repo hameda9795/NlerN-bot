@@ -341,6 +341,181 @@ async def test_confirm_rejects_when_broadcast_already_running(monkeypatch):
 
 
 @pytest.mark.asyncio
+async def test_broadcast_menu_blocked_when_broadcast_running(monkeypatch):
+    """Bonus fix: the spec calls for blocking at the ENTRY POINT ("📢 پیام
+    همگانی" button), not just at the final confirm tap. Task 5 only guarded
+    admin:bc:go:confirm; admin:bc (the menu/segment-picker entry point) must
+    also refuse to open while a broadcast is running.
+    """
+    import handlers.admin as admin_module
+    from aiogram.methods import AnswerCallbackQuery, EditMessageText
+
+    monkeypatch.setattr(admin_module.bc, "is_broadcast_running", lambda: True)
+
+    admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
+    message = _make_message("")
+    callback = _make_callback("admin:bc", message)
+    state = _fresh_state()
+    bot = _mocked_bot()
+
+    await _dispatch(admin_router, state, callback, bot=bot, user=admin_user)
+
+    answers = _calls(bot, AnswerCallbackQuery)
+    assert any(getattr(a, "show_alert", False) for a in answers), (
+        "expected an alert telling the admin a broadcast is already running"
+    )
+    edits = _calls(bot, EditMessageText)
+    assert not edits, "segment picker must not be shown while a broadcast is running"
+
+
+@pytest.mark.asyncio
+async def test_composing_empty_text_rejected_no_preview():
+    """Finding 2 regression: message.html_text falls back to "" for a
+    sticker/voice-note/photo-without-caption (it never raises, never returns
+    None). Sending such a message during compose must NOT be accepted as the
+    broadcast text or advance to the preview screen.
+    """
+    from aiogram.methods import SendMessage
+
+    admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
+    state = _fresh_state()
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment="all", target_count=5)
+
+    # text="" mirrors what message.html_text resolves to for a non-text message
+    message = _make_message("")
+    bot = _mocked_bot()
+
+    await _dispatch(admin_router, state, message, bot=bot, user=admin_user)
+
+    data = await state.get_data()
+    assert "message_html" not in data
+    # still composing -- the admin can just send real text next
+    assert await state.get_state() == AdminStates.broadcast_composing.state
+
+    sends = _calls(bot, SendMessage)
+    assert sends, "expected a rejection message telling the admin to send text"
+    assert "خالی" in sends[0].text
+
+
+@pytest.mark.asyncio
+async def test_test_send_failure_shows_alert_not_uncaught():
+    """Finding 2 regression: a TelegramAPIError from the test-send (e.g. an
+    empty message body Telegram rejects) must be reported to the admin via a
+    show_alert callback answer, not left to propagate uncaught.
+    """
+    from aiogram.exceptions import TelegramAPIError
+    from aiogram.methods import AnswerCallbackQuery, SendMessage
+
+    admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
+    state = _fresh_state()
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment="all", target_count=5, message_html="<b>hi</b>")
+
+    message = _make_message("")
+    callback = _make_callback("admin:bc:test", message)
+    bot = _mocked_bot()
+
+    async def failing_session(bot_arg, method, timeout=None):
+        if isinstance(method, SendMessage):
+            raise TelegramAPIError(method=method, message="bad request")
+        return True
+
+    bot.session = AsyncMock(side_effect=failing_session)
+
+    await _dispatch(admin_router, state, callback, bot=bot, user=admin_user)
+
+    answers = _calls(bot, AnswerCallbackQuery)
+    assert answers, "expected an alert callback answer instead of an uncaught exception"
+    assert any(getattr(a, "show_alert", False) for a in answers)
+
+
+@pytest.mark.asyncio
+async def test_confirm_rejects_expired_fsm_state_without_claiming_slot(monkeypatch):
+    """Finding 1 regression: an empty/expired FSM state at confirm time (the
+    bot uses MemoryStorage, wiped on every deploy, while a stale confirm
+    keyboard could still be on-screen and tappable) must be rejected BEFORE
+    try_start_broadcast() is ever called -- otherwise the concurrency slot
+    would be claimed with no task ever scheduled to release it, wedging every
+    future broadcast attempt until process restart.
+    """
+    import handlers.admin as admin_module
+    from aiogram.methods import AnswerCallbackQuery
+
+    monkeypatch.setattr(admin_module.bc, "_broadcast_running", False)
+    run_broadcast_mock = AsyncMock(return_value=None)
+    monkeypatch.setattr(admin_module.bc, "run_broadcast", run_broadcast_mock)
+
+    admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
+    state = _fresh_state()  # segment/message_html never set
+
+    message = _make_message("")
+    callback = _make_callback("admin:bc:go:confirm", message)
+    bot = _mocked_bot()
+
+    await _dispatch(admin_router, state, callback, bot=bot, user=admin_user)
+
+    answers = _calls(bot, AnswerCallbackQuery)
+    assert any(getattr(a, "show_alert", False) for a in answers)
+    run_broadcast_mock.assert_not_awaited()
+    # the slot must not have been claimed at all
+    assert not admin_module.bc.is_broadcast_running()
+
+    # Proof the slot wasn't left claimed: an immediate, valid confirm succeeds.
+    state2 = _fresh_state()
+    await state2.set_state(AdminStates.broadcast_composing)
+    await state2.update_data(segment="all", target_count=5, message_html="hi")
+    callback2 = _make_callback("admin:bc:go:confirm", _make_message(""))
+
+    await _dispatch(admin_router, state2, callback2, bot=_mocked_bot(), user=admin_user)
+    await asyncio.sleep(0.05)
+
+    run_broadcast_mock.assert_awaited_once()
+
+
+@pytest.mark.asyncio
+async def test_confirm_launch_releases_slot_on_exception_before_task_creation(monkeypatch):
+    """Finding 1 regression: if anything raises between claiming the slot
+    (try_start_broadcast) and successfully scheduling run_broadcast via
+    asyncio.create_task, the handler must release the slot before re-raising
+    -- otherwise the exception's `finally` never runs (there is no task, so
+    run_broadcast's own finally never fires either) and the slot stays
+    claimed forever.
+    """
+    import handlers.admin as admin_module
+    from aiogram.methods import EditMessageText
+
+    monkeypatch.setattr(admin_module.bc, "_broadcast_running", False)
+    run_broadcast_mock = AsyncMock(return_value=None)
+    monkeypatch.setattr(admin_module.bc, "run_broadcast", run_broadcast_mock)
+
+    admin_user = User(id=1, telegram_id=ADMIN_TG_ID)
+    state = _fresh_state()
+    await state.set_state(AdminStates.broadcast_composing)
+    await state.update_data(segment="all", target_count=5, message_html="hi")
+
+    message = _make_message("")
+    callback = _make_callback("admin:bc:go:confirm", message)
+    bot = _mocked_bot()
+
+    # Force a failure between the claim and asyncio.create_task(...): the
+    # handler's `callback.message.edit_text("🚀 در حال ارسال…")` call is what
+    # sits between try_start_broadcast() and asyncio.create_task().
+    async def failing_session(bot_arg, method, timeout=None):
+        if isinstance(method, EditMessageText):
+            raise RuntimeError("boom")
+        return True
+
+    bot.session = AsyncMock(side_effect=failing_session)
+
+    with pytest.raises(RuntimeError, match="boom"):
+        await _dispatch(admin_router, state, callback, bot=bot, user=admin_user)
+
+    run_broadcast_mock.assert_not_awaited()
+    assert not admin_module.bc.is_broadcast_running()
+
+
+@pytest.mark.asyncio
 async def test_confirm_launch_closes_double_tap_race(monkeypatch):
     """Two back-to-back taps of "✅ مطمئنم، بفرست" (e.g. before the keyboard
     visually updates) must not both schedule a broadcast. `run_broadcast` is

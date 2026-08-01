@@ -14,7 +14,7 @@ from sqlalchemy import select
 
 from bot.config import get_settings
 from database.connection import get_db_session
-from database.models import Payment, Subscription
+from database.models import BlockedAccessEvent, Payment, Subscription
 from utils.tokens import make_subscription_token
 
 logger = logging.getLogger(__name__)
@@ -147,6 +147,12 @@ async def start_trial(*, user_id: int) -> Subscription | None:
         await session.refresh(sub)
         logger.info("Trial started for user %s until %s", user_id, sub.current_period_end)
         return sub
+
+
+async def record_blocked_attempt(*, user_id: int, feature: str) -> None:
+    """Log a denied feature-access attempt (paywall shown), for funnel analysis."""
+    async with get_db_session() as session:
+        session.add(BlockedAccessEvent(user_id=user_id, feature=feature[:64]))
 
 
 async def record_payment(

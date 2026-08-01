@@ -337,6 +337,29 @@ class Payment(Base):
     user: Mapped["User"] = relationship()
 
 
+class BlockedAccessEvent(Base):
+    """One denied feature-access attempt from a non-subscriber.
+
+    Written by ``SubscriptionMiddleware`` every time the paywall is shown, so
+    we can measure how many users actually hit the gate (vs. never touching
+    the bot beyond /start) instead of only inferring it from the absence of a
+    ``Subscription`` row.
+    """
+
+    __tablename__ = "blocked_access_events"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    user_id: Mapped[int] = mapped_column(
+        ForeignKey("users.id", ondelete="CASCADE"), index=True, nullable=False
+    )
+    feature: Mapped[str] = mapped_column(String(64), nullable=False)
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), default=_utcnow, index=True
+    )
+
+    user: Mapped["User"] = relationship()
+
+
 class NotificationSchedule(Base):
     __tablename__ = "notification_schedules"
 

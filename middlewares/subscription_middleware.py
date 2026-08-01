@@ -83,6 +83,13 @@ class SubscriptionMiddleware(BaseMiddleware):
     @staticmethod
     async def _deny(event: TelegramObject, user_id: int) -> None:
         """Show the paywall instead of running the gated handler."""
+        try:
+            await subs.record_blocked_attempt(
+                user_id=user_id, feature=_feature_label(event)
+            )
+        except Exception:  # noqa: BLE001 - logging the funnel must never block the paywall
+            logger.exception("Failed to record blocked-access event for user %s", user_id)
+
         text, keyboard = await build_paywall(user_id)
         if isinstance(event, Message):
             await event.answer(text, reply_markup=keyboard)
@@ -90,3 +97,12 @@ class SubscriptionMiddleware(BaseMiddleware):
             await event.answer("🔒 برای این بخش به اشتراک نیاز داری.", show_alert=True)
             if event.message is not None:
                 await event.message.answer(text, reply_markup=keyboard)
+
+
+def _feature_label(event: TelegramObject) -> str:
+    """Best-effort label for what the user tried to reach, for the funnel log."""
+    if isinstance(event, Message):
+        return event.text or "<non-text message>"
+    if isinstance(event, CallbackQuery):
+        return event.data or "<callback>"
+    return "<other>"

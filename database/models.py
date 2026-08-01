@@ -337,6 +337,27 @@ class Payment(Base):
     user: Mapped["User"] = relationship()
 
 
+class Broadcast(Base):
+    """Audit row for one admin broadcast attempt (one row per send action)."""
+
+    __tablename__ = "broadcasts"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    admin_user_id: Mapped[int] = mapped_column(
+        ForeignKey("users.id", ondelete="CASCADE"), index=True, nullable=False
+    )
+    segment: Mapped[str] = mapped_column(String(32), nullable=False)
+    message_html: Mapped[str] = mapped_column(Text, nullable=False)
+    target_count: Mapped[int] = mapped_column(Integer, default=0)
+    sent_count: Mapped[int] = mapped_column(Integer, default=0)
+    blocked_count: Mapped[int] = mapped_column(Integer, default=0)
+    failed_count: Mapped[int] = mapped_column(Integer, default=0)
+    started_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), default=_utcnow
+    )
+    finished_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True))
+
+
 class NotificationSchedule(Base):
     __tablename__ = "notification_schedules"
 

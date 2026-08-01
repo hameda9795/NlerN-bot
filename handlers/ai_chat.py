@@ -13,7 +13,8 @@ import logging
 import re
 
 from aiogram import F, Router
-from aiogram.filters import Command
+from aiogram.dispatcher.event.bases import SkipHandler
+from aiogram.filters import Command, invert_f
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import (
@@ -27,6 +28,7 @@ from database.models import User
 from keyboards.main_menu import BTN_AI_CHAT, get_main_menu_keyboard
 from services import ai_router
 from utils.admin import is_admin
+from utils.navigation import is_menu_navigation
 
 logger = logging.getLogger(__name__)
 
@@ -113,7 +115,20 @@ async def _send_chunked(message: Message, text: str, **kwargs) -> None:
         await message.answer(chunk, **(kwargs if is_last else {}))
 
 
-@router.message(ChatStates.chatting, F.text)
+@router.message(ChatStates.chatting, is_menu_navigation)
+async def chat_menu_escape(message: Message, state: FSMContext) -> None:
+    """Let a main-menu button or command break out of chat mode.
+
+    ``chat_message`` below excludes menu navigation from its own filter so
+    it can't also match this same update — see the equivalent escape
+    handler in ``handlers/contact_admin.py`` for the full explanation of
+    why ``SkipHandler`` is needed here.
+    """
+    await state.clear()
+    raise SkipHandler
+
+
+@router.message(ChatStates.chatting, F.text, invert_f(is_menu_navigation))
 async def chat_message(
     message: Message, state: FSMContext, user: User | None
 ) -> None:

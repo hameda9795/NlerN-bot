@@ -27,6 +27,25 @@ BTN_VOCAB_B2 = "📖 لغات پرکاربرد B2"
 BTN_PROGRESS = "📊 پیشرفت من"
 
 
+# Buttons that are actually wired up in the menu right now. Any handler that
+# captures free-form text for a multi-step flow (contact-admin relay, AI chat,
+# voice recording, admin search, ...) must yield to these instead of treating
+# a button press as flow input — otherwise the flow's leftover FSM state traps
+# every later button press too. See utils.navigation.is_menu_navigation.
+MENU_BUTTON_TEXTS = frozenset(
+    {
+        BTN_VAJEGAN,
+        BTN_QUIZ,
+        BTN_SENTENCE,
+        BTN_SAVED_WORDS,
+        BTN_AI_CHAT,
+        BTN_SUBSCRIBE,
+        BTN_ADMIN,
+        BTN_CONTACT_ADMIN,
+    }
+)
+
+
 def get_main_menu_keyboard() -> ReplyKeyboardMarkup:
     """Return the persistent main menu keyboard.
 

@@ -15,8 +15,9 @@ from __future__ import annotations
 import logging
 
 from aiogram import F, Router
+from aiogram.dispatcher.event.bases import SkipHandler
 from aiogram.exceptions import TelegramAPIError
-from aiogram.filters import Command
+from aiogram.filters import Command, invert_f
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import (
@@ -31,6 +32,7 @@ from database.models import User
 from keyboards.main_menu import BTN_CONTACT_ADMIN, get_main_menu_keyboard
 from services import support_service
 from utils.admin import is_admin
+from utils.navigation import is_menu_navigation
 
 logger = logging.getLogger(__name__)
 
@@ -83,7 +85,22 @@ async def contact_stop(callback: CallbackQuery, state: FSMContext) -> None:
     await callback.answer()
 
 
-@router.message(ContactStates.messaging)
+@router.message(ContactStates.messaging, is_menu_navigation)
+async def contact_menu_escape(message: Message, state: FSMContext) -> None:
+    """Let a main-menu button or command break out of the messaging state.
+
+    ``relay_to_admins`` below explicitly excludes menu navigation (see its
+    own filter) so it can't also match this same update — otherwise the
+    button press would additionally get relayed to admins as a support
+    message. Raising ``SkipHandler`` lets this router report "unhandled"
+    once state is cleared, so the router for the pressed button (e.g.
+    vajegan) gets its turn.
+    """
+    await state.clear()
+    raise SkipHandler
+
+
+@router.message(ContactStates.messaging, invert_f(is_menu_navigation))
 async def relay_to_admins(message: Message, user: User | None) -> None:
     """Copy the user's message into every admin's chat and track it for replies."""
     if user is None:

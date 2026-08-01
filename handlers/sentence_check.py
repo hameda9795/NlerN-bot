@@ -10,7 +10,8 @@ from __future__ import annotations
 import logging
 
 from aiogram import F, Router
-from aiogram.filters import Command
+from aiogram.dispatcher.event.bases import SkipHandler
+from aiogram.filters import Command, invert_f
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import (
@@ -22,6 +23,7 @@ from aiogram.types import (
 from keyboards.main_menu import BTN_SENTENCE, get_main_menu_keyboard
 from services import deepgram_service as dg
 from services import jomelat_service as js
+from utils.navigation import is_menu_navigation
 
 logger = logging.getLogger(__name__)
 
@@ -100,7 +102,20 @@ async def handle_voice(message: Message, state: FSMContext) -> None:
     await message.answer(feedback, reply_markup=_after_result_keyboard())
 
 
-@router.message(SentenceStates.recording)
+@router.message(SentenceStates.recording, is_menu_navigation)
+async def sentence_menu_escape(message: Message, state: FSMContext) -> None:
+    """Let a main-menu button or command break out of recording mode.
+
+    ``expecting_voice`` below excludes menu navigation from its own filter
+    so it can't also match this same update — see the equivalent escape
+    handler in ``handlers/contact_admin.py`` for the full explanation of
+    why ``SkipHandler`` is needed here.
+    """
+    await state.clear()
+    raise SkipHandler
+
+
+@router.message(SentenceStates.recording, invert_f(is_menu_navigation))
 async def expecting_voice(message: Message) -> None:
     await message.answer("لطفاً یک پیام صوتی 🎤 ضبط کن و بفرست (نه متن).")
 

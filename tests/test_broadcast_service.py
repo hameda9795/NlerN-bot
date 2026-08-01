@@ -112,3 +112,115 @@ async def test_resolve_segment_unknown_raises(patched_broadcast_db):
 
     with pytest.raises(ValueError):
         await bc.resolve_segment_user_ids("bogus")
+
+
+from sqlalchemy import select as sa_select
+
+from database.models import Broadcast
+
+
+class FakeBot:
+    """Minimal stand-in for aiogram.Bot's send_message/edit_message_text."""
+
+    def __init__(self, behaviors: dict[int, list[Exception | None]] | None = None):
+        self.behaviors = behaviors or {}
+        self.sent_to: list[int] = []
+        self.edits: list[str] = []
+
+    async def send_message(self, chat_id, text, parse_mode=None):
+        queue = self.behaviors.get(chat_id)
+        self.sent_to.append(chat_id)
+        if queue:
+            outcome = queue.pop(0)
+            if outcome is not None:
+                raise outcome
+        return None
+
+    async def edit_message_text(self, text, chat_id=None, message_id=None):
+        self.edits.append(text)
+
+
+@pytest.mark.asyncio
+async def test_run_broadcast_counts_success_blocked_and_failed(patched_broadcast_db, monkeypatch):
+    import services.broadcast_service as bc
+    from aiogram.exceptions import TelegramForbiddenError, TelegramRetryAfter
+
+    monkeypatch.setattr(bc, "BROADCAST_DELAY_SECONDS", 0)
+
+    ok_user = await _make_user(patched_broadcast_db, 4001)
+    blocked_user = await _make_user(patched_broadcast_db, 4002)
+    retry_then_ok_user = await _make_user(patched_broadcast_db, 4003)
+    failing_user = await _make_user(patched_broadcast_db, 4004)
+
+    bot = FakeBot({
+        4002: [TelegramForbiddenError(method=None, message="blocked")],
+        4003: [TelegramRetryAfter(method=None, message="flood", retry_after=0), None],
+        4004: [RuntimeError("boom")],
+    })
+
+    await bc.run_broadcast(
+        bot,
+        admin_user_id=ok_user,
+        segment="all",
+        message_html="<b>hi</b>",
+        status_chat_id=555,
+        status_message_id=1,
+    )
+
+    async with patched_broadcast_db() as session:
+        row = (await session.scalars(sa_select(Broadcast))).one()
+
+    assert row.target_count == 4
+    assert row.sent_count == 2  # ok_user + retry_then_ok_user (succeeds on retry)
+    assert row.blocked_count == 1
+    assert row.failed_count == 1
+    assert row.finished_at is not None
+    assert "✅" in bot.edits[-1]
+    assert "موفق: 2" in bot.edits[-1]
+    assert not bc.is_broadcast_running()
+
+
+@pytest.mark.asyncio
+async def test_run_broadcast_sets_running_flag_during_send(patched_broadcast_db, monkeypatch):
+    import services.broadcast_service as bc
+
+    monkeypatch.setattr(bc, "BROADCAST_DELAY_SECONDS", 0)
+    user_id = await _make_user(patched_broadcast_db, 5001)
+    seen_running = []
+
+    class ObservingBot(FakeBot):
+        async def send_message(self, chat_id, text, parse_mode=None):
+            seen_running.append(bc.is_broadcast_running())
+            return await super().send_message(chat_id, text, parse_mode=parse_mode)
+
+    bot = ObservingBot()
+    assert not bc.is_broadcast_running()
+
+    await bc.run_broadcast(
+        bot, admin_user_id=user_id, segment="all", message_html="hi",
+        status_chat_id=1, status_message_id=1,
+    )
+
+    assert seen_running == [True]
+    assert not bc.is_broadcast_running()
+
+
+@pytest.mark.asyncio
+async def test_run_broadcast_reports_progress_before_final_summary(patched_broadcast_db, monkeypatch):
+    import services.broadcast_service as bc
+
+    monkeypatch.setattr(bc, "BROADCAST_DELAY_SECONDS", 0)
+    monkeypatch.setattr(bc, "STATUS_UPDATE_INTERVAL_SECONDS", 0)
+
+    u1 = await _make_user(patched_broadcast_db, 6001)
+    await _make_user(patched_broadcast_db, 6002)
+
+    bot = FakeBot()
+    await bc.run_broadcast(
+        bot, admin_user_id=u1, segment="all", message_html="hi",
+        status_chat_id=1, status_message_id=1,
+    )
+
+    assert any("ارسال‌شده" in e for e in bot.edits[:-1])
+    assert "✅" in bot.edits[-1]
+    assert "موفق: 2" in bot.edits[-1]

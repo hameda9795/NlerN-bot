@@ -16,6 +16,7 @@ from sqlalchemy import (
     ForeignKey,
     Index,
     Integer,
+    JSON,
     String,
     Text,
     UniqueConstraint,
@@ -567,4 +568,62 @@ class SupportMessage(Base):
     admin_message_id: Mapped[int] = mapped_column(Integer, nullable=False)
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), default=_utcnow
+    )
+
+
+class KnmQuestion(Base):
+    """One KNM (inburgering) item, stored faithfully as the source file has it.
+
+    A standalone archive table: unlike ``Question``, nothing serves rows from
+    here, so the item keeps its source shape — three options in their original
+    order, and both the Persian and English explanation sets side by side
+    (``Question`` has room for Persian only).
+
+    ``options_json`` holds one entry per option::
+
+        [{"key": "A", "source_id": "o1", "text_nl": "...",
+          "is_correct": true, "feedback_fa": "...", "feedback_en": "..."}]
+
+    and ``key_terms_json`` the bilingual glossary::
+
+        [{"term_nl": "MAP", "meaning_fa": "...", "meaning_en": "..."}]
+
+    ``item_id`` is the source's own stable identifier and is unique, so a
+    re-import updates rows in place instead of duplicating them.
+    """
+
+    __tablename__ = "knm"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    item_id: Mapped[str] = mapped_column(String(64), unique=True, nullable=False)
+    dataset_id: Mapped[str | None] = mapped_column(String(96))
+    revision: Mapped[int | None] = mapped_column(Integer)
+    # The status the *source file* declares for the item (draft/…), kept as-is.
+    source_status: Mapped[str | None] = mapped_column(String(16))
+
+    # Official KNM blueprint alignment.
+    theme_id: Mapped[str | None] = mapped_column(String(8), index=True)
+    section_id: Mapped[str | None] = mapped_column(String(16))
+    eindterm_id: Mapped[str | None] = mapped_column(String(16), index=True)
+    indicator_id: Mapped[str | None] = mapped_column(String(64))
+    fact_id: Mapped[str | None] = mapped_column(String(64))
+    knowledge_type: Mapped[str | None] = mapped_column(String(32))
+
+    item_type: Mapped[str | None] = mapped_column(String(32))
+    difficulty_level: Mapped[str | None] = mapped_column(String(16))
+    cefr_target: Mapped[str | None] = mapped_column(String(8))
+
+    question_text_nl: Mapped[str] = mapped_column(Text, nullable=False)
+    options_json: Mapped[list] = mapped_column(JSON, nullable=False)
+    correct_option_key: Mapped[str] = mapped_column(String(1), nullable=False)
+
+    explanation_fa: Mapped[str | None] = mapped_column(Text)
+    explanation_en: Mapped[str | None] = mapped_column(Text)
+    key_terms_json: Mapped[list | None] = mapped_column(JSON)
+
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), default=_utcnow
+    )
+    updated_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), default=_utcnow, onupdate=_utcnow
     )

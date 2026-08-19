@@ -10,6 +10,7 @@ from utils.admin import current_is_admin
 # Buttons shown in the main menu:
 BTN_VAJEGAN = "📂 واژگان"
 BTN_QUIZ = "📝 امتحان"
+BTN_KNM = "🇳🇱 آزمون KNM"
 BTN_SENTENCE = "🗣 تمرین جمله"
 BTN_SAVED_WORDS = "⭐ کلمات سخت من"
 BTN_AI_CHAT = "🤖 چت با AI"
@@ -36,6 +37,7 @@ MENU_BUTTON_TEXTS = frozenset(
     {
         BTN_VAJEGAN,
         BTN_QUIZ,
+        BTN_KNM,
         BTN_SENTENCE,
         BTN_SAVED_WORDS,
         BTN_AI_CHAT,
@@ -60,6 +62,7 @@ def get_main_menu_keyboard() -> ReplyKeyboardMarkup:
             KeyboardButton(text=BTN_SENTENCE),
             KeyboardButton(text=BTN_SAVED_WORDS),
         ],
+        [KeyboardButton(text=BTN_KNM)],
     ]
     if current_is_admin():
         rows.append([KeyboardButton(text=BTN_AI_CHAT)])

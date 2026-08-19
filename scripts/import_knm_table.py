@@ -51,7 +51,7 @@ def _key_terms(item: dict[str, Any]) -> list[dict[str, str]]:
     ]
 
 
-def _fields(item: dict[str, Any], *, dataset_id: str) -> dict[str, Any]:
+def _fields(item: dict[str, Any], *, dataset_id: str, position: int) -> dict[str, Any]:
     """Map one source item onto the ``knm`` table's columns."""
     content = item["content"]
     alignment = item["alignment"]
@@ -65,18 +65,19 @@ def _fields(item: dict[str, Any], *, dataset_id: str) -> dict[str, Any]:
     # the serving copy in ``questions`` is the one that gets shuffled.
     options = [
         {
-            "key": OPTION_KEYS[position],
+            "key": OPTION_KEYS[index],
             "source_id": option["id"],
             "text_nl": option["text"]["nl-NL"].strip(),
             "is_correct": option["id"] == correct_id,
             "feedback_fa": (fa_feedback.get(option["id"]) or "").strip() or None,
             "feedback_en": (en_feedback.get(option["id"]) or "").strip() or None,
         }
-        for position, option in enumerate(content["options"])
+        for index, option in enumerate(content["options"])
     ]
 
     return {
         "item_id": item["item_id"],
+        "position": position,
         "dataset_id": dataset_id,
         "revision": item.get("revision"),
         "source_status": item.get("status"),
@@ -108,7 +109,10 @@ async def import_knm_table(*, path: Path, dry_run: bool = False) -> tuple[int, i
             f"{len(problems)} problem(s) found; nothing was written:\n  {shown}"
         )
 
-    rows = [_fields(item, dataset_id=dataset_id) for item in items]
+    rows = [
+        _fields(item, dataset_id=dataset_id, position=position)
+        for position, item in enumerate(items)
+    ]
     missing_en = sum(1 for r in rows if not r["explanation_en"])
 
     print(f"Dataset      : {dataset_id}")

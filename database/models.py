@@ -596,6 +596,10 @@ class KnmQuestion(Base):
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
     item_id: Mapped[str] = mapped_column(String(64), unique=True, nullable=False)
+    # 0-based index in the source file. The exam groups items by position, so
+    # this must not be derived from ``id`` — a re-import upserts by item_id and
+    # would append later additions out of order.
+    position: Mapped[int] = mapped_column(Integer, default=0, index=True)
     dataset_id: Mapped[str | None] = mapped_column(String(96))
     revision: Mapped[int | None] = mapped_column(Integer)
     # The status the *source file* declares for the item (draft/…), kept as-is.
@@ -625,5 +629,34 @@ class KnmQuestion(Base):
         DateTime(timezone=True), default=_utcnow
     )
     updated_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), default=_utcnow, onupdate=_utcnow
+    )
+
+
+class KnmAttempt(Base):
+    """One user's latest answer to one KNM question.
+
+    A single row per (user, question): answering again overwrites it, so the
+    group menu's "12/40" is a straight count and re-taking a group is just a
+    delete. Kept apart from ``UserQuestionAttempt`` (which keeps full history
+    for the main question bank) because the KNM flow needs resume state, not
+    an audit trail.
+    """
+
+    __tablename__ = "knm_attempts"
+    __table_args__ = (
+        UniqueConstraint("user_id", "knm_id", name="uq_knm_attempt_user_question"),
+    )
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    user_id: Mapped[int] = mapped_column(
+        ForeignKey("users.id", ondelete="CASCADE"), index=True, nullable=False
+    )
+    knm_id: Mapped[int] = mapped_column(
+        ForeignKey("knm.id", ondelete="CASCADE"), index=True, nullable=False
+    )
+    selected_option_key: Mapped[str] = mapped_column(String(1), nullable=False)
+    is_correct: Mapped[bool] = mapped_column(Boolean, default=False)
+    answered_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), default=_utcnow, onupdate=_utcnow
     )

@@ -19,6 +19,7 @@ from handlers import (
     common,
     contact_admin,
     exam,
+    knm,
     quiz,
     sentence_check,
     subscription,
@@ -63,6 +64,7 @@ def create_dispatcher() -> Dispatcher:
     dp.include_router(subscription.router)
     dp.include_router(vajegan.router)
     dp.include_router(exam.router)
+    dp.include_router(knm.router)
     dp.include_router(quiz.router)
     dp.include_router(sentence_check.router)
     dp.include_router(vocab_b2.router)

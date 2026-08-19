@@ -5,7 +5,7 @@ from __future__ import annotations
 import asyncio
 import logging
 
-from sqlalchemy import text
+from sqlalchemy import inspect, text
 from sqlalchemy.ext.asyncio import AsyncEngine
 
 from bot.config import get_settings
@@ -15,6 +15,19 @@ from database.models import Base
 logger = logging.getLogger(__name__)
 
 _MOLLIE_INDEX = "ux_subscription_mollie_subscription_id"
+_KNM_POSITION_INDEX = "ix_knm_position"
+
+
+def _has_knm_position(sync_conn) -> bool:
+    """True when the knm table already carries the ``position`` column.
+
+    Also true when the table is absent, since ``create_all`` will have just
+    built it with the column in place.
+    """
+    inspector = inspect(sync_conn)
+    if "knm" not in inspector.get_table_names():
+        return True
+    return any(column["name"] == "position" for column in inspector.get_columns("knm"))
 
 
 class MigrationConflictError(RuntimeError):
@@ -65,6 +78,19 @@ async def apply_migrations(*, db_engine: AsyncEngine = engine) -> None:
                 f"CREATE UNIQUE INDEX IF NOT EXISTS {_MOLLIE_INDEX} "
                 "ON subscriptions (mollie_subscription_id)"
             )
+        )
+
+        # ``create_all`` creates missing *tables* but never adds a column to a
+        # table that already exists, so ``knm.position`` needs saying out loud.
+        # Existing rows land on 0; re-running the importer fills in real values.
+        # Checked via the inspector rather than ``ADD COLUMN IF NOT EXISTS``,
+        # which SQLite does not support.
+        if not await conn.run_sync(_has_knm_position):
+            await conn.execute(
+                text("ALTER TABLE knm ADD COLUMN position INTEGER NOT NULL DEFAULT 0")
+            )
+        await conn.execute(
+            text(f"CREATE INDEX IF NOT EXISTS {_KNM_POSITION_INDEX} ON knm (position)")
         )
 
     logger.info("Database migrations applied successfully.")

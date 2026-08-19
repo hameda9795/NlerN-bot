@@ -23,6 +23,21 @@ _TIMEOUT = 20.0
 class MollieError(Exception):
     """Raised when a Mollie API call fails."""
 
+    def __init__(
+        self,
+        message: str,
+        *,
+        status_code: int | None = None,
+        response_body: str | None = None,
+        method: str | None = None,
+        path: str | None = None,
+    ) -> None:
+        super().__init__(message)
+        self.status_code = status_code
+        self.response_body = response_body
+        self.method = method
+        self.path = path
+
 
 def _api_key() -> str:
     key = get_settings().subscription.mollie_api_key.strip()
@@ -37,10 +52,26 @@ def _amount(value_eur: float) -> dict[str, str]:
 
 async def _request(method: str, path: str, payload: dict[str, Any] | None = None) -> dict[str, Any]:
     headers = {"Authorization": f"Bearer {_api_key()}"}
-    async with httpx.AsyncClient(timeout=_TIMEOUT) as client:
-        resp = await client.request(method, f"{_API_BASE}{path}", json=payload, headers=headers)
+    try:
+        async with httpx.AsyncClient(timeout=_TIMEOUT) as client:
+            resp = await client.request(
+                method, f"{_API_BASE}{path}", json=payload, headers=headers
+            )
+    except httpx.HTTPError as exc:
+        raise MollieError(
+            f"{method} {path} failed before receiving a response: {exc}",
+            method=method,
+            path=path,
+        ) from exc
     if resp.status_code >= 400:
-        raise MollieError(f"{method} {path} -> {resp.status_code}: {resp.text[:300]}")
+        body = resp.text[:1000]
+        raise MollieError(
+            f"{method} {path} -> {resp.status_code}: {body[:300]}",
+            status_code=resp.status_code,
+            response_body=body,
+            method=method,
+            path=path,
+        )
     if not resp.text:
         return {}
     return resp.json()
@@ -101,6 +132,13 @@ async def create_subscription(
             "webhookUrl": webhook_url,
             "startDate": start_date,
         },
+    )
+
+
+async def get_subscription(*, customer_id: str, subscription_id: str) -> dict[str, Any]:
+    """Fetch one Mollie subscription for recovery/status checks."""
+    return await _request(
+        "GET", f"/customers/{customer_id}/subscriptions/{subscription_id}"
     )
 
 

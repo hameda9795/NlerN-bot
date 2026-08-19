@@ -169,10 +169,19 @@ async def cancel_subscription(*, user_id: int) -> None:
     sub = await subs.get_subscription(user_id=user_id)
     if sub is not None and sub.mollie_customer_id and sub.mollie_subscription_id:
         try:
-            await mollie.cancel_subscription(
+            remote_sub = await mollie.get_subscription(
                 customer_id=sub.mollie_customer_id,
                 subscription_id=sub.mollie_subscription_id,
             )
-        except mollie.MollieError:
-            logger.warning("Mollie cancel failed for user %s (already gone?)", user_id, exc_info=True)
+            if remote_sub.get("status") != "canceled":
+                await mollie.cancel_subscription(
+                    customer_id=sub.mollie_customer_id,
+                    subscription_id=sub.mollie_subscription_id,
+                )
+        except mollie.MollieError as exc:
+            if exc.status_code == 404:
+                logger.info("Mollie subscription already absent for user %s", user_id)
+            else:
+                logger.exception("Admin Mollie cancel failed for user %s", user_id)
+                raise
     await subs.cancel(user_id=user_id)

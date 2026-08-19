@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from unittest.mock import AsyncMock
 
 import pytest
-from aiogram import Bot, Router
+from aiogram import Bot, F, Router
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.fsm.storage.base import StorageKey
@@ -14,7 +14,7 @@ from aiogram.types import CallbackQuery, Chat, Message
 from aiogram.types import User as TgUser
 
 from database.models import User
-from handlers.admin import AdminStates, router as admin_router
+from handlers.admin import AdminGuardMiddleware, AdminStates, router as admin_router
 
 ADMIN_TG_ID = 111  # matches ADMIN_USER_ID="111,222" set in tests/conftest.py
 NON_ADMIN_TG_ID = 999
@@ -173,6 +173,164 @@ async def test_non_admin_cannot_compose_broadcast():
 
     data = await state.get_data()
     assert "message_html" not in data
+
+
+@pytest.mark.asyncio
+async def test_non_admin_cannot_invoke_unchecked_admin_mutation(monkeypatch):
+    """The router-level guard must protect legacy callbacks without checks."""
+    import handlers.admin as admin_module
+    from aiogram.methods import AnswerCallbackQuery
+
+    extend_access = AsyncMock()
+    monkeypatch.setattr(admin_module.admin_service, "extend_access", extend_access)
+    non_admin = User(id=2, telegram_id=NON_ADMIN_TG_ID)
+    message = _make_message("", from_id=NON_ADMIN_TG_ID)
+    callback = _make_callback("admin:go:ext:1:30", message)
+    bot = _mocked_bot()
+
+    await _dispatch(
+        admin_router,
+        _fresh_state(chat_id=NON_ADMIN_TG_ID),
+        callback,
+        bot=bot,
+        user=non_admin,
+    )
+
+    extend_access.assert_not_awaited()
+    answers = _calls(bot, AnswerCallbackQuery)
+    assert len(answers) == 1
+    assert answers[0].show_alert is True
+
+
+@pytest.mark.asyncio
+async def test_admin_router_rejects_group_callbacks(monkeypatch):
+    """Even a real admin cannot expose dashboard actions inside a group."""
+    import handlers.admin as admin_module
+    from aiogram.methods import AnswerCallbackQuery
+
+    extend_access = AsyncMock()
+    monkeypatch.setattr(admin_module.admin_service, "extend_access", extend_access)
+    tg_user = TgUser(id=ADMIN_TG_ID, is_bot=False, first_name="Admin")
+    group_message = Message(
+        message_id=1,
+        date=datetime.now(timezone.utc),
+        chat=Chat(id=-100123, type="group"),
+        from_user=tg_user,
+        text="",
+    )
+    callback = _make_callback("admin:go:ext:1:30", group_message)
+    bot = _mocked_bot()
+
+    await _dispatch(
+        admin_router,
+        _fresh_state(),
+        callback,
+        bot=bot,
+        user=User(id=1, telegram_id=ADMIN_TG_ID),
+    )
+
+    extend_access.assert_not_awaited()
+    assert len(_calls(bot, AnswerCallbackQuery)) == 1
+
+
+@pytest.mark.asyncio
+async def test_non_admin_admin_command_gets_denial_message():
+    from aiogram.methods import SendMessage
+
+    message = _make_message("/admin", from_id=NON_ADMIN_TG_ID)
+    bot = _mocked_bot()
+
+    await _dispatch(
+        admin_router,
+        _fresh_state(chat_id=NON_ADMIN_TG_ID),
+        message,
+        bot=bot,
+        user=User(id=2, telegram_id=NON_ADMIN_TG_ID),
+    )
+
+    sends = _calls(bot, SendMessage)
+    assert len(sends) == 1
+    assert "فقط برای مدیر" in sends[0].text
+
+
+@pytest.mark.asyncio
+async def test_admin_guard_does_not_swallow_unrelated_messages():
+    from aiogram.methods import SendMessage
+
+    message = _make_message("سلام", from_id=NON_ADMIN_TG_ID)
+    bot = _mocked_bot()
+
+    await _dispatch(
+        admin_router,
+        _fresh_state(chat_id=NON_ADMIN_TG_ID),
+        message,
+        bot=bot,
+        user=User(id=2, telegram_id=NON_ADMIN_TG_ID),
+    )
+
+    assert not _calls(bot, SendMessage)
+
+
+@pytest.mark.asyncio
+async def test_admin_guard_protects_future_callback_without_admin_prefix():
+    """Protection must follow handler membership, not callback naming conventions."""
+    from aiogram.methods import AnswerCallbackQuery
+
+    future_router = Router()
+    future_router.callback_query.middleware(AdminGuardMiddleware())
+    called = AsyncMock()
+
+    async def future_handler(callback: CallbackQuery) -> None:
+        await called(callback)
+
+    future_router.callback_query.register(future_handler, F.data == "future-action")
+    message = _make_message("", from_id=NON_ADMIN_TG_ID)
+    callback = _make_callback("future-action", message)
+    bot = _mocked_bot()
+
+    await _dispatch(
+        future_router,
+        _fresh_state(chat_id=NON_ADMIN_TG_ID),
+        callback,
+        bot=bot,
+        user=User(id=2, telegram_id=NON_ADMIN_TG_ID),
+    )
+
+    called.assert_not_awaited()
+    assert len(_calls(bot, AnswerCallbackQuery)) == 1
+
+
+@pytest.mark.asyncio
+async def test_admin_cancel_handler_reports_mollie_failure(monkeypatch):
+    """The dashboard must not claim success when remote cancellation fails."""
+    import handlers.admin as admin_module
+    from aiogram.methods import AnswerCallbackQuery
+
+    monkeypatch.setattr(
+        admin_module.admin_service,
+        "cancel_subscription",
+        AsyncMock(
+            side_effect=admin_module.mollie.MollieError(
+                "server error", status_code=503
+            )
+        ),
+    )
+    message = _make_message("")
+    callback = _make_callback("admin:go:cxl:7", message)
+    bot = _mocked_bot()
+
+    await _dispatch(
+        admin_router,
+        _fresh_state(),
+        callback,
+        bot=bot,
+        user=User(id=1, telegram_id=ADMIN_TG_ID),
+    )
+
+    answers = _calls(bot, AnswerCallbackQuery)
+    assert len(answers) == 1
+    assert answers[0].show_alert is True
+    assert "تغییر نکرد" in answers[0].text
 
 
 @pytest.mark.asyncio

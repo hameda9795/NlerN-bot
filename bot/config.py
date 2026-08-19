@@ -223,6 +223,13 @@ class SubscriptionConfig(BaseSettings):
         alias="SUBSCRIPTION_TOKEN_SECRET",
         description="HMAC secret used to sign the per-user checkout-link token.",
     )
+    token_max_age_seconds: int = Field(
+        default=3600,
+        alias="SUBSCRIPTION_TOKEN_MAX_AGE_SECONDS",
+        ge=300,
+        le=604800,
+        description="Maximum age of checkout/account bearer links, in seconds.",
+    )
     price_eur: float = Field(
         default=4.99,
         alias="SUBSCRIPTION_PRICE_EUR",

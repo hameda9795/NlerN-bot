@@ -277,7 +277,14 @@ class Subscription(Base):
     """
 
     __tablename__ = "subscriptions"
-    __table_args__ = (UniqueConstraint("user_id", name="uq_subscription_user"),)
+    __table_args__ = (
+        UniqueConstraint("user_id", name="uq_subscription_user"),
+        Index(
+            "ux_subscription_mollie_subscription_id",
+            "mollie_subscription_id",
+            unique=True,
+        ),
+    )
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
     user_id: Mapped[int] = mapped_column(

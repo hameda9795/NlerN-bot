@@ -14,6 +14,8 @@ os.environ.setdefault("BOT_TOKEN", "123456789:AAEEdummytokenForTestsOnly00000000
 os.environ.setdefault("ADMIN_USER_ID", "111,222")
 os.environ.setdefault("OPENAI_API_KEY", "")
 os.environ.setdefault("DATABASE_URL", "sqlite+aiosqlite:///:memory:")
+os.environ.setdefault("SUBSCRIPTION_TOKEN_SECRET", "test-token-secret-at-least-32-bytes")
+os.environ.setdefault("SUBSCRIPTION_TOKEN_MAX_AGE_SECONDS", "3600")
 
 from sqlalchemy.ext.asyncio import (  # noqa: E402
     AsyncSession,

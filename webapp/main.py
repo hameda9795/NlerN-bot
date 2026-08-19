@@ -11,6 +11,7 @@ Run locally:  uvicorn webapp.main:app --reload --port 8100
 
 from __future__ import annotations
 
+import asyncio
 import logging
 from datetime import date, datetime, timedelta, timezone
 
@@ -27,12 +28,10 @@ from database.models import User
 from services import mollie_client as mollie
 from services import subscription_service as subs
 from utils.tokens import verify_subscription_token
-from webapp.api_questions import router as questions_router
 
 logger = logging.getLogger(__name__)
 
 app = FastAPI(title="NLern Abonnement")
-app.include_router(questions_router)
 # Self-hosted Vazirmatn (SIL OFL) so the Persian text renders in a proper
 # Persian typeface everywhere, cached by the browser like any other asset —
 # no external font CDN dependency (Google Fonts et al. can be slow/blocked
@@ -46,10 +45,22 @@ _PRICE = _settings.subscription.price_eur
 # recurring charge never causes a coverage gap (the webhook re-extends monthly).
 _ACCESS_DAYS = 34
 _KVK = "99202301"
+_TERMINAL_PAYMENT_STATUSES = {"paid", "failed", "expired", "canceled"}
+_payment_flow_lock = asyncio.Lock()
 
 
 def _now() -> datetime:
     return datetime.now(timezone.utc)
+
+
+def _verified_user_id(token: str) -> int | None:
+    """Verify a short-lived membership-site bearer token."""
+    if not token:
+        return None
+    return verify_subscription_token(
+        token,
+        max_age_seconds=_settings.subscription.token_max_age_seconds,
+    )
 
 
 def _next_month(d: date) -> date:
@@ -173,7 +184,7 @@ async def health() -> PlainTextResponse:
 @app.get("/abonnement", response_class=HTMLResponse)
 async def page(token: str = "") -> HTMLResponse:
     """Show the plan + payment form for the user identified by the token."""
-    user_id = verify_subscription_token(token) if token else None
+    user_id = _verified_user_id(token)
     if user_id is None:
         return _page(
             "لینک نامعتبر",
@@ -196,7 +207,7 @@ async def page(token: str = "") -> HTMLResponse:
 @app.post("/abonnement/pay")
 async def pay(token: str = Form(...), email: str = Form(...)):
     """Create the Mollie customer + first iDEAL payment, then redirect to Mollie."""
-    user_id = verify_subscription_token(token)
+    user_id = _verified_user_id(token)
     if user_id is None:
         return _page("لینک نامعتبر", "<h1>🔗 لینک نامعتبر</h1><p>از ربات لینک تازه بگیر.</p>")
     if not _settings.subscription.mollie_enabled:
@@ -207,7 +218,74 @@ async def pay(token: str = Form(...), email: str = Form(...)):
     if user is None:
         return _page("خطا", "<h1>کاربر پیدا نشد</h1><p>دوباره از ربات /start بزن.</p>")
 
+    # The deployed web container runs one worker. Serializing its short payment
+    # state transitions closes double-click and webhook interleaving races.
+    async with _payment_flow_lock:
+        return await _create_or_reuse_checkout(user_id=user_id, email=email, user=user)
+
+
+async def _create_or_reuse_checkout(
+    *, user_id: int, email: str, user: User
+) -> HTMLResponse | RedirectResponse:
+    """Reuse an unfinished checkout or create exactly one new first payment."""
+
     sub = await subs.get_or_create(user_id=user_id)
+    if sub.mollie_subscription_id and sub.status == subs.STATUS_PAST_DUE:
+        return _page(
+            "پرداخت در حال پیگیری",
+            "<h1>⏳ پرداخت قبلی در حال پیگیری است</h1>"
+            "<p>Mollie پرداخت ناموفق را خودکار دوباره امتحان می‌کند. "
+            "برای جلوگیری از برداشت دوباره، پرداخت جدیدی ساخته نشد. "
+            "اگر می‌خواهی روش پرداخت را از نو تنظیم کنی، از بخش مدیریت "
+            "اشتراک داخل ربات گزینه «لغو و شروع دوباره» را بزن.</p>",
+        )
+    if (
+        sub.mollie_subscription_id
+        and sub.status not in (subs.STATUS_CANCELED, subs.STATUS_EXPIRED)
+    ):
+        return _page(
+            "اشتراک موجود",
+            "<h1>✅ اشتراک قبلاً ساخته شده</h1>"
+            "<p>برای جلوگیری از برداشت دوباره، پرداخت جدیدی ایجاد نشد. "
+            "وضعیت اشتراکت را از بخش مدیریت اشتراک داخل ربات ببین.</p>",
+        )
+
+    pending_payment = await subs.get_pending_first_payment(user_id=user_id)
+    if pending_payment is not None:
+        existing_payment = await mollie.get_payment(
+            pending_payment.mollie_payment_id
+        )
+        existing_status = str(existing_payment.get("status") or "open")
+        if existing_status not in _TERMINAL_PAYMENT_STATUSES:
+            checkout = (
+                existing_payment.get("_links", {})
+                .get("checkout", {})
+                .get("href")
+            )
+            if checkout:
+                return RedirectResponse(checkout, status_code=303)
+            return _page(
+                "پرداخت در انتظار",
+                "<h1>⏳ یک پرداخت در حال بررسی است</h1>"
+                "<p>چند دقیقه بعد دوباره وضعیت اشتراک را داخل ربات بررسی کن.</p>",
+            )
+        await subs.record_payment(
+            user_id=user_id,
+            mollie_payment_id=pending_payment.mollie_payment_id,
+            amount_eur=float(
+                existing_payment.get("amount", {}).get("value", _PRICE)
+            ),
+            status=existing_status,
+            sequence_type="first",
+            paid_at=None,
+        )
+        if existing_status == "paid":
+            return _page(
+                "پرداخت تأیید شد",
+                "<h1>✅ پرداخت قبلی تأیید شده</h1>"
+                "<p>اشتراکت در حال فعال‌شدن است؛ پرداخت جدیدی ایجاد نشد.</p>",
+            )
+
     customer_id = sub.mollie_customer_id
     if not customer_id:
         customer = await mollie.create_customer(
@@ -228,6 +306,14 @@ async def pay(token: str = Form(...), email: str = Form(...)):
     checkout = payment.get("_links", {}).get("checkout", {}).get("href")
     if not checkout:
         return _page("خطا", "<h1>خطا در ایجاد پرداخت</h1><p>کمی بعد دوباره امتحان کن.</p>")
+    await subs.record_payment(
+        user_id=user_id,
+        mollie_payment_id=str(payment["id"]),
+        amount_eur=_PRICE,
+        status=str(payment.get("status") or "open"),
+        sequence_type="first",
+        paid_at=None,
+    )
     return RedirectResponse(checkout, status_code=303)
 
 
@@ -244,54 +330,110 @@ async def done() -> HTMLResponse:
 @app.post("/webhook/mollie")
 async def webhook(id: str = Form(...)) -> PlainTextResponse:
     """Mollie calls this with a payment id; we fetch the real status from Mollie."""
-    payment = await mollie.get_payment(id)  # raises -> 500 -> Mollie retries
-    meta = payment.get("metadata") or {}
-    raw_uid = meta.get("user_id")
-    if raw_uid is None:
-        logger.warning("Mollie webhook %s has no user_id metadata", id)
-        return PlainTextResponse("ok")
-    user_id = int(raw_uid)
-    status = payment.get("status")
-    seq = payment.get("sequenceType")
-    base = _settings.subscription.site_base_url.rstrip("/")
+    async with _payment_flow_lock:
+        payment = await mollie.get_payment(id)  # raises -> 500 -> Mollie retries
+        status = str(payment.get("status") or "")
+        seq = payment.get("sequenceType")
+        if status in _TERMINAL_PAYMENT_STATUSES and await subs.payment_has_status(
+            mollie_payment_id=id, status=status
+        ):
+            return PlainTextResponse("ok")
 
-    if status == "paid":
-        if seq == "first":
-            customer_id = payment.get("customerId")
-            sub_obj = await mollie.create_subscription(
-                customer_id=customer_id,
-                amount_eur=_PRICE,
-                description="NLern — اشتراک ماهانه",
-                webhook_url=f"{base}/webhook/mollie",
-                start_date=_next_month(date.today()).isoformat(),
+        meta = payment.get("metadata") or {}
+        raw_uid = meta.get("user_id")
+        user_id: int | None = None
+        if raw_uid is not None:
+            try:
+                user_id = int(raw_uid)
+            except (TypeError, ValueError):
+                logger.warning("Mollie webhook %s has invalid user_id metadata", id)
+
+        mollie_subscription_id = payment.get("subscriptionId")
+        if user_id is None and mollie_subscription_id:
+            local_sub = await subs.get_subscription_by_mollie_id(
+                mollie_subscription_id=str(mollie_subscription_id)
             )
-            await subs.activate_until(
+            if local_sub is not None:
+                user_id = local_sub.user_id
+
+        if user_id is None:
+            logger.warning(
+                "Mollie webhook %s cannot be associated with a local user", id
+            )
+            return PlainTextResponse("ok")
+
+        base = _settings.subscription.site_base_url.rstrip("/")
+        if status == "paid":
+            if seq == "first":
+                current_sub = await subs.get_subscription(user_id=user_id)
+                has_current_recurring = bool(
+                    current_sub
+                    and current_sub.mollie_subscription_id
+                    and current_sub.status
+                    not in (subs.STATUS_CANCELED, subs.STATUS_EXPIRED)
+                )
+                if not has_current_recurring:
+                    customer_id = payment.get("customerId")
+                    if not customer_id:
+                        raise mollie.MollieError(
+                            "Paid first payment has no Mollie customer id."
+                        )
+                    sub_obj = await mollie.create_subscription(
+                        customer_id=customer_id,
+                        amount_eur=_PRICE,
+                        description="NLern — اشتراک ماهانه",
+                        webhook_url=f"{base}/webhook/mollie",
+                        start_date=_next_month(date.today()).isoformat(),
+                    )
+                    new_subscription_id = sub_obj.get("id")
+                    if not new_subscription_id:
+                        raise mollie.MollieError(
+                            "Mollie create-subscription response has no id."
+                        )
+                    await subs.activate_until(
+                        user_id=user_id,
+                        period_end=_now() + timedelta(days=_ACCESS_DAYS),
+                        mollie_customer_id=customer_id,
+                        mollie_mandate_id=payment.get("mandateId"),
+                        mollie_subscription_id=str(new_subscription_id),
+                    )
+                    logger.info(
+                        "First payment paid; subscription started for user %s",
+                        user_id,
+                    )
+                else:
+                    logger.info(
+                        "Ignored duplicate first-payment subscription creation for user %s",
+                        user_id,
+                    )
+            elif seq == "recurring":
+                await subs.activate_until(
+                    user_id=user_id,
+                    period_end=_now() + timedelta(days=_ACCESS_DAYS),
+                )
+                logger.info("Recurring payment paid; extended user %s", user_id)
+        elif status in ("failed", "expired", "canceled") and seq == "recurring":
+            await subs.mark_past_due(user_id=user_id)
+            logger.info(
+                "Recurring payment %s for user %s; marked past_due",
+                status,
+                user_id,
+            )
+
+        if status in _TERMINAL_PAYMENT_STATUSES:
+            paid_at_raw = payment.get("paidAt")
+            await subs.record_payment(
                 user_id=user_id,
-                period_end=_now() + timedelta(days=_ACCESS_DAYS),
-                mollie_customer_id=customer_id,
-                mollie_mandate_id=payment.get("mandateId"),
-                mollie_subscription_id=sub_obj.get("id"),
+                mollie_payment_id=id,
+                amount_eur=float(
+                    payment.get("amount", {}).get("value", _PRICE)
+                ),
+                status=status,
+                sequence_type=seq,
+                paid_at=(
+                    datetime.fromisoformat(paid_at_raw) if paid_at_raw else None
+                ),
             )
-            logger.info("First payment paid; subscription started for user %s", user_id)
-        elif seq == "recurring":
-            await subs.activate_until(
-                user_id=user_id, period_end=_now() + timedelta(days=_ACCESS_DAYS)
-            )
-            logger.info("Recurring payment paid; extended user %s", user_id)
-    elif status in ("failed", "expired", "canceled") and seq == "recurring":
-        await subs.mark_past_due(user_id=user_id)
-        logger.info("Recurring payment %s for user %s; marked past_due", status, user_id)
-
-    if status in ("paid", "failed", "expired", "canceled"):
-        paid_at_raw = payment.get("paidAt")
-        await subs.record_payment(
-            user_id=user_id,
-            mollie_payment_id=id,
-            amount_eur=float(payment.get("amount", {}).get("value", _PRICE)),
-            status=status,
-            sequence_type=seq,
-            paid_at=datetime.fromisoformat(paid_at_raw) if paid_at_raw else None,
-        )
 
     return PlainTextResponse("ok")
 
@@ -299,7 +441,7 @@ async def webhook(id: str = Form(...)) -> PlainTextResponse:
 @app.get("/account", response_class=HTMLResponse)
 async def account_page(token: str = "") -> HTMLResponse:
     """Show subscription status, a cancel button, and recent payment history."""
-    user_id = verify_subscription_token(token) if token else None
+    user_id = _verified_user_id(token)
     if user_id is None:
         return _page(
             "لینک نامعتبر",
@@ -326,13 +468,25 @@ async def account_page(token: str = "") -> HTMLResponse:
         else:
             status_html = _badge(sub.status, "neutral")
 
-    cancel_html = ""
+    action_html = ""
     if (
+        sub is not None
+        and sub.mollie_subscription_id
+        and sub.status == subs.STATUS_PAST_DUE
+    ):
+        action_html = (
+            '<p class="muted">Mollie پرداخت را تا چند بار خودکار دوباره امتحان می‌کند. '
+            "می‌توانی منتظر بمانی؛ یا اشتراک قبلی را لغو و روش پرداخت را از نو تنظیم کنی.</p>"
+            '<form method="post" action="/account/restart">'
+            f'<input type="hidden" name="token" value="{token}">'
+            '<button type="submit" class="btn">لغو و شروع دوباره</button></form>'
+        )
+    elif (
         sub is not None
         and sub.mollie_subscription_id
         and sub.status not in (subs.STATUS_CANCELED, subs.STATUS_EXPIRED)
     ):
-        cancel_html = (
+        action_html = (
             f'<form method="post" action="/account/cancel">'
             f'<input type="hidden" name="token" value="{token}">'
             '<button type="submit" class="btn btn-secondary">لغو اشتراک</button></form>'
@@ -353,27 +507,100 @@ async def account_page(token: str = "") -> HTMLResponse:
 
     body = (
         "<h1>⚙️ مدیریت اشتراک</h1>"
-        f"{status_html}{cancel_html}{history_html}"
+        f"{status_html}{action_html}{history_html}"
     )
     return _page("مدیریت اشتراک NLern", body)
+
+
+@app.post("/account/restart")
+async def account_restart(token: str = Form(...)):
+    """Cancel a past-due remote subscription before enabling a fresh checkout."""
+    user_id = _verified_user_id(token)
+    if user_id is None:
+        return _page(
+            "لینک نامعتبر",
+            "<h1>🔗 لینک نامعتبر</h1><p>از ربات لینک تازه بگیر.</p>",
+        )
+
+    async with _payment_flow_lock:
+        sub = await subs.get_subscription(user_id=user_id)
+        if sub is None or sub.status != subs.STATUS_PAST_DUE:
+            return _page(
+                "امکان شروع دوباره نیست",
+                "<h1>ℹ️ اشتراک در وضعیت پرداخت ناموفق نیست</h1>"
+                "<p>وضعیت اشتراکت را دوباره از داخل ربات باز کن.</p>",
+            )
+        if not sub.mollie_customer_id or not sub.mollie_subscription_id:
+            logger.error("Past-due user %s has incomplete Mollie identifiers", user_id)
+            return _page(
+                "خطا",
+                "<h1>⚠️ شروع دوباره ممکن نشد</h1>"
+                "<p>لطفاً با مدیریت تماس بگیر؛ پرداخت جدیدی ایجاد نشده است.</p>",
+            )
+
+        try:
+            remote_sub = await mollie.get_subscription(
+                customer_id=sub.mollie_customer_id,
+                subscription_id=sub.mollie_subscription_id,
+            )
+            if remote_sub.get("status") != "canceled":
+                await mollie.cancel_subscription(
+                    customer_id=sub.mollie_customer_id,
+                    subscription_id=sub.mollie_subscription_id,
+                )
+        except mollie.MollieError as exc:
+            if exc.status_code == 404:
+                logger.info(
+                    "Past-due Mollie subscription already absent for user %s",
+                    user_id,
+                )
+            else:
+                logger.exception(
+                    "Could not confirm cancellation before restarting user %s",
+                    user_id,
+                )
+                return _page(
+                    "لغو ناموفق",
+                    "<h1>⚠️ لغو اشتراک قبلی تأیید نشد</h1>"
+                    "<p>برای جلوگیری از برداشت دوباره، پرداخت جدیدی ساخته نشد. "
+                    "کمی بعد دوباره امتحان کن یا با مدیریت تماس بگیر.</p>",
+                )
+
+        await subs.prepare_subscription_restart(user_id=user_id)
+
+    return RedirectResponse(f"/abonnement?token={token}", status_code=303)
 
 
 @app.post("/account/cancel")
 async def account_cancel(token: str = Form(...)):
     """Cancel the Mollie subscription (if any) and mark it canceled locally."""
-    user_id = verify_subscription_token(token)
+    user_id = _verified_user_id(token)
     if user_id is None:
         return _page("لینک نامعتبر", "<h1>🔗 لینک نامعتبر</h1><p>از ربات لینک تازه بگیر.</p>")
 
     sub = await subs.get_subscription(user_id=user_id)
     if sub is not None and sub.mollie_customer_id and sub.mollie_subscription_id:
         try:
-            await mollie.cancel_subscription(
+            remote_sub = await mollie.get_subscription(
                 customer_id=sub.mollie_customer_id,
                 subscription_id=sub.mollie_subscription_id,
             )
-        except mollie.MollieError:
-            logger.warning("Mollie cancel failed for user %s (already gone?)", user_id, exc_info=True)
+            if remote_sub.get("status") != "canceled":
+                await mollie.cancel_subscription(
+                    customer_id=sub.mollie_customer_id,
+                    subscription_id=sub.mollie_subscription_id,
+                )
+        except mollie.MollieError as exc:
+            if exc.status_code == 404:
+                logger.info("Mollie subscription already absent for user %s", user_id)
+            else:
+                logger.exception("Mollie cancel failed for user %s", user_id)
+                return _page(
+                    "لغو ناموفق",
+                    "<h1>⚠️ لغو اشتراک تأیید نشد</h1>"
+                    "<p>وضعیت اشتراک محلی تغییر نکرد. کمی بعد دوباره امتحان کن "
+                    "یا با مدیریت تماس بگیر.</p>",
+                )
 
     await subs.cancel(user_id=user_id)
     return _page(

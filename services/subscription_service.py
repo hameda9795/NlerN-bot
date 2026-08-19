@@ -61,6 +61,18 @@ async def get_subscription(*, user_id: int) -> Subscription | None:
         )
 
 
+async def get_subscription_by_mollie_id(
+    *, mollie_subscription_id: str
+) -> Subscription | None:
+    """Return the subscription identified by Mollie's subscription id."""
+    async with get_db_session() as session:
+        return await session.scalar(
+            select(Subscription).where(
+                Subscription.mollie_subscription_id == mollie_subscription_id
+            )
+        )
+
+
 async def has_active_subscription(*, user_id: int) -> bool:
     """Return True if the user currently has access (active and not expired)."""
     return is_active(await get_subscription(user_id=user_id))
@@ -185,6 +197,32 @@ async def record_payment(
         )
 
 
+async def payment_has_status(*, mollie_payment_id: str, status: str) -> bool:
+    """Return whether this exact terminal payment state was already processed."""
+    async with get_db_session() as session:
+        existing_status = await session.scalar(
+            select(Payment.status).where(
+                Payment.mollie_payment_id == mollie_payment_id
+            )
+        )
+        return existing_status == status
+
+
+async def get_pending_first_payment(*, user_id: int) -> Payment | None:
+    """Return the newest unfinished first payment for checkout reuse."""
+    async with get_db_session() as session:
+        return await session.scalar(
+            select(Payment)
+            .where(
+                Payment.user_id == user_id,
+                Payment.sequence_type == "first",
+                Payment.status.in_(("open", "pending")),
+            )
+            .order_by(Payment.created_at.desc())
+            .limit(1)
+        )
+
+
 async def list_payments(*, user_id: int, limit: int = 20) -> list[Payment]:
     """Return this user's most recent payments, newest first."""
     async with get_db_session() as session:
@@ -224,6 +262,26 @@ async def mark_past_due(*, user_id: int) -> None:
         )
         if sub is not None:
             sub.status = STATUS_PAST_DUE
+
+
+async def prepare_subscription_restart(*, user_id: int) -> None:
+    """Reset a confirmed-canceled past-due subscription for a fresh checkout.
+
+    The caller must cancel (or confirm cancellation of) the old remote Mollie
+    subscription before invoking this function. Clearing the old identifier
+    first without that guarantee could orphan a still-billable subscription.
+    """
+    async with get_db_session() as session:
+        sub = await session.scalar(
+            select(Subscription).where(Subscription.user_id == user_id)
+        )
+        if sub is None or sub.status != STATUS_PAST_DUE:
+            raise ValueError("Only a past-due subscription can be restarted.")
+        sub.status = STATUS_PENDING
+        sub.current_period_end = None
+        sub.mollie_subscription_id = None
+        sub.mollie_mandate_id = None
+        sub.canceled_at = None
 
 
 def build_checkout_url(user_id: int) -> str:

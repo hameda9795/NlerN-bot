@@ -1,9 +1,9 @@
 """In-bot admin dashboard: users, subscriptions, payments.
 
 Entered via /admin or the "🛠 داشبورد ادمین" menu button (both hidden from
-regular users — see ``utils/admin.py`` and ``keyboards/main_menu.py``). Every
-entry point re-checks ``is_admin`` directly, mirroring ``handlers/ai_chat.py``,
-so this whole router is unreachable for non-admins even via a direct command.
+regular users — see ``utils/admin.py`` and ``keyboards/main_menu.py``). A
+router-level filter requires both a configured admin id and a private chat for
+every message and callback; selected handlers retain redundant direct checks.
 
 List views (users / past-due / payments) load everything into an FSM-backed
 queue + index cursor and page through it — the same pattern
@@ -14,9 +14,12 @@ small enough that real DB-side pagination isn't needed yet.
 from __future__ import annotations
 
 import asyncio
+from collections.abc import Awaitable, Callable
 from datetime import datetime
+from typing import Any
 
-from aiogram import Bot, F, Router
+from aiogram import BaseMiddleware, Bot, F, Router
+from aiogram.enums import ChatType
 from aiogram.exceptions import TelegramAPIError
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
@@ -44,8 +47,41 @@ from keyboards.admin_keyboard import (
 from keyboards.main_menu import BTN_ADMIN
 from services import admin_service
 from services import broadcast_service as bc
+from services import mollie_client as mollie
 from services import subscription_service as subs
 from utils.admin import is_admin
+
+
+class AdminGuardMiddleware(BaseMiddleware):
+    """Protect admin events and acknowledge rejected callbacks immediately."""
+
+    async def __call__(
+        self,
+        handler: Callable[[Message | CallbackQuery, dict[str, Any]], Awaitable[Any]],
+        event: Message | CallbackQuery,
+        data: dict[str, Any],
+    ) -> Any:
+        chat = event.chat if isinstance(event, Message) else getattr(event.message, "chat", None)
+        allowed = bool(
+            event.from_user
+            and is_admin(event.from_user.id)
+            and chat is not None
+            and chat.type == ChatType.PRIVATE
+        )
+        if allowed:
+            return await handler(event, data)
+
+        if isinstance(event, CallbackQuery):
+            await event.answer(
+                "🔒 این بخش فقط برای مدیر و در گفت‌وگوی خصوصی قابل استفاده است.",
+                show_alert=True,
+            )
+        else:
+            await event.answer(
+                "🔒 این بخش فقط برای مدیر و در گفت‌وگوی خصوصی ربات در دسترسه."
+            )
+        return None
+
 
 router = Router(name="admin")
 
@@ -61,6 +97,11 @@ _pending_broadcast_tasks: set[asyncio.Task] = set()
 class AdminStates(StatesGroup):
     searching = State()
     broadcast_composing = State()
+
+
+_admin_guard = AdminGuardMiddleware()
+router.message.middleware(_admin_guard)
+router.callback_query.middleware(_admin_guard)
 
 
 def _fmt(dt: datetime | None) -> str:
@@ -516,6 +557,13 @@ async def admin_cancel_confirm(callback: CallbackQuery) -> None:
 @router.callback_query(F.data.startswith("admin:go:cxl:"))
 async def admin_cancel_go(callback: CallbackQuery) -> None:
     user_id = int(callback.data.split(":")[3])
-    await admin_service.cancel_subscription(user_id=user_id)
+    try:
+        await admin_service.cancel_subscription(user_id=user_id)
+    except mollie.MollieError:
+        await callback.answer(
+            "❌ لغو در Mollie تأیید نشد؛ وضعیت کاربر تغییر نکرد. دوباره امتحان کن.",
+            show_alert=True,
+        )
+        return
     await callback.answer("✅ لغو شد")
     await _show_profile(callback.message, user_id, edit=True)

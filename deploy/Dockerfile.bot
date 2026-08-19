@@ -1,4 +1,6 @@
 # Telegram bot (aiogram long-polling). No published ports — outbound only.
+# Required pre-start deploy step (using either image):
+#   python -m database.migrations
 FROM python:3.12-slim
 
 ENV PYTHONUNBUFFERED=1 \

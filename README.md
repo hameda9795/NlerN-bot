@@ -27,8 +27,8 @@ uv sync --extra dev
 # ۲) تنظیم متغیرهای محیطی
 cp .env.example .env   # سپس BOT_TOKEN و OPENAI_API_KEY را وارد کنید
 
-# ۳) ساخت جداول دیتابیس
-uv run python -c "import asyncio; from database.connection import init_db; asyncio.run(init_db())"
+# ۳) ساخت/مهاجرت دیتابیس (قبل از اجرای bot و webapp)
+uv run python -m database.migrations
 
 # ۴) پر کردن دیتابیس با داده‌ی اولیه
 uv run python scripts/seed_database.py
@@ -38,6 +38,11 @@ uv run python -m bot.main
 ```
 
 سپس در تلگرام به ربات `/start` بفرستید.
+
+در production نیز همین migration باید به‌عنوان یک مرحله‌ی مستقل deploy، پیش
+از start شدن هر دو کانتینر bot و web اجرا شود. اگر شناسه‌ی تکراری Mollie در
+داده‌های قدیمی وجود داشته باشد، migration با پیام واضح متوقف می‌شود تا داده‌ها
+پیش از ساخت unique index اصلاح شوند.
 
 ## امنیت
 

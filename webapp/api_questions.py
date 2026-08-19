@@ -1,13 +1,13 @@
-"""REST endpoints for the reusable question bank.
+"""Dormant REST endpoints for the reusable question bank.
 
-Mounted on the membership FastAPI app (the project's only HTTP surface). Two
-endpoints back the dynamic Q&A flow:
+When eventually mounted on the membership FastAPI app, two endpoints back the
+dynamic Q&A flow:
 
 * ``GET  /api/questions/next``   — next unseen approved question + its 4 options
 * ``POST /api/questions/answer`` — grade an answer, store it, update progress
 
-No AI and no question generation — the bank is a static, curated set imported
-via ``scripts/import_curated_questions.py``.
+This router is intentionally not mounted by ``webapp.main`` until a real
+consumer and Telegram WebApp ``initData`` authentication are implemented.
 """
 
 from __future__ import annotations

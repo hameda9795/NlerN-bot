@@ -158,7 +158,10 @@ async def record_answer(
     async with get_db_session() as session:
         question = await session.scalar(
             select(Question)
-            .where(Question.id == question_id)
+            .where(
+                Question.id == question_id,
+                Question.status == STATUS_APPROVED,
+            )
             .options(selectinload(Question.options))
         )
         if question is None:

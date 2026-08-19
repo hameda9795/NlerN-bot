@@ -3,14 +3,21 @@
 The bot's whole UI is Persian, so Western digits in the middle of a Persian
 sentence read as foreign. Every number the user sees should go through
 :func:`fa_digits`.
+
+The progress bar is built from **emoji** squares, not the geometric characters
+(``▰▱``, ``█░``) that look right in an editor. Telegram renders emoji with its
+own bundled font, while ordinary glyphs fall back to whatever the client has —
+and the geometric shapes came out as empty boxes, especially inside ``<code>``,
+whose monospace font lacks them. Emoji also mean the bar must never be wrapped
+in ``<code>``.
 """
 
 from __future__ import annotations
 
 _WESTERN_TO_FA = str.maketrans("0123456789%", "۰۱۲۳۴۵۶۷۸۹٪")
 
-_BAR_FILLED = "▰"
-_BAR_EMPTY = "▱"
+_BAR_FILLED = "🟩"
+_BAR_EMPTY = "⬜"
 
 
 def fa_digits(value: object) -> str:
@@ -18,8 +25,11 @@ def fa_digits(value: object) -> str:
     return str(value).translate(_WESTERN_TO_FA)
 
 
-def progress_bar(done: int, total: int, *, width: int = 10) -> str:
-    """A fixed-width bar such as ``▰▰▰▱▱▱▱▱▱▱``.
+def progress_bar(done: int, total: int, *, width: int = 5) -> str:
+    """A fixed-width emoji bar such as ``🟩🟩⬜⬜⬜``.
+
+    Emoji are wide, so the default is 5 cells: enough to read at a glance and
+    short enough to sit on one line next to Persian text.
 
     A started-but-tiny amount always shows at least one filled cell, so "1 of
     40" never looks identical to "not started"; likewise an unfinished amount

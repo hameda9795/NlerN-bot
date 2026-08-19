@@ -10,7 +10,7 @@ from __future__ import annotations
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from services.knm_service import KnmGroup, KnmOption
-from utils.fa_text import fa_digits, progress_bar
+from utils.fa_text import fa_digits
 
 # Circled letters keep the option key readable without the noise of "A)".
 _CIRCLED = {"A": "Ⓐ", "B": "Ⓑ", "C": "Ⓒ", "D": "Ⓓ"}
@@ -21,11 +21,18 @@ def option_marker(key: str) -> str:
 
 
 def _group_label(group: KnmGroup) -> str:
+    """One plain Persian phrase per button, led by a status emoji.
+
+    No progress bar here: a button is one cramped line, and mixing a
+    left-to-right bar into right-to-left text pushes the numbers to the wrong
+    end. The status emoji carries the same "where am I" signal at a glance.
+    """
     span = f"دسته {fa_digits(group.index + 1)}"
     if group.is_finished:
-        return f"✅ {span} · {fa_digits(group.correct)}/{fa_digits(group.total)} درست"
-    bar = progress_bar(group.answered, group.total)
-    return f"{span} {bar} {fa_digits(group.answered)}/{fa_digits(group.total)}"
+        return f"✅ {span} — {fa_digits(group.correct)} از {fa_digits(group.total)} درست"
+    if group.is_untouched:
+        return f"⚪️ {span} — {fa_digits(group.total)} سؤال"
+    return f"🔵 {span} — {fa_digits(group.answered)} از {fa_digits(group.total)}"
 
 
 def groups_keyboard(groups: list[KnmGroup]) -> InlineKeyboardMarkup:

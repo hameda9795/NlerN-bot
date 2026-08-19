@@ -56,10 +56,12 @@ class KnmStates(StatesGroup):
 def _header(view: knm.KnmQuestionView) -> str:
     """Title, progress bar and position — the two lines every screen opens with."""
     bar = progress_bar(view.index_in_group - 1, view.group_total)
+    # The bar sits on its own line: emoji run left-to-right, and inlining them
+    # with Persian text drags the numbers to the wrong end of the line.
     return (
         f"{_HOME_TITLE} · دسته {fa_digits(view.group + 1)}\n"
-        f"<code>{bar}</code>  سؤال {fa_digits(view.index_in_group)}"
-        f" از {fa_digits(view.group_total)}"
+        f"{bar}\n"
+        f"سؤال {fa_digits(view.index_in_group)} از {fa_digits(view.group_total)}"
     )
 
 
@@ -86,7 +88,7 @@ async def _show_groups(message: Message, state: FSMContext, *, user_id: int, edi
         correct = sum(group.correct for group in groups)
         lines = [
             _HOME_TITLE,
-            f"<code>{progress_bar(answered, total, width=14)}</code>",
+            progress_bar(answered, total),
             "",
             f"{fa_digits(total)} سؤال · {fa_digits(len(groups))} دسته",
         ]
@@ -124,7 +126,7 @@ async def _serve_question(
         percent = round(summary.correct * 100 / summary.total) if summary.total else 0
         await message.edit_text(
             f"🎉 <b>دسته {fa_digits(group + 1)} تمام شد</b>\n"
-            f"<code>{progress_bar(summary.correct, summary.total, width=14)}</code>\n\n"
+            f"{progress_bar(summary.correct, summary.total)}\n\n"
             f"{fa_digits(summary.correct)} از {fa_digits(summary.total)} درست"
             f" ({fa_digits(percent)}٪)",
             reply_markup=group_finished_keyboard(group),

@@ -123,10 +123,10 @@ async def test_menu_button_lists_every_group_with_progress(seeded):
     assert len(sent) == 1
     rows = sent[0].reply_markup.inline_keyboard
     assert [row[0].callback_data for row in rows] == ["knm:grp:0", "knm:grp:1"]
-    # Persian digits, and each row carries its own progress bar.
-    assert "دسته ۱" in rows[0][0].text
-    assert "۰/۴۰" in rows[0][0].text
-    assert "▱" in rows[0][0].text
+    # A status emoji plus one plain Persian phrase — no bar inside a button,
+    # where a left-to-right bar would push the numbers to the wrong end.
+    assert rows[0][0].text == "⚪️ دسته ۱ — ۴۰ سؤال"
+    assert rows[1][0].text == "⚪️ دسته ۲ — ۵ سؤال"  # the short trailing group
     assert "هنوز شروع نکرده‌ای" in sent[0].text
 
 
@@ -225,7 +225,7 @@ async def test_finishing_a_group_shows_the_score(seeded, session_factory):
     edit = _calls(bot, EditMessageText)[-1]
     assert "🎉 <b>دسته ۲ تمام شد</b>" in edit.text
     assert "۵ از ۵ درست (۱۰۰٪)" in edit.text
-    assert "▰▰▰▰▰▰▰▰▰▰▰▰▰▰" in edit.text  # a full bar at 100%
+    assert "🟩🟩🟩🟩🟩" in edit.text  # a full bar at 100%
     assert edit.reply_markup.inline_keyboard[0][0].callback_data == "knm:reset:1"
     assert await state.get_state() is None
 
@@ -335,3 +335,60 @@ async def test_no_western_digits_reach_the_user(seeded):
         chrome = re.sub(r"<blockquote.*?</blockquote>", "", text, flags=re.S)
         chrome = re.sub(r"Vraag \d+\?", "", chrome)
         assert not re.search(r"[0-9]", chrome), f"western digits in: {chrome!r}"
+
+
+@pytest.mark.asyncio
+async def test_group_buttons_show_all_three_states(seeded):
+    """Untouched / in-progress / finished must be tellable apart at a glance."""
+    bot = _mocked_bot()
+    state = _fresh_state()
+    message = _make_message("")
+    # Answer one question in group 1 (5 questions), leaving group 0 untouched.
+    await _dispatch(knm_router, state, _make_callback("knm:grp:1", message), bot=bot, user=seeded)
+    await _dispatch(knm_router, state, _make_callback("knm:ans:B", message), bot=bot, user=seeded)
+    await _dispatch(knm_router, state, _make_callback("knm:home", message), bot=bot, user=seeded)
+
+    rows = _calls(bot, EditMessageText)[-1].reply_markup.inline_keyboard
+    assert rows[0][0].text == "⚪️ دسته ۱ — ۴۰ سؤال"
+    assert rows[1][0].text == "🔵 دسته ۲ — ۱ از ۵"
+
+    # Finish group 1 and it flips to the finished label.
+    for _ in range(4):
+        await _dispatch(
+            knm_router, state, _make_callback("knm:grp:1", message), bot=bot, user=seeded
+        )
+        await _dispatch(
+            knm_router, state, _make_callback("knm:ans:B", message), bot=bot, user=seeded
+        )
+    await _dispatch(knm_router, state, _make_callback("knm:home", message), bot=bot, user=seeded)
+
+    rows = _calls(bot, EditMessageText)[-1].reply_markup.inline_keyboard
+    assert rows[1][0].text == "✅ دسته ۲ — ۵ از ۵ درست"
+
+
+@pytest.mark.asyncio
+async def test_no_unrenderable_glyphs_reach_the_user(seeded):
+    """Block/geometric characters show as empty boxes on Telegram — ban them."""
+    import re
+
+    bot = _mocked_bot()
+    state = _fresh_state()
+    message = _make_message("")
+    await _dispatch(knm_router, _fresh_state(), _make_message(BTN_KNM), bot=bot, user=seeded)
+    await _dispatch(knm_router, state, _make_callback("knm:grp:1", message), bot=bot, user=seeded)
+    await _dispatch(knm_router, state, _make_callback("knm:ans:B", message), bot=bot, user=seeded)
+
+    calls = _calls(bot, SendMessage) + _calls(bot, EditMessageText)
+    texts = [call.text for call in calls]
+    texts += [
+        button.text
+        for call in calls
+        if call.reply_markup is not None
+        for row in call.reply_markup.inline_keyboard
+        for button in row
+    ]
+    # Block Elements (U+2580–259F) and Geometric Shapes (U+25A0–25FF) fall back
+    # to the client's own font. A trailing U+FE0F forces emoji presentation, so
+    # "◀️" is safe while a bare "▰" is not.
+    for text in texts:
+        assert not re.search(r"[▀-▟■-◿](?!️)", text), f"tofu risk in: {text!r}"

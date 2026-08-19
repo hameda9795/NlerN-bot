@@ -1,20 +1,31 @@
-"""Inline keyboards for the KNM exam flow."""
+"""Inline keyboards for the KNM exam flow.
+
+Answer buttons carry the option's full Dutch text, one option per row: Telegram
+wraps a long single-button label across lines, so the option list lives on the
+buttons and never has to be repeated in the message body.
+"""
 
 from __future__ import annotations
 
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from services.knm_service import KnmGroup
+from services.knm_service import KnmGroup, KnmOption
+from utils.fa_text import fa_digits, progress_bar
+
+# Circled letters keep the option key readable without the noise of "A)".
+_CIRCLED = {"A": "Ⓐ", "B": "Ⓑ", "C": "Ⓒ", "D": "Ⓓ"}
+
+
+def option_marker(key: str) -> str:
+    return _CIRCLED.get(key, key)
 
 
 def _group_label(group: KnmGroup) -> str:
-    """One row per group, carrying its own progress so the menu needs no legend."""
-    span = f"دسته {group.index + 1} · {group.first_number}–{group.last_number}"
+    span = f"دسته {fa_digits(group.index + 1)}"
     if group.is_finished:
-        return f"✅ {span} — تمام ({group.correct}/{group.total} درست)"
-    if group.is_untouched:
-        return f"{span} — شروع نشده"
-    return f"▶️ {span} — {group.answered}/{group.total}"
+        return f"✅ {span} · {fa_digits(group.correct)}/{fa_digits(group.total)} درست"
+    bar = progress_bar(group.answered, group.total)
+    return f"{span} {bar} {fa_digits(group.answered)}/{fa_digits(group.total)}"
 
 
 def groups_keyboard(groups: list[KnmGroup]) -> InlineKeyboardMarkup:
@@ -30,23 +41,25 @@ def groups_keyboard(groups: list[KnmGroup]) -> InlineKeyboardMarkup:
     )
 
 
-def answer_keyboard(option_keys: list[str]) -> InlineKeyboardMarkup:
-    """One button per option — however many the question has — then an exit."""
-    return InlineKeyboardMarkup(
-        inline_keyboard=[
-            [
-                InlineKeyboardButton(text=key, callback_data=f"knm:ans:{key}")
-                for key in option_keys
-            ],
-            [InlineKeyboardButton(text="⏹ پایان", callback_data="knm:stop")],
+def answer_keyboard(options: list[KnmOption]) -> InlineKeyboardMarkup:
+    """One full-width button per option, carrying its own text."""
+    rows = [
+        [
+            InlineKeyboardButton(
+                text=f"{option_marker(option.key)}  {option.text_nl}",
+                callback_data=f"knm:ans:{option.key}",
+            )
         ]
-    )
+        for option in options
+    ]
+    rows.append([InlineKeyboardButton(text="⏹ پایان", callback_data="knm:stop")])
+    return InlineKeyboardMarkup(inline_keyboard=rows)
 
 
 def after_answer_keyboard() -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(
         inline_keyboard=[
-            [InlineKeyboardButton(text="▶️ سؤال بعدی", callback_data="knm:next")],
+            [InlineKeyboardButton(text="سؤال بعدی ◀️", callback_data="knm:next")],
             [
                 InlineKeyboardButton(text="📋 دسته‌ها", callback_data="knm:home"),
                 InlineKeyboardButton(text="⏹ پایان", callback_data="knm:stop"),

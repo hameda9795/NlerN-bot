@@ -1,9 +1,17 @@
 """KNM inburgering exam: pick a group, answer, see the Persian explanation.
 
-Mirrors ``handlers/exam.py``'s shape (question rendered into the message, one
-inline button per option, feedback appended under the question) but reads the
-standalone ``knm`` table instead of the shared question bank, and resumes each
-group where the user left off — see ``services/knm_service.py``.
+Reads the standalone ``knm`` table (not the shared question bank) and resumes
+each group where the user left off — see ``services/knm_service.py``.
+
+This screen is mostly presentation, so the rules it follows are worth stating:
+
+* the options live on the buttons, each carrying its full Dutch text — Telegram
+  wraps a long single-button label, so the message body never repeats them;
+* the Dutch question sits in a ``<blockquote>``, which separates it from the
+  Persian chrome without shouting in bold;
+* the explanation goes in an **expandable** blockquote, so the verdict stays
+  visible and the detail is one tap away instead of a wall of text;
+* every number the user sees is rendered with Persian digits.
 
 Explanations are shown in Persian; the English set the dataset carries is kept
 in the database but not rendered here.
@@ -18,6 +26,7 @@ from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import CallbackQuery, Message
+from aiogram.utils.text_decorations import html_decoration as html
 
 from database.models import User
 from keyboards.knm_keyboard import (
@@ -26,10 +35,12 @@ from keyboards.knm_keyboard import (
     back_to_groups_keyboard,
     group_finished_keyboard,
     groups_keyboard,
+    option_marker,
     reset_confirm_keyboard,
 )
 from keyboards.main_menu import BTN_KNM, get_main_menu_keyboard
 from services import knm_service as knm
+from utils.fa_text import fa_digits, progress_bar
 
 logger = logging.getLogger(__name__)
 
@@ -42,12 +53,22 @@ class KnmStates(StatesGroup):
     answering = State()
 
 
-def _format_question(view: knm.KnmQuestionView) -> str:
-    options = "\n".join(f"{option.key}) {option.text_nl}" for option in view.options)
+def _header(view: knm.KnmQuestionView) -> str:
+    """Title, progress bar and position — the two lines every screen opens with."""
+    bar = progress_bar(view.index_in_group - 1, view.group_total)
     return (
-        f"{_HOME_TITLE} — دسته {view.group + 1} · "
-        f"سؤال {view.index_in_group} از {view.group_total}\n\n"
-        f"🇳🇱 <b>{view.question_text_nl}</b>\n\n{options}"
+        f"{_HOME_TITLE} · دسته {fa_digits(view.group + 1)}\n"
+        f"<code>{bar}</code>  سؤال {fa_digits(view.index_in_group)}"
+        f" از {fa_digits(view.group_total)}"
+    )
+
+
+def _format_question(view: knm.KnmQuestionView) -> str:
+    """The question screen. The options are on the buttons, not repeated here."""
+    return (
+        f"{_header(view)}\n\n"
+        f"<blockquote>{html.quote(view.question_text_nl)}</blockquote>\n\n"
+        "👇 جواب درست را انتخاب کن"
     )
 
 
@@ -62,10 +83,22 @@ async def _show_groups(message: Message, state: FSMContext, *, user_id: int, edi
     else:
         total = sum(group.total for group in groups)
         answered = sum(group.answered for group in groups)
-        text = (
-            f"{_HOME_TITLE}\n\n{total} سؤال در {len(groups)} دسته — "
-            f"تا حالا {answered} سؤال جواب داده‌ای.\n\nیک دسته را انتخاب کن:"
-        )
+        correct = sum(group.correct for group in groups)
+        lines = [
+            _HOME_TITLE,
+            f"<code>{progress_bar(answered, total, width=14)}</code>",
+            "",
+            f"{fa_digits(total)} سؤال · {fa_digits(len(groups))} دسته",
+        ]
+        if answered:
+            share = round(correct * 100 / answered)
+            lines.append(
+                f"جواب داده‌ای: {fa_digits(answered)} — "
+                f"{fa_digits(correct)} درست ({fa_digits(share)}٪)"
+            )
+        else:
+            lines.append("هنوز شروع نکرده‌ای — از دسته‌ی ۱ شروع کن.")
+        text = "\n".join(lines)
         keyboard = groups_keyboard(groups)
     if edit:
         await message.edit_text(text, reply_markup=keyboard)
@@ -90,8 +123,10 @@ async def _serve_question(
         await state.clear()
         percent = round(summary.correct * 100 / summary.total) if summary.total else 0
         await message.edit_text(
-            f"🎉 <b>دسته {group + 1} تمام شد!</b>\n\n"
-            f"{summary.correct} از {summary.total} درست ({percent}٪)",
+            f"🎉 <b>دسته {fa_digits(group + 1)} تمام شد</b>\n"
+            f"<code>{progress_bar(summary.correct, summary.total, width=14)}</code>\n\n"
+            f"{fa_digits(summary.correct)} از {fa_digits(summary.total)} درست"
+            f" ({fa_digits(percent)}٪)",
             reply_markup=group_finished_keyboard(group),
         )
         return
@@ -100,10 +135,11 @@ async def _serve_question(
     await state.set_data({
         "group": group,
         "knm_id": view.id,
-        "text": _format_question(view),
+        "header": _header(view),
+        "question": view.question_text_nl,
         "options": {option.key: option.text_nl for option in view.options},
     })
-    keyboard = answer_keyboard([option.key for option in view.options])
+    keyboard = answer_keyboard(view.options)
     if edit:
         await message.edit_text(_format_question(view), reply_markup=keyboard)
     else:
@@ -166,26 +202,54 @@ async def knm_answer(callback: CallbackQuery, state: FSMContext, user: User | No
         await callback.answer("سؤال پیدا نشد", show_alert=True)
         return
 
-    if result.is_correct:
-        head = "✅ <b>درست!</b>"
-    else:
-        head = (
-            "❌ <b>اشتباه بود.</b>\nپاسخ درست: "
-            f"<b>{result.correct_option_key}) {result.correct_option_text}</b>"
-        )
-    parts = [head]
-    if result.feedback_fa:
-        parts.append(result.feedback_fa)
-    if result.explanation_fa:
-        parts.append(f"💡 {result.explanation_fa}")
-    if result.key_terms_fa:
-        parts.append(f"📖 {result.key_terms_fa}")
-
     await callback.message.edit_text(
-        f"{data['text']}\n\n➖➖➖➖➖\n\n" + "\n\n".join(parts),
+        _format_answer(data, result=result, chosen=chosen),
         reply_markup=after_answer_keyboard(),
     )
-    await callback.answer("✅" if result.is_correct else "❌")
+    await callback.answer("✅ درست" if result.is_correct else "❌ اشتباه")
+
+
+def _format_answer(
+    data: dict, *, result: knm.KnmAnswerResult, chosen: str
+) -> str:
+    """The feedback screen: verdict up top, detail folded into an expandable quote."""
+    options: dict[str, str] = data.get("options", {})
+    correct_line = (
+        f"{option_marker(result.correct_option_key)} "
+        f"{html.quote(result.correct_option_text)}"
+    )
+    if result.is_correct:
+        verdict = f"✅ <b>درست!</b>  {correct_line}"
+    else:
+        picked = options.get(chosen, "")
+        verdict = (
+            f"❌ <b>اشتباه</b>  <s>{option_marker(chosen)} {html.quote(picked)}</s>\n"
+            f"✅ پاسخ درست: <b>{correct_line}</b>"
+        )
+
+    detail: list[str] = []
+    if result.explanation_fa:
+        detail.append(html.quote(result.explanation_fa))
+    if result.key_terms_fa:
+        detail.append(f"📖 <b>واژه‌های کلیدی</b>\n{html.quote(result.key_terms_fa)}")
+
+    blocks = [
+        data.get("header", _HOME_TITLE),
+        "",
+        f"<blockquote>{html.quote(data.get('question', ''))}</blockquote>",
+        "",
+        verdict,
+    ]
+    if result.feedback_fa:
+        blocks.append(f"\n<blockquote>{html.quote(result.feedback_fa)}</blockquote>")
+    if detail:
+        # Expandable: the verdict stays on screen, the reasoning is one tap away.
+        blocks.append(
+            "\n<blockquote expandable>💡 <b>توضیح بیشتر</b>\n"
+            + "\n\n".join(detail)
+            + "</blockquote>"
+        )
+    return "\n".join(blocks)
 
 
 @router.callback_query(F.data.startswith("knm:reset:go:"))
